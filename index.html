@@ -207,6 +207,12 @@
     white-space: nowrap;
   }
   .btn-post:hover { background: #4338ca; }
+  .btn-post-profile {
+    background: #f3f4f6;
+    color: #6b7280;
+    border: 1px solid #e5e7eb;
+  }
+  .btn-post-profile:hover { background: #e5e7eb; }
 
   .chip { display: inline-block; background: #ede9fe; color: #4f46e5; border-radius: 20px; padding: 2px 9px; font-size: 11px; font-weight: 500; margin: 1px 2px 1px 0; }
   .chip-type { display: inline-block; background: #f3f4f6; color: #4b5563; border-radius: 20px; padding: 2px 9px; font-size: 11px; margin: 1px 2px 1px 0; }
@@ -634,6 +640,13 @@ function amenitiesHtml(list) {
   if (!list || !list.length) return '—';
   return '<div class="amenities">' + list.map(a => `<span class="amenity">${esc(a.replace(/_/g,' '))}</span>`).join('') + '</div>';
 }
+function postLinkHtml(url, group) {
+  if (!url) return '<td>—</td>';
+  const isProfile = url.includes('/user/');
+  const cls = isProfile ? 'btn-post btn-post-profile' : 'btn-post';
+  const label = isProfile ? 'Profile →' : 'View →';
+  return `<td><a class="${cls}" href="${esc(url)}" target="_blank" rel="noopener" title="${esc(group||'')}">${label}</a></td>`;
+}
 
 const DURATION_MAP = { short_term:'tag-short', long_term:'tag-long' };
 const TYPE_MAP = { sublease:'tag-sublease', lease_takeover:'tag-lease_takeover', room_rental:'tag-room_rental', entire_unit:'tag-entire_unit' };
@@ -712,7 +725,7 @@ function renderListings() {
       <td>${furnStr}</td>
       <td>${amenitiesHtml(p.amenities)}</td>
       <td>${statusCellHtml(p.listing_id)}</td>
-      <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener" title="${esc(p.source_group||'')}">View →</a></td>
+      ${postLinkHtml(p.post_url, p.source_group)}
     </tr>`;
   }).join('');
 
@@ -803,7 +816,7 @@ function renderSeekers() {
       <td style="text-align:center;color:#666">${p.age??'—'}</td>
       <td style="text-align:center;color:#666">${esc(groupStr)}</td>
       <td>${statusCellHtml(p.listing_id)}</td>
-      <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener" title="${esc(p.source_group||'')}">View →</a></td>
+      ${postLinkHtml(p.post_url, p.source_group)}
     </tr>`;
   }).join('');
 }
@@ -836,7 +849,7 @@ function renderSpam(posts) {
       <div class="card-text collapsed" id="spam-text-${i}">${esc(p.text||'')}</div>
       <div style="display:flex;justify-content:space-between;align-items:center">
         <button class="card-expand" onclick="toggleSpam(${i})">Show more</button>
-        <a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a>
+        <a class="${p.post_url?.includes('/user/') ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(p.post_url)}" target="_blank" rel="noopener">${p.post_url?.includes('/user/') ? 'Profile →' : 'View →'}</a>
       </div>
     </div>`).join('');
 }
