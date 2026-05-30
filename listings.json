@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-30T09:22:07.297018",
+  "updated_at": "2026-05-30T10:36:41.493420",
   "count": 72,
   "posts": [
     {
@@ -249,7 +249,7 @@
       "available_until": "2026-12-05",
       "unit_config": "studio",
       "room_type": "entire_unit",
-      "is_furnished": true,
+      "is_furnished": null,
       "roommates_count": 0,
       "amenities": [
         "in_unit_laundry",
@@ -380,7 +380,7 @@
       "neighborhood": "Inner Sunset",
       "available_from": null,
       "available_until": null,
-      "unit_config": "unknown",
+      "unit_config": null,
       "room_type": "private_room",
       "is_furnished": null,
       "roommates_count": 3,
@@ -391,7 +391,7 @@
       ],
       "utilities_included": false,
       "pets_allowed": false,
-      "gender_preference": "any",
+      "gender_preference": "LGBTQ+ friendly",
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4596797380555266/?__cft__[0]=AZb-2MdPkwHZv8Nnzod-OdXoW5slpQ_DsQM099URW9k6x9OTQdgAkaucAsa3V7o17eKhmqdIy-lAr4mvV0GuAm8nP91aL-tsk79nm32ZcNhhO1gKcHmgn46zavisWJRCgvBiiZfZjur2WsrDpRg1n0EefgbdFcCbSvatkun1QBvcsEh4Eot_gULuxdPn9xGI-sDMWMvC9Z_-2n7WbiA77ucP&__tn__=%2CO%2CP-R",
       "posted_at": "Tuesday 26 May 2026 at 21:15",
@@ -436,9 +436,7 @@
       "is_furnished": null,
       "roommates_count": 1,
       "amenities": [
-        "parking",
-        "courtyard",
-        "common_room",
+        "in_unit_laundry",
         "rooftop",
         "bike_storage",
         "grills"
@@ -520,8 +518,8 @@
       "roommates_count": null,
       "amenities": [
         "wifi",
-        "backyard",
-        "patio"
+        "patio",
+        "backyard"
       ],
       "utilities_included": true,
       "pets_allowed": null,
@@ -548,7 +546,10 @@
         "in_unit_laundry",
         "gas_stove",
         "central_ac",
-        "parking"
+        "bathtub",
+        "package_lockers",
+        "bike_storage",
+        "furnished"
       ],
       "utilities_included": null,
       "pets_allowed": null,
@@ -678,9 +679,11 @@
       "roommates_count": 2,
       "amenities": [
         "in_unit_laundry",
+        "street_parking",
         "backyard",
         "BBQ",
-        "garden"
+        "garden",
+        "hammock"
       ],
       "utilities_included": false,
       "pets_allowed": false,
@@ -826,7 +829,7 @@
       "rent": 1475,
       "neighborhood": "Hayes Valley",
       "available_from": "2026-07-01",
-      "available_until": "2027-07-01",
+      "available_until": null,
       "unit_config": "2B1B",
       "room_type": "private_room",
       "is_furnished": null,
@@ -834,11 +837,13 @@
       "amenities": [
         "in_unit_laundry",
         "storage",
-        "hardwood_floors"
+        "hardwood_floors",
+        "stainless_steel_appliances",
+        "quiet_building"
       ],
       "utilities_included": true,
       "pets_allowed": false,
-      "gender_preference": "male only",
+      "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26972332332424066/?__cft__[0]=AZbGm9I52PCFBP_tLdSycbQ2W_Jtals-b66pBGMopy8ZaON-vh42fYJ5YnvlhP1EMlCUqsVSQCq1O9fTra4hvJdTQ9pAmaLnA0NrTegYsouNU3sN3xzRMlg4NHBEfnhcc_2SLgENZ4kIKXKATq8brmHKqMEJTEIKPK_DPqJ2hUcZX7UwAapAmuTBmvmOINXWbILRVeZGjjKB8H-LwJNDsMmk&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 29 May 2026 at 08:11",
@@ -1030,8 +1035,8 @@
       "roommates_count": 0,
       "amenities": [
         "in_unit_laundry",
+        "wifi",
         "furnished",
-        "high_speed_internet",
         "smart_tv"
       ],
       "utilities_included": null,
@@ -1147,7 +1152,7 @@
       "listing_id": "26926729126984387",
       "post_type": "listing",
       "listing_type": "sublease",
-      "duration_type": "long_term",
+      "duration_type": "short_term",
       "rent": null,
       "neighborhood": "Berkeley",
       "available_from": null,
@@ -1503,7 +1508,7 @@
       "rent": 1514,
       "neighborhood": "Ingleside Heights",
       "available_from": "2026-07-01",
-      "available_until": null,
+      "available_until": "2026-07-05",
       "unit_config": "3B2B",
       "room_type": "private_room",
       "is_furnished": null,
@@ -1586,7 +1591,7 @@
       "is_furnished": null,
       "roommates_count": 1,
       "amenities": [
-        "shared_bathroom"
+        "in_unit_laundry"
       ],
       "utilities_included": true,
       "pets_allowed": null,
@@ -1661,9 +1666,10 @@
       "amenities": [
         "in_unit_laundry",
         "parking",
-        "gym",
-        "pool",
         "tennis_court",
+        "spa",
+        "pool",
+        "pickleball",
         "outdoor_deck"
       ],
       "utilities_included": null,
@@ -1759,7 +1765,7 @@
       "listing_type": "entire_unit",
       "duration_type": "long_term",
       "rent": 350,
-      "neighborhood": "Turk St between Franklin and Gough",
+      "neighborhood": "Tenderloin",
       "available_from": "2026-06-01",
       "available_until": null,
       "unit_config": null,
