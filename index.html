@@ -10,21 +10,21 @@
 
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background: #f5f5f5;
+    background: #f7f6f3;
     color: #1a1a1a;
     font-size: 14px;
   }
 
   header {
     background: #fff;
-    border-bottom: 1px solid #e0e0e0;
-    padding: 16px 24px;
+    border-bottom: 1px solid #e8e8e4;
+    padding: 14px 24px;
     display: flex;
     align-items: center;
     gap: 12px;
   }
-  header h1 { font-size: 20px; font-weight: 700; }
-  header .updated { color: #888; font-size: 12px; }
+  header h1 { font-size: 17px; font-weight: 700; letter-spacing: -0.3px; }
+  header .updated { color: #999; font-size: 12px; }
   header .spacer { flex: 1; }
 
   /* Auth button */
@@ -39,7 +39,7 @@
     color: #333;
     white-space: nowrap;
   }
-  #auth-btn:hover { background: #f5f5f5; }
+  #auth-btn:hover { background: #f7f6f3; }
   #user-menu { position: relative; display: flex; align-items: center; gap: 10px; }
   #user-email { font-size: 12px; color: #666; }
   #signout-btn { font-size: 12px; color: #888; cursor: pointer; text-decoration: underline; border: none; background: none; padding: 0; }
@@ -61,7 +61,7 @@
     user-select: none;
   }
   .tab:hover { color: #1a1a1a; }
-  .tab.active { color: #1877f2; border-bottom-color: #1877f2; }
+  .tab.active { color: #4f46e5; border-bottom-color: #4f46e5; }
   .tab .badge {
     background: #e8e8e8;
     border-radius: 10px;
@@ -70,28 +70,28 @@
     margin-left: 6px;
     color: #555;
   }
-  .tab.active .badge { background: #e7f0ff; color: #1877f2; }
+  .tab.active .badge { background: #ede9fe; color: #4f46e5; }
 
   /* Filters */
   .filters {
     background: #fff;
-    border-bottom: 1px solid #e0e0e0;
-    padding: 12px 24px;
+    border-bottom: 1px solid #e8e8e4;
+    padding: 10px 24px;
     display: flex;
     gap: 12px;
     flex-wrap: wrap;
     align-items: center;
   }
-  .filters label { display: flex; flex-direction: column; gap: 3px; font-size: 11px; color: #888; font-weight: 500; text-transform: uppercase; letter-spacing: 0.4px; }
+  .filters label { display: flex; flex-direction: column; gap: 3px; font-size: 10px; color: #999; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
   .filters input, .filters select {
-    border: 1px solid #d0d0d0;
+    border: 1px solid #e0e0e0;
     border-radius: 6px;
-    padding: 6px 10px;
+    padding: 5px 10px;
     font-size: 13px;
     outline: none;
-    background: #fafafa;
+    background: #fff;
   }
-  .filters input:focus, .filters select:focus { border-color: #1877f2; background: #fff; }
+  .filters input:focus, .filters select:focus { border-color: #4f46e5; }
   .filters input[type=number] { width: 100px; }
   .filters input[type=text] { width: 160px; }
   .filters input[type=checkbox] { width: 16px; height: 16px; margin-top: 4px; cursor: pointer; }
@@ -111,7 +111,21 @@
   .content { padding: 20px 24px; }
 
   /* Table */
-  .table-wrap { overflow-x: auto; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+  .table-wrap {
+    overflow-x: auto;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.08);
+    position: relative;
+  }
+  /* Fade on right edge when table overflows — added via JS .has-overflow class */
+  .table-wrap.has-overflow {
+    -webkit-mask-image: linear-gradient(to right, black calc(100% - 48px), transparent 100%);
+    mask-image: linear-gradient(to right, black calc(100% - 48px), transparent 100%);
+  }
+  .table-wrap.has-overflow.scrolled-right {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
   table { width: 100%; border-collapse: collapse; background: #fff; }
   th {
     background: #f8f8f8;
@@ -128,8 +142,8 @@
     border-bottom: 1px solid #e8e8e8;
   }
   th:hover { background: #f0f0f0; color: #1a1a1a; }
-  th.sorted-asc::after { content: " ↑"; color: #1877f2; }
-  th.sorted-desc::after { content: " ↓"; color: #1877f2; }
+  th.sorted-asc::after { content: " ↑"; color: #4f46e5; }
+  th.sorted-desc::after { content: " ↓"; color: #4f46e5; }
   td {
     padding: 10px 14px;
     border-bottom: 1px solid #f0f0f0;
@@ -140,39 +154,48 @@
   tr.bookmarked td { background: #fffbeb; }
   tr.bookmarked:hover td { background: #fff8d6; }
 
-  .rent { font-weight: 700; font-size: 15px; }
-  .rent-null { color: #aaa; font-weight: normal; font-size: 13px; }
+  /* Column min-widths so content doesn't crush before scrolling kicks in */
+  #listings-table td:nth-child(1), #seekers-table td:nth-child(1) { min-width: 72px; }   /* Posted */
+  #listings-table td:nth-child(2), #seekers-table td:nth-child(3) { min-width: 80px; }   /* Rent/Budget */
+  #listings-table td:nth-child(3)  { min-width: 120px; }  /* Location */
+  #listings-table td:nth-child(4)  { min-width: 90px; }   /* Available */
+  #listings-table td:nth-child(8)  { max-width: 200px; }  /* Amenities */
+  #seekers-table td:nth-child(6)   { min-width: 120px; }  /* Neighborhoods */
+  #seekers-table td:nth-child(8)   { min-width: 180px; max-width: 240px; }  /* Bio */
+
+  .rent { font-weight: 700; font-size: 17px; letter-spacing: -0.5px; color: #111; }
+  .rent-null { color: #bbb; font-weight: normal; font-size: 13px; }
 
   /* Listing type tags */
   .tag {
     display: inline-block;
-    padding: 2px 8px;
-    border-radius: 10px;
+    padding: 3px 9px;
+    border-radius: 20px;
     font-size: 11px;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.3px;
   }
-  .tag-short           { background: #fff3cd; color: #856404; }
-  .tag-long            { background: #d1e7dd; color: #0a5c36; }
-  .tag-sublease        { background: #e2e3f7; color: #343a7a; }
-  .tag-lease_takeover  { background: #fde8d0; color: #7a3600; }
-  .tag-room_rental     { background: #d4edda; color: #155724; }
-  .tag-entire_unit     { background: #d0e8f7; color: #0d4a7a; }
-  .tag-internship      { background: #fce4ec; color: #880e4f; }
-  .tag-student         { background: #e8f5e9; color: #1b5e20; }
-  .tag-new_job         { background: #e3f2fd; color: #0d47a1; }
-  .tag-rotation        { background: #f3e5f5; color: #4a148c; }
-  .tag-relocation      { background: #fff8e1; color: #f57f17; }
-  .tag-other           { background: #f5f5f5; color: #555; }
+  .tag-short           { background: #fef9c3; color: #854d0e; }
+  .tag-long            { background: #dcfce7; color: #166534; }
+  .tag-sublease        { background: #ede9fe; color: #4c1d95; }
+  .tag-lease_takeover  { background: #ffedd5; color: #9a3412; }
+  .tag-room_rental     { background: #d1fae5; color: #065f46; }
+  .tag-entire_unit     { background: #dbeafe; color: #1e3a8a; }
+  .tag-internship      { background: #fce7f3; color: #9d174d; }
+  .tag-student         { background: #ecfdf5; color: #065f46; }
+  .tag-new_job         { background: #eff6ff; color: #1e40af; }
+  .tag-rotation        { background: #f5f3ff; color: #5b21b6; }
+  .tag-relocation      { background: #fffbeb; color: #92400e; }
+  .tag-other           { background: #f3f4f6; color: #4b5563; }
 
   .amenities { display: flex; flex-wrap: wrap; gap: 4px; }
-  .amenity { background: #f0f0f0; border-radius: 4px; padding: 2px 7px; font-size: 11px; color: #555; }
+  .amenity { background: #f3f4f6; border-radius: 20px; padding: 2px 8px; font-size: 11px; color: #555; }
 
   .btn-post {
     display: inline-block;
     padding: 5px 12px;
-    background: #1877f2;
+    background: #4f46e5;
     color: #fff;
     border-radius: 6px;
     text-decoration: none;
@@ -180,10 +203,10 @@
     font-weight: 600;
     white-space: nowrap;
   }
-  .btn-post:hover { background: #1560c0; }
+  .btn-post:hover { background: #4338ca; }
 
-  .chip { display: inline-block; background: #eef2ff; color: #3b4ecc; border-radius: 10px; padding: 2px 8px; font-size: 11px; font-weight: 500; margin: 1px 2px 1px 0; }
-  .chip-type { display: inline-block; background: #f0f0f0; color: #555; border-radius: 10px; padding: 2px 8px; font-size: 11px; margin: 1px 2px 1px 0; }
+  .chip { display: inline-block; background: #ede9fe; color: #4f46e5; border-radius: 20px; padding: 2px 9px; font-size: 11px; font-weight: 500; margin: 1px 2px 1px 0; }
+  .chip-type { display: inline-block; background: #f3f4f6; color: #4b5563; border-radius: 20px; padding: 2px 9px; font-size: 11px; margin: 1px 2px 1px 0; }
   .bio-cell { font-size: 12px; color: #555; font-style: italic; line-height: 1.45; max-width: 280px; }
 
   /* User status column */
@@ -193,11 +216,10 @@
     background: none;
     border: none;
     cursor: pointer;
-    font-size: 16px;
-    padding: 2px 4px;
+    padding: 3px;
     border-radius: 4px;
-    line-height: 1;
-    color: #ccc;
+    line-height: 0;
+    color: #d1d5db;
     transition: color 0.15s;
   }
   .bm-btn:hover { color: #f59e0b; }
@@ -207,14 +229,14 @@
     background: none;
     border: none;
     cursor: pointer;
-    font-size: 14px;
-    padding: 2px 4px;
+    padding: 3px;
     border-radius: 4px;
-    color: #ccc;
+    line-height: 0;
+    color: #d1d5db;
     transition: color 0.15s;
   }
-  .note-btn:hover { color: #1877f2; }
-  .note-btn.active { color: #1877f2; }
+  .note-btn:hover { color: #4f46e5; }
+  .note-btn.active { color: #4f46e5; }
 
   /* User tag select */
   .utag-select {
@@ -229,7 +251,7 @@
     color: #666;
     max-width: 110px;
   }
-  .utag-select:focus { border-color: #1877f2; }
+  .utag-select:focus { border-color: #4f46e5; }
   .utag-select.tag-interested  { background: #dcfce7; color: #166534; border-color: #86efac; }
   .utag-select.tag-contacted   { background: #dbeafe; color: #1e40af; border-color: #93c5fd; }
   .utag-select.tag-toured      { background: #f3e8ff; color: #6b21a8; border-color: #c4b5fd; }
@@ -280,7 +302,7 @@
     outline: none;
     font-family: inherit;
   }
-  .modal input[type=email]:focus, .modal textarea:focus { border-color: #1877f2; }
+  .modal input[type=email]:focus, .modal textarea:focus { border-color: #4f46e5; }
   .modal textarea { resize: vertical; min-height: 100px; }
   .modal-divider { text-align: center; color: #aaa; font-size: 12px; position: relative; }
   .modal-divider::before, .modal-divider::after { content: ''; position: absolute; top: 50%; width: 42%; height: 1px; background: #e0e0e0; }
@@ -305,7 +327,7 @@
   .btn-google:hover { background: #f8f8f8; }
   .btn-primary {
     padding: 10px 16px;
-    background: #1877f2;
+    background: #4f46e5;
     color: #fff;
     border: none;
     border-radius: 8px;
@@ -314,7 +336,7 @@
     font-weight: 600;
     width: 100%;
   }
-  .btn-primary:hover { background: #1560c0; }
+  .btn-primary:hover { background: #4338ca; }
   .btn-secondary {
     padding: 8px 16px;
     background: #fff;
@@ -348,7 +370,7 @@
 <body>
 
 <header>
-  <h1>🏠 SF Rooms</h1>
+  <h1>SF Rooms</h1>
   <span class="updated" id="group-name"></span>
   <span class="updated" id="updated-at"></span>
   <div class="spacer"></div>
@@ -460,11 +482,8 @@
             <th data-col="available_from">Available</th>
             <th data-col="duration_type">Duration</th>
             <th data-col="listing_type">Type</th>
-            <th data-col="unit_config">Unit</th>
-            <th data-col="room_type">Room</th>
             <th data-col="is_furnished">Furnished</th>
             <th data-col="amenities">Amenities</th>
-            <th data-col="source_group">Group</th>
             <th>Save</th>
             <th>Post</th>
           </tr>
@@ -490,7 +509,6 @@
             <th data-scol="bio">Bio</th>
             <th data-scol="age">Age</th>
             <th data-scol="group_size">Group</th>
-            <th data-scol="source_group">Source</th>
             <th>Save</th>
             <th>Post</th>
           </tr>
@@ -596,12 +614,15 @@ const TYPE_MAP = { sublease:'tag-sublease', lease_takeover:'tag-lease_takeover',
 const REASON_MAP = { internship:'tag-internship', student:'tag-student', new_job:'tag-new_job', rotation:'tag-rotation', relocation:'tag-relocation', other:'tag-other' };
 
 // ── Status cell HTML ──────────────────────────────────────────────────────────
+const SVG_STAR = `<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>`;
+const SVG_NOTE = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>`;
+
 function statusCellHtml(lid) {
   const bm = userBookmarks.has(lid);
   const tag = userTags.get(lid) || '';
   const hasNote = userNotes.has(lid);
   return `<div class="status-cell">
-    <button class="bm-btn ${bm ? 'active' : ''}" title="Bookmark" onclick="toggleBookmark('${lid}')">★</button>
+    <button class="bm-btn ${bm ? 'active' : ''}" title="Bookmark" onclick="toggleBookmark('${lid}')">${SVG_STAR}</button>
     <select class="utag-select ${tag ? 'tag-'+tag : ''}" onchange="setTag('${lid}', this.value)" title="Tag this listing">
       <option value="">Tag…</option>
       <option value="interested"  ${tag==='interested'  ? 'selected':''}>Interested</option>
@@ -610,7 +631,7 @@ function statusCellHtml(lid) {
       <option value="applied"     ${tag==='applied'     ? 'selected':''}>Applied</option>
       <option value="not_a_fit"   ${tag==='not_a_fit'   ? 'selected':''}>Not a fit</option>
     </select>
-    <button class="note-btn ${hasNote ? 'active' : ''}" title="Notes" onclick="openNoteModal('${lid}')">📝</button>
+    <button class="note-btn ${hasNote ? 'active' : ''}" title="Notes" onclick="openNoteModal('${lid}')">${SVG_NOTE}</button>
   </div>`;
 }
 
@@ -641,22 +662,33 @@ function renderListings() {
   });
 
   const tbody = $('listings-body');
-  tbody.innerHTML = rows.map(p => `
+  tbody.innerHTML = rows.map(p => {
+    const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
+    const availStr = p.available_from
+      ? fmtDate(p.available_from) + (p.available_until ? '<span style="color:#bbb;margin:0 3px">→</span><span style="color:#888">'+fmtDate(p.available_until)+'</span>' : '')
+      : '—';
+    const furnStr = p.is_furnished===true
+      ? '<span class="tag tag-long" style="font-size:10px">Yes</span>'
+      : p.is_furnished===false
+      ? '<span style="color:#bbb;font-size:12px">No</span>'
+      : '—';
+    return `
     <tr class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
-      <td style="white-space:nowrap;font-size:12px">${esc(fmtPostedAt(p.posted_at))}</td>
+      <td style="white-space:nowrap;font-size:12px;color:#999">${esc(fmtPostedAt(p.posted_at))}</td>
       <td>${fmtRent(p.rent)}</td>
-      <td>${esc(p.neighborhood) || '—'}</td>
-      <td>${fmtDate(p.available_from)}${p.available_until ? '<br><span style="color:#888;font-size:12px">→ '+fmtDate(p.available_until)+'</span>' : ''}</td>
+      <td>
+        <div style="font-weight:600;font-size:13px">${esc(p.neighborhood)||'—'}</div>
+        ${locSub ? `<div style="font-size:11px;color:#999;margin-top:2px">${esc(locSub)}</div>` : ''}
+      </td>
+      <td style="white-space:nowrap;font-size:12px">${availStr}</td>
       <td>${tagHtml(p.duration_type, DURATION_MAP)}</td>
       <td>${tagHtml(p.listing_type, TYPE_MAP)}</td>
-      <td>${esc(p.unit_config)||'—'}</td>
-      <td>${esc((p.room_type||'').replace(/_/g,' '))||'—'}</td>
-      <td>${p.is_furnished===true?'✓ Yes':p.is_furnished===false?'No':'—'}</td>
+      <td>${furnStr}</td>
       <td>${amenitiesHtml(p.amenities)}</td>
-      <td style="font-size:11px;color:#888">${esc(fmtGroup(p.source_group))}</td>
       <td>${statusCellHtml(p.listing_id)}</td>
-      <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a></td>
-    </tr>`).join('');
+      <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener" title="${esc(p.source_group||'')}">View →</a></td>
+    </tr>`;
+  }).join('');
 
   $('listings-empty').style.display = rows.length ? 'none' : 'block';
   $('listings-table').style.display = rows.length ? '' : 'none';
@@ -734,19 +766,18 @@ function renderSeekers() {
     const unitTypes = (p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')||'—';
     const groupStr = p.group_size>1?`${p.group_size} ppl`:p.group_size===1?'Solo':'—';
     return `<tr class="${userBookmarks.has(p.listing_id)?'bookmarked':''}">
-      <td style="white-space:nowrap;font-size:12px">${esc(fmtPostedAt(p.posted_at))}</td>
-      <td style="white-space:nowrap;font-size:13px">${moveinStr}</td>
-      <td style="font-weight:600;font-size:13px">${esc(budgetStr)}</td>
+      <td style="white-space:nowrap;font-size:12px;color:#999">${esc(fmtPostedAt(p.posted_at))}</td>
+      <td style="white-space:nowrap;font-size:12px">${moveinStr}</td>
+      <td style="font-weight:700;font-size:16px;letter-spacing:-0.5px">${esc(budgetStr)}</td>
       <td>${p.duration_type?tagHtml(p.duration_type,DURATION_MAP):'—'}</td>
       <td>${p.reason?tagHtml(p.reason,REASON_MAP):'—'}</td>
       <td>${hoods}</td>
       <td>${unitTypes}</td>
       <td><div class="bio-cell">${esc(p.bio||'—')}</div></td>
-      <td style="text-align:center">${p.age??'—'}</td>
-      <td style="text-align:center">${esc(groupStr)}</td>
-      <td style="font-size:11px;color:#888">${esc(fmtGroup(p.source_group))}</td>
+      <td style="text-align:center;color:#666">${p.age??'—'}</td>
+      <td style="text-align:center;color:#666">${esc(groupStr)}</td>
       <td>${statusCellHtml(p.listing_id)}</td>
-      <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a></td>
+      <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener" title="${esc(p.source_group||'')}">View →</a></td>
     </tr>`;
   }).join('');
 }
@@ -976,6 +1007,19 @@ supa.auth.onAuthStateChange(async (event, session) => {
 });
 
 load().catch(err => console.error('Failed to load data:', err));
+
+// Show fade gradient when table overflows horizontally
+function setupScrollFade(wrap) {
+  function update() {
+    const overflows = wrap.scrollWidth > wrap.clientWidth;
+    wrap.classList.toggle('has-overflow', overflows);
+    wrap.classList.toggle('scrolled-right', overflows && wrap.scrollLeft + wrap.clientWidth >= wrap.scrollWidth - 4);
+  }
+  wrap.addEventListener('scroll', update);
+  new ResizeObserver(update).observe(wrap);
+  update();
+}
+document.querySelectorAll('.table-wrap').forEach(setupScrollFade);
 </script>
 </body>
 </html>
