@@ -312,6 +312,7 @@
             <th data-col="room_type">Room</th>
             <th data-col="is_furnished">Furnished</th>
             <th data-col="amenities">Amenities</th>
+            <th data-col="source_group">Group</th>
             <th>Post</th>
           </tr>
         </thead>
@@ -336,6 +337,7 @@
             <th data-scol="bio">Bio</th>
             <th data-scol="age">Age</th>
             <th data-scol="group_size">Group</th>
+            <th data-scol="source_group">Source</th>
             <th>Post</th>
           </tr>
         </thead>
@@ -386,6 +388,12 @@ function tagHtml(val, map) {
   const cls = map[val] || '';
   const label = val.replace(/_/g,' ');
   return `<span class="tag ${cls}">${esc(label)}</span>`;
+}
+
+function fmtGroup(g) {
+  if (!g) return '—';
+  const m = g.match(/\((\d+\.?\d*[KM])\)/);
+  return m ? m[1] : g.slice(0, 20);
 }
 
 const DURATION_MAP = { short_term:'tag-short', long_term:'tag-long' };
@@ -442,6 +450,7 @@ function renderListings() {
       <td>${esc((p.room_type||'').replace(/_/g,' ')) || '—'}</td>
       <td>${p.is_furnished === true ? '✓ Yes' : p.is_furnished === false ? 'No' : '—'}</td>
       <td>${amenitiesHtml(p.amenities)}</td>
+      <td style="font-size:11px;color:#888">${esc(fmtGroup(p.source_group))}</td>
       <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a></td>
     </tr>
   `).join('');
@@ -545,6 +554,7 @@ function renderSeekers() {
       <td><div class="bio-cell">${esc(p.bio || '—')}</div></td>
       <td style="text-align:center">${p.age ?? '—'}</td>
       <td style="text-align:center">${esc(groupStr)}</td>
+      <td style="font-size:11px;color:#888">${esc(fmtGroup(p.source_group))}</td>
       <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a></td>
     </tr>`;
   }).join('');
