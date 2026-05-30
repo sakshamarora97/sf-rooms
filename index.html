@@ -425,7 +425,10 @@
 <body>
 
 <header>
-  <h1>SF Rooms</h1>
+  <div style="position:relative;z-index:2">
+    <h1>SF Rooms</h1>
+    <div style="font-size:11px;color:#7a4a1a;margin-top:2px;font-weight:400">making finding rooms accessible, because rent isn't :)</div>
+  </div>
   <div class="spacer"></div>
   <!-- Golden Gate Bridge illustration -->
   <svg class="header-bridge" viewBox="0 0 560 80" preserveAspectRatio="xMidYMax meet" xmlns="http://www.w3.org/2000/svg">
@@ -473,6 +476,8 @@
   <div class="tab active" data-tab="listings">Listings <span class="badge" id="badge-listings">0</span></div>
   <div class="tab" data-tab="seekers">Seekers <span class="badge" id="badge-seekers">0</span></div>
   <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">0</span></div>
+  <div class="spacer"></div>
+  <div style="display:flex;align-items:center;font-size:11px;color:#9ca3af;font-weight:500;padding-right:4px" id="table-caption-tab"><span class="live-dot"></span><span id="table-caption"></span></div>
 </div>
 
 <!-- Listing filters -->
@@ -562,7 +567,6 @@
 
 <div class="content">
   <div id="view-listings">
-    <div class="table-caption-bar"><span id="table-caption"></span></div>
     <div class="table-wrap">
       <table id="listings-table">
         <thead>
@@ -823,7 +827,7 @@ function renderListings() {
   $('listings-table').style.display = rows.length ? '' : 'none';
   $('badge-listings').textContent = allListings.length;
   const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
-  $('table-caption').innerHTML = `<span class="live-dot"></span>${rows.length} listings${updStr}`;
+  $('table-caption').textContent = `${rows.length} listings${updStr}`;
 }
 
 document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
