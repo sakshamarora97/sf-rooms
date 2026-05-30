@@ -590,9 +590,32 @@ function fmtDate(iso) {
 }
 function fmtPostedAt(raw) {
   if (!raw) return '—';
-  if (raw.includes('T')) return new Date(raw).toLocaleDateString('en-US', { month:'short', day:'numeric' });
-  const m = raw.match(/(\d{1,2}\s+\w+\s+\d{4})/);
-  return m ? m[1] : raw;
+  let date;
+  if (raw.includes('T')) {
+    date = new Date(raw);
+  } else {
+    // "Friday 29 May 2026 at 18:41" — parse manually
+    const m = raw.match(/(\d{1,2})\s+(\w+)\s+(\d{4})\s+at\s+(\d{1,2}):(\d{2})/);
+    if (m) {
+      date = new Date(`${m[2]} ${m[1]}, ${m[3]} ${m[4]}:${m[5]}:00`);
+    }
+  }
+  if (!date || isNaN(date)) return raw;
+
+  const now = Date.now();
+  const diffMs = now - date.getTime();
+  const diffMins = Math.floor(diffMs / 60000);
+  const diffHours = Math.floor(diffMs / 3600000);
+  const diffDays = Math.floor(diffMs / 86400000);
+
+  let ago;
+  if (diffMins < 60)       ago = diffMins <= 1 ? 'just now' : `${diffMins}m ago`;
+  else if (diffHours < 24) ago = `${diffHours}h ago`;
+  else if (diffDays < 7)   ago = `${diffDays}d ago`;
+  else                     ago = `${Math.floor(diffDays/7)}w ago`;
+
+  const dateStr = date.toLocaleDateString('en-US', { month:'short', day:'numeric' });
+  return `<span style="font-weight:700;color:#111">${ago}</span><br><span style="font-size:11px;color:#999">${dateStr}</span>`;
 }
 function fmtRent(r) {
   if (r == null) return '<span class="rent-null">—</span>';
@@ -677,7 +700,7 @@ function renderListings() {
       : '—';
     return `
     <tr class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
-      <td style="white-space:nowrap;font-size:12px;color:#999">${esc(fmtPostedAt(p.posted_at))}</td>
+      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}</td>
       <td>${fmtRent(p.rent)}</td>
       <td>
         <div style="font-weight:600;font-size:13px">${esc(p.neighborhood)||'—'}</div>
@@ -769,7 +792,7 @@ function renderSeekers() {
     const unitTypes = (p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')||'—';
     const groupStr = p.group_size>1?`${p.group_size} ppl`:p.group_size===1?'Solo':'—';
     return `<tr class="${userBookmarks.has(p.listing_id)?'bookmarked':''}">
-      <td style="white-space:nowrap;font-size:12px;color:#999">${esc(fmtPostedAt(p.posted_at))}</td>
+      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}</td>
       <td style="white-space:nowrap;font-size:12px">${moveinStr}</td>
       <td style="font-weight:700;font-size:16px;letter-spacing:-0.5px">${esc(budgetStr)}</td>
       <td>${p.duration_type?tagHtml(p.duration_type,DURATION_MAP):'—'}</td>
