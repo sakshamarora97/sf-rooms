@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SF Rooms</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #f5f5f5;
+    color: #1a1a1a;
+    font-size: 14px;
+  }
+
+  header {
+    background: #fff;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 16px 24px;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+  header h1 { font-size: 20px; font-weight: 700; }
+  header .updated { color: #888; font-size: 12px; }
+
+  /* Tabs */
+  .tabs {
+    background: #fff;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 0 24px;
+    display: flex;
+    gap: 0;
+  }
+  .tab {
+    padding: 12px 20px;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    font-weight: 500;
+    color: #666;
+    user-select: none;
+  }
+  .tab:hover { color: #1a1a1a; }
+  .tab.active { color: #1877f2; border-bottom-color: #1877f2; }
+  .tab .badge {
+    background: #e8e8e8;
+    border-radius: 10px;
+    padding: 1px 7px;
+    font-size: 11px;
+    margin-left: 6px;
+    color: #555;
+  }
+  .tab.active .badge { background: #e7f0ff; color: #1877f2; }
+
+  /* Filters */
+  .filters {
+    background: #fff;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 12px 24px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .filters label { display: flex; flex-direction: column; gap: 3px; font-size: 11px; color: #888; font-weight: 500; text-transform: uppercase; letter-spacing: 0.4px; }
+  .filters input, .filters select {
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-size: 13px;
+    outline: none;
+    background: #fafafa;
+  }
+  .filters input:focus, .filters select:focus { border-color: #1877f2; background: #fff; }
+  .filters input[type=number] { width: 100px; }
+  .filters input[type=text] { width: 160px; }
+  #clear-filters {
+    margin-left: auto;
+    padding: 6px 14px;
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-size: 13px;
+    color: #555;
+  }
+  #clear-filters:hover { background: #f0f0f0; }
+
+  /* Content */
+  .content { padding: 20px 24px; }
+
+  /* Table */
+  .table-wrap { overflow-x: auto; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+  table { width: 100%; border-collapse: collapse; background: #fff; }
+  th {
+    background: #f8f8f8;
+    padding: 10px 14px;
+    text-align: left;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: #666;
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  th:hover { background: #f0f0f0; color: #1a1a1a; }
+  th.sorted-asc::after { content: " ↑"; color: #1877f2; }
+  th.sorted-desc::after { content: " ↓"; color: #1877f2; }
+  td {
+    padding: 10px 14px;
+    border-bottom: 1px solid #f0f0f0;
+    vertical-align: top;
+  }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: #fafbff; }
+
+  .rent { font-weight: 700; font-size: 15px; }
+  .rent-null { color: #aaa; font-weight: normal; font-size: 13px; }
+
+  .tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .tag-short { background: #fff3cd; color: #856404; }
+  .tag-long  { background: #d1e7dd; color: #0a5c36; }
+  .tag-sublease     { background: #e2e3f7; color: #343a7a; }
+  .tag-lease_takeover { background: #fde8d0; color: #7a3600; }
+  .tag-room_rental  { background: #d4edda; color: #155724; }
+  .tag-entire_unit  { background: #d0e8f7; color: #0d4a7a; }
+
+  .amenities { display: flex; flex-wrap: wrap; gap: 4px; }
+  .amenity {
+    background: #f0f0f0;
+    border-radius: 4px;
+    padding: 2px 7px;
+    font-size: 11px;
+    color: #555;
+  }
+
+  .btn-post {
+    display: inline-block;
+    padding: 5px 12px;
+    background: #1877f2;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .btn-post:hover { background: #1560c0; }
+
+  /* Cards (seekers/spam) */
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
+  .card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.08);
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+  .card-author { font-weight: 600; }
+  .card-date { font-size: 12px; color: #888; white-space: nowrap; }
+  .card-text { font-size: 13px; color: #444; line-height: 1.5; }
+  .card-text.collapsed { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+  .card-expand { font-size: 12px; color: #1877f2; cursor: pointer; border: none; background: none; padding: 0; }
+  .card-expand:hover { text-decoration: underline; }
+
+  .empty { padding: 60px 0; text-align: center; color: #aaa; font-size: 15px; }
+
+  @media (max-width: 600px) {
+    header, .tabs, .filters, .content { padding-left: 12px; padding-right: 12px; }
+    .filters { flex-direction: column; align-items: stretch; }
+    .filters input[type=text], .filters input[type=number] { width: 100%; }
+    #clear-filters { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🏠 SF Rooms</h1>
+  <span class="updated" id="group-name"></span>
+  <span class="updated" id="updated-at"></span>
+</header>
+
+<div class="tabs">
+  <div class="tab active" data-tab="listings">Listings <span class="badge" id="badge-listings">0</span></div>
+  <div class="tab" data-tab="seekers">Seekers <span class="badge" id="badge-seekers">0</span></div>
+  <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">0</span></div>
+</div>
+
+<div class="filters" id="listing-filters">
+  <label>Neighborhood
+    <input type="text" id="f-neighborhood" placeholder="e.g. Mission">
+  </label>
+  <label>Max Rent ($)
+    <input type="number" id="f-rent" placeholder="e.g. 2500" min="0" step="100">
+  </label>
+  <label>Duration
+    <select id="f-duration">
+      <option value="">Any</option>
+      <option value="short_term">Short term</option>
+      <option value="long_term">Long term</option>
+    </select>
+  </label>
+  <label>Listing type
+    <select id="f-listing-type">
+      <option value="">Any</option>
+      <option value="sublease">Sublease</option>
+      <option value="lease_takeover">Lease takeover</option>
+      <option value="room_rental">Room rental</option>
+      <option value="entire_unit">Entire unit</option>
+    </select>
+  </label>
+  <label>Furnished
+    <select id="f-furnished">
+      <option value="">Any</option>
+      <option value="true">Yes</option>
+      <option value="false">No</option>
+    </select>
+  </label>
+  <button id="clear-filters">Clear filters</button>
+</div>
+
+<div class="content">
+  <div id="view-listings">
+    <div class="table-wrap">
+      <table id="listings-table">
+        <thead>
+          <tr>
+            <th data-col="listing_id">ID</th>
+            <th data-col="posted_at">Posted</th>
+            <th data-col="rent">Rent</th>
+            <th data-col="neighborhood">Location</th>
+            <th data-col="available_from">Available</th>
+            <th data-col="duration_type">Duration</th>
+            <th data-col="listing_type">Type</th>
+            <th data-col="unit_config">Unit</th>
+            <th data-col="room_type">Room</th>
+            <th data-col="is_furnished">Furnished</th>
+            <th data-col="amenities">Amenities</th>
+            <th>Post</th>
+          </tr>
+        </thead>
+        <tbody id="listings-body"></tbody>
+      </table>
+    </div>
+    <div class="empty" id="listings-empty" style="display:none">No listings match your filters.</div>
+  </div>
+
+  <div id="view-seekers" style="display:none">
+    <div class="cards" id="seekers-cards"></div>
+    <div class="empty" id="seekers-empty" style="display:none">No seeker posts.</div>
+  </div>
+
+  <div id="view-spam" style="display:none">
+    <div class="cards" id="spam-cards"></div>
+    <div class="empty" id="spam-empty" style="display:none">No spam posts.</div>
+  </div>
+</div>
+
+<script>
+const DATA_BASE = './';   // same directory as index.html
+
+// ── State ────────────────────────────────────────────────────────────────────
+let allListings = [], sortCol = 'available_from', sortDir = 1;
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+
+function fmtDate(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+}
+
+function fmtRent(r) {
+  if (r == null) return '<span class="rent-null">—</span>';
+  return `<span class="rent">$${r.toLocaleString()}</span>`;
+}
+
+function tagHtml(val, map) {
+  if (!val) return '—';
+  const cls = map[val] || '';
+  const label = val.replace(/_/g,' ');
+  return `<span class="tag ${cls}">${esc(label)}</span>`;
+}
+
+const DURATION_MAP = { short_term:'tag-short', long_term:'tag-long' };
+const TYPE_MAP = { sublease:'tag-sublease', lease_takeover:'tag-lease_takeover', room_rental:'tag-room_rental', entire_unit:'tag-entire_unit' };
+
+function amenitiesHtml(list) {
+  if (!list || !list.length) return '—';
+  return '<div class="amenities">' + list.map(a => `<span class="amenity">${esc(a.replace(/_/g,' '))}</span>`).join('') + '</div>';
+}
+
+function sortValue(p, col) {
+  const v = p[col];
+  if (v == null) return col === 'rent' ? Infinity : '';
+  return v;
+}
+
+// ── Listings table ───────────────────────────────────────────────────────────
+function renderListings() {
+  const neighborhood = $('f-neighborhood').value.trim().toLowerCase();
+  const maxRent      = parseInt($('f-rent').value) || Infinity;
+  const duration     = $('f-duration').value;
+  const ltype        = $('f-listing-type').value;
+  const furnished    = $('f-furnished').value;
+
+  let rows = allListings.filter(p => {
+    if (neighborhood && !(p.neighborhood||'').toLowerCase().includes(neighborhood)) return false;
+    if ((p.rent ?? Infinity) > maxRent) return false;
+    if (duration && p.duration_type !== duration) return false;
+    if (ltype && p.listing_type !== ltype) return false;
+    if (furnished === 'true'  && p.is_furnished !== true) return false;
+    if (furnished === 'false' && p.is_furnished !== false) return false;
+    return true;
+  });
+
+  rows.sort((a, b) => {
+    const av = sortValue(a, sortCol), bv = sortValue(b, sortCol);
+    if (av < bv) return -sortDir;
+    if (av > bv) return  sortDir;
+    return 0;
+  });
+
+  const tbody = $('listings-body');
+  tbody.innerHTML = rows.map(p => `
+    <tr>
+      <td style="font-size:11px;color:#888;font-family:monospace">${esc(p.listing_id) || '—'}</td>
+      <td style="white-space:nowrap;font-size:12px">${esc(p.posted_at) || '—'}</td>
+      <td>${fmtRent(p.rent)}</td>
+      <td>${esc(p.neighborhood) || '—'}</td>
+      <td>${fmtDate(p.available_from)}${p.available_until ? '<br><span style="color:#888;font-size:12px">→ ' + fmtDate(p.available_until) + '</span>' : ''}</td>
+      <td>${tagHtml(p.duration_type, DURATION_MAP)}</td>
+      <td>${tagHtml(p.listing_type, TYPE_MAP)}</td>
+      <td>${esc(p.unit_config) || '—'}</td>
+      <td>${esc((p.room_type||'').replace(/_/g,' ')) || '—'}</td>
+      <td>${p.is_furnished === true ? '✓ Yes' : p.is_furnished === false ? 'No' : '—'}</td>
+      <td>${amenitiesHtml(p.amenities)}</td>
+      <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a></td>
+    </tr>
+  `).join('');
+
+  $('listings-empty').style.display = rows.length ? 'none' : 'block';
+  $('listings-table').style.display = rows.length ? '' : 'none';
+  $('badge-listings').textContent = allListings.length;
+}
+
+// ── Column sort ──────────────────────────────────────────────────────────────
+document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if (sortCol === col) sortDir *= -1; else { sortCol = col; sortDir = 1; }
+    document.querySelectorAll('#listings-table th').forEach(t => t.classList.remove('sorted-asc','sorted-desc'));
+    th.classList.add(sortDir === 1 ? 'sorted-asc' : 'sorted-desc');
+    renderListings();
+  });
+});
+
+// ── Filters ──────────────────────────────────────────────────────────────────
+['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished'].forEach(id => {
+  $(id).addEventListener('input', renderListings);
+  $(id).addEventListener('change', renderListings);
+});
+$('clear-filters').addEventListener('click', () => {
+  $('f-neighborhood').value = '';
+  $('f-rent').value = '';
+  $('f-duration').value = '';
+  $('f-listing-type').value = '';
+  $('f-furnished').value = '';
+  renderListings();
+});
+
+// ── Cards (seekers / spam) ────────────────────────────────────────────────────
+function renderCards(posts, containerId, emptyId, badgeId) {
+  $(badgeId).textContent = posts.length;
+  if (!posts.length) { $(emptyId).style.display = 'block'; return; }
+
+  $(containerId).innerHTML = posts.map((p, i) => {
+    const text = esc(p.text || '');
+    const date = p.posted_at || '';
+    return `
+      <div class="card">
+        <div class="card-header">
+          <span class="card-date">${esc(date)}</span>
+        </div>
+        <div class="card-text collapsed" id="card-text-${i}">${text}</div>
+        <div style="display:flex; justify-content:space-between; align-items:center">
+          <button class="card-expand" onclick="toggleCard(${i})">Show more</button>
+          <a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+window.toggleCard = function(i) {
+  const el = $('card-text-' + i);
+  const btn = el.nextElementSibling.querySelector('.card-expand');
+  if (el.classList.toggle('collapsed')) btn.textContent = 'Show more';
+  else btn.textContent = 'Show less';
+};
+
+// ── Tabs ─────────────────────────────────────────────────────────────────────
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    const name = tab.dataset.tab;
+    $('view-listings').style.display = name === 'listings' ? '' : 'none';
+    $('view-seekers').style.display  = name === 'seekers'  ? '' : 'none';
+    $('view-spam').style.display     = name === 'spam'     ? '' : 'none';
+    $('listing-filters').style.display = name === 'listings' ? '' : 'none';
+  });
+});
+
+// ── Load data ─────────────────────────────────────────────────────────────────
+async function load() {
+  const [lData, sData, spData] = await Promise.all([
+    fetch(DATA_BASE + 'listings.json').then(r => r.json()),
+    fetch(DATA_BASE + 'seekers.json').then(r => r.json()),
+    fetch(DATA_BASE + 'spam.json').then(r => r.json()),
+  ]);
+
+  // Header timestamp — use the most recent updated_at across all files
+  const times = [lData.updated_at, sData.updated_at, spData.updated_at].filter(Boolean).sort();
+  if (times.length) {
+    const d = new Date(times[times.length - 1]);
+    $('updated-at').textContent = 'Updated ' + d.toLocaleString('en-US', { month:'short', day:'numeric', hour:'numeric', minute:'2-digit' });
+  }
+
+  const groupName = lData.group_name || sData.group_name || '';
+  if (groupName) $('group-name').textContent = groupName + ' ·';
+
+  allListings = lData.posts || [];
+  renderListings();
+
+  renderCards(sData.posts || [], 'seekers-cards', 'seekers-empty', 'badge-seekers');
+  renderCards(spData.posts || [], 'spam-cards', 'spam-empty', 'badge-spam');
+}
+
+load().catch(err => console.error('Failed to load data:', err));
+</script>
+</body>
+</html>
