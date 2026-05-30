@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-30T13:26:54.375683",
-  "count": 156,
+  "updated_at": "2026-05-30T13:36:19.051832",
+  "count": 157,
   "posts": [
     {
       "listing_id": "c08bd33789e0f7c0",
@@ -4108,6 +4108,36 @@
       "posted_at": null,
       "first_scraped_at": null,
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "ba4312b2ef8e3e8e",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-06-05",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private room",
+        "shared room"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City",
+        "San Mateo",
+        "Redwood City",
+        "Belmont",
+        "San Carlos"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 28,
+      "bio": "A working professional in automotive/software engineering, clean, respectful, and easy-going.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100009080300485/?__cft__[0]=AZa1pHICKzI-sK2unX6sIbNumLR8iqgFRbdGrrzkDGEpNM1WmW9VQqaC0a9CfCa1QJQlacipKYCKo0VrG2S_vzNR5MOdQ-R8LKeB0hv5e0m_-ZKAHF6f6e3KYfAbVFYl9zsT_C4L9DlWeeXpXnMOLWVZRWGwyBXMJH8Pg9cMUiICC5PPSnSiMTV2kfniAvo73b0&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-05-30T20:34:31.295626+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
