@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SF Rooms</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -19,18 +20,37 @@
     border-bottom: 1px solid #e0e0e0;
     padding: 16px 24px;
     display: flex;
-    align-items: baseline;
+    align-items: center;
     gap: 12px;
   }
   header h1 { font-size: 20px; font-weight: 700; }
   header .updated { color: #888; font-size: 12px; }
+  header .spacer { flex: 1; }
 
+  /* Auth button */
+  #auth-btn {
+    padding: 7px 16px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid #d0d0d0;
+    background: #fff;
+    color: #333;
+    white-space: nowrap;
+  }
+  #auth-btn:hover { background: #f5f5f5; }
+  #user-menu { position: relative; display: flex; align-items: center; gap: 10px; }
+  #user-email { font-size: 12px; color: #666; }
+  #signout-btn { font-size: 12px; color: #888; cursor: pointer; text-decoration: underline; border: none; background: none; padding: 0; }
+  #signout-btn:hover { color: #333; }
+
+  /* Tabs */
   .tabs {
     background: #fff;
     border-bottom: 1px solid #e0e0e0;
     padding: 0 24px;
     display: flex;
-    gap: 0;
   }
   .tab {
     padding: 12px 20px;
@@ -52,6 +72,7 @@
   }
   .tab.active .badge { background: #e7f0ff; color: #1877f2; }
 
+  /* Filters */
   .filters {
     background: #fff;
     border-bottom: 1px solid #e0e0e0;
@@ -73,6 +94,7 @@
   .filters input:focus, .filters select:focus { border-color: #1877f2; background: #fff; }
   .filters input[type=number] { width: 100px; }
   .filters input[type=text] { width: 160px; }
+  .filters input[type=checkbox] { width: 16px; height: 16px; margin-top: 4px; cursor: pointer; }
   .clear-btn {
     margin-left: auto;
     padding: 6px 14px;
@@ -85,8 +107,10 @@
   }
   .clear-btn:hover { background: #f0f0f0; }
 
+  /* Content */
   .content { padding: 20px 24px; }
 
+  /* Table */
   .table-wrap { overflow-x: auto; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
   table { width: 100%; border-collapse: collapse; background: #fff; }
   th {
@@ -113,10 +137,13 @@
   }
   tr:last-child td { border-bottom: none; }
   tr:hover td { background: #fafbff; }
+  tr.bookmarked td { background: #fffbeb; }
+  tr.bookmarked:hover td { background: #fff8d6; }
 
   .rent { font-weight: 700; font-size: 15px; }
   .rent-null { color: #aaa; font-weight: normal; font-size: 13px; }
 
+  /* Listing type tags */
   .tag {
     display: inline-block;
     padding: 2px 8px;
@@ -140,13 +167,7 @@
   .tag-other           { background: #f5f5f5; color: #555; }
 
   .amenities { display: flex; flex-wrap: wrap; gap: 4px; }
-  .amenity {
-    background: #f0f0f0;
-    border-radius: 4px;
-    padding: 2px 7px;
-    font-size: 11px;
-    color: #555;
-  }
+  .amenity { background: #f0f0f0; border-radius: 4px; padding: 2px 7px; font-size: 11px; color: #555; }
 
   .btn-post {
     display: inline-block;
@@ -161,44 +182,63 @@
   }
   .btn-post:hover { background: #1560c0; }
 
-  .chip {
-    display: inline-block;
-    background: #eef2ff;
-    color: #3b4ecc;
-    border-radius: 10px;
-    padding: 2px 8px;
-    font-size: 11px;
-    font-weight: 500;
-    margin: 1px 2px 1px 0;
-  }
-  .chip-type {
-    display: inline-block;
-    background: #f0f0f0;
-    color: #555;
-    border-radius: 10px;
-    padding: 2px 8px;
-    font-size: 11px;
-    margin: 1px 2px 1px 0;
-  }
-  .bio-cell {
-    font-size: 12px;
-    color: #555;
-    font-style: italic;
-    line-height: 1.45;
-    max-width: 280px;
-  }
+  .chip { display: inline-block; background: #eef2ff; color: #3b4ecc; border-radius: 10px; padding: 2px 8px; font-size: 11px; font-weight: 500; margin: 1px 2px 1px 0; }
+  .chip-type { display: inline-block; background: #f0f0f0; color: #555; border-radius: 10px; padding: 2px 8px; font-size: 11px; margin: 1px 2px 1px 0; }
+  .bio-cell { font-size: 12px; color: #555; font-style: italic; line-height: 1.45; max-width: 280px; }
 
-  /* Spam cards (simple) */
-  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
-  .card {
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 1px 4px rgba(0,0,0,.08);
-    padding: 16px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+  /* User status column */
+  .status-cell { display: flex; align-items: center; gap: 6px; white-space: nowrap; }
+
+  .bm-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 2px 4px;
+    border-radius: 4px;
+    line-height: 1;
+    color: #ccc;
+    transition: color 0.15s;
   }
+  .bm-btn:hover { color: #f59e0b; }
+  .bm-btn.active { color: #f59e0b; }
+
+  .note-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 2px 4px;
+    border-radius: 4px;
+    color: #ccc;
+    transition: color 0.15s;
+  }
+  .note-btn:hover { color: #1877f2; }
+  .note-btn.active { color: #1877f2; }
+
+  /* User tag select */
+  .utag-select {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 3px 6px;
+    font-size: 11px;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+    background: #f8f8f8;
+    color: #666;
+    max-width: 110px;
+  }
+  .utag-select:focus { border-color: #1877f2; }
+  .utag-select.tag-interested  { background: #dcfce7; color: #166534; border-color: #86efac; }
+  .utag-select.tag-contacted   { background: #dbeafe; color: #1e40af; border-color: #93c5fd; }
+  .utag-select.tag-toured      { background: #f3e8ff; color: #6b21a8; border-color: #c4b5fd; }
+  .utag-select.tag-applied     { background: #fef9c3; color: #854d0e; border-color: #fde047; }
+  .utag-select.tag-not_a_fit   { background: #fee2e2; color: #991b1b; border-color: #fca5a5; }
+
+  /* Spam cards */
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
+  .card { background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.08); padding: 16px; display: flex; flex-direction: column; gap: 10px; }
   .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
   .card-date { font-size: 12px; color: #888; white-space: nowrap; }
   .card-text { font-size: 13px; color: #444; line-height: 1.5; }
@@ -208,13 +248,100 @@
 
   .empty { padding: 60px 0; text-align: center; color: #aaa; font-size: 15px; }
 
+  /* Modal overlay */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+  .modal {
+    background: #fff;
+    border-radius: 12px;
+    padding: 28px;
+    width: 100%;
+    max-width: 420px;
+    box-shadow: 0 8px 32px rgba(0,0,0,.18);
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .modal h3 { font-size: 18px; font-weight: 700; }
+  .modal p { font-size: 13px; color: #666; }
+  .modal input[type=email], .modal textarea {
+    width: 100%;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 14px;
+    outline: none;
+    font-family: inherit;
+  }
+  .modal input[type=email]:focus, .modal textarea:focus { border-color: #1877f2; }
+  .modal textarea { resize: vertical; min-height: 100px; }
+  .modal-divider { text-align: center; color: #aaa; font-size: 12px; position: relative; }
+  .modal-divider::before, .modal-divider::after { content: ''; position: absolute; top: 50%; width: 42%; height: 1px; background: #e0e0e0; }
+  .modal-divider::before { left: 0; }
+  .modal-divider::after { right: 0; }
+  .modal-actions { display: flex; gap: 10px; justify-content: flex-end; }
+
+  .btn-google {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 16px;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    background: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    width: 100%;
+  }
+  .btn-google:hover { background: #f8f8f8; }
+  .btn-primary {
+    padding: 10px 16px;
+    background: #1877f2;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    width: 100%;
+  }
+  .btn-primary:hover { background: #1560c0; }
+  .btn-secondary {
+    padding: 8px 16px;
+    background: #fff;
+    color: #555;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+  .btn-secondary:hover { background: #f5f5f5; }
+  .btn-danger {
+    padding: 8px 16px;
+    background: #fee2e2;
+    color: #991b1b;
+    border: 1px solid #fca5a5;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+
+  .magic-sent { background: #f0fdf4; border: 1px solid #86efac; border-radius: 8px; padding: 12px; font-size: 13px; color: #166534; text-align: center; }
+
   @media (max-width: 600px) {
     header, .tabs, .filters, .content { padding-left: 12px; padding-right: 12px; }
     .filters { flex-direction: column; align-items: stretch; }
     .filters input[type=text], .filters input[type=number] { width: 100%; }
     .clear-btn { margin-left: 0; }
-    .seeker-grid { grid-template-columns: 1fr; }
-    .sc-facts { grid-template-columns: 1fr 1fr; }
   }
 </style>
 </head>
@@ -224,6 +351,10 @@
   <h1>🏠 SF Rooms</h1>
   <span class="updated" id="group-name"></span>
   <span class="updated" id="updated-at"></span>
+  <div class="spacer"></div>
+  <div id="auth-area">
+    <button id="auth-btn" onclick="showAuthModal()">Sign in</button>
+  </div>
 </header>
 
 <div class="tabs">
@@ -263,6 +394,17 @@
       <option value="false">No</option>
     </select>
   </label>
+  <label>My tag
+    <select id="f-tag">
+      <option value="">Any</option>
+      <option value="interested">Interested</option>
+      <option value="contacted">Contacted</option>
+      <option value="toured">Toured</option>
+      <option value="applied">Applied</option>
+      <option value="not_a_fit">Not a fit</option>
+      <option value="_bookmarked">⭐ Bookmarked</option>
+    </select>
+  </label>
   <button class="clear-btn" id="clear-listing-filters">Clear filters</button>
 </div>
 
@@ -292,6 +434,17 @@
   <label>Move-in by
     <input type="text" id="sf-movein" placeholder="e.g. 2026-07-01">
   </label>
+  <label>My tag
+    <select id="sf-tag">
+      <option value="">Any</option>
+      <option value="interested">Interested</option>
+      <option value="contacted">Contacted</option>
+      <option value="toured">Toured</option>
+      <option value="applied">Applied</option>
+      <option value="not_a_fit">Not a fit</option>
+      <option value="_bookmarked">⭐ Bookmarked</option>
+    </select>
+  </label>
   <button class="clear-btn" id="clear-seeker-filters">Clear filters</button>
 </div>
 
@@ -301,7 +454,6 @@
       <table id="listings-table">
         <thead>
           <tr>
-            <th data-col="listing_id">ID</th>
             <th data-col="posted_at">Posted</th>
             <th data-col="rent">Rent</th>
             <th data-col="neighborhood">Location</th>
@@ -313,6 +465,7 @@
             <th data-col="is_furnished">Furnished</th>
             <th data-col="amenities">Amenities</th>
             <th data-col="source_group">Group</th>
+            <th>Save</th>
             <th>Post</th>
           </tr>
         </thead>
@@ -338,6 +491,7 @@
             <th data-scol="age">Age</th>
             <th data-scol="group_size">Group</th>
             <th data-scol="source_group">Source</th>
+            <th>Save</th>
             <th>Post</th>
           </tr>
         </thead>
@@ -353,11 +507,58 @@
   </div>
 </div>
 
+<!-- Auth modal -->
+<div class="modal-overlay" id="auth-modal" style="display:none" onclick="if(event.target===this)closeAuthModal()">
+  <div class="modal">
+    <h3>Sign in to SF Rooms</h3>
+    <p>Save bookmarks, tags, and notes — synced across all your devices.</p>
+    <button class="btn-google" onclick="signInGoogle()">
+      <svg width="18" height="18" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.2l6.8-6.8C35.8 2.5 30.3 0 24 0 14.7 0 6.7 5.4 2.9 13.3l7.9 6.1C12.6 13.1 17.9 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.1-.4-4.5H24v8.5h12.7c-.6 3-2.3 5.5-4.8 7.2l7.5 5.8c4.4-4.1 7.1-10.1 7.1-17z"/><path fill="#FBBC05" d="M10.8 28.6A14.8 14.8 0 0 1 9.5 24c0-1.6.3-3.1.7-4.6L2.3 13.3A23.9 23.9 0 0 0 0 24c0 3.9.9 7.5 2.9 10.7l7.9-6.1z"/><path fill="#34A853" d="M24 48c6.5 0 11.9-2.1 15.9-5.8l-7.5-5.8c-2.1 1.4-4.8 2.2-8.4 2.2-6.1 0-11.4-3.6-13.2-9.1l-7.9 6.1C6.7 42.6 14.7 48 24 48z"/></svg>
+      Continue with Google
+    </button>
+    <div class="modal-divider">or</div>
+    <div id="magic-form" style="display:flex;flex-direction:column;gap:10px">
+      <input type="email" id="magic-email" placeholder="your@email.com">
+      <button class="btn-primary" onclick="signInMagic()">Send magic link</button>
+    </div>
+    <div id="magic-sent" class="magic-sent" style="display:none">
+      ✉️ Check your email — we sent you a sign-in link!
+    </div>
+  </div>
+</div>
+
+<!-- Note modal -->
+<div class="modal-overlay" id="note-modal" style="display:none" onclick="if(event.target===this)closeNoteModal()">
+  <div class="modal">
+    <h3>📝 Notes</h3>
+    <p id="note-listing-label" style="font-size:12px;color:#888"></p>
+    <textarea id="note-body" placeholder="Add your notes about this listing…"></textarea>
+    <div class="modal-actions">
+      <button class="btn-danger" id="note-delete-btn" onclick="deleteNote()" style="display:none">Delete</button>
+      <button class="btn-secondary" onclick="closeNoteModal()">Cancel</button>
+      <button class="btn-primary" style="width:auto" onclick="saveNote()">Save</button>
+    </div>
+  </div>
+</div>
+
 <script>
+// ── Supabase ──────────────────────────────────────────────────────────────────
+const SUPA_URL = 'https://twxlfedibabrkhskriqr.supabase.co';
+const SUPA_KEY = 'sb_publishable_xNn0UlNWyOt0vjfZwopTNw_g1lpXDeB';
+const supa = supabase.createClient(SUPA_URL, SUPA_KEY);
+
+let currentUser = null;
+let userBookmarks = new Set();   // Set<listing_id>
+let userTags      = new Map();   // Map<listing_id, tag>
+let userNotes     = new Map();   // Map<listing_id, body>
+
+// ── Data ──────────────────────────────────────────────────────────────────────
 const DATA_BASE = './';
+let allListings = [], allSeekers = [];
+let sortCol = 'available_from', sortDir = 1;
+let seekerSortCol = 'move_in_date', seekerSortDir = 1;
 
-let allListings = [], allSeekers = [], sortCol = 'available_from', sortDir = 1;
-
+// ── Helpers ───────────────────────────────────────────────────────────────────
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 
@@ -366,49 +567,51 @@ function fmtDate(iso) {
   const d = new Date(iso.includes('T') ? iso : iso + 'T00:00:00');
   return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
 }
-
 function fmtPostedAt(raw) {
   if (!raw) return '—';
-  if (raw.includes('T')) {
-    const d = new Date(raw);
-    return d.toLocaleDateString('en-US', { month:'short', day:'numeric' });
-  }
-  // "Friday 29 May 2026 at 18:41" → just the date portion
+  if (raw.includes('T')) return new Date(raw).toLocaleDateString('en-US', { month:'short', day:'numeric' });
   const m = raw.match(/(\d{1,2}\s+\w+\s+\d{4})/);
   return m ? m[1] : raw;
 }
-
 function fmtRent(r) {
   if (r == null) return '<span class="rent-null">—</span>';
   return `<span class="rent">$${r.toLocaleString()}</span>`;
 }
-
 function tagHtml(val, map) {
   if (!val) return '—';
-  const cls = map[val] || '';
-  const label = val.replace(/_/g,' ');
-  return `<span class="tag ${cls}">${esc(label)}</span>`;
+  return `<span class="tag ${map[val]||''}">${esc(val.replace(/_/g,' '))}</span>`;
 }
-
 function fmtGroup(g) {
   if (!g) return '—';
   const m = g.match(/\((\d+\.?\d*[KM])\)/);
   return m ? m[1] : g.slice(0, 20);
+}
+function amenitiesHtml(list) {
+  if (!list || !list.length) return '—';
+  return '<div class="amenities">' + list.map(a => `<span class="amenity">${esc(a.replace(/_/g,' '))}</span>`).join('') + '</div>';
 }
 
 const DURATION_MAP = { short_term:'tag-short', long_term:'tag-long' };
 const TYPE_MAP = { sublease:'tag-sublease', lease_takeover:'tag-lease_takeover', room_rental:'tag-room_rental', entire_unit:'tag-entire_unit' };
 const REASON_MAP = { internship:'tag-internship', student:'tag-student', new_job:'tag-new_job', rotation:'tag-rotation', relocation:'tag-relocation', other:'tag-other' };
 
-function amenitiesHtml(list) {
-  if (!list || !list.length) return '—';
-  return '<div class="amenities">' + list.map(a => `<span class="amenity">${esc(a.replace(/_/g,' '))}</span>`).join('') + '</div>';
-}
-
-function sortValue(p, col) {
-  const v = p[col];
-  if (v == null) return col === 'rent' ? Infinity : '';
-  return v;
+// ── Status cell HTML ──────────────────────────────────────────────────────────
+function statusCellHtml(lid) {
+  const bm = userBookmarks.has(lid);
+  const tag = userTags.get(lid) || '';
+  const hasNote = userNotes.has(lid);
+  return `<div class="status-cell">
+    <button class="bm-btn ${bm ? 'active' : ''}" title="Bookmark" onclick="toggleBookmark('${lid}')">★</button>
+    <select class="utag-select ${tag ? 'tag-'+tag : ''}" onchange="setTag('${lid}', this.value)" title="Tag this listing">
+      <option value="">Tag…</option>
+      <option value="interested"  ${tag==='interested'  ? 'selected':''}>Interested</option>
+      <option value="contacted"   ${tag==='contacted'   ? 'selected':''}>Contacted</option>
+      <option value="toured"      ${tag==='toured'      ? 'selected':''}>Toured</option>
+      <option value="applied"     ${tag==='applied'     ? 'selected':''}>Applied</option>
+      <option value="not_a_fit"   ${tag==='not_a_fit'   ? 'selected':''}>Not a fit</option>
+    </select>
+    <button class="note-btn ${hasNote ? 'active' : ''}" title="Notes" onclick="openNoteModal('${lid}')">📝</button>
+  </div>`;
 }
 
 // ── Listings table ────────────────────────────────────────────────────────────
@@ -418,6 +621,7 @@ function renderListings() {
   const duration     = $('f-duration').value;
   const ltype        = $('f-listing-type').value;
   const furnished    = $('f-furnished').value;
+  const tagFilter    = $('f-tag').value;
 
   let rows = allListings.filter(p => {
     if (neighborhood && !(p.neighborhood||'').toLowerCase().includes(neighborhood)) return false;
@@ -426,34 +630,33 @@ function renderListings() {
     if (ltype && p.listing_type !== ltype) return false;
     if (furnished === 'true'  && p.is_furnished !== true) return false;
     if (furnished === 'false' && p.is_furnished !== false) return false;
+    if (tagFilter === '_bookmarked' && !userBookmarks.has(p.listing_id)) return false;
+    if (tagFilter && tagFilter !== '_bookmarked' && userTags.get(p.listing_id) !== tagFilter) return false;
     return true;
   });
 
   rows.sort((a, b) => {
-    const av = sortValue(a, sortCol), bv = sortValue(b, sortCol);
-    if (av < bv) return -sortDir;
-    if (av > bv) return  sortDir;
-    return 0;
+    const av = a[sortCol] ?? (sortCol==='rent'?Infinity:''), bv = b[sortCol] ?? (sortCol==='rent'?Infinity:'');
+    if (av < bv) return -sortDir; if (av > bv) return sortDir; return 0;
   });
 
   const tbody = $('listings-body');
   tbody.innerHTML = rows.map(p => `
-    <tr>
-      <td style="font-size:11px;color:#888;font-family:monospace">${esc(p.listing_id) || '—'}</td>
+    <tr class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
       <td style="white-space:nowrap;font-size:12px">${esc(fmtPostedAt(p.posted_at))}</td>
       <td>${fmtRent(p.rent)}</td>
       <td>${esc(p.neighborhood) || '—'}</td>
-      <td>${fmtDate(p.available_from)}${p.available_until ? '<br><span style="color:#888;font-size:12px">→ ' + fmtDate(p.available_until) + '</span>' : ''}</td>
+      <td>${fmtDate(p.available_from)}${p.available_until ? '<br><span style="color:#888;font-size:12px">→ '+fmtDate(p.available_until)+'</span>' : ''}</td>
       <td>${tagHtml(p.duration_type, DURATION_MAP)}</td>
       <td>${tagHtml(p.listing_type, TYPE_MAP)}</td>
-      <td>${esc(p.unit_config) || '—'}</td>
-      <td>${esc((p.room_type||'').replace(/_/g,' ')) || '—'}</td>
-      <td>${p.is_furnished === true ? '✓ Yes' : p.is_furnished === false ? 'No' : '—'}</td>
+      <td>${esc(p.unit_config)||'—'}</td>
+      <td>${esc((p.room_type||'').replace(/_/g,' '))||'—'}</td>
+      <td>${p.is_furnished===true?'✓ Yes':p.is_furnished===false?'No':'—'}</td>
       <td>${amenitiesHtml(p.amenities)}</td>
       <td style="font-size:11px;color:#888">${esc(fmtGroup(p.source_group))}</td>
+      <td>${statusCellHtml(p.listing_id)}</td>
       <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a></td>
-    </tr>
-  `).join('');
+    </tr>`).join('');
 
   $('listings-empty').style.display = rows.length ? 'none' : 'block';
   $('listings-table').style.display = rows.length ? '' : 'none';
@@ -465,23 +668,21 @@ document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
     const col = th.dataset.col;
     if (sortCol === col) sortDir *= -1; else { sortCol = col; sortDir = 1; }
     document.querySelectorAll('#listings-table th').forEach(t => t.classList.remove('sorted-asc','sorted-desc'));
-    th.classList.add(sortDir === 1 ? 'sorted-asc' : 'sorted-desc');
+    th.classList.add(sortDir===1?'sorted-asc':'sorted-desc');
     renderListings();
   });
 });
 
-['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished'].forEach(id => {
+['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => {
   $(id).addEventListener('input', renderListings);
   $(id).addEventListener('change', renderListings);
 });
 $('clear-listing-filters').addEventListener('click', () => {
-  ['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished'].forEach(id => $(id).value = '');
+  ['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => $(id).value = '');
   renderListings();
 });
 
-// ── Seeker table ──────────────────────────────────────────────────────────────
-let seekerSortCol = 'move_in_date', seekerSortDir = 1;
-
+// ── Seekers table ─────────────────────────────────────────────────────────────
 function seekerSortVal(p, col) {
   const v = p[col];
   if (v == null) return col === 'budget_max' ? Infinity : '';
@@ -494,24 +695,24 @@ function renderSeekers() {
   const duration  = $('sf-duration').value;
   const reason    = $('sf-reason').value;
   const moveinBy  = $('sf-movein').value.trim();
+  const tagFilter = $('sf-tag').value;
 
   let rows = allSeekers.filter(p => {
     if ((p.budget_max ?? Infinity) > maxBudget) return false;
     if (duration && p.duration_type !== duration) return false;
     if (reason && p.reason !== reason) return false;
     if (moveinBy && p.move_in_date && p.move_in_date > moveinBy) return false;
+    if (tagFilter === '_bookmarked' && !userBookmarks.has(p.listing_id)) return false;
+    if (tagFilter && tagFilter !== '_bookmarked' && userTags.get(p.listing_id) !== tagFilter) return false;
     return true;
   });
 
   rows.sort((a, b) => {
     const av = seekerSortVal(a, seekerSortCol), bv = seekerSortVal(b, seekerSortCol);
-    if (av < bv) return -seekerSortDir;
-    if (av > bv) return  seekerSortDir;
-    return 0;
+    if (av < bv) return -seekerSortDir; if (av > bv) return seekerSortDir; return 0;
   });
 
   $('badge-seekers').textContent = allSeekers.length;
-
   const tbody = $('seekers-body');
   if (!rows.length) {
     tbody.innerHTML = '';
@@ -523,38 +724,28 @@ function renderSeekers() {
   $('seekers-table').style.display = '';
 
   tbody.innerHTML = rows.map(p => {
-    const budgetStr = p.budget_min && p.budget_max
-      ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
-      : p.budget_max
-        ? `≤$${p.budget_max.toLocaleString()}`
-        : p.budget_min
-          ? `$${p.budget_min.toLocaleString()}+`
-          : '—';
-
+    const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
+      : p.budget_max ? `≤$${p.budget_max.toLocaleString()}`
+      : p.budget_min ? `$${p.budget_min.toLocaleString()}+` : '—';
     const moveinStr = p.move_in_date
-      ? fmtDate(p.move_in_date) + (p.move_out_date ? '<br><span style="color:#888;font-size:12px">→ ' + fmtDate(p.move_out_date) + '</span>' : '')
+      ? fmtDate(p.move_in_date) + (p.move_out_date ? '<br><span style="color:#888;font-size:12px">→ '+fmtDate(p.move_out_date)+'</span>' : '')
       : '—';
-
-    const hoods = (p.preferred_neighborhoods || []).filter(Boolean)
-      .map(n => `<span class="chip">${esc(n)}</span>`).join('') || '—';
-
-    const unitTypes = (p.unit_type_wanted || []).filter(Boolean)
-      .map(t => `<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('') || '—';
-
-    const groupStr = p.group_size > 1 ? `${p.group_size} ppl` : p.group_size === 1 ? 'Solo' : '—';
-
-    return `<tr>
+    const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).map(n=>`<span class="chip">${esc(n)}</span>`).join('')||'—';
+    const unitTypes = (p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')||'—';
+    const groupStr = p.group_size>1?`${p.group_size} ppl`:p.group_size===1?'Solo':'—';
+    return `<tr class="${userBookmarks.has(p.listing_id)?'bookmarked':''}">
       <td style="white-space:nowrap;font-size:12px">${esc(fmtPostedAt(p.posted_at))}</td>
       <td style="white-space:nowrap;font-size:13px">${moveinStr}</td>
       <td style="font-weight:600;font-size:13px">${esc(budgetStr)}</td>
-      <td>${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : '—'}</td>
-      <td>${p.reason ? tagHtml(p.reason, REASON_MAP) : '—'}</td>
+      <td>${p.duration_type?tagHtml(p.duration_type,DURATION_MAP):'—'}</td>
+      <td>${p.reason?tagHtml(p.reason,REASON_MAP):'—'}</td>
       <td>${hoods}</td>
       <td>${unitTypes}</td>
-      <td><div class="bio-cell">${esc(p.bio || '—')}</div></td>
-      <td style="text-align:center">${p.age ?? '—'}</td>
+      <td><div class="bio-cell">${esc(p.bio||'—')}</div></td>
+      <td style="text-align:center">${p.age??'—'}</td>
       <td style="text-align:center">${esc(groupStr)}</td>
       <td style="font-size:11px;color:#888">${esc(fmtGroup(p.source_group))}</td>
+      <td>${statusCellHtml(p.listing_id)}</td>
       <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a></td>
     </tr>`;
   }).join('');
@@ -563,74 +754,204 @@ function renderSeekers() {
 document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
   th.addEventListener('click', () => {
     const col = th.dataset.scol;
-    if (seekerSortCol === col) seekerSortDir *= -1; else { seekerSortCol = col; seekerSortDir = 1; }
-    document.querySelectorAll('#seekers-table th').forEach(t => t.classList.remove('sorted-asc','sorted-desc'));
-    th.classList.add(seekerSortDir === 1 ? 'sorted-asc' : 'sorted-desc');
+    if (seekerSortCol===col) seekerSortDir*=-1; else { seekerSortCol=col; seekerSortDir=1; }
+    document.querySelectorAll('#seekers-table th').forEach(t=>t.classList.remove('sorted-asc','sorted-desc'));
+    th.classList.add(seekerSortDir===1?'sorted-asc':'sorted-desc');
     renderSeekers();
   });
 });
-
-['sf-budget','sf-duration','sf-reason','sf-movein'].forEach(id => {
+['sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id => {
   $(id).addEventListener('input', renderSeekers);
   $(id).addEventListener('change', renderSeekers);
 });
 $('clear-seeker-filters').addEventListener('click', () => {
-  ['sf-budget','sf-duration','sf-reason','sf-movein'].forEach(id => $(id).value = '');
+  ['sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id=>$(id).value='');
   renderSeekers();
 });
 
-// ── Spam cards ────────────────────────────────────────────────────────────────
+// ── Spam ──────────────────────────────────────────────────────────────────────
 function renderSpam(posts) {
   $('badge-spam').textContent = posts.length;
-  if (!posts.length) { $('spam-empty').style.display = 'block'; return; }
-  $('spam-cards').innerHTML = posts.map((p, i) => `
+  if (!posts.length) { $('spam-empty').style.display='block'; return; }
+  $('spam-cards').innerHTML = posts.map((p,i) => `
     <div class="card">
-      <div class="card-header">
-        <span class="card-date">${esc(fmtPostedAt(p.posted_at))}</span>
-      </div>
-      <div class="card-text collapsed" id="spam-text-${i}">${esc(p.text || '')}</div>
+      <div class="card-header"><span class="card-date">${esc(fmtPostedAt(p.posted_at))}</span></div>
+      <div class="card-text collapsed" id="spam-text-${i}">${esc(p.text||'')}</div>
       <div style="display:flex;justify-content:space-between;align-items:center">
         <button class="card-expand" onclick="toggleSpam(${i})">Show more</button>
         <a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a>
       </div>
     </div>`).join('');
 }
-
 window.toggleSpam = function(i) {
-  const el = $('spam-text-' + i);
+  const el = $('spam-text-'+i);
   const btn = el.nextElementSibling.querySelector('.card-expand');
-  if (el.classList.toggle('collapsed')) btn.textContent = 'Show more';
-  else btn.textContent = 'Show less';
+  if (el.classList.toggle('collapsed')) btn.textContent='Show more'; else btn.textContent='Show less';
 };
 
 // ── Tabs ──────────────────────────────────────────────────────────────────────
 document.querySelectorAll('.tab').forEach(tab => {
   tab.addEventListener('click', () => {
-    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
     tab.classList.add('active');
     const name = tab.dataset.tab;
-    $('view-listings').style.display = name === 'listings' ? '' : 'none';
-    $('view-seekers').style.display  = name === 'seekers'  ? '' : 'none';
-    $('view-spam').style.display     = name === 'spam'     ? '' : 'none';
-    $('listing-filters').style.display = name === 'listings' ? '' : 'none';
-    $('seeker-filters').style.display  = name === 'seekers'  ? '' : 'none';
+    $('view-listings').style.display = name==='listings'?'':'none';
+    $('view-seekers').style.display  = name==='seekers' ?'':'none';
+    $('view-spam').style.display     = name==='spam'    ?'':'none';
+    $('listing-filters').style.display = name==='listings'?'':'none';
+    $('seeker-filters').style.display  = name==='seekers' ?'':'none';
   });
 });
+
+// ── Auth ──────────────────────────────────────────────────────────────────────
+function showAuthModal() { $('auth-modal').style.display='flex'; }
+function closeAuthModal() {
+  $('auth-modal').style.display='none';
+  $('magic-sent').style.display='none';
+  $('magic-form').style.display='flex';
+  $('magic-email').value='';
+}
+
+async function signInGoogle() {
+  await supa.auth.signInWithOAuth({
+    provider: 'google',
+    options: { redirectTo: window.location.href }
+  });
+}
+
+async function signInMagic() {
+  const email = $('magic-email').value.trim();
+  if (!email) return;
+  const { error } = await supa.auth.signInWithOtp({
+    email,
+    options: { emailRedirectTo: window.location.href }
+  });
+  if (error) { alert(error.message); return; }
+  $('magic-form').style.display='none';
+  $('magic-sent').style.display='block';
+}
+
+async function signOut() {
+  await supa.auth.signOut();
+  currentUser = null;
+  userBookmarks.clear(); userTags.clear(); userNotes.clear();
+  updateAuthUI();
+  renderListings(); renderSeekers();
+}
+
+function updateAuthUI() {
+  const area = $('auth-area');
+  if (currentUser) {
+    const email = currentUser.email || '';
+    area.innerHTML = `<div class="user-menu">
+      <span id="user-email">${esc(email)}</span>
+      <button id="signout-btn" onclick="signOut()">Sign out</button>
+    </div>`;
+  } else {
+    area.innerHTML = `<button id="auth-btn" onclick="showAuthModal()">Sign in</button>`;
+  }
+}
+
+// ── User data ─────────────────────────────────────────────────────────────────
+async function loadUserData() {
+  if (!currentUser) return;
+  const uid = currentUser.id;
+  const [bm, tg, nt] = await Promise.all([
+    supa.from('bookmarks').select('listing_id').eq('user_id', uid),
+    supa.from('tags').select('listing_id,tag').eq('user_id', uid),
+    supa.from('notes').select('listing_id,body').eq('user_id', uid),
+  ]);
+  userBookmarks = new Set((bm.data||[]).map(r=>r.listing_id));
+  userTags      = new Map((tg.data||[]).map(r=>[r.listing_id, r.tag]));
+  userNotes     = new Map((nt.data||[]).map(r=>[r.listing_id, r.body]));
+}
+
+window.toggleBookmark = async function(lid) {
+  if (!currentUser) { showAuthModal(); return; }
+  const uid = currentUser.id;
+  if (userBookmarks.has(lid)) {
+    await supa.from('bookmarks').delete().eq('user_id',uid).eq('listing_id',lid);
+    userBookmarks.delete(lid);
+  } else {
+    await supa.from('bookmarks').upsert({user_id:uid, listing_id:lid});
+    userBookmarks.add(lid);
+  }
+  renderListings(); renderSeekers();
+};
+
+window.setTag = async function(lid, tag) {
+  if (!currentUser) { showAuthModal(); return; }
+  const uid = currentUser.id;
+  if (!tag) {
+    await supa.from('tags').delete().eq('user_id',uid).eq('listing_id',lid);
+    userTags.delete(lid);
+  } else {
+    await supa.from('tags').upsert({user_id:uid, listing_id:lid, tag});
+    userTags.set(lid, tag);
+  }
+  // update just the select color without full re-render
+  document.querySelectorAll(`.utag-select`).forEach(el => {
+    if (el.closest('tr') && el.onchange.toString().includes(`'${lid}'`)) {
+      el.className = 'utag-select' + (tag ? ' tag-'+tag : '');
+    }
+  });
+};
+
+// ── Notes modal ───────────────────────────────────────────────────────────────
+let noteListingId = null;
+
+window.openNoteModal = function(lid) {
+  if (!currentUser) { showAuthModal(); return; }
+  noteListingId = lid;
+  const body = userNotes.get(lid) || '';
+  $('note-body').value = body;
+  $('note-listing-label').textContent = 'Listing ' + lid;
+  $('note-delete-btn').style.display = body ? 'inline-block' : 'none';
+  $('note-modal').style.display = 'flex';
+  setTimeout(() => $('note-body').focus(), 50);
+};
+
+window.closeNoteModal = function() {
+  $('note-modal').style.display = 'none';
+  noteListingId = null;
+};
+
+window.saveNote = async function() {
+  if (!noteListingId || !currentUser) return;
+  const body = $('note-body').value.trim();
+  const uid = currentUser.id;
+  if (!body) {
+    await supa.from('notes').delete().eq('user_id',uid).eq('listing_id',noteListingId);
+    userNotes.delete(noteListingId);
+  } else {
+    await supa.from('notes').upsert({user_id:uid, listing_id:noteListingId, body, updated_at: new Date().toISOString()});
+    userNotes.set(noteListingId, body);
+  }
+  closeNoteModal();
+  renderListings(); renderSeekers();
+};
+
+window.deleteNote = async function() {
+  if (!noteListingId || !currentUser) return;
+  await supa.from('notes').delete().eq('user_id',currentUser.id).eq('listing_id',noteListingId);
+  userNotes.delete(noteListingId);
+  closeNoteModal();
+  renderListings(); renderSeekers();
+};
 
 // ── Load data ─────────────────────────────────────────────────────────────────
 async function load() {
   const [lData, sData, spData] = await Promise.all([
-    fetch(DATA_BASE + 'listings.json').then(r => r.json()),
-    fetch(DATA_BASE + 'seekers.json').then(r => r.json()),
-    fetch(DATA_BASE + 'spam.json').then(r => r.json()),
+    fetch(DATA_BASE+'listings.json').then(r=>r.json()),
+    fetch(DATA_BASE+'seekers.json').then(r=>r.json()),
+    fetch(DATA_BASE+'spam.json').then(r=>r.json()),
   ]);
 
   const times = [lData.updated_at, sData.updated_at, spData.updated_at].filter(Boolean).sort();
   if (times.length) {
-    const d = new Date(times[times.length - 1]);
-    $('updated-at').textContent = 'Updated ' + d.toLocaleString('en-US', { month:'short', day:'numeric', hour:'numeric', minute:'2-digit' });
+    const d = new Date(times[times.length-1]);
+    $('updated-at').textContent = 'Updated '+d.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
   }
-
   const groupName = lData.group_name || sData.group_name || '';
   if (groupName) $('group-name').textContent = groupName + ' ·';
 
@@ -641,6 +962,18 @@ async function load() {
   renderSeekers();
   renderSpam(spData.posts || []);
 }
+
+// ── Auth state ────────────────────────────────────────────────────────────────
+supa.auth.onAuthStateChange(async (event, session) => {
+  currentUser = session?.user || null;
+  updateAuthUI();
+  if (currentUser) {
+    await loadUserData();
+    closeAuthModal();
+    renderListings();
+    renderSeekers();
+  }
+});
 
 load().catch(err => console.error('Failed to load data:', err));
 </script>
