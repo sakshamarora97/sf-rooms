@@ -161,75 +161,31 @@
   }
   .btn-post:hover { background: #1560c0; }
 
-  /* Seeker cards */
-  .seeker-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-    gap: 16px;
-  }
-  .seeker-card {
-    background: #fff;
-    border-radius: 10px;
-    box-shadow: 0 1px 4px rgba(0,0,0,.08);
-    padding: 18px;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-  }
-  .sc-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 8px;
-  }
-  .sc-date { font-size: 11px; color: #999; }
-  .sc-bio {
-    font-size: 13px;
-    color: #333;
-    line-height: 1.55;
-    font-style: italic;
-  }
-  .sc-facts {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px 16px;
-  }
-  .sc-fact { display: flex; flex-direction: column; gap: 2px; }
-  .sc-fact-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.4px; color: #aaa; }
-  .sc-fact-value { font-size: 13px; color: #222; font-weight: 500; }
-  .sc-fact-value.muted { color: #aaa; font-weight: 400; }
-  .sc-chips { display: flex; flex-wrap: wrap; gap: 5px; }
-  .sc-chip {
+  .chip {
+    display: inline-block;
     background: #eef2ff;
     color: #3b4ecc;
-    border-radius: 12px;
-    padding: 3px 10px;
+    border-radius: 10px;
+    padding: 2px 8px;
     font-size: 11px;
     font-weight: 500;
+    margin: 1px 2px 1px 0;
   }
-  .sc-chip-type {
+  .chip-type {
+    display: inline-block;
     background: #f0f0f0;
     color: #555;
-    border-radius: 12px;
-    padding: 3px 10px;
-    font-size: 11px;
-  }
-  .sc-footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 8px;
-    padding-top: 4px;
-    border-top: 1px solid #f0f0f0;
-  }
-  .sc-badges { display: flex; gap: 6px; flex-wrap: wrap; }
-  .sc-badge {
-    font-size: 11px;
+    border-radius: 10px;
     padding: 2px 8px;
-    border-radius: 4px;
-    background: #f5f5f5;
+    font-size: 11px;
+    margin: 1px 2px 1px 0;
+  }
+  .bio-cell {
+    font-size: 12px;
     color: #555;
+    font-style: italic;
+    line-height: 1.45;
+    max-width: 280px;
   }
 
   /* Spam cards (simple) */
@@ -366,7 +322,26 @@
   </div>
 
   <div id="view-seekers" style="display:none">
-    <div class="seeker-grid" id="seekers-grid"></div>
+    <div class="table-wrap">
+      <table id="seekers-table">
+        <thead>
+          <tr>
+            <th data-scol="posted_at">Posted</th>
+            <th data-scol="move_in_date">Move-in</th>
+            <th data-scol="budget_max">Budget</th>
+            <th data-scol="duration_type">Duration</th>
+            <th data-scol="reason">Reason</th>
+            <th data-scol="preferred_neighborhoods">Neighborhoods</th>
+            <th data-scol="unit_type_wanted">Looking for</th>
+            <th data-scol="bio">Bio</th>
+            <th data-scol="age">Age</th>
+            <th data-scol="group_size">Group</th>
+            <th>Post</th>
+          </tr>
+        </thead>
+        <tbody id="seekers-body"></tbody>
+      </table>
+    </div>
     <div class="empty" id="seekers-empty" style="display:none">No seeker posts match your filters.</div>
   </div>
 
@@ -495,7 +470,16 @@ $('clear-listing-filters').addEventListener('click', () => {
   renderListings();
 });
 
-// ── Seeker cards ──────────────────────────────────────────────────────────────
+// ── Seeker table ──────────────────────────────────────────────────────────────
+let seekerSortCol = 'move_in_date', seekerSortDir = 1;
+
+function seekerSortVal(p, col) {
+  const v = p[col];
+  if (v == null) return col === 'budget_max' ? Infinity : '';
+  if (Array.isArray(v)) return v.join(', ');
+  return v;
+}
+
 function renderSeekers() {
   const maxBudget = parseInt($('sf-budget').value) || Infinity;
   const duration  = $('sf-duration').value;
@@ -510,82 +494,71 @@ function renderSeekers() {
     return true;
   });
 
+  rows.sort((a, b) => {
+    const av = seekerSortVal(a, seekerSortCol), bv = seekerSortVal(b, seekerSortCol);
+    if (av < bv) return -seekerSortDir;
+    if (av > bv) return  seekerSortDir;
+    return 0;
+  });
+
   $('badge-seekers').textContent = allSeekers.length;
 
+  const tbody = $('seekers-body');
   if (!rows.length) {
-    $('seekers-grid').innerHTML = '';
+    tbody.innerHTML = '';
     $('seekers-empty').style.display = 'block';
+    $('seekers-table').style.display = 'none';
     return;
   }
   $('seekers-empty').style.display = 'none';
+  $('seekers-table').style.display = '';
 
-  $('seekers-grid').innerHTML = rows.map(p => {
+  tbody.innerHTML = rows.map(p => {
     const budgetStr = p.budget_min && p.budget_max
-      ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}/mo`
+      ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
       : p.budget_max
-        ? `up to $${p.budget_max.toLocaleString()}/mo`
+        ? `≤$${p.budget_max.toLocaleString()}`
         : p.budget_min
-          ? `$${p.budget_min.toLocaleString()}+/mo`
-          : null;
+          ? `$${p.budget_min.toLocaleString()}+`
+          : '—';
 
-    const datesStr = p.move_in_date
-      ? fmtDate(p.move_in_date) + (p.move_out_date ? ' → ' + fmtDate(p.move_out_date) : '')
-      : null;
+    const moveinStr = p.move_in_date
+      ? fmtDate(p.move_in_date) + (p.move_out_date ? '<br><span style="color:#888;font-size:12px">→ ' + fmtDate(p.move_out_date) + '</span>' : '')
+      : '—';
 
-    const neighborhoods = (p.preferred_neighborhoods || []).filter(Boolean);
-    const unitTypes     = (p.unit_type_wanted || []).filter(Boolean);
+    const hoods = (p.preferred_neighborhoods || []).filter(Boolean)
+      .map(n => `<span class="chip">${esc(n)}</span>`).join('') || '—';
 
-    const badges = [];
-    if (p.group_size > 1) badges.push(`👥 ${p.group_size} people`);
-    else if (p.group_size === 1) badges.push('👤 Solo');
-    if (p.age) badges.push(`Age ${p.age}`);
-    if (p.has_pets === true)  badges.push('🐾 Has pets');
-    if (p.has_pets === false) badges.push('No pets');
-    if (p.furnished_required === true)  badges.push('Furnished req.');
-    if (p.furnished_required === false) badges.push('Unfurnished ok');
+    const unitTypes = (p.unit_type_wanted || []).filter(Boolean)
+      .map(t => `<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('') || '—';
 
-    return `
-      <div class="seeker-card">
-        <div class="sc-header">
-          <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap">
-            ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
-            ${p.reason ? tagHtml(p.reason.replace(/_/g,' '), REASON_MAP) || tagHtml(p.reason, REASON_MAP) : ''}
-          </div>
-          <span class="sc-date">${esc(fmtPostedAt(p.posted_at))}</span>
-        </div>
+    const groupStr = p.group_size > 1 ? `${p.group_size} ppl` : p.group_size === 1 ? 'Solo' : '—';
 
-        ${p.bio ? `<div class="sc-bio">${esc(p.bio)}</div>` : ''}
-
-        <div class="sc-facts">
-          <div class="sc-fact">
-            <span class="sc-fact-label">Budget</span>
-            <span class="sc-fact-value${budgetStr ? '' : ' muted'}">${esc(budgetStr) || '—'}</span>
-          </div>
-          <div class="sc-fact">
-            <span class="sc-fact-label">Move-in</span>
-            <span class="sc-fact-value${datesStr ? '' : ' muted'}">${esc(datesStr) || '—'}</span>
-          </div>
-        </div>
-
-        ${neighborhoods.length ? `
-        <div>
-          <div class="sc-fact-label" style="margin-bottom:5px">Neighborhoods</div>
-          <div class="sc-chips">${neighborhoods.map(n => `<span class="sc-chip">${esc(n)}</span>`).join('')}</div>
-        </div>` : ''}
-
-        ${unitTypes.length ? `
-        <div>
-          <div class="sc-fact-label" style="margin-bottom:5px">Looking for</div>
-          <div class="sc-chips">${unitTypes.map(t => `<span class="sc-chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')}</div>
-        </div>` : ''}
-
-        <div class="sc-footer">
-          <div class="sc-badges">${badges.map(b => `<span class="sc-badge">${esc(b)}</span>`).join('')}</div>
-          <a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a>
-        </div>
-      </div>`;
+    return `<tr>
+      <td style="white-space:nowrap;font-size:12px">${esc(fmtPostedAt(p.posted_at))}</td>
+      <td style="white-space:nowrap;font-size:13px">${moveinStr}</td>
+      <td style="font-weight:600;font-size:13px">${esc(budgetStr)}</td>
+      <td>${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : '—'}</td>
+      <td>${p.reason ? tagHtml(p.reason, REASON_MAP) : '—'}</td>
+      <td>${hoods}</td>
+      <td>${unitTypes}</td>
+      <td><div class="bio-cell">${esc(p.bio || '—')}</div></td>
+      <td style="text-align:center">${p.age ?? '—'}</td>
+      <td style="text-align:center">${esc(groupStr)}</td>
+      <td><a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a></td>
+    </tr>`;
   }).join('');
 }
+
+document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.scol;
+    if (seekerSortCol === col) seekerSortDir *= -1; else { seekerSortCol = col; seekerSortDir = 1; }
+    document.querySelectorAll('#seekers-table th').forEach(t => t.classList.remove('sorted-asc','sorted-desc'));
+    th.classList.add(seekerSortDir === 1 ? 'sorted-asc' : 'sorted-desc');
+    renderSeekers();
+  });
+});
 
 ['sf-budget','sf-duration','sf-reason','sf-movein'].forEach(id => {
   $(id).addEventListener('input', renderSeekers);
