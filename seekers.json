@@ -1,10 +1,10 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-30T02:14:39.623508",
-  "count": 136,
+  "updated_at": "2026-05-30T09:22:07.338642",
+  "count": 144,
   "posts": [
     {
-      "listing_id": "25421312",
+      "listing_id": "c08bd33789e0f7c0",
       "post_type": "seeker",
       "duration_type": "short_term",
       "move_in_date": "2026-06-20",
@@ -22,9 +22,9 @@
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "They are a couple working in fintech.",
+      "bio": "They are both in fintech.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/user/25421312/?__cft__[0]=AZbePnbfmom0Xbur86DhLF1dtKssuysEFAUscP8iql8yS368NT0Cegm3HgqazY3g1AEpuuaa-VQjsjXAQZ-JNzO7qWWVJ1qr9qrAnNEpnmaAj8wXxSvkzD-kCA8KQyB_c20SlWjGj6XtX0pBd_IY2DgKZczP_lZcdOXlhfCs4Hzm3fv2dPdU9W3ZT4ivlHJameM&__tn__=%3C%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
@@ -61,8 +61,9 @@
       "budget_min": null,
       "budget_max": null,
       "unit_type_wanted": [
-        "room",
-        "shared_apartment"
+        "sublet",
+        "furnished room",
+        "shared apartment"
       ],
       "preferred_neighborhoods": [
         "Dogpatch",
@@ -163,7 +164,7 @@
       "has_pets": null,
       "reason": "student",
       "age": 21,
-      "bio": "They are a 21-year-old student transferring to SF State this fall, easy going, clean, social, and active.",
+      "bio": "They are 21 years old, easy going, clean, social, enjoy being outdoors, camping, festivals, watching movies, and love music. They play volleyball and stay active, respecting personal space and routines.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4599731760261828/?__cft__[0]=AZZSct1ENCMv_ny2-itPSIwJSRnGta7g3scAbnItOVMF0tsOP3WoUCcQwW1qYaG4157w60ay9MlCZ7yhoaEhSKkGZCSWbjT6RXpxGhOl-ooMRx0BEQ6LnYm0Ga7cyI7jjxJBZjibyXmoNpMPB0ubMKgPcfOH8qkCZQcSbIM66sWG3bfTxWK0QwZVZtiQGYjwuZn0C8Rb13LRGxYqg6HSff5RuRsDKH5jXBvz1yD-69KUxWCMrK0BDwp0Kj6yx796wwSlIRF0dQtXfZ536eOYHAo2&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 29 May 2026 at 15:05",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
@@ -385,7 +386,7 @@
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "They are looking for housing in San Francisco and are flexible on dates.",
+      "bio": "Looking for housing in San Francisco from June 15 through November, flexible on dates.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4598680583700279/?__cft__[0]=AZbhRGh4VExdwjV6prF6_4TAVPlmNmO9jw-AktmMSMBPv_sZTOB_7dAWziixEdBh6pqXcFs6PfzeWrKyC-ySBVFqyhqTdIjBn-Z6L-P2ebNIGAFpn-0JHbZU8XfUKNy8PBNZwj2QGfGhkYJ-Dje33Xo0BsZPwfMFBMdLUnx1p1GNCVgl4uOH_C8fklQ6NjVhecEck1drYWWsj94rn_ZhuvIQ&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 16:12",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
@@ -487,7 +488,7 @@
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "They are a young professional working in water engineering, originally from the East Bay and studied civil engineering at UC Davis. In their free time, they love to play volleyball, take dance lessons, hike, and chat over boba with friends.",
+      "bio": "They are a young professional working in water engineering, originally from the East Bay and studied civil engineering at UC Davis. They enjoy playing volleyball, taking dance lessons, hiking, and chatting over boba with friends.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4598285673739770/?__cft__[0]=AZb0aA1JbfR7fH5Gvmhb-fvFLWKCKqr9Fm6Ay7wxt2eXwtGiK7oBLp8xGeER4obHHephBrH6N02_bShoASm0x0xVRwO4gR9fiAfrnpRO4fO_nj8Lycuc7eONhkI5hvFK1Licq1Y8UhYu31W8vZEuiMi-VgLGMETNb-IsO9OnquJNuBBMgC9vIMZCN_JIxiCMhKGlJMkAYGTIZO8SqZ0UYZey&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 07:13",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
@@ -564,7 +565,6 @@
       ],
       "preferred_neighborhoods": [
         "San Mateo",
-        "SF",
         "Cow Hollow"
       ],
       "furnished_required": null,
@@ -758,8 +758,7 @@
       "budget_min": null,
       "budget_max": null,
       "unit_type_wanted": [
-        "room",
-        "sharing apartment"
+        "room"
       ],
       "preferred_neighborhoods": [
         "South San Francisco",
@@ -819,7 +818,7 @@
       "has_pets": null,
       "reason": null,
       "age": 25,
-      "bio": "She is 25 years old and recently moved to San Francisco. She describes herself as clean, responsible, respectful, and organized.",
+      "bio": "Lucia is 25 years old and recently moved to San Francisco. She is clean, responsible, respectful, and organized.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4596447020590302/?__cft__[0]=AZaxKZGC2PuG2LSICS3O4QN9MBdxLVCRrQZGOBpdo7I4ZurvHK4m00zAPqoqe_JAN4_l2-NeWDwjHloHvBjrc1WDWblcsQuV5URNB6CSZjsi6g4CPBQsWfn-2zHShhxOTKGerKDuVcFaVz6pzC9ubdM3NOZR62dz0eTxtfGzZticzh1LhVEUbKTRHaAQ4GHrNxuyEfwKwXaaBUMJDWwNsoHZ&__tn__=%2CO%2CP-R",
       "posted_at": "Tuesday 26 May 2026 at 12:29",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
@@ -841,7 +840,7 @@
       "has_pets": null,
       "reason": null,
       "age": 22,
-      "bio": "A 22-year-old male working professional who enjoys arts, hiking, playing pool, going to the gym, and occasionally clubbing. He is easygoing, responsible, and always respectful of shared spaces and house rules.",
+      "bio": "A 22-year-old male working professional who enjoys arts, hiking, playing pool, going to the gym, and occasionally clubbing. He describes himself as clean, friendly, and respectful, valuing a peaceful and comfortable living environment.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4595722947329376/?__cft__[0]=AZbYNENJlPg6MidtM60HrJVwTfLPCzd6A9IS0ulJdbfLZGSvCWANOZlrhAOMmZpYEQBhQKpWC9s5LKFF4uzDp3lNetx-ApBsWtczjpkSJlxVXfToyfG73Lmbp0TqE9ugspghfWImJIMdkwPIJrPOtsTjaPwDAE01frakUAmnaZAYhEk8AkunabsBpk7BSVhGrIRd_DFhNoyY9mPxTat7Dv9x&__tn__=%2CO%2CP-R",
       "posted_at": "Monday 25 May 2026 at 20:16",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
@@ -858,9 +857,7 @@
         "4B2B",
         "5B2B"
       ],
-      "preferred_neighborhoods": [
-        "San Francisco"
-      ],
+      "preferred_neighborhoods": null,
       "furnished_required": null,
       "group_size": 1,
       "has_pets": null,
@@ -883,7 +880,7 @@
         "room"
       ],
       "preferred_neighborhoods": [
-        "Financial District"
+        "Fidi"
       ],
       "furnished_required": null,
       "group_size": 1,
@@ -919,7 +916,7 @@
       "furnished_required": null,
       "group_size": 2,
       "has_pets": null,
-      "reason": "internship",
+      "reason": "other",
       "age": null,
       "bio": "A Stanford grad student spending the summer in SF for work.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4594931590741845/?__cft__[0]=AZakBfx0HuP5_vTVPfHqWBaMh5d5djghVMJeFRUlGPVAnOMTqtH9aZbwD1qWoq_dogDoGa4jbW2fHm-PWLR0BUzg1BQWduOZZc2FuEAdQzWqMjbI6DeBIQnA1ZBgPoKw_aR8y26rLXvxZKErbKXNMhWgQ-1OTYL3nCqofe2tkvIaxP1HXiHk7zZONyGR60v1Fqk&__tn__=%2CO%2CP-R",
@@ -961,9 +958,7 @@
       "move_out_date": null,
       "budget_min": null,
       "budget_max": null,
-      "unit_type_wanted": [
-        "room"
-      ],
+      "unit_type_wanted": null,
       "preferred_neighborhoods": [
         "Marina",
         "Cow Hollow",
@@ -973,8 +968,8 @@
       "group_size": 1,
       "has_pets": null,
       "reason": null,
-      "age": 23,
-      "bio": "He is 23 years old, working in public accounting, and is pretty social and easygoing. He enjoys working out, binge-watching TV shows, grabbing food/drinks, exploring the city, and anything fun/social.",
+      "age": null,
+      "bio": "23-year-old working in public accounting, pretty social and easygoing, enjoys working out, binge-watching TV shows, and exploring the city.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4594560417445629/?__cft__[0]=AZYtgmmafrsjuOI2wCO_RS7k9Rn4RXFXRk75Vd8vKdgLQi-JAt6ZKrLrQzGX3f_tUjOx34Hbva1DE29-Ex7jvE1G7m3i6FJrSgVIpWfeBVzVuNbQIe-_tBQMXEorT_j9mWkIFhcDkKyd35jK_y8TvtjMFaJikeKNlyY13PRbhBAoPSqTUspOyJqvfsqgn19sk7eDsYiXJyF4gwNb0OLgXA81&__tn__=%2CO%2CP-R",
       "posted_at": "Sunday 24 May 2026 at 15:54",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
@@ -987,18 +982,14 @@
       "move_out_date": null,
       "budget_min": null,
       "budget_max": null,
-      "unit_type_wanted": [
-        "boarding house"
-      ],
-      "preferred_neighborhoods": [
-        "Purok 2, Brgy. Alegria, San Francisco, Agusan del Sur"
-      ],
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
       "furnished_required": null,
-      "group_size": 1,
+      "group_size": null,
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "Looking for an affordable boarding house for rent.",
+      "bio": null,
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4594557024112635/?__cft__[0]=AZZbWJDGPxdTQUWTVu2DIj0zT5NLY5X_var7U0l8vcpXPLfR9zP9FB8ep0iGeRXDfu_tyFXa3JV-CdKhcrqjk4kzM6Iexwbvg6VrOMr2yUCWsm9W7gZKnzi_U-F8eB0CfIsvaHtvGlEXeXd61O_YilPEZaXZITyO2IoPCSCqQNYzejpdygJ4CXauoMg06E17v2lEnBL129YSwVeSTxflAn1P6qKVAf9hhsA9auJvFjXnTQ&__tn__=%2CO%2CP-R",
       "posted_at": "Sunday 24 May 2026 at 15:48",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
@@ -1049,7 +1040,7 @@
       "has_pets": null,
       "reason": "internship",
       "age": 21,
-      "bio": "21-year-old female working as a landscape architecture intern in Sausalito. She goes to the University of Toronto and enjoys hiking and practicing film photography.",
+      "bio": "21F working as a landscape architecture intern in Sausalito. She goes to the University of Toronto but was raised on the east coast in Connecticut. She looks forward to hiking and practicing film photography during her time here on the West Coast.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4593327180902286/?__cft__[0]=AZarcGSqA1Pn2By9y-breMgvTzNa_hBajC9ewa69QZZNQrbbdXj31Y7z-uFmajx1kBuSiu4CW54bQJ2V3UYVMUcOPQa0ZMCqDVXJbG5pUjVptoMelGMGtGHm9X6Ba2KXNKTF8kctxiJDY_4zQQS5KZzrp-8Rfb64MThpb8xIAn5IERvuqgDDEcidId0pGXAetQI&__tn__=%2CO%2CP-R",
       "posted_at": "Saturday 23 May 2026 at 10:36",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
@@ -1073,7 +1064,7 @@
       "age": null,
       "bio": "They are a techie and an easy-going, clean and respectful roommate. Aside from work, they enjoy playing soccer, board games and are a movie buff. They like being friends with their roommates and respect privacy as well.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4592764177625253/?__cft__[0]=AZb6V2mFLw1Kiv9E2Vs_Ucu2G6-3qY1Gw5OVIdL3sV8Na860PWuGeEqrUxIzjqfzHu4St3viGsThlpcg3ZDyrmnMugnuONtj5LnBi2OKktTE1t45XsZj0aJ41Q_eTGlKut3-jDdl9zZWRGkhzr7OgoHioJF0JM0sPQDu2yMFMqoDXo0vnMwktANodQrM8m-AdPc&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
@@ -1098,7 +1089,7 @@
       "has_pets": null,
       "reason": "new_job",
       "age": 20,
-      "bio": "Moving from Brazil to start as an AI Engineer at an early-stage startup. Low-key, work-focused, and clean. Enjoys working out, reading, and getting some beers on weekends.",
+      "bio": "Moving from Brazil to start as an AI Engineer at an early-stage startup. Low-key, work-focused, and clean.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26968418792815420/?__cft__[0]=AZZoHIX72JLpP7Bw0Hrw9vQkHg8-TDwdOKYv-RSK4wwp42sCd4WOVhxrbJXF9iokEunmKx9XEq-Mx4HoOKg8qUGH1ICqFyGw82V5lPkqBMMRe6G_shBFbb2KbIlVbL7Fk4ZQ2dRGUaokbvc-ZYlykC69PYD-H1sJvm6i-8Db9F_DssvPdR_OODdTHagbSAFyxD6Z9LzAIJDpF6kcuKBOI767&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 29 May 2026 at 08:15",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1113,6 +1104,7 @@
       "budget_max": null,
       "unit_type_wanted": [
         "1B",
+        "1B1B",
         "studio"
       ],
       "preferred_neighborhoods": [
@@ -1172,7 +1164,7 @@
       "has_pets": null,
       "reason": "internship",
       "age": null,
-      "bio": "A Junior at NYU studying Computer Science, looking for a sublet while working for a startup in SF.",
+      "bio": "A Junior at NYU studying Computer Science who will be in SF this summer working for a startup.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26976370992020200/?__cft__[0]=AZZ4hUreIyg2YA4BPaUeeP9PV4C_HQWJ2A14Cn2XYTr3ej1q4FOeEzYLSAUJbnsrWYhYvccotyJw25onEc0xfvcT8tuJKHFFRBv_X_9ah-k-TWGljZD2-LiV41E7yu1P5uIW20E-oVVjlV68LspJRjpQ5RZRD91Q1V9h8Oq6yQ2cDUJubW5p8vcse_fv-e5aKdw&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 29 May 2026 at 08:11",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1223,7 +1215,7 @@
       "has_pets": null,
       "reason": "rotation",
       "age": null,
-      "bio": "They are a medical student rotating at UCSF Benioff Children's Hospital Mission Bay campus.",
+      "bio": "They are a medical student who will be rotating at UCSF Benioff Children's Hospital Mission Bay campus.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26955023717488261/?__cft__[0]=AZbJ30jgwELOOtOFyrPM_zySBkWaWlKVwPEQj-ztBzAEBaW8taw5mLo4IVbTo5-8K87tVEzPvbR1HqMVKyxxeUi_6U63pwsrsCOTDcVrhco2nng9SNefTXkfU5yW6pdrSPF4VzBGkGKgTvXIfmOoLNPqR1waAMrVs-Hk4xGYmDQEXpYLR4wqlbvTMWiAoyNZlgA&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 04:11",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1294,17 +1286,17 @@
         "entire_unit"
       ],
       "preferred_neighborhoods": [
-        "russian hill",
-        "nob hill",
-        "north beach",
-        "the mission"
+        "Russian Hill",
+        "Nob Hill",
+        "North Beach",
+        "The Mission"
       ],
       "furnished_required": null,
       "group_size": 1,
       "has_pets": null,
       "reason": "new_job",
       "age": 23,
-      "bio": "They are 23 years old, just graduated from USC, and got a job in tech. They love running, working out, watching movies, hoops, soccer, and socializing.",
+      "bio": "They are a 23-year-old recent graduate from USC who just got a job in tech. They love running, working out, watching movies, hoops, soccer, and socializing, and describe themselves as responsible, clean, and considerate.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26962222253435074/?__cft__[0]=AZbqg274MvnXbZSIw5e8S67GdVST4dlM0XlyhtMt2ugI2OBbavR2OX58un94wjPQVsz5_XT-2dWEUXrKBQbRDcGobi_py4RukmFTjcOMZHaBdq2BlOrjjOPwlks1sNGftsky5k07fg6_ySwR4dir5nO_ivo9mxBKtPB24ZI_h7_yIS9GpWKJXR2DoTpiLAJUB1uw0_x1-PNitxbdzwIjkrNd&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 04:11",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1321,7 +1313,7 @@
         "room",
         "2B2B"
       ],
-      "preferred_neighborhoods": null,
+      "preferred_neighborhoods": [],
       "furnished_required": null,
       "group_size": 1,
       "has_pets": null,
@@ -1375,7 +1367,7 @@
       "has_pets": null,
       "reason": "new_job",
       "age": 24,
-      "bio": "She is 24 years old and moving to SF for a new job. She enjoys going to Solidcore, doing yoga, going on walks and runs, and exploring coffee shops and bakeries.",
+      "bio": "She is 24 years old and moving to SF for a new job. She enjoys going to Solidcore, doing yoga, going on walks and runs, getting drinks, and trying coffee shops and bakeries.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26957074800616486/?__cft__[0]=AZbYokokCMsUxeHrVHRwWcXDZY22cdJMQlO4WjkE-aObL2EdKnmsaT7zxMVSTBQwdQr5QYH4olZDAPaSXZg4zK-JW7M81rQ4R099qklFWfuKimdJswZMtwWfUq4jcHseNytaX1WRlgsVLVBcXHk5syEag7G43xNQ-fhHa0Gnc7gWLSVn12DeHyff7IyUaUh1YOHgjLiBvHP2Pko3SbAJxpC4&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 04:10",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1441,7 +1433,7 @@
       "budget_min": null,
       "budget_max": 2000,
       "unit_type_wanted": [
-        "bedroom"
+        "room"
       ],
       "preferred_neighborhoods": null,
       "furnished_required": null,
@@ -1471,7 +1463,7 @@
       "has_pets": null,
       "reason": "new_job",
       "age": 21,
-      "bio": "A 21-year-old new grad from the University of Michigan moving to SF in early July, working full time in tech sales. Friendly and respectful, loves fashion, hiking, music events, dancing, traveling, and baking.",
+      "bio": "A 21-year-old new grad from the University of Michigan moving to SF for a full-time job in tech sales. She is friendly, respectful, and enjoys fashion, hiking, music events, dancing, traveling, and baking.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26950415197949113/?__cft__[0]=AZaEKTg5JLFg-FSm9Ho2mfqvH2d1wUu-OUO0ubQ9s83NdoVlDLf4cviv9WVYiOH9ZJQ0Y0KnJWozUi7Oy2KEvRAs5Y3AwFhJcCkREW9nrxN6lwdkdDOx-ycww5eZ1zGK0cWIvCeExfGWNR8vCmI2Kwo51M7d8EhHhQ5sXeS06V2WcpP-SFcF_A4GyoQm-aYtCsQNp3BiSaU4RxM4bicYZKJd&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 27 May 2026 at 06:57",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1500,7 +1492,7 @@
       "has_pets": null,
       "reason": "other",
       "age": 22,
-      "bio": "Just graduated from USC. Loves being outdoors and playing basketball, UFC, backpacking, and going out for food and drinks.",
+      "bio": "22y/o and just graduated from USC. Loves being outdoors and playing basketball, UFC, backpacking, and going out for food and drinks.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26949465091377457/?__cft__[0]=AZb5KpUCnAxQW7GYqNbfOuMrhOQeYmFQfvZ0p9o80KTwwl2ooY35V_09y_PDHrlDt50tJdWPwC-bYWQnUDL5AiXQAE8frlZQZiQxpTVtxP_QLQAOJkX3v8Be2DHWO7bwzKkN5wjnIBgXux_qVNAOx_HWtcUAddEiLUKuQx0qb9Sb1KlJmj44vkm9-srafzlvwBnwmrISTdTeZB-9DUbXO8rM&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 27 May 2026 at 06:57",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1575,7 +1567,7 @@
       "has_pets": null,
       "reason": "new_job",
       "age": 25,
-      "bio": "A 25-year-old mechanical engineer moving to San Francisco for work. Outside of work, he enjoys mountain biking, hiking, camping, and exploring the city.",
+      "bio": "He is a 25-year-old mechanical engineer moving to San Francisco for work. Outside of work, he enjoys mountain biking, hiking, camping, and exploring the city.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26948094314847868/?__cft__[0]=AZYXV3m0HwrLaLk_Jc54YbA1Tn49kKIEDto55XVETDWgzlxDLyror1tPCja2QdNKlCRgDXcxAHFIyW4ohXq6sIrVA62XFgcfF_GiogjLdZuWXw1lmKxBIlQzz82uvQaXPaASBLANbuFzeV7yhBaF9TXwWthPz0z88rwVAwu5Bwk4EL2yTlhmAKAvDDlhG3BllMfJ3SxYhntFKzO1s9PQgLdW&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 27 May 2026 at 06:57",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1609,7 +1601,7 @@
       "duration_type": "long_term",
       "move_in_date": "2026-07-01",
       "move_out_date": null,
-      "budget_min": null,
+      "budget_min": 0,
       "budget_max": 10000,
       "unit_type_wanted": [
         "4B"
@@ -1712,7 +1704,7 @@
       "has_pets": null,
       "reason": "internship",
       "age": null,
-      "bio": "Two rising seniors studying at Northwestern University looking for a summer place to stay in the city for their internships.",
+      "bio": "Two rising seniors studying at Northwestern University looking for a summer place to stay in the city.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26931110039879629/?__cft__[0]=AZYJQGSGM-P9hm1Jw2nwBIzwqvzvwBQGjEfmFMLQdTojE8nAiWNQ5U6NCV_PRET6zhLz-pETaSOdVwZVlk64H4FzFkeoU69qEzF536Gl9FzhNxzhZt-ZoEWrKyxaLFw2WDJN4ry50jWbt76VHyzK8gMWyrjdEsKnTvhBrczFLpEA-IQWa7C80gL3eMCnQfzVoaNhA7KE7IeEKYdCOAyit1Zm&__tn__=%2CO%2CP-R",
       "posted_at": "Monday 25 May 2026 at 17:46",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1736,7 +1728,7 @@
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "Looking for a one bedroom, one bathroom for their sister who needs a place immediately.",
+      "bio": "They are helping their sister find a one-bedroom, one-bathroom place.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26929266350063998/?__cft__[0]=AZbgGfg6Mi3A_bjf3hErGaFALR73G5BAfpjkAPqgBrYQ2Ez_wTUo1_vgafw4liM22aIwVNC1oY7MPinxUfaoNXuvP_TJYWuHYkKN8k21_T6f5GM9hdcAYVxpIgbtClH7DLgxOz0q4l1gXlxZonM353qcX7I7-Qp4htC-Kns0MH6D-_OqNrxepAH1u3q1tGsFYgs&__tn__=%2CO%2CP-R",
       "posted_at": "Monday 25 May 2026 at 17:46",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1756,7 +1748,7 @@
       "has_pets": null,
       "reason": null,
       "age": 20,
-      "bio": "A software engineer in his 20s working in the Bay Area. He lives a very healthy, longevity focused lifestyle and doesn\u2019t drink or smoke.",
+      "bio": "He is a software engineer in his 20s working in the Bay Area. His hobbies include photography, travel, and exploring the city. He lives a very healthy, longevity focused lifestyle and doesn\u2019t drink or smoke.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26926995916957708/?__cft__[0]=AZaSW-UP_EEUpqjympkxaJDNGeArR_tVcZZmUz9Pne2iOvIjRjTuDJwtPEjNLXZs1F_U7UY1erQkFc2HsZ4Og6iDuEkC2UyJgDK3zEUrs2G75hPSfKfNfHZ0EB8qD2Mug1taYWvMqLQpoQI4ml-E0NcO-XnaPxF0TTZX6pWmyq75FyuW7p7iAi84nKw58IEql37aYo3Ss7aPTiuF6ABD0loY&__tn__=%2CO%2CP-R",
       "posted_at": "Monday 25 May 2026 at 17:46",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -1804,11 +1796,12 @@
       "duration_type": "short_term",
       "move_in_date": "2026-06-01",
       "move_out_date": "2026-08-31",
-      "budget_min": null,
+      "budget_min": 0,
       "budget_max": 2000,
       "unit_type_wanted": [
-        "1B1B",
-        "studio"
+        "1B",
+        "studio",
+        "3B"
       ],
       "preferred_neighborhoods": null,
       "furnished_required": null,
@@ -1818,7 +1811,7 @@
       "age": null,
       "bio": "A UPenn Robotics Masters student interning at a robotics company in the bay. They are very clean, can be outgoing or quiet depending on the situation, and enjoy playing basketball, fitness, and watching sports.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26900244092966224/?__cft__[0]=AZYOk-GmrHlTJBCqyTGRfNpLFtUzNld-2GppR3u-EtA-dk7TVfAhCnPAi3w3zochCmvJMK0f_cq_M54LN_rx5DwjIom1o3MMqKUqzpx-NH7VGfHaRdqOlMOcBJNnXSfenien3-5uxAhszt7qHQzWaaD_qOKHq8xxN6gwnCJwlc_sZDptDyRHzzm7pfFEotrYtmg&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
@@ -1842,7 +1835,7 @@
       "age": null,
       "bio": "She is a college student moving to the area for a Summer internship. She is clean, organized, and respectful of shared spaces, and in her free time, she likes to read and do art.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26900004102990223/?__cft__[0]=AZZhQXSbJg1XGm3hLaZ_fwGI5cAu7kEfHS2h587vU7JcX_Ke9vSxb6JgAG6SV1noULprcO_tikFrv9CnEjspQZ80D7ThXo3VObzw6TgxrQ3ptYdlDu3HN0ESJcFCQ65UqJeXeWVHI94rsQdDP_x8GCSl9vHg3NspjhXqPrlYM5hn5CEXsna2SKc4UpIfQQMizxA&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
@@ -1891,7 +1884,7 @@
       "age": null,
       "bio": "She is interning at a translation agency and will be mostly working throughout the week.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26931987243125242/?__cft__[0]=AZa30cdgHhiGQ0vREEEd-C6__8DvcL-el-lWtXUiALhPVnAFok1sMV52_K08NVXpNe-Shxb2zwY-7H3knl6JJD17oiS0D_-lQJolEbJSCdNfi2uFegYtyVZaOKI-N-AoaPcGrGI7Xs1__O4YRcpFRntu19Y0lGcR-e2AcGazxFH8HD2m2Q-e7q6o-vCeHCnEf3vyi-o2Z4IHfMS-9puHgDHh&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
@@ -1917,7 +1910,7 @@
       "has_pets": null,
       "reason": "relocation",
       "age": 25,
-      "bio": "A 25-year-old software engineer moving from Colorado, excited to explore San Francisco and looking for roommate(s) to build friendships with.",
+      "bio": "A 25-year-old software engineer moving from Colorado to San Francisco, excited to explore the city and build friendships with roommates.",
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/26929141616743138/?__cft__[0]=AZZdBI3ht1k-jVI2wiaDwQEarIKwKm_0TNPgQIAZr3tAWFmRxUMhrbnNJMB-055wtT3c9P3j7grFZV_DGYJomfpYqoPztpY9xdQr3S3tHlwoGFvCCgbHcKopPGDQCUyuIvarXhjK4fZnxBxBQwhIp4w2a6RAXpdLvYBw_a44Q12k2mQKfBdFiAw4ZsO8RSfstJA&__tn__=%2CO%2CP-R",
       "posted_at": "Monday 25 May 2026 at 17:46",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
@@ -2023,7 +2016,7 @@
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "He is a 31-year-old research specialist at UCSF who enjoys playing tennis, p\u00e1del, soccer, going to dance events, and walking or hiking.",
+      "bio": "He is a 31-year-old research specialist at UCSF who enjoys playing tennis, p\u00e1del, soccer, going to dance events, and walking/hiking.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1914633012561605/?__cft__[0]=AZZ3yjdDMDYOqSHJBfXJIs25SDYQ3RDK_0y3m0KJKbKtVUR6gaBE08nsm6QciUMBrDF5wtxCZKdiA_ogBUpMVnygavDG_I3reF7_J142rGUkQJ2e4p_ssuASskj2wgJ5_zUrD_FjJiF9gTEZEB1AebKWaU91TP9gX80UCxiY9EVufNSuZV2S8fYRBo37dXIULkv5-KDgbHWwL0w5w-eMVRae&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 29 May 2026 at 23:20",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2039,7 +2032,7 @@
       "unit_type_wanted": [
         "room"
       ],
-      "preferred_neighborhoods": [],
+      "preferred_neighborhoods": null,
       "furnished_required": null,
       "group_size": 4,
       "has_pets": false,
@@ -2090,7 +2083,7 @@
         "Palo Alto"
       ],
       "furnished_required": null,
-      "group_size": 1,
+      "group_size": 2,
       "has_pets": null,
       "reason": "new_job",
       "age": 23,
@@ -2144,7 +2137,7 @@
       "has_pets": null,
       "reason": "internship",
       "age": 21,
-      "bio": "He is a 21-year-old software engineering intern in San Francisco, clean, quiet, and respectful. He is out during the day for work and low key in the evenings.",
+      "bio": "He is a 21-year-old software engineering intern in San Francisco, clean, quiet, and respectful.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1914241515934088/?__cft__[0]=AZbAApwzM6M10DxEsM12-s3fDYAVmoso-suY6eXafNRIhCL6hJCNeD3KWoWCa6HAkOdQ96rIgbyeur4z7-PoPURQXEcfUhrT2IDUJtV7Da5MsRrBfxbqj6eIzHw-vrRAatiJBBAzVXgcdyR3ZuUB7bwxgZCmdXm2-M7kKImsoIfHDPCHV-BMz9eNSLAO7t0o4EE&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 29 May 2026 at 13:45",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2193,11 +2186,11 @@
         "Dogpatch"
       ],
       "furnished_required": null,
-      "group_size": 1,
+      "group_size": 4,
       "has_pets": null,
       "reason": null,
       "age": 24,
-      "bio": "Three recent graduates from Michigan, all 24, working in tech and looking for a social roommate to join them in a big place.",
+      "bio": "A group of three recent graduates from Michigan, all 24 years old, looking for a fourth (and potentially fifth) roommate to enjoy life in the city.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1914195022605404/?__cft__[0]=AZa_0OEY7MTjikdiqeg3czpmRpT6-HJqvINxngpbVNjqCZpDbkgl3b0k4faiJQMQ7pk-BURq_RppZ4RIKxdZ42ZkXY5-hwyLDfiHiqNorETz8RQC2icwfJ2VS3DE8G-aXOr2ryaoaFQtLWUsJAW9gKHSAuYtNlSeFUwclMWc-a-WHbMTHhaTu6ouawKvWA2RPbbjW-ZUUhRG403fcvPCim75&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 29 May 2026 at 12:36",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2342,8 +2335,8 @@
       "group_size": 2,
       "has_pets": null,
       "reason": "relocation",
-      "age": 24,
-      "bio": "They are relocating from Seattle and are both educators. One is a current 1st grade teacher while the other is in school to become an elementary school teacher.",
+      "age": null,
+      "bio": "They are relocating from Seattle and are both educators. One is a current 1st grade teacher and the other is in school to become an elementary school teacher.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1913435292681377/?__cft__[0]=AZYLjMG7DMwNaVy2tzcVhgYJU8ywwPkyTiyG4Sy-ShVPrr9eH1y9NCyd4wTzb3_Tigd8UKLIO8nMVYznhmCi963YGlWUB-YreIjvLwj3CnEajk6HV6ooP1NBUoPSg6CgfDMAcIYwDX95Ree5lON-U1s5rK5mY3CtXewPWLHuWNqKGcHb2gSu6MfIfrxdcj3EgP_iIZEu5MHt8RoL6rLg1VPJ&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 19:09",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2351,7 +2344,7 @@
     {
       "listing_id": "1913418602683046",
       "post_type": "seeker",
-      "duration_type": "long_term",
+      "duration_type": null,
       "move_in_date": null,
       "move_out_date": null,
       "budget_min": 2000,
@@ -2446,7 +2439,7 @@
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "Looking for a private room in San Francisco, preferably near 111 Sutter St in a safe neighborhood with easy access to public transport.",
+      "bio": "Looking for a private room in San Francisco, preferably near 111 Sutter St, with a budget of $1,500 to $2,000/month.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1913385572686349/?__cft__[0]=AZanc9YdMk53kLUym6NGaFJqhecm4iiZjlXmOTbmphMw1XMiHV3zkPPToi8qvEHb7GoV9n9uk9fSW78qAM7Sn8s2_SKU9H7bpy7zHQQT68m86sMuF3yAqz9vEl8NpFlo0r3DFUCKAM0V-clxaQM_iy-cRcAdjydAwR_SGGxhJYKxaNi02SIPvOFGWg7jE79QTF0&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 17:41",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2463,7 +2456,7 @@
         "room"
       ],
       "preferred_neighborhoods": [
-        "downtown sf"
+        "downtown"
       ],
       "furnished_required": null,
       "group_size": 1,
@@ -2502,14 +2495,13 @@
     {
       "listing_id": "1913293792695527",
       "post_type": "seeker",
-      "duration_type": null,
+      "duration_type": "long_term",
       "move_in_date": "2026-07-01",
       "move_out_date": null,
       "budget_min": null,
       "budget_max": null,
       "unit_type_wanted": [
-        "room",
-        "2B2B"
+        "room"
       ],
       "preferred_neighborhoods": null,
       "furnished_required": null,
@@ -2525,7 +2517,7 @@
     {
       "listing_id": "1913283992696507",
       "post_type": "seeker",
-      "duration_type": "long_term",
+      "duration_type": "short_term",
       "move_in_date": "2026-07-01",
       "move_out_date": "2026-08-31",
       "budget_min": null,
@@ -2542,7 +2534,7 @@
       "has_pets": null,
       "reason": "new_job",
       "age": 27,
-      "bio": "They are 27 and work in robotics research, their role has a decent amount of travel so they will be in and out often. On weekends they like being social, trying new restaurants, spending time with friends, or playing sports.",
+      "bio": "They are 27 and work in robotics research, their role has a decent amount of travel so they will be in and out often. They enjoy being social, trying new restaurants, spending time with friends, playing sports, reading, and traveling.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1913283992696507/?__cft__[0]=AZZDoW9jKdi4bY-8ic9VwMMhMUzXFeTWkQ-OyOSrjOc2grOZSKBGG7nLAxrdlR2g7JSb0QjWMTQR7CCYE7S9Ez-vFaRIpAHrcKLU3M-_vn22CZsezgasskFBtMY2LBdPeuOFy4iw-wA4_ZKnzvpjqOl8lZDquMHqnpx0HZcqiAk491Frt-KsmQRNMjx94ab23EA9wj6rN-k4v3PtBHbMWVlU&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 14:19",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2568,7 +2560,7 @@
       "age": null,
       "bio": null,
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1913264819365091/?__cft__[0]=AZbWvjhYNJhNkuME0ailm6gIpKqZtbhHt0WUEHrA_6tLEa033q-U7_kuG5TjOaTaGaEmeIv8AfSSDrXVJmhUzBVgddNyje7uWt0CFbf3Wo1B37JUJ0XzNEsATdPzYRso0IbG78b6KQOglBnnba--Roc4R6Jgy53Eh-ALk_g15tRQQPuR4Z_J_BXST_YTTS4lP-jIIABI-gXSJF6wug1DdZQh&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
@@ -2629,8 +2621,7 @@
       "budget_min": 1000,
       "budget_max": 1300,
       "unit_type_wanted": [
-        "room",
-        "apartment"
+        "room"
       ],
       "preferred_neighborhoods": [
         "San Francisco"
@@ -2687,7 +2678,7 @@
       "has_pets": true,
       "reason": "new_job",
       "age": 25,
-      "bio": "She is a 25-year-old substitute teacher moving to San Francisco to work in tech sales. She loves to travel, go to concerts, explore nice bars and restaurants, and enjoys outdoor activities.",
+      "bio": "She is a 25-year-old substitute teacher moving to San Francisco to work in tech sales. She loves to travel, go to concerts, and enjoy outdoor activities.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1913212199370353/?__cft__[0]=AZYfd7mBWiTeiDg5EPZlHrv-UPsAST0HNuKf7231xNjR-tjYrPRF-gX870boQnLLLk3dr9el1xfIp_OaeSpGNUy8njh8w8Hq7uvUFGsEchJ74lmtioEZOArqoKEG1Pz6hhEwZlgiL3CG519gmIpyIFxW2l1ZeiMa2ZTWF_yj3YhTV9Hw5vs6jz-YjUpAu175hscBpPOqCdJ-tNmuqGc29DOx&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 12:03",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2713,7 +2704,7 @@
       "has_pets": null,
       "reason": null,
       "age": 22,
-      "bio": "Recent Rice grad, 22, works at a startup, and is clean, respectful, and responsible. Enjoys going out, exploring new food spots, checking out nature/outdoor areas, and having friends over occasionally.",
+      "bio": "Recent Rice grad, 22, works at a startup, and is clean, respectful, and responsible. Loves going out, exploring new food spots, checking out nature/outdoor areas, and having friends over occasionally.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1913191906039049/?__cft__[0]=AZa88a4DfZvGRbFiivmIEapCtCyPR_5obNiOyafzCzUKrW1Qar5gOzGz4_LvDEuovLpBsFhRPP7fAsdiRnXsnc_cVW7RtQAcMghAw5GxpvLXuXxLKgdvnJfWn8qd92bEvGK2LOJIz38UBeNfEQ7WKTrzuaRDPnx94vMxwzbB6dpSxxHuYfNlEg11uWto7fizrOQ&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 11:27",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2868,7 +2859,7 @@
       "has_pets": null,
       "reason": "internship",
       "age": null,
-      "bio": "They will be in San Francisco for an internship and describe themselves as clean, tidy, responsible, and respectful of shared spaces.",
+      "bio": "They will be in San Francisco for an internship and describes themselves as clean, tidy, responsible, and respectful of shared spaces.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1913070902717816/?__cft__[0]=AZZAqmLpqM0l73Klx5i6rKDRHqNGSdcO_ZuCL6KBBKHeiOIYURukA_QKEqiyhq8iwUa44E8WJI_Vr2jc7tbIkApZgvdlB0kyDHKjP4MSTx9GSbBdG_Pdnk4XylMwfv1ZVjGb1m8f8hBn7sbN0c84lQeGWia-RL7HtsNkBjqZRzIKC8eCTKquCerSguNORcrznMKk2_iDz8sw6RKg2IZ6DCUJ&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 08:19",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2884,13 +2875,15 @@
       "unit_type_wanted": [
         "studio"
       ],
-      "preferred_neighborhoods": null,
+      "preferred_neighborhoods": [
+        "Salesforce Tower"
+      ],
       "furnished_required": null,
       "group_size": 1,
       "has_pets": null,
       "reason": "internship",
       "age": null,
-      "bio": "They are moving to SF for a 3 month internship.",
+      "bio": "They are moving to San Francisco for a 3-month internship.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1912975006060739/?__cft__[0]=AZYRPgVoLU1s7dHUO5SfRUc5j7oc9CSyzYKtRm_MFk9tmgi5T5Tar2fFDF0pex9SBWcJgYzGupQH1bu8zDts9lOtsGUm8QLacNPKu_1YVINthuq5eNg0y6VPzmgNXcNflBkH4HRuzxA09t_FijE7V-5WkvQ-1AXbGG-AD6TPnHbgM-Y5X1_VXnTUX0HsAjXYGdo&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 28 May 2026 at 06:02",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -2942,9 +2935,9 @@
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "They are a professional working at YouTube who values cleanliness and maintaining a tidy home. They enjoy staying active and love sports, particularly basketball, soccer, and tennis.",
+      "bio": "They are a professional working at YouTube who values cleanliness and keeping a tidy, organized home environment. They enjoy staying active and love sports, particularly basketball, soccer, and tennis.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1912742819417291/?__cft__[0]=AZbO-QUIWRXIcZe9w1W-4dQ4NVeXvgDbLKt0G3TstrI-xz_YcjXdi-nZv3o9uHGb8aTCTQ3MtwK9BBWxFKPvsIEeSzdNpHbkbZ1_Lo35YM2jLhilH0k8vygdO9bR0FT17Eu4hsrofNHwNHk9Hu9_9mTcvjspzzlqmqVmklUatRvnp9dx1zyOJL7ZdahlrBfDbno&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
@@ -3042,8 +3035,8 @@
       "group_size": 3,
       "has_pets": true,
       "reason": "student",
-      "age": null,
-      "bio": "They are SFSU seniors looking for a third girl to apply for a lease. They have three sweet ESA cats.",
+      "age": 21,
+      "bio": "They are SFSU seniors looking for a third girl to apply for a lease. They have three sweet ESA cats and enjoy being communicative and friendly.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1912627646095475/?__cft__[0]=AZbfSaqGH4tu_zMQo1SEsz71cjTfva3N5o5kkaaqdhwX8TVZTNlSLrd40-UGS5yVNlQ0ZhkEtdxdGlciT8sFTBHGXeZ2Du8xylxKWagR5TGqfGA8qYZQJfzd0z_3GDDqiE53B3-CskPb75AbLfewcUAjhIodqAJHUlLJQT-ICyGNi43WBACzq5AVjw1SvdAM73iQToefyX58HjuwdjTZ3lleK6Q_uQL52GeBzELK91CNFA&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 27 May 2026 at 20:27",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
@@ -3294,10 +3287,12 @@
       "duration_type": "short_term",
       "move_in_date": "2026-07-15",
       "move_out_date": "2026-09-01",
-      "budget_min": 0,
+      "budget_min": null,
       "budget_max": 2200,
       "unit_type_wanted": [
-        "room"
+        "room",
+        "studio",
+        "1B1B"
       ],
       "preferred_neighborhoods": [
         "Pac Heights",
@@ -3313,9 +3308,9 @@
       "has_pets": null,
       "reason": null,
       "age": 22,
-      "bio": "A 22-year-old who graduated from UC Irvine and moved to SF in August 2025. Works in sales in AI and enjoys hiking, camping, surfing, lifting, hanging out with friends, playing video games, and playing instruments.",
+      "bio": "A 22-year-old who graduated from UC Irvine and moved to SF in August 2025. Works in sales in AI in North Beach and enjoys hiking, camping, surfing, lifting, hanging out with friends, playing video games, and playing instruments.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1912501859441387/?__cft__[0]=AZZjuigrgjBxJaa6DbTemqdaJIrVa5jcxm0c9QK3Q4q8_flglDoeCY5dBEuQCtOjtQHbjSa4ICJaB6EgBJDGqjvHgNLCmtna1Gwbd7WTR_i2yjzBbjpThxWzdxyS8ha-bScHHX3QUkLZQ0AtmRLAwZyP_OMk1Kt62--DsexOTrNnmuCS8PGOUgP7_LwyObkrHkKvXXLFTGHkKeyaSqx4p_Wx&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
@@ -3338,7 +3333,7 @@
       "age": 27,
       "bio": "27-year-old Senior Product Manager moving to SF from the East Coast for a new job in the financial district. Enjoys board games, kayaking, creating art, and exploring new places.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1912475702777336/?__cft__[0]=AZaD1T7wfL4x9ju1b0cvspkZn__f91VTuL4TdeWRAl_s_vE7WUUNo_OxkfRqhZHYkXPh5eWOtVCCw1HYxWBaUqF7ctgZTDcJZJA4D5b7qGvTihYZOaAINCp4sCJXt4izfmieZ7T-3f77t8X8hcWVWeKifrO7GW1FgMKvQYnpsr3d1L2AV7LBt9z56KofBseCLTc&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
@@ -3423,7 +3418,7 @@
       "age": 19,
       "bio": "A 19-year-old nursing student at USF who is really into working out, thrifting, walks, baking, coffee runs, and exploring the city. They are pretty clean, social, and easygoing, and would love to live with people who have similar vibes.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1912440576114182/?__cft__[0]=AZakzcZQMYiCuoXFAMFfLmS3RYMlxtFsyN-ywNP-3LOIXyBkhlqVkMtSbl2-Uebg7IlN3LaNs0k9vt-SG3uvpqXDNQi_fBKIvCt7c8LpSFX7MNL6PJUNQ6gNNw3rwGF76xTw6RnVQk3_XdlGUZwiHkS6DfoGsqDTAjoB8StLyuJNDtsmkQ1wifCAS7uQ07WZflcvrM7gI-Jt8qrHb_A136D7&__tn__=%2CO%2CP-R",
-      "posted_at": "2026-05-30T02:05:25.600316",
+      "posted_at": null,
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
@@ -3432,7 +3427,7 @@
       "duration_type": "short_term",
       "move_in_date": "2026-06-01",
       "move_out_date": "2026-07-31",
-      "budget_min": 0,
+      "budget_min": null,
       "budget_max": 1300,
       "unit_type_wanted": [
         "room",
@@ -3448,6 +3443,210 @@
       "bio": "They are quiet and clean, moving to SF for the summer to work at a lab at UCSF.",
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1912436842781222/?__cft__[0]=AZbFq1XWk2XZx2yzgYm7eJR812FJOJ8B-c5PuS9yqyZNaYsFvtK-_cDRxlVStK-8DsIK2ll3QFaJEpCbLdneePFplYblo9vBCrENcdLxmObIdUt2y-d9u7prdx-8pk96x3txGMwiJ60JmSXT7wlNhfMIgmHmIWN1IMt4zvHc7vPsVU6qU125I3iRcmTt5lJlUrQ&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 27 May 2026 at 14:44",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4b147b30a6b511ae",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "East Bay"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "A 22-year-old male professional looking for a roommate to find a 2-bedroom apartment in Oakland.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100084995360175/?__cft__[0]=AZZ-hf6dwGdTFXZk3p9mQ45-h1NJHGkLD0sJ_-USst4tKXgJy3YGA1CSrkNJw0z_e-uczYxmaDKLgKFj3Bge39uid6kH8q_otiocsQNRuSOE-DBIIxewUC9NnT6Xf-mscj7zJMlTr3L3xgnLcfZ4hCmtQxzIaomVguemiiz52gTE8Yzm1O5AGAEr0M5KXtZu3Bk&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4600532566848414",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "94105",
+        "94107"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4600532566848414/?__cft__[0]=AZbUn6kpOFnHrmGS-uN6eJbJJvPRQ558VLg4LCRQrn_Xt3lZZBvqBO65yznCErorzmXiRem6zFmPTo3n9X8cLLnS8nNQilz4WrmsVf3oydUoK8XmAtxiBi5iM3lLXHTzwBb2cPU6c7oxz_Vc282c-bdOyIDXsY5Wc5jCCx75-rZixI58jYRm64mTINURv6F5MFw&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 08:32",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "0dcea9c2863e7dc4",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-06-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 22,
+      "bio": "A 22-year-old graduate student at USF who enjoys playing indoor/outdoor volleyball, doing crafts, going hiking, and baking/cooking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/61576663601935/?__cft__[0]=AZaNxVL87QlP5CoUl8wn770G46ExbK_4WPWS-dRQp30YVKJyZ9zrjpVa0Kr1vgVSmGMZ7XeNzF5656a26dvSwYCkuQFSp0fU_uL7NnoL2z5soHJREYiPuFXOArh7SmZy8_QCwjvm05wnmqs57Q5vJleIh5UVuP0R7_soGPVVqjSaWZSeb8VeDt0C-lvEDVqbJmSkFCOCjZ8nP1eEMiuV1PEG&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915036615854578",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Park Merced"
+      ],
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "student",
+      "age": 22,
+      "bio": "A 22-year-old student attending SFSU going into her last year. She loves to go to coffee shops, parks, workout, watch reality TV, and go out at times.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915036615854578/?__cft__[0]=AZabl4eX7diUWUuUP3AmmN3nGPHU1aIP_kz7xhKGynFzlAYEH7fDgULnIJmutfd_AQ-qkzC8R_lIVO8J5DZ4fB_9P61DYME7oGvHrMN9oZbyDCmW8rsLMbvmnNG_pq7yOCy4DOm5qkN6P5l-HRV0PnuMC2sNRghGW63Tds9vLHLrxV2357SXlDWCKQQ7fo_jBCPN7MmESm-NlZPdTircgJG-&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 08:25",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915024259189147",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-01",
+      "move_out_date": "2026-08-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 36,
+      "bio": "He is a 36-year-old male joining a startup and looking for a summer sublet in the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915024259189147/?__cft__[0]=AZa7w67LW9XB2SG4SmDldUDyUzRgPxZI3YAY8mocEVW_8JX5TTz_s_ksycUJQzrEMlEbwM-R1JBnY6b2UBfiL6nlPDqKHgu5CZIYml7RYloxN6UFFZyhx2efYO3-x2VKqGclY4IxkrdcR9Q5WsA6La5mSosyLie9mMxpe1NmOjlLmDlHNkS-6r8pTd_h8GffFtA&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 08:09",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915021449189428",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-14",
+      "move_out_date": "2026-08-14",
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Mission Bay",
+        "SoMa"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "A CMU student from Orlando, FL, who is respectful and flexible, enjoys exploring spots, playing ping pong/pickleball, and hanging out.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915021449189428/?__cft__[0]=AZZC5q8q4pMFTQgHw8TcU6afWgGSsoK_4F457LoxNhBqKkmWQ8tI9enZQBWML64vDmIu1wHhbhviqORcGhboPYfjjO_r61IXxSW1HKMaV_EqUYOVrnO1ZvJfuOQhhPEK0yik016jjkBJBEdGmTWngd-N5-u6pw7q_gX2lK1mjBlhpAKWpKub-6wBYX7pfvnlMWHyELoepNfA9MIlapXcjpTI&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 08:05",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1914957212529185",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-07-24",
+      "move_out_date": null,
+      "budget_min": 0,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Castro",
+        "Noe Valley",
+        "NOPA",
+        "Fillmore",
+        "mid-market area"
+      ],
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two best friends in their mid-20s looking for a third or fourth roommate. They love to host events and go out during their free time.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1914957212529185/?__cft__[0]=AZbfvkIG4bIOrv3TFb5-IQTxjzHiU2L_wHB-znBeecSBNVq4OqG2LP4E4cv4c0CHP6h2gnCgkOHS1W2kj5bDLadMBCArBInX097BqOrT88yGQiVIo9j7y3jGqWeYcAdNlAIhiU_fInwZe5LGKJw5DRPRTOng7Yrg8Byy463U07mSm6Vxp0w728StNedaNrSHoXb9W0Nvkh99VehsECrFxqgT&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 06:48",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1914910735867166",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": "2026-08-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "North Beach",
+        "Pac Heights"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "An MBA student at Wharton who will be interning in SF this summer. They are super neat and clean and promise to take good care of the apartment.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1914910735867166/?__cft__[0]=AZbL1LVsOERWK-DhgWyCDM-edRuksvN8OJ5EiDScLB0cBleQapJQaDCVxvkDNCpu2CIkIc-WWbzzTtPeCueIdXqopV95d9LMOclpa_FY5Tsq1MYtx1_Jpkmt277nAsiuzpiOGz152uPeVaS1Y6bLCTn5N41kYE0TWp6jH4IacxDj3a2FcHZRk9ymgkxbRVGVBH4&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 05:47",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
