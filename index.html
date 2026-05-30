@@ -164,6 +164,16 @@
     -webkit-mask-image: none;
     mask-image: none;
   }
+  .table-caption-bar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px 16px 4px;
+    font-size: 11px;
+    color: #9ca3af;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+  }
+  .table-caption-bar .live-dot { width: 6px; height: 6px; margin-right: 4px; top: 0; }
   table { width: 100%; border-collapse: collapse; background: #fff; }
   th {
     background: #f8f8f8;
@@ -416,8 +426,6 @@
 
 <header>
   <h1>SF Rooms</h1>
-  <span class="updated" id="group-name"></span>
-  <span class="updated"><span class="live-dot"></span><span id="updated-at"></span></span>
   <div class="spacer"></div>
   <!-- Golden Gate Bridge illustration -->
   <svg class="header-bridge" viewBox="0 0 560 80" preserveAspectRatio="xMidYMax meet" xmlns="http://www.w3.org/2000/svg">
@@ -554,6 +562,7 @@
 
 <div class="content">
   <div id="view-listings">
+    <div class="table-caption-bar"><span id="table-caption"></span></div>
     <div class="table-wrap">
       <table id="listings-table">
         <thead>
@@ -813,6 +822,8 @@ function renderListings() {
   $('listings-empty').style.display = rows.length ? 'none' : 'block';
   $('listings-table').style.display = rows.length ? '' : 'none';
   $('badge-listings').textContent = allListings.length;
+  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
+  $('table-caption').innerHTML = `<span class="live-dot"></span>${rows.length} listings${updStr}`;
 }
 
 document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
@@ -1107,10 +1118,9 @@ async function load() {
   const times = [lData.updated_at, sData.updated_at, spData.updated_at].filter(Boolean).sort();
   if (times.length) {
     const d = new Date(times[times.length-1]);
-    $('updated-at').textContent = 'Updated '+d.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+    const timeStr = d.toLocaleString('en-US',{hour:'numeric',minute:'2-digit'});
+    window._updatedTimeStr = timeStr;
   }
-  const groupName = lData.group_name || sData.group_name || '';
-  if (groupName) $('group-name').textContent = groupName + ' ·';
 
   allListings = lData.posts || [];
   allSeekers  = sData.posts || [];
