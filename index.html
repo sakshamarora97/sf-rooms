@@ -25,7 +25,6 @@
   header h1 { font-size: 20px; font-weight: 700; }
   header .updated { color: #888; font-size: 12px; }
 
-  /* Tabs */
   .tabs {
     background: #fff;
     border-bottom: 1px solid #e0e0e0;
@@ -53,7 +52,6 @@
   }
   .tab.active .badge { background: #e7f0ff; color: #1877f2; }
 
-  /* Filters */
   .filters {
     background: #fff;
     border-bottom: 1px solid #e0e0e0;
@@ -75,7 +73,7 @@
   .filters input:focus, .filters select:focus { border-color: #1877f2; background: #fff; }
   .filters input[type=number] { width: 100px; }
   .filters input[type=text] { width: 160px; }
-  #clear-filters {
+  .clear-btn {
     margin-left: auto;
     padding: 6px 14px;
     border: 1px solid #d0d0d0;
@@ -85,12 +83,10 @@
     font-size: 13px;
     color: #555;
   }
-  #clear-filters:hover { background: #f0f0f0; }
+  .clear-btn:hover { background: #f0f0f0; }
 
-  /* Content */
   .content { padding: 20px 24px; }
 
-  /* Table */
   .table-wrap { overflow-x: auto; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
   table { width: 100%; border-collapse: collapse; background: #fff; }
   th {
@@ -130,12 +126,18 @@
     text-transform: uppercase;
     letter-spacing: 0.3px;
   }
-  .tag-short { background: #fff3cd; color: #856404; }
-  .tag-long  { background: #d1e7dd; color: #0a5c36; }
-  .tag-sublease     { background: #e2e3f7; color: #343a7a; }
-  .tag-lease_takeover { background: #fde8d0; color: #7a3600; }
-  .tag-room_rental  { background: #d4edda; color: #155724; }
-  .tag-entire_unit  { background: #d0e8f7; color: #0d4a7a; }
+  .tag-short           { background: #fff3cd; color: #856404; }
+  .tag-long            { background: #d1e7dd; color: #0a5c36; }
+  .tag-sublease        { background: #e2e3f7; color: #343a7a; }
+  .tag-lease_takeover  { background: #fde8d0; color: #7a3600; }
+  .tag-room_rental     { background: #d4edda; color: #155724; }
+  .tag-entire_unit     { background: #d0e8f7; color: #0d4a7a; }
+  .tag-internship      { background: #fce4ec; color: #880e4f; }
+  .tag-student         { background: #e8f5e9; color: #1b5e20; }
+  .tag-new_job         { background: #e3f2fd; color: #0d47a1; }
+  .tag-rotation        { background: #f3e5f5; color: #4a148c; }
+  .tag-relocation      { background: #fff8e1; color: #f57f17; }
+  .tag-other           { background: #f5f5f5; color: #555; }
 
   .amenities { display: flex; flex-wrap: wrap; gap: 4px; }
   .amenity {
@@ -159,7 +161,78 @@
   }
   .btn-post:hover { background: #1560c0; }
 
-  /* Cards (seekers/spam) */
+  /* Seeker cards */
+  .seeker-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 16px;
+  }
+  .seeker-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.08);
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .sc-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .sc-date { font-size: 11px; color: #999; }
+  .sc-bio {
+    font-size: 13px;
+    color: #333;
+    line-height: 1.55;
+    font-style: italic;
+  }
+  .sc-facts {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 16px;
+  }
+  .sc-fact { display: flex; flex-direction: column; gap: 2px; }
+  .sc-fact-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.4px; color: #aaa; }
+  .sc-fact-value { font-size: 13px; color: #222; font-weight: 500; }
+  .sc-fact-value.muted { color: #aaa; font-weight: 400; }
+  .sc-chips { display: flex; flex-wrap: wrap; gap: 5px; }
+  .sc-chip {
+    background: #eef2ff;
+    color: #3b4ecc;
+    border-radius: 12px;
+    padding: 3px 10px;
+    font-size: 11px;
+    font-weight: 500;
+  }
+  .sc-chip-type {
+    background: #f0f0f0;
+    color: #555;
+    border-radius: 12px;
+    padding: 3px 10px;
+    font-size: 11px;
+  }
+  .sc-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-top: 4px;
+    border-top: 1px solid #f0f0f0;
+  }
+  .sc-badges { display: flex; gap: 6px; flex-wrap: wrap; }
+  .sc-badge {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: #f5f5f5;
+    color: #555;
+  }
+
+  /* Spam cards (simple) */
   .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
   .card {
     background: #fff;
@@ -171,7 +244,6 @@
     gap: 10px;
   }
   .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
-  .card-author { font-weight: 600; }
   .card-date { font-size: 12px; color: #888; white-space: nowrap; }
   .card-text { font-size: 13px; color: #444; line-height: 1.5; }
   .card-text.collapsed { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
@@ -184,7 +256,9 @@
     header, .tabs, .filters, .content { padding-left: 12px; padding-right: 12px; }
     .filters { flex-direction: column; align-items: stretch; }
     .filters input[type=text], .filters input[type=number] { width: 100%; }
-    #clear-filters { margin-left: 0; }
+    .clear-btn { margin-left: 0; }
+    .seeker-grid { grid-template-columns: 1fr; }
+    .sc-facts { grid-template-columns: 1fr 1fr; }
   }
 </style>
 </head>
@@ -202,6 +276,7 @@
   <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">0</span></div>
 </div>
 
+<!-- Listing filters -->
 <div class="filters" id="listing-filters">
   <label>Neighborhood
     <input type="text" id="f-neighborhood" placeholder="e.g. Mission">
@@ -232,7 +307,36 @@
       <option value="false">No</option>
     </select>
   </label>
-  <button id="clear-filters">Clear filters</button>
+  <button class="clear-btn" id="clear-listing-filters">Clear filters</button>
+</div>
+
+<!-- Seeker filters -->
+<div class="filters" id="seeker-filters" style="display:none">
+  <label>Max Budget ($)
+    <input type="number" id="sf-budget" placeholder="e.g. 2000" min="0" step="100">
+  </label>
+  <label>Duration
+    <select id="sf-duration">
+      <option value="">Any</option>
+      <option value="short_term">Short term</option>
+      <option value="long_term">Long term</option>
+    </select>
+  </label>
+  <label>Reason
+    <select id="sf-reason">
+      <option value="">Any</option>
+      <option value="internship">Internship</option>
+      <option value="student">Student</option>
+      <option value="new_job">New job</option>
+      <option value="rotation">Rotation</option>
+      <option value="relocation">Relocation</option>
+      <option value="other">Other</option>
+    </select>
+  </label>
+  <label>Move-in by
+    <input type="text" id="sf-movein" placeholder="e.g. 2026-07-01">
+  </label>
+  <button class="clear-btn" id="clear-seeker-filters">Clear filters</button>
 </div>
 
 <div class="content">
@@ -262,8 +366,8 @@
   </div>
 
   <div id="view-seekers" style="display:none">
-    <div class="cards" id="seekers-cards"></div>
-    <div class="empty" id="seekers-empty" style="display:none">No seeker posts.</div>
+    <div class="seeker-grid" id="seekers-grid"></div>
+    <div class="empty" id="seekers-empty" style="display:none">No seeker posts match your filters.</div>
   </div>
 
   <div id="view-spam" style="display:none">
@@ -273,19 +377,28 @@
 </div>
 
 <script>
-const DATA_BASE = './';   // same directory as index.html
+const DATA_BASE = './';
 
-// ── State ────────────────────────────────────────────────────────────────────
-let allListings = [], sortCol = 'available_from', sortDir = 1;
+let allListings = [], allSeekers = [], sortCol = 'available_from', sortDir = 1;
 
-// ── Helpers ──────────────────────────────────────────────────────────────────
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 
 function fmtDate(iso) {
   if (!iso) return '—';
-  const d = new Date(iso + 'T00:00:00');
+  const d = new Date(iso.includes('T') ? iso : iso + 'T00:00:00');
   return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+}
+
+function fmtPostedAt(raw) {
+  if (!raw) return '—';
+  if (raw.includes('T')) {
+    const d = new Date(raw);
+    return d.toLocaleDateString('en-US', { month:'short', day:'numeric' });
+  }
+  // "Friday 29 May 2026 at 18:41" → just the date portion
+  const m = raw.match(/(\d{1,2}\s+\w+\s+\d{4})/);
+  return m ? m[1] : raw;
 }
 
 function fmtRent(r) {
@@ -302,6 +415,7 @@ function tagHtml(val, map) {
 
 const DURATION_MAP = { short_term:'tag-short', long_term:'tag-long' };
 const TYPE_MAP = { sublease:'tag-sublease', lease_takeover:'tag-lease_takeover', room_rental:'tag-room_rental', entire_unit:'tag-entire_unit' };
+const REASON_MAP = { internship:'tag-internship', student:'tag-student', new_job:'tag-new_job', rotation:'tag-rotation', relocation:'tag-relocation', other:'tag-other' };
 
 function amenitiesHtml(list) {
   if (!list || !list.length) return '—';
@@ -314,7 +428,7 @@ function sortValue(p, col) {
   return v;
 }
 
-// ── Listings table ───────────────────────────────────────────────────────────
+// ── Listings table ────────────────────────────────────────────────────────────
 function renderListings() {
   const neighborhood = $('f-neighborhood').value.trim().toLowerCase();
   const maxRent      = parseInt($('f-rent').value) || Infinity;
@@ -343,7 +457,7 @@ function renderListings() {
   tbody.innerHTML = rows.map(p => `
     <tr>
       <td style="font-size:11px;color:#888;font-family:monospace">${esc(p.listing_id) || '—'}</td>
-      <td style="white-space:nowrap;font-size:12px">${esc(p.posted_at) || '—'}</td>
+      <td style="white-space:nowrap;font-size:12px">${esc(fmtPostedAt(p.posted_at))}</td>
       <td>${fmtRent(p.rent)}</td>
       <td>${esc(p.neighborhood) || '—'}</td>
       <td>${fmtDate(p.available_from)}${p.available_until ? '<br><span style="color:#888;font-size:12px">→ ' + fmtDate(p.available_until) + '</span>' : ''}</td>
@@ -362,7 +476,6 @@ function renderListings() {
   $('badge-listings').textContent = allListings.length;
 }
 
-// ── Column sort ──────────────────────────────────────────────────────────────
 document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
   th.addEventListener('click', () => {
     const col = th.dataset.col;
@@ -373,50 +486,141 @@ document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
   });
 });
 
-// ── Filters ──────────────────────────────────────────────────────────────────
 ['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished'].forEach(id => {
   $(id).addEventListener('input', renderListings);
   $(id).addEventListener('change', renderListings);
 });
-$('clear-filters').addEventListener('click', () => {
-  $('f-neighborhood').value = '';
-  $('f-rent').value = '';
-  $('f-duration').value = '';
-  $('f-listing-type').value = '';
-  $('f-furnished').value = '';
+$('clear-listing-filters').addEventListener('click', () => {
+  ['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished'].forEach(id => $(id).value = '');
   renderListings();
 });
 
-// ── Cards (seekers / spam) ────────────────────────────────────────────────────
-function renderCards(posts, containerId, emptyId, badgeId) {
-  $(badgeId).textContent = posts.length;
-  if (!posts.length) { $(emptyId).style.display = 'block'; return; }
+// ── Seeker cards ──────────────────────────────────────────────────────────────
+function renderSeekers() {
+  const maxBudget = parseInt($('sf-budget').value) || Infinity;
+  const duration  = $('sf-duration').value;
+  const reason    = $('sf-reason').value;
+  const moveinBy  = $('sf-movein').value.trim();
 
-  $(containerId).innerHTML = posts.map((p, i) => {
-    const text = esc(p.text || '');
-    const date = p.posted_at || '';
+  let rows = allSeekers.filter(p => {
+    if ((p.budget_max ?? Infinity) > maxBudget) return false;
+    if (duration && p.duration_type !== duration) return false;
+    if (reason && p.reason !== reason) return false;
+    if (moveinBy && p.move_in_date && p.move_in_date > moveinBy) return false;
+    return true;
+  });
+
+  $('badge-seekers').textContent = allSeekers.length;
+
+  if (!rows.length) {
+    $('seekers-grid').innerHTML = '';
+    $('seekers-empty').style.display = 'block';
+    return;
+  }
+  $('seekers-empty').style.display = 'none';
+
+  $('seekers-grid').innerHTML = rows.map(p => {
+    const budgetStr = p.budget_min && p.budget_max
+      ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}/mo`
+      : p.budget_max
+        ? `up to $${p.budget_max.toLocaleString()}/mo`
+        : p.budget_min
+          ? `$${p.budget_min.toLocaleString()}+/mo`
+          : null;
+
+    const datesStr = p.move_in_date
+      ? fmtDate(p.move_in_date) + (p.move_out_date ? ' → ' + fmtDate(p.move_out_date) : '')
+      : null;
+
+    const neighborhoods = (p.preferred_neighborhoods || []).filter(Boolean);
+    const unitTypes     = (p.unit_type_wanted || []).filter(Boolean);
+
+    const badges = [];
+    if (p.group_size > 1) badges.push(`👥 ${p.group_size} people`);
+    else if (p.group_size === 1) badges.push('👤 Solo');
+    if (p.age) badges.push(`Age ${p.age}`);
+    if (p.has_pets === true)  badges.push('🐾 Has pets');
+    if (p.has_pets === false) badges.push('No pets');
+    if (p.furnished_required === true)  badges.push('Furnished req.');
+    if (p.furnished_required === false) badges.push('Unfurnished ok');
+
     return `
-      <div class="card">
-        <div class="card-header">
-          <span class="card-date">${esc(date)}</span>
+      <div class="seeker-card">
+        <div class="sc-header">
+          <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap">
+            ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
+            ${p.reason ? tagHtml(p.reason.replace(/_/g,' '), REASON_MAP) || tagHtml(p.reason, REASON_MAP) : ''}
+          </div>
+          <span class="sc-date">${esc(fmtPostedAt(p.posted_at))}</span>
         </div>
-        <div class="card-text collapsed" id="card-text-${i}">${text}</div>
-        <div style="display:flex; justify-content:space-between; align-items:center">
-          <button class="card-expand" onclick="toggleCard(${i})">Show more</button>
+
+        ${p.bio ? `<div class="sc-bio">${esc(p.bio)}</div>` : ''}
+
+        <div class="sc-facts">
+          <div class="sc-fact">
+            <span class="sc-fact-label">Budget</span>
+            <span class="sc-fact-value${budgetStr ? '' : ' muted'}">${esc(budgetStr) || '—'}</span>
+          </div>
+          <div class="sc-fact">
+            <span class="sc-fact-label">Move-in</span>
+            <span class="sc-fact-value${datesStr ? '' : ' muted'}">${esc(datesStr) || '—'}</span>
+          </div>
+        </div>
+
+        ${neighborhoods.length ? `
+        <div>
+          <div class="sc-fact-label" style="margin-bottom:5px">Neighborhoods</div>
+          <div class="sc-chips">${neighborhoods.map(n => `<span class="sc-chip">${esc(n)}</span>`).join('')}</div>
+        </div>` : ''}
+
+        ${unitTypes.length ? `
+        <div>
+          <div class="sc-fact-label" style="margin-bottom:5px">Looking for</div>
+          <div class="sc-chips">${unitTypes.map(t => `<span class="sc-chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')}</div>
+        </div>` : ''}
+
+        <div class="sc-footer">
+          <div class="sc-badges">${badges.map(b => `<span class="sc-badge">${esc(b)}</span>`).join('')}</div>
           <a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a>
         </div>
       </div>`;
   }).join('');
 }
 
-window.toggleCard = function(i) {
-  const el = $('card-text-' + i);
+['sf-budget','sf-duration','sf-reason','sf-movein'].forEach(id => {
+  $(id).addEventListener('input', renderSeekers);
+  $(id).addEventListener('change', renderSeekers);
+});
+$('clear-seeker-filters').addEventListener('click', () => {
+  ['sf-budget','sf-duration','sf-reason','sf-movein'].forEach(id => $(id).value = '');
+  renderSeekers();
+});
+
+// ── Spam cards ────────────────────────────────────────────────────────────────
+function renderSpam(posts) {
+  $('badge-spam').textContent = posts.length;
+  if (!posts.length) { $('spam-empty').style.display = 'block'; return; }
+  $('spam-cards').innerHTML = posts.map((p, i) => `
+    <div class="card">
+      <div class="card-header">
+        <span class="card-date">${esc(fmtPostedAt(p.posted_at))}</span>
+      </div>
+      <div class="card-text collapsed" id="spam-text-${i}">${esc(p.text || '')}</div>
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <button class="card-expand" onclick="toggleSpam(${i})">Show more</button>
+        <a class="btn-post" href="${esc(p.post_url)}" target="_blank" rel="noopener">View →</a>
+      </div>
+    </div>`).join('');
+}
+
+window.toggleSpam = function(i) {
+  const el = $('spam-text-' + i);
   const btn = el.nextElementSibling.querySelector('.card-expand');
   if (el.classList.toggle('collapsed')) btn.textContent = 'Show more';
   else btn.textContent = 'Show less';
 };
 
-// ── Tabs ─────────────────────────────────────────────────────────────────────
+// ── Tabs ──────────────────────────────────────────────────────────────────────
 document.querySelectorAll('.tab').forEach(tab => {
   tab.addEventListener('click', () => {
     document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
@@ -426,6 +630,7 @@ document.querySelectorAll('.tab').forEach(tab => {
     $('view-seekers').style.display  = name === 'seekers'  ? '' : 'none';
     $('view-spam').style.display     = name === 'spam'     ? '' : 'none';
     $('listing-filters').style.display = name === 'listings' ? '' : 'none';
+    $('seeker-filters').style.display  = name === 'seekers'  ? '' : 'none';
   });
 });
 
@@ -437,7 +642,6 @@ async function load() {
     fetch(DATA_BASE + 'spam.json').then(r => r.json()),
   ]);
 
-  // Header timestamp — use the most recent updated_at across all files
   const times = [lData.updated_at, sData.updated_at, spData.updated_at].filter(Boolean).sort();
   if (times.length) {
     const d = new Date(times[times.length - 1]);
@@ -448,10 +652,11 @@ async function load() {
   if (groupName) $('group-name').textContent = groupName + ' ·';
 
   allListings = lData.posts || [];
-  renderListings();
+  allSeekers  = sData.posts || [];
 
-  renderCards(sData.posts || [], 'seekers-cards', 'seekers-empty', 'badge-seekers');
-  renderCards(spData.posts || [], 'spam-cards', 'spam-empty', 'badge-spam');
+  renderListings();
+  renderSeekers();
+  renderSpam(spData.posts || []);
 }
 
 load().catch(err => console.error('Failed to load data:', err));
