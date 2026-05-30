@@ -582,8 +582,8 @@ let userNotes     = new Map();   // Map<listing_id, body>
 // ── Data ──────────────────────────────────────────────────────────────────────
 const DATA_BASE = './';
 let allListings = [], allSeekers = [];
-let sortCol = 'available_from', sortDir = 1;
-let seekerSortCol = 'move_in_date', seekerSortDir = 1;
+let sortCol = 'posted_at', sortDir = -1;
+let seekerSortCol = 'posted_at', seekerSortDir = -1;
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 const $ = id => document.getElementById(id);
@@ -594,19 +594,20 @@ function fmtDate(iso) {
   const d = new Date(iso.includes('T') ? iso : iso + 'T00:00:00');
   return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
 }
+function parsePostedAt(raw) {
+  if (!raw) return null;
+  if (raw.includes('T')) return new Date(raw);
+  const m = raw.match(/(\d{1,2})\s+(\w+)\s+(\d{4})\s+at\s+(\d{1,2}):(\d{2})/);
+  if (m) {
+    const d = new Date(`${m[2]} ${m[1]}, ${m[3]} ${m[4]}:${m[5]}:00`);
+    return isNaN(d) ? null : d;
+  }
+  return null;
+}
 function fmtPostedAt(raw) {
   if (!raw) return '—';
-  let date;
-  if (raw.includes('T')) {
-    date = new Date(raw);
-  } else {
-    // "Friday 29 May 2026 at 18:41" — parse manually
-    const m = raw.match(/(\d{1,2})\s+(\w+)\s+(\d{4})\s+at\s+(\d{1,2}):(\d{2})/);
-    if (m) {
-      date = new Date(`${m[2]} ${m[1]}, ${m[3]} ${m[4]}:${m[5]}:00`);
-    }
-  }
-  if (!date || isNaN(date)) return raw;
+  const date = parsePostedAt(raw);
+  if (!date) return raw;
 
   const now = Date.now();
   const diffMs = now - date.getTime();
@@ -696,7 +697,14 @@ function renderListings() {
   });
 
   rows.sort((a, b) => {
-    const av = a[sortCol] ?? (sortCol==='rent'?Infinity:''), bv = b[sortCol] ?? (sortCol==='rent'?Infinity:'');
+    let av, bv;
+    if (sortCol === 'posted_at') {
+      av = (parsePostedAt(a.posted_at) || new Date(0)).getTime();
+      bv = (parsePostedAt(b.posted_at) || new Date(0)).getTime();
+    } else {
+      av = a[sortCol] ?? (sortCol==='rent'?Infinity:'');
+      bv = b[sortCol] ?? (sortCol==='rent'?Infinity:'');
+    }
     if (av < bv) return -sortDir; if (av > bv) return sortDir; return 0;
   });
 
@@ -779,7 +787,13 @@ function renderSeekers() {
   });
 
   rows.sort((a, b) => {
-    const av = seekerSortVal(a, seekerSortCol), bv = seekerSortVal(b, seekerSortCol);
+    let av, bv;
+    if (seekerSortCol === 'posted_at') {
+      av = (parsePostedAt(a.posted_at) || new Date(0)).getTime();
+      bv = (parsePostedAt(b.posted_at) || new Date(0)).getTime();
+    } else {
+      av = seekerSortVal(a, seekerSortCol); bv = seekerSortVal(b, seekerSortCol);
+    }
     if (av < bv) return -seekerSortDir; if (av > bv) return seekerSortDir; return 0;
   });
 
