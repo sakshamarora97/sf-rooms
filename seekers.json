@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-30T14:02:18.022483",
-  "count": 157,
+  "updated_at": "2026-05-30T15:02:36.808747",
+  "count": 162,
   "posts": [
     {
       "listing_id": "c08bd33789e0f7c0",
@@ -4138,6 +4138,134 @@
       "posted_at": null,
       "first_scraped_at": "2026-05-30T20:34:31.295626+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1915304505827789",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A software engineer working in the Bay Area. Clean, respectful, easygoing, enjoys photography, travel, fitness, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915304505827789/?__cft__[0]=AZZ5uAjgHZrFF9FMhVG0C8NW9MYZVY56Nb-qUYjN0P5iIWO9XRB6LtwvApx0-6YedxyF6m9osLcphkxuVfDyXTxYm9Gy9zxmyA17ADrosAxJPkSw3kr5Vp84000YxzqgboRzIfS9BYuN5Z8k5o3QEoYphKSq8CsgxL75Ja6yM0bum5l1ipP20ZsQj034iCGiWTNW-AwXKEJeYOGiffuXkTbT&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 14:32",
+      "first_scraped_at": "2026-05-30T22:00:05.701781+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915302095828030",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-06-05",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City",
+        "San Jose",
+        "San Mateo",
+        "Belmont",
+        "San Carlos"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old female moving to Foster City to work as a Machine Learning Engineer. Prefers female roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915302095828030/?__cft__[0]=AZbDLKesk7Gb1YqTpnNp1B0vTCf_1O8HXz2JwPSeqDzvGYCxm06JqUD3XJ6ZY2aovifvqEKXYwZkP6KCwHfBqIzraGVwRhBSkQQCXWKvW0C3On6qb_P0IGo3y_fpqJE1C2ulxczbvzz8Yz5e7iWTP4fwKBi_8cRV7J6nZJvEpEAhV430bya3KceIjEEwLxzYakc&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 14:28",
+      "first_scraped_at": "2026-05-30T22:00:05.701781+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915296182495288",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond",
+        "Sunset",
+        "Marina"
+      ],
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is a software engineer in his mid-20s working in the Presidio, very clean and respectful. She recently graduated with a Master's from GWU and is on the job hunt, spending time working from home or cafes.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915296182495288/?__cft__[0]=AZYr0xswaN0QA9Bqv9Q1GCcmdViok7B_r1VNkKUgb40IIDGB607SpL8vTy6W6pj3rPYfxiheOb3nJi2jyJAEOU-a63gHJE2hgLgmZqoWgsIUxxRmNHPh7bVIp9_4n4hrAE-Dk-DEKCmL_xdO3WRE5ya1af4NDmSakYmTG-2pgEW55PPCqH0qIhCTjZJdgKq9rBvZdhHSP7OpYBDSVFX5re4S&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 14:20",
+      "first_scraped_at": "2026-05-30T22:00:05.701781+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915295575828682",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 25,
+      "bio": "She is moving from Colorado to start a master's program at USF downtown campus. She enjoys being active, exploring the city, and is looking for roommates to be friends with.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915295575828682/?__cft__[0]=AZZRtdWriNZD5xPPbIfDZD58_0EelFJmtXFFUfkh-A69JiwixdQ6zI6aqdMWSTozbKJzAt0iAMT5DWCyJjyNxikYNrpgzTDZLK6saMz-XjZXkYOM2I6FFAl571Z0xEQhvdBpXf2SeEiIoVWvw6NVGSUVw9ETD821Led5k3BVHf8j5IvYGK7a-r1Rr3gKJLfG9JjvwFZ36f7-kMcjgh2KwbDX&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 14:19",
+      "first_scraped_at": "2026-05-30T22:00:05.701781+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915289119162661",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-08-01",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "She is a certified yoga instructor who enjoys reading, walking, traveling, and spending time with friends. She is respectful, easygoing, and values keeping shared spaces clean and organized.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915289119162661/?__cft__[0]=AZZcypR3WG10CprqBbBBYU1h_I4hWDteZC6QDeJpWr2g3u02Cw2JVQ_Qnre4cTiZSoh0mcsJvOcq6Czoz99VlDohKhuIIog8_4Ga0iB-Nm5oNPmDE582g6fX6qIpt7o494mlzYT00X8i2kOzhtPo55ySsl_hfsOybDE-Sel7BIHP7AuK4jpKQOgwQ3DUPdXMBJnaJoOvUym2_TzfOjOv5tFb&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 14:09",
+      "first_scraped_at": "2026-05-30T22:00:05.701781+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
