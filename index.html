@@ -4,12 +4,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SF Rooms</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
     background: #f7f6f3;
     color: #1a1a1a;
     font-size: 14px;
@@ -95,11 +98,14 @@
   .tab.active { color: #4f46e5; border-bottom-color: #4f46e5; }
   .tab .badge {
     background: #e8e8e8;
-    border-radius: 10px;
-    padding: 1px 7px;
-    font-size: 11px;
-    margin-left: 6px;
-    color: #555;
+    border-radius: 20px;
+    padding: 1px 6px;
+    font-size: 10px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    margin-left: 5px;
+    color: #777;
+    letter-spacing: 0;
   }
   .tab.active .badge { background: #ede9fe; color: #4f46e5; }
 
@@ -160,13 +166,12 @@
   table { width: 100%; border-collapse: collapse; background: #fff; }
   th {
     background: #f8f8f8;
-    padding: 10px 14px;
+    padding: 9px 14px;
     text-align: left;
     font-size: 11px;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.4px;
-    color: #666;
+    letter-spacing: 0.08em;
+    color: #6b7280;
     white-space: nowrap;
     cursor: pointer;
     user-select: none;
@@ -197,18 +202,17 @@
   #seekers-table td:nth-child(6)   { min-width: 120px; }  /* Neighborhoods */
   #seekers-table td:nth-child(8)   { min-width: 180px; max-width: 240px; }  /* Bio */
 
-  .rent { font-weight: 700; font-size: 17px; letter-spacing: -0.5px; color: #111; }
+  .rent { font-weight: 700; font-size: 17px; letter-spacing: -0.5px; color: #111; font-variant-numeric: tabular-nums; }
   .rent-null { color: #bbb; font-weight: normal; font-size: 13px; }
 
   /* Listing type tags */
   .tag {
     display: inline-block;
-    padding: 3px 9px;
+    padding: 2px 7px;
     border-radius: 20px;
-    font-size: 11px;
+    font-size: 10px;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.3px;
+    letter-spacing: 0.04em;
   }
   .tag-short           { background: #fef9c3; color: #854d0e; }
   .tag-long            { background: #dcfce7; color: #166534; }
