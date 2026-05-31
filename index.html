@@ -422,6 +422,42 @@
 
   .magic-sent { background: #f0fdf4; border: 1px solid #86efac; border-radius: 8px; padding: 12px; font-size: 13px; color: #166534; text-align: center; }
 
+  /* ── Mobile card layout ───────────────────────────────────────────────────── */
+  .mobile-list { display: none; }
+
+  @media (max-width: 767px) {
+    .header-bridge { display: none; }
+    #table-caption-tab { display: none; }
+    .table-wrap { display: none !important; }
+    .mobile-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .m-card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 1px 4px rgba(0,0,0,.08);
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .m-card.bookmarked { background: #fffbeb; }
+    .m-card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .m-card-rent { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; color: #111; font-variant-numeric: tabular-nums; }
+    .m-card-budget { font-size: 20px; font-weight: 800; letter-spacing: -0.5px; color: #111; }
+    .m-card-posted { font-size: 11px; color: #9ca3af; text-align: right; flex-shrink: 0; }
+    .m-card-location { font-size: 15px; font-weight: 600; color: #1a1a1a; }
+    .m-card-sub { font-size: 12px; color: #888; margin-top: 1px; }
+    .m-card-meta { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
+    .m-card-avail { font-size: 12px; color: #555; }
+    .m-card-hoods { display: flex; flex-wrap: wrap; gap: 4px; }
+    .m-card-bio { font-size: 12px; color: #555; font-style: italic; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .m-card-amenities { font-size: 11px; color: #9ca3af; }
+    .m-card-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 2px; padding-top: 8px; border-top: 0.5px solid #f0f0f0; }
+  }
+
   @media (max-width: 600px) {
     header, .tabs, .filters, .content { padding-left: 12px; padding-right: 12px; }
     .filters { flex-direction: column; align-items: stretch; }
@@ -594,6 +630,7 @@
         <tbody id="listings-body"></tbody>
       </table>
     </div>
+    <div class="mobile-list" id="listings-mobile"></div>
     <div class="empty" id="listings-empty" style="display:none">No listings match your filters.</div>
   </div>
 
@@ -619,6 +656,7 @@
         <tbody id="seekers-body"></tbody>
       </table>
     </div>
+    <div class="mobile-list" id="seekers-mobile"></div>
     <div class="empty" id="seekers-empty" style="display:none">No seeker posts match your filters.</div>
   </div>
 
@@ -841,6 +879,37 @@ function renderListings() {
 
   $('listings-empty').style.display = rows.length ? 'none' : 'block';
   $('listings-table').style.display = rows.length ? '' : 'none';
+
+  $('listings-mobile').innerHTML = rows.map(p => {
+    const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
+    const availStr = p.available_from
+      ? 'From ' + fmtDate(p.available_from) + (p.available_until ? ' → ' + fmtDate(p.available_until) : '')
+      : '';
+    const furnStr = p.is_furnished === true ? '<span class="tag tag-long" style="font-size:10px">Furnished</span>' : '';
+    const amenStr = p.amenities?.length ? `<div class="m-card-amenities">${p.amenities.map(a=>esc(a.replace(/_/g,' '))).join(', ')}</div>` : '';
+    const viewUrl = p.post_url || '';
+    const isProfile = viewUrl.includes('/user/');
+    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
+      <div class="m-card-top">
+        <div class="m-card-rent">${p.rent != null ? '$'+p.rent.toLocaleString() : '<span class="rent-null">—</span>'}</div>
+        <div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div>
+      </div>
+      <div class="m-card-location">${esc(p.neighborhood)||'—'}</div>
+      ${locSub ? `<div class="m-card-sub">${esc(locSub)}</div>` : ''}
+      <div class="m-card-meta">
+        ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
+        ${p.listing_type ? tagHtml(p.listing_type, TYPE_MAP) : ''}
+        ${furnStr}
+      </div>
+      ${availStr ? `<div class="m-card-avail">${availStr}</div>` : ''}
+      ${amenStr}
+      <div class="m-card-actions">
+        <div>${statusCellHtml(p.listing_id)}</div>
+        ${viewUrl ? `<a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+
   $('badge-listings').textContent = allListings.length;
   const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
   $('table-caption').textContent = `${rows.length} listings${updStr}`;
@@ -908,6 +977,36 @@ function renderSeekers() {
   });
 
   $('badge-seekers').textContent = allSeekers.length;
+
+  $('seekers-mobile').innerHTML = rows.map(p => {
+    const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
+      : p.budget_max ? `≤$${p.budget_max.toLocaleString()}`
+      : p.budget_min ? `$${p.budget_min.toLocaleString()}+` : '—';
+    const moveinStr = p.move_in_date
+      ? 'From ' + fmtDate(p.move_in_date) + (p.move_out_date ? ' → ' + fmtDate(p.move_out_date) : '')
+      : '';
+    const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).map(n=>`<span class="chip">${esc(n)}</span>`).join('');
+    const viewUrl = p.post_url || '';
+    const isProfile = viewUrl.includes('/user/');
+    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
+      <div class="m-card-top">
+        <div class="m-card-budget">${esc(budgetStr)}</div>
+        <div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div>
+      </div>
+      <div class="m-card-meta">
+        ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
+        ${p.reason ? tagHtml(p.reason, REASON_MAP) : ''}
+      </div>
+      ${moveinStr ? `<div class="m-card-avail">${moveinStr}</div>` : ''}
+      ${hoods ? `<div class="m-card-hoods">${hoods}</div>` : ''}
+      ${p.bio ? `<div class="m-card-bio">${esc(p.bio)}</div>` : ''}
+      <div class="m-card-actions">
+        <div>${statusCellHtml(p.listing_id)}</div>
+        ${viewUrl ? `<a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+
   const tbody = $('seekers-body');
   if (!rows.length) {
     tbody.innerHTML = '';
