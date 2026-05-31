@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-30T17:25:32.348587",
-  "count": 163,
+  "updated_at": "2026-05-30T18:16:59.752396",
+  "count": 165,
   "posts": [
     {
       "listing_id": "c08bd33789e0f7c0",
@@ -4295,6 +4295,63 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915357055822534/?comment_id=1915361342488772&__cft__[0]=AZay_UffCUCOjMfmSBka0FhTNYG1znAQpWsXhrFX3i4F3U2nbgKS2dxQi_CYF9wb_B9ogKk5CQ4Z-TXOE_B7Kuxpb0wZlyerN6smNftkRn6qEIHuR6TpyJeMyvRRXaWaomDY87Ng6dT1wrjBtCLoJ0yCywM02kZHyw-OovM9QH-L6Rhmm2EbdZo0g0973XEnbNYv-6TY8gGp9UdHYx0qNpTZ&__tn__=R-R",
       "posted_at": null,
       "first_scraped_at": "2026-05-30T23:00:04.570094+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "a296b7e61e3eebcc",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "3B3B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City",
+        "Belmont",
+        "San Mateo",
+        "Burlingame",
+        "San Bruno",
+        "South SF",
+        "Brisbane"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two guys looking for a third roommate to join them on a new lease. Both work onsite most days, one commutes to SF, the other works near Foster City. They are fun, laid-back, clean, responsible, and communicative.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100039048905042/?__cft__[0]=AZaPrvOGWHup_xcE935HsXhhtUjoH3rns1KOiwgI9SBFUqoG1bmzzxDcM6rT6W4KhNxeSWkxynZ9VJ1esyk504O-_XKInwMQKPTPUcPSob9qWv9pVCVB9pQpSxe9eJYo-D8rU1i7AKxl4R1z8Kf_qRUHshOSVhY6rNzb3qFsxl5M4-mBI8gLNgW623kBX1imAPQ&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-05-31T01:12:48.052885+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915444019147171",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-25",
+      "move_out_date": "2026-07-25",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Parnassus"
+      ],
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "rotation",
+      "age": null,
+      "bio": "A medical student who will be at UCSF Parnassus for an away rotation in July.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915444019147171/?__cft__[0]=AZYVtMYtiguwwk53ZeNNfPc3rVbvPTnUXhLOuOwxtqKNoq8TrcRqia59h_1BUkBPJwrTUE6w7ZALG62qPFySQ9NeeHwSmHOKnUXVCqojJIbaDrhgtawVp-tsjxY8Bnd3Hr3ZSIQRsxkEEMwy0X7icDeOQ1Gltdf3Joc-H47091m9Or_dJ7xcOVoS7B6-Yx0GEcg&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 18:07",
+      "first_scraped_at": "2026-05-31T01:12:48.052885+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

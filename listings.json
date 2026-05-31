@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-30T17:25:32.321459",
-  "count": 77,
+  "updated_at": "2026-05-30T18:16:59.707986",
+  "count": 78,
   "posts": [
     {
       "listing_id": "4599752466926424",
@@ -2066,6 +2066,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915338899157683/?__cft__[0]=AZYKatDJmF5TYMtlOcJk4h1kF-lLxBXwwn61VuQzXTiRS7ggquHuf3eUKRie_uwYYI17KcQQX8FnPMlt4CJt5ZPH2vW6gQZBYQGdRtHRaDYKn2PeRC8y1SNUb-wkVENC0JjR2CL8Ys7uDHel9QzVyISRVKx9oKDmEBMF8zZnlh1Gyb0H_plIfmuHxucHwx0KjCfsczne2K4zwQTjhPf-yy-Z&__tn__=%2CO%2CP-R",
       "posted_at": "Saturday 30 May 2026 at 15:25",
       "first_scraped_at": "2026-05-30T23:00:04.570094+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1915418779149695",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Ingleside",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "private_bathroom",
+        "separate_entrance",
+        "hardwood_floors",
+        "radiant_floor_heating",
+        "shared_washer_dryer"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915418779149695/?__cft__[0]=AZYOD9qCZx0Kyr8P-HgueIsR5tZ-Ddt595Nq4H13XXfxtXn9N-Te_Mz41Ozql60TBjdw5wBk0xCNMitYm4wkYNGJI0KsrY_7Wr6koS6jupEwR8NqBKMXkzZzo7z5LqCKWgKw4EsdXTaYWevrnfWQ3Tg5WaRlOy4Yv_7c2YZEkUigVyvXQQzkZX5TXXsS1qhti9Q&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 30 May 2026 at 17:30",
+      "first_scraped_at": "2026-05-31T01:12:48.052885+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
