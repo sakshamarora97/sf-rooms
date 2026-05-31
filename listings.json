@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-31T06:01:15.899720",
-  "count": 78,
+  "updated_at": "2026-05-31T07:01:49.587914",
+  "count": 79,
   "posts": [
     {
       "listing_id": "4599752466926424",
@@ -2097,6 +2097,29 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1915539512470955/?__cft__[0]=AZbFsIyVnZE663ZmNQlZGjn0GDhVS7OkthhTQBERqcnCv-elRJRHg9Vsqov575ggpQDNa9Oqq6A65emMuPgX8z8rN4PuMJt9Me-tX1gpM_HpCDa8KaKmjKjAuZUIBF7uRt4KYSUDivz9nQsTeM-x1_tHZT5x4K4hWdh6zm2JgVg4X4PWCTLNK0zMwo5kfxALr_E&__tn__=%2CO%2CP-R",
       "posted_at": "Saturday 30 May 2026 at 20:22",
       "first_scraped_at": null,
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2ff813345046bfaa",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 3500,
+      "neighborhood": "Richmond",
+      "available_from": "2026-06-01",
+      "available_until": "2026-06-30",
+      "unit_config": "3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/3118717871661687/?__cft__[0]=AZauZXMsEGP-57pP2DKKEjUk9ffM2xBrCDUsVoHK7kMtFB7TSN6OxNl8gQBGxnGL2YD_In5pJVIumxxo8gMyzNseji9zJg2rwmNQ9yzsdU3pmoYXS4R9skf6QY8zP6U0Xx4B2WTg8_vI1kBF74ozAZJxT23SiM2vPALg_jsgqc216BvmqfPDqeb0-og3hllI1Qyb-pGvRYFVvlYGFbeYGLtA04iOJNsgQrFNRuiUaI1idQ&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-05-31T14:00:03.023513+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
