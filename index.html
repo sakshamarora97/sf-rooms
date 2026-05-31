@@ -831,16 +831,10 @@ function renderListings() {
   rows.sort((a, b) => {
     let av, bv;
     if (sortCol === 'posted_at') {
-      // Posts with a real FB timestamp sort by that; posts without one sort
-      // below all timestamped posts, ordered among themselves by first_scraped_at.
+      // Use best available timestamp: FB post date if known, else scrape time as proxy.
       const aTs = parsePostedAt(a.posted_at), bTs = parsePostedAt(b.posted_at);
-      if (aTs && bTs) { av = aTs.getTime(); bv = bTs.getTime(); }
-      else if (aTs)   { av = aTs.getTime(); bv = -Infinity; }
-      else if (bTs)   { av = -Infinity;     bv = bTs.getTime(); }
-      else {
-        av = a.first_scraped_at ? new Date(a.first_scraped_at).getTime() : 0;
-        bv = b.first_scraped_at ? new Date(b.first_scraped_at).getTime() : 0;
-      }
+      av = aTs ? aTs.getTime() : (a.first_scraped_at ? new Date(a.first_scraped_at).getTime() : 0);
+      bv = bTs ? bTs.getTime() : (b.first_scraped_at ? new Date(b.first_scraped_at).getTime() : 0);
     } else {
       av = a[sortCol] ?? (sortCol==='rent'?Infinity:'');
       bv = b[sortCol] ?? (sortCol==='rent'?Infinity:'');
@@ -963,13 +957,8 @@ function renderSeekers() {
     let av, bv;
     if (seekerSortCol === 'posted_at') {
       const aTs = parsePostedAt(a.posted_at), bTs = parsePostedAt(b.posted_at);
-      if (aTs && bTs) { av = aTs.getTime(); bv = bTs.getTime(); }
-      else if (aTs)   { av = aTs.getTime(); bv = -Infinity; }
-      else if (bTs)   { av = -Infinity;     bv = bTs.getTime(); }
-      else {
-        av = a.first_scraped_at ? new Date(a.first_scraped_at).getTime() : 0;
-        bv = b.first_scraped_at ? new Date(b.first_scraped_at).getTime() : 0;
-      }
+      av = aTs ? aTs.getTime() : (a.first_scraped_at ? new Date(a.first_scraped_at).getTime() : 0);
+      bv = bTs ? bTs.getTime() : (b.first_scraped_at ? new Date(b.first_scraped_at).getTime() : 0);
     } else {
       av = seekerSortVal(a, seekerSortCol); bv = seekerSortVal(b, seekerSortCol);
     }
