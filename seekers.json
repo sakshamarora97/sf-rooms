@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-30T18:16:59.752396",
-  "count": 165,
+  "updated_at": "2026-05-30T19:18:09.986655",
+  "count": 166,
   "posts": [
     {
       "listing_id": "c08bd33789e0f7c0",
@@ -4353,6 +4353,32 @@
       "posted_at": "Saturday 30 May 2026 at 18:07",
       "first_scraped_at": "2026-05-31T01:12:48.052885+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "66ed4a519d3473ad",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-06-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 33,
+      "bio": "He is a 33-year-old software engineer who is quiet, clean, respectful, and has a normal schedule. Not a party-at-home person.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001522153861/?__cft__[0]=AZY5PRemFudUN0oWPyAyz6tpYnU3kbFiWcfVMAiwXVBlET0f_XuIOtUrHN4ooAZFKndR19auHf0uk-h3dScZ8Ky7SCTXIgPUEvBw0hB06w-T7wBe8qFO7XQ4RpohDNrdmloNnlc1JRug-zv3QgebuWhzjbpdhvBooHgKs34g4HICpLENz9KrsgafweAxaS16YlLm8aq_55jX3kzQaX3UdDM2&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-05-31T02:04:00.470345+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
