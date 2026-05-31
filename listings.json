@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-31T09:01:46.073610",
-  "count": 80,
+  "updated_at": "2026-05-31T10:01:41.479670",
+  "count": 81,
   "posts": [
     {
       "listing_id": "4599752466926424",
@@ -2147,6 +2147,33 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001931404222/?__cft__[0]=AZbqPOWWqcN76GKTcOUAbjeLeBAgbQa5CS8_16DP3Y5iaZkFTVFUGyVW4Vqnac0oerbSKZ47gzb5C2bwtmr3MAOQGuGgFUoZq5R2xlJNIy3JuQH28rOxPpJXppSZmoEhGjVpHiCkUFBBUpBypiqi_xApqsxaxyz8cvLrfEaTYhJ0QKChVSeqx3hD29PP3MojRNXiRpfgB9hfDcrPUpEd9TrO&__tn__=%3C%2CP-R",
       "posted_at": null,
       "first_scraped_at": "2026-05-31T16:00:02.942624+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "b8ab15c72b984001",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Cole Valley",
+      "available_from": "2026-06-04",
+      "available_until": "2026-06-15",
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "renovated_kitchen",
+        "office"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/732100013/?__cft__[0]=AZZVdwWeBSqu9Uzb4gYI3rT4UsD7o__yuOk-Tr-k0dD8sjeE30HL00bxf3Mye6mJ7jeLc0fx9M8c_eNrTyEHe_2DgTew_ojqw1MSRsNutbYg_6V4aHUP3kTOAlrQK3PiIIpGFh4Am_uexYR30uFZho4MbdL_gMEK6A3E6GJkVMXY36ich14AtoC9qzBsh0JVwC8w43LnB1N6WRexWbrPORyh&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-05-31T17:00:02.388278+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
