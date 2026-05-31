@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-31T12:07:25.140864",
-  "count": 167,
+  "updated_at": "2026-05-31T12:21:15.729553",
+  "count": 168,
   "posts": [
     {
       "listing_id": "4600095990225405",
@@ -4370,7 +4370,7 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "783b904f942fc9a6",
+      "listing_id": "74fb6a4b69e1c8fb",
       "post_type": "seeker",
       "duration_type": "short_term",
       "move_in_date": null,
@@ -4385,10 +4385,40 @@
       "reason": null,
       "age": null,
       "bio": "A quiet, working professional.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000520852177/?__cft__[0]=AZZQLVa8hSK0KfyYtB-ZMUrVu4K00OD23XyJJcBKrpIRWiWoWARoB9jco9DPq7qjOnwOVhFjG6RBSJDs7k66fVqVq88pJCpV6lg8g0X6MFesk8k5ATnVzV4WREXx_KvZiQMPNZLocY45NsWjeebyL09o_aEip6Z52MYi5m43EAYWiqPEaTfLHEYNiSJxAKZ0Lsc&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000520852177/?__cft__[0]=AZaFSC6XgqgfdgxbNPDLHvlIZ2MPJc41fZvnQaxxIX-vvLh3j4JGAn56teoHex16_tLW7BzTjZq6UpHuScc5iyycB703p8rH3ZFDxYZl0Eo9CLYFEpRrPhIaHOwznfmlmg_ec81eP5xELd7EKqxlMdgI4ey6ASWEdKxKns5N-NZH-db8533D6z8iGyxmackf3_8&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-05-31T19:06:16.338246+00:00",
+      "first_scraped_at": "2026-05-31T19:20:08.981471+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1916241362400770",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-08",
+      "move_out_date": "2026-09-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "loft",
+        "shared housing"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "San Carlos",
+        "Belmont",
+        "San Mateo"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "internship",
+      "age": 23,
+      "bio": "A 23-year-old graduate student who is clean, respectful, and responsible. Non-smoker, quiet, and easy to live with, working full-time in the area during the summer.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1916241362400770/?__cft__[0]=AZYJLkaCeJmac-WjhFrj-JcOuFMlk2tCwgGpUdesuyOLGS0Y2YfEShmFcTX5JXBvqYzHopzkG6qx8JE-O3RGOBGlYZUi0Z28goTxHO8ZGvg-f472AImUOLfHeZHerRk4RCJ1zAjlmSldUkzi8gSQ1Zx5L-URfjAbyvnk1TtQF5InLohpAmKsBEmqwNI-4FaJIXc&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 31 May 2026 at 12:10",
+      "first_scraped_at": "2026-05-31T19:20:08.981471+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
