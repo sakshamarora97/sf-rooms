@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-05-31T10:01:41.479670",
-  "count": 81,
+  "updated_at": "2026-05-31T11:02:37.847753",
+  "count": 82,
   "posts": [
     {
       "listing_id": "4599752466926424",
@@ -2175,6 +2175,32 @@
       "posted_at": null,
       "first_scraped_at": "2026-05-31T17:00:02.388278+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1916160819075491",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1268,
+      "neighborhood": "Balboa Park",
+      "available_from": "2026-08-01",
+      "available_until": null,
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female preferred",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1916160819075491/?__cft__[0]=AZY0hO0LjAM3MqU_kceCcol37pcfUY9po3INw3j8DpP4YFCh2Rd-8n7J2TXtAuZ-l8WVWda4CKU9u0IzM_9Kz_stv9Y7nDHsgJsv_7k8VSzf0NOqdmxq_4LOna8cnsXkep4u162sZUSkxkPcES2a8EsfucEFhMziqtcT1cnduhMrqqRXhbXqTdeGKFAZFVe4l34vgg-0AnrcFF7-gSZwBznc&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 31 May 2026 at 10:21",
+      "first_scraped_at": "2026-05-31T18:00:03.221854+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
