@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-02T09:05:58.772420",
-  "count": 154,
+  "updated_at": "2026-06-02T10:05:14.076890",
+  "count": 155,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -4015,34 +4015,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "fcbf065659685276",
-      "post_type": "listing",
-      "listing_type": "entire_unit",
-      "duration_type": "long_term",
-      "rent": 2000,
-      "neighborhood": "SoMa",
-      "available_from": null,
-      "available_until": "2027-09-30",
-      "unit_config": null,
-      "room_type": "entire_unit",
-      "is_furnished": null,
-      "roommates_count": 0,
-      "amenities": [
-        "in_unit_laundry",
-        "rooftop",
-        "gym",
-        "parking"
-      ],
-      "utilities_included": true,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": "The Paramount",
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100077829870704/?__cft__[0]=AZbMiD-st5Kt7EKuccHkZvJaostPp7TQjnUk621gvt1B_QgmDkYgd1ei_ty3FJrCSkmj4NhmE3uaxnt8OyTdPWBHRLCzOa_DQNkU5YOsHqLnZXBH3D9IuztmJgG8N9tCnNiqd-BK10rfoCqXlKzwLDI6QZXE82sSNC_zPZCjAXETNG_E7fgpufdljN_K0ZEa1nE-SKmn_p38JqLFxo0El2Yj&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-02T16:00:02.966201+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "27032961773027788",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -4064,9 +4036,63 @@
       "gender_preference": "female only",
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/27032961773027788/?__cft__[0]=AZZodPrNi4URyD8ksrl_3TaAErB5T_eUB8nPlunTbJkYbJakVNQXD7B7BH2fHygCxX4pCZPea1uDWWq6UXu9Ogjt1-A6687vhTQM7rtekZIYURdlZvyL2lrJghN3DnMEPLAni6Scqp2RVTXsar5c42HZNNzGx29VauayToYHYwO81Kslo9qFHXiLKJpAghRQrPei_g90qApHeStGAHun8xEi&__tn__=%2CO%2CP-R",
-      "posted_at": null,
+      "posted_at": "Tuesday 2 June 2026 at 04:46",
       "first_scraped_at": "2026-06-02T16:00:02.966201+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "079e49dc66933396",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "available_from": null,
+      "available_until": "2027-09-30",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop",
+        "gym",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Paramount",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100077829870704/?__cft__[0]=AZZzmPiiOhJq5X4Ecz7g_9SIfJ1uUeTIU7rdJdZK8PPj9FiNUHmY21EmAb2h3Fkuj5MFETqWcVma5KAy-I1PhzjMDgpOSHuzzbPeXzE-LfkSVqv42qDELEVVSOOrNDgwjeKMtfq6OSm85A2I_yebJftyg_ox5Pw52mmdHJq3I3Ld0YqOfY9o63Oae-C_IG6N1d_dvH3iAB9ihGvw7SkED6Ut&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-02T17:00:02.383295+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1918061088885464",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1075,
+      "neighborhood": "Mission",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1918061088885464/?comment_id=1918068482218058&__cft__[0]=AZYffakjNqrx04AzzN7rVwJ3ckTO5eXwS6MI-V4SvVfYZf3ne3k9yy5iwU6y7ZE1Ea07oXJPXeuDpY0fENlX3AWX7I_LN999oG9hp0ZxrdJGvuVTpGvHLuJfJ2v8RRsUMfoLoiJgkSNugttEHLWHBXNw6tH73ww2cnxklCTbuG3n4lPVTzn5cZJG6hesIDUGkOg3geu4IX6kI206UA2TjOEw&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-02T17:00:02.383295+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
