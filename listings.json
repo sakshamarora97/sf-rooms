@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-02T08:07:00.830299",
-  "count": 153,
+  "updated_at": "2026-06-02T09:05:58.772420",
+  "count": 154,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -4015,7 +4015,7 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "1fbe15cd1109f508",
+      "listing_id": "fcbf065659685276",
       "post_type": "listing",
       "listing_type": "entire_unit",
       "duration_type": "long_term",
@@ -4026,7 +4026,7 @@
       "unit_config": null,
       "room_type": "entire_unit",
       "is_furnished": null,
-      "roommates_count": null,
+      "roommates_count": 0,
       "amenities": [
         "in_unit_laundry",
         "rooftop",
@@ -4037,9 +4037,35 @@
       "pets_allowed": null,
       "gender_preference": null,
       "building_name": "The Paramount",
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100077829870704/?__cft__[0]=AZbeKWZM1VL13X2DEPaPZ2Uxuti4J8u8CB07Pwk8931tB5ctAUENJo6SybZPbm2ICcxIJHDU5TJs3iIjgfCONQiJV6KaAf4IkYovO4t3icTbZsydjD0U1BGhmSb8C6ZL8vgtmV5rOudloM-fVztgT_ygDjO-ydAiQJ0P4Nj7fO4u21_JPfgCiSef-81hW9b28MFf3mlwdk82cL-hU9JWsf4j&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100077829870704/?__cft__[0]=AZbMiD-st5Kt7EKuccHkZvJaostPp7TQjnUk621gvt1B_QgmDkYgd1ei_ty3FJrCSkmj4NhmE3uaxnt8OyTdPWBHRLCzOa_DQNkU5YOsHqLnZXBH3D9IuztmJgG8N9tCnNiqd-BK10rfoCqXlKzwLDI6QZXE82sSNC_zPZCjAXETNG_E7fgpufdljN_K0ZEa1nE-SKmn_p38JqLFxo0El2Yj&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-02T15:00:03.011714+00:00",
+      "first_scraped_at": "2026-06-02T16:00:02.966201+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27032961773027788",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2500,
+      "neighborhood": "Pacific Heights",
+      "available_from": "2026-08-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27032961773027788/?__cft__[0]=AZZodPrNi4URyD8ksrl_3TaAErB5T_eUB8nPlunTbJkYbJakVNQXD7B7BH2fHygCxX4pCZPea1uDWWq6UXu9Ogjt1-A6687vhTQM7rtekZIYURdlZvyL2lrJghN3DnMEPLAni6Scqp2RVTXsar5c42HZNNzGx29VauayToYHYwO81Kslo9qFHXiLKJpAghRQrPei_g90qApHeStGAHun8xEi&__tn__=%2CO%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-02T16:00:02.966201+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
