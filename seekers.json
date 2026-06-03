@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-03T15:06:01.529340",
-  "count": 396,
+  "updated_at": "2026-06-03T16:05:43.003376",
+  "count": 398,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -10145,32 +10145,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "9fa197f9c173a701",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": "2026-06-10",
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": 2800,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [
-        "Lone Mountain",
-        "Nopa"
-      ],
-      "furnished_required": null,
-      "group_size": 2,
-      "has_pets": true,
-      "reason": null,
-      "age": null,
-      "bio": "Two friends, a full-time nanny and a pharmacy student, looking for roommates to share a townhouse. They enjoy exploring the city, gym, concerts, and socializing.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100040608095614/?__cft__[0]=AZah3Ta64W2sfs0nX4tqmU98q7hZ65imfxkOrlViLOgdwLvVGLCeFRlTAbHXW152ZYZ8FuK9_bBIFEoVyAd6x-U0GHKNWuM010em6Ejq0VGJ7kvjgeRFzyA30sv_7_RIJASTbtbdb3y-XHvW5pDMq9M6LJwUQUtNF6B3-nTXDcaf_cNifzUlDHkHOc6odUlMLU7b7OF55EGfoIgkL6uQ5JK1&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-03T22:00:02.752458+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4605282656373405",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -10193,33 +10167,6 @@
       "posted_at": "Wednesday 3 June 2026 at 14:06",
       "first_scraped_at": "2026-06-03T22:00:02.752458+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
-      "listing_id": "ed06d9e71ccbea27",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "2B"
-      ],
-      "preferred_neighborhoods": [
-        "Central Sunset",
-        "Outer Sunset",
-        "Richmond"
-      ],
-      "furnished_required": null,
-      "group_size": 2,
-      "has_pets": false,
-      "reason": null,
-      "age": 27,
-      "bio": "27 year old woman working full time in the hospitality industry. Enjoys reading, skincare, and attempting yoga. Lives with her mother, a care aid who loves cooking and detective shows.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100001611754540/?__cft__[0]=AZYbc69IukeZcyi1-ufbVDSIYBfWhm-EyoSva96jrDO9XtMhF8MGgIWfD-gNnjEOHCgOHjKgR0x0fQNjiQfhOfIK7jrhcB_YV2YjjuH76U39Al_zZVNEuB4Y4fC1X9gDbklivDPm9xenJYkAAoODxUpsHw1LIqr7QFhdAJo6fPcVdGFFfAqRkdH79nqGvrFtdOI&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-03T22:00:02.752458+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
       "listing_id": "1919184215439818",
@@ -10321,6 +10268,116 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1919176012107305/?__cft__[0]=AZa_sQatrOt5W5iyKmsuXQsu1yPLmiX6qzEUZXjPKb0noZjV7i3vhZzdVBhvtee_FGDmJTdxgaLwFOXjpGcFspOWfY1xw-K_K0-DtiKjSNIQShl-pQzAna7-51bdnlYcQlzqUp6YL_n2aGdWFtqdhOmmtaabiZaYdYS-3yiSsABU68zEaBFSgl5z5RgU2n865noMZnHPMbxsMk_BOogflRZ4&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 3 June 2026 at 14:41",
       "first_scraped_at": "2026-06-03T22:00:02.752458+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4605337526367918",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-06-20",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Potrero Hill",
+        "Noe Valley",
+        "Castro",
+        "Sunset",
+        "SFSU",
+        "Parkmerced",
+        "Daly City",
+        "Colma",
+        "South San Francisco"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "He is a 23-year-old male starting a full-time job at a startup. He is pretty chill, clean, and organized, working a hybrid schedule, cooking healthy meals, and exploring the city on weekends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4605337526367918/?comment_id=4605350699699934&__cft__[0]=AZby9S0WjXcN9k2asUL1V9zQYZPutlrZxN9O9uhyOMt-7_0J00wwRhkH6CBh79w25-NCvD9CPm4pfluSWkTWfeeo87UQXYfj5JNammGZ1hAQ2n9mH3Wht5T3p4nTrn3FmMuz-5M5oKnA_acpMM9-9M5orHNarj39mYghPT90WQXagLSj5WZZ1n1X5uDttbsuY4g&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-03T23:00:02.601697+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4605306859704318",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-06-10",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lone Mountain",
+        "Nopa"
+      ],
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Two friends, a full-time nanny and a pharmacy student, looking for roommates to share a townhouse. They enjoy exploring the city, wine nights, and are easy-going and tidy.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4605306859704318/?__cft__[0]=AZZKY3ahC4DBaCCXG9HfoA1yul659sfHYvF1kQmF7LNbYtHShGHtQ8G7_-dRKey1V3U-xnHk9xNuUUdKvzuo5o59OZGvS_l0m3i1Z58-VRS-x-nl1iLDnmK_0Ysi9wQOdw-Q9JMUmBoO7ZWuS5MZy6rfep4s59JOCVfYShIgJZhM7xTmSAR5md3xMv9QHFvlOJBGjmKlu7GxliImG5f_nNRe&__tn__=%2CO%2CP-R",
+      "posted_at": "Wednesday 3 June 2026 at 14:40",
+      "first_scraped_at": "2026-06-03T23:00:02.601697+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1919207632104143",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "She recently graduated from UMass Amherst and is planning to move to SF. She loves traveling, cooking, going to the gym, exploring new food and drink spots, and doing outdoor activities. She is clean, respectful, and looking for roommates who are open to becoming friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1919207632104143/?__cft__[0]=AZYY54U92r3TM9B-lOEHgmwtZfKE7hLBf9iOizvP9sK-AC181H12eSZJm-zNfwXqrnYsMDahzGsyH30aVjgY5Ojyy70eFuwrDsckvzMrqE1Y_9RtNijbeLI6WPn7kTzSOY2NuJ9eGh_zZipUrSgADg-1XzRzFfH-njyPGh0JD5FqrLK0O4VpHmzTJ_Lpra5SzEiHHZuA8mELBD4pXV95T0K6&__tn__=%2CO%2CP-R",
+      "posted_at": "Wednesday 3 June 2026 at 15:43",
+      "first_scraped_at": "2026-06-03T23:00:02.601697+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1919186815439558",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Central Sunset",
+        "Outer Sunset",
+        "Richmond"
+      ],
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "reason": null,
+      "age": 27,
+      "bio": "27 year old woman working full time in the hospitality industry. Enjoys reading, skincare, and attempting yoga. Her mother, in her late 50s, works full time as a care aid, loves cooking, detective shows, and walking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1919186815439558/?__cft__[0]=AZZEWBFdfF7UBFfPC9b7aRbzrxqL59FzRXsT1nQq5D7X_WQSUtnXyc06t9owHu-YD-d_WnANiW5f6m7qq6K0EHU5uCRonMzU0fkTYRvgaqKAogd5DFCx5JoB_0kxNJ-2WD_CNL1TLm3F6NA7onvm1zAX6LJ7vZocFvuQafafivjB8PCcqxGazCT92rLlTm5eczE&__tn__=%2CO%2CP-R",
+      "posted_at": "Wednesday 3 June 2026 at 15:03",
+      "first_scraped_at": "2026-06-03T23:00:02.601697+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
