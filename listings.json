@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-02T20:05:55.130797",
-  "count": 167,
+  "updated_at": "2026-06-02T21:07:07.638650",
+  "count": 168,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -4385,7 +4385,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "58bf6afbbdd596ef",
+      "listing_id": "60fe70dab8c87fbf",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "Crocker Amazon",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "backyard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001662898412/?__cft__[0]=AZbD6gpu71nNM99Vfghf8NRBR2PHL0u912doxN1p7h0JEQkKcDSR5HSsXY70EIqatqXXY0L86DKkJ4OCUnVSqHtkX53NRbGraLs-VggakLHOqlu8AUsS7TFQvim6kMORMTHhmr6WDC8-T8B-JwiSGQFFlLxP59HzVkZsB5XIGHytdXJgFH_Ns3iN_Tq0nFM6OqP4fmP8hnrp_-LYCNs6bgH6&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-03T04:00:02.790377+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4604347659800238",
       "post_type": "listing",
       "listing_type": "sublease",
       "duration_type": "short_term",
@@ -4399,13 +4426,14 @@
       "roommates_count": 2,
       "amenities": [
         "Wi-Fi",
-        "washer and dryer",
+        "washer",
+        "dryer",
         "large kitchen",
         "common space",
-        "front and backyard",
-        "street parking",
-        "large screen TV",
-        "clawfoot bathtub",
+        "front yard",
+        "backyard",
+        "TV",
+        "bathtub",
         "massage chair",
         "BBQ grill"
       ],
@@ -4413,9 +4441,9 @@
       "pets_allowed": null,
       "gender_preference": "female or non-binary",
       "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000094746249/?__cft__[0]=AZa4WBAkvsIeal_8cLlXXRbqxGKnU_YlVJAB8g6WXsXMYMlO_HE74ncX_VwNZ1H50dEqapy9AjtgG5xnnnuWKEDQX1hjQYb0cNXB9mHz9f1qr86ri1eZbQt-fjh8oWfa_VOfa46E3ZK4xJPJ59xNCzecFuFOE3Hd0OZlSeg5fAvMU9Zznch-Xh_fX91M9XRYErOTXowUhbcFm6B5wCfh8cUL&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-03T03:00:02.789463+00:00",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4604347659800238/?__cft__[0]=AZYAH9Z09V3WnzYUml9JQ8W2Vf5tTH64-ZwIxLO_yVunMg5pT33PugpiXTLPvLCb3XqaNcrf9CxiLfYgMdnzcq_a1cXtxMdkIpHP8GqAW9pUudjNr1kB6abcvmlsdQhwjvHc4owoAkBCsM03PIMLcNQtj5fkIYEmrBh5QgI9px2Rp-ToV1tiyghtA3yX1irqufNp17jKT62CK8CzGEnxiP8l&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 2 June 2026 at 18:58",
+      "first_scraped_at": "2026-06-03T04:00:02.790377+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
