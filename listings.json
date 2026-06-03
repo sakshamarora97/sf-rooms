@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-03T11:05:31.031772",
-  "count": 182,
+  "updated_at": "2026-06-03T12:05:16.308359",
+  "count": 183,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -4763,32 +4763,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "8f35e1d862357876",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "short_term",
-      "rent": 3150,
-      "neighborhood": "Inner Sunset",
-      "available_from": "2026-08-01",
-      "available_until": "2026-08-31",
-      "unit_config": "1B1B",
-      "room_type": "entire_unit",
-      "is_furnished": null,
-      "roommates_count": 0,
-      "amenities": [
-        "in_unit_laundry",
-        "dishwasher"
-      ],
-      "utilities_included": true,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/1194587658/?__cft__[0]=AZYMN9FUZ4yLpF2_PVGaQMQ61-IB6e3h1iv1JX6PJoT4Hw1PTW9pxdff0Ne7MrSGz4MKhGe8YZ-lpqdXoPh8oMwhfQBJTW7lf9TFSQwc-h4CPRHaEUJ1-6J4laSkimmfj5sjILorZ2aUefbBmaRbTKS4xkHDFlCdj-3y0Upvc7GBlSPDVrPa9kkfCrP__Jmd47ycbcA968o7GvuXBHV0yCOT&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-03T18:00:02.908351+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "1919051228786450",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -4814,6 +4788,59 @@
       "posted_at": "Wednesday 3 June 2026 at 11:00",
       "first_scraped_at": "2026-06-03T18:00:02.908351+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "a91b52a207d38f7c",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Golden Gate Heights",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100025527560019/?__cft__[0]=AZaPJLT9mBsK_C9tt_nzJ9nhsjH4wia2d8N754E5LdwiDCA9dgkIIQwqGlAfd21doTNk8rkIGqYVXkVQUwgSj8pvs2AbO5gC3rPMS6rvdOq2zr3QaRRQzVvueTf0EA-xf_89VFcvJ1yQpACKRVyN_wqoOxbLGsji-2VNmg2Ltj9abNiQgLqwXLVoGBb2Yi5D4I_bTLCdT26ZD9IAAgIV2yay&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-03T19:00:02.444621+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "97cd983ea29596a7",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3150,
+      "neighborhood": "Inner Sunset",
+      "available_from": "2026-08-01",
+      "available_until": "2026-08-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/1194587658/?__cft__[0]=AZZU-tg9Hp7o8zXm0w5H3POAPNCOvQROnliQhqagMRP9exC_4IM3_P4agAGqpeo-4ppV9BOuK8Gfg9eExpxgm4KIKCV3VEtE7ONZsuSlrT9e3e8ELRP9a603-N7mLYakj9R8IZ7fcrRg_MvWQJYSG-iXmtInuSIx8M7iogJUXmMK_EksTAn-_LBQOq-ugt51jupG_qN4-lIiOcWUFxJIaBxD&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-03T19:00:02.444621+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }

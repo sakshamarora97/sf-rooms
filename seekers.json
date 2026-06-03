@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-03T11:05:31.187609",
-  "count": 381,
+  "updated_at": "2026-06-03T12:05:16.464680",
+  "count": 383,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -9939,6 +9939,59 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1919049098786663/?__cft__[0]=AZboo8w7aolRTzeqSNl5t1Ilq9ZuJI27ZcPnY7wByg6gp8q7Vz210XL17T_Lwzg3IeNfR5PCJJwieq0DNYygqR-xMMZgizGBO6dSndhH8nEjzq-odqNXyjBUWZKT_QywTTUpq5Whnb8pjDuFF_J3bRodWcfuLvMnNvhuFu5ELcw7rdsEvypbd7vfxLv7UZNbyLk&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 3 June 2026 at 10:57",
       "first_scraped_at": "2026-06-03T18:00:02.908351+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4604527403115597",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A founder and entrepreneur currently based in Boston, moving to San Francisco.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4604527403115597/?__cft__[0]=AZYnoEv77GwLI8nN1C4Vyi7zckAsfSyCo8Mo-pWnmD5P6Y9LJFUL_Irapdk162N74LpTeMqLbzL8GA5q8qT8o3jxt9RWldqtZyLzpJ_yvkGn-yJKIuSp7FfZ7feGpBuYabaHqmikdJwISHRrgezvxWM7GDW6UaVmLBd9j3JGvsS1I-vtE0gjtBVBgcULc-SrXmY&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 2 June 2026 at 22:29",
+      "first_scraped_at": "2026-06-03T19:00:02.444621+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1919035328788040",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease",
+        "rental"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pac Heights",
+        "Nob Hill",
+        "North Beach",
+        "Hayes Valley"
+      ],
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Recently decided to stay in SF after a meeting and is currently staying with a friend in Berkeley.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1919035328788040/?__cft__[0]=AZY5oJB3JpHp_eeR_ALemM4EAH5zOdTm9QzpLtNr2tIv5c0EPSig-1j6youLwb34GGUdKciVeFh1-oBUi3XfE4LktHfTS78efYq_ZTta1gFM6ABzQUNXQSSwuUba7LD2JJ2f0-knO4dVfO8YFVYMqkPDB7lhr2oPsP6r1h8H32-GKHlK1IlrfqLrHPrEjtXk8MDWZLcz8c1aYbUu-_z3EsMR&__tn__=%2CO%2CP-R",
+      "posted_at": "Wednesday 3 June 2026 at 10:36",
+      "first_scraped_at": "2026-06-03T19:00:02.444621+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
