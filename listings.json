@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-02T21:07:07.638650",
-  "count": 168,
+  "updated_at": "2026-06-02T22:06:07.420406",
+  "count": 170,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -4385,33 +4385,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "60fe70dab8c87fbf",
-      "post_type": "listing",
-      "listing_type": "room_rental",
-      "duration_type": "long_term",
-      "rent": 1400,
-      "neighborhood": "Crocker Amazon",
-      "available_from": null,
-      "available_until": null,
-      "unit_config": "3B2B",
-      "room_type": "private_room",
-      "is_furnished": false,
-      "roommates_count": 3,
-      "amenities": [
-        "in_unit_laundry",
-        "street_parking",
-        "backyard"
-      ],
-      "utilities_included": false,
-      "pets_allowed": false,
-      "gender_preference": "female only",
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001662898412/?__cft__[0]=AZbD6gpu71nNM99Vfghf8NRBR2PHL0u912doxN1p7h0JEQkKcDSR5HSsXY70EIqatqXXY0L86DKkJ4OCUnVSqHtkX53NRbGraLs-VggakLHOqlu8AUsS7TFQvim6kMORMTHhmr6WDC8-T8B-JwiSGQFFlLxP59HzVkZsB5XIGHytdXJgFH_Ns3iN_Tq0nFM6OqP4fmP8hnrp_-LYCNs6bgH6&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-03T04:00:02.790377+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4604347659800238",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -4445,6 +4418,85 @@
       "posted_at": "Tuesday 2 June 2026 at 18:58",
       "first_scraped_at": "2026-06-03T04:00:02.790377+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4604438656457805",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "Crocker Amazon",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "backyard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4604438656457805/?__cft__[0]=AZaEkG_IYOrsd0fR7hSswakIOecCneZAH0tjXXj9wjNTRYqsIPOCxXvFcNoiIjZIL4pyDjGmFJ5rEjj2W8_oApg7fBGi4oG8H6WHJOvfbNBInwXi-GVd9FfbTOK12hAMmm_Fl1rDHTHgWTU01dLYPxaoXcvHxs9qwgUjjiyy2H5OyAHOCp5fMSND4-QLsXdeDqFZM9erJtLR5rxSCgemJ_iG&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 2 June 2026 at 20:32",
+      "first_scraped_at": "2026-06-03T05:00:02.497036+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1918502642174642",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2500,
+      "neighborhood": "Pacific Heights",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1918502642174642/?__cft__[0]=AZZEC654TvtUFMt7PkOO06SH53vv0VlVwYM9viqQlZtrh4Yy2OFF9qPhwCVknGsrbTIgMaIkkWozP2RdCIFNxc8WZKdpX4La8Je1EZCucYFJ3wofIZgx-sl11z8Ah7ku4QJuF0_AJ4YvCBySa7VRPMHDv6_WwzsIKc5U9o0rRW_D15mUNd4NLPRUQ5xGbs2xBh0&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 2 June 2026 at 21:47",
+      "first_scraped_at": "2026-06-03T05:00:02.497036+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1918499922174914",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1283,
+      "neighborhood": "Outer Richmond",
+      "available_from": "2026-06-07",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_building_laundry",
+        "parking",
+        "backyard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1918499922174914/?__cft__[0]=AZZ498pBcDPsyULsD7pQUkZsIT9FdnkMM5DAUFhenLTdNAHeY-Y1NkVldhDuiJZNwmAnIZE-e5_Xp3bH717EadrGr9iHViE-1dwXfQnXk2HrUaYzW1oFDsYrMqxbUoc3zHLHbJilYjBa5qblxHvD50oTHdlMRmhiyvKEu1gj4OO75sUge0GFtiFt6uV51S73aFF2z_hbkLrDEY5oP0LzzwRA&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 2 June 2026 at 21:43",
+      "first_scraped_at": "2026-06-03T05:00:02.497036+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
