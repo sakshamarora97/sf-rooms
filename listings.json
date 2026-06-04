@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-04T14:04:53.229448",
-  "count": 207,
+  "updated_at": "2026-06-04T15:04:46.954413",
+  "count": 208,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -5464,6 +5464,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920022422022664/?__cft__[0]=AZbI4GPqg5ZSDeNmv1sXuTURQEQBijQ1dJXIcfIJ9POya0SNFXSvRiYHJv_TCIgtOy8AQkvj6P2tN7-0A1imwewXdNHrKpcHKdqMY--xLdtURYN1-bW7yd2MMZKjhV6a9vb9FWgc4wpbTtCr-0pgzr8wCgCzLjlf9piHCpr1qcH2KmpfXdshdU9SCEkTDNGELhbHPzsibisgHd6hlD3EZJS-&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 4 June 2026 at 13:30",
       "first_scraped_at": "2026-06-04T21:00:02.819010+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920039208687652",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 872,
+      "neighborhood": "Bayside Village",
+      "available_from": "2026-06-18",
+      "available_until": "2026-08-09",
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": 4,
+      "amenities": [
+        "gym",
+        "pool",
+        "study/lounge spaces"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920039208687652/?__cft__[0]=AZYusA9SzBMeD00vPmsAt5FGo0Z_1E3Ucgy0Wht7otYWScPy_SFpYOR21klrZ5z2SZI5CVzM_h8kKS2ktNmOzYhCn7vI_tB7UkZbQGwO53C9RoybCBsbnLbBfDSBwloarIKnFmY-yb536jhjZcTYubhxJ7bd1EQoWiq1IBTEtFWHbKzidRTKoFBLTXhMlS_FMCg&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 14:02",
+      "first_scraped_at": "2026-06-04T22:00:02.668923+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
