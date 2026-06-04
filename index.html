@@ -1120,9 +1120,23 @@ function _showAuthMsg(msg, ok) {
 }
 
 async function signInGoogle() {
-  await supa.auth.signInWithOAuth({
+  const { data, error } = await supa.auth.signInWithOAuth({
     provider: 'google',
-    options: { redirectTo: window.location.href }
+    options: { redirectTo: window.location.href, skipBrowserRedirect: true }
+  });
+  if (error) { _showAuthMsg(error.message, false); return; }
+  const w = 500, h = 600;
+  const left = Math.round(window.screenX + (window.outerWidth - w) / 2);
+  const top  = Math.round(window.screenY + (window.outerHeight - h) / 2);
+  const popup = window.open(data.url, 'google-signin',
+    `width=${w},height=${h},left=${left},top=${top},scrollbars=yes,resizable=yes`);
+  if (!popup) {
+    _showAuthMsg('Popup blocked — please allow popups for this site and try again.', false);
+    return;
+  }
+  // Close popup once session is established; global onAuthStateChange handles UI
+  const { data: { subscription } } = supa.auth.onAuthStateChange((event, session) => {
+    if (session) { popup.close(); subscription.unsubscribe(); }
   });
 }
 
@@ -1261,6 +1275,8 @@ window.deleteNote = async function() {
 };
 
 // ── Load data ─────────────────────────────────────────────────────────────────
+let _listingsLoaded = false;
+
 async function load() {
   const [lData, sData, spData] = await Promise.all([
     fetch(DATA_BASE+'listings.json').then(r=>r.json()),
@@ -1278,6 +1294,10 @@ async function load() {
   allListings = lData.posts || [];
   allSeekers  = sData.posts || [];
 
+  // Load user data before first render so bookmarks/tags appear immediately
+  if (currentUser) await loadUserData();
+
+  _listingsLoaded = true;
   renderListings();
   renderSeekers();
   renderSpam(spData.posts || []);
@@ -1293,8 +1313,12 @@ supa.auth.onAuthStateChange(async (event, session) => {
   } else {
     userBookmarks.clear(); userTags.clear(); userNotes.clear();
   }
-  renderListings();
-  renderSeekers();
+  // Only re-render if listings are already loaded — avoids rendering empty lists
+  // during page init before load() completes
+  if (_listingsLoaded) {
+    renderListings();
+    renderSeekers();
+  }
 });
 
 load().catch(err => console.error('Failed to load data:', err));
