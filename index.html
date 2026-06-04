@@ -1154,6 +1154,10 @@ async function forgotPassword(e) {
 
 async function signOut() {
   await supa.auth.signOut();
+  currentUser = null;
+  userBookmarks.clear(); userTags.clear(); userNotes.clear();
+  updateAuthUI();
+  renderListings(); renderSeekers();
 }
 
 function updateAuthUI() {
