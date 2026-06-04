@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-04T08:05:37.226401",
+  "updated_at": "2026-06-04T09:04:59.752689",
   "count": 201,
   "posts": [
     {
@@ -5162,32 +5162,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
-      "listing_id": "3318a00e30383344",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "short_term",
-      "rent": 1500,
-      "neighborhood": "Mission",
-      "available_from": "2026-07-01",
-      "available_until": "2026-07-31",
-      "unit_config": "4B2.5B",
-      "room_type": "private_room",
-      "is_furnished": true,
-      "roommates_count": 3,
-      "amenities": [
-        "laundry_on_site",
-        "bi_weekly_cleaning"
-      ],
-      "utilities_included": null,
-      "pets_allowed": true,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/515395005/?__cft__[0]=AZbhNh7d_E8VwIKNPCEMBAcorCkHC20RvIE72Z5yLzEBl7QZSnYg5PMx_R9DjP_rMoqIvpm02FxnjtctzpsQpEWNncp1tQZ56MS-eHD42kICCOGhQrdSRvvvspFiNNkzjplYY4J3x0x562jZkbgcjRde-N8y_dQCvpidP-MEqQa6Kg9pnIK3GgPXGmofUaRELwh6P4hOu07JA7iFONoBRmNE&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-04T15:00:03.041303+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4606005822967755",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -5237,7 +5211,7 @@
       "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/27051166297874002/?comment_id=27065443509779614&__cft__[0]=AZbhYflV6lU46f9viA29mh6mk_KbB18DB4nkjmE-nBttTD-o1b5or9L_skknT5OK1hNeKWSmNxNQtJfMLPX_rwHVpBczyvAh9vjXuCVqaQL7sWZlis8EGnB0TACr6qKHFD3Y3-6iAuv3W5xZPRHf9CbNpLAtH-liuzhQW9JSz62HQFYfpsiCbu4EXO0SZPkfgaY&__tn__=R-R",
-      "posted_at": null,
+      "posted_at": "Thursday 4 June 2026 at 06:23",
       "first_scraped_at": "2026-06-04T15:00:03.041303+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
@@ -5309,6 +5283,32 @@
       "posted_at": "Wednesday 3 June 2026 at 22:23",
       "first_scraped_at": "2026-06-04T15:00:03.041303+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4606034952964842",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1500,
+      "neighborhood": "Mission",
+      "available_from": "2026-07-01",
+      "available_until": "2026-07-31",
+      "unit_config": "4B2.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "laundry_on_site",
+        "bi_weekly_cleaning"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4606034952964842/?__cft__[0]=AZbIsdOqvGx1gPX5yrBQMhj__qke4yr_GgVCgWEQHGU2gAzaWtA8CjYQPMoRjCi6WtFzxSDw0gk_WEvkp0MjQkN6ZMT1sPqGohEC29D19eT1N6ilx8bmCpKoYYwkdxTkAfk7Cd1Ql766FD9YZpJFXXKjgmVJ--wwM2JVeIY2xpnbdVEcLCJJ7h_7rElWo0-nw_UOcF2qObw99ClmBC1b-WWP&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 07:25",
+      "first_scraped_at": "2026-06-04T16:00:02.919555+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
