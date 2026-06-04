@@ -1154,10 +1154,6 @@ async function forgotPassword(e) {
 
 async function signOut() {
   await supa.auth.signOut();
-  currentUser = null;
-  userBookmarks.clear(); userTags.clear(); userNotes.clear();
-  updateAuthUI();
-  renderListings(); renderSeekers();
 }
 
 function updateAuthUI() {
@@ -1290,9 +1286,11 @@ supa.auth.onAuthStateChange(async (event, session) => {
   if (currentUser) {
     await loadUserData();
     closeAuthModal();
-    renderListings();
-    renderSeekers();
+  } else {
+    userBookmarks.clear(); userTags.clear(); userNotes.clear();
   }
+  renderListings();
+  renderSeekers();
 });
 
 load().catch(err => console.error('Failed to load data:', err));
