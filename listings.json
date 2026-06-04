@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-04T13:05:01.815641",
-  "count": 205,
+  "updated_at": "2026-06-04T14:04:53.229448",
+  "count": 207,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -5413,6 +5413,57 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1919923562032550/?__cft__[0]=AZaa3x6L4Dn-3hj0vVD8RKzjaD30UxWAe-3dfWaqG4fM9Iafy312p8eHf1DirOAeY-cV_fL4OlkpUY7uLsfVqbZuJ7Bylxb56L43BsM-iBufxcI5dCRDXWpewhq0IP0lQBSxRfFZPeczKT8ry1kqkJ0dINkhgJcOFp0NBFK01aiMfQ5my-DdNJDdsoYr9abL0Eb5toLx7oGjNPBiDXbeX0tc&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 4 June 2026 at 10:39",
       "first_scraped_at": "2026-06-04T19:00:02.845613+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920026092022297",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2300,
+      "neighborhood": "SOMA",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920026092022297/?__cft__[0]=AZb9mj3hNNNYVYJXzEJWwqtMjFuKfNou0-7oQbwGU5TYVu4aGKNjFETKXxz7FsBrovSHqkEWMrHYkSx97FoqHFAGjsDit6xzDp_7jUjQIJJq9b85sLD8RuPEJoc5o666_gZ8ITDYhNxNgQZTKy9IQI0rBgDWU5qvwKRCYNNU6WujklePGKpC444PwAhLH_Ts7vTaawYk9SASj9e4Jn-0ufHz&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 13:36",
+      "first_scraped_at": "2026-06-04T21:00:02.819010+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920022422022664",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "Pacific Heights",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "private_terrace",
+        "walk_in_closet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920022422022664/?__cft__[0]=AZbI4GPqg5ZSDeNmv1sXuTURQEQBijQ1dJXIcfIJ9POya0SNFXSvRiYHJv_TCIgtOy8AQkvj6P2tN7-0A1imwewXdNHrKpcHKdqMY--xLdtURYN1-bW7yd2MMZKjhV6a9vb9FWgc4wpbTtCr-0pgzr8wCgCzLjlf9piHCpr1qcH2KmpfXdshdU9SCEkTDNGELhbHPzsibisgHd6hlD3EZJS-&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 13:30",
+      "first_scraped_at": "2026-06-04T21:00:02.819010+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
