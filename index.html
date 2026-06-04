@@ -420,7 +420,6 @@
     font-size: 13px;
   }
 
-  .magic-sent { background: #f0fdf4; border: 1px solid #86efac; border-radius: 8px; padding: 12px; font-size: 13px; color: #166534; text-align: center; }
 
   /* ── Mobile card layout ───────────────────────────────────────────────────── */
   .mobile-list { display: none; }
@@ -666,6 +665,25 @@
   </div>
 </div>
 
+<!-- Sign-in toast -->
+<div id="signin-toast" style="
+  display:none;position:fixed;bottom:24px;left:50%;transform:translateX(-50%);
+  background:#1e1b4b;color:#fff;padding:12px 20px;border-radius:12px;
+  box-shadow:0 4px 24px rgba(0,0,0,0.18);z-index:9999;
+  display:none;align-items:center;gap:14px;font-size:14px;white-space:nowrap;
+">
+  <span>Sign in to save your tags and notes</span>
+  <button onclick="signInGoogle()" style="
+    background:#fff;color:#1e1b4b;border:none;border-radius:8px;
+    padding:7px 14px;font-size:13px;font-weight:600;cursor:pointer;
+    display:flex;align-items:center;gap:6px;
+  ">
+    <svg width="14" height="14" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.2l6.8-6.8C35.8 2.5 30.3 0 24 0 14.7 0 6.7 5.4 2.9 13.3l7.9 6.1C12.6 13.1 17.9 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.1-.4-4.5H24v8.5h12.7c-.6 3-2.3 5.5-4.8 7.2l7.5 5.8c4.4-4.1 7.1-10.1 7.1-17z"/><path fill="#FBBC05" d="M10.8 28.6A14.8 14.8 0 0 1 9.5 24c0-1.6.3-3.1.7-4.6L2.3 13.3A23.9 23.9 0 0 0 0 24c0 3.9.9 7.5 2.9 10.7l7.9-6.1z"/><path fill="#34A853" d="M24 48c6.5 0 11.9-2.1 15.9-5.8l-7.5-5.8c-2.1 1.4-4.8 2.2-8.4 2.2-6.1 0-11.4-3.6-13.2-9.1l-7.9 6.1C6.7 42.6 14.7 48 24 48z"/></svg>
+    Sign in with Google
+  </button>
+  <button onclick="hideSignInToast()" style="background:none;border:none;color:#a5b4fc;cursor:pointer;font-size:18px;line-height:1;padding:0 2px;">×</button>
+</div>
+
 <!-- Auth modal -->
 <div class="modal-overlay" id="auth-modal" style="display:none" onclick="if(event.target===this)closeAuthModal()">
   <div class="modal">
@@ -676,13 +694,16 @@
       Continue with Google
     </button>
     <div class="modal-divider">or</div>
-    <div id="magic-form" style="display:flex;flex-direction:column;gap:10px">
-      <input type="email" id="magic-email" placeholder="your@email.com">
-      <button class="btn-primary" onclick="signInMagic()">Send magic link</button>
+    <div id="email-auth-form" style="display:flex;flex-direction:column;gap:10px">
+      <input type="email" id="auth-email" placeholder="your@email.com" autocomplete="email" onkeydown="if(event.key==='Enter')signInEmail()">
+      <input type="password" id="auth-password" placeholder="Password" autocomplete="current-password" onkeydown="if(event.key==='Enter')signInEmail()">
+      <button class="btn-primary" id="auth-submit-btn" onclick="signInEmail()">Sign in</button>
+      <div style="display:flex;justify-content:space-between;align-items:center;font-size:12px;">
+        <a href="#" onclick="toggleAuthMode(event)" id="auth-toggle-link" style="color:#4f46e5;">No account? Create one</a>
+        <a href="#" onclick="forgotPassword(event)" style="color:#888;">Forgot password?</a>
+      </div>
     </div>
-    <div id="magic-sent" class="magic-sent" style="display:none">
-      ✉️ Check your email — we sent you a sign-in link!
-    </div>
+    <div id="auth-message" style="display:none;font-size:13px;text-align:center;padding:10px;border-radius:8px;"></div>
   </div>
 </div>
 
@@ -1084,12 +1105,36 @@ document.querySelectorAll('.tab').forEach(tab => {
 });
 
 // ── Auth ──────────────────────────────────────────────────────────────────────
-function showAuthModal() { $('auth-modal').style.display='flex'; }
+let _authMode = 'signin'; // 'signin' | 'signup'
+
+function showAuthModal() {
+  _authMode = 'signin';
+  _resetAuthForm();
+  $('auth-modal').style.display='flex';
+  setTimeout(() => $('auth-email').focus(), 50);
+}
 function closeAuthModal() {
   $('auth-modal').style.display='none';
-  $('magic-sent').style.display='none';
-  $('magic-form').style.display='flex';
-  $('magic-email').value='';
+  _resetAuthForm();
+}
+function _resetAuthForm() {
+  $('auth-email').value = '';
+  $('auth-password').value = '';
+  $('auth-message').style.display = 'none';
+  $('auth-submit-btn').textContent = _authMode === 'signup' ? 'Create account' : 'Sign in';
+  $('auth-toggle-link').textContent = _authMode === 'signup' ? 'Already have an account? Sign in' : 'No account? Create one';
+}
+function toggleAuthMode(e) {
+  e.preventDefault();
+  _authMode = _authMode === 'signin' ? 'signup' : 'signin';
+  _resetAuthForm();
+}
+function _showAuthMsg(msg, ok) {
+  const el = $('auth-message');
+  el.textContent = msg;
+  el.style.display = 'block';
+  el.style.background = ok ? '#f0fdf4' : '#fef2f2';
+  el.style.color = ok ? '#166534' : '#991b1b';
 }
 
 async function signInGoogle() {
@@ -1099,16 +1144,30 @@ async function signInGoogle() {
   });
 }
 
-async function signInMagic() {
-  const email = $('magic-email').value.trim();
-  if (!email) return;
-  const { error } = await supa.auth.signInWithOtp({
-    email,
-    options: { emailRedirectTo: window.location.href }
-  });
-  if (error) { alert(error.message); return; }
-  $('magic-form').style.display='none';
-  $('magic-sent').style.display='block';
+async function signInEmail() {
+  const email = $('auth-email').value.trim();
+  const password = $('auth-password').value;
+  if (!email || !password) { _showAuthMsg('Please enter your email and password.', false); return; }
+  $('auth-submit-btn').disabled = true;
+  if (_authMode === 'signup') {
+    const { error } = await supa.auth.signUp({ email, password });
+    if (error) { _showAuthMsg(error.message, false); }
+    else { _showAuthMsg('Account created! Check your email to confirm, then sign in.', true); }
+  } else {
+    const { error } = await supa.auth.signInWithPassword({ email, password });
+    if (error) { _showAuthMsg(error.message, false); }
+    else { closeAuthModal(); }
+  }
+  $('auth-submit-btn').disabled = false;
+}
+
+async function forgotPassword(e) {
+  e.preventDefault();
+  const email = $('auth-email').value.trim();
+  if (!email) { _showAuthMsg('Enter your email above first.', false); return; }
+  const { error } = await supa.auth.resetPasswordForEmail(email, { redirectTo: window.location.href });
+  if (error) { _showAuthMsg(error.message, false); }
+  else { _showAuthMsg('Password reset link sent — check your email.', true); }
 }
 
 async function signOut() {
@@ -1146,8 +1205,20 @@ async function loadUserData() {
   userNotes     = new Map((nt.data||[]).map(r=>[r.listing_id, r.body]));
 }
 
+let _toastTimer = null;
+function showSignInToast() {
+  const t = document.getElementById('signin-toast');
+  t.style.display = 'flex';
+  clearTimeout(_toastTimer);
+  _toastTimer = setTimeout(() => { t.style.display = 'none'; }, 4000);
+}
+function hideSignInToast() {
+  document.getElementById('signin-toast').style.display = 'none';
+  clearTimeout(_toastTimer);
+}
+
 window.toggleBookmark = async function(lid) {
-  if (!currentUser) { showAuthModal(); return; }
+  if (!currentUser) { showSignInToast(); return; }
   const uid = currentUser.id;
   if (userBookmarks.has(lid)) {
     await supa.from('bookmarks').delete().eq('user_id',uid).eq('listing_id',lid);
@@ -1160,7 +1231,7 @@ window.toggleBookmark = async function(lid) {
 };
 
 window.setTag = async function(lid, tag) {
-  if (!currentUser) { showAuthModal(); return; }
+  if (!currentUser) { showSignInToast(); return; }
   const uid = currentUser.id;
   if (!tag) {
     await supa.from('tags').delete().eq('user_id',uid).eq('listing_id',lid);
@@ -1181,7 +1252,7 @@ window.setTag = async function(lid, tag) {
 let noteListingId = null;
 
 window.openNoteModal = function(lid) {
-  if (!currentUser) { showAuthModal(); return; }
+  if (!currentUser) { showSignInToast(); return; }
   noteListingId = lid;
   const body = userNotes.get(lid) || '';
   $('note-body').value = body;
