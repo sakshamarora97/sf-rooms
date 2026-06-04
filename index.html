@@ -1207,7 +1207,7 @@ window.setTag = async function(lid, tag) {
     await supa.from('tags').delete().eq('user_id',uid).eq('listing_id',lid);
     userTags.delete(lid);
   } else {
-    await supa.from('tags').upsert({user_id:uid, listing_id:lid, tag});
+    await supa.from('tags').upsert({user_id:uid, listing_id:lid, tag}, {onConflict: 'user_id,listing_id'});
     userTags.set(lid, tag);
   }
   // update just the select color without full re-render
@@ -1245,7 +1245,7 @@ window.saveNote = async function() {
     await supa.from('notes').delete().eq('user_id',uid).eq('listing_id',noteListingId);
     userNotes.delete(noteListingId);
   } else {
-    await supa.from('notes').upsert({user_id:uid, listing_id:noteListingId, body, updated_at: new Date().toISOString()});
+    await supa.from('notes').upsert({user_id:uid, listing_id:noteListingId, body, updated_at: new Date().toISOString()}, {onConflict: 'user_id,listing_id'});
     userNotes.set(noteListingId, body);
   }
   closeNoteModal();
