@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-04T11:04:31.602885",
-  "count": 204,
+  "updated_at": "2026-06-04T12:04:28.926004",
+  "count": 205,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -5387,6 +5387,32 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1919926245365615/?__cft__[0]=AZbRx5MNkzt_tZ_7Bn3itRP4HXgHyFVIfRb71OC7A6A_TwADsDuk5mEdmWhMvUGXhHiSBeChj9GlBaeUn6eMxg336zfSzTXGEPFimAnRT2wctCc8TD2KEpNnMzgwjgRPCCPxUP9TfXYjGTVRQiXCljWqaENowE3XFIzDoMhGrQ7-zxs73bkVvrBSbE5kJ9-oB2o&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 4 June 2026 at 10:43",
       "first_scraped_at": "2026-06-04T18:00:02.401593+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1919923562032550",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1625,
+      "neighborhood": "Japantown",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1919923562032550/?__cft__[0]=AZaa3x6L4Dn-3hj0vVD8RKzjaD30UxWAe-3dfWaqG4fM9Iafy312p8eHf1DirOAeY-cV_fL4OlkpUY7uLsfVqbZuJ7Bylxb56L43BsM-iBufxcI5dCRDXWpewhq0IP0lQBSxRfFZPeczKT8ry1kqkJ0dINkhgJcOFp0NBFK01aiMfQ5my-DdNJDdsoYr9abL0Eb5toLx7oGjNPBiDXbeX0tc&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 10:39",
+      "first_scraped_at": "2026-06-04T19:00:02.845613+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
