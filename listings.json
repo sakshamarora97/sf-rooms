@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-04T21:06:00.274348",
-  "count": 217,
+  "updated_at": "2026-06-04T22:06:43.332145",
+  "count": 219,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -5724,6 +5724,59 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920242105334029/?__cft__[0]=AZbc8g3phxujpLkLNaFvezOJBbMG0-bku9LGPpapu40bSEkUyMmpAtQCpG03f8eWhstpDR30__mfY6F40DuA_F-_j5AHlF2muZPOzf-4D_E4bulNAVr7uBKr9v_kARNHRM5QgvG3P0QAlbADQwtimboMk1TKutgJU88PH0d4k_F8Vy3PH2nEtNreLHgGbSBKlZk_V8YeYfcFDK6nPs7T6k15eLRytXN9z9J68fq43g36dg&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 4 June 2026 at 20:12",
       "first_scraped_at": "2026-06-05T04:00:02.370234+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920292188662354",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": 2500,
+      "neighborhood": "Mission District",
+      "available_from": "2026-07-05",
+      "available_until": "2026-08-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "gym",
+        "laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920292188662354/?__cft__[0]=AZYQalQgSErqam3qqESfONQ1hfFulgthO8TvDVU5wSye2ccULOonUgYFCV-nAmAwRGxVEXjbbaEjucd5GTytKqNABsKMbe2ZOTVREVHNSL7-CwEShBlVE1RwTB_VnnBV2SQH1DtIghcdsQdHFS06ZxbIfDQgQVyvhrTt6qbRqaURXCr0SNwgTLLSXmsTQm5UHwz49wqjA1CGPgp4gAq9sNeu&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 21:30",
+      "first_scraped_at": "2026-06-05T05:00:03.093812+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920263721998534",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2200,
+      "neighborhood": "Potrero Hill",
+      "available_from": "2026-07-01",
+      "available_until": "2026-08-31",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_building_laundry",
+        "outdoor_space",
+        "storage"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920263721998534/?__cft__[0]=AZYNW3YcEtFF31wV0hgnlkZ1iBRN6KcclguT-Ef9l6b2S1Ab2HQsGAgt81TuFYSC9owEc3OewzBEI19sbp2WWGxrNaswijZSHA5zZZiML3rab2YM31O8ObSE9GrqzsTXqh9zMP0-HN2z-FBKwT7U6q6h9HDH6n3MdDlH1E_iFQuEyRzqHVrB36kZ_wULk8h6bwA&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 20:46",
+      "first_scraped_at": "2026-06-05T05:00:03.093812+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
