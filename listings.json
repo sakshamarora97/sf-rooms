@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-04T20:05:24.284221",
-  "count": 214,
+  "updated_at": "2026-06-04T21:06:00.274348",
+  "count": 217,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -5646,6 +5646,84 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920162902008616/?__cft__[0]=AZZolCC0egKoO63TgQxJGP-2h83nhUryP9EFqwpSNJdBlCALqW_cgylP2IV3MMK_VEI96IBEC2f-pIZqNtnRq1_MBewWg5qDVVZRWWoze3oOYjwq_5r9rspMPfXDhEGl4PXFNdv7VXLiVPehVbqCBfPJuUxZq62NAnuOMADZ7ecp9bLzCbUrg6XMNAzpyMdhc8eB5vFxzYphe6AbTAMlRXwR&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 4 June 2026 at 18:05",
       "first_scraped_at": "2026-06-05T03:00:02.988213+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920271338664439",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1133,
+      "neighborhood": "Daly City",
+      "available_from": "2026-08-01",
+      "available_until": "2026-12-31",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920271338664439/?__cft__[0]=AZZ_qnVbV3e2EiJe9VrnmA81ifjhcetbafKUeKuKOm7gg9b0zoK5OyhIPIpqZoUigs34M5ircqV_T1-gNWN4tLOdR1ridG4kbVboXQhgLy-suOdV4aB_eIXXN8wX4pk_4gwO8xtfl30BNPS98g0_u-m4BFDZ8jr5LrrCeGSEz7gdaZx9V66R75EQHPHCB9pPsBG4ttW1V4VBXxPsESZCcYQ3&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 20:57",
+      "first_scraped_at": "2026-06-05T04:00:02.370234+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920251995333040",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1775,
+      "neighborhood": "Pacific Heights",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "laundry_in_building"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920251995333040/?__cft__[0]=AZacu5vy4ofuTf1CDB7iAF4qOVI_COXrMGtPsz0FJFmU15IfEO8em4rFwp4uQTSiPR5Rsdg0IFdreTStC4E5rI2QkgceW-Tm7_6JW11k2oBOz4hizD2WfB63w-Vyml4RbGKgN4fCYz5pxYmS9KFHsSRRAlkGt9hib3Dl8VnjEXDRP63N7nhuMDtfEhTpEn8PZqyt2OcMT1Nnx3YQkYxVIUFR&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 20:29",
+      "first_scraped_at": "2026-06-05T04:00:02.370234+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920242105334029",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2300,
+      "neighborhood": "Tenderloin",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "natural_light",
+        "exposed_brick",
+        "hardwood_floors"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920242105334029/?__cft__[0]=AZbc8g3phxujpLkLNaFvezOJBbMG0-bku9LGPpapu40bSEkUyMmpAtQCpG03f8eWhstpDR30__mfY6F40DuA_F-_j5AHlF2muZPOzf-4D_E4bulNAVr7uBKr9v_kARNHRM5QgvG3P0QAlbADQwtimboMk1TKutgJU88PH0d4k_F8Vy3PH2nEtNreLHgGbSBKlZk_V8YeYfcFDK6nPs7T6k15eLRytXN9z9J68fq43g36dg&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 4 June 2026 at 20:12",
+      "first_scraped_at": "2026-06-05T04:00:02.370234+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
