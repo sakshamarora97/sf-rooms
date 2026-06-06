@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-05T22:05:23.667152",
-  "count": 237,
+  "updated_at": "2026-06-06T07:16:56.455186",
+  "count": 238,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -6260,6 +6260,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920841108607462/?__cft__[0]=AZbNrteFLwdZsnwt5JIkwOOXSoJgp3HK86zJgllQQrurQUkb5nuGtZoAVFVXZnJf6TjzxQ0nbHqHkPO8K9E8gK5uzeOEkJl7HQ_qHLxBpVtNFt8APG5tXc-WjNmrL0qEQ87FuMa0dJUgnlnlUiRrPrWr_ENQnguh34rCPMioXEAoOqic-IWQrKiV4bEIdd0a-uk&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 5 June 2026 at 11:00",
       "first_scraped_at": "2026-06-06T04:00:02.175618+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1921448048546768",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1230,
+      "neighborhood": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "central_heating",
+        "AC",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1921448048546768/?comment_id=1921489501875956&__cft__[0]=AZaYqANCLipHRRildmdR-jOD8cSwZzWHupRgGQwbNDBEeyxzQNcftG7VVrCCbBP0cC3W_SK1SvXcMZWAhPTSRV3EGhQVxG5ycQr3f1u-TKMbpnABe4KkalFRhdUU0LUroMVp42oHXoPXSbw05TMrBaQoYS8Tb7QNrDMvDvPMMxOXc5nIRUnf87EpklTj369K1Bk&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-06T14:13:39.403150+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
