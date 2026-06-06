@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-05T20:05:18.262037",
-  "count": 235,
+  "updated_at": "2026-06-05T21:06:03.400544",
+  "count": 237,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -6107,33 +6107,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "66120f1d24e5b170",
-      "post_type": "listing",
-      "listing_type": "room_rental",
-      "duration_type": "short_term",
-      "rent": 1639,
-      "neighborhood": "Outer Sunset",
-      "available_from": "2026-07-01",
-      "available_until": null,
-      "unit_config": "3B",
-      "room_type": "private_room",
-      "is_furnished": null,
-      "roommates_count": 2,
-      "amenities": [
-        "in_unit_laundry",
-        "garage",
-        "street_parking"
-      ],
-      "utilities_included": false,
-      "pets_allowed": false,
-      "gender_preference": "female only",
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100045713392453/?__cft__[0]=AZYGAAAofEA4h74I1_6hv5tl6ERPcRtQ_ZL22E6bMm2J2XGK9EGJllpILsu8xG4gwOwVUZpteqd55rpxgGLaN4SmC_EvDtE7rITblUxtikD4W2ey3fl-A31kD16YaSIS02aMn-0v_Ly9cXUnozFuxwBhZj248tabnU8ReYaK8IQDxMeowYJAeO7TvLfj3B_HPwMZYZsk0pe3nD0mZBBY0uIW&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-06T03:00:02.294307+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4607626089472395",
       "post_type": "listing",
       "listing_type": "lease_takeover",
@@ -6209,6 +6182,84 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920781945280045/?__cft__[0]=AZZFE4gx0ooM_sKeW6ic-VbqzwZa2N8-2UGYnvZ1xYiqWMI6PjnxdTC8P1BPTDWqRo3n3NeaXExK7oWVhHWzVpIf55_sqHhkQdxGTGINBqqF1NKZsvIe5CI61X5giaSRQwYMzybB7yl5zfZ_UT2y4y2dw8vf5x9t-9H90QvFW26e_QXKpYT54F4dfm5CtKyxJtY&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 5 June 2026 at 09:33",
       "first_scraped_at": "2026-06-06T03:00:02.294307+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4607654612802876",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1639,
+      "neighborhood": "Outer Sunset",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "garage"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4607654612802876/?__cft__[0]=AZZyY8qxXO17QIRlyc5x_orq3dPd_GOqfltLJfjnGxsyjmIQbImL2Ofv3wAiO50x2zbYWPoV8oWYeKZ1PcwMWdf7TQ96hmSbUNLGbHfwkIPMxLECZ0mvfLWKdzml3bLfc5GjRlLQ9kSLCwVTRoObuDPKfvlswdpHL_Ym21zaW-YjOpLXYGkioSl8yLHX2VPgHyXS5d6_QY3mtoPHa9qbLPvX&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 5 June 2026 at 19:45",
+      "first_scraped_at": "2026-06-06T04:00:02.175618+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1921112221913684",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1400,
+      "neighborhood": "Irving",
+      "available_from": "2026-06-15",
+      "available_until": "2026-08-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "natural_light",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1921112221913684/?__cft__[0]=AZZ5iKnKcl6gqMPHPcdUnn2iroUDhJvFOhCKhERGeaD3p1OfPyPnogHFHB5JOW9UTynmRH81cJacE5u3pFjT_82oAoyvZbQUACFh6M5XJMpXMkHPMQmG6-2J43G9SxhXgm-jYQOdHXZ2VOLKW0iHBOHFdK81vAZvu0UbLOnNs_bkqUpjQarKsAXdjCJ9QflwNBzQuQMnJ9x_OMqoqq9Joy0L&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 5 June 2026 at 19:02",
+      "first_scraped_at": "2026-06-06T04:00:02.175618+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1920841108607462",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1650,
+      "neighborhood": "Inner Sunset",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "private_bathroom",
+        "back_deck"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1920841108607462/?__cft__[0]=AZbNrteFLwdZsnwt5JIkwOOXSoJgp3HK86zJgllQQrurQUkb5nuGtZoAVFVXZnJf6TjzxQ0nbHqHkPO8K9E8gK5uzeOEkJl7HQ_qHLxBpVtNFt8APG5tXc-WjNmrL0qEQ87FuMa0dJUgnlnlUiRrPrWr_ENQnguh34rCPMioXEAoOqic-IWQrKiV4bEIdd0a-uk&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 5 June 2026 at 11:00",
+      "first_scraped_at": "2026-06-06T04:00:02.175618+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
