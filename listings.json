@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-06T21:03:45.476219",
-  "count": 251,
+  "updated_at": "2026-06-06T22:04:56.760253",
+  "count": 252,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -6572,34 +6572,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "a47a359e5824d682",
-      "post_type": "listing",
-      "listing_type": "lease_takeover",
-      "duration_type": "long_term",
-      "rent": 1500,
-      "neighborhood": "Belmont",
-      "available_from": null,
-      "available_until": "2027-05-31",
-      "unit_config": "2B2B",
-      "room_type": "private_room",
-      "is_furnished": null,
-      "roommates_count": 1,
-      "amenities": [
-        "gym",
-        "pool",
-        "dishwasher",
-        "shared_laundry"
-      ],
-      "utilities_included": false,
-      "pets_allowed": null,
-      "gender_preference": "female only",
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100042279969338/?__cft__[0]=AZZidoMtAAxx0zytL4mvDpRmzSmAXUlxcWZlb92HlbvWFqqrHgYs2d6UdfZswbt3a6T_EWVunZHwn5B-Fj2ucRE-YqZOGoI2CHomjQWhMFo2URwfHTsnGj5yfqrrBxnT3iE_HcKgPMQ-ulNlUb3BUzzQJ9KaNIGNZuBFfPyrx2Prh6-xFEqTBZaIgJzHIJWT8jw&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-07T04:00:02.630746+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "1921980818493491",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -6621,6 +6593,62 @@
       "posted_at": "Saturday 6 June 2026 at 18:18",
       "first_scraped_at": "2026-06-07T04:00:02.630746+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4608826152685722",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1325,
+      "neighborhood": null,
+      "available_from": "2026-06-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "shared_living_room",
+        "shared_kitchen",
+        "shared_backyard",
+        "street_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4608826152685722/?comment_id=4608840276017643&__cft__[0]=AZYGtQQTEt6JtLEn7PykJcYllYalqfMiZIzALNToVncBu_k-l7ZXfh5vbcFpNlHKDLLp2wytjKzZR3DpDXS7pzvQoaaV0zTD9jbHLqTDlWxwUwvj23cPZCkZOK_ocdel3M0WMn9B524n4K8i8B-PGub_fTjwJ_PHnQ6yJ6n-EZY7NSAvGcO06k8qZ6qpy1Y4s0NwkG70ayqR-Q2bZ9YphwvRkKLvlFl3UW5mr-utXwECfw&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-07T05:00:02.992987+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4608699616031709",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Belmont",
+      "available_from": null,
+      "available_until": "2027-05-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "pool",
+        "dishwasher",
+        "shared_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4608699616031709/?__cft__[0]=AZautDx-wA0YZCm-ABKFBVpb4GuPaA0_K46JVyu8YVSIoBkfUAh5_qzX8ft2_BqG4NnAZBD5J2w73mRtrEpODmiiFR2_cmhj3802gCF0F-NloISOr8vDk34FRC3DuwSfbnLtX1jW6qoD8b52QG37NUmFLSto3pGsUpyk0zM5s_UloFXdWNz9LL0x_MWQyN1KFaM&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 6 June 2026 at 18:31",
+      "first_scraped_at": "2026-06-07T05:00:02.992987+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
