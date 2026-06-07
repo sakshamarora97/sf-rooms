@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-07T06:35:37.536335",
+  "updated_at": "2026-06-07T07:03:26.884267",
   "count": 519,
   "posts": [
     {
@@ -13406,34 +13406,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "6cce2757c7bb4074",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": 1400,
-      "budget_max": 2000,
-      "unit_type_wanted": [
-        "room",
-        "2B",
-        "3B"
-      ],
-      "preferred_neighborhoods": [
-        "Mission",
-        "Soma"
-      ],
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": "student",
-      "age": null,
-      "bio": "He is moving to SF to attend UC Law SF in the fall. He graduated from UCLA in 2025 and has spent the last year working and saving up. He loves traveling and hanging out with friends, is a decent cook, and can keep a space clean.",
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100011248603695/?__cft__[0]=AZZzDIbMldO-kEWqoMa2d-WUsUuK-IBaUFiA0UKghScTcSCAaMSUPdzCLLyrm6imm5lwJEwG6UUqApYJAlMihUQeSJjldebxG2HnDwnZ8hurmI-ST5lu6S2kpYVGhwIL6CdAH3sbdt-ICWCSEK--BZTj0ypIgcpO1SPiLxvulcLnhCinabOfBm7srXw44gHOagnW-0yrGN-8sZIpTEW10pof&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-07T13:32:24.891713+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "1922277488463824",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -13560,6 +13532,34 @@
       "posted_at": "Saturday 6 June 2026 at 21:59",
       "first_scraped_at": "2026-06-07T13:32:24.891713+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "5313fdc031545831",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B",
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Soma"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "He is moving to SF to attend UC Law SF in the fall. He graduated from UCLA in 2025, loves traveling, hanging out with friends, and is a decent cook who values cleanliness.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100011248603695/?__cft__[0]=AZa6ipz3zwHdhpJK-si2pevXIe6TwjLNOC6_KkkIw1CPBHvK4tJO54SSWeA9qKj-IO0PDJv-0_HVGJdG5N4f1mr8jRD7uBQUbombKTe9Nym2EpAmZ9TwCsmx6WNg0tNax4V0XTe2MsCqfSnubA9WxpUndut95r5gm5nIsUCzPBhakHdQ4WnvWPzideDjeuFPOpi2Dhwfo7ZCWy1q5RcHA1wU&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-07T14:00:02.994123+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
