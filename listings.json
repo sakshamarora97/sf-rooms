@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-07T10:02:55.721659",
-  "count": 256,
+  "updated_at": "2026-06-07T11:03:27.368387",
+  "count": 257,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -6774,6 +6774,29 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1922331255125114/?comment_id=1922452301779676&__cft__[0]=AZbgxDQbmjxPpe7y3tCuhDUEgOSc9sURh6G7YbypsrmaynjruWkTejmjd2XpTFsEqji6YJoEaP_Ixo2kw5WXY93Tj7E3BEOuBDnMfgbAhyVXqbA53s52PPOYk9s-p7_gvz2zfkG1EBiSPvoMo7l2OFGp5TaeJCGJHGWVrnPJ_Sfnx0kKW2vCGx8-8XWHKpmcg08&__tn__=R-R",
       "posted_at": "Sunday 7 June 2026 at 03:57",
       "first_scraped_at": "2026-06-07T14:00:02.994123+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "68ad15edb7b779de",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1700,
+      "neighborhood": "Lower Pacific Heights",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/1026720099/?__cft__[0]=AZZOyc1Y_F-XajB4GwCcNKJ6_WA7a8TOQo-ObGoib83UY19qSZPJAZA_FgFoj22oocUus16aymN5yjooXuK-boxKA7sFbgV-24MyBn1otkCwgGTCVhnMoKE7mfcNFG7maltuXUfkmZyC4Os02zxqX3HA9fLQzNSkr3uyNN9-R0IYAIjJJQqlWQENsgCYhV_U0lk&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-07T18:00:02.170657+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
