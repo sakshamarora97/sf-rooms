@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-07T07:03:26.884267",
-  "count": 519,
+  "updated_at": "2026-06-07T08:03:11.704529",
+  "count": 520,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -13534,7 +13534,7 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "5313fdc031545831",
+      "listing_id": "d9e56fbba5c01065",
       "post_type": "seeker",
       "duration_type": "long_term",
       "move_in_date": null,
@@ -13555,11 +13555,37 @@
       "has_pets": null,
       "reason": "student",
       "age": null,
-      "bio": "He is moving to SF to attend UC Law SF in the fall. He graduated from UCLA in 2025, loves traveling, hanging out with friends, and is a decent cook who values cleanliness.",
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100011248603695/?__cft__[0]=AZa6ipz3zwHdhpJK-si2pevXIe6TwjLNOC6_KkkIw1CPBHvK4tJO54SSWeA9qKj-IO0PDJv-0_HVGJdG5N4f1mr8jRD7uBQUbombKTe9Nym2EpAmZ9TwCsmx6WNg0tNax4V0XTe2MsCqfSnubA9WxpUndut95r5gm5nIsUCzPBhakHdQ4WnvWPzideDjeuFPOpi2Dhwfo7ZCWy1q5RcHA1wU&__tn__=%3C%2CP-R",
+      "bio": "He is moving to SF to attend UC Law SF in the fall. He graduated from UCLA in 2025 and has spent the last year working and saving up. He loves traveling, hanging out with friends, and is a decent cook who values cleanliness.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100011248603695/?__cft__[0]=AZbGGkE0kW-qiaFbZf5I1Rt2tYY3AhQWKLfb5PaZelV8NGe69__F3Sc1PhwGrE7vWrRy9RIhsFge8-9e31P6fvEyvCRj1B5BggkLZe4ZxPV0QJt-pia-mqtWVxKzZqLxyMVkrh2tZ5wAFuhVKfrcLFX8ktT2q63fRgiyExpYMJr6-BE95MI5MLKnSMJDrXMtGNiUfJ2OQ6eb0tDlNY4GpccB&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-07T14:00:02.994123+00:00",
+      "first_scraped_at": "2026-06-07T15:00:02.328485+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "25f72caef26cc7b7",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-15",
+      "move_out_date": null,
+      "budget_min": 1100,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lower Haight",
+        "Hayes Valley"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": 21,
+      "bio": "A 21-year-old Cornell graduate moving to SF to build a startup. He is a morning person, social, talkative, and values a clean living space. Interests include live music, guitars, skating, ceramics, short films, vintage videography, fashion, and creative pursuits.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100076309968413/?__cft__[0]=AZbTzL836va47F_dw4CdeXtca3Xzd166aZXKNRzcxl2XkTxlt-sgT0xhtM1NTAxo8d8uwVdqVj2rh6Y-LxIgbFlyoHM7x6p6w4yun2sOoyemFb_FSgvH46_FV-q1pM1-vV-T2T0ZjQlnLBNcwnWdY75cL7w9Mm45ON2xSbbKXWrTHsZqmJxMoJc5n6yl9gXM0wmbFZSQR45qbgIcQDQRbaVI&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-07T15:00:02.328485+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
