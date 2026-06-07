@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-07T12:02:23.799870",
-  "count": 524,
+  "updated_at": "2026-06-07T13:03:43.360156",
+  "count": 527,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -13661,7 +13661,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "40a8a3b1db16509a",
+      "listing_id": "4609547029280301",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SF",
+        "Daly City",
+        "San Mateo"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4609547029280301/?__cft__[0]=AZZ3qBm6xKWk6a6A-290OM46Yl_8gZloCc_KCiXm2Ze8ddMdU3vqD3rAqXfEqcHpJfhl6Gr1Ewj119c39lLGtm5JDxSuKvIIO1I7sve5otB7DUGrl_0Y96mQ2nxOwHHOpufSOiV68mdyM38xyDq7SUXalvozaE-SKURo4_u1nadfupu9czJe6oSggl-LvjQTWqQ&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 7 June 2026 at 12:45",
+      "first_scraped_at": "2026-06-07T20:00:02.867955+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "dc051a0514abe08b",
       "post_type": "seeker",
       "duration_type": "long_term",
       "move_in_date": null,
@@ -13683,10 +13710,61 @@
       "reason": "student",
       "age": null,
       "bio": "He graduated from UCLA in 2025 and has spent the last year working and saving up. He loves traveling, hanging out with friends, and is a decent cook who values cleanliness.",
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100011248603695/?__cft__[0]=AZbU8wtxixQFPm8APvLtGYfaSLntyiu4IQVkn7wC6Qh3MvAnGS6_omyyq97ZRnw_d12zbZd5wIhPVrEuto2Z4-r71s-oOpHQ7Q66dXUreyHHtu1S40TAKJzcodQqY1yyGSmHxetUc9wB3W2CEMoE7Zd5ToQgjzGl4dVXV-EZ6wS5sZdg_qReejGBDERQv5EO78I6j-za-Wzgkuby1qY5N8an&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100011248603695/?__cft__[0]=AZbrFTrDhqa4Q3zWpy9VTvN-MaoHJYtK6pxxhSZjus4pwyAn2V1H-pmhxZIQSkLZJA9sZ-gO83q543ACh198AtGp6rpT0jZV0zS97CCW_-oixR2PawFTppRIdDa_oXp5lV6YgPucdam6vGbhFkbD5BMAJ4_O9oKCU_0EpM-_n9dBGXf4fMoCEbstk74hRfqDgRrtnlvid7LGBVQKZrzCzPcp&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-07T19:00:02.351032+00:00",
+      "first_scraped_at": "2026-06-07T20:00:02.867955+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "f61de46cb69c6b03",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "He works at an AI startup, loves to rave, play poker, and workout.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100005743324875/?__cft__[0]=AZber8d7_Ptq4_78rDqI7xjAU0_Q39kxzmljpgLSIcRA2vszmdveXeMYW7QYv_InpMZFZfKrDYJaKhe5GrFIMeRqyjn6prvmbT-E6I0T5KY1AH7aRV_KB-9SX8hfyIHF2K83DOH---niHbKYNCWjBS-Y710ThkqlyHgEYRPhX0T2k_0rHoh9Drv4NIcOh2RtKtGL44WgDKHM7w_31sJrLSzK&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-07T20:00:02.867955+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1922657508425822",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Dogpatch",
+        "SOMA",
+        "Potrero Hill"
+      ],
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are clean, easygoing, gym/travel focused, and work full-time.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1922657508425822/?__cft__[0]=AZZFoHg7gv-fAB65DBMhdeiBchek8CSYeOvV3E4QMPC21vUoIYIFA-plGp1jqeoMPtRPJ98whI29BwJ_l2CRUUO2jGRtFVPZpeTAPl9FgHiC_maWVkF7KpcNhNlbeSpaPD-OkQrKUC54kmIYlzH4YJjhmJoYgEslJEsnDyPlg5_0EUOSxTiSkSVs8eu4LsV7sw8&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 7 June 2026 at 12:14",
+      "first_scraped_at": "2026-06-07T20:00:02.867955+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
