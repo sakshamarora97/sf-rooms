@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-06T18:04:00.914623",
-  "count": 249,
+  "updated_at": "2026-06-06T21:03:45.476219",
+  "count": 251,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -6569,6 +6569,57 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1921948891830017/?__cft__[0]=AZYQq8vld4y_5ADQZOkZUFKtkx0ljyqkDvTbQtpl7S3lsZZRzq4T4LX6_1hBOw6AqIluxH5tS0D330sQwfK2hJlYa6vIspeGmVVYJcAa-majGBSG40q31EA4qR9S_4bTG6_xClsWmEGcm1MyVz_I1o8qbVqYZI45pfsJ03KujSsSL5xtAriu6LtJZUtUl9L22AtUbSHGTHFyEEyr9b56wJkf&__tn__=%2CO%2CP-R",
       "posted_at": "Saturday 6 June 2026 at 17:19",
       "first_scraped_at": "2026-06-07T01:00:02.420475+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "a47a359e5824d682",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Belmont",
+      "available_from": null,
+      "available_until": "2027-05-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "pool",
+        "dishwasher",
+        "shared_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100042279969338/?__cft__[0]=AZZidoMtAAxx0zytL4mvDpRmzSmAXUlxcWZlb92HlbvWFqqrHgYs2d6UdfZswbt3a6T_EWVunZHwn5B-Fj2ucRE-YqZOGoI2CHomjQWhMFo2URwfHTsnGj5yfqrrBxnT3iE_HcKgPMQ-ulNlUb3BUzzQJ9KaNIGNZuBFfPyrx2Prh6-xFEqTBZaIgJzHIJWT8jw&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-07T04:00:02.630746+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1921980818493491",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1125,
+      "neighborhood": "Balboa Park",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1921980818493491/?__cft__[0]=AZa6kr9K1neOMA1wzWQrkTYe5TWTj5XsLEQNmT0KoHIGl7N4SINjaK6jjGzY99xa9gHSfzqHvNfnbkl7hABMHQiINraG1ycrYhj9dJuzFfoMTrOSjt2_iNXV_q4UqC0Y0vntKj7JuvQwSVMiDvv2YWJJpx2qO7jmZBAPl4FZkJvPFh3V4dxksHhUQz5qmrbJvR5shPE5H0-W1FAM9r1CZQmb&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 6 June 2026 at 18:18",
+      "first_scraped_at": "2026-06-07T04:00:02.630746+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
