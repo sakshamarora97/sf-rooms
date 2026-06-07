@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-07T15:03:14.432849",
-  "count": 262,
+  "updated_at": "2026-06-07T16:03:10.046738",
+  "count": 264,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -6914,7 +6914,7 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "665852e7f10b1876",
+      "listing_id": "137ae8e9e1af1ebe",
       "post_type": "listing",
       "listing_type": "room_rental",
       "duration_type": "long_term",
@@ -6933,10 +6933,63 @@
       "pets_allowed": false,
       "gender_preference": null,
       "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000147457246/?__cft__[0]=AZYwEfvU5GBhI1j41fS1cvxasfvs2rWLbYPTCtDEqxjjmlEKjwXbMLjtVtBJC1y4ohBxoGR_B05mlXsiInnWb1jumrK3ROmBRD3mbej89YZAyMr3Fcw-6tCPBiOPdOXevyug0JJtaWMeO973wbI0juQgMRJhENc4qyUKgqm8-dSGbm7gQOqSM-nLQU5oYQKAud9KRZ7ZDLBDxATGkkx_wD4A&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000147457246/?__cft__[0]=AZaqHIge9WLVl1vCq28Cx_r9ZwtUa16rookFjihSx0YK7Vmmt5OObGgPgeIzi_0mA8OPkTM9j5J5_t8g2F_iCndwv-QUOqQjqvD34BBVS4CdbB3AfifNu5GF9bUPv1_squQftEuDptkVKGYvo9vC6ed1D0V_hoqXjYZ5EWkpdg9obUjs_jYkSYDHY_X_ikNEThMOSh5lwb-L9lx4jWDiBx_E&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-07T22:00:02.265203+00:00",
+      "first_scraped_at": "2026-06-07T23:00:01.675271+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1922753461749560",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Outer Richmond",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_building_laundry",
+        "street_parking",
+        "backyard_access"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1922753461749560/?__cft__[0]=AZb_WBFSc4e54HU0WayklIHE8vz1Wwa66_SUTCb_mxoc9lQHQ-Cn8_FKv_IbRMauu1QtGsOWclZYn_WtPVt-MgOXLH4gl8-aq-uLodSWIAoy9WL3EGHoM7Cd-wEw38cjALyA2zCA3u9Goeepb_XesrbPiGCuh4DgHjIReQpIFAuwEhHXgn6dV-6SWJ3m9mmA54E&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 7 June 2026 at 15:39",
+      "first_scraped_at": "2026-06-07T23:00:01.675271+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1922750288416544",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2160,
+      "neighborhood": "San Bruno",
+      "available_from": "2026-06-13",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "fitness_center"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Avalon San Bruno",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1922750288416544/?__cft__[0]=AZbBSxBDfw54F0OzjCO4VwD__u4Fn8HVWQjLUNsNLWfkCTOgpxu3NJ5m2TXrJdAYgBgWomC1YNTmvNQqdFbkWjMZ1qJlPjSZ51rAb-fKF_mnAJhOyBjVGsc6R79oFLIJB4__wvGVVDUJ7JKiNCiwms-0WjD6UG2NYuCyjapU07JOTH5WVhOQ3gWbLd6-x-_usac&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 7 June 2026 at 15:32",
+      "first_scraped_at": "2026-06-07T23:00:01.675271+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
