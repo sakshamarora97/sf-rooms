@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-08T15:04:00.044828",
-  "count": 290,
+  "updated_at": "2026-06-08T16:04:54.118500",
+  "count": 292,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -7987,6 +7987,59 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1923547838336789/?__cft__[0]=AZaa50y8J6YYelr7u8Ac6aFME48x-yINdGw8mAYLpCD70TnywXUSIl2I1Q9bUO33OmtWm7KmF85-uP4_rO6HCIjhQaET6HMRG7n-c8UyByiiJPhNcg5UE-g4IEoNKA_jE951zGqQ_Qv2yigu7KAmQLtUMNLiqkn53GdGT3M16zWEm_VsMDDausTuTUtkAtmZwcg&__tn__=%2CO%2CP-R",
       "posted_at": "Monday 8 June 2026 at 14:31",
       "first_scraped_at": "2026-06-08T22:00:02.896485+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "b207c9d8086cd07b",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2800,
+      "neighborhood": "South of Jack London sq. Oakland",
+      "area": "East Bay",
+      "available_from": "2026-07-01",
+      "available_until": "2026-08-15",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "hot_tub",
+        "gym",
+        "pool",
+        "indoor_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1163869450/?__cft__[0]=AZYLAeTOkejia_WVgvMQ53ziF4_xmHwwg_QXNcDVQ6T84NoNtymoLAPwtgJoS4sFpmAVVQ8vuFxPTwX4_oRsNt2kqiyeK7qKqur7UmajSteTE7yAFRp0Vv3oR-ZmLfKTrqguF3B2L60UF3CcB-Z5Ucn3lcTp60IIhuwn2vHIQEVSj7-Prn6a0H_S6MOUH5ffy2sUz47wvsw0Iu3H6nfeMrZk&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-08T23:00:02.394548+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "d09de036b8734d9a",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "South of Jack London sq. Oakland",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/1163869450/?__cft__[0]=AZbBXNyk3ImQNToMO5K71oCgTuAUOwx8EQ9RoztVRSbBlZQzqtM_zYnidP7P4tE6p3rdpneAayNH4yzdhSd9Ejdp5_b8ESB7aPhDzytTO5Stbozzn1jrQDLJYMlpYPZyO0K9WRJlrBIVCi53gx9wxNGwVvUAsFxRAYGLDtjVUAsDaBGC42TnyT8jIpfLUAA4kwo&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-08T23:00:02.394548+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
