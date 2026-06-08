@@ -797,6 +797,7 @@
           <tr>
             <th data-col="posted_at">Posted</th>
             <th data-col="rent">Rent</th>
+            <th data-col="area">Area</th>
             <th data-col="neighborhood">Location</th>
             <th data-col="available_from">Available</th>
             <th data-col="duration_type">Duration</th>
@@ -824,6 +825,7 @@
             <th data-scol="budget_max">Budget</th>
             <th data-scol="duration_type">Duration</th>
             <th data-scol="reason">Reason</th>
+            <th data-scol="area">Area</th>
             <th data-scol="preferred_neighborhoods">Neighborhoods</th>
             <th data-scol="unit_type_wanted">Looking for</th>
             <th data-scol="bio">Bio</th>
@@ -1044,10 +1046,10 @@ function renderListings() {
     <tr class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
       <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}</td>
       <td>${fmtRent(p.rent)}</td>
+      <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
       <td>
         <div style="font-weight:600;font-size:13px">${esc(p.neighborhood)||'—'}</div>
         ${locSub ? `<div style="font-size:11px;color:var(--text-5);margin-top:2px">${esc(locSub)}</div>` : ''}
-        ${p.area ? `<div style="font-size:10px;color:var(--text-4);margin-top:2px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
       </td>
       <td style="white-space:nowrap;font-size:12px">${availStr}</td>
       <td>${tagHtml(p.duration_type, DURATION_MAP)}</td>
@@ -1213,7 +1215,8 @@ function renderSeekers() {
       <td style="font-weight:700;font-size:16px;letter-spacing:-0.5px">${esc(budgetStr)}</td>
       <td>${p.duration_type?tagHtml(p.duration_type,DURATION_MAP):'—'}</td>
       <td>${p.reason?tagHtml(p.reason,REASON_MAP):'—'}</td>
-      <td>${p.area ? `<div style="font-size:10px;color:var(--text-4);font-weight:500;margin-bottom:3px;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}${hoods}</td>
+      <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
+      <td>${hoods}</td>
       <td>${unitTypes}</td>
       <td><div class="bio-cell">${esc(p.bio||'—')}</div></td>
       <td style="text-align:center;color:#666">${p.age??'—'}</td>
