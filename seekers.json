@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-08T10:05:50.389032",
-  "count": 559,
+  "updated_at": "2026-06-08T11:05:42.430122",
+  "count": 560,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -15207,7 +15207,7 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "bfffe7122a780990",
+      "listing_id": "5fe4e06ff27cb455",
       "post_type": "seeker",
       "duration_type": "short_term",
       "move_in_date": "2026-06-15",
@@ -15229,10 +15229,36 @@
       "reason": null,
       "age": null,
       "bio": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100000689272072/?__cft__[0]=AZY1uJVPnvoi3e_4yJ__U8hjKsKQJsk27cLTDksoxlL47gj5v6SLb7FMtd-g9qkc_8vdlOjk5YIlP2KIFwSaJeYu1xEF3tzMcQTyz_eU1rw8dIzx_QC1PENXfK75V6UYAFH6XYohXM3BvINHtnnUrnxxVwswqZQgs4IL4NhQ52fkHrYUefOQV83VyN1zxCBEN8CsGu9hb2ZMhMdiTbK-SfyH&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100000689272072/?__cft__[0]=AZacmNsrQzYoIqJMoIJqLws0pZMORT_-x1BRAkvdLNZwm6MxrUNa4gokIbLSx15Uhx2z6-gnH9oKqWhLFju28e63xnh9J5QqCz940qUOx_wApRvzjs0W5aRqhnjgFHfIrMv8-o08JXw1RFtHEkF70XlDYR3U6Z1Y8t-by1ZNtyOy8c-yWzWHgbJTWeu5MLhFlFDf35V9MQVzA5xWAHrFBczf&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-08T17:00:02.904419+00:00",
+      "first_scraped_at": "2026-06-08T18:00:02.405256+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "c8bbaa5898ef8ee5",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "UT West Campus"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/61567783666472/?__cft__[0]=AZawDuWYOFKsy2StReLwYTLp6rVkLnAoGoSV4J-iNDb1o3_MR5HA7h9lgYPHl6d7YEEPDTtB0bX-0iHyRss8YCgUlshFQa0fT90dtk6pKvgZknZ48-fn92Iu3hjN1FEgN_WJLE8EfQB7FjObtPx5c96HMz91LZE0n8yXvGjmJWF2ogXeE3pN3Nfip31fyCwRyj0&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-08T18:00:02.405256+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
