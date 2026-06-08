@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-08T13:06:23.256056",
-  "count": 287,
+  "updated_at": "2026-06-08T14:06:51.382513",
+  "count": 289,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -7905,6 +7905,61 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4610528035848867/?__cft__[0]=AZYT1V5czoO5zvuyWvjsfBTiA1rlYLHcWoMRbiStrkeFgW7t1QB_MTbP3-MJEJSjQEcjmQzehNksfq730tU_xJ4epc-daHZvQgHJnljPAzXy1wNP68Aa8Y8yQpjGNav6WHsp5mH_8_YTUAfg3vy5JJs3hOwjj9Oh8FUcA54ZhOvkAkRBa7jTniqFIa4RfkcDEGhhIvgDagVbEK-udneRIXvt&__tn__=%2CO%2CP-R",
       "posted_at": "Monday 8 June 2026 at 11:48",
       "first_scraped_at": "2026-06-08T20:00:02.579621+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28c64c25c2c1a930",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2175,
+      "neighborhood": "North San Jose",
+      "area": "South Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Crescent Village",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100013360900034/?__cft__[0]=AZZLWe5azaHB7EGOWEl8GoZpTnh74IjuraTmQCFtSDRvx1EkVZq-IJigt4ze7m99uCTVCpTGjue6ZehzRURZJhfFLuMKPYNStWKittuR1E2HUBOXz1YZbW-Qgj6lADvLCoXsAO2e8HaLOlu2M7IEppbT1LbTIWvKqlmzmf27fTqp_1TQF93qmUoMIWjFLevMFAWRP1KhPjD5M6K49G3aXuF2&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-08T21:00:03.042366+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4610596892508648",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1100,
+      "neighborhood": "Maxwell Park",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "alarm_system",
+        "street_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4610596892508648/?__cft__[0]=AZbQNRFbs04z4WgbqT1pZxNLeQs3l2BDeCCAZXfXcWE4ag0ra_fZwmaE5VmO5GD4eLCnzMQ7yWxXlkZ-A4kZV9fpu2Aipw6C2Wd1IL4Y4jKhxbmMQGAdV_OzZHwDIcjDvDTmn03vRUP7zBV9tKHWa_YpQF8guO2WoIvosdBUmNA07ltX7UYF1GdeJfn5ucT7rYxksl38gGz8RB2a2t0RV-O6&__tn__=%2CO%2CP-R",
+      "posted_at": "Monday 8 June 2026 at 13:23",
+      "first_scraped_at": "2026-06-08T21:00:03.042366+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
