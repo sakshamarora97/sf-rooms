@@ -1264,11 +1264,13 @@ window.deleteNote = async function() {
 let _listingsLoaded = false;
 
 async function load() {
+  console.log('[load] fetching JSON, currentUser=', currentUser?.email || null);
   const [lData, sData, spData] = await Promise.all([
     fetch(DATA_BASE+'listings.json').then(r=>r.json()),
     fetch(DATA_BASE+'seekers.json').then(r=>r.json()),
     fetch(DATA_BASE+'spam.json').then(r=>r.json()),
   ]);
+  console.log('[load] JSON ready — listings:', (lData.posts||[]).length, 'seekers:', (sData.posts||[]).length);
 
   const times = [lData.updated_at, sData.updated_at, spData.updated_at].filter(Boolean).sort();
   if (times.length) {
@@ -1280,17 +1282,24 @@ async function load() {
   allListings = lData.posts || [];
   allSeekers  = sData.posts || [];
 
-  // Load user data before first render so bookmarks/tags appear immediately
-  if (currentUser) await loadUserData().catch(e => console.warn('loadUserData failed:', e));
-
   _listingsLoaded = true;
   renderListings();
   renderSeekers();
   renderSpam(spData.posts || []);
+  console.log('[load] rendered');
+
+  // Load bookmarks/tags in background — never blocks the initial render
+  if (currentUser) {
+    console.log('[load] loading user data in background...');
+    loadUserData()
+      .then(() => { console.log('[load] user data ready, re-rendering'); renderListings(); renderSeekers(); })
+      .catch(e => console.warn('[load] loadUserData failed:', e));
+  }
 }
 
 // ── Auth state ────────────────────────────────────────────────────────────────
 supa.auth.onAuthStateChange(async (event, session) => {
+  console.log('[auth]', event, session?.user?.email || null);
   currentUser = session?.user || null;
   updateAuthUI();
   if (currentUser) {
