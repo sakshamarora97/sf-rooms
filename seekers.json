@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-08T08:06:57.942860",
+  "updated_at": "2026-06-08T09:06:07.584844",
   "count": 559,
   "posts": [
     {
@@ -15150,34 +15150,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "c4c817fbd8e340ea",
-      "post_type": "seeker",
-      "duration_type": "short_term",
-      "move_in_date": "2026-06-15",
-      "move_out_date": "2026-08-15",
-      "budget_min": null,
-      "budget_max": 1200,
-      "unit_type_wanted": [
-        "room",
-        "studio",
-        "apartment"
-      ],
-      "preferred_neighborhoods": [
-        "Berkeley"
-      ],
-      "area": "East Bay",
-      "furnished_required": true,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100000689272072/?__cft__[0]=AZZSGNLFGmFT3Q-h1JXoISQrLOJQYMAEDzGj2Ow3pNWkjm1gTk0LJHqUpkS6j0blYQ4blPXFpv3UB_UdPxxNUqrEaKJM7HCUrPKw6hED_s5YjaWdLYAhVwi_OUUtWaW6yI8dFZcNzjcYGq7ETnKwYs-20wUt_El3mlkBzrf81s8Vt3YtDtnQMr34vCvBJ403tabXd3EMDlaUq67tHPRbIrmq&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-08T15:00:02.376292+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "1922987241726182",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -15233,6 +15205,34 @@
       "posted_at": "Sunday 7 June 2026 at 22:40",
       "first_scraped_at": "2026-06-08T15:00:02.376292+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "f57902c4a511fe9a",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-15",
+      "move_out_date": "2026-08-15",
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100000689272072/?__cft__[0]=AZbEocGaMdpUcLGeIEAkiewiTerzw3TbEhCTaeQIEILtQg1_F1DKI8Nj0gXhKQCa1maJcXkJaiC7q43RMRKNbF3y3sFLDceVb63BZo_HijoY8AS56EoQkv8Nq_aoPTqxrm26U-BvxOY5zrQNk_CHWSMQRF4yVocG-Ht1LLJvr2N7OCAPiNp44e9mUlqKZ9d-DEg5hgd_xAhWpK_jNDw-pbsw&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-08T16:00:02.859523+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
