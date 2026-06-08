@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-08T12:06:06.922547",
+  "updated_at": "2026-06-08T13:06:23.256056",
   "count": 287,
   "posts": [
     {
@@ -7850,38 +7850,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "ca659f4ac0a00069",
-      "post_type": "listing",
-      "listing_type": "room_rental",
-      "duration_type": "long_term",
-      "rent": 1300,
-      "neighborhood": "North Oakland",
-      "area": "East Bay",
-      "available_from": null,
-      "available_until": null,
-      "unit_config": "3B1.5B",
-      "room_type": "private_room",
-      "is_furnished": null,
-      "roommates_count": 2,
-      "amenities": [
-        "in_unit_laundry",
-        "backyard",
-        "garage",
-        "storage",
-        "hardwood_floors",
-        "internet",
-        "parking"
-      ],
-      "utilities_included": false,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100022282605970/?__cft__[0]=AZZSl_RIAXErWlTeEZzvH4bKU2MCo4Xy_wl3EcjeBSu18x74ZcbIcs8ERYCSe33oDf13WtlA7ZOm9JqehzpYZqll9eDtBYkHBwBaNrnnS0_NQbgcdAKQrXLf7WaVs5_OcZkhz058EGiqnypv39Pp-McESe0PyTa4irzjxs43czxEDSBP6zw8Nlaktwi7CIlBgw-wXtU_KIg4jMW-dKOkjhp8&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-08T19:00:02.198130+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "1923451141679792",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -7906,6 +7874,38 @@
       "posted_at": "Monday 8 June 2026 at 11:31",
       "first_scraped_at": "2026-06-08T19:00:02.198130+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4610528035848867",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "North Oakland",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "patio",
+        "hardwood_floors",
+        "internet",
+        "parking",
+        "garage"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4610528035848867/?__cft__[0]=AZYT1V5czoO5zvuyWvjsfBTiA1rlYLHcWoMRbiStrkeFgW7t1QB_MTbP3-MJEJSjQEcjmQzehNksfq730tU_xJ4epc-daHZvQgHJnljPAzXy1wNP68Aa8Y8yQpjGNav6WHsp5mH_8_YTUAfg3vy5JJs3hOwjj9Oh8FUcA54ZhOvkAkRBa7jTniqFIa4RfkcDEGhhIvgDagVbEK-udneRIXvt&__tn__=%2CO%2CP-R",
+      "posted_at": "Monday 8 June 2026 at 11:48",
+      "first_scraped_at": "2026-06-08T20:00:02.579621+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
