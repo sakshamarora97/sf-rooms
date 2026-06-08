@@ -1030,7 +1030,8 @@ function renderListings() {
       <td>${fmtRent(p.rent)}</td>
       <td>
         <div style="font-weight:600;font-size:13px">${esc(p.neighborhood)||'—'}</div>
-        ${locSub ? `<div style="font-size:11px;color:#999;margin-top:2px">${esc(locSub)}</div>` : ''}
+        ${locSub ? `<div style="font-size:11px;color:var(--text-5);margin-top:2px">${esc(locSub)}</div>` : ''}
+        ${p.area ? `<div style="font-size:10px;color:var(--text-4);margin-top:2px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
       </td>
       <td style="white-space:nowrap;font-size:12px">${availStr}</td>
       <td>${tagHtml(p.duration_type, DURATION_MAP)}</td>
@@ -1061,6 +1062,7 @@ function renderListings() {
       </div>
       <div class="m-card-location">${esc(p.neighborhood)||'—'}</div>
       ${locSub ? `<div class="m-card-sub">${esc(locSub)}</div>` : ''}
+      ${p.area ? `<div class="m-card-sub" style="font-size:10px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
       <div class="m-card-meta">
         ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
         ${p.listing_type ? tagHtml(p.listing_type, TYPE_MAP) : ''}
@@ -1195,7 +1197,7 @@ function renderSeekers() {
       <td style="font-weight:700;font-size:16px;letter-spacing:-0.5px">${esc(budgetStr)}</td>
       <td>${p.duration_type?tagHtml(p.duration_type,DURATION_MAP):'—'}</td>
       <td>${p.reason?tagHtml(p.reason,REASON_MAP):'—'}</td>
-      <td>${hoods}</td>
+      <td>${p.area ? `<div style="font-size:10px;color:var(--text-4);font-weight:500;margin-bottom:3px;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}${hoods}</td>
       <td>${unitTypes}</td>
       <td><div class="bio-cell">${esc(p.bio||'—')}</div></td>
       <td style="text-align:center;color:#666">${p.age??'—'}</td>
