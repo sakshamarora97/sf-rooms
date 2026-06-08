@@ -707,7 +707,11 @@
 // ── Supabase ──────────────────────────────────────────────────────────────────
 const SUPA_URL = 'https://twxlfedibabrkhskriqr.supabase.co';
 const SUPA_KEY = 'sb_publishable_xNn0UlNWyOt0vjfZwopTNw_g1lpXDeB';
-const supa = supabase.createClient(SUPA_URL, SUPA_KEY);
+// noOpLock bypasses Supabase's Web Locks mechanism which has a known deadlock bug:
+// any async Supabase call inside onAuthStateChange causes all subsequent calls to
+// hang indefinitely with no network request ever fired. Safe for a single-user app.
+const noOpLock = (_name, _timeout, fn) => fn();
+const supa = supabase.createClient(SUPA_URL, SUPA_KEY, { auth: { lock: noOpLock } });
 
 let currentUser = null;
 let userBookmarks = new Set();   // Set<listing_id>
@@ -1152,12 +1156,12 @@ async function forgotPassword(e) {
   else { _showAuthMsg('Password reset link sent — check your email.', true); }
 }
 
-async function signOut() {
-  await supa.auth.signOut();
+function signOut() {
   currentUser = null;
   userBookmarks.clear(); userTags.clear(); userNotes.clear();
   updateAuthUI();
   renderListings(); renderSeekers();
+  supa.auth.signOut({ scope: 'local' }).catch(e => console.warn('[signOut] error:', e));
 }
 
 function updateAuthUI() {
@@ -1298,21 +1302,19 @@ async function load() {
 }
 
 // ── Auth state ────────────────────────────────────────────────────────────────
-supa.auth.onAuthStateChange(async (event, session) => {
+supa.auth.onAuthStateChange((event, session) => {
   console.log('[auth]', event, session?.user?.email || null);
   currentUser = session?.user || null;
   updateAuthUI();
   if (currentUser) {
-    await loadUserData().catch(e => console.warn('loadUserData failed:', e));
-    closeAuthModal();
+    // Do NOT await Supabase calls inside onAuthStateChange — triggers Web Locks deadlock.
+    // Fire in background; re-render when done.
+    loadUserData()
+      .then(() => { closeAuthModal(); if (_listingsLoaded) { renderListings(); renderSeekers(); } })
+      .catch(e => console.warn('loadUserData failed:', e));
   } else {
     userBookmarks.clear(); userTags.clear(); userNotes.clear();
-  }
-  // Only re-render if listings are already loaded — avoids rendering empty lists
-  // during page init before load() completes
-  if (_listingsLoaded) {
-    renderListings();
-    renderSeekers();
+    if (_listingsLoaded) { renderListings(); renderSeekers(); }
   }
 });
 
