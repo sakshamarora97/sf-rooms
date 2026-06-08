@@ -589,6 +589,16 @@
 
 <!-- Listing filters -->
 <div class="filters" id="listing-filters">
+  <label>Area
+    <select id="f-area">
+      <option value="">Any</option>
+      <option value="San Francisco">San Francisco</option>
+      <option value="East Bay">East Bay</option>
+      <option value="The Peninsula">The Peninsula</option>
+      <option value="South Bay">South Bay</option>
+      <option value="North Bay">North Bay</option>
+    </select>
+  </label>
   <label>Neighborhood
     <input type="text" id="f-neighborhood" placeholder="e.g. Mission">
   </label>
@@ -634,6 +644,16 @@
 
 <!-- Seeker filters -->
 <div class="filters" id="seeker-filters" style="display:none">
+  <label>Area
+    <select id="sf-area">
+      <option value="">Any</option>
+      <option value="San Francisco">San Francisco</option>
+      <option value="East Bay">East Bay</option>
+      <option value="The Peninsula">The Peninsula</option>
+      <option value="South Bay">South Bay</option>
+      <option value="North Bay">North Bay</option>
+    </select>
+  </label>
   <label>Max Budget ($)
     <input type="number" id="sf-budget" placeholder="e.g. 2000" min="0" step="100">
   </label>
@@ -877,6 +897,7 @@ function statusCellHtml(lid) {
 
 // ── Listings table ────────────────────────────────────────────────────────────
 function renderListings() {
+  const area         = $('f-area').value;
   const neighborhood = $('f-neighborhood').value.trim().toLowerCase();
   const maxRent      = parseInt($('f-rent').value) || Infinity;
   const duration     = $('f-duration').value;
@@ -885,6 +906,7 @@ function renderListings() {
   const tagFilter    = $('f-tag').value;
 
   let rows = allListings.filter(p => {
+    if (area && p.area !== area) return false;
     if (neighborhood && !(p.neighborhood||'').toLowerCase().includes(neighborhood)) return false;
     if ((p.rent ?? Infinity) > maxRent) return false;
     if (duration && p.duration_type !== duration) return false;
@@ -987,12 +1009,12 @@ document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
   });
 });
 
-['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => {
+['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => {
   $(id).addEventListener('input', renderListings);
   $(id).addEventListener('change', renderListings);
 });
 $('clear-listing-filters').addEventListener('click', () => {
-  ['f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => $(id).value = '');
+  ['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => $(id).value = '');
   renderListings();
 });
 
@@ -1005,6 +1027,7 @@ function seekerSortVal(p, col) {
 }
 
 function renderSeekers() {
+  const sfArea    = $('sf-area').value;
   const maxBudget = parseInt($('sf-budget').value) || Infinity;
   const duration  = $('sf-duration').value;
   const reason    = $('sf-reason').value;
@@ -1012,6 +1035,7 @@ function renderSeekers() {
   const tagFilter = $('sf-tag').value;
 
   let rows = allSeekers.filter(p => {
+    if (sfArea && p.area !== sfArea) return false;
     if ((p.budget_max ?? Infinity) > maxBudget) return false;
     if (duration && p.duration_type !== duration) return false;
     if (reason && p.reason !== reason) return false;
@@ -1110,12 +1134,12 @@ document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
     renderSeekers();
   });
 });
-['sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id => {
+['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id => {
   $(id).addEventListener('input', renderSeekers);
   $(id).addEventListener('change', renderSeekers);
 });
 $('clear-seeker-filters').addEventListener('click', () => {
-  ['sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id=>$(id).value='');
+  ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id=>$(id).value='');
   renderSeekers();
 });
 
