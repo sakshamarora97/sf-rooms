@@ -1281,7 +1281,7 @@ async function load() {
   allSeekers  = sData.posts || [];
 
   // Load user data before first render so bookmarks/tags appear immediately
-  if (currentUser) await loadUserData();
+  if (currentUser) await loadUserData().catch(e => console.warn('loadUserData failed:', e));
 
   _listingsLoaded = true;
   renderListings();
@@ -1294,7 +1294,7 @@ supa.auth.onAuthStateChange(async (event, session) => {
   currentUser = session?.user || null;
   updateAuthUI();
   if (currentUser) {
-    await loadUserData();
+    await loadUserData().catch(e => console.warn('loadUserData failed:', e));
     closeAuthModal();
   } else {
     userBookmarks.clear(); userTags.clear(); userNotes.clear();
