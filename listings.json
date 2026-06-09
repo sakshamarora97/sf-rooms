@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-08T22:04:53.192464",
-  "count": 297,
+  "updated_at": "2026-06-09T06:15:39.517158",
+  "count": 299,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -8182,6 +8182,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1923610701663836/?__cft__[0]=AZYcdYZcViOZHY9U_mUlOsN_XK9VHrO_0Q5DtfYTIzGIY_Jw5aXaLpt_fUYn-TrF0SoshAvS3hTXmhD2d18_5bA0_jkzx2mQ8h91CImTxw6O7CRPHNrVT8tAkAAHWx7LDkNUISik1l37xZlWVrpbeln8vjHIer3bLWsoPm0XbSDW8kdhdI9VOqoMN4E7HVRh526EV9MFXOVS74t6Vo6q4SYG&__tn__=%2CO%2CP-R",
       "posted_at": "Monday 8 June 2026 at 16:09",
       "first_scraped_at": "2026-06-09T05:00:03.205088+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4611263689108635",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "laundry",
+        "rooftop",
+        "AC",
+        "natural_light"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4611263689108635/?comment_id=4611280805773590&__cft__[0]=AZbgan7sAcz4A0gY63FWeeXB3CCZfpRa9roys2-UKKT692B5eiF2QVhL04B4vmTuHGyRtsnSMT_HR-fFpC1elRv5SNecxFm6jgpQyB_tD-Y8hPWEb5fSaKOf8obP79dubTZ7-WQDPAIiZJ0jRUkpuP_3g5IsW_DsDnZQMiIHdbp55FuS-RkyByM06OPmK4NMdqNWAJUu8mQzhXYyXZodFYHI&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-09T13:10:56.749882+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1923876768303896",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1850,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "walk-in closet",
+        "shared laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "mid-20s",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1923876768303896/?__cft__[0]=AZbjPiZehWQ-XYXo0Qqn24o3s2RARyBIoA6OvzfOL0YmtH9V_4nv1yWoIKjr6KpNnxLpxZ8_jUiy6oNIJspvZ8KvvoPeBPa3keXuHs4UmKki3DsGV_VIhr4exEnfx6DytYEr5NsBl3VqLegCWNAnpm1EZ42PZP216RhlAFN9zXY2S2ozZs3i8KyC5vQq2dlk4leRIj_ssqe9K2ibpE8bsB0g&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 9 June 2026 at 00:01",
+      "first_scraped_at": "2026-06-09T13:10:56.749882+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
