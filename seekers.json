@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-09T12:05:38.082574",
-  "count": 584,
+  "updated_at": "2026-06-09T13:05:57.562234",
+  "count": 585,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -15905,9 +15905,33 @@
       "age": null,
       "bio": "He is moving to San Francisco for a new job at a startup. His office is on Hayes St, and he is looking for a place within a reasonable commute from there.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4611563405745330/?comment_id=4611565062411831&__cft__[0]=AZZAUTVd3GSTsNrvKtFRFqJEzoemtmA8DCxXEVgLdBQte3-W9hMMKrkNC9LFlzpOp19VSUi0-PtvUQijEmIcPaJoXT1T9JmoAAolPDu2IgrqfKh1Sdqs4iSrYYQ-x3UE-AFpkFQTNmBViqEZtmpMHJ_n6SCCgrSH1Mha7P9Dr0veQZ3ZpUjm4Y2TA-11dwoAKg4&__tn__=R-R",
-      "posted_at": null,
+      "posted_at": "Tuesday 9 June 2026 at 11:07",
       "first_scraped_at": "2026-06-09T19:00:01.717200+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "8b9e87d424b2beff",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "A Harvard student and founder running a food delivery startup for home chefs in SF, looking for a summer sublease with a cofounder.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100007491464164/?__cft__[0]=AZaK8sJjOkxKVcWpNGP5wXVMD8xLppHPeFKecpHY7DaNr2aakbm929HGhLfrA1W0seo3ysLUQsrdkSRjNPAr3GFXC12rMyhfZ6ODcjX0c0GiP_d24qlpjZKNYEwwJ9SUq2AXyHUazaaP5PkyUt_hVIurEwI00NXoKvzV7IPG-4Mk_qLJtpWyKgcuPFuEH17z3Qu_yiav1jeVkajNgA1eW9Vn&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-09T20:00:02.776692+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
