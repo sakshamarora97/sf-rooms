@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-09T14:04:57.499184",
-  "count": 308,
+  "updated_at": "2026-06-09T15:04:40.398266",
+  "count": 309,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -8482,6 +8482,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1924289288262644/?__cft__[0]=AZZK-Npq56t3FXY22b9P8uBuXBai_qPds_z--2YTN7jz8MZ0Tzk6Ta8yeKuQ5kb-OyjugTAS-zEwziXjWi0ezMliA4wmVuPMJ_6AeShvOB_bbEbA5IJLbpJHfHqsfXTMlwZJYzlrtB-4Shda9_BW0O0YKSeGZvEpaGwA8fb4--U8SaYsmYgnH4P_lph0KQulG13RoaM30FEwNAEXbkozc-s-&__tn__=%2CO%2CP-R",
       "posted_at": "Tuesday 9 June 2026 at 10:40",
       "first_scraped_at": "2026-06-09T19:00:01.717200+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "48e03385b938141d",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2400,
+      "neighborhood": "Lower Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-07-08",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "elevator",
+        "laundry_in_building",
+        "dish_washer",
+        "gigabit_internet"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/1763390743/?__cft__[0]=AZa8ATIHADM2Dm9m4JAJVECOOeE0aXSU9f97PaHCTjWmDRldGUv9jcfNYhjdsHj2_aSiZtzssHhgZb2ssOdBC25MGlsXX_svvZ_RBl9990MOskn09H6CyQBD60IEtZuXbsEHhupnvmGHij8nBBZ5-0gO-2qPC-PCNh33YdlW-bwnoyQWBPECD2XEH4DGDZwZT80&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-09T22:00:02.005608+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
