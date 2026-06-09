@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-08T16:04:54.353291",
-  "count": 567,
+  "updated_at": "2026-06-08T17:04:19.633841",
+  "count": 568,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -15390,34 +15390,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "57f0725edc8e3b4f",
-      "post_type": "seeker",
-      "duration_type": "short_term",
-      "move_in_date": "2026-06-15",
-      "move_out_date": "2026-08-15",
-      "budget_min": null,
-      "budget_max": 1200,
-      "unit_type_wanted": [
-        "room",
-        "studio",
-        "apartment"
-      ],
-      "preferred_neighborhoods": [
-        "Berkeley"
-      ],
-      "area": "East Bay",
-      "furnished_required": true,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100000689272072/?__cft__[0]=AZajM8TPhDkwRLBIhyytE9k7zK2QvQiplJ-W76Gw_h1pWk7gT8rlldgg13H8dP7fmi-OpBEcT9zoT7Dh6Wy6-rECoosTLZHyQ6Lf5RQaferKmteJ4wVVO6nW7HYfiyyT6rY1ymO34DSpjiJOnCwcKBWoesajVTazv8MVWRYtKFCrGv2boRnUu9wXJ9Y7NK4OBn6TQqKDcEKNfckaQrpf9RIV&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-08T23:00:02.394548+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "1923557208335852",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -15440,6 +15412,67 @@
       "posted_at": "Monday 8 June 2026 at 14:51",
       "first_scraped_at": "2026-06-08T23:00:02.394548+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "e0341c4257d9d89f",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View",
+        "Sunnyvale",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 34,
+      "bio": "A 34-year-old married tech professional who is clean, tidy, and respectful of shared space and privacy. Easygoing and low maintenance as a housemate with a steady tech job. Enjoys reading, hiking, and biking, and is always glad to lend a hand around the house.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/640033592/?__cft__[0]=AZbY_g1HUQmWWbI4jxPtWxT_gJfUEbDJFoX6klmRTb0x5eijcejElppc2rr9g8XUuaIah5GzQfqDh2ePtVwrk8yAPdOWrOgyK_eNwMjrWOT6PaQMtZasTF_A1X7f1O09CUnrb5flID9GK_GaidqBUGbJoOdkOkeki1jpSLLsBZVOHHFrGDK17Thfz4_hKhutuVo&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-09T00:00:02.988067+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "bfe417ab72b024c7",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Lower Haight",
+        "Inner Richmond",
+        "Hayes Valley",
+        "Mission",
+        "Mission Dolores",
+        "Alamo Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 27,
+      "bio": "He moved to the city about 2 months ago, works fully remote, and enjoys running, hiking, biking, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100008644745894/?__cft__[0]=AZabWx_zTKXwrO7txC91xsWhf2azDR1a3rmYHlT3RQCWc-ewrIBCpKQYdmHt6pOtLrAXKEj8d7QeNAtTr_udAiItBJaa55QleYGa1s_E10ochXEvWWao-wNML4v4zPvcVDD7ChqprsDxuqMpuPRtZ3MM3FHXrfjjColqyXCGBGrnegO0eF0L_15eogBZRWhqWk6mau7oQmh7cMvz_-yEYliu&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-09T00:00:02.988067+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
