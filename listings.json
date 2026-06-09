@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-09T09:06:10.716499",
-  "count": 305,
+  "updated_at": "2026-06-09T10:04:34.525745",
+  "count": 306,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -8241,30 +8241,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "1dee8c1dbe3706f4",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "short_term",
-      "rent": 4800,
-      "neighborhood": "Dogpatch",
-      "area": "San Francisco",
-      "available_from": null,
-      "available_until": null,
-      "unit_config": "2B2B",
-      "room_type": "entire_unit",
-      "is_furnished": true,
-      "roommates_count": 0,
-      "amenities": [],
-      "utilities_included": null,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100006576819708/?__cft__[0]=AZaT9tEEMiEz6pf9rzLhE7Lqo9SCkqN7sNYMPSqk5sH9gppDKrH2F72km9rPN20LIAqUjTpvePMbm1aDH1hqMgIRAklrndIrrqavfJsz3WWd_pNCjPp-vjaHXF3xVdfzMfRqZ1h-gWww1IFgRDohGU_MImAR9DDU1s4_xVeQtikFCRkUGOTY_1WCSdvf6WaglQ6pLGbWKe6j871pcBDPhWeGf7TfiQzmEWDLJ6OGmsNJdg&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-09T16:00:01.556413+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "27118530701137561",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -8401,6 +8377,59 @@
       "posted_at": "Monday 8 June 2026 at 23:49",
       "first_scraped_at": "2026-06-09T16:00:01.556413+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "0ed142ff51cf52a9",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4800,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100006576819708/?__cft__[0]=AZbLH6Oml31ubZE4DoSTUfnas2PeAJkOrkD6j-ouyuDTNk1_JreRes1N0znI_cGEUzUo1Cwc-oqAldhsFDfIMNV9C15SoL289FIp7zGGMQzloQGkNZJUY0trH_9XOT0WWDltpJz2WGP8H9x9LNd2v5eZCfp16WLv7EZE15I4YclibXVKV7Ai1j06ige0BTHT6W_TR3GG1y6W5hjj52GpWSfY5BheCgwGwopeogBcVWG6VA&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-09T17:00:02.231916+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "27119375134386451",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1700,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": "2026-12-05",
+      "unit_config": "1B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "24/7 front desk",
+        "package room",
+        "transit access"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "any",
+      "building_name": "SoMa Square",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27119375134386451/?__cft__[0]=AZZjTeiJpqdrLrTV52XcexpX3mo9-oSd5tTvWR7ET--PrgRhjyLEVAHXCC8FqB41GL-8UKnbkOFr-No1N0j75tMpX_FTh1D4cCDMIRxVXnhxabalcg9WhphfDId1iA7U-W60fnXYVIve6Hny_2IPhJkFRaUYySfo-ovg4Kcf81YqJQKidsH811cn5AMF3XfOSYC4GFdZQtqRKXfFjx0l6ITZ&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 9 June 2026 at 08:37",
+      "first_scraped_at": "2026-06-09T17:00:02.231916+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
