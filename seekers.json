@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-10T12:05:58.192414",
+  "updated_at": "2026-06-10T13:06:49.391110",
   "count": 640,
   "posts": [
     {
@@ -17372,34 +17372,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
-      "listing_id": "6abb031705d24188",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": "2026-07-07",
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": 3000,
-      "unit_type_wanted": [
-        "room",
-        "studio",
-        "1B1B"
-      ],
-      "preferred_neighborhoods": [
-        "Embarcadero"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": 32,
-      "bio": "A 32-year-old software engineer working full-time at a tech company. Enjoys going to the gym, learning new skills, and trying new foods. Clean and quiet, likes to go out occasionally.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/1129183609/?__cft__[0]=AZYJXVAOnRg05OsK6F_UZtSAB_OAwenLw134HrqrCVL-XJmh41HD1qbhZO0NSMifWMp19Ga9WWgmiwqdkBuk2IB1SAwUgYIYXAiO9l4CZKSpv7_5pyFmHB0Uibn2A3X9MESBTfS2rPo8SdgXYMaW0o9zOn8a4VJFkdTWLefQ-YhaTLOEnERxMJgx5Ya8asl-sGU&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-10T19:00:02.172449+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "1925144508177122",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -17425,6 +17397,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925144508177122/?__cft__[0]=AZY6eRfzAUo9EZ_u7Hf8iKiyw19Br_JEK85CuAb869eHvFh-sDCLfnSSFlkYTpvrJ_Utuhbq35sTJNv-z2N8dcBhG6lchBOVq1qBgO3kCcfuEEyGvCT2aHZgXzgm_sqoixeOY4-w8dv-a92sHOxFHXHdqKT08vclSVIfDG6F6yzh9sfV0uZCPKG0CUAyMikJcgk&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 10 June 2026 at 10:35",
       "first_scraped_at": "2026-06-10T19:00:02.172449+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "706cc91fc3a710e0",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "northern San Francisco",
+        "Sausalito"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100001160292619/?__cft__[0]=AZbABCj_47NRBG223_RgrgYBQSuVGAVxjxwEhlpZxmuXrmb3vy10KPymmZB618StHTSQ5Vj6XA4yHOe6FfrfmpU3McIeafc8R8veJ65x3yhC3nJuH__cON7JX2WlRELkePGrGvOpzCRNQIFS5MxAeLPHI4Cb0vNqZGhLy48Iue-ZG_yBF8q-IloLB93xBeE4mqM&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-10T20:00:02.116115+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
