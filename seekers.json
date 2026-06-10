@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-10T15:06:41.917934",
-  "count": 647,
+  "updated_at": "2026-06-10T16:06:30.993050",
+  "count": 648,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -17546,33 +17546,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
-      "listing_id": "e7295d2b6b5c2b12",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": "2026-07-01",
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "room",
-        "2B",
-        "3B",
-        "4B"
-      ],
-      "preferred_neighborhoods": [],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": "new_job",
-      "age": 21,
-      "bio": "He is moving to SF from Rhode Island for a job at a tech startup. He is into pool, poker, always up for going out. Easygoing, clean, pet-friendly. He doesn't smoke but is fine around people who do.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/61550032043454/?__cft__[0]=AZa_DxY4V-FDG45GbOtfe58INvb9qzPJR30iVMNkhil--28kx_KraLPYd9qyeH368uWCTo-D9_q0karrWWpon8ZoJHB60XvgVd4Ihp1lrnmN7cheNwUPRw__ni5p7oXl6BtXGvLrawROsRjUaNCwR8iwP5cixG-dcPsghx20k9r-Fzc7PpdAUnhdA6hqFeiWz_C6EqpRAMEuvnbXlxNr2bJu&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-10T22:00:01.625144+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "1925282858163287",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -17624,6 +17597,65 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925270058164567/?__cft__[0]=AZatpn-J6jAYNBQh1XLdXZz6vZ3USm8_cQ5AtH6e36lLJquM20wrXDJmB0IFLXz3spChOmdnXkRM9SH7SW1-FHQpITV_qa24pioZjb3YQSG5GKT1o9pVkAIHUzYud3XpA96BgSpRPD8uPtWY0_SW0QNHNUK49WhsIf6M0-LmVXDJFuvVmfuRKKvGb2bsIC15_bY&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 10 June 2026 at 14:32",
       "first_scraped_at": "2026-06-10T22:00:01.625144+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "b05cf75b04768465",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-06-25",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private room"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "San Carlos",
+        "Belmont",
+        "San Mateo",
+        "Menlo Park",
+        "Mountain View",
+        "San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "Full-time workaholic, clean, quiet, enjoys gym, no pets, will be in the office most times.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100004190686466/?__cft__[0]=AZZqTEsslqB8tXMvfTSw1MBTb2IjdnRmSSodhr2elbay2NQv4rxhQhCvo93RcHEB_SDD9pblRdSxvNEkd2TkqSBaTdxlLg8lKxiYTWJIMXYmgm39dtxAxCwpT1aXE7uiBZWq2rAVUermK-wTbK4lf74kPcZCkEuEeWRjLX5XqRZqN2cjPZP1Cg76Wi8WF77t-5c&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-10T23:00:02.011719+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1925282978163275",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B",
+        "3B",
+        "4B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 21,
+      "bio": "He is moving to SF from Rhode Island for a job at a tech startup. He is into pool, poker, always up for going out, easygoing, clean, and pet-friendly. He doesn't smoke but is fine around people who do.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925282978163275/?__cft__[0]=AZZwpWjrH0ZUFgfLQNLdYskLMoQhlhA7ea_K_Fi0sLlxDq8JHpPZqA4NbIUVe2nTpF9gKMRGHBgcHomdSNa_SxPxiiktAxbAD7Pmz9A1EgeEnm-JJUhj7N2QGvTR8B9ybZoAp4fJkYGd0BledGA-oPk2TVYVlpRXRUOwyPV3Aou_uK2KtC5bYKJdPb5GF9o2THuMy9glHD4YxaJ6Is7MvHcT&__tn__=%2CO%2CP-R",
+      "posted_at": "Wednesday 10 June 2026 at 15:02",
+      "first_scraped_at": "2026-06-10T23:00:02.011719+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
