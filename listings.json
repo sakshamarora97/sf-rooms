@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-10T07:04:11.220213",
-  "count": 321,
+  "updated_at": "2026-06-10T08:04:14.292755",
+  "count": 322,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -8825,6 +8825,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1924989928192580/?__cft__[0]=AZb8d5MUuYTBDBSas0OyEQqhZsY4RDDOmPL0klfh2MxY6Rh_M3JyvDWJejZ7VIvlphJ1OlKHEt8fz-E8BU2TsCTUapllhaUGE3J0tG9q8PzCmCFHTlMqyBT-KbWL-YodI_UXyYkeQtRKHLQydMIAVejl8xeqP9eoXImpDXNch8tYzr_eF5fU-obauDzhB01447FACob3_kROnxfbk4G3LAUatyFUj--4wU2VhWAknZLfpQ&__tn__=%2CO%2CP-R",
       "posted_at": "Wednesday 10 June 2026 at 06:45",
       "first_scraped_at": "2026-06-10T14:00:02.572726+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1925029731521933",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Embarcadero",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "balcony",
+        "ocean_view"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925029731521933/?__cft__[0]=AZY-cfsrDQt2Uu3_n2hiiGX8eiay2BDzOxyXxG2wCQlBlBzK2NG5SjQN8YRv92R7HjkAg8a8NDe1nybyYSry8Q5cs0tYD449jNWGkh53dyJJTv9u0gOVoXbPJTF2EpP-vX_VuyKbiAtuBRxv1OQrBRvh5HIvUMAnofUgxBtxDz68vwhSAbaLM2vb3bFBZFVMyUCpMqYuxK33yUV5Hqs9fpjK&__tn__=%2CO%2CP-R",
+      "posted_at": "Wednesday 10 June 2026 at 07:41",
+      "first_scraped_at": "2026-06-10T15:00:01.716272+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
