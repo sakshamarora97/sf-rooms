@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-10T20:07:09.728524",
+  "updated_at": "2026-06-10T21:06:56.886272",
   "count": 340,
   "posts": [
     {
@@ -9304,33 +9304,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
-      "listing_id": "7cc1c52716248aef",
-      "post_type": "listing",
-      "listing_type": "room_rental",
-      "duration_type": "long_term",
-      "rent": 1600,
-      "neighborhood": "Hayes Valley",
-      "area": "San Francisco",
-      "available_from": "2026-07-01",
-      "available_until": null,
-      "unit_config": null,
-      "room_type": "private_room",
-      "is_furnished": null,
-      "roommates_count": 1,
-      "amenities": [
-        "in_door_laundry",
-        "small_yard"
-      ],
-      "utilities_included": false,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100001948861429/?__cft__[0]=AZbmzHpOgmhJW3km-kYZ2fpmBJDKmxI0LIcMK-FPUDJ80W-qzayHLhQS8G7d3S92i3vMP-65Ovmdt01poUMb0v6bSqd0iQu9SICwh-b9XTU3dXGr2YA3_dK44BiNSstdAU6PyF8PjtPZHqXXQIhG3PdLLRGRMq4P0J8mOWsuGIt3-g412_XRPpp5r97EVZmc_QkHFcs3WcPJCzObetCudZk3&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-11T03:00:01.266733+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "1925379208153652",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -9355,8 +9328,35 @@
       "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925379208153652/?__cft__[0]=AZYmiWDpVw-yPHLSO-j-F0VQ27SjEqSGRsKTvHcRzYGx6u5Spluwr2cXa4L1LuGYxh66ce5ZSNwL-G2KJMIy5R4XHC52Tkn-bzAT7Px5jDn5LASOG11URGyziARa64zIygMLNMzHCwXULwLRa-G9CJP8nuY0DxC7OyyIOfrfuLC4isk5Q_3tcU9y6Atf0DgU17l9gKywQS7wX04Xh4txMDMy&__tn__=%2CO%2CP-R",
-      "posted_at": null,
+      "posted_at": "Wednesday 10 June 2026 at 18:17",
       "first_scraped_at": "2026-06-11T03:00:01.266733+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1925428698148703",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_door_laundry",
+        "yard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925428698148703/?comment_id=1925464601478446&__cft__[0]=AZYwn3P4WE1BsflXAOhfPBRo1sTKVK3QZ5OMIDO8ldNSi2tChynDlNvY1FGejnTa1GxLzSIpMXJ4wV0NDdgWcC-rNyNvwdfrK872aB3ofTrik4AJ5tqjmfjS2FZNUdQAi_7K5ZE8cbLZ78NvNmhkleLOFTKEsAIbipPZBSotLGcIaNRV3YOKzBgk9fmnkf2QyntVltjtSK-yjzC2oZn7EngX&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-11T04:00:01.566858+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
