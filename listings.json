@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-11T07:05:06.703881",
-  "count": 344,
+  "updated_at": "2026-06-11T08:04:43.307055",
+  "count": 347,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -9444,7 +9444,7 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "00d8b1ba5f9718b5",
+      "listing_id": "a3769b9c1b7c1a91",
       "post_type": "listing",
       "listing_type": "lease_takeover",
       "duration_type": "long_term",
@@ -9467,10 +9467,92 @@
       "pets_allowed": null,
       "gender_preference": null,
       "building_name": "Altitude Apartments",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1444725347/?__cft__[0]=AZY9SyjzRGxIJLON8Hag_uqJkJXMj7JGxdMtswxFUinV6pRGcLYT_jpMthas9fQFDTBs9rz81Gg6njWWatoJrP-Tyoghglqcb9fP9IRT9AodwgpCyJWlmTGPH4CbzrUuNIQZRJzLPhOFfd4i8ilsdgTdyH2kf3D3WVrpd5rH3au78rgKNZo83iOFJnKs7F7Qjw4&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1444725347/?__cft__[0]=AZZxi18FhbXS1KW9Db1joai7Fju1gmbtuGtfmX-TWP6fLrOZ8dlu4AdApt-8rqMGHrYjt4j6FjaFXDcWDbz0V7zEh5nM080kyJpr9A6VRP7uMqSqprG-d_PKr6SNHow44aM7wtNT9GVKKgaRy7I47keL1nSE6jt7nysX5hc-reB2H1Qka22icGlYM1UMB53bAQg&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-11T14:00:02.063317+00:00",
+      "first_scraped_at": "2026-06-11T15:00:01.377976+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "27151830034474294",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Mid-Market",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "fitness_center",
+        "rooftop",
+        "concierge",
+        "lounge"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27151830034474294/?__cft__[0]=AZYPXpUdZ79qzjU11PIfClEz0_LdDxo1JHlyzyiGyQbRtU_DYRtSp3oNKrarIicvbHl9ZABYrZJ4PzxeVTodseg5iKCQJBUnO6x08OiJ162p8i9wBWmzy7i6Ztx1vqlZAf9__V4_xuo7R6u02FCgcft5ikihg0O9MscHTU5WH7f7lCFI5SSfBLfOJ9nAaPHWxEhpHWrMVkMqWfQvXwZzxyZf&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 07:49",
+      "first_scraped_at": "2026-06-11T15:00:01.377976+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27143026785354619",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-10-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Towers at Rincon",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27143026785354619/?__cft__[0]=AZYjxWV0bQcEJBWN0rlHQCWW9ZvXcX6b3HDOWIE1CDgkks7EmflE4IPzEr5LvZGaOILh3HbdESQnY1Mm0OpWsrhHEva6PdecKtOzpK_c_OncLG0ULUYQ8vzEjGq4VU6W-iKKCPVP0Obo4eKvR9fnRNnhQisyUVAmC3AN0YZdzYrxxDTGffHQ6O8kg8v4s8kWNDlr60lSH1zWt1qDRcbFhOYo&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 07:48",
+      "first_scraped_at": "2026-06-11T15:00:01.377976+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "7619758501441405",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1580,
+      "neighborhood": "Noe Valley",
+      "area": "San Francisco",
+      "available_from": "2026-06-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "laundry_in_building",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/7619758501441405/?__cft__[0]=AZaqDFJ0gfdxTSasbRKpuRIBdzjv5fes1jhqeL1It7zLi3KabpRnsLPiNker1RU_H2cD7SChEPc4_Vc1bY0kQlHDQZWUTsMPrXJpTAZnvCL4x1gwF7veiFK6k66p4XTCg6oOgoe5R2yPJMhN08UgjG59GQ1cC7xX9pYyhNtEEgsvtHAJbHmtB_bb4ghRKJlQIEs-b1X5EEStpp_7JHVdVKtQ&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 07:48",
+      "first_scraped_at": "2026-06-11T15:00:01.377976+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
