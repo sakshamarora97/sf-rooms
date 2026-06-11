@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-10T21:06:56.886272",
-  "count": 340,
+  "updated_at": "2026-06-10T22:07:34.058640",
+  "count": 341,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -9355,8 +9355,34 @@
       "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925428698148703/?comment_id=1925464601478446&__cft__[0]=AZYwn3P4WE1BsflXAOhfPBRo1sTKVK3QZ5OMIDO8ldNSi2tChynDlNvY1FGejnTa1GxLzSIpMXJ4wV0NDdgWcC-rNyNvwdfrK872aB3ofTrik4AJ5tqjmfjS2FZNUdQAi_7K5ZE8cbLZ78NvNmhkleLOFTKEsAIbipPZBSotLGcIaNRV3YOKzBgk9fmnkf2QyntVltjtSK-yjzC2oZn7EngX&__tn__=R-R",
-      "posted_at": null,
+      "posted_at": "Wednesday 10 June 2026 at 19:45",
       "first_scraped_at": "2026-06-11T04:00:01.566858+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1925505211474385",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1950,
+      "neighborhood": "Inner Sunset",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_building_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925505211474385/?__cft__[0]=AZaQmwYIDbyvoroRLFkTpcecMAFv-AHZne9XB2IDQYZtj_0LJTBfaqa1U7B2g-mjbbB3MCSGxD2zArEdJcns-KT3hFK3_4jE_DEofzU3a5wSZvKknkboG5v36vQgZ63qQ41DmodVmUi_9TOWHPo5UFNwI0zJKBCkOqKSYKu86XFfc7pF0k7Mr5jjttIBE7q7_c_Awi9sIa7e8TN_56JX3rLY&__tn__=%2CO%2CP-R",
+      "posted_at": "Wednesday 10 June 2026 at 21:47",
+      "first_scraped_at": "2026-06-11T05:00:01.368830+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
