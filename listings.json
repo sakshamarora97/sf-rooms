@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-11T08:04:43.307055",
-  "count": 347,
+  "updated_at": "2026-06-11T09:05:03.619936",
+  "count": 348,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -9444,35 +9444,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "a3769b9c1b7c1a91",
-      "post_type": "listing",
-      "listing_type": "lease_takeover",
-      "duration_type": "long_term",
-      "rent": 3100,
-      "neighborhood": "South San Francisco",
-      "area": "The Peninsula",
-      "available_from": "2026-07-01",
-      "available_until": null,
-      "unit_config": "1B1B",
-      "room_type": "entire_unit",
-      "is_furnished": null,
-      "roommates_count": 0,
-      "amenities": [
-        "in_unit_laundry",
-        "rooftop",
-        "gym",
-        "parking"
-      ],
-      "utilities_included": false,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": "Altitude Apartments",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1444725347/?__cft__[0]=AZZxi18FhbXS1KW9Db1joai7Fju1gmbtuGtfmX-TWP6fLrOZ8dlu4AdApt-8rqMGHrYjt4j6FjaFXDcWDbz0V7zEh5nM080kyJpr9A6VRP7uMqSqprG-d_PKr6SNHow44aM7wtNT9GVKKgaRy7I47keL1nSE6jt7nysX5hc-reB2H1Qka22icGlYM1UMB53bAQg&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-11T15:00:01.377976+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "27151830034474294",
       "post_type": "listing",
       "listing_type": "entire_unit",
@@ -9553,6 +9524,59 @@
       "posted_at": "Thursday 11 June 2026 at 07:48",
       "first_scraped_at": "2026-06-11T15:00:01.377976+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4613418245559846",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3100,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop",
+        "gym",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Altitude Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4613418245559846/?__cft__[0]=AZYTiZhrYsWwIKNVZym_55bFGXyaDf1xDIH62XGXa4XyO8uzCbOhzxQ-fzXMZ6eV9o296LnT66YTlb6_65PuAjGMjlrz7teYIjMXR26GkHgBjtZmy7fxpl_mQ0L51l64oo4I44N3D4l3lLQNVoZSsS4I2DZ2Wkl1Ckxgk9TMOKM2LJvbRJ0xiFO-aBG1hsP0Ago&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 05:53",
+      "first_scraped_at": "2026-06-11T16:00:01.276153+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1925949198096653",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4500,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": "2026-06-18",
+      "available_until": "2026-06-22",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1925949198096653/?comment_id=1925953628096210&__cft__[0]=AZahmP1f8fSJLv6SQml-u9VNNRpc_Yt5iWpo-rLbq56zl8IuMeKrsGL_UaEhSaJ_5dDEpti3CFknmPb0Ku4Rsbiuxc-Oim1AxE0mmZC8u0tD2lK-rtZTHo4PiTwBd3ffagC1ZDVNM83RKrDSArFnEsgge5tXqcdb40K1unG3gUK1jpamkpyCTv7ci9yaZYsU2pshq1nJ0gqzPcHzXijd00S9&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-11T16:00:01.276153+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
