@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-11T12:04:42.203605",
-  "count": 675,
+  "updated_at": "2026-06-11T13:05:23.147094",
+  "count": 676,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -18332,36 +18332,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "22b4b6f7a339e27c",
-      "post_type": "seeker",
-      "duration_type": "short_term",
-      "move_in_date": "2026-06-14",
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "room",
-        "studio"
-      ],
-      "preferred_neighborhoods": [
-        "Mission Bay",
-        "SoMa",
-        "Dogpatch",
-        "Potrero Hill"
-      ],
-      "area": "San Francisco",
-      "furnished_required": true,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": "new_job",
-      "age": 28,
-      "bio": "He is a 28-year-old male from NYC, originally from NJ, starting a new job in the Bay. He is super social, big into sports, and enjoys playing volleyball, soccer, and tennis. He loves anime, going out for drinks, and listens to EDM and hip hop. He is clean, respectful, easy to get along with, and a good communicator.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100002819053940/?__cft__[0]=AZZOIj9cDs400gEKUEucEs7A7GZ_PVwP307EIHVp1p_Lva9xvf9n7XXAfnkpSJZta20tmYKvxcoXPMWgacZQoyOpKVRnA7lotx3DOLmjPIG0sGDZw4wsssVo80Xl0mx6FQAXTcbPol7sxsDThaNBFcADpcAvC3_uBXWcMSRsqnjx1QFjETuUvlfc1dhEHRpBRQk5A5iq4Xxpse7ERG3_2Kx9&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-11T19:00:00.614424+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "1926025471422359",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -18385,6 +18355,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926025471422359/?__cft__[0]=AZaD0REALgF016U_pLiA9DyKvNTvsa3gTMBh-7bccBrb5nJRMse5frDssu2Wz20UXpV-Fkg1DTjMn_C08KxBHka1V7n5vwFZ6pWJ3gBXwLyzMiUlPOz4r3EKEJ2ez7pjVzjw5Wfc91aXDfagPh1bRzCaOWxg1Eaq7PN7sBDrmvKc_a48vIgtCrXBb8_3QiUXP-2QLKLurpl8Hrtwl0YK1PA1&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 11 June 2026 at 10:51",
       "first_scraped_at": "2026-06-11T19:00:00.614424+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "378e3e5fead69b78",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-14",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "SoMa",
+        "Dogpatch",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "He is a 28-year-old male from NYC, originally from NJ, starting a new job in the Bay. He is super social, big into sports, and enjoys playing volleyball, soccer, and tennis. He loves anime, going out for drinks, and listens to EDM and hip hop. He is clean, respectful, easy to get along with, and a good communicator.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100002819053940/?__cft__[0]=AZZOS-tt7FqsOh5Q0wFq1kgsTO1mDWENJE60IWu1ItHsbU0Nd8Iln8TA307GPSUSNPji3Xp29PiPg6GyZlQaUi0v_-JqWcUwFgfC1dp4k7Iaj671x2t9tcYtj2PA21M7nosV0rwEIxxthw72wo-qSli3DdMlouMymfcCATojEB7nO2b-zxbI9_priZGNttoAoj1WqKEOlOEWdculh868HHa9&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-11T20:00:01.731308+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1926078681417038",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-15",
+      "move_out_date": "2026-09-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "internship",
+      "age": 22,
+      "bio": "An undergrad student interning at a startup. Very quiet, spends most days working, does not smoke or have pets, studies Economics and Data Science.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926078681417038/?__cft__[0]=AZYiNVrP66BSael_ebgQp6B70oNW_N2EsBF8nz6cClkWRzFu1I5K2CXj_R9b01vtEQpAlNKZU-Kd0KzHy6MDgH8XGLGk_zEhk_JK7oWlq7zABGXOYtmcNnUtRiVP3gKEiuj7KjF5mXZmAWiA2cHhHq4pao6c4KRngRwWs53RebVdiUBmluZNmQggRZzlpJGw5j0&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 12:23",
+      "first_scraped_at": "2026-06-11T20:00:01.731308+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
