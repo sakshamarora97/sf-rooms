@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-11T16:05:18.962102",
-  "count": 681,
+  "updated_at": "2026-06-11T17:05:39.357223",
+  "count": 685,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -18557,6 +18557,111 @@
       "posted_at": "Thursday 11 June 2026 at 13:47",
       "first_scraped_at": "2026-06-11T23:00:01.767755+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1c227c6a2a859ec3",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "2B2B",
+        "3B3B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "A 22-year-old recent CS/Math graduate from a top 20 global university with a new job near Salesforce Park. Highly disciplined, professional, clean, vegetarian, non-smoker, and has no pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100008347114982/?__cft__[0]=AZa1XMNJXs8c4QaVpIcuw63DZhIhfLZxQOdJvTUiw7WvmJnBGR6B0ND9vWUO7U8wgtY2Wtkn-vt3glwC6jex_w-oe01vuSGVl6brEoE9IoI_WHXX1j-Ra-5tU7Nmvygm5S3UdT581jExTFBi2yUEQxneGpk8G69B9HMgSK1CLgQcnyONt-W8IEEXPMbOI-jsnc31SY1QF6lwWpQWKQTQal4j&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-12T00:00:01.962275+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "27142617722062192",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "In her 30s, she works in tech and is looking for a female roommate to share a 2B2B. She values in-unit laundry and enjoys occasional social interactions.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27142617722062192/?__cft__[0]=AZbw1lLy7NRSuAUsFycAdPGzQaKl7GDeX3SSaKnvoMCKX70jpuXy9DgAnQkf5a8Ul4xHFZc9RQS2b-4psMQJX2UpksRMdQL4hdrUflwIfU1sS6hYs9aMIKg1xQj45I804V7LPwRHqXpDMoQ2FJrdlR3HY0DxGtW_JL5UGS9hGWInbCdSq-_nU-R1f_O3kWmugeI&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 07:48",
+      "first_scraped_at": "2026-06-12T00:00:01.962275+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1926213201403586",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "parking"
+      ],
+      "preferred_neighborhoods": [
+        "Lower Haight"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926213201403586/?__cft__[0]=AZanNr4Z08_hrAkdLaTIgEW8VzZrALKazxmqwz1uOf-q5_hLFoLUiQXHdJa2lTlgVuO-sjj44sxssTwNxaE2qSbVQl7nTsRpoJ8LgET-0n78mTk6OcREzzPvatY3Ogyyw8F_yt0qYwf7l6Mctq-BxXQUFTr_2ccy8gCz7TJcawiY0_t2VM5bKKZuD5rb0xUsAK4&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 16:53",
+      "first_scraped_at": "2026-06-12T00:00:01.962275+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1926198141405092",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Ella is a recent UC Berkeley graduate, and the other is graduating from UC Santa Barbara in June. They love outdoor activities, coffee shops, and are clean, respectful, and easygoing. They seek a friendly roommate environment.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926198141405092/?__cft__[0]=AZZRTbr_G3CTem1wGPNuvURRP-oxcZh5kh9sX_gwp9QepwDmvKNckrFpwfAyX2Z9Ujb3t8WkjYQ9gCS0byQMT7SuTS4ZGKeaOTmFwsvySbrEPra89CGvgD-IRvliXLtKDO4x6a1XaSIYJC6Uf2KLbfKOPMQdoOY76gN52SNiXn4TNfMf1XTtSmNnuyntdsX7aQMS_MkIwJDHAp3gNcvTIPri&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 16:24",
+      "first_scraped_at": "2026-06-12T00:00:01.962275+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
