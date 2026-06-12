@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-11T17:05:39.357223",
-  "count": 685,
+  "updated_at": "2026-06-11T18:05:28.181703",
+  "count": 686,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -18559,35 +18559,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "1c227c6a2a859ec3",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": "2026-07-01",
-      "move_out_date": null,
-      "budget_min": 2500,
-      "budget_max": 3000,
-      "unit_type_wanted": [
-        "room",
-        "sublease",
-        "2B2B",
-        "3B3B"
-      ],
-      "preferred_neighborhoods": [
-        "San Francisco"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": false,
-      "reason": "new_job",
-      "age": 22,
-      "bio": "A 22-year-old recent CS/Math graduate from a top 20 global university with a new job near Salesforce Park. Highly disciplined, professional, clean, vegetarian, non-smoker, and has no pets.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100008347114982/?__cft__[0]=AZa1XMNJXs8c4QaVpIcuw63DZhIhfLZxQOdJvTUiw7WvmJnBGR6B0ND9vWUO7U8wgtY2Wtkn-vt3glwC6jex_w-oe01vuSGVl6brEoE9IoI_WHXX1j-Ra-5tU7Nmvygm5S3UdT581jExTFBi2yUEQxneGpk8G69B9HMgSK1CLgQcnyONt-W8IEEXPMbOI-jsnc31SY1QF6lwWpQWKQTQal4j&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-12T00:00:01.962275+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "27142617722062192",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -18661,6 +18632,63 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926198141405092/?__cft__[0]=AZZRTbr_G3CTem1wGPNuvURRP-oxcZh5kh9sX_gwp9QepwDmvKNckrFpwfAyX2Z9Ujb3t8WkjYQ9gCS0byQMT7SuTS4ZGKeaOTmFwsvySbrEPra89CGvgD-IRvliXLtKDO4x6a1XaSIYJC6Uf2KLbfKOPMQdoOY76gN52SNiXn4TNfMf1XTtSmNnuyntdsX7aQMS_MkIwJDHAp3gNcvTIPri&__tn__=%2CO%2CP-R",
       "posted_at": "Thursday 11 June 2026 at 16:24",
       "first_scraped_at": "2026-06-12T00:00:01.962275+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "8c45b0da62f42209",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-15",
+      "move_out_date": "2026-09-10",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "An MBA student at Stanford interning near Salesforce Tower. Clean, respectful, easy to live with, and focused on work during the week.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100003944578709/?__cft__[0]=AZaJqS7cs4fiR4r6hRjUe8EDDmBfd5eonZ27rIc5tfsgRdouwWcdZwjpULZkmZGdBDhFmhRlz7eLi3Vsbah5yYmzPPS-53V6WZP1DmvM6w4sYd7KgGeol1q_yNut0_LG4AeFJx63ZH9XoPRmCdMDXV14QtjKCc6vM8HSIWR4QNSA9Rfbx28QJ1GpmsYZzE6i5gk&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-12T01:00:02.062691+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1926237981401108",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio",
+        "private room"
+      ],
+      "preferred_neighborhoods": [
+        "FiDi",
+        "Nob Hill",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a short-term rental in downtown San Francisco, interested in a 1B1B, studio, or private room. Open to sublease or month-to-month options.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926237981401108/?__cft__[0]=AZYmrJhX5bygwuJknefFSmYA-PILn35U_BGcJCEC9rMVHFAVFtGJ1vM3BvnmW-IEHdLolCc8B6y7hPR8_kRatJr8PH-f-xRS86hstwkqJIIoBobAXCyXmxBudFWRKPgcG37OF5krOgpIFfJmgHjM2HCevm5gFeg3gXiTAZF-_i0U0ERGVE7RnFz3rZH6o61LmKI&__tn__=%2CO%2CP-R",
+      "posted_at": "Thursday 11 June 2026 at 17:40",
+      "first_scraped_at": "2026-06-12T01:00:02.062691+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
