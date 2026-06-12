@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-12T11:04:14.741218",
-  "count": 711,
+  "updated_at": "2026-06-12T12:04:35.393603",
+  "count": 712,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -19234,30 +19234,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "fbcf7fe3f994389a",
-      "post_type": "seeker",
-      "duration_type": "short_term",
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": 1000,
-      "budget_max": 1300,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": 23,
-      "bio": "A 23-year-old consultant originally from San Diego, very clean and will be bringing a car.",
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574304644653/?__cft__[0]=AZbgCTQf5951zjWdR0gN_4Eh64A70IyEiiIhUql7s1THmwQW6v5dX7OEf1ffOenp6T6t3zO1ZhmL-xuYDCiOGu-RK6PDTd1CQCTj9c-kirGGsO_K8dT8i2ET8ewMcdF72J8t1bjtrTukC6sydMoMrJVUux6hmXFt4MhEwB3OLffQaUdSfryBDHK-q6C2Wn9SE0sgC_XMFKVf2_9MhiF90TWJ&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-12T18:00:02.604042+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "1926833688008204",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -19376,6 +19352,57 @@
       "posted_at": "Friday 12 June 2026 at 08:53",
       "first_scraped_at": "2026-06-12T18:00:02.604042+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "ed16153e1cac6781",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": "2027-07-31",
+      "budget_min": 3900,
+      "budget_max": 4100,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SF city"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "A working professional who is clean, responsible, and easygoing. Has a friendly pet.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100041669536422/?__cft__[0]=AZYQgEpI5pa-67cJayCPu5TXMMTw0p0rdNyAS4vQmKk4jBncEpVhtybA8K6VC0sNtcmAYpd-v2LsahCzSEPYMKsX-4rfLylqt2HLJptRhngG0DbLviaq-CDd8nsKqnIpvRPzX5DuJz33ihZDOV_HJR36gkUE_9nDDB1QwDcr8dkRCymDsr8L82ZZD4mqyl45ckOh3KXquVAtJKg_de3WN8mV&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-12T19:00:01.555450+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "d4d03d29b67f1923",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "A 23-year-old consultant originally from San Diego, very clean and will be bringing a car.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574304644653/?__cft__[0]=AZZFoKYHen2eWmWLlzC9VEhUFWbgDPuIXF2p9ZPXRnPDM-cg2b1w1XJjg1AptVSaLJpEom8MZyaDZU-Go55L-vaPu7xSuogDsh9Tuae4t5xF2oP2uyLqJPMnbyYuNvf93qW2W5TJOgw-HY3w7UWlU7Yuy4tMxFK94gz6qHM7lQYy1FG7Vd5HMnTktvbUy5JGaAHdxDzi5xhOHhJYCvAc82dq&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-12T19:00:01.555450+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
