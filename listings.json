@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-12T09:04:46.569270",
-  "count": 363,
+  "updated_at": "2026-06-12T10:04:27.831072",
+  "count": 365,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -9978,6 +9978,61 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926462514711988/?__cft__[0]=AZZrZFXY8YUArUH8Lc1FRrihxX4ueAYitSC0n_bYDCIyo7cJBc6_2ZRD9WB7hRGkqMqDSMheTQg-HNF4CJ0m1m7PkVKW27G_V7igjLdpp0j01f8c4E74kVoi7Xdl6QZAuBlA_sBHqtMjTBS79I-DXNJ74ZbnA-I0t2hGTmUrQatJUWSOtui1o4_fZall4-sN0ciH6EvjkODQIlsHzT95UI4H&__tn__=%2CO%2CP-R",
       "posted_at": "Friday 12 June 2026 at 00:12",
       "first_scraped_at": "2026-06-12T16:00:01.172856+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1926767794681460",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1050,
+      "neighborhood": "Mission",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "AC",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926767794681460/?__cft__[0]=AZYXSqWrCXPKGLIzUp5bFTE-efVwoJJHBOE9Kd949egCKhtTIkHi_p1inEmbIFvgefZ9Qm-VL1PLII0h33lf0JVemtQT0cZW6TOl3utIsFe2LOIRNreVxjYe7lZ5TR3ZvMCKL8WTWVuOkfLJjanIZUgI5yJ9FCPAkiT5EohcTS2pIjnJNnHEHPdoim40SUo28A-yrTIk3aY2bS4yyKlcRv_3&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 12 June 2026 at 09:14",
+      "first_scraped_at": "2026-06-12T17:00:02.245133+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1926741974684042",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1250,
+      "neighborhood": "Burlingame",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "high_speed_wifi",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926741974684042/?__cft__[0]=AZbwsWfQNwRiRWuULnYn3YnzRE6R_4APbYjD80GI9qFbuyoqNgPwbaoUN-f0J3In0ebhb8HRIk_Vm7vzBX-z3OrziE9ycJgzEXpfUOvyJ1-m6EZsZ45BzZ-vtor3_zvLf2Y4WKijFLa2UlVymatbGfmQdx2bYWafC36a5bGzdmjQv2uPaLGWIklX0rn1o2HJnus&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 12 June 2026 at 08:19",
+      "first_scraped_at": "2026-06-12T17:00:02.245133+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
