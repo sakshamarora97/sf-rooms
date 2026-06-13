@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-12T21:06:19.764413",
+  "updated_at": "2026-06-12T22:06:11.266501",
   "count": 382,
   "posts": [
     {
@@ -10443,9 +10443,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "00c57df6de28ada9",
+      "listing_id": "77acef83c82622b8",
       "post_type": "listing",
-      "listing_type": "sublease",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Lower Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100007973674772/?__cft__[0]=AZZAaIsCbjbO6vLV07LNMWg2awcjsTlGG-xqVp3d3P-V1AtKPeA1ZKIFLpBm4zTNzf04wXp_FLwXMQ4Aev8IPByOjV2AuRJycQfHTijYXEE2FjnBbyQXkqztolGgiMX78a0uBHdA2JzBwIaoefOLALyUQSyWYa4K3jQ9_nFVZIUBFOUoLCxyUqpflPoZa4yIQpGzmhjctK4hrayk8ymKg3Et&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-13T05:00:01.830735+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4615046392063698",
+      "post_type": "listing",
+      "listing_type": "room_rental",
       "duration_type": "short_term",
       "rent": 2100,
       "neighborhood": "Sunnyvale",
@@ -10460,7 +10486,7 @@
         "gym",
         "pool",
         "jacuzzi",
-        "workspaces",
+        "workspace",
         "rooftop",
         "BBQ"
       ],
@@ -10468,34 +10494,10 @@
       "pets_allowed": null,
       "gender_preference": "female only",
       "building_name": "Savoy Apartments",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100002507847360/?__cft__[0]=AZajdWkkttuVXAQzHt0zQyS0_2ExzZbkmsw3zWv32hKxemzciCqQDmQ8UuasJmXRZSRbIeIyFFF5WDSIJUTsqZCGX8xT6X_crtpfmYi06_HKrEDFSjjv4mGbXtdRSIuDDJ0D34TNFmKo9r9sPgprxcrJ6u_jGUu-Lf3zWEOmRNalmN2eg20JpnIjAhSUzrO48PR5FCrhPc667jXVos2go7hG&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-13T04:00:01.996899+00:00",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4615046392063698/?__cft__[0]=AZYHFJ41ZHhIn3nCs2H0tRTbkWgPgfojVbEaDLWSVsigcX8UWRbR3XPTlaDTD_lFMr3DS5hvA4HGAO6YU-0X3fdL4RW7s-p2eTYTBaYSZU5JkfNahAkNMGqW05HB93T5F3S8YCeOdhGtlKlQdTTboVLCp4K1CmUDU8bgjULtGMRY2qkaq-s3f9HYKiZT3uSDa9nttX6FRH4j2HjmNkaS33W-&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 12 June 2026 at 20:06",
+      "first_scraped_at": "2026-06-13T05:00:01.830735+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
-      "listing_id": "68d571fec3807edd",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "short_term",
-      "rent": null,
-      "neighborhood": null,
-      "area": "San Francisco",
-      "available_from": null,
-      "available_until": null,
-      "unit_config": null,
-      "room_type": "private_room",
-      "is_furnished": null,
-      "roommates_count": null,
-      "amenities": [],
-      "utilities_included": null,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/61585316532027/?__cft__[0]=AZbz-W9dO0kyz6xqpqYpIJc26ND8tIpgj1peykdkn8b-CZaVXFw9jymLP98aLqDku1RpMYFtJUNN5p6UUPSh2nf_Vc-9NyP2ga8_1_ElOBwvv0NZM2Smk8U8kjfcn7QBWcWbINKZFO8jAQYtq18sdzGRCbjdX4tHdSUq1nviGzLAOhvK8mvnqk0qRo32PQBG3-VceiOL6UDLcH2JMSQArDCB&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-13T04:00:01.996899+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
