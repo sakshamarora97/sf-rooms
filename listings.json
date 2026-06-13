@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-13T14:03:30.786278",
-  "count": 386,
+  "updated_at": "2026-06-13T15:03:36.446124",
+  "count": 387,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -10613,6 +10613,32 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1927740024584237/?__cft__[0]=AZaitmGqepkAewLjg88soeb9GfB93JG0PeUcZQ48DwCxErBcJ3Cfj66zqf7Cphz144ri5NbgcJCO1hgmdzoDavIcnCRv8xF0A4v1LKfIzhZOqW8bBPqNi3dtjHYGr1Uf_HqE1JuV3NJLuh5FB5c5uKMPFM1aQsRjlY4Ybsyq0yqKZoNyd1fV8CYpxdx8uIYrm3U&__tn__=%2CO%2CP-R",
       "posted_at": "Saturday 13 June 2026 at 12:23",
       "first_scraped_at": "2026-06-13T20:00:02.583500+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1927816307909942",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-06-21",
+      "available_until": null,
+      "unit_config": "5B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "water_included"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1927816307909942/?__cft__[0]=AZZyO4n7CKlwRfT2xb6nvS5JLD9sfnZX8DRf4ct7w4ctDXUpGCgXmGNMwoYtGiR7RM12r3kri0P4kuUU5FMrnIWQeMor2AsGJgoJgJDo58-6N04aMXCUDYJhoJFWj94xkATOQA4ZCeiBJq6V2hdYARNu85d4cX2-4kI4JugckW8xJiAGniP6RbhJ-M0OSa5hgziDd9fJA44tvi2MQ98lUwRp&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 13 June 2026 at 14:51",
+      "first_scraped_at": "2026-06-13T22:00:02.890250+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
