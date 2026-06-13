@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-13T09:03:50.266055",
+  "updated_at": "2026-06-13T10:04:28.727763",
   "count": 740,
   "posts": [
     {
@@ -20154,31 +20154,30 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "27eb88ce970a5b3c",
+      "listing_id": "05f538e17bfb051d",
       "post_type": "seeker",
       "duration_type": "short_term",
-      "move_in_date": "2026-06-27",
-      "move_out_date": "2026-07-26",
+      "move_in_date": "2026-07-07",
+      "move_out_date": null,
       "budget_min": null,
       "budget_max": null,
       "unit_type_wanted": [
-        "room",
-        "studio",
         "sublet"
       ],
       "preferred_neighborhoods": [
-        "San Francisco"
+        "Dogpatch",
+        "Mission Bay"
       ],
       "area": "San Francisco",
-      "furnished_required": true,
+      "furnished_required": null,
       "group_size": 1,
       "has_pets": null,
-      "reason": "rotation",
-      "age": null,
-      "bio": "A fourth-year medical student who is clean, respectful, and easygoing. Non-smoker and will be spending most of the time at the hospital during the rotation.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100004772412712/?__cft__[0]=AZYergfsYk6akJ8xj9tiygjmC4KThAtt1ddOPHaldv32FC6qCimEG89-_c_Zuivl1r2V8--PYNdhE200Nv5DnB4l-f5yYF843HQ5aBm52zxaeLHPqYI9RpBqEvVBaSG7uEDtf9szv-hfZa2ES8y1LWtMW6pJdlYVJZKQKuPB_e3qwOT5bkVIVkNyocexscsDlfY&__tn__=%3C%2CP-R",
+      "reason": "internship",
+      "age": 21,
+      "bio": "A 21-year-old college student moving to SF to join a local science lab for the summer.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100064459449173/?__cft__[0]=AZaxVaTHNRbrxIYrDWNzt-LAt8STBzpcHYwgNkJ6M9-Z-RYL7N2W7r91wnGmROlPf9XTXESEFQHV_Ryv0SVpA5NjX9aI7Q5jObsIq3aaJnzRC5hzK0gnT29SSMVJ5mBreZN6ZhLXkpunMNqdgWgMYANJBRYo72aWBpoyZYyG4Df2fwzj2D8uoxrS-HJzS0mjCu8&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-13T16:00:01.484901+00:00",
+      "first_scraped_at": "2026-06-13T17:00:01.818661+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
