@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-12T16:05:58.972619",
-  "count": 377,
+  "updated_at": "2026-06-12T17:04:43.245797",
+  "count": 378,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -10193,7 +10193,7 @@
       "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4614869658748038/?comment_id=4614871092081228&__cft__[0]=AZZ6P8jM8eCRsbPyltQyHorxf-D5gNRiQA7OBGNWwFfuos51DTYa5_QQMidkUsPg_-W78shK4EcvsrKUmR_YPdft8Yp8nMgAljKk3J92Te6zMVLS9KD6Az28659bVo6VO83ytEtUpb5kFRJtuq4XmxtH3qgcfhzbLZDr2F-6-ZL5ari75VDwO5eFBtzn1V-msq8&__tn__=R-R",
-      "posted_at": null,
+      "posted_at": "Friday 12 June 2026 at 15:44",
       "first_scraped_at": "2026-06-12T23:00:01.671871+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
@@ -10297,7 +10297,7 @@
       "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1926997987991774/?comment_id=1927000607991512&__cft__[0]=AZb6hNaSiRYkQb1u0WUbEIYMFpVi_ud6M4gMT_Y5ggqRy-3-SNyH9AnY4_GbSsfL9DTCu4tGtr4WdB5nhu_WvuLr-FvQ6AIIlHfMoxzE3pwNJyo6VLyxlhMQqNNatzHkD9IG43s7CJtCWHQHK0PNPzCvPbpL0yvvaGw2D9NmLvi3nCv62Nn8p7sjGfx0lMH5AAg&__tn__=R-R",
-      "posted_at": null,
+      "posted_at": "Friday 12 June 2026 at 15:49",
       "first_scraped_at": "2026-06-12T23:00:01.671871+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
@@ -10350,6 +10350,43 @@
       "posted_at": "Friday 12 June 2026 at 15:10",
       "first_scraped_at": "2026-06-12T23:00:01.671871+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4614887355412935",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2650,
+      "neighborhood": "San Rafael",
+      "area": "North Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B2B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": 0,
+      "amenities": [
+        "private_deck",
+        "garage",
+        "fireplace",
+        "new_kitchen_appliances",
+        "new_kitchen_cabinets",
+        "updated_bathrooms",
+        "new_flooring",
+        "fresh_paint",
+        "new_blinds",
+        "extra_storage",
+        "security_gate",
+        "on_site_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4614887355412935/?__cft__[0]=AZbr1c8TkZ7H5tmYvb5fcnANAo9ctUa894-X-SRdWzT3ZmcHcWh9NnlwYJMvQ8XWZNVJbBM4nRwOByl2xxuoJl56pgF9NgfuokmSzHEbJX-mtki5pYlg4QZR_CXzv28pRWeGHaFNAJq2RoJNxbXN1eiJJQxI4rB_kbvksjmd2QvISithZHS53h9TVgRSxbo8YzKuaSE8MmCCm0v6oL8xeVJj&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 12 June 2026 at 16:10",
+      "first_scraped_at": "2026-06-13T00:00:00.447914+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
