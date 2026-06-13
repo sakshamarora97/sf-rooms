@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-12T22:06:11.266501",
-  "count": 382,
+  "updated_at": "2026-06-13T06:05:48.816805",
+  "count": 384,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -10443,32 +10443,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "77acef83c82622b8",
-      "post_type": "listing",
-      "listing_type": "room_rental",
-      "duration_type": "long_term",
-      "rent": 2000,
-      "neighborhood": "Lower Nob Hill",
-      "area": "San Francisco",
-      "available_from": "2026-07-01",
-      "available_until": null,
-      "unit_config": "3B2B",
-      "room_type": "private_room",
-      "is_furnished": true,
-      "roommates_count": 1,
-      "amenities": [
-        "in_unit_laundry"
-      ],
-      "utilities_included": false,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100007973674772/?__cft__[0]=AZZAaIsCbjbO6vLV07LNMWg2awcjsTlGG-xqVp3d3P-V1AtKPeA1ZKIFLpBm4zTNzf04wXp_FLwXMQ4Aev8IPByOjV2AuRJycQfHTijYXEE2FjnBbyQXkqztolGgiMX78a0uBHdA2JzBwIaoefOLALyUQSyWYa4K3jQ9_nFVZIUBFOUoLCxyUqpflPoZa4yIQpGzmhjctK4hrayk8ymKg3Et&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-13T05:00:01.830735+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4615046392063698",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -10498,6 +10472,91 @@
       "posted_at": "Friday 12 June 2026 at 20:06",
       "first_scraped_at": "2026-06-13T05:00:01.830735+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4615175098717494",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "South Hayward",
+      "area": "East Bay",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "garage",
+        "gym",
+        "community_park",
+        "kids_playground"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4615175098717494/?__cft__[0]=AZafxYomRsMN2pOkHHV107LRSauqEzp9Zy5PHv8SygSBJUW3BQy953I2MtJu2XLVFTfWryUrkrlGp244jNjgK422wSd4eDBVxfTfVUACSgbpD7A9_JgC96O0YK78RukiSFPxY4Bk7xjS-5uZEWPq-t0vm888diTWqKquj_2Cz_zdWYwOPvIpr-glX-VHce1ISPIFX4N-E_wzhAkqZYYDyQmDdHoGCkAtj4phdhEA7fWZPg&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 12 June 2026 at 23:13",
+      "first_scraped_at": "2026-06-13T13:00:02.580534+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4615092732059064",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Lower Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4615092732059064/?__cft__[0]=AZYvSpnn5S7sCcmfh0ClEBe-I0uYfNH_JWzXMfgoeLyZloJdk8L5_HhtdEWk9ETKjIUrtqGpSCvpf1gEujHY5QrU-2W-nAzyly1N3WQXYjhzM5RrmhBU7cgCQ3FrMVpMCbmPhZdm7ye11WbACwwZDSvIbFmkh3oJu5jESnMzy8ozVh5SWTZMH2qZ5rwEb2NOrOo_QeslRD_2aqXbOt1j43_q&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 12 June 2026 at 21:14",
+      "first_scraped_at": "2026-06-13T13:00:02.580534+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "27154755914181706",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 950,
+      "neighborhood": "East San Jose",
+      "area": "South Bay",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "6B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 5,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "patio",
+        "high_speed_wifi",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "male only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27154755914181706/?__cft__[0]=AZYuM_f5OdJYuaCmDul3uNFR9UBexuL3y-vCbpYcbiK_1390OclKEG8O9MBFZDquN02Wu68q6Pj9XvxEHQfsIeiD71vrFEQD07G8siGlLnsTHHw2Y8cnEuLYclmPM04ojM90ZR5y4ra0U93N0E-2jn8bAQcsr4y8PxR9kYfojT-krt7rkp1z1a2b3qvjLyuZqmasYYd8jaiA-tZYoUm7XFEN&__tn__=%2CO%2CP-R",
+      "posted_at": "Friday 12 June 2026 at 15:07",
+      "first_scraped_at": "2026-06-13T13:00:02.580534+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
