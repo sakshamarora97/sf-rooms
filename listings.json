@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-12T20:06:25.265923",
-  "count": 381,
+  "updated_at": "2026-06-12T21:06:19.764413",
+  "count": 382,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -10443,7 +10443,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "12f64c284585e097",
+      "listing_id": "00c57df6de28ada9",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2100,
+      "neighborhood": "Sunnyvale",
+      "area": "The Peninsula",
+      "available_from": "2026-07-01",
+      "available_until": "2026-09-01",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "pool",
+        "jacuzzi",
+        "workspaces",
+        "rooftop",
+        "BBQ"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Savoy Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100002507847360/?__cft__[0]=AZajdWkkttuVXAQzHt0zQyS0_2ExzZbkmsw3zWv32hKxemzciCqQDmQ8UuasJmXRZSRbIeIyFFF5WDSIJUTsqZCGX8xT6X_crtpfmYi06_HKrEDFSjjv4mGbXtdRSIuDDJ0D34TNFmKo9r9sPgprxcrJ6u_jGUu-Lf3zWEOmRNalmN2eg20JpnIjAhSUzrO48PR5FCrhPc667jXVos2go7hG&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-13T04:00:01.996899+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "68d571fec3807edd",
       "post_type": "listing",
       "listing_type": "sublease",
       "duration_type": "short_term",
@@ -10461,9 +10492,9 @@
       "pets_allowed": null,
       "gender_preference": null,
       "building_name": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/61585316532027/?__cft__[0]=AZaEI6yu9m80FAfPmG283A0vhOj3SROuEMWNIvH5SIgW75g1yq-kgWWDaIGryvvQLdRozfaiVsRbvwolCzXy7pEc0TSKdtgLe1Y2y4p_9M_QEoNjb7JIScNCfFo_nqQhNMURo-a7hs3SwBEdRU8En8_HeUAKFxn9ia7MNtM6X-XJPXBCXaOW_4N9_YHdD5eIBCW98quGUMlJhjCO2_edripC&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/61585316532027/?__cft__[0]=AZbz-W9dO0kyz6xqpqYpIJc26ND8tIpgj1peykdkn8b-CZaVXFw9jymLP98aLqDku1RpMYFtJUNN5p6UUPSh2nf_Vc-9NyP2ga8_1_ElOBwvv0NZM2Smk8U8kjfcn7QBWcWbINKZFO8jAQYtq18sdzGRCbjdX4tHdSUq1nviGzLAOhvK8mvnqk0qRo32PQBG3-VceiOL6UDLcH2JMSQArDCB&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-13T03:00:01.387185+00:00",
+      "first_scraped_at": "2026-06-13T04:00:01.996899+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
