@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-13T15:03:36.446124",
-  "count": 387,
+  "updated_at": "2026-06-13T16:03:14.722164",
+  "count": 388,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -10639,6 +10639,32 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1927816307909942/?__cft__[0]=AZZyO4n7CKlwRfT2xb6nvS5JLD9sfnZX8DRf4ct7w4ctDXUpGCgXmGNMwoYtGiR7RM12r3kri0P4kuUU5FMrnIWQeMor2AsGJgoJgJDo58-6N04aMXCUDYJhoJFWj94xkATOQA4ZCeiBJq6V2hdYARNu85d4cX2-4kI4JugckW8xJiAGniP6RbhJ-M0OSa5hgziDd9fJA44tvi2MQ98lUwRp&__tn__=%2CO%2CP-R",
       "posted_at": "Saturday 13 June 2026 at 14:51",
       "first_scraped_at": "2026-06-13T22:00:02.890250+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1927826167908956",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2800,
+      "neighborhood": "Castro/Corona Heights",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": "2026-08-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_building_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1927826167908956/?__cft__[0]=AZZ_POXy_y9KbF402V27Z547nhcOZgAZutdtwE3Cju6um8yxg6z5j33bn7JKnBoHFupQBSChkDwmt47j4qCWJnacyDshkWcF9ecldsRzY9tVcA1SqRdY4oVYkVQrri3LF4dB4AF3TJcmrORmW_NpwSw_dA2ft-tv6jDCja98y31PEaRbM4naYEuRoHTKLYfoBWU&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 13 June 2026 at 15:11",
+      "first_scraped_at": "2026-06-13T23:00:02.435182+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
