@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-14T06:04:05.539297",
-  "count": 757,
+  "updated_at": "2026-06-14T07:05:16.210876",
+  "count": 758,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -20628,6 +20628,34 @@
       "posted_at": "Saturday 13 June 2026 at 20:34",
       "first_scraped_at": "2026-06-14T13:00:02.485342+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "27183934557930508",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-06-27",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Potrero Hill",
+        "Chinatown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "She works in marketing at a restaurant tech startup, is out of the house most of the day, runs, plays guitar, and loves exploring the city. She is clean, communicative, and not a party person.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27183934557930508/?__cft__[0]=AZYOBaGqdwGGnFjOEKTuSVOI8aV4kp12cm__C0v647PlYeZjYxxT-GhCIDfM0XYAmtJebCth2XW2JTeSpSt8U9sirwuSHFx1mv3n4vMwLX6VGZpnzj4rT7RTd4LlmwMr-ZF8EYbPXh_lDeykFGlzt27auUoHEL46yGJaDPTHVs5R4jt5UrGZJpkLsY0eopNLnEwTNUGgxd4Y5i8kABp-YE_T&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 14 June 2026 at 06:54",
+      "first_scraped_at": "2026-06-14T14:00:03.084116+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
