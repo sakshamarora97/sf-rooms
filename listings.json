@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-13T20:05:13.870453",
-  "count": 394,
+  "updated_at": "2026-06-13T21:04:19.671414",
+  "count": 395,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -10827,6 +10827,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1927950431229863/?__cft__[0]=AZaK2TiwB2Ilg3Z8lEfj9FnUPpKj0ANpq02MIYSMZL7FMT3p2mLNwSKy-LDIPoc_6uxOSRmE8xqCjOzwgJoFJOD7NaNHGTgLVBo8wNXNlx81YEmFsON6H-l7Pt0BBTPUIBl0VyJvjcUeh05WAc50FwNsTWKAw204TRMSLLwHCRSFJM-IvGexB9uvwEZUjksy7oenwN31d3aTDNjAcEW2VW_f&__tn__=%2CO%2CP-R",
       "posted_at": "Saturday 13 June 2026 at 19:11",
       "first_scraped_at": "2026-06-14T03:00:03.533516+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "75d3cc9adbdcba29",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1625,
+      "neighborhood": "Panhandle",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": "2026-08-31",
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "laundry",
+        "storage"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100024062048677/?__cft__[0]=AZaYy38qnrvEDS63fv42FFYrqOybE_X9Ktzk60SosT4Dn-poRTGh7AgfgglAperGBFZBpNGS_StH1K-BmSuDFWznDDa-bDkf1Oze8zwW6zPmp5HoHT6LckAhXAvOjEe-5qBvplZk8b4bMoHNrPhTMpQcd9UEG9dXwZBU8XdeUbDXwa1PzBHrO6dTA8-8Lqo9fumUrPSmnc3DPAStEnSxMXQa&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-14T04:00:03.138939+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
