@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-13T17:03:52.186382",
-  "count": 745,
+  "updated_at": "2026-06-13T18:03:24.368990",
+  "count": 747,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -20312,6 +20312,58 @@
       "posted_at": "Saturday 13 June 2026 at 16:44",
       "first_scraped_at": "2026-06-14T00:00:02.665847+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "9072fbcc5d659f57",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-06-20",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4200,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 31,
+      "bio": "A 31-year-old software engineer who works from home 5 days a week. Enjoys playing keys in a band, training calisthenics, and doing Latin dance, mainly bachata, around the Bay. Has lived with roommates for the past 5 years and maintains a clean and quiet environment but is open to hosting social events.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1330167149/?__cft__[0]=AZZuFukCEmrp4kOTo-y6_D5-54KhB6X8rhlVUqV-6aCP9Dkydbqdu5hRRg24IfmkFFJ6ni36brnLTelWgsxG-R5_KwxMiHCbBr72cmxx9uZXQtNfBvRUIngdDPgzlabdshzf-A44J_tkjHSDHgFX6GeVbMyIOKMhSXJq3OOJNbAHg9nvl8CG7cHnwjVVvyQ9-gCVD4sFMPAYm0dHQf-ofrsp&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-14T01:00:02.156801+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4615966575305013",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working in SF and interested in exploring different areas.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4615966575305013/?__cft__[0]=AZZ9CTjCB5OC51isH65okPy6SKgnhguFexQonbOFvndrtBt8vyGARdNNPcWFZOJFo83yDIeWp0B5j7W_41iSaodU9OMOXVdE-QaYRP7yxmyieb1kGMNPvxcAnMmQjIdRSol5EeP79Uuv2G5Cqakh87Mrb9e9YP4qZyPf_LpOvC-y_i6axbU13-fy5jLxbfqZRnc&__tn__=%2CO%2CP-R",
+      "posted_at": "Saturday 13 June 2026 at 17:07",
+      "first_scraped_at": "2026-06-14T01:00:02.156801+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
