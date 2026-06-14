@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-14T09:05:19.359321",
-  "count": 762,
+  "updated_at": "2026-06-14T10:05:05.674214",
+  "count": 763,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -20764,6 +20764,32 @@
       "posted_at": "Sunday 14 June 2026 at 08:02",
       "first_scraped_at": "2026-06-14T16:00:03.182109+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "c47f1626d8f570fb",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-07-27",
+      "move_out_date": "2026-08-23",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Parnassus Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "rotation",
+      "age": 28,
+      "bio": "A medical student doing a clinical rotation at UCSF. Very quiet and polite, likely to spend little time in the room due to a busy schedule.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100004243569869/?__cft__[0]=AZbBGmdwKtBv8EOb-_OSmbcN9yGKPDiLC4LiFs8-MlYSKzHvc3mCK3yHM7waC_4lL1PtK2FtGjsp1PO0Xkqj1V251Wcz0ApXn9MQl0f-s_MK160Rt_e5E_U3dHELchFEs2AqsamhZMBJi5U6PiWOu-JQMe-W6YkiWWS4W3ifW9CuB8vRgaD2Ewn6lNxOGwxEdDE&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-14T17:00:03.042218+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
