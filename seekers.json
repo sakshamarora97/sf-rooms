@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-14T10:05:05.674214",
-  "count": 763,
+  "updated_at": "2026-06-14T11:05:21.298979",
+  "count": 765,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -20766,7 +20766,7 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "c47f1626d8f570fb",
+      "listing_id": "4616713425230328",
       "post_type": "seeker",
       "duration_type": "short_term",
       "move_in_date": "2026-07-27",
@@ -20785,11 +20785,69 @@
       "has_pets": null,
       "reason": "rotation",
       "age": 28,
-      "bio": "A medical student doing a clinical rotation at UCSF. Very quiet and polite, likely to spend little time in the room due to a busy schedule.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100004243569869/?__cft__[0]=AZbBGmdwKtBv8EOb-_OSmbcN9yGKPDiLC4LiFs8-MlYSKzHvc3mCK3yHM7waC_4lL1PtK2FtGjsp1PO0Xkqj1V251Wcz0ApXn9MQl0f-s_MK160Rt_e5E_U3dHELchFEs2AqsamhZMBJi5U6PiWOu-JQMe-W6YkiWWS4W3ifW9CuB8vRgaD2Ewn6lNxOGwxEdDE&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-14T17:00:03.042218+00:00",
+      "bio": "He is a medical student doing a clinical rotation at UCSF. He is very quiet and polite, and anticipates being busy during the rotation.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4616713425230328/?__cft__[0]=AZY1OKKOJz9Q2w5q7eSkoqxuDCnreKEXnDnjsuR2lMT2YNNErOWAkhMdUfPRNjsxHtYqWJzADBTjPwoGoNPnfhRrPEq61tsF19x1ELOX8sObvXuXyJqJG0mcXJvIJjmaeR8JXLjOzzAyFh1vdVGPdfGA3mGviVsRiWvT55SrcaQHdT-ynwRGi1kJ7qnebSAlZ-s&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 14 June 2026 at 09:53",
+      "first_scraped_at": "2026-06-14T18:00:02.432196+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1928542424503997",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-07-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose",
+        "Santa Clara",
+        "Campbell",
+        "Sunnyvale"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "She is 25, originally from Nashville, TN, and has spent the last 3 years in LA. She got a new job in San Jose doing marketing for a tech company. She is very clean, cooks a lot at home, loves going to the gym and pilates, reading, playing pickleball, hiking, going to the beach, traveling, trying new restaurants, and exploring coffee shops. She is completely new to the area and would love to be friends with her roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1928542424503997/?__cft__[0]=AZbh9QAHXWcBJeyx4XhgFchUaTMU0r5EuVovguUrZbp4Rsi_xUjb6EpEtVgLlgl6eK-KyRuuzNDMvAu5LlAwaH9fpY3VbPBT4e4ljwMOx_7y09hH8tqerS6t3B9kkwvBp03fjRxRE6oFzCXPul0psbD14_u-pDJafCKDFVxXysTvxpzTGJssCvkYkhDWaWJbUfv7fC64Wc2fSvy5lWTpLKKt&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 14 June 2026 at 10:45",
+      "first_scraped_at": "2026-06-14T18:00:02.432196+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1928536147837958",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": "2026-08-31",
+      "budget_min": 2000,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "soma",
+        "dogpatch",
+        "mission bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1928536147837958/?__cft__[0]=AZbgd_3la-XhZh2jPHWHTwGPD18xOoWimuvymmCIm2R1_Ex6qWwA687BwiAfFNpQWol_kiS9uXTa6Q7pAY6j1bKc6LZSVLDuSPkTXGHiqlXpo-Skc2Ecf8KLZ8puOXl-iXXlEHsCOkKY0HNwjRGX2tqG0v0_0PQxo33G4WelQBduPCLNJmNEfIuR41r3dkxkgjk&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 14 June 2026 at 10:34",
+      "first_scraped_at": "2026-06-14T18:00:02.432196+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
