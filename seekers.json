@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-14T08:05:57.906474",
-  "count": 760,
+  "updated_at": "2026-06-14T09:05:19.359321",
+  "count": 762,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -20712,6 +20712,58 @@
       "posted_at": "Sunday 14 June 2026 at 06:52",
       "first_scraped_at": "2026-06-14T15:00:03.241617+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1928443604513879",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A project engineer with a mechanical engineering background. Flexible on dates and location, prefers to be near BART.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1928443604513879/?__cft__[0]=AZZYJ9tMU9CDHz2rtuXujX8wFVqa7i93usDykVKCPluk2eIi3sFsKAYzKSPPwFLZS-XQd5tmW2nJv1ZVwIhbpJ3c7jvf0ZCHJkQZ_AHAkO7fqp_4RparIbbRtzOumaDHbP3--koEv6o1Nef8SuSBUtkTHVTrjdIiz_gA9Jvomr4iX0UasRNRovGjUHsnY90UdVE&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 14 June 2026 at 08:16",
+      "first_scraped_at": "2026-06-14T16:00:03.182109+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1928433087848264",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-08-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Excelsior"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A couple consisting of a hair stylist and a high school teacher looking for a roommate. They have a dog and a cat.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1928433087848264/?__cft__[0]=AZbqBemQ00IE5RfrMlx0pBblcZzWqwUrOQI2MyG0E1vTaZvzWLDuw9iTHzqHu808TsMaDU71Gs0Wc82so_oYnA4u30kiFd6tQ_t5Xkrr5Wi15QoHB4p5twiHcHL-wBVBZmnJqk0M3K38j7iB2B8C0FgTM057BYm_-3vMnVMiWwcq_QFtE2GzFU75kGrxeRnZxeA&__tn__=%2CO%2CP-R",
+      "posted_at": "Sunday 14 June 2026 at 08:02",
+      "first_scraped_at": "2026-06-14T16:00:03.182109+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
