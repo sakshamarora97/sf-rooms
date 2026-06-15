@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-14T16:05:57.048557",
-  "count": 411,
+  "updated_at": "2026-06-14T17:05:44.956234",
+  "count": 412,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -11274,7 +11274,7 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "ac12f831cf9bf070",
+      "listing_id": "6a930ba2a1744f21",
       "post_type": "listing",
       "listing_type": "sublease",
       "duration_type": "long_term",
@@ -11286,7 +11286,7 @@
       "unit_config": null,
       "room_type": "entire_unit",
       "is_furnished": null,
-      "roommates_count": 0,
+      "roommates_count": null,
       "amenities": [
         "fitness_center",
         "rooftop",
@@ -11296,10 +11296,34 @@
       "pets_allowed": null,
       "gender_preference": null,
       "building_name": "The Lumina",
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100022716062598/?__cft__[0]=AZYV7y0BwpctFOEmU8KdgWUD516vI1Gtiouoo4RWQqJ4IDDiwpj2Cqqhe50ePWoY6n_TqkjICq0x35xhBks7UjXy7LoRFpQ1d7uFOU5mLsZ3-Gs4BEGN4dlWoPyWWHPkV12b80XyBVt3PGC5uazEy_B2j_R4AJszgf0YVZs6hwj_ardFXs5fbWsknmRvBBe-oMN8tVo75EOgaLqL89yqBQGs&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100022716062598/?__cft__[0]=AZZ7zrhIgbC6yrhPyCZggqHRYafJPpNhPYQkOKT3Eg1rudd-X2tbIt3ZsdKGB7sE2BHVl_4JCFsrkh88ICtYoQrEIOQSzIh6Rif8_5qrszH1btyMHzIwCw_mdM-KkuvnrIW0rlC0y66lPbj0jfAVSsK6VOMIvPmNbLUDcwB1I3DrEvx2VHxkbj-tTG6oCdWEubzVmLo4nPp9zbQAa8yko3rY&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-14T23:00:01.702518+00:00",
+      "first_scraped_at": "2026-06-15T00:00:01.716993+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "d0c3d1f74fbc33c6",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "NoPa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "6B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100083269238173/?__cft__[0]=AZbyS9yZXAJqKbCpxbcvXK9vtpcEGoWQ18yfrMi30LTnn_H-Eh4GOkYhxFSwksZ4teze1cafoED_NfKfjAzVk5Q6lL9pmezgtveqB-I8SufnRyb3ZJfG_12OD12nU7vUgmf8PYaC7m3m0Mn21qv5WCEAP9S0oHvWO9kJIkp0Ni5-AcRsTVGJho_ukuRKWBDs72tC63HBQPZ83yKKu0ZUKAWB&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-15T00:00:01.716993+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
