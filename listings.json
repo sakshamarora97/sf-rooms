@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-15T07:06:26.079089",
+  "updated_at": "2026-06-15T08:05:56.970047",
   "count": 433,
   "posts": [
     {
@@ -11882,10 +11882,10 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "77ebd574814cd062",
+      "listing_id": "c005919c118a506b",
       "post_type": "listing",
       "listing_type": "sublease",
-      "duration_type": "long_term",
+      "duration_type": "short_term",
       "rent": 1800,
       "neighborhood": "FiDi",
       "area": "San Francisco",
@@ -11899,16 +11899,15 @@
         "in_unit_laundry",
         "parking",
         "AC",
-        "heat",
-        "secured_building_entry"
+        "secured_entry"
       ],
       "utilities_included": true,
       "pets_allowed": null,
       "gender_preference": null,
       "building_name": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574777920478/?__cft__[0]=AZZ4QoDDjudWPjU1CbYv1vG5k0UCbOI4-bY4Nz6AyY0ogqmOgPQ5Hzsj41suIOWqW88NLGLKSVkCb_dTEvOlO3vcGmeIZmjZyzan2lMK5wpcNQR4825cGXiArb7Ho-SB64zGyn5Pko0qmar4mNQ__WrEpClw9sSo6IUwtwOPrDATHg2IPTW9bM3F2qouIFXrgG4&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574777920478/?__cft__[0]=AZZ0B9_u2O7pCeCCtL5MbGlqQ98gaEDIMLp96VsT_WpvAhy063EIAloh7S9GlIYJaIQ3ASwgaSlOV3ApoNHDhzM78Rrf0jCFdkEIVJOrXnFOy7Wh_80hJBWJ16jF1IEkYkky4x0D1ibfs0hJ545MW87Rqm4W5A4V4qxg3NxyiWGTzeMZqJYiX83SZBRvo5HGmaQ&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-15T14:00:03.202244+00:00",
+      "first_scraped_at": "2026-06-15T15:00:02.677929+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
