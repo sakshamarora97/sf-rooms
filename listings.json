@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-14T21:05:59.549413",
-  "count": 419,
+  "updated_at": "2026-06-14T22:06:09.995559",
+  "count": 420,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -11412,34 +11412,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "aa3d3e2a4848d6a8",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "long_term",
-      "rent": 2000,
-      "neighborhood": "South Beach",
-      "area": "San Francisco",
-      "available_from": null,
-      "available_until": "2027-08-31",
-      "unit_config": null,
-      "room_type": "entire_unit",
-      "is_furnished": null,
-      "roommates_count": null,
-      "amenities": [
-        "fitness_center",
-        "rooftop",
-        "parking"
-      ],
-      "utilities_included": true,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": "The Lumina",
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/100022716062598/?__cft__[0]=AZalGCQrT42RKm69VUGSKocLugO_IO0F1cWVPUzF80sK275JHYgEfB6Q_NrH_PZbXxpkMzI7WpNts6Kk00gHAhEXWd8SGLboymCbEpl8q6KmBPm7l_BM7Dtj5dN6L-zKKFXLUUxGTfSOh4RHmDL41v9of7NpQ_tyNaDxmlzJK7_AsluytMKjX2ydi_3PuOxFuSn3h_xW3he6SO1AKAc4jecI&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-15T04:00:03.295486+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "1928863064471933",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -11523,6 +11495,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1928758147815758/?__cft__[0]=AZY1WhFgUOr3_qcjriwQpwb7906JQk4gK1Kc26m6h5B9DIwVrdfZFHJ7hJ0FYOsshIqbLEvHuJBjRPoTN5AXT6X8DZ8ySRwXtQpspBv0l5QIrdG3HKZ2KtQa5UDAo2xYH1gQjBvUPCarosz9WsTJwXMVVdqN_0w6Qmt8hCB2Eql44je31Jk9iOe0_A8aUil7BxWDUtnnN85vLLvBYbDRS_ud&__tn__=%2CO%2CP-R",
       "posted_at": "Sunday 14 June 2026 at 17:41",
       "first_scraped_at": "2026-06-15T04:00:03.295486+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "761155c79a44d41a",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "South Beach",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-08-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "fitness_center",
+        "rooftop",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Lumina",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100022716062598/?__cft__[0]=AZbDhrBqfAq69i5LAjUQ3FteQxScVGTxlRal0YufpkYB2TOD9xu4kGac-tQBAFcIoWhj3WqygBWVG8y18ikvnjWJNFTI2iA0nwm-R3twmBDmHa6ApmFSvjtMAk8hSVu3ZKSGOPHyvgx7ufg7O7B8LUr0tAQtlUbjAGsJl71FoBVMFLSYJe5UCuw0GULdxzRjgxXJQn62lW8LxDlRz-q5ruv9&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-15T05:00:02.939968+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1928888064469433",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1750,
+      "neighborhood": "SOMA",
+      "area": "San Francisco",
+      "available_from": "2026-07-29",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "in_unit_laundry",
+        "lounge"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1928888064469433/?comment_id=1928898264468413&__cft__[0]=AZY1JV5UMKJZHicbE8H_zOSu696zFR-YipbhSCKZq6svQza25Q5a0Pn2bvsNLuhGT2fysaDDlkTovEav8reHLRYolKNClElOee2BsJAwEKIorO2b-ozx-UgAi35VnDYhW_EPs9n-WRrQoSW7BLz2iwYHKvfJ-m_hi3n_CWit_st4OeSL37f2hs9cYuFsu0Qsz1x335eLeNHktozSXmTloegi&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-15T05:00:02.939968+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
