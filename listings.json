@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-15T14:06:36.137523",
+  "updated_at": "2026-06-15T15:05:04.220393",
   "count": 444,
   "posts": [
     {
@@ -12207,30 +12207,32 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "2b63672374b5be10",
+      "listing_id": "f488b3a84d26ba25",
       "post_type": "listing",
       "listing_type": "sublease",
-      "duration_type": "short_term",
-      "rent": null,
+      "duration_type": "long_term",
+      "rent": 1800,
       "neighborhood": "FiDi",
       "area": "San Francisco",
       "available_from": "2026-07-01",
-      "available_until": "2026-01-31",
+      "available_until": "2027-01-31",
       "unit_config": "1B1B",
       "room_type": "entire_unit",
       "is_furnished": true,
       "roommates_count": 0,
       "amenities": [
-        "utilities_included",
-        "parking"
+        "in_unit_laundry",
+        "parking",
+        "AC",
+        "secured_entry"
       ],
       "utilities_included": true,
       "pets_allowed": null,
       "gender_preference": null,
       "building_name": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574777920478/?__cft__[0]=AZZ321QlziK5hIE6pO-kP0Nvvj0f19BEjgd_-zH37Hu7uINCnGdUbXEFMfG_X7tJGxS2TiEEN4UQyyWJytozwRH8RV4FC3Np_QmwIfyGn1ai6BJQ72TfD7gppm2hKPqg6WVTtRX-7GSzSRqtFPpIIY31xE5gINF9voDs3Uz3mIp4N0WdtmbFBB7U9YA1q7gpvdg&__tn__=%3C%2CP-R",
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574777920478/?__cft__[0]=AZbRuVFsxJpYKVFtHABm6SDH7o3qnK9k__Nniuh6ZoGr2f2u3M5Q-hYO_VzEAIZr6Zxdj-DZ-kHJNa2llgDdRauR4F8NlKplC_GOretUNt7Xta6BaZVngXXqUsSQLG-TJmZlTXZ64b6d8LSka6_2NK4BL1Lc0cOJ-9_pWUxrVHvQsjLegpegCPwkMEOoa2oyX4w&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-15T21:00:03.035727+00:00",
+      "first_scraped_at": "2026-06-15T22:00:02.318547+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
