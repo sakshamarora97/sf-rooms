@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-15T06:06:14.741679",
-  "count": 434,
+  "updated_at": "2026-06-15T07:06:26.079089",
+  "count": 433,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -11550,35 +11550,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "559cab7f93308df6",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "long_term",
-      "rent": 1800,
-      "neighborhood": "FiDi",
-      "area": "San Francisco",
-      "available_from": "2026-07-01",
-      "available_until": "2027-01-31",
-      "unit_config": "1B1B",
-      "room_type": "entire_unit",
-      "is_furnished": true,
-      "roommates_count": 0,
-      "amenities": [
-        "in_unit_laundry",
-        "parking",
-        "AC",
-        "secured_entry"
-      ],
-      "utilities_included": true,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574777920478/?__cft__[0]=AZb5mvrEGvaXISLFsvsx8_qoo4d6q-R415cfNqRZgus6v62fMghWzuUyOqvSbIMh4z1dEHT_xz2rT2TZRMRTPebVbW1w5deoNHN-EsSB5lm1X9g5D2WJq5wQRTMb29cMtCavL_c_7_e8nHpu_e5aTOruhFpxDMB87DxQs0FZeVqB48PGr60PbMlEIgdob_I0j8E&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-15T13:00:01.711912+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "27191613803829250",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -11829,30 +11800,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
-      "listing_id": "cf67833e571e270d",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": null,
-      "rent": null,
-      "neighborhood": null,
-      "area": "San Francisco",
-      "available_from": null,
-      "available_until": null,
-      "unit_config": "1B1B",
-      "room_type": "entire_unit",
-      "is_furnished": true,
-      "roommates_count": 0,
-      "amenities": [],
-      "utilities_included": null,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100054447197720/?__cft__[0]=AZYv18Q-odZfu0ngog6pFWXyNv755X4tDD17bOLo-Ysj-fc82mr7ad0WtATrX9vM3TaH9YRe84RP08hBU1S33TUnwGbd4rUDWfFSjjPCEVXS4hzbwwfd6ht6ZVtTey8nGG4DTF_lvxFiv6esaJr7SmLqDOen9FKPxL4O7r_xipouZgoKYEcNQWZuAbg-IdcJ5Dw&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-15T13:00:01.711912+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "1929024271122479",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -11933,6 +11880,36 @@
       "posted_at": "Sunday 14 June 2026 at 21:19",
       "first_scraped_at": "2026-06-15T13:00:01.711912+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "77ebd574814cd062",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "FiDi",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": "2027-01-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "AC",
+        "heat",
+        "secured_building_entry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574777920478/?__cft__[0]=AZZ4QoDDjudWPjU1CbYv1vG5k0UCbOI4-bY4Nz6AyY0ogqmOgPQ5Hzsj41suIOWqW88NLGLKSVkCb_dTEvOlO3vcGmeIZmjZyzan2lMK5wpcNQR4825cGXiArb7Ho-SB64zGyn5Pko0qmar4mNQ__WrEpClw9sSo6IUwtwOPrDATHg2IPTW9bM3F2qouIFXrgG4&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-15T14:00:03.202244+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }

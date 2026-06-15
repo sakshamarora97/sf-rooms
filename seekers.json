@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-15T06:06:14.973536",
+  "updated_at": "2026-06-15T07:06:26.401885",
   "count": 788,
   "posts": [
     {
@@ -21217,36 +21217,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "05be60c39b46a4bb",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": 1100,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "3B",
-        "4B"
-      ],
-      "preferred_neighborhoods": [
-        "Livermore",
-        "Dublin",
-        "San Ramon",
-        "Danville"
-      ],
-      "area": "East Bay",
-      "furnished_required": null,
-      "group_size": null,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001433730517/?__cft__[0]=AZZbU7y6nZ7Ww5Rlaim70BCXblcXXDEOr49___9bl_fD9qqnYChvEeOMapPRZIyB9GizZwZC5CFg_gQkQWx6GijKDxtFzTYxg1LPSh85xO8OO116S9QmoF7NMBSCHj_DhPp_fk7DgNPPrGOMfT2LbuYOskqWkxffXi4oz6lCxcD_HQ9eB4aaOflQq_OIMIeZuuI&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-15T13:00:01.711912+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4617153018519702",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -21488,6 +21458,35 @@
       "posted_at": "Sunday 14 June 2026 at 20:58",
       "first_scraped_at": "2026-06-15T13:00:01.711912+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "0cb19c1cb2e9fb48",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1100,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Livermore",
+        "Dublin",
+        "San Ramon",
+        "Danville"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001433730517/?__cft__[0]=AZZ6tGbBFbc6BU3UBctcFga1KyL7Ms-IY6Cqr0m2OO9tcbgDRN3zptR1kC5aMGbt5bgTf0EIBj_kDabE6c98XxRIBPjpwmu3DPCLBmzZUKDATJirVVTOt8Mjqd2uADu01_SYFXgUNDeKdENynUE_T3WLdBxwODZmQhhajp7VoIVfn5mMIzEHEJ9nFoBZOOB4cg8&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-15T14:00:03.202244+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
