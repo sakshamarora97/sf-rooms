@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-15T11:06:10.537948",
-  "count": 793,
+  "updated_at": "2026-06-15T12:06:48.983992",
+  "count": 795,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -21485,28 +21485,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "7be6f3c1a78abe7b",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": "2026-08-01",
-      "move_out_date": null,
-      "budget_min": 1500,
-      "budget_max": 1800,
-      "unit_type_wanted": null,
-      "preferred_neighborhoods": [],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": "new_job",
-      "age": null,
-      "bio": "A big outdoors person who loves skiing, hiking, and biking. A big sports fan, pretty chill, likes going out on weekends, and spends a lot of time working. Very professional and clean.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100012248287390/?__cft__[0]=AZYh9UAGRZIJ-lu9DdKQBcrSrRnDTiEKs6UNPzNtdU1F-4bndvf3mC_nnKc7C9XeCbZwfGBh0zmNUS5AN5uN8wJHPgDjKCzyIDq-XNgzhP4YvKgaJvtwNfgPypjeUV7_3-oGBU6WLPej8v8FixheyTiy3-f-oIlqTfJKlMwR7Pb87QTgJlItmUa0pW4yxjSRAnc&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-15T18:00:03.018098+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4617812778453726",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -21615,6 +21593,85 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1928840937807479/?__cft__[0]=AZYzBtrLhHlgrbQK7JzFuuxy31OCzWtfIMvkqOELtqAZJxocHsDip87ci1JomzhOufVNzut56Qy_sjxwxhDiO4faS_D1TaHgQgISEiZEhijOxq43E7WNPt-JP5TuM_yqZLnxNWXpr1ofjPSMgwNVaduhi-omjdDgGJozb6YGmAVBv19YaTYrBGwOhpBLSmt6y0M&__tn__=%2CO%2CP-R",
       "posted_at": "Sunday 14 June 2026 at 20:08",
       "first_scraped_at": "2026-06-15T18:00:03.018098+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "44852e4ccbf15ea4",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B",
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Noe Valley",
+        "Bernal Heights",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 30,
+      "bio": "30-year-old who works on-site M\u2013F, loves trying new recipes, and likes staying active. Seeks roommates who are down to be friends and explore the city together.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1308969325/?__cft__[0]=AZY-7muCQWzyBGLYJjqgjXyz2nPZ_iQrZ68sYIiQRdhVDz4zlrxKxVRqGVLZS-YYpLC7D-wKEzdr_1Oxl2WVrZ0QEzqg7qDmmUup0A7SCj5NNUM3n2Oyd5kdCe8fY9Dw-_l_LVRG_frN8ZKocfU12KSKlgM8R0ZCzpgiFpCyFbouY8ErvM3oCV96ZS6an55rNnnhxgJtLyUesSzDPRp1A9jU&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-15T19:00:03.054132+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4617819125119758",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-08-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1800,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "A big outdoors person who loves skiing, hiking, and biking. A big sports fan, pretty chill, enjoys going out on weekends, spends a lot of time working, very professional and clean.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4617819125119758/?__cft__[0]=AZbXn5dmz8sg718IW0zjEInw-v_2OXQc74QtsUGHwhssys2iPNq8a9m4E9Z3eMssDhDV-_TIktAdS679Pcxt3SmoRTaCYnR0AMmnzwuT0ki0zcJTgXueQIzI3vxLfStGmGQ5dzMY-qs89xBx5e3qqefAQ1E5Sz3JhF2tArrCtwJjKAucaGxeE1PCOVitewaGYJU&__tn__=%2CO%2CP-R",
+      "posted_at": "Monday 15 June 2026 at 10:44",
+      "first_scraped_at": "2026-06-15T19:00:03.054132+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1929401781084728",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-08-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 26,
+      "bio": "They work in garden education and organic farming. They spend most of their free time hiking, watching movies, and going to wine bars. They keep a very clean room and communal space.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1929401781084728/?__cft__[0]=AZYfBKhnthNKP__Co3jWXR3qIzNIGrnUzaweAzqoHmnOqTnfcjdh8HNjxZ1DpaD1BOVUAxHgn8rqK9lzJ5FLTelAJdLJ9T28XjGf1zEa6lRPUumNkFGR8z5oKRH6pVi_9VUzzPGycxQv24xfHvyQzl_m2hlPzFGGC3EcayjYcUYmq8saDjtRj2xn0AF5tykzvAiJTvJlTm5W6a23qr9wRvYC&__tn__=%2CO%2CP-R",
+      "posted_at": "Monday 15 June 2026 at 11:25",
+      "first_scraped_at": "2026-06-15T19:00:03.054132+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
