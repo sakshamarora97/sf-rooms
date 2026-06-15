@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-15T13:06:53.239736",
+  "updated_at": "2026-06-15T14:06:36.137523",
   "count": 444,
   "posts": [
     {
@@ -12121,61 +12121,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "97d33370f33f15b2",
-      "post_type": "listing",
-      "listing_type": "room_rental",
-      "duration_type": null,
-      "rent": null,
-      "neighborhood": "Palo Alto",
-      "area": "The Peninsula",
-      "available_from": null,
-      "available_until": null,
-      "unit_config": null,
-      "room_type": "private_room",
-      "is_furnished": true,
-      "roommates_count": null,
-      "amenities": [
-        "parking"
-      ],
-      "utilities_included": true,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100011149715896/?__cft__[0]=AZZ3QsTs2Ezo0OiDt9lcOqESAyLzPJ56-mZlkID4z5YJx5zkjxiGb4-LthK7uZPRn5u7dBUgPdHirXvrqQZytZBlfTzy1natFzwjHLCPf9WLhAXe9wXojp2NN7Pl7wwt2V56Iehwo8qaZsgfDDSWPIu7BNcJBIkzE4ybH6N3TEXtmhGA9sYPY6VmMXNpQg9lsnbuxLMIDbexzzSJ4LUn3jNbQUMvRb7dofLlO5W-RxHFqg&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-15T20:00:02.567213+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
-      "listing_id": "f988947f41255015",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "short_term",
-      "rent": 1800,
-      "neighborhood": "FiDi",
-      "area": "San Francisco",
-      "available_from": "2026-07-01",
-      "available_until": "2027-01-31",
-      "unit_config": "1B1B",
-      "room_type": "entire_unit",
-      "is_furnished": true,
-      "roommates_count": 0,
-      "amenities": [
-        "in_unit_laundry",
-        "parking",
-        "AC",
-        "secured_entry"
-      ],
-      "utilities_included": true,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574777920478/?__cft__[0]=AZZufVeQLfuV5Xcb9f5Yqxz9Og02hPQ8Nq2DpEXgTsbEoL-xMHp9BpOvQaNIY4S0aldkGQ9z0SVfow-4Va2E0L10e8SwcVGRV1c-t-WUcfzO9CtiuEQLGUU-vqLYkB47Jgm1GYlKaXJkKWdh0rPV0NuAr9GAlX8WLBFZjFhL-JTSpeShqRK-x10QmjCvebRhjSY&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-15T20:00:02.567213+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
-    },
-    {
       "listing_id": "1929422774415962",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -12234,6 +12179,59 @@
       "posted_at": "Monday 15 June 2026 at 09:49",
       "first_scraped_at": "2026-06-15T20:00:02.567213+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4617922958442708",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Palo Alto",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4617922958442708/?__cft__[0]=AZaK2tlzt0xLLa9MRbL1lv8un0uK5YYSJ7gLCPq_GFjCwwZ9IKvBL2sm0MT__vQr9sUsRQQmD4eO2hut4GamVeSuGr_UFhBy-Bva0d4iG6YT2cfqFmOw_GQs3KbsbFi_o8V9GAQr7Z1YjKsdwDTw1G1P3D4t5dgoPFBDOz8ImXA03g5INxsFjpsouJyjpqGzIyjUYzWdHVH-3b6Qn6uIZdF7wlQ8wgwkPouQtG5CRHjwig&__tn__=%2CO%2CP-R",
+      "posted_at": "Monday 15 June 2026 at 12:59",
+      "first_scraped_at": "2026-06-15T21:00:03.035727+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2b63672374b5be10",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "FiDi",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": "2026-01-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "utilities_included",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/61574777920478/?__cft__[0]=AZZ321QlziK5hIE6pO-kP0Nvvj0f19BEjgd_-zH37Hu7uINCnGdUbXEFMfG_X7tJGxS2TiEEN4UQyyWJytozwRH8RV4FC3Np_QmwIfyGn1ai6BJQ72TfD7gppm2hKPqg6WVTtRX-7GSzSRqtFPpIIY31xE5gINF9voDs3Uz3mIp4N0WdtmbFBB7U9YA1q7gpvdg&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-15T21:00:03.035727+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }

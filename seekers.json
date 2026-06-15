@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-15T13:06:53.566616",
-  "count": 799,
+  "updated_at": "2026-06-15T14:06:36.462790",
+  "count": 800,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -21775,6 +21775,32 @@
       "posted_at": "Monday 15 June 2026 at 11:21",
       "first_scraped_at": "2026-06-15T20:00:02.567213+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "159215f038e02a6f",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-08-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "FiDi"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 28,
+      "bio": "A 28-year-old former restaurant owner relocating to San Francisco to pursue new opportunities. Active and training for the Santa Cruz 70.3 Ironman, enjoys trying new restaurants, grabbing drinks, dancing, and exploring the city. Clean, respectful, financially responsible, and looking for ambitious, active, and easygoing roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1690122850/?__cft__[0]=AZa0Ecgt7ZONi37z3qIaGDrL7WVBmWqld_RJBW4KIgblfyq1JcYFd6r8QilBzVIBQk6pSO2azCscrQnv6chh6_n0iHDxSQjT_kL-2RX6VfIcsTvHF3hKAwCkLGuHVfuVDZe6k39GCpWoOwVLNctYr0OSMJUYAM1sAefJ1JBdKTAxQ4EINALLIu_WF6PdxxczLCRRG-PduISrPy2GBcDUg37e&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-15T21:00:03.035727+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
