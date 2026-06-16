@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-16T08:04:53.183775",
-  "count": 829,
+  "updated_at": "2026-06-16T09:05:44.277170",
+  "count": 831,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -22582,7 +22582,65 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     },
     {
-      "listing_id": "22f1f1e8b5cb5821",
+      "listing_id": "27201753532815277",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-23",
+      "move_out_date": "2026-07-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Mission",
+        "Hayes Valley",
+        "Bernal Heights",
+        "Inner Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27201753532815277/?__cft__[0]=AZYcfpb4_2pvsTTQkJmFpxc4X4RtfNGEG3lXdtEujQhvE4imJrBMQtJ6X01tMm8_AHm_nd5WQQQSKxEXNPzG4oW4m54ZsmnN05Bmd7IjaIeZvqUNLNnD23rllae5seXBM0AkcT3Pt4f3OQECga52cI0bykoq2YKlTCELHehsoduXpaEqfu0Go-uDnD4dyjpIBmk&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 16 June 2026 at 07:52",
+      "first_scraped_at": "2026-06-16T16:00:02.472920+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1930104697681103",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1930104697681103/?comment_id=1930116211013285&__cft__[0]=AZbDn6WSYvB3vNeN7CidNl5PHsV8CnqSbI0QEiFAvqwwbd3YeNU02gzRgKhKrhunf8MBLB6x69PXGpshiPkLj0In5_WS1VxFqGKumkVuAfQPqaaUwSaXZWtdax58QdXZoMI1LzbDgobGFJdD6AuQY4ZGHc3vnBkuSkEn3W2-9xNP31O47yma9mH2AaageKegkA4&__tn__=R-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-16T16:00:02.472920+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1930004991024407",
       "post_type": "seeker",
       "duration_type": "long_term",
       "move_in_date": "2026-06-20",
@@ -22610,9 +22668,9 @@
       "reason": "relocation",
       "age": 27,
       "bio": "They are moving to San Francisco to build their AI biotech startup, which is going through an accelerator. They are clean, respectful, and easy to live with, and enjoy playing tennis and badminton, running, walking their dog, and cooking and baking.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100003045219639/?__cft__[0]=AZZOZp7H9lg7h44VHBrwfNO6LCIpilBGZZuNN8zcjxFQ6Ktca_dIii3EAMK3FZn61fPd4c-FkBmFxwECohZQ_qOhMTTEZlq5VZarBV2AFTwG8rJ617UW4tIjigI8Ldl2XJw-XRjnJZr091c-krYTs_JY9AJc_trT0aPRud2GzPtQk_2DrnSYLH806XR4YveUx0-BK3oyRcLxPtvXmGY6hLlX&__tn__=%3C%2CP-R",
-      "posted_at": null,
-      "first_scraped_at": "2026-06-16T15:00:02.297325+00:00",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1930004991024407/?__cft__[0]=AZYUOTuTw9W08NlAa0JWeBK5P1VT0aXKlzPfONigYUlkzuTRaVXBbhyfkHlMIMef6xzfZ7xPeN2ntnBv6YLOJh-phDgbW0D9wCF59VGfr8KeDIgFkMcjWIo46TWuopNKt0eFSBeRKV39GVzqIeEA-6_S8BslDQv3VDh0RCxOpYfLscn-A_7urt-N4dD8nT8mHFZlHOdsmmIiRb32HVQr8y9N&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 16 June 2026 at 05:53",
+      "first_scraped_at": "2026-06-16T16:00:02.472920+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
