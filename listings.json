@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-16T09:05:43.933591",
-  "count": 462,
+  "updated_at": "2026-06-16T10:06:04.676921",
+  "count": 463,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -12719,6 +12719,33 @@
       "posted_at": "Tuesday 16 June 2026 at 07:52",
       "first_scraped_at": "2026-06-16T15:00:02.297325+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1930147747676798",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2100,
+      "neighborhood": "Marina / Cow Hollow",
+      "area": "San Francisco",
+      "available_from": "2026-07-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1930147747676798/?__cft__[0]=AZaFL1MzZdfMlCum0FlZ2FVFV7OAfJCsBBW8ZdJjR_enhmcnOJmVNPIACJgOnMjnMg_Hv_0SiXTlig9t1kyBbHrV4F3xKOYC_x359u4uiTeItlbF1lwwzh62LmGlHW3c5V0y1uV73DN18W7MH5-EYlkfJsCPDy9C4ZF500_RQaIEVmUGN0ihWkHD3TbUUgDz2f_8imwZEEMG8sg_GK0nuE2A&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 16 June 2026 at 09:26",
+      "first_scraped_at": "2026-06-16T17:00:02.884187+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
