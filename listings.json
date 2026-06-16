@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-16T10:06:04.676921",
-  "count": 463,
+  "updated_at": "2026-06-16T11:04:19.878453",
+  "count": 464,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -12746,6 +12746,42 @@
       "posted_at": "Tuesday 16 June 2026 at 09:26",
       "first_scraped_at": "2026-06-16T17:00:02.884187+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "78c8dcf2e30106b4",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": "Bayfair",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "washer",
+        "dryer",
+        "balcony",
+        "kitchen",
+        "powder_room",
+        "kitchen_island",
+        "walk_in_pantry",
+        "communal_living_room",
+        "natural_lighting",
+        "luxury_vinyl_plank_flooring",
+        "solar_panels"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100013190535890/?__cft__[0]=AZb8HHdwLeMFvj5ScxKGi1u3Bw0I2Zj6xIDWlm5qH5seq9SFXeuMkv9lqWGPnW5XhAu0NkZkimZtva4JGKv_J8s_wX70k810Tifv-e3SFBZ9zsgjM84EHCgc2PddUkJeMHESmXv1uokXAPDLxBoIUbSh7VJFkV23xgdyuop-ssit0HMbiR91XunFQal5XAze4OfCX7I451oRa1EXbdMOxkAw&__tn__=%3C%2CP-R",
+      "posted_at": null,
+      "first_scraped_at": "2026-06-16T18:00:02.377778+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
