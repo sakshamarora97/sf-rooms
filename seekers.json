@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-06-16T07:03:35.637197",
-  "count": 825,
+  "updated_at": "2026-06-16T08:04:53.183775",
+  "count": 829,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -22471,7 +22471,118 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "b23a0157c0eb46e5",
+      "listing_id": "27207722988884998",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Nob Hill",
+        "Potrero Hill",
+        "Inner Sunset",
+        "Haight",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 25,
+      "bio": "She is a 25-year-old product designer in tech who also teaches Pilates. She enjoys spending time outdoors, trying new coffee shops and restaurants, and baking.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27207722988884998/?__cft__[0]=AZYrhotPJPdYpvDSUMbhT6qYYReBEbB7Hfl0e1eG-YCNnKcFRHBph-0JzKRa1k1ft49-pmVuj25dL4ZYoEqdbVqipoVtAOyfD0mzTKbuOmOMAXBPuvao5EpmRgasTupwOMkyENeL3LyEro8913aG-2a3B2Pmq0Y7Bk4d6s1qsP32yFlcGF726aXbXC3cy-AHAhc_IdkA0xlfRe3Rao5W_-3B&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 16 June 2026 at 07:54",
+      "first_scraped_at": "2026-06-16T15:00:02.297325+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27211398721850758",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Russian Hill",
+        "North Beach",
+        "Hayes Valley",
+        "Nob Hill",
+        "Duboce",
+        "Alamo Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "A 22-year-old software engineer who has been working in SF for 6 months. Enjoys the outdoors, driving to beaches or hikes around SF, and is originally from DC.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27211398721850758/?__cft__[0]=AZZX8FRLX1lfItR9eAUZy4kN8ZhTGbG8Y7sapwBPboSty6NJfBUzq75P_Tq2aEqcvZ30ayH5iOpGubxwexNjDL8Ygt3N71KmBoTTffivpOVWzqTnTq3fcHK-ZN2llRgPK1CxpgOHZL-KqtjOmgA8_hO2xLYw4XaCgDG2XCg4ELuZASy6mIm7XHpvUsLE-AtoN38NxIYzf85u2W2tL5LgSnPa&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 16 June 2026 at 07:52",
+      "first_scraped_at": "2026-06-16T15:00:02.297325+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27210343948622902",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-07-17",
+      "move_out_date": "2026-07-10",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27210343948622902/?__cft__[0]=AZbQe8d3uAFqNXEYpWHGNOBqRhy11VPVH-uQg5PqoYf-gJ5XsCb7tHbZVpbCEfQ2BqDhiyl9DauUeYUQ6m6c1LHqbjC6upD_p-Sh_BQvXTeHqHY0a4vdAGZgUAIA80NNjoAUao2V6z9Ug45INEMrtH1T_H_CcRhipEbas3PGGKilXtW3Z8zTG1n_Q8Ex2csxP7I&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 16 June 2026 at 07:52",
+      "first_scraped_at": "2026-06-16T15:00:02.297325+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27208441268813170",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-07-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27208441268813170/?__cft__[0]=AZYqdHdSS2g_Smga7EIodyl1AnzmKmHaUOrZF7w2AsZlxJexn8GX3M8YsSZX3Mm8p6MI74YoGWZIYq1l-0C3_zVIaoOiaI1TUEAdYE8JubMXtXNWsdQMHIsC7F1d-LxIxmj-lDLAP0Hw6exOlF4ki2fuqJZIkTF8Isi5AusZxcxp_uRA_x3stFdGb9EesK6KX_YT4XA1yrDwo-u__bpc0AU4&__tn__=%2CO%2CP-R",
+      "posted_at": "Tuesday 16 June 2026 at 07:52",
+      "first_scraped_at": "2026-06-16T15:00:02.297325+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "22f1f1e8b5cb5821",
       "post_type": "seeker",
       "duration_type": "long_term",
       "move_in_date": "2026-06-20",
@@ -22498,10 +22609,10 @@
       "has_pets": true,
       "reason": "relocation",
       "age": 27,
-      "bio": "A 27-year-old entrepreneur moving to San Francisco to build an AI biotech startup. Former UC Berkeley undergrad and UPenn med student, currently on leave. Enjoys playing tennis and badminton, running, walking a dog, cooking, and baking. Looking for easygoing and friendly housemates, preferably LGBTQ+-friendly.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100003045219639/?__cft__[0]=AZbbnVcwUXkjHTktZyjwMdBqjNQ4CXsLe5KgR9HLPoWpZ2Vl-uyWLCFPJWruyBGFR3e5ATwEWAeLgHTqDLiGruwaf-eW1x2R6sgYfct3iE29lC5kYrh_Fo7oAS1r83vPXwB4tXIbv8L4ND8ErOhQ0jybUB24U7DfCh9Vmhf_uH0Q3YFgV5ZrRMSaubV7szTpbCApKs2KgAxfGmOhIP9KOnJG&__tn__=%3C%2CP-R",
+      "bio": "They are moving to San Francisco to build their AI biotech startup, which is going through an accelerator. They are clean, respectful, and easy to live with, and enjoy playing tennis and badminton, running, walking their dog, and cooking and baking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100003045219639/?__cft__[0]=AZZOZp7H9lg7h44VHBrwfNO6LCIpilBGZZuNN8zcjxFQ6Ktca_dIii3EAMK3FZn61fPd4c-FkBmFxwECohZQ_qOhMTTEZlq5VZarBV2AFTwG8rJ617UW4tIjigI8Ldl2XJw-XRjnJZr091c-krYTs_JY9AJc_trT0aPRud2GzPtQk_2DrnSYLH806XR4YveUx0-BK3oyRcLxPtvXmGY6hLlX&__tn__=%3C%2CP-R",
       "posted_at": null,
-      "first_scraped_at": "2026-06-16T14:00:01.780912+00:00",
+      "first_scraped_at": "2026-06-16T15:00:02.297325+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
