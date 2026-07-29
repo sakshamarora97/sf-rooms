@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-29T13:09:51.042428",
-  "count": 948,
+  "updated_at": "2026-07-29T14:07:57.701251",
+  "count": 949,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -27415,6 +27415,36 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1966067187418187",
       "posted_at": "Wednesday 29 July 2026 at 11:18",
       "first_scraped_at": "2026-07-29T19:00:04.492417+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1966147404076832",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2000,
+      "neighborhood": "Palo Alto",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_house_laundry",
+        "shared_bathroom",
+        "parking",
+        "smoke_free",
+        "high_speed_internet"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1966147404076832",
+      "posted_at": "Wednesday 29 July 2026 at 13:46",
+      "first_scraped_at": "2026-07-29T21:00:06.391278+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
