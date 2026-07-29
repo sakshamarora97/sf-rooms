@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-29T10:05:38.498783",
-  "count": 939,
+  "updated_at": "2026-07-29T11:07:39.637017",
+  "count": 940,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -27150,6 +27150,41 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1965585307466375",
       "posted_at": "Tuesday 28 July 2026 at 23:19",
       "first_scraped_at": "2026-07-29T13:00:13.024911+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1966032900754949",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1969,
+      "neighborhood": "Downtown San Jose",
+      "area": "South Bay",
+      "available_from": "2026-08-18",
+      "available_until": "2027-07-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "internet_included",
+        "pool",
+        "gym",
+        "study_lounge",
+        "rooftop",
+        "resident_lounge",
+        "secure_key_fob_access",
+        "professional_management",
+        "near_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "The Grad San Jose",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1966032900754949",
+      "posted_at": "Wednesday 29 July 2026 at 10:26",
+      "first_scraped_at": "2026-07-29T18:00:01.611837+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
