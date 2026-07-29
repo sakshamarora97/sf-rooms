@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-28T21:06:49.561162",
-  "count": 931,
+  "updated_at": "2026-07-28T22:07:50.414056",
+  "count": 934,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -26908,6 +26908,93 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1965440660814173",
       "posted_at": "Tuesday 28 July 2026 at 19:22",
       "first_scraped_at": "2026-07-29T04:00:02.314903+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4662712723963731",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3000,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-08-25",
+      "available_until": "2026-10-25",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "outdoor_pool",
+        "jacuzzi",
+        "in_unit_laundry",
+        "dishwasher",
+        "parking",
+        "24h_security",
+        "high_speed_internet",
+        "blackout_curtains",
+        "noise_insulation"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4662712723963731",
+      "posted_at": "Tuesday 28 July 2026 at 21:09",
+      "first_scraped_at": "2026-07-29T05:00:04.546462+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1965533547471551",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4300,
+      "neighborhood": "Lower Haight",
+      "area": "San Francisco",
+      "available_from": "2026-08-01",
+      "available_until": "2026-08-31",
+      "unit_config": "2B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1965533547471551",
+      "posted_at": "Tuesday 28 July 2026 at 21:53",
+      "first_scraped_at": "2026-07-29T05:00:04.546462+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1965527950805444",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1800,
+      "neighborhood": "Noe Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "near_public_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1965527950805444",
+      "posted_at": "Tuesday 28 July 2026 at 21:44",
+      "first_scraped_at": "2026-07-29T05:00:04.546462+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
