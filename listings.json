@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-30T07:06:46.155272",
-  "count": 961,
+  "updated_at": "2026-07-30T08:06:00.881824",
+  "count": 962,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -27804,6 +27804,30 @@
       "posted_at": "Thursday 30 July 2026 at 06:53",
       "first_scraped_at": "2026-07-30T14:00:02.494003+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "27701259319531360",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Embarcadero",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2026-12-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27701259319531360",
+      "posted_at": "Thursday 30 July 2026 at 06:51",
+      "first_scraped_at": "2026-07-30T15:00:02.294815+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
