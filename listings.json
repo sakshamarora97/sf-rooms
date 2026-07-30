@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-29T17:07:51.758219",
-  "count": 949,
+  "updated_at": "2026-07-29T18:07:31.272795",
+  "count": 950,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -27446,6 +27446,39 @@
       "posted_at": "Wednesday 29 July 2026 at 13:46",
       "first_scraped_at": "2026-07-29T21:00:06.391278+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4663631270538543",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Berkeley / Marina Bay",
+      "area": "East Bay",
+      "available_from": "2026-08-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "laundry_in_building",
+        "street_parking",
+        "walkable_to_transit",
+        "pool",
+        "gym",
+        "bbq_area",
+        "basketball_court",
+        "near_stores_restaurants"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4663631270538543",
+      "posted_at": "Wednesday 29 July 2026 at 17:19",
+      "first_scraped_at": "2026-07-30T01:00:06.743041+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
