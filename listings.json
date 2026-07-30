@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-30T12:06:32.882949",
+  "updated_at": "2026-07-30T13:05:35.386855",
   "count": 965,
   "posts": [
     {
@@ -27890,30 +27890,31 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "a28e3742aaa42189",
+      "listing_id": "1966975923993980",
       "post_type": "listing",
-      "listing_type": "entire_unit",
-      "duration_type": null,
-      "rent": null,
-      "neighborhood": "South San Francisco",
-      "area": "The Peninsula",
-      "available_from": null,
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2000,
+      "neighborhood": "Union Square / Tenderloin",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
       "available_until": null,
-      "unit_config": "1B1B",
-      "room_type": "entire_unit",
+      "unit_config": "studio",
+      "room_type": "studio",
       "is_furnished": null,
-      "roommates_count": null,
+      "roommates_count": 0,
       "amenities": [
-        "top_floor"
+        "top_floor",
+        "secure_building"
       ],
-      "utilities_included": null,
+      "utilities_included": true,
       "pets_allowed": null,
-      "gender_preference": null,
+      "gender_preference": "female preferred",
       "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100008058100140",
-      "posted_at": null,
-      "first_scraped_at": "2026-07-30T19:00:05.704548+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1966975923993980",
+      "posted_at": "Thursday 30 July 2026 at 12:41",
+      "first_scraped_at": "2026-07-30T20:00:03.538837+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
