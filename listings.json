@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-30T09:05:15.238489",
-  "count": 962,
+  "updated_at": "2026-07-30T10:05:34.085842",
+  "count": 963,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -27828,6 +27828,34 @@
       "posted_at": "Thursday 30 July 2026 at 06:51",
       "first_scraped_at": "2026-07-30T15:00:02.294815+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1966855324006040",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "Silver Terrace/Bayview",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "stainless_steel_appliances",
+        "in_unit_laundry",
+        "renovated"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1966855324006040",
+      "posted_at": "Thursday 30 July 2026 at 09:29",
+      "first_scraped_at": "2026-07-30T17:00:02.070872+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
