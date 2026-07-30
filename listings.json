@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-30T11:05:42.666916",
-  "count": 964,
+  "updated_at": "2026-07-30T12:06:32.882949",
+  "count": 965,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -27887,6 +27887,32 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4664432613791742",
       "posted_at": "Thursday 30 July 2026 at 10:58",
       "first_scraped_at": "2026-07-30T18:00:05.888602+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "a28e3742aaa42189",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "top_floor"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100008058100140",
+      "posted_at": null,
+      "first_scraped_at": "2026-07-30T19:00:05.704548+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
