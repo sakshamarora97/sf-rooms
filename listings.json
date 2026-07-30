@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-29T22:07:27.825161",
-  "count": 956,
+  "updated_at": "2026-07-30T06:19:04.499581",
+  "count": 959,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -27643,6 +27643,95 @@
       "posted_at": "Wednesday 29 July 2026 at 20:24",
       "first_scraped_at": "2026-07-30T04:00:04.929309+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4663967520504918",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2730,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "parking",
+        "storage",
+        "new_appliances",
+        "top_floor",
+        "natural_light"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4663967520504918",
+      "posted_at": "Thursday 30 July 2026 at 01:25",
+      "first_scraped_at": "2026-07-30T13:12:26.464377+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1966465267378379",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1000,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "refrigerator",
+        "in_building_laundry",
+        "secure_building",
+        "shared_kitchen",
+        "trash_service"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1966465267378379",
+      "posted_at": "Wednesday 29 July 2026 at 23:41",
+      "first_scraped_at": "2026-07-30T13:12:26.464377+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1966423464049226",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2185,
+      "neighborhood": "Eureka Valley",
+      "area": "San Francisco",
+      "available_from": "2026-08-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "furnished_common_areas",
+        "shared_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1966423464049226",
+      "posted_at": "Wednesday 29 July 2026 at 22:28",
+      "first_scraped_at": "2026-07-30T13:12:26.464377+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
