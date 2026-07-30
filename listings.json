@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-07-30T15:06:30.188115",
-  "count": 970,
+  "updated_at": "2026-07-30T16:06:38.400608",
+  "count": 973,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -28051,6 +28051,90 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1967029597321946",
       "posted_at": "Thursday 30 July 2026 at 14:25",
       "first_scraped_at": "2026-07-30T22:00:02.242604+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4664621443772859",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1000,
+      "neighborhood": "Marina District",
+      "area": "San Francisco",
+      "available_from": "2026-08-10",
+      "available_until": "2026-08-27",
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "shared_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "male only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4664621443772859",
+      "posted_at": "Thursday 30 July 2026 at 15:29",
+      "first_scraped_at": "2026-07-30T23:00:04.159071+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1967069100651329",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1539,
+      "neighborhood": "Upper Haight",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "private_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1967069100651329",
+      "posted_at": "Thursday 30 July 2026 at 15:43",
+      "first_scraped_at": "2026-07-30T23:00:04.159071+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1967062210652018",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1673,
+      "neighborhood": "Inner Sunset / Cole Valley",
+      "area": "San Francisco",
+      "available_from": "2026-08-06",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "paid_on_site_laundry",
+        "storage",
+        "street_parking",
+        "near_transit",
+        "near_park"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1967062210652018",
+      "posted_at": "Thursday 30 July 2026 at 15:29",
+      "first_scraped_at": "2026-07-30T23:00:04.159071+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
