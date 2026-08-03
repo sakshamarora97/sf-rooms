@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-03T12:06:00.168637",
-  "count": 1029,
+  "updated_at": "2026-08-03T13:05:50.325995",
+  "count": 1030,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -29807,6 +29807,34 @@
       "posted_at": "Monday 3 August 2026 at 11:39",
       "first_scraped_at": "2026-08-03T19:00:04.940491+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4668760490025621",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Lower Pacific Heights / Japantown",
+      "area": "San Francisco",
+      "available_from": "2026-08-20",
+      "available_until": "2026-08-23",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "kitchen_equipped",
+        "luxury_managed_building",
+        "refundable_deposit_$100"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4668760490025621",
+      "posted_at": "Monday 3 August 2026 at 12:30",
+      "first_scraped_at": "2026-08-03T20:00:05.436811+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
