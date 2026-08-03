@@ -432,20 +432,31 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 14px;
+    flex-wrap: wrap;
+    gap: 6px;
     padding: 18px 0 4px;
   }
   .page-btn {
-    padding: 6px 14px;
+    padding: 6px 12px;
     border: 1px solid var(--border);
     border-radius: 6px;
     background: var(--surface);
     color: var(--text-2);
     font-size: 13px;
     cursor: pointer;
+    font-variant-numeric: tabular-nums;
   }
   .page-btn:hover:not(:disabled) { background: var(--surface-2); color: var(--text); }
   .page-btn:disabled { opacity: 0.4; cursor: default; }
+  .page-btn.page-num { min-width: 34px; padding: 6px 8px; text-align: center; }
+  .page-btn.page-num.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+    opacity: 1;
+    cursor: default;
+  }
+  .page-ellipsis { padding: 6px 4px; color: var(--text-4); font-size: 13px; }
   .page-info { font-size: 12px; color: var(--text-4); font-variant-numeric: tabular-nums; }
 
   /* Modal overlay */
@@ -934,11 +945,25 @@ let seekerSortCol = 'posted_at', seekerSortDir = -1;
 const PAGE_SIZE = 25;
 let listingsPage = 1, seekersPage = 1, spamPage = 1;
 
+function pageNumberList(page, totalPages) {
+  const delta = 2;
+  const range = [];
+  for (let i = Math.max(1, page - delta); i <= Math.min(totalPages, page + delta); i++) range.push(i);
+  if (range[0] > 1) { if (range[0] > 2) range.unshift('…'); range.unshift(1); }
+  if (range[range.length - 1] < totalPages) { if (range[range.length - 1] < totalPages - 1) range.push('…'); range.push(totalPages); }
+  return range;
+}
+
 function paginationHtml(page, totalPages, fnName) {
   if (totalPages <= 1) return '';
+  const numbers = pageNumberList(page, totalPages).map(n =>
+    n === '…'
+      ? `<span class="page-ellipsis">…</span>`
+      : `<button class="page-btn page-num ${n === page ? 'active' : ''}" ${n === page ? 'disabled' : ''} onclick="${fnName}(${n})">${n}</button>`
+  ).join('');
   return `
     <button class="page-btn" ${page<=1?'disabled':''} onclick="${fnName}(${page-1})">‹ Prev</button>
-    <span class="page-info">Page ${page} of ${totalPages}</span>
+    ${numbers}
     <button class="page-btn" ${page>=totalPages?'disabled':''} onclick="${fnName}(${page+1})">Next ›</button>`;
 }
 window.goListingsPage = function(n) { listingsPage = n; renderListings(); };
