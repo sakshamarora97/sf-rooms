@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-03T10:05:21.720416",
-  "count": 1024,
+  "updated_at": "2026-08-03T11:06:21.367406",
+  "count": 1027,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -29665,6 +29665,91 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1970288546996051",
       "posted_at": "Monday 3 August 2026 at 10:00",
       "first_scraped_at": "2026-08-03T17:00:01.920126+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1970325913658981",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1700,
+      "neighborhood": "Soma",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-06-30",
+      "unit_config": "1B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Mosso",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1970325913658981",
+      "posted_at": "Monday 3 August 2026 at 10:59",
+      "first_scraped_at": "2026-08-03T18:00:02.030029+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1970305480327691",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Sunnyvale",
+      "area": "South Bay",
+      "available_from": "2026-08-22",
+      "available_until": "2026-09-19",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "fully_furnished",
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1970305480327691",
+      "posted_at": "Monday 3 August 2026 at 10:27",
+      "first_scraped_at": "2026-08-03T18:00:02.030029+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1970296633661909",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-08-14",
+      "available_until": "2026-10-06",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "hardwood_floors",
+        "furnished",
+        "dishwasher",
+        "laundry_in_building",
+        "wifi",
+        "tv",
+        "desk"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1970296633661909",
+      "posted_at": "Monday 3 August 2026 at 10:13",
+      "first_scraped_at": "2026-08-03T18:00:02.030029+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
