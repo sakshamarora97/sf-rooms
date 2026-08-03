@@ -427,6 +427,27 @@
 
   .empty { padding: 60px 0; text-align: center; color: var(--text-4); font-size: 15px; }
 
+  /* Pagination */
+  .pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    padding: 18px 0 4px;
+  }
+  .page-btn {
+    padding: 6px 14px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--surface);
+    color: var(--text-2);
+    font-size: 13px;
+    cursor: pointer;
+  }
+  .page-btn:hover:not(:disabled) { background: var(--surface-2); color: var(--text); }
+  .page-btn:disabled { opacity: 0.4; cursor: default; }
+  .page-info { font-size: 12px; color: var(--text-4); font-variant-numeric: tabular-nums; }
+
   /* Modal overlay */
   .modal-overlay {
     position: fixed;
@@ -813,6 +834,7 @@
     </div>
     <div class="mobile-list" id="listings-mobile"></div>
     <div class="empty" id="listings-empty" style="display:none">No listings match your filters.</div>
+    <div class="pagination" id="listings-pagination"></div>
   </div>
 
   <div id="view-seekers" style="display:none">
@@ -840,11 +862,13 @@
     </div>
     <div class="mobile-list" id="seekers-mobile"></div>
     <div class="empty" id="seekers-empty" style="display:none">No seeker posts match your filters.</div>
+    <div class="pagination" id="seekers-pagination"></div>
   </div>
 
   <div id="view-spam" style="display:none">
     <div class="cards" id="spam-cards"></div>
     <div class="empty" id="spam-empty" style="display:none">No spam posts.</div>
+    <div class="pagination" id="spam-pagination"></div>
   </div>
 </div>
 
@@ -902,9 +926,24 @@ let userNotes     = new Map();   // Map<listing_id, body>
 
 // ── Data ──────────────────────────────────────────────────────────────────────
 const DATA_BASE = './';
-let allListings = [], allSeekers = [];
+let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
+
+// ── Pagination ────────────────────────────────────────────────────────────────
+const PAGE_SIZE = 25;
+let listingsPage = 1, seekersPage = 1, spamPage = 1;
+
+function paginationHtml(page, totalPages, fnName) {
+  if (totalPages <= 1) return '';
+  return `
+    <button class="page-btn" ${page<=1?'disabled':''} onclick="${fnName}(${page-1})">‹ Prev</button>
+    <span class="page-info">Page ${page} of ${totalPages}</span>
+    <button class="page-btn" ${page>=totalPages?'disabled':''} onclick="${fnName}(${page+1})">Next ›</button>`;
+}
+window.goListingsPage = function(n) { listingsPage = n; renderListings(); };
+window.goSeekersPage  = function(n) { seekersPage = n; renderSeekers(); };
+window.goSpamPage     = function(n) { spamPage = n; renderSpam(allSpam); };
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 const $ = id => document.getElementById(id);
@@ -1031,8 +1070,12 @@ function renderListings() {
     if (av < bv) return -sortDir; if (av > bv) return sortDir; return 0;
   });
 
+  const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
+  listingsPage = Math.min(Math.max(1, listingsPage), totalPages);
+  const pageRows = rows.slice((listingsPage - 1) * PAGE_SIZE, listingsPage * PAGE_SIZE);
+
   const tbody = $('listings-body');
-  tbody.innerHTML = rows.map(p => {
+  tbody.innerHTML = pageRows.map(p => {
     const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
     const availStr = p.available_from
       ? fmtDate(p.available_from) + (p.available_until ? '<span style="color:var(--text-4);margin:0 3px">→</span><span style="color:var(--text-3)">'+fmtDate(p.available_until)+'</span>' : '')
@@ -1064,7 +1107,7 @@ function renderListings() {
   $('listings-empty').style.display = rows.length ? 'none' : 'block';
   $('listings-table').style.display = rows.length ? '' : 'none';
 
-  $('listings-mobile').innerHTML = rows.map(p => {
+  $('listings-mobile').innerHTML = pageRows.map(p => {
     const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
     const availStr = p.available_from
       ? 'From ' + fmtDate(p.available_from) + (p.available_until ? ' → ' + fmtDate(p.available_until) : '')
@@ -1098,6 +1141,7 @@ function renderListings() {
   $('badge-listings').textContent = allListings.length;
   const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
   $('table-caption').textContent = `${rows.length} listings${updStr}`;
+  $('listings-pagination').innerHTML = paginationHtml(listingsPage, totalPages, 'goListingsPage');
 }
 
 document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
@@ -1106,16 +1150,18 @@ document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
     if (sortCol === col) sortDir *= -1; else { sortCol = col; sortDir = 1; }
     document.querySelectorAll('#listings-table th').forEach(t => t.classList.remove('sorted-asc','sorted-desc'));
     th.classList.add(sortDir===1?'sorted-asc':'sorted-desc');
+    listingsPage = 1;
     renderListings();
   });
 });
 
 ['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => {
-  $(id).addEventListener('input', renderListings);
-  $(id).addEventListener('change', renderListings);
+  $(id).addEventListener('input', () => { listingsPage = 1; renderListings(); });
+  $(id).addEventListener('change', () => { listingsPage = 1; renderListings(); });
 });
 $('clear-listing-filters').addEventListener('click', () => {
   ['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => $(id).value = '');
+  listingsPage = 1;
   renderListings();
 });
 
@@ -1160,7 +1206,12 @@ function renderSeekers() {
 
   $('badge-seekers').textContent = allSeekers.length;
 
-  $('seekers-mobile').innerHTML = rows.map(p => {
+  const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
+  seekersPage = Math.min(Math.max(1, seekersPage), totalPages);
+  const pageRows = rows.slice((seekersPage - 1) * PAGE_SIZE, seekersPage * PAGE_SIZE);
+  $('seekers-pagination').innerHTML = paginationHtml(seekersPage, totalPages, 'goSeekersPage');
+
+  $('seekers-mobile').innerHTML = pageRows.map(p => {
     const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
       : p.budget_max ? `≤$${p.budget_max.toLocaleString()}`
       : p.budget_min ? `$${p.budget_min.toLocaleString()}+` : '—';
@@ -1199,7 +1250,7 @@ function renderSeekers() {
   $('seekers-empty').style.display = 'none';
   $('seekers-table').style.display = '';
 
-  tbody.innerHTML = rows.map(p => {
+  tbody.innerHTML = pageRows.map(p => {
     const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
       : p.budget_max ? `≤$${p.budget_max.toLocaleString()}`
       : p.budget_min ? `$${p.budget_min.toLocaleString()}+` : '—';
@@ -1233,23 +1284,32 @@ document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
     if (seekerSortCol===col) seekerSortDir*=-1; else { seekerSortCol=col; seekerSortDir=1; }
     document.querySelectorAll('#seekers-table th').forEach(t=>t.classList.remove('sorted-asc','sorted-desc'));
     th.classList.add(seekerSortDir===1?'sorted-asc':'sorted-desc');
+    seekersPage = 1;
     renderSeekers();
   });
 });
 ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id => {
-  $(id).addEventListener('input', renderSeekers);
-  $(id).addEventListener('change', renderSeekers);
+  $(id).addEventListener('input', () => { seekersPage = 1; renderSeekers(); });
+  $(id).addEventListener('change', () => { seekersPage = 1; renderSeekers(); });
 });
 $('clear-seeker-filters').addEventListener('click', () => {
   ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id=>$(id).value='');
+  seekersPage = 1;
   renderSeekers();
 });
 
 // ── Spam ──────────────────────────────────────────────────────────────────────
 function renderSpam(posts) {
   $('badge-spam').textContent = posts.length;
-  if (!posts.length) { $('spam-empty').style.display='block'; return; }
-  $('spam-cards').innerHTML = posts.map((p,i) => `
+  if (!posts.length) { $('spam-empty').style.display='block'; $('spam-pagination').innerHTML=''; return; }
+  $('spam-empty').style.display='none';
+
+  const totalPages = Math.max(1, Math.ceil(posts.length / PAGE_SIZE));
+  spamPage = Math.min(Math.max(1, spamPage), totalPages);
+  const start = (spamPage - 1) * PAGE_SIZE;
+  const pagePosts = posts.slice(start, start + PAGE_SIZE);
+
+  $('spam-cards').innerHTML = pagePosts.map((p,i) => `
     <div class="card">
       <div class="card-header"><span class="card-date">${esc(fmtPostedAt(p.posted_at))}</span></div>
       <div class="card-text collapsed" id="spam-text-${i}">${esc(p.text||'')}</div>
@@ -1258,6 +1318,7 @@ function renderSpam(posts) {
         <a class="${p.post_url?.includes('/user/') ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(p.post_url)}" target="_blank" rel="noopener">${p.post_url?.includes('/user/') ? 'Profile →' : 'View →'}</a>
       </div>
     </div>`).join('');
+  $('spam-pagination').innerHTML = paginationHtml(spamPage, totalPages, 'goSpamPage');
 }
 window.toggleSpam = function(i) {
   const el = $('spam-text-'+i);
@@ -1474,11 +1535,12 @@ async function load() {
 
   allListings = lData.posts || [];
   allSeekers  = sData.posts || [];
+  allSpam     = spData.posts || [];
 
   _listingsLoaded = true;
   renderListings();
   renderSeekers();
-  renderSpam(spData.posts || []);
+  renderSpam(allSpam);
   console.log('[load] rendered');
 
   // Load bookmarks/tags in background — never blocks the initial render
@@ -1537,289 +1599,1020 @@ document.querySelectorAll('.table-wrap').forEach(setupScrollFade);
 </script>
 <!-- SEO_CONTENT_START -->
 <div aria-hidden="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap">
-<h2>San Francisco Housing Listings — Updated 2026-06-07</h2>
-<p>Browse 280 San Francisco room rentals, subleases, lease takeovers, and roommates from Facebook groups. Updated hourly.</p>
+<h2>San Francisco Housing Listings — Updated 2026-08-02</h2>
+<p>Browse 1011 San Francisco room rentals, subleases, lease takeovers, and roommates from Facebook groups. Updated hourly.</p>
 <ul>
-    <li>Cole Valley, sublease, short term, available 2026-06-04, 2B1B</li>
-    <li>$3,850/month, Mission, lease takeover, short term, available 2026-06-27, 1B1B</li>
-    <li>$3,000/month, Nob Hill, entire unit, long term, studio</li>
-    <li>$1,600/month, West Oakland, room rental, short term, available 2026-06-08, 4B2B</li>
-    <li>$2,853/month, Hayes Valley, lease takeover, long term, available 2026-06-01, 2B2B</li>
-    <li>$3,200/month, Rincon Hill, room rental, long term, available 2026-06-24, 2B2B</li>
-    <li>$2,000/month, Central Richmond, sublease, short term, available 2026-07-09, 2B1B</li>
-    <li>$1,500/month, Upper Haight, room rental, long term, 5B2B</li>
-    <li>$2,650/month, Mission, lease takeover, short term, 6B4B</li>
-    <li>$1,465/month, SoMa, room rental, long term, available 2026-06-14, 3B2B</li>
-    <li>$2,500/month, Civic Center, entire unit, long term, available 2026-06-29, studio</li>
-    <li>$2,100/month, SoMa, lease takeover, short term, 1B1B</li>
-    <li>$1,890/month, Foster City, lease takeover, short term, available 2026-06-01, 2B2B</li>
-    <li>$2,750/month, South Beach, room rental, long term, available 2026-06-14, 2B2B</li>
-    <li>$2,662/month, sublease, short term, available 2026-06-01, 1B1B</li>
-    <li>$1,000/month, Inner Sunset, room rental, long term</li>
-    <li>$1,800/month, Nob Hill, room rental, long term, available 2026-07-06, 2B</li>
-    <li>$2,800/month, sublease, short term, 1B1B</li>
-    <li>$1,800/month, San Mateo, room rental, long term, available 2026-06-01, 3B3B</li>
-    <li>$2,200/month, South San Francisco, room rental, long term, available 2026-06-27, 2B2B</li>
-    <li>$1,475/month, Hayes Valley, room rental, long term, available 2026-07-01, 2B</li>
-    <li>$1,170/month, Fremont, room rental, long term</li>
-    <li>$2,000/month, Hayes Valley, entire unit, long term, studio</li>
-    <li>$1,200/month, room rental, long term, available 2026-06-25</li>
-    <li>$1,500/month, Mission Terrace, sublease, short term, available 2026-06-24</li>
-    <li>$2,000/month, Nob Hill, sublease, long term</li>
-    <li>$2,500/month, Bernal Heights, room rental, long term, available 2026-07-01, 3B2B</li>
-    <li>Fort Mason, sublease, short term, available 2026-06-13, 2B</li>
-    <li>$3,300/month, Mission District, sublease, short term, available 2026-07-01, 1B1B</li>
-    <li>$2,000/month, Rincon Hill, sublease, long term</li>
-    <li>Millbrae, room rental, short term, available 2026-06-01, 3B2B</li>
-    <li>$2,400/month, Pac Heights, lease takeover, long term, available 2026-06-01, 2B1B</li>
-    <li>$1,450/month, Lower Pac Heights, room rental, long term, available 2026-07-01, 4B1.5B</li>
-    <li>$3,200/month, Cole Valley, sublease, short term, available 2026-07-09, 1B1B</li>
-    <li>SoMa, sublease, short term, 1B1B</li>
-    <li>$2,700/month, sunset district, sublease, short term, available 2026-05-01</li>
-    <li>$2,000/month, Rincon Hill, entire unit, long term</li>
+    <li>Cole Valley, San Francisco, sublease, short term, available 2026-06-04, 2B1B</li>
+    <li>$3,850/month, Mission, San Francisco, lease takeover, short term, available 2026-06-27, 1B1B</li>
+    <li>$3,000/month, Nob Hill, San Francisco, entire unit, long term, studio</li>
+    <li>$1,600/month, West Oakland, East Bay, sublease, short term, available 2026-06-08, 4B2B</li>
+    <li>$2,853/month, Hayes Valley, San Francisco, lease takeover, long term, available 2026-06-01, 2B2B</li>
+    <li>$3,200/month, Rincon Hill, San Francisco, room rental, long term, available 2026-06-24, 2B2B</li>
+    <li>$1,600/month, West Oakland, East Bay, room rental, short term, available 2026-06-08</li>
+    <li>$2,000/month, Central Richmond, San Francisco, sublease, short term, available 2026-07-09, 2B1B</li>
+    <li>$1,500/month, Upper Haight, San Francisco, room rental, long term, 5B2B</li>
+    <li>$2,650/month, Mission, San Francisco, lease takeover, short term, 6B4B</li>
+    <li>$1,465/month, SoMa, San Francisco, room rental, long term, available 2026-06-14, 3B2B</li>
+    <li>$2,500/month, Civic Center, San Francisco, entire unit, long term, available 2026-06-29, studio</li>
+    <li>$2,100/month, SoMa, San Francisco, lease takeover, short term, 1B1B</li>
+    <li>$1,890/month, Foster City, The Peninsula, lease takeover, short term, available 2026-06-01, 2B2B</li>
+    <li>$2,750/month, South Beach, San Francisco, room rental, long term, available 2026-06-14, 2B2B</li>
+    <li>$2,662/month, Oakland, East Bay, sublease, short term, available 2026-06-01, 1B1B</li>
+    <li>$1,000/month, Inner Sunset, San Francisco, room rental, long term</li>
+    <li>$1,800/month, Nob Hill, San Francisco, room rental, long term, available 2026-07-06, 2B1B</li>
+    <li>$2,800/month, Ritz-Carlton, San Francisco, sublease, short term, 1B1B</li>
+    <li>$1,800/month, San Mateo, The Peninsula, room rental, long term, available 2026-06-01, 3B3B</li>
+    <li>$2,200/month, South San Francisco, The Peninsula, room rental, long term, 2B2B</li>
+    <li>$1,475/month, Hayes Valley, San Francisco, room rental, long term, available 2026-07-01, 2B</li>
+    <li>$1,170/month, Fremont, East Bay, room rental, long term</li>
+    <li>$2,000/month, San Francisco, San Francisco, entire unit, long term, studio</li>
+    <li>$1,200/month, East Palo Alto, The Peninsula, room rental, long term, available 2026-06-25</li>
+    <li>$1,500/month, Mission Terrace, San Francisco, sublease, short term, available 2026-06-24</li>
+    <li>$2,000/month, Nob Hill, San Francisco, sublease, long term</li>
+    <li>$3,050/month, North Beach, San Francisco, room rental, long term, 2B2B</li>
+    <li>$2,500/month, Bernal Heights, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>Fort Mason, San Francisco, sublease, short term, available 2026-06-13, 2B</li>
+    <li>$3,300/month, Mission District, San Francisco, sublease, short term, available 2026-07-01, 1B1B</li>
+    <li>$2,000/month, San Francisco, San Francisco, sublease, long term</li>
+    <li>Millbrae, The Peninsula, sublease, short term, available 2026-06-01, 3B2B</li>
+    <li>$2,400/month, Pac Heights, San Francisco, lease takeover, long term, available 2026-06-01, 2B1B</li>
+    <li>$1,450/month, Lower Pac Heights, San Francisco, room rental, long term, available 2026-07-01, 4B1.5B</li>
+    <li>$3,200/month, Cole Valley, San Francisco, sublease, short term, available 2026-07-09, 1B1B</li>
+    <li>SoMa, San Francisco, sublease, short term, 1B1B</li>
+    <li>$2,700/month, sunset district, San Francisco, sublease, short term, available 2026-05-01, 2B</li>
+    <li>$2,000/month, Rincon Hill, San Francisco, entire unit, long term</li>
     <li>$1,200/month, entire unit, long term, 1B1B</li>
-    <li>$2,000/month, Embarcadero, sublease, long term</li>
-    <li>Marina Bay, sublease, 3B2.5B</li>
-    <li>sublease, short term, 2B1B</li>
-    <li>$2,500/month, Castro, sublease, short term, available 2026-06-01</li>
-    <li>sublease, short term, 2B1B</li>
-    <li>$3,200/month, Mission District, sublease, short term, available 2026-07-01, studio</li>
-    <li>$1,500/month, Noe Valley, room rental, long term, available 2026-07-01, 3B1B</li>
-    <li>$1,750/month, Lower Haight, sublease, short term, available 2026-06-18, 2B1B</li>
-    <li>$2,600/month, Bernal/ Mission, room rental, long term, available 2026-06-01</li>
-    <li>$1,200/month, room rental, long term, available 2026-07-02</li>
-    <li>$1,268/month, Balboa Park, room rental, long term, available 2026-08-01, 3B1.5B</li>
-    <li>$3,500/month, Richmond, room rental, short term, available 2026-06-01, 3B</li>
+    <li>$2,000/month, Embarcadero, San Francisco, sublease, long term</li>
+    <li>Marina Bay, East Bay, sublease, 3B2.5B</li>
+    <li>Berkeley, East Bay, sublease, short term, 2B1B</li>
+    <li>$2,500/month, Castro, San Francisco, sublease, short term, available 2026-06-01</li>
+    <li>Berkeley, East Bay, sublease, 2B1B, 2B1B, 1B1B</li>
+    <li>$3,200/month, Mission District, San Francisco, sublease, short term, available 2026-07-01, studio</li>
+    <li>$1,500/month, Noe Valley, San Francisco, room rental, long term, available 2026-07-01, 3B1B</li>
+    <li>$1,750/month, Lower Haight, San Francisco, sublease, short term, available 2026-06-18, 2B1B</li>
+    <li>$2,600/month, Bernal/ Mission, San Francisco, room rental, long term, available 2026-06-01</li>
+    <li>$1,200/month, East Palo Alto, The Peninsula, room rental, long term, available 2026-07-02</li>
+    <li>$1,268/month, Balboa Park, San Francisco, room rental, long term, available 2026-08-01, 3B1.5B</li>
+    <li>$3,500/month, Richmond, San Francisco, room rental, short term, available 2026-06-01, 3B</li>
     <li>room rental, 2B2B</li>
     <li>$1,400/month, sublease, 1B1B</li>
-    <li>$3,300/month, SOMA, room rental, long term, available 2026-07-01, 2B2B</li>
-    <li>$1,300/month, Ingleside, room rental, long term</li>
-    <li>$1,800/month, room rental</li>
-    <li>$900/month, SOMA, sublease, short term</li>
-    <li>$2,000/month, South SF, entire unit, long term, available 2026-07-01, 1B1B</li>
-    <li>$1,100/month, entire unit, long term, 1B1B</li>
-    <li>$3,400/month, Noe Valley, sublease, short term, available 2026-07-01, 3B2B</li>
-    <li>$1,300/month, Ingleside, room rental, long term, available 2026-06-01, 2B2B</li>
-    <li>$3,225/month, Rincon Hill, room rental, long term, available 2026-07-17, 2B2B</li>
-    <li>$3,500/month, Ingleside, entire unit, long term, 2B1.5B</li>
-    <li>$2,800/month, Redwood City, sublease, short term, available 2026-06-12, 1B1B</li>
-    <li>$2,000/month, Haights, room rental, long term, 3B2B</li>
-    <li>$3,250/month, Rincon Hill, sublease, long term, available 2026-07-01, 3B3B</li>
-    <li>$1,750/month, North Beach, room rental, short term, available 2026-07-01, 2B1B</li>
-    <li>$5,500/month, NOPA, entire unit, short term, available 2026-08-14, 2B2B</li>
-    <li>$900/month, Parkmerced, room rental, short term, available 2026-08-20</li>
-    <li>$1,500/month, SOMA, room rental, long term, 4B1.5B</li>
-    <li>$1,514/month, Ingleside Heights, room rental, long term, available 2026-07-01, 3B2B</li>
-    <li>$1,870/month, Pacific Heights, room rental, short term, available 2026-07-01</li>
-    <li>room rental, long term, available 2026-06-01, 2B2B</li>
-    <li>$1,800/month, Upper Noe, sublease, short term, available 2026-07-01, 3B</li>
-    <li>room rental, long term, 2B2B</li>
-    <li>$3,200/month, Parkside, sublease, short term, available 2026-06-01, studio</li>
-    <li>$4,600/month, entire unit, long term, 2B2B</li>
-    <li>$1,400/month, Outer Sunset, sublease, short term, available 2026-06-01, 2B1B</li>
-    <li>Hayes Valley, sublease, short term, studio</li>
-    <li>$2,202/month, Mission, room rental, long term, 4B3.5B</li>
-    <li>$1,650/month, Alamo Square, room rental, long term, available 2026-07-01, 3B2B</li>
-    <li>$2,400/month, Mission Bay, sublease, short term, available 2026-06-07, 2B2B</li>
-    <li>$1,380/month, Inner Sunset, room rental, long term, available 2026-06-01, 4B3B</li>
-    <li>$1,764/month, Lower Nob Hill, room rental, long term, available 2026-06-01, 3B2B</li>
-    <li>$1,500/month, Mission, sublease, short term, available 2026-07-01</li>
-    <li>$2,150/month, SOMA, room rental, long term, available 2026-08-04, 2B2B</li>
-    <li>$1,000/month, Lower Haight, sublease, short term, available 2026-06-01, 1B</li>
-    <li>$1,716/month, NOPA, room rental, long term, available 2026-07-01, 3B2B</li>
-    <li>$2,795/month, Inner Sunset, lease takeover, long term, available 2026-06-01, studio</li>
-    <li>$4,600/month, Hayes Valley, sublease, short term, available 2024-06-01, 1B1B</li>
-    <li>$1,600/month, sublease, short term, available 2026-06-01</li>
-    <li>$4,000/month, SSF/Daly City/Colma, room rental, long term, available 2026-08-01, 3B</li>
-    <li>$2,500/month, Hayes Valley, sublease, short term, available 2023-06-06</li>
-    <li>$2,600/month, Russian Hill, room rental, long term, available 2026-06-15, 3B2.5B</li>
-    <li>$1,600/month, Nob Hill, room rental, long term, available 2024-08-01, 2B1B</li>
-    <li>$2,150/month, Nob Hill, room rental, long term, 3B2B</li>
-    <li>$1,800/month, Nob Hill, sublease, short term, available 2026-06-03, 2B1B</li>
-    <li>$1,700/month, sublease, short term, 1B1B</li>
-    <li>$1,280/month, Sunset District, room rental, short term</li>
-    <li>$3,695/month, Pacific Heights, lease takeover, long term, available 2026-07-01, 1B1B</li>
-    <li>lease takeover, long term</li>
-    <li>$1,196/month, Sunset, room rental, long term, available 2026-07-01</li>
-    <li>$1,975/month, South San Francisco, sublease, short term, available 2026-07-15, 2B1B</li>
-    <li>$1,400/month, Duboce Triangle, room rental, long term, available 2026-07-01, 2B1B</li>
-    <li>$2,400/month, Inner Sunset, room rental, long term, 2B1B</li>
-    <li>$1,714/month, Nob Hill, sublease, short term, available 2026-07-01, 5B1.5B</li>
-    <li>$1,041/month, Point Richmond, room rental, long term, available 2026-07-01</li>
-    <li>$1,350/month, Outer Mission, room rental, long term, 4B2B</li>
-    <li>Outer Sunset, room rental</li>
-    <li>$1,609/month, Inner Richmond, lease takeover, long term, available 2026-07-01, 3B2B</li>
-    <li>room rental, short term, available 2026-07-01</li>
-    <li>$1,000/month, Oakland, room rental, long term, available 2026-07-01</li>
-    <li>$2,000/month, Rincon Hill, entire unit, long term</li>
-    <li>$2,000/month, Financial District, sublease, long term</li>
-    <li>$2,000/month, East Cut/South Financial District, entire unit, long term</li>
-    <li>$1,790/month, North Beach, sublease, long term, studio</li>
-    <li>$2,000/month, Hayes Valley, sublease, short term, available 2026-06-19, studio</li>
-    <li>entire unit, long term, 1B1B</li>
-    <li>$2,000/month, Financial District, sublease, long term</li>
-    <li>sublease, long term, 1B1B</li>
-    <li>$2,788/month, Downtown Oakland, lease takeover, long term, 1B1B</li>
-    <li>$1,800/month, Millbrae, room rental, long term, available 2026-06-01, 2B1B</li>
-    <li>sublease, short term, available 2026-06-01, 1B1B</li>
-    <li>$1,100/month, Outer Richmond, room rental, long term, available 2026-06-01, 4B2.5B</li>
-    <li>Hayes Valley, lease takeover, long term, available 2026-06-01, 2B2B</li>
-    <li>$1,300/month, Alamo Square, room rental, short term, available 2026-07-01, 4B1.5B</li>
-    <li>$2,300/month, Potrero Hill, room rental, long term, available 2026-07-01</li>
-    <li>South Hayward, entire unit, long term, available 2026-06-01, 3B3.5B</li>
-    <li>$2,000/month, SOMA, room rental, long term, 2B1B</li>
-    <li>$1,700/month, Richmond District, room rental, long term</li>
-    <li>$1,500/month, room rental, long term, available 2026-07-01</li>
-    <li>$2,150/month, SOMA, room rental, long term, available 2026-08-04, 2B2B</li>
+    <li>$3,300/month, SOMA / Hayes Valley, San Francisco, room rental, long term, available 2026-07-01, 2B2B</li>
+    <li>$1,300/month, Ingleside, San Francisco, room rental, long term</li>
+    <li>$1,800/month, Castro Valley, East Bay, room rental, long term</li>
+    <li>$900/month, SOMA, San Francisco, sublease, short term</li>
+    <li>$2,000/month, South SF, South Bay, entire unit, long term, available 2026-07-01, 1B1B</li>
+    <li>$1,100/month, San Francisco, San Francisco, entire unit, long term, 1B1B</li>
+    <li>$3,400/month, Noe Valley, San Francisco, sublease, short term, available 2026-07-01, 3B2B</li>
+    <li>$1,800/month, Dublin, East Bay, room rental, long term, available 2026-06-01, 2B2B</li>
+    <li>$1,300/month, Ingleside, San Francisco, room rental, long term, available 2026-06-01, 2B2B</li>
+    <li>$3,225/month, Rincon Hill, San Francisco, room rental, long term, available 2026-07-17, 2B2B</li>
+    <li>$3,500/month, Ingleside, San Francisco, entire unit, long term, 2B1.5B</li>
+    <li>$2,800/month, Redwood City, The Peninsula, sublease, short term, available 2026-06-12, 1B1B</li>
+    <li>$2,000/month, Haights, San Francisco, room rental, long term, 3B2B</li>
+    <li>$3,250/month, Rincon Hill, San Francisco, sublease, long term, available 2026-07-01, 3B3B</li>
+    <li>$1,750/month, North Beach, San Francisco, room rental, short term, available 2026-07-01, 2B1B</li>
+    <li>$5,500/month, NOPA, San Francisco, sublease, short term, available 2026-08-14, 2B2B</li>
+    <li>$900/month, Parkmerced, San Francisco, room rental, short term, available 2026-08-20</li>
+    <li>$1,500/month, SOMA, San Francisco, room rental, long term, 4B1.5B</li>
+    <li>$1,514/month, Ingleside Heights, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$1,870/month, Pacific Heights, San Francisco, room rental, short term, available 2026-07-01</li>
+    <li>Dublin, East Bay, room rental, long term, available 2026-06-01, 2B2B</li>
+    <li>$1,800/month, Upper Noe, San Francisco, sublease, short term, available 2026-07-01, 3B</li>
     <li>room rental, 2B2B</li>
-    <li>$3,000/month, Mission Bay, lease takeover, 2B2B</li>
-    <li>$1,100/month, South Side Berkeley, sublease, short term</li>
-    <li>$2,280/month, SOMA, lease takeover, long term, available 2026-07-01, 2B2B</li>
+    <li>$3,200/month, Parkside, San Francisco, sublease, short term, available 2026-06-01, studio</li>
+    <li>$4,600/month, San Carlos, The Peninsula, entire unit, long term, 2B2B</li>
+    <li>$1,400/month, Outer Sunset, San Francisco, sublease, short term, available 2026-06-01, 2B1B</li>
+    <li>Hayes Valley, San Francisco, sublease, short term, studio</li>
+    <li>$2,202/month, Mission, San Francisco, lease takeover, long term, 4B3.5B</li>
+    <li>$1,550/month, Alamo Square, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$2,400/month, Mission Bay, San Francisco, sublease, short term, available 2026-06-07, 2B2B</li>
+    <li>$1,380/month, Inner Sunset, San Francisco, room rental, long term, available 2026-06-01, 4B3B</li>
+    <li>$1,764/month, Lower Nob Hill, San Francisco, room rental, long term, available 2026-06-01, 3B2B</li>
+    <li>$1,500/month, Mission, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>$2,150/month, SOMA, San Francisco, room rental, long term, available 2026-08-04, 2B2B</li>
+    <li>$1,000/month, Lower Haight, San Francisco, sublease, short term, available 2026-06-01, 1B1B</li>
+    <li>$1,716/month, NOPA, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$2,795/month, Inner Sunset, San Francisco, lease takeover, long term, available 2026-06-01, studio</li>
+    <li>$4,600/month, Hayes Valley, San Francisco, sublease, short term, available 2026-06-01, 1B1B</li>
+    <li>$1,260/month, Pleasanton, East Bay, room rental, 1B1B</li>
+    <li>$1,600/month, Santa Clara, South Bay, sublease, short term</li>
+    <li>$4,000/month, SSF/Daly City/Colma, South Bay, room rental, long term, available 2026-08-01, 3B</li>
+    <li>$2,500/month, Hayes Valley, San Francisco, sublease, short term, available 2026-06-06</li>
+    <li>$2,600/month, Russian Hill, San Francisco, room rental, long term, available 2026-06-15, 3B2.5B</li>
+    <li>$1,600/month, Nob Hill, San Francisco, room rental, short term, available 2026-08-01, 2B1B</li>
+    <li>$2,150/month, Nob Hill, San Francisco, room rental, long term, 3B2B</li>
+    <li>$1,800/month, Nob Hill, San Francisco, sublease, short term, available 2026-06-03, 2B1B</li>
+    <li>$1,700/month, sublease, short term, available 2026-05-25, 1B1B</li>
+    <li>$1,280/month, Sunset District, San Francisco, room rental, short term</li>
+    <li>$3,695/month, Pacific Heights, San Francisco, lease takeover, long term, available 2026-07-01, 1B1B</li>
+    <li>lease takeover</li>
+    <li>$1,196/month, sunset, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>$1,975/month, South San Francisco, The Peninsula, sublease, short term, available 2026-07-15, 2B1B</li>
+    <li>$1,400/month, Duboce Triangle/Castro, San Francisco, room rental, long term, available 2026-07-01, 2B1B</li>
+    <li>$2,400/month, Inner / Central Sunset, San Francisco, room rental, long term, 2B1B</li>
+    <li>$1,714/month, Nob Hill, San Francisco, sublease, short term, available 2026-07-01, 5B1.5B</li>
+    <li>$1,041/month, Point Richmond, East Bay, room rental, long term, available 2026-07-01</li>
+    <li>$1,350/month, Outer Mission, San Francisco, room rental, long term, 4B2B</li>
+    <li>Outer Sunset, San Francisco, room rental</li>
+    <li>$1,609/month, Inner Richmond, San Francisco, lease takeover, long term, available 2026-07-01, 3B2B</li>
+    <li>room rental, short term, available 2026-07-01</li>
+    <li>$1,000/month, Oakland, East Bay, room rental, short term, available 2026-07-01</li>
+    <li>$2,000/month, Rincon Hill, San Francisco, entire unit, long term</li>
+    <li>$2,000/month, Financial District, San Francisco, sublease, long term</li>
+    <li>$2,000/month, East Cut/South Financial District, San Francisco, entire unit, long term</li>
+    <li>$1,790/month, North Beach, San Francisco, sublease, long term, studio</li>
+    <li>Hayes Valley / Civic Center, San Francisco, entire unit, short term, available 2026-06-19, studio</li>
+    <li>entire unit, long term, 1B1B</li>
+    <li>$2,000/month, Financial District, San Francisco, sublease, long term</li>
+    <li>sublease, long term, 1B1B</li>
+    <li>$2,788/month, Downtown Oakland, East Bay, lease takeover, long term, 1B1B</li>
+    <li>$1,800/month, Millbrae, The Peninsula, room rental, long term, available 2026-06-01, 2B1B</li>
+    <li>sublease, short term, available 2026-06-01, 1B1B</li>
+    <li>$1,100/month, Outer Richmond, San Francisco, room rental, long term, available 2026-06-01, 4B2.5B</li>
+    <li>Hayes Valley, San Francisco, lease takeover, long term, available 2026-06-01, 2B2B</li>
+    <li>$1,300/month, Alamo Square, San Francisco, room rental, long term, available 2026-07-01, 4B1.5B</li>
+    <li>$2,300/month, Potrero Hill, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>South Hayward, East Bay, entire unit, long term, available 2026-06-01, 3B3.5B</li>
+    <li>$2,000/month, SOMA, San Francisco, room rental, long term, 2B1B</li>
+    <li>$1,700/month, Richmond District, San Francisco, lease takeover, long term</li>
+    <li>$1,500/month, Oakland, East Bay, room rental, long term, available 2026-07-01</li>
+    <li>$2,150/month, SOMA, San Francisco, room rental, long term, available 2026-08-04, 2B2B</li>
+    <li>room rental, 2B2B</li>
+    <li>$3,000/month, Mission Bay, San Francisco, lease takeover, 2B2B</li>
+    <li>$1,100/month, South Side Berkeley, East Bay, sublease, short term</li>
+    <li>$2,280/month, SOMA/Hayes, San Francisco, lease takeover, long term, available 2026-07-01, 2B2B</li>
     <li>$1,400/month, entire unit, 1B1B</li>
-    <li>$1,975/month, Nob Hill, room rental, long term, available 2026-07-01</li>
-    <li>$1,500/month, Haight-Ashbury, room rental, long term, available 2026-09-01, 3B1.5B</li>
-    <li>$2,000/month, SoMa, sublease, long term</li>
-    <li>Treasure Island, room rental, long term, 3B1.5B</li>
-    <li>$1,400/month, lease takeover, long term, 4B3B</li>
-    <li>$2,250/month, Nob Hill, sublease, long term, 2B1B</li>
-    <li>$2,000/month, SOMA, sublease, long term</li>
+    <li>$1,975/month, Nob Hill, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>$1,500/month, Haight-Ashbury, San Francisco, room rental, long term, available 2026-09-01, 3B1.5B</li>
+    <li>$2,000/month, SoMa, San Francisco, sublease, long term</li>
+    <li>Treasure Island, San Francisco, room rental, long term, 3B1.5B</li>
+    <li>$1,400/month, San Jose, South Bay, room rental, long term, 4B3B</li>
+    <li>$2,250/month, Nob Hill, San Francisco, sublease, long term, 2B1B</li>
+    <li>$2,000/month, SOMA, San Francisco, sublease, long term</li>
     <li>$1,200/month, sublease, 1B1B</li>
-    <li>$2,000/month, Nob Hill, sublease, long term</li>
-    <li>$2,000/month, SOMA, entire unit, long term</li>
-    <li>$1,800/month, FiDi, sublease, long term, available 2026-06-15, 1B1B</li>
-    <li>room rental, short term, available 2026-06-15</li>
-    <li>$1,550/month, Outer Richmond, room rental, long term, available 2026-07-01, 2B1B</li>
-    <li>$2,300/month, SOMA, room rental, 2B2B</li>
+    <li>$2,000/month, Nob Hill, San Francisco, sublease, long term</li>
+    <li>$2,000/month, SOMA, San Francisco, entire unit, long term</li>
+    <li>$1,800/month, FiDi, San Francisco, sublease, long term, available 2026-06-15, 1B1B</li>
+    <li>Mountain View, The Peninsula, room rental, short term, available 2026-06-15</li>
+    <li>$1,550/month, Outer Richmond, San Francisco, room rental, long term, available 2026-07-01, 2B1B</li>
+    <li>$2,300/month, SOMA, San Francisco, room rental, 2B2B</li>
     <li>room rental, available 2026-06-01, 2B2B</li>
-    <li>$3,800/month, South Beach, sublease, short term, studio</li>
-    <li>$2,500/month, Pacific Heights, room rental, long term, available 2026-08-01, 3B2B</li>
-    <li>$1,075/month, Mission, sublease, short term, available 2026-07-01, 4B2B</li>
-    <li>$2,000/month, SOMA, sublease, short term, available 2026-07-01, 2B2B</li>
-    <li>$2,100/month, Lone Mountain, sublease, long term, studio</li>
-    <li>$2,797/month, Low Pac Heights, sublease, short term, 1B1B</li>
-    <li>$1,520/month, Diamond Heights, sublease, short term, available 2026-07-01, 3B2.5B</li>
-    <li>$1,580/month, San Mateo, room rental, long term</li>
-    <li>$1,900/month, Financial District, sublease, short term, studio</li>
-    <li>$2,000/month, SoMa, entire unit, long term</li>
-    <li>$2,000/month, Financial District, sublease, short term, studio</li>
-    <li>$1,800/month, Noe Valley, room rental, short term, 4B3B</li>
-    <li>$1,250/month, Daly City, room rental, long term</li>
-    <li>$1,575/month, Downtown Berkeley, sublease, short term, 2B2B</li>
-    <li>$2,800/month, Mission, room rental, long term, available 2026-07-01, 2B2B</li>
-    <li>$800/month, West Oakland, sublease, short term, available 2026-06-09, 3B1B</li>
-    <li>$1,400/month, Crocker Amazon, room rental, long term, 3B2B</li>
-    <li>$2,500/month, Pacific Heights, room rental, long term</li>
-    <li>$1,283/month, Outer Richmond, room rental, long term, available 2026-06-07, 3B2B</li>
-    <li>$1,850/month, Mission District, room rental, long term</li>
-    <li>$2,850/month, SOMA, room rental, long term, available 2026-07-10, 2B2B</li>
-    <li>$3,900/month, Rincon Hill, sublease, short term, available 2026-07-27, studio</li>
-    <li>$2,300/month, Nopa, sublease, short term, available 2026-07-01, studio</li>
-    <li>$1,500/month, Outer Richmond, room rental, short term, 5B4B</li>
-    <li>$1,750/month, Mission District, lease takeover, long term, available 2026-09-01, 3B2B</li>
-    <li>$1,250/month, Cole Valley, room rental, 4B1.5B</li>
-    <li>$2,050/month, Potrero Hill, entire unit, long term, 1B1B</li>
-    <li>$1,550/month, Cole Valley, room rental, long term, available 2026-07-01, 3B1B</li>
-    <li>$2,670/month, Pacific Heights, sublease, long term, available 2026-06-15</li>
-    <li>$1,925/month, Cow Hollow, room rental, long term, available 2026-07-01, 2B1B</li>
-    <li>room rental, long term, available 2026-07-01</li>
-    <li>$1,715/month, Mission District, room rental, long term, available 2026-08-01, 4B2B</li>
-    <li>Portola, room rental</li>
-    <li>$5,100/month, Mission, sublease, short term, available 2026-07-08, 2B2B</li>
-    <li>$1,375/month, Daly City, room rental, long term, available 2026-07-01, 2B1B</li>
-    <li>$1,200/month, Mission Bay, sublease, short term, available 2026-06-06, 2B2B</li>
-    <li>$3,150/month, Inner Sunset, sublease, short term, available 2026-08-01, 1B1B</li>
-    <li>$1,325/month, Inner Richmond, room rental, long term, available 2026-07-01, 4B2B</li>
-    <li>$1,035/month, Sunset / Parkside, room rental, long term, available 2026-06-22, 4B1B</li>
-    <li>$1,915/month, Cow Hollow, lease takeover, short term, available 2026-06-14, 4B1.5B</li>
-    <li>$1,650/month, Nob Hill, sublease, short term, 1B1B</li>
-    <li>Presidio, sublease, short term, available 2026-07-01</li>
-    <li>Outer Richmond, sublease, short term, available 2026-07-21, 1B1B</li>
-    <li>$2,700/month, Potrero Hill, room rental, long term, available 2026-07-01, 3B3B</li>
-    <li>$1,600/month, Haight-Ashbury, sublease, short term, available 2026-07-01</li>
-    <li>$1,800/month, Financial District, sublease, long term, available 2026-06-15, 1B1B</li>
-    <li>$1,700/month, room rental, long term, 2B2B</li>
-    <li>Rincon Hill, sublease, short term, available 2026-06-25, 1B1B</li>
-    <li>SOMA, sublease, short term, available 2026-07-01, 1B1B</li>
-    <li>$1,500/month, Mission, sublease, short term, available 2026-07-01, 4B2.5B</li>
-    <li>Haight-Ashbury, room rental</li>
-    <li>$2,000/month, Daly City, room rental, long term, available 2026-08-01, 2B1.5B</li>
-    <li>Pacific Heights, sublease, short term, available 2026-08-07, 1B1B</li>
-    <li>$1,625/month, Japantown, room rental, long term, available 2026-07-01, 3B2B</li>
-    <li>$2,300/month, SOMA, room rental, long term, 2B2B</li>
-    <li>$3,500/month, Pacific Heights, room rental, long term, 2B2B</li>
-    <li>$872/month, Bayside Village, sublease, short term, available 2026-06-18</li>
-    <li>$1,000/month, Central Richmond, sublease, short term, available 2026-07-01</li>
-    <li>Castro, sublease, short term, available 2026-06-11, 1B1B</li>
-    <li>$1,000/month, Central Richmond, room rental, long term, available 2026-07-01, 4B3.5B</li>
-    <li>$2,000/month, Haight Ashbury, room rental, available 2026-09-01, 3B2B</li>
-    <li>$1,850/month, Richmond District, room rental, long term</li>
-    <li>$1,800/month, Mission, room rental, long term, available 2026-08-01, 2B1B</li>
-    <li>$1,133/month, Daly City, sublease, short term, available 2026-08-01, 3B2B</li>
-    <li>$1,775/month, Pacific Heights, room rental, long term, available 2026-07-01, 4B2B</li>
-    <li>$2,300/month, Tenderloin, room rental, long term, available 2026-07-01, 2B2B</li>
-    <li>$2,500/month, Mission District, entire unit, short term, available 2026-07-05, 1B1B</li>
-    <li>$2,200/month, Potrero Hill, sublease, short term, available 2026-07-01, studio</li>
-    <li>$1,650/month, room rental, short term, available 2026-06-13</li>
-    <li>$1,750/month, Presidio, room rental, long term, available 2026-07-01, 3B</li>
-    <li>$2,000/month, Mission Bay, lease takeover, long term</li>
-    <li>$2,625/month, Upper Nob Hill, lease takeover, long term, available 2026-06-08, 2B2B</li>
-    <li>$2,275/month, Cow Hollow, sublease, long term, available 2026-07-01, 2B1B</li>
-    <li>$1,000/month, North Berkeley, sublease, short term</li>
-    <li>$1,300/month, Mission District, room rental, long term, available 2026-07-01, 3B</li>
-    <li>$1,250/month, near CCSF, room rental, long term, available 2026-06-16</li>
-    <li>$2,100/month, Panhandle, room rental, long term, available 2026-07-01, 2B1B</li>
-    <li>$2,500/month, Marina District, sublease, short term, available 2026-07-06</li>
-    <li>$1,950/month, Noe Valley, lease takeover, short term, 3B2B</li>
-    <li>$3,875/month, San Francisco, sublease, short term, available 2026-07-01, studio</li>
-    <li>$1,667/month, Mission/Noe, lease takeover, short term, available 2026-06-22, 3B1B</li>
-    <li>$1,000/month, North Berkeley, sublease, short term</li>
-    <li>$600/month, San Jose, sublease, short term</li>
-    <li>$1,639/month, Outer Sunset, room rental, short term, available 2026-07-01, 3B</li>
-    <li>$1,400/month, Irving, room rental, short term, available 2026-06-15</li>
-    <li>$1,650/month, Inner Sunset, room rental, long term, available 2026-07-01, 3B2B</li>
-    <li>$1,230/month, room rental, long term</li>
+    <li>$3,800/month, South Beach, San Francisco, sublease, short term, studio</li>
+    <li>$2,500/month, Pacific Heights, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$1,075/month, Mission, San Francisco, sublease, short term, available 2026-07-01, 4B2B</li>
+    <li>$2,000/month, SOMA, San Francisco, sublease, short term, available 2026-07-01, 2B2B</li>
+    <li>$2,100/month, Lone Mountain, San Francisco, sublease, long term, available 2026-08-15, studio</li>
+    <li>$2,797/month, Low Pac Heights, San Francisco, sublease, short term, 1B1B</li>
+    <li>$1,520/month, Diamond Heights / Glen Park, San Francisco, sublease, short term, available 2026-07-01, 3B2.5B</li>
+    <li>$1,580/month, San Mateo, The Peninsula, room rental, long term</li>
+    <li>$1,900/month, Financial District, San Francisco, sublease, short term, studio</li>
+    <li>$2,000/month, SoMa, San Francisco, entire unit, long term</li>
+    <li>$2,000/month, Financial District, San Francisco, sublease, short term, studio</li>
+    <li>$1,800/month, Noe Valley, San Francisco, room rental, short term, 4B3B</li>
+    <li>$1,250/month, Daly City, San Francisco, room rental, long term</li>
+    <li>$1,575/month, Downtown Berkeley, East Bay, sublease, short term, 2B2B</li>
+    <li>$2,800/month, Mission, San Francisco, room rental, long term, available 2026-07-01, 2B2B</li>
+    <li>$800/month, West Oakland, East Bay, sublease, short term, available 2026-06-09, 3B1B</li>
+    <li>$1,400/month, Crocker Amazon, San Francisco, room rental, long term, 3B2B</li>
+    <li>$2,500/month, Pacific Heights, San Francisco, room rental, long term</li>
+    <li>$1,283/month, Outer Richmond, San Francisco, room rental, long term, available 2026-06-07, 3B2B</li>
+    <li>$1,850/month, Mission District, San Francisco, room rental, long term</li>
+    <li>$2,850/month, SOMA, San Francisco, room rental, long term, available 2026-07-10, 2B2B</li>
+    <li>$3,900/month, Rincon Hill, San Francisco, sublease, short term, available 2026-07-27, studio</li>
+    <li>$2,300/month, Nopa, San Francisco, sublease, short term, available 2026-07-01, studio</li>
+    <li>$1,500/month, Outer Richmond, San Francisco, room rental, short term, 5B4B</li>
+    <li>$1,750/month, Mission District, San Francisco, lease takeover, long term, available 2026-09-01, 3B2B</li>
+    <li>$1,250/month, Cole Valley, San Francisco, room rental, 4B1.5B + 1B1B (in-law)</li>
+    <li>$2,050/month, Potrero Hill, San Francisco, entire unit, long term, 1B1B</li>
+    <li>$1,550/month, Cole Valley, San Francisco, room rental, long term, available 2026-07-01, 3B1B</li>
+    <li>$2,670/month, Pacific Heights, San Francisco, sublease, long term, available 2026-06-15</li>
+    <li>$1,925/month, Cow Hollow, San Francisco, room rental, long term, available 2026-07-01, 2B1B</li>
+    <li>SF, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>$1,715/month, Mission District, San Francisco, room rental, long term, available 2026-08-01, 4B2B</li>
+    <li>Portola, San Francisco, room rental</li>
+    <li>$5,100/month, Mission, San Francisco, sublease, short term, available 2026-07-08, 2B2B</li>
+    <li>$1,375/month, Daly City - Pacifica Views, The Peninsula, room rental, long term, available 2026-07-01, 2B1B</li>
+    <li>$1,200/month, Mission Bay / SoMa, San Francisco, sublease, short term, available 2026-06-06, 2B2B</li>
+    <li>$3,150/month, Inner Sunset, San Francisco, sublease, short term, available 2026-08-01, 1B1B</li>
+    <li>$1,325/month, Inner Richmond, San Francisco, room rental, long term, available 2026-07-01, 4B2B</li>
+    <li>$1,035/month, Sunset/Parkside, San Francisco, room rental, long term, available 2026-06-22</li>
+    <li>$1,915/month, Cow Hollow, San Francisco, lease takeover, short term, available 2026-06-14, 4B1.5B</li>
+    <li>$1,650/month, Nob Hill, San Francisco, sublease, short term, 1B1B</li>
+    <li>outer richmond, San Francisco, sublease, short term, available 2026-07-21, 1B1B</li>
+    <li>$2,700/month, Potrero Hill, San Francisco, room rental, long term, available 2026-07-01, 3B3B</li>
+    <li>$1,600/month, Haight-Ashbury, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>$1,800/month, Financial District, San Francisco, sublease, long term, available 2026-06-15, 1B1B</li>
+    <li>$1,700/month, Palo Alto, The Peninsula, room rental, long term, 2B2B</li>
+    <li>Rincon Hill, San Francisco, sublease, short term, available 2026-06-25, 1B1B</li>
+    <li>SoMa, San Francisco, sublease, short term, available 2026-07-01, 1B1B</li>
+    <li>$1,500/month, Mission, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>Haight-Ashbury, San Francisco, room rental</li>
+    <li>$2,000/month, Daly City, South Bay, room rental, long term, available 2026-08-01, 2B1.5B</li>
+    <li>Pacific Heights, San Francisco, sublease, short term, available 2026-08-07, 1B1B</li>
+    <li>$1,625/month, Japantown, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$2,300/month, SOMA, San Francisco, room rental, long term, 2B2B</li>
+    <li>$3,500/month, Pacific Heights, San Francisco, room rental, long term, 2B2B</li>
+    <li>$872/month, sublease, short term, available 2026-06-18</li>
+    <li>$1,000/month, 5th and Clement, San Francisco, sublease, short term</li>
+    <li>Castro, San Francisco, sublease, short term, available 2026-06-11, 1B1B</li>
+    <li>$1,000/month, Central Richmond, San Francisco, room rental, long term, available 2026-07-01, 4B3.5B</li>
+    <li>$2,000/month, Haight Ashbury, San Francisco, room rental, long term, available 2026-09-01, 3B2B</li>
+    <li>$1,850/month, Richmond District, San Francisco, room rental, long term</li>
+    <li>$1,800/month, Mission, San Francisco, room rental, long term, available 2026-08-01, 2B1B</li>
+    <li>$1,133/month, Daly City, San Francisco, sublease, short term, available 2026-08-01, 3B2B</li>
+    <li>$1,775/month, Pacific Heights, San Francisco, room rental, long term, available 2026-07-01, 4B2B</li>
+    <li>$2,300/month, Leavenworth, San Francisco, room rental, long term, available 2026-07-01, 2B2B</li>
+    <li>$2,500/month, Mission District, San Francisco, entire unit, short term, available 2026-07-05, 1B1B</li>
+    <li>$2,200/month, Potrero Hill, San Francisco, sublease, short term, available 2026-07-01, studio</li>
+    <li>$1,650/month, Redwood City, The Peninsula, room rental, short term, available 2026-06-13</li>
+    <li>$1,750/month, Presidio, San Francisco, room rental, long term, available 2026-07-01, 3B</li>
+    <li>$2,000/month, Mission Bay, San Francisco, lease takeover, long term</li>
+    <li>$2,625/month, Upper Nob Hill, San Francisco, lease takeover, long term, available 2026-06-08, 2B2B</li>
+    <li>$2,275/month, Cow Hollow, San Francisco, sublease, long term, available 2026-07-01, 2B1B</li>
+    <li>North Berkeley, East Bay, sublease, short term</li>
+    <li>$1,000/month, North Berkeley, East Bay, sublease, short term</li>
+    <li>$1,300/month, Mission District, San Francisco, room rental, long term, available 2026-07-01, 3B</li>
+    <li>$1,250/month, near CCSF, San Francisco, room rental, long term, available 2026-06-16</li>
+    <li>$2,100/month, Panhandle, San Francisco, sublease, long term, available 2026-07-01, 2B1B</li>
+    <li>$2,500/month, Marina District, San Francisco, sublease, short term, available 2026-07-06</li>
+    <li>$1,950/month, Noe Valley, San Francisco, lease takeover, short term, available 2026-07-05, 3B2B</li>
+    <li>$3,875/month, San Francisco, San Francisco, sublease, short term, available 2026-07-01, studio</li>
+    <li>$1,667/month, Mission / Noe Valley, San Francisco, lease takeover, long term, available 2026-06-22, 3B1B</li>
+    <li>$1,000/month, North Berkeley, East Bay, sublease, short term</li>
+    <li>$600/month, San Jose, South Bay, sublease, short term</li>
+    <li>$1,639/month, Outer Sunset, San Francisco, room rental, short term, available 2026-07-01, 3B</li>
+    <li>$1,400/month, Irving & 28th, San Francisco, sublease, short term, available 2026-06-15</li>
+    <li>$1,650/month, Inner Sunset, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$1,230/month, room rental, long term, studio</li>
     <li>$1,600/month, sublease, short term, 1B1B</li>
-    <li>$2,000/month, room rental, short term, available 2026-06-01</li>
-    <li>Piedmont Avenue, entire unit, long term, 2B1B</li>
-    <li>$3,250/month, Rincon Hill, sublease, long term, available 2026-07-01, 3B3B</li>
-    <li>Balboa Park, room rental</li>
+    <li>$2,750/month, Oakland, East Bay, entire unit, long term, 3B2B</li>
+    <li>$2,000/month, San Mateo, The Peninsula, sublease, short term, available 2026-06-01</li>
+    <li>Piedmont Avenue, East Bay, entire unit, long term, 2B1B</li>
+    <li>$3,250/month, Rincon Hill, San Francisco, sublease, long term, available 2026-07-01, 3B3B</li>
+    <li>Balboa Park, San Francisco, room rental</li>
     <li>$600/month, room rental, short term, available 2026-06-09, 1B</li>
-    <li>$1,300/month, Presidio, room rental, long term</li>
+    <li>$1,300/month, Presidio, San Francisco, room rental, long term</li>
     <li>sublease, short term, 1B1B</li>
     <li>sublease, long term, 1B1B</li>
-    <li>$2,700/month, SoMa, sublease, short term, 2B2B</li>
-    <li>Rincon Hill, sublease, short term, studio</li>
-    <li>$1,125/month, Balboa Park, room rental, long term, available 2026-07-01</li>
+    <li>$2,700/month, SoMa, San Francisco, sublease, short term, 2B2B</li>
+    <li>$3,900/month, Rincon Hill, San Francisco, sublease, short term, available 2026-07-27, studio</li>
+    <li>$1,125/month, Balboa Park, San Francisco, room rental, available 2026-07-01</li>
     <li>$1,325/month, room rental, long term, available 2026-06-01, 3B1B</li>
-    <li>$1,500/month, Belmont, lease takeover, long term, 2B2B</li>
-    <li>$4,200/month, Fremont, lease takeover, long term, 2B</li>
-    <li>$1,800/month, FiDi, sublease, long term, 1B1B</li>
-    <li>$4,600/month, Rincon Hill, sublease, short term, available 2026-07-07, 1B1B</li>
+    <li>$1,500/month, Belmont, The Peninsula, lease takeover, long term, 2B2B</li>
+    <li>$4,200/month, Fremont, East Bay, lease takeover, long term, 2B</li>
+    <li>$1,800/month, FiDi, San Francisco, sublease, long term, 1B1B</li>
+    <li>$4,600/month, Rincon Hill, San Francisco, sublease, short term, available 2026-07-07, 1B1B</li>
     <li>$1,800/month, sublease, short term, available 2026-06-01, 1B1B</li>
-    <li>$1,385/month, Parkmerced, room rental, long term, 2B2B</li>
-    <li>$1,700/month, Lower Pacific Heights, room rental, short term, available 2026-07-01, 2B1B</li>
-    <li>$1,700/month, Pleasanton, room rental, long term, available 2026-06-21, 2B2B</li>
-    <li>$650/month, The Beacon, sublease, short term, available 2026-06-18, 2B2B</li>
-    <li>$2,436/month, South San Francisco, room rental, long term, 2B2B</li>
-    <li>$1,800/month, Outer Richmond, room rental, long term, 3B2B</li>
-    <li>$2,160/month, San Bruno, room rental, long term, available 2026-06-13, 2B2B</li>
-    <li>$1,450/month, room rental, long term, available 2026-06-26, 2B1B</li>
-    <li>$3,600/month, Hayes Valley, sublease, short term, available 2026-07-01, 2B2B</li>
-    <li>$1,800/month, Ingleside, room rental, long term, 5B3B</li>
-    <li>$1,500/month, room rental, long term, 3B</li>
-    <li>$1,650/month, Dublin, room rental, long term, available 2026-06-01</li>
-    <li>$3,381/month, Potrero Hill, lease takeover, long term, available 2026-07-05, 1B1B</li>
-    <li>$1,600/month, Mission, room rental, long term, available 2026-07-01, 3B2B</li>
-    <li>Telegraph Hill, sublease, short term, 1B1B</li>
-    <li>$960/month, Mission District, room rental, long term, available 2026-07-01, 3B</li>
-    <li>$1,100/month, Daly City, room rental, long term</li>
+    <li>$1,385/month, Parkmerced, San Francisco, room rental, long term, 2B2B</li>
+    <li>$1,700/month, Lower Pacific Heights, San Francisco, room rental, short term, available 2026-07-01, 2B1B</li>
+    <li>$1,700/month, Pleasanton, East Bay, room rental, long term, available 2026-06-21, 2B2B</li>
+    <li>$650/month, The Beacon, San Francisco, sublease, short term, available 2026-06-18, 2B2B</li>
+    <li>$2,436/month, South San Francisco, The Peninsula, room rental, long term, 2B2B</li>
+    <li>$1,800/month, Outer Richmond, San Francisco, room rental, long term, 3B2B</li>
+    <li>$2,160/month, San Bruno, The Peninsula, room rental, long term, available 2026-06-13, 2B2B</li>
+    <li>$1,450/month, Athens St, San Francisco, San Francisco, room rental, long term, available 2026-06-26, 2B1B</li>
+    <li>$3,600/month, Hayes Valley, San Francisco, sublease, short term, available 2026-07-01, 2B2B</li>
+    <li>$1,800/month, Daly City, San Francisco, room rental, long term, 5B3B</li>
+    <li>$1,650/month, Dublin, East Bay, room rental, long term, available 2026-06-01</li>
+    <li>$3,381/month, Potrero Hill/Dogpatch, San Francisco, lease takeover, long term, available 2026-07-05, 1B1B</li>
+    <li>$1,600/month, Mission, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>Telegraph Hill, San Francisco, sublease, short term, 1B1B</li>
+    <li>$960/month, Mission District, San Francisco, room rental, long term, available 2026-07-01, 3B</li>
+    <li>$1,100/month, Daly City, The Peninsula, room rental, long term</li>
     <li>entire unit, long term, 1B1B</li>
-    <li>$4,000/month, Dogpatch, sublease, short term, 2B</li>
-    <li>$2,400/month, Lower Pacific Heights, sublease, long term, available 2026-08-01, 3B1B</li>
-    <li>$1,300/month, NOPA, room rental, long term, available 2026-07-01, 4B1.5B</li>
-    <li>$3,600/month, Hayes Valley, sublease, short term, available 2026-07-01, 2B2B</li>
-    <li>$1,700/month, Mission District, sublease, short term, available 2026-07-01, 3B1B</li>
-    <li>$1,309/month, Mission-Dolores, room rental, long term, available 2026-08-01, 4B1.5B</li>
+    <li>$4,000/month, Dogpatch, San Francisco, sublease, short term, 2B</li>
+    <li>$2,400/month, Lower Pacific Heights, San Francisco, sublease, long term, available 2026-08-01, 3B1B</li>
+    <li>$1,300/month, NOPA, San Francisco, room rental, long term, available 2026-07-01, 4B1.5B</li>
+    <li>$3,600/month, Hayes Valley, San Francisco, sublease, short term, available 2026-07-01, 2B2B</li>
+    <li>$1,700/month, Mission District, San Francisco, sublease, short term, available 2026-07-01, 3B1B</li>
+    <li>$1,309/month, Mission-Dolores, San Francisco, room rental, long term, available 2026-08-01, 4B1.5B</li>
+    <li>$1,780/month, Mission, San Francisco, lease takeover, long term, available 2026-07-01, 4B2B</li>
+    <li>Noe Valley, San Francisco, entire unit, available 2026-07-01, 1B1B</li>
+    <li>Outer Sunset, San Francisco, entire unit, long term, 2B1B</li>
+    <li>Nob Hill, San Francisco, sublease, short term, available 2026-06-17</li>
+    <li>$1,200/month, Excelsior, San Francisco, room rental, long term</li>
+    <li>$1,150/month, Lower Pacific Heights, San Francisco, room rental, short term</li>
+    <li>$1,300/month, North Oakland, East Bay, room rental, long term, 3B1.5B</li>
+    <li>$1,100/month, Maxwell Park, East Bay, room rental, long term, 2B1B</li>
+    <li>$2,264/month, Marina, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$3,000/month, SOMA, San Francisco, sublease, long term, available 2026-06-20, 2B2B</li>
+    <li>$1,400/month, Parkmerced, San Francisco, room rental, long term, available 2026-06-15, 2B2B</li>
+    <li>$2,800/month, South of Jack London sq. Oakland, East Bay, sublease, short term, available 2026-07-01, 1B1B</li>
+    <li>$2,000/month, South Beach, San Francisco, sublease, long term</li>
+    <li>$1,677/month, Inner Sunset, San Francisco, room rental, long term, available 2026-07-06, 3B1.5B</li>
+    <li>room rental, long term, available 2026-08-15</li>
+    <li>$1,200/month, Daly City, South Bay, room rental, long term, 3B2B</li>
+    <li>$3,500/month, Mission Bay, San Francisco, sublease, short term, available 2026-06-18, 1B1B</li>
+    <li>$1,350/month, Inner Richmond, San Francisco, sublease, short term, available 2026-06-25, 3B1.5B</li>
+    <li>$1,800/month, Mission District, San Francisco, lease takeover, long term, available 2026-09-01, 2B</li>
+    <li>$1,850/month, North Beach, San Francisco, room rental, long term, 2B1B</li>
+    <li>$1,800/month, FiDi / North Waterfront, San Francisco, sublease, short term, available 2026-06-15, 1B1B</li>
+    <li>$1,600/month, Sunset District, San Francisco, room rental, long term</li>
+    <li>$1,650/month, Hayes Valley, San Francisco, room rental, long term, available 2026-07-01, 3B</li>
+    <li>$2,100/month, Noe Valley, San Francisco, room rental, long term, available 2026-07-05, 3B2B</li>
+    <li>$2,000/month, Hayes Valley, San Francisco, sublease, short term, available 2026-07-04, studio</li>
+    <li>$1,700/month, SoMa, San Francisco, room rental, long term, available 2026-07-01, 1B1B</li>
+    <li>$4,800/month, Dogpatch, San Francisco, sublease, short term, 2B2B</li>
+    <li>$5,950/month, Russian Hill, San Francisco, sublease, short term, available 2026-06-29, 2B2B</li>
+    <li>$4,200/month, SoMa, San Francisco, sublease, short term, available 2026-07-01, 1B</li>
+    <li>$4,200/month, Financial District, San Francisco, sublease, long term, 1B1B</li>
+    <li>$1,800/month, sublease, short term, available 2026-06-01, 1B1B</li>
+    <li>$2,400/month, Lower Nob Hill, San Francisco, sublease, short term, available 2026-07-08, studio</li>
+    <li>$900/month, Inner Sunset, San Francisco, sublease, short term, available 2026-06-16, 3B</li>
+    <li>$1,950/month, Ingleside, San Francisco, room rental, long term, available 2026-07-12, 2B2B</li>
+    <li>$2,100/month, Nob Hill, San Francisco, room rental, long term, available 2026-07-01, 3B</li>
+    <li>$1,600/month, Daly City, San Francisco, room rental, short term, available 2026-07-01, 4B4B</li>
+    <li>$2,100/month, Russian Hill, San Francisco, room rental, long term, 2B1B</li>
+    <li>$2,000/month, NOPA / Lower Pacific Heights, San Francisco, room rental, long term, 6B4.5B</li>
+    <li>$1,170/month, Outer Sunset, San Francisco, room rental, long term, available 2026-08-01, 4B2B</li>
+    <li>South San Francisco, The Peninsula, room rental</li>
+    <li>Civic Center, San Francisco, sublease, short term, available 2026-06-14</li>
+    <li>$1,200/month, entire unit, long term, 1B1B</li>
+    <li>$3,000/month, Embarcadero, San Francisco, room rental, long term, 2B2B</li>
+    <li>$3,000/month, Embarcadero, San Francisco, room rental, long term, 2B2B</li>
+    <li>$1,650/month, North Beach, San Francisco, room rental, long term, available 2026-08-01, 2B1B</li>
+    <li>$1,200/month, entire unit, long term, 1B1B</li>
+    <li>$1,300/month, Presidio, San Francisco, room rental, long term, available 2026-07-01, 3B1B</li>
+    <li>Dublin/Pleasanton, East Bay, room rental, long term, available 2026-07-01, 2B2B</li>
+    <li>$1,700/month, Lower Pac Heights, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$1,200/month, Mission, San Francisco, lease takeover, long term, available 2026-08-01, 3B1B</li>
+    <li>$1,600/month, Glen Park, San Francisco, room rental, long term</li>
+    <li>Lower Pac Heights, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>SoMa, San Francisco, sublease, 1B1B</li>
+    <li>$810/month, Oakland, East Bay, room rental, long term, available 2026-07-01</li>
+    <li>$2,300/month, Mission, San Francisco, room rental, long term, available 2026-07-05, 5B3B</li>
+    <li>$2,000/month, Financial District/Rincon Hill, San Francisco, sublease, long term, 1B1B</li>
+    <li>$2,600/month, South Pacific Heights, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>SoMa, San Francisco, sublease, long term, available 2026-07-01, 2B2B</li>
+    <li>$2,000/month, Nob Hill, San Francisco, entire unit, long term</li>
+    <li>$2,500/month, Potrero Hill, San Francisco, sublease, short term, available 2026-06-14, 2B1B</li>
+    <li>$1,600/month, Hayes Valley, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>$1,950/month, Inner Sunset, San Francisco, room rental, long term, 2B1B</li>
+    <li>$1,400/month, Mission, San Francisco, room rental, long term, 3B2B</li>
+    <li>$3,456/month, Rincon Hill, San Francisco, room rental, long term, available 2026-06-30, 3B3B</li>
+    <li>$2,000/month, Mid-Market, San Francisco, entire unit, long term, 1B1B</li>
+    <li>$2,000/month, Rincon Hill, San Francisco, entire unit, long term</li>
+    <li>$1,580/month, Noe Valley, San Francisco, room rental, long term, available 2026-06-01, 3B2B</li>
+    <li>$3,100/month, South San Francisco, The Peninsula, lease takeover, long term, available 2026-07-01, 1B1B</li>
+    <li>$4,500/month, Russian Hill, San Francisco, sublease, short term, available 2026-06-18, 1B1B</li>
+    <li>Milpitas, South Bay, room rental, 3B</li>
+    <li>$2,350/month, Potrero Hill, San Francisco, room rental, long term, available 2026-07-15, 3B2B</li>
+    <li>$5,300/month, Fidi, San Francisco, lease takeover, long term, available 2026-07-01, 2B2B</li>
+    <li>$1,500/month, room rental, long term, 2B2B</li>
+    <li>$4,800/month, Milpitas, South Bay, entire unit, long term, available 2026-07-15, 2B2B</li>
+    <li>Nob Hill, San Francisco, room rental</li>
+    <li>Inner Richmond, San Francisco, room rental, long term, 3.5B1.5B</li>
+    <li>$3,930/month, Mission Bay, San Francisco, lease takeover, long term, available 2026-08-01, studio</li>
+    <li>Nob Hill, San Francisco, sublease, short term, available 2026-06-17</li>
+    <li>$3,250/month, South Beach, San Francisco, room rental, long term, available 2026-07-01, 2B2B</li>
+    <li>$1,500/month, Parkmerced, San Francisco, room rental, 2B2B</li>
+    <li>$1,050/month, Croker Park, San Francisco, room rental</li>
+    <li>$1,233/month, Richmond, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$1,609/month, Inner Richmond, San Francisco, lease takeover, long term, available 2026-07-01, 3B2B</li>
+    <li>$1,000/month, near SFSU, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>$1,050/month, Mission, San Francisco, entire unit, long term, studio</li>
+    <li>$1,250/month, Burlingame, The Peninsula, sublease, short term, 1B1B</li>
+    <li>$1,300/month, Russian Hill, San Francisco, room rental, short term</li>
+    <li>San Jose, South Bay, sublease, short term, available 2026-06-15, 1B1B</li>
+    <li>$1,675/month, Russian Hill, San Francisco, room rental, long term, available 2026-07-01, 4B1B</li>
+    <li>$1,600/month, Nob Hill, San Francisco, sublease, short term, 2B1B</li>
+    <li>$3,000/month, Nob Hill, San Francisco, lease takeover, short term, available 2026-06-15, studio</li>
+    <li>$2,000/month, Financial District, San Francisco, entire unit, long term</li>
+    <li>$2,200/month, North Beach, San Francisco, sublease, short term, available 2026-06-17, 4B2B</li>
+    <li>$1,300/month, NOPA, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>$2,300/month, Noe Valley, San Francisco, sublease, short term, available 2026-07-01, 4B3.5B</li>
+    <li>$1,700/month, Russian Hill, San Francisco, room rental, long term, 2B1B</li>
+    <li>$1,650/month, Mission District, San Francisco, lease takeover, long term, 4B3B</li>
+    <li>$2,650/month, San Rafael, North Bay, entire unit, long term, 1B2B</li>
+    <li>$1,300/month, Russian Hill, San Francisco, room rental, short term</li>
+    <li>$1,000/month, Bush St, San Francisco, entire unit, long term, studio</li>
+    <li>$2,100/month, Sunnyvale, The Peninsula, sublease, short term, available 2026-07-01, 2B2B</li>
+    <li>$1,200/month, South Hayward, East Bay, room rental, long term, available 2026-07-01, 4B3.5B</li>
+    <li>$2,000/month, Lower Nob Hill, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$950/month, East San Jose, South Bay, room rental, long term, available 2026-07-01, 6B2B</li>
+    <li>$1,975/month, Berkeley, East Bay, room rental, long term, available 2026-08-01, 2-room suite</li>
+    <li>room rental, long term, 2B2B</li>
+    <li>$2,000/month, Hayes Valley, San Francisco, room rental, long term, available 2026-06-21, 5B2B</li>
+    <li>$2,800/month, Castro/Corona Heights, San Francisco, sublease, short term, available 2026-07-01, 2B2B</li>
+    <li>$1,600/month, sublease, short term, 1B1B</li>
+    <li>$1,600/month, Rincon Hill, San Francisco, room rental, long term, available 2026-07-01, 3B</li>
+    <li>$2,900/month, Potrero Hill, San Francisco, lease takeover, long term, available 2026-07-03, studio</li>
+    <li>$2,500/month, Hayes Valley, San Francisco, room rental, long term, available 2026-07-29, 2B2B</li>
+    <li>$1,000/month, near SFSU, San Francisco, room rental, long term, available 2026-07-06, 3B2B</li>
+    <li>$2,500/month, Marina District, San Francisco, room rental, short term, available 2026-07-01, 2B1.5B</li>
+    <li>$1,625/month, Panhandle, San Francisco, sublease, short term, available 2026-07-01, 4B2B</li>
+    <li>$1,300/month, San Bruno, The Peninsula, sublease, short term, available 2026-07-27, 3B2B</li>
+    <li>$1,200/month, Upper Nob Hill, San Francisco, room rental, long term, available 2026-07-15, 4B1B</li>
+    <li>$1,500/month, SoMa, San Francisco, sublease, short term, available 2026-07-01, 2B2B</li>
+    <li>Dogpatch, San Francisco, sublease, short term, available 2026-07-11, studio</li>
+    <li>$1,800/month, Berkeley, East Bay, sublease, short term</li>
+    <li>$1,600/month, Nob Hill, San Francisco, room rental, short term</li>
+    <li>$2,500/month, Visitacion Valley, San Francisco, sublease, short term, available 2026-06-20, 4BR</li>
+    <li>$769/month, Downtown San Jose, South Bay, room rental, long term, available 2026-08-01, 2B2B</li>
+    <li>$2,000/month, Castro, San Francisco, room rental, long term, available 2026-08-01, 3B1B</li>
+    <li>$2,500/month, SoMa, San Francisco, sublease, short term, available 2026-07-01, 2B2B</li>
+    <li>$2,000/month, Financial District, San Francisco, sublease, long term, available 2026-06-20, studio</li>
+    <li>$1,600/month, Nob Hill, San Francisco, lease takeover, long term, 2B2B</li>
+    <li>$3,000/month, Marina District, San Francisco, room rental, long term, available 2026-06-20, 2B1B</li>
+    <li>$3,000/month, Glen Park, San Francisco, entire unit, long term, 2B1B</li>
+    <li>$1,350/month, Sausalito, North Bay, room rental, long term</li>
+    <li>$980/month, Upper Haight, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>$2,450/month, NoPa, San Francisco, room rental, long term, 6B2B</li>
+    <li>$990/month, Outer Richmond, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>$1,700/month, Castro/Twin Peaks, San Francisco, room rental, long term, available 2026-07-01, 4B2B</li>
+    <li>$2,700/month, Lower Nob Hill, San Francisco, sublease, long term, available 2026-08-01, studio</li>
+    <li>$1,350/month, Richmond District, San Francisco, room rental, long term, 5B3B</li>
+    <li>$3,900/month, Mission Bay, San Francisco, sublease, short term, available 2026-06-15, 2B2B</li>
+    <li>Nob Hill, San Francisco, sublease, short term, available 2026-06-16</li>
+    <li>sublease, short term, available 2026-06-22</li>
+    <li>$4,200/month, SoMA, San Francisco, sublease, short term, available 2026-07-01, 1B1B</li>
+    <li>$1,600/month, Sunset District, San Francisco, room rental, long term</li>
+    <li>$1,200/month, Lower Haight, San Francisco, room rental, long term</li>
+    <li>$1,300/month, Palo Alto, The Peninsula, room rental, 6B4B</li>
+    <li>$800/month, Castro, San Francisco, room rental, long term, 2B</li>
+    <li>$2,000/month, Rincon Hill, San Francisco, sublease, long term, 1B1B</li>
+    <li>$2,000/month, Nob Hill, San Francisco, sublease, long term</li>
+    <li>Twin Peaks, San Francisco, sublease, long term, 2B2B</li>
+    <li>$2,150/month, Glen Park, San Francisco, room rental, long term, available 2026-07-01, 2B2B</li>
+    <li>$2,200/month, Nob Hill, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$2,250/month, Nob Hill, San Francisco, sublease, short term, available 2026-07-01, 2B1B</li>
+    <li>$1,450/month, Outer Sunset, San Francisco, room rental, long term, available 2026-07-15, 3B1B</li>
+    <li>$2,300/month, Oakland, East Bay, entire unit, long term, 2B1B</li>
+    <li>$1,475/month, Nob Hill, San Francisco, sublease, short term, available 2026-07-01, 3B</li>
+    <li>$2,450/month, Mission, San Francisco, lease takeover, long term, available 2026-07-01, 3B2B</li>
+    <li>$1,900/month, San Francisco, San Francisco, sublease, long term, 1B1B</li>
+    <li>$2,250/month, Upper Nob Hill, San Francisco, sublease, short term, available 2026-07-01, 2B1B</li>
+    <li>$2,800/month, Dolores Park, San Francisco, sublease, short term, available 2026-08-01, 2B1.5B</li>
+    <li>$750/month, Chinatown, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>sublease, short term, available 2026-08-01</li>
+    <li>Mission Bay, San Francisco, sublease, short term</li>
+    <li>$2,500/month, Hayes Valley, San Francisco, sublease, short term, available 2026-06-26, 1500+ sqft apartment</li>
+    <li>Palo Alto, The Peninsula, room rental</li>
+    <li>$4,500/month, Hayes Valley, San Francisco, sublease, long term, available 2026-07-18, 1B1B</li>
+    <li>Mission Bay, San Francisco, sublease, short term, available 2026-08-10, Jr 1B1B</li>
+    <li>$3,500/month, Rincon Hill, San Francisco, room rental, long term, 2B2B</li>
+    <li>$3,100/month, North Beach, San Francisco, room rental, long term, 2B1B</li>
+    <li>$2,400/month, Bernal Heights, San Francisco, room rental, long term, 4B2B</li>
+    <li>$2,000/month, NOPA, San Francisco, room rental, long term, available 2026-08-01, 3B2.5B</li>
+    <li>$3,000/month, Lower Pacific Heights, San Francisco, room rental, long term, available 2026-07-01, 3B1B</li>
+    <li>Parmerced, San Francisco, room rental, long term</li>
+    <li>$1,616/month, Japantown, San Francisco, room rental, long term, 3B1B</li>
+    <li>$6,000/month, Mission Bay, San Francisco, sublease, 1B1B</li>
+    <li>$1,500/month, Walnut Creek, East Bay, room rental, long term, 3B2B</li>
+    <li>Inner Richmond, San Francisco, sublease, short term, available 2026-07-02, 2B1B</li>
+    <li>Lake Merritt, East Bay, sublease, short term, 1B2B</li>
+    <li>$2,000/month, Nob Hill, San Francisco, entire unit, long term</li>
+    <li>sublease, long term, 1B1B</li>
+    <li>$1,700/month, Nob Hill, San Francisco, sublease, long term, 1B1B</li>
+    <li>$1,200/month, Balboa Park, San Francisco, room rental, long term</li>
+    <li>San Francisco, San Francisco, entire unit</li>
+    <li>$1,975/month, Central Richmond, San Francisco, room rental, available 2026-07-01, 3B2B</li>
+    <li>$2,100/month, Marina / Cow Hollow, San Francisco, room rental, long term, available 2026-07-01, 2B1B</li>
+    <li>$1,250/month, Bayfair, East Bay, room rental, long term</li>
+    <li>$1,950/month, Lower Pacific Heights, San Francisco, sublease, short term, 2B2B</li>
+    <li>$2,520/month, Mission Bay, San Francisco, lease takeover, long term, available 2026-02-15, 2B2BA</li>
+    <li>$1,600/month, Mission, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$1,350/month, Mission District, San Francisco, sublease, available 2026-07-01, 4B2B</li>
+    <li>$1,540/month, Dogpatch, San Francisco, lease takeover, long term, available 2026-06-01, 2B1B</li>
+    <li>$3,695/month, Pacific Heights, San Francisco, lease takeover, available 2026-07-01, 1B1B</li>
+    <li>$1,275/month, Mission District, San Francisco, lease takeover, long term, 3B2B</li>
+    <li>$3,000/month, Pacific Heights, San Francisco, sublease, long term, 2B2B</li>
+    <li>$1,800/month, Portola, San Francisco, room rental, long term</li>
+    <li>Mission Bay, San Francisco, entire unit, short term, 1B1B</li>
+    <li>$1,500/month, Portola, San Francisco, room rental, long term</li>
+    <li>Inner Sunset, San Francisco, sublease, short term, available 2026-06-16, 4B2B</li>
+    <li>$1,300/month, Near San Francisco State University, San Francisco, room rental, long term</li>
+    <li>Potrero Hill, San Francisco, room rental</li>
+    <li>$1,150/month, Central Sunset, San Francisco, room rental, long term, available 2026-07-01, 4B3B</li>
+    <li>$1,400/month, South Hayward, East Bay, room rental, long term, 3B3B</li>
+    <li>Walnut Creek, East Bay, room rental</li>
+    <li>$3,000/month, Potrero Hill, San Francisco, room rental, short term, available 2026-06-01, 4B</li>
+    <li>$5,100/month, Mission District, San Francisco, entire unit, long term, available 2026-07-01, loft</li>
+    <li>$899/month, Union Square, San Francisco, lease takeover, short term, available 2026-07-01</li>
+    <li>$1,200/month, Richmond, East Bay, room rental, long term</li>
+    <li>$1,340/month, Inner Richmond, San Francisco, lease takeover, short term, 4B2B</li>
+    <li>$2,000/month, Nob Hill, San Francisco, sublease, long term</li>
+    <li>$497/month, Arballo Drive, San Francisco, San Francisco, room rental, available 2026-06-01</li>
+    <li>$1,200/month, Bernal Heights, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>$2,028/month, Alamo Square, San Francisco, room rental, long term, available 2026-06-01, 2B2B</li>
+    <li>$5,175/month, Rincon Hill, San Francisco, lease takeover, long term, available 2026-06-01, 2B2B</li>
+    <li>$1,143/month, Russian Hill, San Francisco, room rental, long term, 3B2B</li>
+    <li>$3,600/month, Hayes Valley, San Francisco, sublease, short term, 1B1B + den</li>
+    <li>San Francisco, San Francisco, room rental, 4B2B</li>
+    <li>room rental, available 2026-06-01</li>
+    <li>$1,380/month, Outer Sunset, San Francisco, room rental, long term</li>
+    <li>$3,779/month, Milpitas, South Bay, sublease, 2B2B</li>
+    <li>$1,164/month, Castro, San Francisco, room rental, long term, available 2026-06-01, 3B1.5B</li>
+    <li>$780/month, room rental, long term</li>
+    <li>$1,925/month, Mission District, San Francisco, room rental, long term, available 2026-05-11, 3B1B</li>
+    <li>$4,150/month, Russian Hill, San Francisco, sublease, short term, available 2026-05-14, 1B1B</li>
+    <li>$1,600/month, Nob Hill, San Francisco, sublease, short term, 4B1.5B</li>
+    <li>$2,000/month, Inner Richmond, San Francisco, room rental, long term, available 2026-05-14, 2BR</li>
+    <li>$1,550/month, Outer Richmond, San Francisco, room rental, long term, available 2026-07-01, 2B2B</li>
+    <li>$1,718/month, Inner Sunset, San Francisco, lease takeover, long term, available 2026-07-01, 3B2B</li>
+    <li>$1,700/month, Richmond District, San Francisco, lease takeover, available 2026-06-01, 2B</li>
+    <li>$1,900/month, Glen Park, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$3,000/month, NoPa, San Francisco, room rental, short term, available 2026-05-01</li>
+    <li>$1,727/month, Nob Hill, San Francisco, room rental, long term, available 2026-05-16, 4B2B</li>
+    <li>$1,600/month, Noe Valley, San Francisco, sublease, short term, available 2026-06-15, 3B</li>
+    <li>$4,000/month, Nob Hill, San Francisco, entire unit, short term, available 2026-05-24</li>
+    <li>$1,485/month, Marina, San Francisco, room rental, available 2026-06-01</li>
+    <li>$1,600/month, Lone Mountain / NoPa, San Francisco, sublease, short term, available 2026-06-10, 3B1B</li>
+    <li>Lower Haight, San Francisco, sublease, short term, available 2026-06-15, 4B2B</li>
+    <li>$2,300/month, Haight-Ashbury, San Francisco, lease takeover, long term, available 2026-07-01, 4B3B</li>
+    <li>$1,900/month, Hayes Valley, San Francisco, room rental, long term, 2B1B</li>
+    <li>$650/month, Miraloma Park, San Francisco, sublease, short term, available 2026-07-13, 4B1B</li>
+    <li>$2,400/month, SoMa, San Francisco, room rental, long term, 2B2B</li>
+    <li>Lower Pac Heights, San Francisco, room rental, 7B4B</li>
+    <li>$1,190/month, South San Francisco, The Peninsula, room rental, long term, available 2026-08-01, 3B</li>
+    <li>$1,000/month, Castro Valley, East Bay, room rental, long term, 3B1.5B</li>
+    <li>$1,500/month, Outer Sunset, San Francisco, sublease, long term, available 2026-07-15, 2BR</li>
+    <li>$1,300/month, Silver Terrace, San Francisco, lease takeover, long term, 3B2B</li>
+    <li>$1,150/month, Alamo Square, San Francisco, room rental, long term, available 2026-08-01, 3B1B</li>
+    <li>$3,200/month, Hayes Valley / SOMA, San Francisco, room rental, long term, available 2026-08-01, 2B2B</li>
+    <li>$2,100/month, Inner Richmond, San Francisco, room rental, long term, available 2026-08-01, 2B1B</li>
+    <li>$1,975/month, Rincon Hill, San Francisco, room rental, long term, 2B2B</li>
+    <li>$1,800/month, Mission District, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>Near USF, San Francisco, lease takeover, available 2026-08-01, 3B2B</li>
+    <li>$1,621/month, San Francisco, San Francisco, lease takeover, long term, 3B2B</li>
+    <li>$1,275/month, Sunset, San Francisco, room rental, long term</li>
+    <li>$2,500/month, SoMa, San Francisco, room rental, long term, available 2026-07-08, 1B1B</li>
+    <li>$1,462/month, Mission District, San Francisco, lease takeover, long term, available 2026-08-01, 6B3B</li>
+    <li>Lower Pac Heights, San Francisco, room rental, long term, available 2026-08-01, 7B4B</li>
+    <li>$2,775/month, SOMA, San Francisco, room rental, long term, available 2026-07-17, 2B1B</li>
+    <li>$3,675/month, Civic Center, San Francisco, lease takeover, long term, available 2026-09-01, studio</li>
+    <li>$1,585/month, Lower Haight, San Francisco, room rental, long term, 5B2B</li>
+    <li>$6,200/month, Potrero Hill, San Francisco, room rental, long term, available 2026-08-01, 3B1B</li>
+    <li>$1,900/month, Central Richmond, San Francisco, room rental, long term, 3B1.5B</li>
+    <li>$1,400/month, West Portal, San Francisco, room rental, long term, available 2026-08-15, 2B1B</li>
+    <li>$1,450/month, Potrero Hill, San Francisco, room rental, long term, 3B2B</li>
+    <li>$3,500/month, Ocean Beach, San Francisco, entire unit, short term, available 2026-08-01, 1B1B</li>
+    <li>$1,300/month, Mission, San Francisco, room rental, long term, available 2026-08-01, 3B1B</li>
+    <li>$1,345/month, Mission Dolores, San Francisco, room rental, long term, available 2026-08-01, 4BR/2BA</li>
+    <li>$1,850/month, Outer Richmond, San Francisco, room rental, long term, available 2026-08-01, 2B2B</li>
+    <li>$1,350/month, Outer Sunset, San Francisco, room rental, short term, available 2026-07-01, 2B1B</li>
+    <li>Cole Valley, San Francisco, sublease, short term, available 2026-07-26, 1B1B</li>
+    <li>$1,850/month, Nob Hill / Polk Gulch, San Francisco, room rental, long term, available 2026-08-15, 3B2.5B</li>
+    <li>Cow Hollow, San Francisco, sublease, short term, available 2026-07-09, 2B1B</li>
+    <li>$2,300/month, Alamo Square, San Francisco, lease takeover, available 2026-08-01, 2B1B</li>
+    <li>$1,320/month, Potrero Hill, San Francisco, room rental, long term, available 2026-08-01, 3B1.5B</li>
+    <li>$1,860/month, Cow Hollow, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$1,575/month, Nob Hill, San Francisco, sublease, short term, available 2026-08-01, 3B2B</li>
+    <li>$2,375/month, Pacific Heights, San Francisco, lease takeover, long term, 3BR</li>
+    <li>$1,550/month, room rental, long term, available 2026-08-01</li>
+    <li>$1,050/month, Embarcadero, San Francisco, room rental, available 2026-08-01</li>
+    <li>$1,440/month, Inner Richmond, San Francisco, room rental, long term, 3B</li>
+    <li>$1,250/month, Sunset / Parkside, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$1,300/month, Van Ness / Mission, San Francisco, room rental, long term, available 2026-08-01, 3B</li>
+    <li>$1,975/month, Berkeley Hills, East Bay, room rental, long term, 2B1B</li>
+    <li>$2,900/month, North Beach, San Francisco, lease takeover, long term, available 2026-08-01, 1B1B</li>
+    <li>$2,400/month, Sunset, San Francisco, sublease, long term, 4B4B</li>
+    <li>Daly City, The Peninsula, room rental, long term, available 2026-07-01</li>
+    <li>$2,150/month, Pacific Heights, San Francisco, lease takeover, long term, available 2026-07-01, 2B2B</li>
+    <li>$1,650/month, near CA-237 & I-880, South Bay, room rental, long term, available 2026-07-05, 2B2B</li>
+    <li>$1,600/month, Mission District, San Francisco, room rental, long term, 2B1B</li>
+    <li>San Francisco, San Francisco, room rental, short term</li>
+    <li>$1,950/month, Bernal Heights, San Francisco, sublease, long term</li>
+    <li>$1,250/month, Chinatown, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$1,550/month, Inner Richmond, San Francisco, room rental, long term, available 2026-08-01, 3B3B</li>
+    <li>$1,395/month, room rental, 5B3B</li>
+    <li>Noe Valley, San Francisco, room rental, long term, 2BR</li>
+    <li>$950/month, Central Richmond (19th & Balboa), San Francisco, room rental, long term, 5B3.5B</li>
+    <li>$2,700/month, Hayes Valley, San Francisco, lease takeover, long term, 2B2B</li>
+    <li>$1,600/month, Mission District, San Francisco, sublease, long term, available 2026-07-27, 3B1B</li>
+    <li>$2,350/month, Sunset District, San Francisco, entire unit, long term, studio</li>
+    <li>$1,200/month, Mission District, San Francisco, sublease, short term, available 2026-08-01, 4B</li>
+    <li>$3,550/month, Rincon Hill, San Francisco, room rental, long term, 2BR+den</li>
+    <li>$1,000/month, Sunset, San Francisco, room rental, long term</li>
+    <li>$2,800/month, SoMa, San Francisco, sublease, long term, studio</li>
+    <li>$1,565/month, Polk & California (near Lafayette Park), San Francisco, room rental, long term, 2B1B</li>
+    <li>$750/month, Bayside Village Place, San Francisco, sublease, short term, available 2026-07-08</li>
+    <li>$1,500/month, NOPA, San Francisco, room rental, long term</li>
+    <li>$1,270/month, Sunset District, San Francisco, room rental, long term, available 2026-07-26, 4B2B</li>
+    <li>North Beach, San Francisco, entire unit, short term, available 2026-08-04, 1B1B</li>
+    <li>$2,300/month, Nob Hill, San Francisco, room rental, long term, available 2026-08-01, 2B2B</li>
+    <li>$4,000/month, Rincon Hill, San Francisco, lease takeover, short term, available 2026-08-22</li>
+    <li>$1,000/month, Sunset District, San Francisco, room rental, long term</li>
+    <li>$1,759/month, Nob Hill, San Francisco, entire unit, 1B1B</li>
+    <li>$2,100/month, Mission, San Francisco, room rental, long term, available 2026-07-14</li>
+    <li>$1,800/month, Inner Richmond, San Francisco, room rental, long term, available 2026-07-15, 5B2B</li>
+    <li>$1,500/month, Sunset, San Francisco, entire unit, long term, 1B1B</li>
+    <li>Mission, San Francisco, sublease, short term, available 2026-07-12</li>
+    <li>Mountain View, South Bay, room rental, long term, available 2026-08-10, 3B2B</li>
+    <li>$1,450/month, Fort Mason, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$1,495/month, Nob Hill, San Francisco, room rental, long term, available 2026-08-01, 2B1B</li>
+    <li>$2,200/month, North Beach, San Francisco, room rental, long term, available 2026-08-03, 5B2B</li>
+    <li>$2,980/month, Mission District, San Francisco, lease takeover, long term, 1B1B</li>
+    <li>$1,950/month, Inner Sunset, San Francisco, room rental, long term, available 2026-08-01, 2B1B</li>
+    <li>$2,525/month, Design District, San Francisco, room rental, long term, available 2026-07-12, 2B2B</li>
+    <li>$1,140/month, Russian Hill, San Francisco, room rental, long term, 3B2B</li>
+    <li>$4,500/month, Cole Valley, San Francisco, sublease, short term, available 2026-07-16, 1B</li>
+    <li>$2,100/month, Fillmore Center, San Francisco, room rental, long term, available 2026-07-18, 2B2B</li>
+    <li>$1,425/month, Golden Gate Heights, San Francisco, room rental, 6B4B</li>
+    <li>$1,200/month, San Francisco, San Francisco, entire unit, 1B1B</li>
+    <li>$1,180/month, Mission, San Francisco, room rental, long term</li>
+    <li>$1,900/month, Castro, San Francisco, entire unit, long term, available 2026-07-01, studio</li>
+    <li>Emeryville, East Bay, room rental, long term, available 2026-07-01</li>
+    <li>$1,350/month, Mission District, San Francisco, room rental, long term, available 2026-07-01</li>
+    <li>$1,850/month, Japantown / Hayes Valley, San Francisco, room rental, available 2026-07-01, 3B2B</li>
+    <li>$2,000/month, West Portal, San Francisco, entire unit, studio</li>
+    <li>Telegraph Hill, San Francisco, entire unit, short term, 1B1B</li>
+    <li>$2,200/month, room rental</li>
+    <li>$1,875/month, Cole Valley, San Francisco, room rental, long term, 2B1B</li>
+    <li>$2,200/month, Mission, San Francisco, room rental, long term, available 2026-07-01, 3B2B</li>
+    <li>$1,500/month, Lower Pac Heights, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>$2,500/month, Russian Hill, San Francisco, lease takeover, long term, available 2026-07-01, 2B1B</li>
+    <li>$2,100/month, Pacific Heights, San Francisco, room rental, long term, available 2026-07-01, 4B1.5B</li>
+    <li>$1,400/month, NOPA, San Francisco, sublease, long term, available 2026-07-01, 3B1B</li>
+    <li>$1,720/month, Lower Haight, San Francisco, room rental, long term, available 2026-08-12, 2B1B</li>
+    <li>$1,150/month, Mission, San Francisco, room rental, short term, available 2026-08-01</li>
+    <li>$3,000/month, Russian Hill, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>Nob Hill, San Francisco, entire unit, short term, 1B1B</li>
+    <li>$2,500/month, South Pacific Heights, San Francisco, room rental, long term, available 2026-07-01, 2B2B</li>
+    <li>$1,200/month, Rose Garden, San Jose, South Bay, room rental, long term, available 2026-08-01, 3B3B</li>
+    <li>$1,700/month, Outer Sunset, San Francisco, lease takeover, long term, available 2026-07-01, studio</li>
+    <li>$1,900/month, Mission / Noe Valley, San Francisco, lease takeover, long term, available 2026-08-01, 4B2B</li>
+    <li>$1,590/month, Potrero Hill, San Francisco, room rental, long term, available 2026-08-01, 3.5B2B</li>
+    <li>$3,700/month, Lake Merritt, Oakland, East Bay, sublease, short term, 1B2B</li>
+    <li>$2,250/month, Hayes Valley, San Francisco, sublease, short term, available 2026-07-01, 2B2B</li>
+    <li>$2,000/month, North Beach, San Francisco, sublease, short term, available 2026-06-20, 1B1B</li>
+    <li>$2,450/month, Lake Merritt, East Bay, entire unit, long term, available 2026-06-22</li>
+    <li>$2,000/month, Hayes Valley, San Francisco, sublease, short term, 2B1B</li>
+    <li>$1,900/month, Haight Ashbury, San Francisco, room rental, long term, available 2026-08-01, 3B1B</li>
+    <li>$1,350/month, Outer Sunset, San Francisco, room rental, long term, 2B1B</li>
+    <li>$2,500/month, Lower Nob Hill, San Francisco, sublease, short term, available 2026-07-21, 2B1B</li>
+    <li>$2,675/month, NoPa, San Francisco, room rental, long term, available 2026-08-01, 4B3B</li>
+    <li>$1,900/month, Noe Valley, San Francisco, lease takeover, long term, available 2026-08-01, 2B1B</li>
+    <li>$2,750/month, Inner Sunset, San Francisco, entire unit, long term, studio</li>
+    <li>$2,300/month, Japantown, San Francisco, lease takeover, long term, available 2026-08-01, 2B2B</li>
+    <li>$2,739/month, Treasure Island, San Francisco, lease takeover, long term, studio</li>
+    <li>$1,700/month, Mission, San Francisco, room rental, long term, available 2026-08-01, 3B1B</li>
+    <li>$875/month, South San Francisco, The Peninsula, room rental, long term, available 2026-08-01, 4B3B</li>
+    <li>$1,300/month, Park Merced, San Francisco, sublease, long term, available 2026-08-22, 2B2B</li>
+    <li>$1,925/month, Potrero Hill, San Francisco, room rental, long term, available 2026-08-01, 2B1B</li>
+    <li>$1,750/month, South San Francisco, The Peninsula, lease takeover, long term, available 2026-08-15, 2B2B</li>
+    <li>$1,120/month, FiDi / Downtown / SoMa, San Francisco, room rental, long term, 2B2B</li>
+    <li>$1,850/month, Bernal Heights, San Francisco, room rental, long term, available 2026-08-01, 4B2B</li>
+    <li>$2,300/month, Sunset, San Francisco, room rental, long term, available 2026-08-01, 4B3.5B</li>
+    <li>$2,475/month, near University of San Francisco (USF), San Francisco, room rental, long term</li>
+    <li>$2,000/month, Outer Sunset, San Francisco, sublease, long term, available 2026-08-01, 2B1B</li>
+    <li>Marina District / Presidio / Cow Hollow, San Francisco, entire unit, long term, 1B1B</li>
+    <li>$2,100/month, Alamo Square, San Francisco, sublease, long term, available 2026-08-19, 3B2B</li>
+    <li>$1,700/month, Millbrae, The Peninsula, room rental, short term, available 2026-07-06, 2B2B</li>
+    <li>Castro, San Francisco, sublease, short term, available 2026-07-12, 1B1B</li>
+    <li>$3,900/month, Rincon Hill, San Francisco, sublease, short term, available 2026-08-01, studio</li>
+    <li>$1,150/month, Mission, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$1,600/month, sublease</li>
+    <li>$1,625/month, Burlingame, The Peninsula, room rental, long term, 3B2B</li>
+    <li>Japantown, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$2,093/month, Outer Mission, San Francisco, lease takeover, long term, available 2026-08-28, 2B1B</li>
+    <li>Inner Richmond (5th & Clement), San Francisco, room rental, short term, available 2026-07-03, 3B2B</li>
+    <li>$5,500/month, North Beach, San Francisco, sublease, long term, available 2026-09-01, 2B1B</li>
+    <li>$1,900/month, sublease, available 2026-07-01, 1B1B</li>
+    <li>$2,500/month, Bernal Heights, San Francisco, room rental, long term, 3B2B</li>
+    <li>$1,450/month, Inner Richmond, San Francisco, room rental, long term, available 2026-08-11</li>
+    <li>$880/month, Sunset, San Francisco, room rental, long term</li>
+    <li>$4,500/month, Cole Valley, San Francisco, sublease, short term, available 2026-07-16, 2B1B</li>
+    <li>Cole Valley, San Francisco, sublease, short term, available 2026-07-22</li>
+    <li>$1,150/month, Mission, San Francisco, room rental, short term, available 2026-08-01</li>
+    <li>$1,250/month, Presidio, San Francisco, lease takeover, long term, available 2026-07-10, 4B3B</li>
+    <li>$1,800/month, room rental, long term, available 2026-07-01, 4B2B</li>
+    <li>$2,600/month, Pacific Heights, San Francisco, room rental, long term, available 2026-08-01, 2B2B</li>
+    <li>$1,900/month, Golden Gate Park, San Francisco, room rental</li>
+    <li>lease takeover, 1B1B</li>
+    <li>lease takeover, 1B1B</li>
+    <li>$1,780/month, Outer Sunset, San Francisco, room rental, long term, 2B2B</li>
+    <li>$3,500/month, Mission, San Francisco, sublease, short term, 1B1B</li>
+    <li>$1,500/month, Ocean Beach, San Francisco, room rental, long term, 3B</li>
+    <li>$1,100/month, Marina, San Francisco, room rental, long term, 3B1B</li>
+    <li>$2,200/month, Hayes Valley, San Francisco, sublease, short term, available 2026-08-01, studio</li>
+    <li>$1,800/month, San Francisco, San Francisco, sublease, short term, available 2026-07-07, 3B2B</li>
+    <li>Inner Sunset, San Francisco, sublease, short term, available 2026-07-01, 3B2B</li>
+    <li>$2,500/month, SoMa, San Francisco, sublease, short term, available 2026-07-14, 2B2B</li>
+    <li>$3,000/month, NoPa/Alamo Square, San Francisco, sublease, short term, 1B1B</li>
+    <li>$1,000/month, Sunset District, San Francisco, room rental, long term</li>
+    <li>$1,050/month, Inner Richmond, San Francisco, room rental, available 2026-07-01, 3B1.5B</li>
+    <li>$1,287/month, NoPa/Alamo Square, San Francisco, room rental, long term, available 2026-06-19</li>
+    <li>Market and 5th, San Francisco, sublease, long term, available 2026-08-01, 2B1B</li>
+    <li>$1,270/month, Sunset District, San Francisco, room rental, long term</li>
+    <li>$1,300/month, Lower Pac Heights, San Francisco, room rental, long term, 4B2B</li>
+    <li>$1,500/month, Daly City, The Peninsula, room rental, long term</li>
+    <li>$1,600/month, Ingleside Terrace, San Francisco, room rental</li>
+    <li>$1,500/month, Stonestown, San Francisco, room rental, long term, available 2026-09-01</li>
+    <li>$3,000/month, Mission Creek, San Francisco, room rental, long term, available 2026-07-19, 2B2B</li>
+    <li>$1,500/month, Outer Mission / Excelsior, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$950/month, Dimond, Oakland, East Bay, room rental, long term, available 2026-08-01</li>
+    <li>$1,758/month, NoPa, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$2,484/month, Mission Bay, San Francisco, room rental, available 2026-08-22, 2B</li>
+    <li>$1,300/month, Daly City, The Peninsula, room rental, long term, 3B2B</li>
+    <li>$1,150/month, Mission, San Francisco, room rental</li>
+    <li>$1,470/month, Sunset/Parkside, San Francisco, sublease, long term, available 2026-08-01, 3B2.5B</li>
+    <li>Hayes Valley, San Francisco, room rental, long term</li>
+    <li>$1,800/month, Marina Bay, East Bay, sublease, 3B2.5B</li>
+    <li>$1,300/month, North Fort Scott (Presidio), San Francisco, room rental, available 2026-08-01, 4B2.5B</li>
+    <li>$3,500/month, SoMa, San Francisco, sublease, long term, 1B1B</li>
+    <li>$1,650/month, Japantown, San Francisco, sublease, long term, available 2026-08-02</li>
+    <li>$1,800/month, lease takeover, long term, 1B1B</li>
+    <li>$1,800/month, lease takeover, long term, 1B1B</li>
+    <li>$1,975/month, Merced Heights, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$2,000/month, San Francisco, San Francisco, sublease, short term, studio</li>
+    <li>$1,400/month, Nob Hill, San Francisco, room rental, available 2026-07-31</li>
+    <li>$2,500/month, Mission Bay, San Francisco, sublease, long term, 2B2.5B</li>
+    <li>$1,600/month, sublease, 1B1B</li>
+    <li>Mission Dolores (20th & Church), San Francisco, sublease, short term, available 2026-07-03, 1B1B</li>
+    <li>$1,750/month, Millbrae, The Peninsula, room rental, long term</li>
+    <li>$1,850/month, Inner Mission, San Francisco, room rental, long term</li>
+    <li>$3,600/month, Hayes Valley, San Francisco, sublease, short term, available 2026-07-16, 1B1B</li>
+    <li>$1,200/month, sublease, 1B1B</li>
+    <li>$1,090/month, Central Sunset (20th & Kirkham), San Francisco, room rental, long term, available 2026-08-01, 3B1B</li>
+    <li>$1,300/month, Dogpatch, San Francisco, room rental, long term, available 2026-08-01, 3B2.5B</li>
+    <li>$3,500/month, Lower Haight / Hayes Valley, San Francisco, sublease, short term, available 2026-07-01</li>
+    <li>$1,300/month, Mission, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$950/month, Richmond, East Bay, room rental, long term, 5B1.5B</li>
+    <li>$2,350/month, Millbrae, The Peninsula, room rental, long term</li>
+    <li>$1,900/month, Millbrae, The Peninsula, room rental, long term</li>
+    <li>$1,966/month, Millbrae, The Peninsula, room rental, 3B2B</li>
+    <li>$1,400/month, Glen Canyon / Diamond Heights, San Francisco, room rental, 3B2B</li>
+    <li>$2,600/month, Inner Richmond, San Francisco, room rental, long term, available 2026-09-01, 4B</li>
+    <li>$1,500/month, Outer Richmond, San Francisco, room rental, long term, available 2026-08-05</li>
+    <li>$3,100/month, SoMa, San Francisco, room rental, long term, available 2026-08-21, 2B2B</li>
+    <li>$1,234/month, Inner Richmond, San Francisco, room rental, long term, available 2026-09-01, 4B2B</li>
+    <li>$1,600/month, Parkside, San Francisco, room rental, 3B4B</li>
+    <li>$1,120/month, Ocean Ave / City College (Ingleside), San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$2,450/month, Mission District, San Francisco, sublease, long term, available 2026-08-01</li>
+    <li>$950/month, Nob Hill, San Francisco, room rental, long term, available 2026-08-01, 1B1B</li>
+    <li>$1,625/month, Central Richmond, San Francisco, room rental, long term, available 2026-07-18, 3BR</li>
+    <li>$1,400/month, Downtown Berkeley, East Bay, room rental, long term, 3B2B</li>
+    <li>$3,100/month, Marina, San Francisco, sublease, short term, available 2026-08-23, studio</li>
+    <li>$2,500/month, Rincon Hill, San Francisco, sublease, short term, available 2026-08-01, 2B2B</li>
+    <li>$1,500/month, Inner Richmond, San Francisco, room rental, long term, 2B1B</li>
+    <li>$860/month, San Francisco, San Francisco, room rental, long term, available 2026-08-01, 4B</li>
+    <li>$2,400/month, Inner Richmond, San Francisco, room rental, long term, available 2026-08-01, 4B2B</li>
+    <li>Levi's Plaza, San Francisco, sublease, short term, available 2026-07-26, 1B1B</li>
+    <li>$812/month, San Francisco, San Francisco, sublease, short term, available 2026-07-17, 3B2B</li>
+    <li>Lower Haight, San Francisco, room rental, short term</li>
+    <li>$1,186/month, San Mateo, The Peninsula, room rental, long term, available 2026-09-01, 3B2B</li>
+    <li>$1,400/month, Dubose Triangle, San Francisco, sublease, available 2026-08-01</li>
+    <li>$2,800/month, Mission Bay / Dogpatch, San Francisco, room rental, 2B2B</li>
+    <li>$2,300/month, Noe Valley, San Francisco, sublease, short term, available 2026-08-01, 2B1B</li>
+    <li>$1,578/month, Nob Hill, San Francisco, room rental, long term, available 2026-08-15, 3.5B2B</li>
+    <li>$1,150/month, Newark, East Bay, room rental, long term, 4B3.5B</li>
+    <li>$1,938/month, Downtown San Jose, South Bay, room rental, long term, available 2026-08-15, 2B2B</li>
+    <li>$1,200/month, Stonestown (near SFSU, Junipero Serra Blvd), San Francisco, room rental, long term, available 2026-08-01, 4B1B</li>
+    <li>$2,900/month, Marina, San Francisco, room rental, long term</li>
+    <li>$3,150/month, Mission Bay, San Francisco, room rental, long term, available 2026-09-18, 2B2B</li>
+    <li>Concord, East Bay, room rental</li>
+    <li>$1,300/month, Castro, San Francisco, sublease, short term, available 2026-08-16, 4B1B</li>
+    <li>Outer Sunset, San Francisco, room rental, short term</li>
+    <li>$1,350/month, North Berkeley, East Bay, room rental, 3B2B</li>
+    <li>$2,100/month, Rincon Hill, San Francisco, room rental, long term, available 2026-08-09, 2B2B</li>
+    <li>$1,700/month, South Hayward, East Bay, lease takeover, long term, 2B2B</li>
+    <li>$3,500/month, Fell and Central Ave, San Francisco, sublease</li>
+    <li>$1,300/month, Richmond District, San Francisco, room rental, long term, 2B1B</li>
+    <li>$2,800/month, Cow Hollow, San Francisco, room rental, short term, 2B1B</li>
+    <li>$2,300/month, Richmond District, San Francisco, room rental, long term, available 2026-08-01, 3B3.5B</li>
+    <li>$2,900/month, Potrero Hill, San Francisco, room rental, long term, available 2026-08-01, 2B2B</li>
+    <li>$1,100/month, St. Francis, Daly City, The Peninsula, room rental, long term, available 2026-08-01</li>
+    <li>$2,800/month, Mission Dolores, San Francisco, sublease, short term, available 2026-08-01, 2B1B</li>
+    <li>$3,500/month, Ocean Beach, San Francisco, entire unit, short term, available 2026-08-01, 1B1B</li>
+    <li>$1,495/month, Outer Richmond, San Francisco, room rental, long term, available 2026-08-17</li>
+    <li>$1,700/month, Montclair, East Bay, room rental, long term, available 2026-08-01, 3B2.5B</li>
+    <li>$864/month, Inner Sunset, San Francisco, sublease, long term, available 2026-09-01, 4B1B</li>
+    <li>$2,200/month, Nob Hill, San Francisco, room rental, long term, available 2026-08-10, 2B1B</li>
+    <li>$2,500/month, Mission, San Francisco, lease takeover, long term, 3B2B</li>
+    <li>Near San Francisco State University, San Francisco, room rental, 3B2B</li>
+    <li>Outer Sunset, San Francisco, sublease, long term, available 2026-08-01, 5B4B</li>
+    <li>$1,050/month, Bayshore, San Francisco, lease takeover, 3B2B</li>
+    <li>room rental</li>
+    <li>$1,400/month, Chinatown, San Francisco, room rental, available 2026-08-15</li>
+    <li>$1,900/month, Financial District, San Francisco, sublease, long term, available 2026-08-01, 1B1B</li>
+    <li>$1,450/month, San Francisco, San Francisco, room rental, 4B4B</li>
+    <li>$1,800/month, Embarcadero, San Francisco, sublease, long term, 1B1B</li>
+    <li>$2,150/month, Twin Peaks, San Francisco, room rental, long term, available 2026-10-01, 4B4B</li>
+    <li>$2,000/month, Rincon Hill, San Francisco, sublease, long term</li>
+    <li>$2,000/month, South Beach / Rincon Hill, San Francisco, sublease, long term</li>
+    <li>$1,550/month, Downtown San Jose, South Bay, room rental, long term, available 2026-08-01, 2B2B</li>
+    <li>$2,100/month, Oakland Hills (Broadway Terrace), East Bay, sublease, short term, available 2026-09-01</li>
+    <li>$1,500/month, San Francisco, San Francisco, room rental, long term</li>
+    <li>$1,870/month, Downtown, San Francisco, room rental, long term, available 2026-08-27, 2B2B</li>
+    <li>Union Square, San Francisco, room rental</li>
+    <li>$2,000/month, Inner Sunset, San Francisco, room rental, long term, available 2026-08-20, 2B2B</li>
+    <li>$2,065/month, Lower Pacific Heights, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$2,000/month, SoMa, San Francisco, sublease, long term</li>
+    <li>entire unit, long term, 1B1B</li>
+    <li>$800/month, San Francisco (2075 Sutter St, 94115), San Francisco, room rental, long term</li>
+    <li>$2,655/month, Mission, San Francisco, room rental, long term, available 2026-09-01, 6B5B</li>
+    <li>Embarcadero / North Waterfront, San Francisco, sublease, long term, available 2026-08-01, 1B1B</li>
+    <li>Nob Hill, San Francisco, entire unit, short term, 1B1B</li>
+    <li>$1,300/month, South Hayward, East Bay, room rental, long term, 4B3.5B</li>
+    <li>$1,120/month, SFSU, San Francisco, room rental</li>
+    <li>$1,420/month, Inner Richmond, San Francisco, room rental, long term, available 2026-08-15, 3B2B</li>
+    <li>$1,950/month, San Bruno, The Peninsula, room rental, long term, available 2026-08-20, 2B2B</li>
+    <li>$1,180/month, Mission District, San Francisco, room rental, long term</li>
+    <li>$1,019/month, Bernal Heights, San Francisco, room rental, long term, available 2026-08-04, 4B2B</li>
+    <li>$2,400/month, Market Street, San Francisco, sublease, long term, available 2026-08-01, 2B2B</li>
+    <li>$2,400/month, Market Street, San Francisco, sublease, long term, available 2026-08-01, 2B2B</li>
+    <li>$1,371/month, Inner Richmond, San Francisco, room rental, long term, available 2026-08-01, 3B1.5B</li>
+    <li>$2,200/month, Noe Valley, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>SoMa, San Francisco, sublease, short term, available 2026-08-14, 2B2B</li>
+    <li>$1,900/month, Richmond, San Francisco, sublease, short term, available 2026-09-01, 3B2B</li>
+    <li>$2,050/month, Polk Gulch, San Francisco, sublease, long term, available 2026-08-01, 3B2B</li>
+    <li>$5,050/month, Sausalito, North Bay, entire unit, 3B2.5B</li>
+    <li>$4,043/month, Rincon Hill, San Francisco, lease takeover, available 2026-08-22, 1B1B</li>
+    <li>$1,323/month, Daly City, The Peninsula, lease takeover, long term, available 2026-09-01, 4B4B</li>
+    <li>$1,400/month, entire unit, 1B2B</li>
+    <li>$2,300/month, Duboce Triangle, San Francisco, sublease, short term, available 2026-07-27, 2B2B</li>
+    <li>$1,650/month, Mission District, San Francisco, room rental, short term, available 2026-09-01, 4B2B</li>
+    <li>San Francisco, San Francisco, room rental</li>
+    <li>$3,999/month, SoMa, San Francisco, entire unit, long term, available 2026-08-10, 1B1B</li>
+    <li>Stonestown, San Francisco, room rental, 3B2B</li>
+    <li>$1,625/month, Marina, San Francisco, room rental, 4B1.5B</li>
+    <li>$2,400/month, Inner Richmond, San Francisco, room rental, long term, 3.5B1.5B</li>
+    <li>$2,700/month, Hayes Valley, San Francisco, room rental, long term, 3B2B</li>
+    <li>$1,775/month, Millbrae, The Peninsula, room rental, 2B2B</li>
+    <li>Alameda, East Bay, room rental</li>
+    <li>$1,500/month, San Francisco, San Francisco, room rental</li>
+    <li>$750/month, Balboa Park / City College, San Francisco, room rental</li>
+    <li>$2,950/month, Richmond, San Francisco, room rental, 3BR</li>
+    <li>$3,500/month, Mission Bay, San Francisco, room rental, short term, available 2026-09-01</li>
+    <li>$1,100/month, Mission District, San Francisco, sublease, available 2026-07-27, 2B1B</li>
+    <li>$1,300/month, Nob Hill / FiDi, San Francisco, sublease, short term, available 2026-08-14, studio</li>
+    <li>$1,800/month, lease takeover, long term, 1B1B</li>
+    <li>$3,500/month, Nob Hill, San Francisco, sublease, long term, 1B1B</li>
+    <li>$2,995/month, SoMa, San Francisco, sublease, long term, available 2026-09-01, 1B1B</li>
+    <li>$1,080/month, Central Richmond, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$850/month, Oceanview, San Francisco, room rental, long term, 4B1B</li>
+    <li>$2,300/month, Daly City, The Peninsula, entire unit, long term, studio</li>
+    <li>$1,875/month, Haight-Ashbury, San Francisco, room rental, long term, available 2026-09-01, 2B1B</li>
+    <li>$1,200/month, Alamo Square, San Francisco, sublease, short term, available 2026-08-01, 4B2B</li>
+    <li>$2,600/month, Mission Dolores, San Francisco, room rental, 3B2B</li>
+    <li>$975/month, Outer Sunset, San Francisco, lease takeover, long term, available 2026-08-01</li>
+    <li>$1,315/month, Ingleside, San Francisco, room rental, long term, available 2026-09-01</li>
+    <li>$1,300/month, Portola / Bayview, San Francisco, lease takeover, long term, 3B2B</li>
+    <li>$3,200/month, 8th & Market (SoMa), San Francisco, sublease, 1B1B</li>
+    <li>$2,400/month, room rental, long term, available 2026-08-01, 3BR</li>
+    <li>$1,600/month, Walnut Creek, East Bay, room rental, long term, 3B2B</li>
+    <li>$1,425/month, Golden Gate Heights, San Francisco, room rental, 6B4B</li>
+    <li>$6,383/month, Potrero Hill, San Francisco, lease takeover, long term, available 2026-08-01, 2B2B</li>
+    <li>Downtown San Francisco, San Francisco, sublease, short term, available 2026-08-01, 2BR</li>
+    <li>$2,500/month, Treasure Island, San Francisco, room rental, long term, 2B2B</li>
+    <li>$1,991/month, Russian Hill, San Francisco, room rental, long term, 3B1.5B</li>
+    <li>Mission District, San Francisco, room rental, short term, available 2026-07-18, 3BR</li>
+    <li>$2,050/month, Outer Richmond, San Francisco, room rental, long term, 4B1.5B</li>
+    <li>$3,100/month, Nob Hill, San Francisco, sublease, short term, available 2026-07-19, 1B1B</li>
+    <li>$3,000/month, Mission District, San Francisco, sublease, short term, available 2026-07-23</li>
+    <li>$1,600/month, Alamo Square, San Francisco, room rental, long term, 2B1B</li>
+    <li>$1,800/month, NOPA, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$1,150/month, Nob Hill, San Francisco, lease takeover, long term, available 2026-08-01, 3B1.5B</li>
+    <li>$930/month, San Francisco, San Francisco, room rental, long term</li>
+    <li>Visitacion Valley, San Francisco, room rental, long term, available 2026-08-15</li>
+    <li>$1,825/month, Sunnyvale, South Bay, lease takeover, long term, available 2026-08-18, 2B2B</li>
+    <li>$1,500/month, Mission, San Francisco, sublease, short term, available 2026-09-01</li>
+    <li>$2,000/month, Potrero Hill, San Francisco, room rental, 2B</li>
+    <li>$1,400/month, Alamo Square / Lower Haight, San Francisco, room rental, long term, 6B4B</li>
+    <li>$1,750/month, Westwood Park, San Francisco, room rental, long term</li>
+    <li>$2,300/month, Russian Hill, San Francisco, room rental, long term, available 2026-09-01, 3B2B</li>
+    <li>Mountain View, South Bay, room rental</li>
+    <li>Lower Pacific Heights / Japantown, San Francisco, sublease, short term, available 2026-08-06, 1B1B</li>
+    <li>$1,550/month, Pacific Heights, San Francisco, room rental, long term, available 2026-08-01, 3B1B</li>
+    <li>$1,700/month, Hayes Valley, San Francisco, sublease, short term, available 2026-08-01, 2B2B</li>
+    <li>$1,960/month, Presidio, San Francisco, room rental, long term, available 2026-08-15, 4B2B</li>
+    <li>$2,000/month, Castro, San Francisco, sublease, long term, available 2026-09-01, 5B2B</li>
+    <li>$1,490/month, Pacific Heights, San Francisco, entire unit, studio</li>
+    <li>$2,050/month, Inner Richmond, San Francisco, room rental, long term, 2B1B</li>
+    <li>$1,600/month, Civic Center, San Francisco, sublease, short term, available 2026-08-01, 2B1B</li>
+    <li>$3,900/month, Mission Bay, San Francisco, room rental, short term, available 2026-08-15, 2B2B</li>
+    <li>room rental, available 2026-08-01</li>
+    <li>$2,767/month, Potrero Hill, San Francisco, room rental, long term, available 2026-07-21</li>
+    <li>sublease</li>
+    <li>$1,102/month, Inner Richmond, San Francisco, room rental, long term, available 2026-09-01</li>
+    <li>$2,220/month, Mission Dolores, San Francisco, room rental, long term, available 2026-08-01, 4B1.5B</li>
+    <li>$2,100/month, lease takeover, short term, available 2026-08-01, 2B1B</li>
+    <li>$2,999/month, SoMa, San Francisco, lease takeover, long term, 1B1B</li>
+    <li>$950/month, Sunset District, San Francisco, room rental, long term</li>
+    <li>Castro Valley, East Bay, entire unit, long term, available 2026-09-05</li>
+    <li>$2,382/month, South San Francisco, The Peninsula, room rental, long term, 2B2B</li>
+    <li>$1,400/month, Dublin, East Bay, room rental, long term, available 2026-08-01, 3B3B</li>
+    <li>$1,300/month, entire unit, 1B1B</li>
+    <li>$1,800/month, NOPA, San Francisco, room rental, long term, available 2026-09-01, 3B1B</li>
+    <li>$1,535/month, Daly City, The Peninsula, room rental, long term, 3B2B</li>
+    <li>$1,800/month, lease takeover, short term</li>
+    <li>$2,800/month, Pacific Heights, San Francisco, sublease, short term, available 2026-08-29, studio</li>
+    <li>$1,500/month, West Portal, San Francisco, sublease, long term, available 2026-08-13, 2B1B</li>
+    <li>$2,000/month, Nob Hill, San Francisco, sublease, long term</li>
+    <li>$2,000/month, South Beach, San Francisco, sublease, long term</li>
+    <li>$2,000/month, Rincon Hill, San Francisco, sublease, long term</li>
+    <li>$1,590/month, Pacific Heights, San Francisco, entire unit, 1B1B</li>
+    <li>$2,275/month, San Bruno, The Peninsula, room rental, long term, available 2026-08-01, 2B2.5B</li>
+    <li>$1,200/month, Berkeley, East Bay, sublease, short term, 2B2B</li>
+    <li>$2,000/month, Lower Pacific Heights, San Francisco, room rental, long term, available 2026-08-01, 2B1B</li>
+    <li>$2,800/month, Mission Dolores, San Francisco, sublease, short term, available 2026-08-03, 2B1.5B</li>
+    <li>$1,450/month, Lower Pac Heights / Japantown / Fillmore District, San Francisco, sublease, available 2026-08-01, 3B2B</li>
+    <li>$2,500/month, San Francisco, San Francisco, room rental, long term, available 2026-08-15, 2B1B</li>
+    <li>$2,800/month, Pacific Heights, San Francisco, room rental, long term, available 2026-09-01, 2B1B</li>
+    <li>$2,700/month, Potrero Hill, San Francisco, sublease, available 2026-08-01, 2B2B</li>
+    <li>$1,900/month, Noe Valley, San Francisco, room rental, long term, available 2026-09-12, 3B2B</li>
+    <li>$1,000/month, entire unit, 3B2B</li>
+    <li>$1,200/month, Union Square, San Francisco, room rental</li>
+    <li>$1,400/month, Richmond District, San Francisco, room rental, long term, available 2026-08-01</li>
+    <li>$3,850/month, Berkeley, East Bay, entire unit, long term, 3B2B</li>
+    <li>$1,549/month, Santa Clara, South Bay, room rental, 3B2B</li>
+    <li>$1,675/month, ParkMerced, San Francisco, room rental, long term, available 2026-08-11, 2B2B</li>
+    <li>$2,675/month, Mountain View, South Bay, lease takeover, long term, available 2026-08-20, 1B1B</li>
+    <li>$2,400/month, Hayes Valley, San Francisco, lease takeover, short term</li>
+    <li>$1,500/month, Emeryville, East Bay, room rental, long term, available 2026-08-25, 2B2B</li>
+    <li>$2,900/month, Mission Bay, San Francisco, room rental, long term, 2B2.5B</li>
+    <li>$2,267/month, Lower Haight, San Francisco, room rental, long term, 3B1.5B</li>
+    <li>Glen Park, San Francisco, room rental, long term, available 2026-08-15</li>
+    <li>$1,900/month, Visitacion Valley, San Francisco, room rental, long term, 2B2B</li>
+    <li>$1,195/month, Outer Richmond, San Francisco, room rental, long term, available 2026-08-01, 5BR</li>
+    <li>$1,798/month, Japantown, San Francisco, sublease, long term, available 2026-08-01, 3B1B</li>
+    <li>$1,750/month, SOMA, San Francisco, lease takeover, long term, available 2026-07-29</li>
+    <li>$3,150/month, SOMA, San Francisco, room rental, long term, 2B2B</li>
+    <li>Soma West, San Francisco, sublease, short term, studio</li>
+    <li>entire unit</li>
+    <li>$1,990/month, SoMa, San Francisco, room rental, long term, 2B2B+den</li>
+    <li>$1,234/month, Inner Sunset, San Francisco, room rental, available 2026-08-01</li>
+    <li>$3,000/month, Rincon Hill, San Francisco, sublease, short term, available 2026-08-25, studio</li>
+    <li>$4,300/month, Lower Haight, San Francisco, sublease, short term, available 2026-08-01, 2B</li>
+    <li>$1,800/month, Noe Valley, San Francisco, room rental, short term, 2B1B</li>
+    <li>$1,800/month, Lower Pacific Heights, San Francisco, room rental, long term, 2B1B</li>
+    <li>$3,900/month, Mission District, San Francisco, sublease, short term, available 2026-08-10, 2B1B</li>
+    <li>$4,250/month, Westlake, Daly City, The Peninsula, entire unit, long term, 2B1B</li>
+    <li>$1,325/month, Mission, San Francisco, lease takeover, available 2026-08-01, 4B4B</li>
+    <li>$5,000/month, SoMa, San Francisco, entire unit, long term, available 2026-08-13</li>
+    <li>$1,969/month, Downtown San Jose, South Bay, lease takeover, long term, available 2026-08-18</li>
+    <li>$1,666/month, Sunset, San Francisco, room rental, long term, available 2026-08-01, 3B</li>
+    <li>$3,500/month, 240 Lombard St, San Francisco, entire unit, long term, 1B1B</li>
+    <li>$900/month, Sunset District, San Francisco, room rental, long term</li>
+    <li>$1,800/month, North Beach, San Francisco, sublease, short term, 3B1B</li>
+    <li>$2,500/month, Marina District, San Francisco, sublease, 3B2.5B</li>
+    <li>$1,500/month, San Francisco, San Francisco, room rental</li>
+    <li>$2,000/month, entire unit, long term, studio</li>
+    <li>$1,550/month, Nob Hill, San Francisco, room rental, long term, available 2026-09-01</li>
+    <li>$2,000/month, Palo Alto, The Peninsula, room rental</li>
+    <li>Berkeley / Marina Bay, East Bay, room rental, long term, available 2026-08-01</li>
+    <li>$2,000/month, sublease, long term, available 2026-08-01, 1B1B</li>
+    <li>$1,180/month, Sunset District, San Francisco, room rental</li>
+    <li>$1,800/month, Financial District, San Francisco, sublease, long term, 1B1B</li>
+    <li>$1,000/month, Sunset District, San Francisco, room rental, long term</li>
+    <li>Panhandle, San Francisco, room rental, short term</li>
+    <li>$2,000/month, Potrero Hill, San Francisco, room rental, long term, available 2026-09-01</li>
+    <li>$2,730/month, South San Francisco, The Peninsula, entire unit, long term, 1B1B</li>
+    <li>$1,000/month, South San Francisco, The Peninsula, room rental, long term, 1B1B</li>
+    <li>$2,185/month, Eureka Valley, San Francisco, room rental, long term, available 2026-08-01, 3B2B</li>
+    <li>$2,050/month, The East Cut, San Francisco, sublease, 1B1B</li>
+    <li>$850/month, San Francisco, San Francisco, entire unit, 1B1B</li>
+    <li>Embarcadero, San Francisco, sublease, long term</li>
+    <li>$3,500/month, Silver Terrace/Bayview, San Francisco, entire unit, long term, available 2026-09-01, 2B1B</li>
+    <li>Hollywood, entire unit, long term, available 2026-08-02, 1B1.5B</li>
+    <li>$2,000/month, Union Square / Tenderloin, San Francisco, sublease, short term, available 2026-09-01, studio</li>
+    <li>$2,025/month, San Francisco, San Francisco, room rental, long term, 4B3B</li>
+    <li>$1,800/month, Japantown, San Francisco, room rental, long term, available 2026-08-08, 3B2B</li>
+    <li>Alameda, East Bay, room rental, short term, available 2026-08-03</li>
+    <li>$1,865/month, Alamo Square, San Francisco, room rental, long term, available 2026-08-10, 4B3B</li>
+    <li>$2,500/month, Cole Valley, San Francisco, room rental, long term, 3B2.5B</li>
+    <li>$1,000/month, Marina District, San Francisco, sublease, short term, available 2026-08-10, 3B1B</li>
+    <li>$1,539/month, Upper Haight, San Francisco, room rental, short term, 3B2B</li>
+    <li>$1,673/month, Inner Sunset / Cole Valley, San Francisco, lease takeover, long term, available 2026-08-06, 2B1B</li>
+    <li>$1,853/month, Polk Gulch / Nob Hill, San Francisco, room rental, long term, available 2026-09-06, 6B3B</li>
+    <li>$4,800/month, Pacific Heights, San Francisco, entire unit, available 2026-09-01, 1BR</li>
+    <li>$1,400/month, Near University of San Francisco (USF), San Francisco, room rental, long term, 2B1B</li>
+    <li>$2,400/month, Lower Pacific Heights, San Francisco, room rental, long term, 3B2B</li>
+    <li>$3,495/month, Mission Bay, San Francisco, room rental, long term, 3B2B</li>
+    <li>$1,650/month, SoMa, San Francisco, room rental, long term, available 2026-09-01, 2B1B</li>
+    <li>$4,300/month, Rincon Hill, San Francisco, sublease, short term, available 2026-08-13, studio</li>
+    <li>$1,880/month, Alameda, East Bay, room rental, 2B1.5B</li>
+    <li>$1,350/month, South San Jose, South Bay, room rental, long term</li>
+    <li>$1,200/month, quiet, low-crime neighborhood with easy access to campus, San Francisco, entire unit, short term, 1B1B</li>
+    <li>$2,000/month, Nob Hill, San Francisco, sublease, long term</li>
+    <li>$2,000/month, Rincon Hill, San Francisco, sublease, long term</li>
+    <li>$2,000/month, SoMa, San Francisco, sublease, long term</li>
+    <li>$2,100/month, Inner Richmond, San Francisco, sublease, short term, available 2026-09-04</li>
+    <li>$1,300/month, sublease, 1B1B</li>
+    <li>$2,500/month, Mission, San Francisco, lease takeover, short term, available 2026-09-01</li>
+    <li>Lake Merritt, East Bay, sublease, short term, 1B1B</li>
+    <li>$2,200/month, Japantown, San Francisco, room rental, long term, available 2026-09-01, 2B2B</li>
+    <li>$1,500/month, Portola, San Francisco, room rental, long term, available 2026-08-07, 4B1.5B</li>
+    <li>$1,595/month, Piedmont Avenue, Berkeley, East Bay, room rental, long term, available 2026-08-14</li>
+    <li>$1,300/month, SoMa, San Francisco, room rental, long term, available 2026-08-15, 3B3B</li>
+    <li>$2,000/month, Nob Hill, San Francisco, sublease, long term</li>
+    <li>$2,000/month, Mint Hill, San Francisco, room rental, long term, 3B1.5B</li>
+    <li>$3,400/month, Marina, San Francisco, sublease, short term, available 2026-08-14, 2B2B</li>
+    <li>$1,316/month, Presidio, San Francisco, room rental, long term</li>
+    <li>$2,000/month, Nob Hill, San Francisco, sublease, long term</li>
+    <li>$2,000/month, San Mateo, The Peninsula, room rental, long term</li>
+    <li>$3,200/month, Russian Hill, San Francisco, room rental, short term</li>
+    <li>California St near Filmore, San Francisco, sublease, studio</li>
+    <li>$1,996/month, Financial District, San Francisco, lease takeover, long term, 2B2B</li>
+    <li>$1,825/month, NOPA, San Francisco, room rental, long term, 3B1.5B</li>
+    <li>$1,100/month, San Ramon, East Bay, room rental, long term</li>
+    <li>$1,620/month, Parkmerced, San Francisco, room rental, long term, available 2026-08-18, 3B3B</li>
+    <li>$5,500/month, Foster City, The Peninsula, entire unit, long term, available 2026-09-01, 2B2B</li>
+    <li>$1,600/month, Nob Hill, San Francisco, room rental, long term, available 2026-08-15, 2B1B</li>
+    <li>$1,120/month, near SFSU, San Francisco, room rental</li>
+    <li>$1,800/month, sublease, long term, 1B1B</li>
+    <li>$1,880/month, Alameda, East Bay, room rental, long term, 2B1.5BA</li>
 </ul>
 </div>
 <!-- SEO_CONTENT_END -->
