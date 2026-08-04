@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-03T19:06:49.454768",
-  "count": 1034,
+  "updated_at": "2026-08-03T20:07:18.220642",
+  "count": 1037,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -29957,6 +29957,94 @@
       "posted_at": "Monday 3 August 2026 at 18:44",
       "first_scraped_at": "2026-08-04T02:00:03.732883+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4669046523330351",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2900,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "coworking_space"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "women or nonbinary preferred",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4669046523330351",
+      "posted_at": "Monday 3 August 2026 at 19:42",
+      "first_scraped_at": "2026-08-04T03:00:01.631891+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4669032096665127",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1595,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 4,
+      "amenities": [
+        "wooden_floors",
+        "professional_cleaning",
+        "household_supplies",
+        "walkable_to_cafes_restaurants",
+        "easy_transit_access"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4669032096665127",
+      "posted_at": "Monday 3 August 2026 at 19:23",
+      "first_scraped_at": "2026-08-04T03:00:01.631891+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1970618490296390",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2800,
+      "neighborhood": "Cow Hollow / Marina",
+      "area": "San Francisco",
+      "available_from": "2026-08-15",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "parking",
+        "nearby_shopping",
+        "gym_nearby"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1970618490296390",
+      "posted_at": "Monday 3 August 2026 at 19:53",
+      "first_scraped_at": "2026-08-04T03:00:01.631891+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
