@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-03T18:05:44.838442",
-  "count": 1032,
+  "updated_at": "2026-08-03T19:06:49.454768",
+  "count": 1034,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -29895,6 +29895,68 @@
       "posted_at": "Monday 3 August 2026 at 14:20",
       "first_scraped_at": "2026-08-03T22:00:02.315058+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4669005563334447",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2800,
+      "neighborhood": "Yerba Buena / South FiDi",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop",
+        "24_7_front_desk",
+        "package_room",
+        "garage_parking",
+        "furnished_common_spaces",
+        "private_bathroom"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4669005563334447",
+      "posted_at": "Monday 3 August 2026 at 18:45",
+      "first_scraped_at": "2026-08-04T02:00:03.732883+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4669005250001145",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "rooftop",
+        "community_lounge",
+        "digitized_entry",
+        "parking_garage"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4669005250001145",
+      "posted_at": "Monday 3 August 2026 at 18:44",
+      "first_scraped_at": "2026-08-04T02:00:03.732883+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
