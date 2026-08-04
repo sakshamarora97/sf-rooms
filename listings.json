@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-04T13:05:45.568800",
-  "count": 1047,
+  "updated_at": "2026-08-04T14:04:44.197444",
+  "count": 1048,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -30356,6 +30356,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1971213216903584",
       "posted_at": "Tuesday 4 August 2026 at 11:40",
       "first_scraped_at": "2026-08-04T20:00:04.894419+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1971269520231287",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Polk Gulch",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "garage_parking",
+        "walk_in_closet",
+        "fully_equipped_kitchen",
+        "cathedral_ceilings",
+        "dining_area"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1971269520231287",
+      "posted_at": "Tuesday 4 August 2026 at 13:29",
+      "first_scraped_at": "2026-08-04T21:00:03.745029+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
