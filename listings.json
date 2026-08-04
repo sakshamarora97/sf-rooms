@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-04T15:05:15.248792",
-  "count": 1050,
+  "updated_at": "2026-08-04T16:05:09.196835",
+  "count": 1051,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -30447,6 +30447,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1971297113561861",
       "posted_at": "Tuesday 4 August 2026 at 14:26",
       "first_scraped_at": "2026-08-04T22:00:03.737140+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1971316896893216",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 6000,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "dishwasher",
+        "in_unit_laundry",
+        "golden_gate_view",
+        "roof_access"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1971316896893216",
+      "posted_at": "Tuesday 4 August 2026 at 15:05",
+      "first_scraped_at": "2026-08-04T23:00:03.391485+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
