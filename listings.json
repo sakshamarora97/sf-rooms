@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-04T10:04:14.243911",
-  "count": 1040,
+  "updated_at": "2026-08-04T11:04:38.145089",
+  "count": 1041,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -30126,6 +30126,39 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4669182699983400",
       "posted_at": "Monday 3 August 2026 at 23:00",
       "first_scraped_at": "2026-08-04T13:00:02.680560+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4669728959928774",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2350,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "fiber_optic_wifi",
+        "shared_kitchen",
+        "marble_bath",
+        "bathtub",
+        "skylight",
+        "hardwood_floors",
+        "street_parking",
+        "ocean_view"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4669728959928774",
+      "posted_at": "Tuesday 4 August 2026 at 10:40",
+      "first_scraped_at": "2026-08-04T18:00:03.115500+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
