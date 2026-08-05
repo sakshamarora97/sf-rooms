@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-04T16:05:09.196835",
-  "count": 1051,
+  "updated_at": "2026-08-04T17:05:41.731867",
+  "count": 1052,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -30477,6 +30477,52 @@
       "posted_at": "Tuesday 4 August 2026 at 15:05",
       "first_scraped_at": "2026-08-04T23:00:03.391485+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4669960973238906",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 6500,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "balcony",
+        "dining_area",
+        "office_desk",
+        "stainless_steel_appliances",
+        "walk_in_closet",
+        "bathtub",
+        "high_speed_wifi",
+        "heated_pool",
+        "jacuzzi",
+        "fitness_center",
+        "rooftop_lounge",
+        "basketball_court",
+        "movie_theater",
+        "coworking_center",
+        "outdoor_bbq",
+        "package_lockers",
+        "concierge",
+        "controlled_access",
+        "elevator",
+        "secure_bike_storage"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": "150 Van Ness",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4669960973238906",
+      "posted_at": "Tuesday 4 August 2026 at 16:34",
+      "first_scraped_at": "2026-08-05T00:00:03.278369+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
