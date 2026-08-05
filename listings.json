@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-05T12:05:21.315942",
-  "count": 1084,
+  "updated_at": "2026-08-05T13:05:56.798107",
+  "count": 1085,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -31492,6 +31492,39 @@
       "posted_at": "Wednesday 5 August 2026 at 11:43",
       "first_scraped_at": "2026-08-05T19:00:01.414333+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4670874249814245",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "9th Avenue",
+      "area": "San Francisco",
+      "available_from": "2026-09-03",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "kitchen",
+        "dining_room",
+        "living_room",
+        "indoor_workout_space",
+        "in_unit_laundry",
+        "shared_backyard",
+        "outdoor_dining_area",
+        "near_public_transit"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4670874249814245",
+      "posted_at": "Wednesday 5 August 2026 at 12:00",
+      "first_scraped_at": "2026-08-05T20:00:02.235167+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
