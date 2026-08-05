@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-05T11:07:26.811924",
-  "count": 1083,
+  "updated_at": "2026-08-05T12:05:21.315942",
+  "count": 1084,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -31462,6 +31462,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1972000570158182",
       "posted_at": "Wednesday 5 August 2026 at 09:46",
       "first_scraped_at": "2026-08-05T17:00:04.709198+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1972078976817008",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1800,
+      "neighborhood": "Haight-Ashbury",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "fully_equipped_kitchen",
+        "back_porch",
+        "newly_renovated",
+        "near_parks"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1972078976817008",
+      "posted_at": "Wednesday 5 August 2026 at 11:43",
+      "first_scraped_at": "2026-08-05T19:00:01.414333+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
