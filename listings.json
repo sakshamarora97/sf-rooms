@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-04T21:07:48.581932",
-  "count": 1076,
+  "updated_at": "2026-08-04T22:09:26.659689",
+  "count": 1077,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -31248,6 +31248,35 @@
       "posted_at": "Tuesday 4 August 2026 at 18:26",
       "first_scraped_at": "2026-08-05T04:00:03.506857+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1971548800203359",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Valencia Street, San Francisco",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "air_conditioning",
+        "parking",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1971548800203359",
+      "posted_at": "Tuesday 4 August 2026 at 22:02",
+      "first_scraped_at": "2026-08-05T05:00:04.603763+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
