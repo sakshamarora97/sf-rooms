@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-06T09:04:58.920105",
-  "count": 1105,
+  "updated_at": "2026-08-06T10:06:10.433267",
+  "count": 1106,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -32112,6 +32112,41 @@
       "posted_at": "Wednesday 5 August 2026 at 21:09",
       "first_scraped_at": "2026-08-06T14:00:06.615756+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4671816499720020",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Brentwood",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "wifi",
+        "smart_tv",
+        "workspace",
+        "walk_in_closet",
+        "mini_fridge",
+        "microwave",
+        "coffee_maker",
+        "street_parking",
+        "furnished"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4671816499720020",
+      "posted_at": "Thursday 6 August 2026 at 09:03",
+      "first_scraped_at": "2026-08-06T17:00:02.330262+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
