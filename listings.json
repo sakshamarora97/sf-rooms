@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-06T10:06:10.433267",
-  "count": 1106,
+  "updated_at": "2026-08-06T11:08:40.005070",
+  "count": 1108,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -32147,6 +32147,62 @@
       "posted_at": "Thursday 6 August 2026 at 09:03",
       "first_scraped_at": "2026-08-06T17:00:02.330262+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "27787513354239289",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1950,
+      "neighborhood": "Market Street",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "rooftop_patio"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": "1177 Market Apt Complex",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27787513354239289",
+      "posted_at": "Thursday 6 August 2026 at 10:13",
+      "first_scraped_at": "2026-08-06T18:00:07.132769+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27786533991003892",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Tenderloin / Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-08-23",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_building_laundry",
+        "elevator",
+        "natural_light"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27786533991003892",
+      "posted_at": "Thursday 6 August 2026 at 10:13",
+      "first_scraped_at": "2026-08-06T18:00:07.132769+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
