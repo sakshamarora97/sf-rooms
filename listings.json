@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-05T21:06:39.411658",
-  "count": 1102,
+  "updated_at": "2026-08-05T22:08:11.323229",
+  "count": 1104,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -32032,6 +32032,54 @@
       "posted_at": "Wednesday 5 August 2026 at 17:24",
       "first_scraped_at": "2026-08-06T01:00:01.319615+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "9e5192b098a48269",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1475,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-08-15",
+      "available_until": null,
+      "unit_config": "2BR",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000126872667",
+      "posted_at": null,
+      "first_scraped_at": "2026-08-06T05:00:03.644985+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4671284813106522",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 850,
+      "neighborhood": "Milpitas",
+      "area": "South Bay",
+      "available_from": "2026-09-01",
+      "available_until": "2027-06-01",
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4671284813106522",
+      "posted_at": "Wednesday 5 August 2026 at 21:56",
+      "first_scraped_at": "2026-08-06T05:00:03.644985+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
