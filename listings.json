@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-07T13:07:35.771937",
-  "count": 1133,
+  "updated_at": "2026-08-07T14:07:23.517760",
+  "count": 1134,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -32944,6 +32944,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1973797736645132",
       "posted_at": "Friday 7 August 2026 at 11:25",
       "first_scraped_at": "2026-08-07T19:00:02.369297+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1973872286637677",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1250,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "parking",
+        "shared_bathroom",
+        "shared_kitchen",
+        "shared_living_room",
+        "gym",
+        "nearby_laundromat"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female preferred",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1973872286637677",
+      "posted_at": "Friday 7 August 2026 at 13:45",
+      "first_scraped_at": "2026-08-07T21:00:01.939965+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
