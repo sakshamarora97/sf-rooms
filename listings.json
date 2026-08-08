@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-08T08:06:14.916913",
-  "count": 1153,
+  "updated_at": "2026-08-08T09:06:37.754652",
+  "count": 1154,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33527,6 +33527,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974259579932281",
       "posted_at": "Saturday 8 August 2026 at 02:06",
       "first_scraped_at": "2026-08-08T13:01:14.740478+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1974508643240708",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2892,
+      "neighborhood": "San Jose",
+      "area": "South Bay",
+      "available_from": "2026-09-01",
+      "available_until": "2026-12-19",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "swimming_pool",
+        "bbq_area",
+        "pool_table",
+        "patio",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Platform Urban Apartments",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974508643240708",
+      "posted_at": "Saturday 8 August 2026 at 08:40",
+      "first_scraped_at": "2026-08-08T16:00:02.034051+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
