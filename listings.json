@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-07T16:07:54.564936",
-  "count": 1140,
+  "updated_at": "2026-08-07T17:08:30.142630",
+  "count": 1142,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33140,6 +33140,63 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1973916383299934",
       "posted_at": "Friday 7 August 2026 at 15:20",
       "first_scraped_at": "2026-08-07T23:00:02.609251+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1973951316629774",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 817,
+      "neighborhood": "Santa Clara",
+      "area": "South Bay",
+      "available_from": "2026-08-22",
+      "available_until": "2026-09-30",
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "pool",
+        "hot_tub",
+        "gym",
+        "tennis_court"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Marina Playa Apartments",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1973951316629774",
+      "posted_at": "Friday 7 August 2026 at 16:36",
+      "first_scraped_at": "2026-08-08T00:00:02.473433+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1973859266638979",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-08-11",
+      "available_until": "2026-08-15",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_building_laundry",
+        "near_trader_joes",
+        "near_public_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1973859266638979",
+      "posted_at": "Friday 7 August 2026 at 13:18",
+      "first_scraped_at": "2026-08-08T00:00:02.473433+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
