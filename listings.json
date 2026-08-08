@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-08T12:07:12.488975",
-  "count": 1156,
+  "updated_at": "2026-08-08T13:07:16.697828",
+  "count": 1159,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33619,6 +33619,93 @@
       "posted_at": "Saturday 8 August 2026 at 11:23",
       "first_scraped_at": "2026-08-08T19:00:01.621466+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4674083142826689",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1650,
+      "neighborhood": "Lower Haight",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_back_patio",
+        "hd_tv"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4674083142826689",
+      "posted_at": "Saturday 8 August 2026 at 12:52",
+      "first_scraped_at": "2026-08-08T20:00:02.522646+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1974649489893290",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3600,
+      "neighborhood": "Civic Center / Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "secure_entry",
+        "package_area",
+        "elevator",
+        "dishwasher",
+        "shared_laundry",
+        "storage",
+        "large_windows"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974649489893290",
+      "posted_at": "Saturday 8 August 2026 at 12:41",
+      "first_scraped_at": "2026-08-08T20:00:02.522646+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1974633763228196",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3000,
+      "neighborhood": "Design District",
+      "area": "San Francisco",
+      "available_from": "2026-08-15",
+      "available_until": "2026-09-30",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "lounge"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "1 Henry Adams",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974633763228196",
+      "posted_at": "Saturday 8 August 2026 at 12:10",
+      "first_scraped_at": "2026-08-08T20:00:02.522646+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
