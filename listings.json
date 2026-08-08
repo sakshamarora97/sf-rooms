@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-08T09:06:37.754652",
-  "count": 1154,
+  "updated_at": "2026-08-08T10:06:07.698803",
+  "count": 1155,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33559,6 +33559,42 @@
       "posted_at": "Saturday 8 August 2026 at 08:40",
       "first_scraped_at": "2026-08-08T16:00:02.034051+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4673946176173719",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Mission District / Potrero Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "private_balcony",
+        "central_heat_and_ac",
+        "chef_kitchen",
+        "viking_appliances",
+        "elevator",
+        "controlled_access",
+        "water_included",
+        "garbage_included",
+        "high_walk_score",
+        "near_highway"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4673946176173719",
+      "posted_at": "Saturday 8 August 2026 at 09:50",
+      "first_scraped_at": "2026-08-08T17:00:06.828097+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
