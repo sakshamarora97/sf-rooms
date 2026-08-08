@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-08T14:07:14.503141",
-  "count": 1160,
+  "updated_at": "2026-08-08T15:06:58.938423",
+  "count": 1161,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33739,6 +33739,32 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974680426556863",
       "posted_at": "Saturday 8 August 2026 at 13:45",
       "first_scraped_at": "2026-08-08T21:00:02.302504+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1974706789887560",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2200,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974706789887560",
+      "posted_at": "Saturday 8 August 2026 at 14:42",
+      "first_scraped_at": "2026-08-08T22:00:02.111733+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
