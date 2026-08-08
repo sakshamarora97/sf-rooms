@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-08T11:07:03.554183",
-  "count": 1155,
+  "updated_at": "2026-08-08T12:07:12.488975",
+  "count": 1156,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33594,6 +33594,30 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4673946176173719",
       "posted_at": "Saturday 8 August 2026 at 09:50",
       "first_scraped_at": "2026-08-08T17:00:06.828097+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4674018049499865",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Emeryville",
+      "area": "East Bay",
+      "available_from": "2026-08-15",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4674018049499865",
+      "posted_at": "Saturday 8 August 2026 at 11:23",
+      "first_scraped_at": "2026-08-08T19:00:01.621466+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
