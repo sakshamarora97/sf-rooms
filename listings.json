@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-07T17:08:30.142630",
-  "count": 1142,
+  "updated_at": "2026-08-07T18:08:35.923816",
+  "count": 1144,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33197,6 +33197,69 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1973859266638979",
       "posted_at": "Friday 7 August 2026 at 13:18",
       "first_scraped_at": "2026-08-08T00:00:02.473433+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4673225012912502",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1125,
+      "neighborhood": "Balboa Park",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "shared_garage",
+        "driveway_parking",
+        "in_unit_laundry",
+        "dishwasher",
+        "backyard",
+        "responsive_landlord",
+        "street_parking",
+        "420_friendly",
+        "dog_and_cat_on_premises"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4673225012912502",
+      "posted_at": "Friday 7 August 2026 at 17:28",
+      "first_scraped_at": "2026-08-08T01:00:02.347507+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1973982569959982",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 2400,
+      "neighborhood": "South Beach",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "near_public_transit",
+        "waterfront",
+        "walking_distance_to_Oracle_Park",
+        "shared_bathroom"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1973982569959982",
+      "posted_at": "Friday 7 August 2026 at 17:39",
+      "first_scraped_at": "2026-08-08T01:00:02.347507+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
