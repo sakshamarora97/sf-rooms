@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-08T13:07:16.697828",
-  "count": 1159,
+  "updated_at": "2026-08-08T14:07:14.503141",
+  "count": 1160,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33705,6 +33705,40 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974633763228196",
       "posted_at": "Saturday 8 August 2026 at 12:10",
       "first_scraped_at": "2026-08-08T20:00:02.522646+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1974680426556863",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3050,
+      "neighborhood": "Mid-Market / SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-08-24",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "hardwood_floor",
+        "full_kitchen",
+        "gym",
+        "coworking_space",
+        "outdoor_terrace",
+        "outdoor_bbq",
+        "24_7_security",
+        "high_speed_internet"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974680426556863",
+      "posted_at": "Saturday 8 August 2026 at 13:45",
+      "first_scraped_at": "2026-08-08T21:00:02.302504+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
