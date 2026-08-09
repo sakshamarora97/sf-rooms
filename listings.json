@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-09T11:07:09.168455",
-  "count": 1173,
+  "updated_at": "2026-08-09T12:06:00.074568",
+  "count": 1174,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -34095,6 +34095,36 @@
       "posted_at": "Sunday 9 August 2026 at 10:40",
       "first_scraped_at": "2026-08-09T18:00:01.900817+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "27807439935579964",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1650,
+      "neighborhood": "Lower Haight",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "utilities_included",
+        "biweekly_cleaning",
+        "shared_balcony",
+        "shared_kitchen",
+        "close_to_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27807439935579964",
+      "posted_at": "Sunday 9 August 2026 at 06:04",
+      "first_scraped_at": "2026-08-09T19:00:04.872756+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
