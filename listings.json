@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-09T13:05:51.591521",
-  "count": 1174,
+  "updated_at": "2026-08-09T14:06:23.431567",
+  "count": 1176,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -34125,6 +34125,63 @@
       "posted_at": "Sunday 9 August 2026 at 06:04",
       "first_scraped_at": "2026-08-09T19:00:04.872756+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1975486926476213",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Near City College of San Francisco",
+      "area": "San Francisco",
+      "available_from": "2026-08-15",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "420_friendly",
+        "pet_friendly"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1975486926476213",
+      "posted_at": "Sunday 9 August 2026 at 13:35",
+      "first_scraped_at": "2026-08-09T21:00:01.462531+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1975368139821425",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 5500,
+      "neighborhood": "Treasure Island",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "bay_view",
+        "bridge_view",
+        "shoreline_park_access",
+        "trails",
+        "ferry_access (8-minute to Ferry Building)"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1975368139821425",
+      "posted_at": "Sunday 9 August 2026 at 10:05",
+      "first_scraped_at": "2026-08-09T21:00:01.462531+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
