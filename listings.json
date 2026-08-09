@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-08T17:06:32.724814",
-  "count": 1161,
+  "updated_at": "2026-08-08T18:07:24.792776",
+  "count": 1162,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33765,6 +33765,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974706789887560",
       "posted_at": "Saturday 8 August 2026 at 14:42",
       "first_scraped_at": "2026-08-08T22:00:02.111733+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1974744303217142",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 2290,
+      "neighborhood": "The Mission",
+      "area": "San Francisco",
+      "available_from": "2026-08-12",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "utilities",
+        "house_cleaning",
+        "furnished",
+        "weekly_meals",
+        "community_events",
+        "gym_discount"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Foundry",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1974744303217142",
+      "posted_at": "Saturday 8 August 2026 at 16:07",
+      "first_scraped_at": "2026-08-09T01:00:03.704844+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
