@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-09T14:06:23.431567",
-  "count": 1176,
+  "updated_at": "2026-08-09T15:06:20.264019",
+  "count": 1177,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -34182,6 +34182,35 @@
       "posted_at": "Sunday 9 August 2026 at 10:05",
       "first_scraped_at": "2026-08-09T21:00:01.462531+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4675173762717627",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1782,
+      "neighborhood": "Downtown Sunnyvale",
+      "area": "South Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "spacious_kitchen",
+        "near_caltrain",
+        "walkable_to_downtown"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4675173762717627",
+      "posted_at": "Sunday 9 August 2026 at 14:38",
+      "first_scraped_at": "2026-08-09T22:00:02.417966+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
