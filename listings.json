@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-09T06:05:52.614146",
-  "count": 1166,
+  "updated_at": "2026-08-09T07:07:37.225337",
+  "count": 1170,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -33915,6 +33915,112 @@
       "posted_at": "Saturday 8 August 2026 at 23:00",
       "first_scraped_at": "2026-08-09T13:00:04.709003+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "27814173671573257",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-12-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "dedicated_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Avalon at Mission Bay",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27814173671573257",
+      "posted_at": "Sunday 9 August 2026 at 06:05",
+      "first_scraped_at": "2026-08-09T14:00:04.613130+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27817489874574970",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27817489874574970",
+      "posted_at": "Sunday 9 August 2026 at 06:05",
+      "first_scraped_at": "2026-08-09T14:00:04.613130+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27824574380533186",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1524,
+      "neighborhood": "Mission (23rd & Guerrero)",
+      "area": "San Francisco",
+      "available_from": "2026-08-18",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27824574380533186",
+      "posted_at": "Sunday 9 August 2026 at 06:05",
+      "first_scraped_at": "2026-08-09T14:00:04.613130+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27822699930720631",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2700,
+      "neighborhood": "Financial District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-02-28",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "attached_garage",
+        "24/7_guarded_security",
+        "furnished"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27822699930720631",
+      "posted_at": "Sunday 9 August 2026 at 06:04",
+      "first_scraped_at": "2026-08-09T14:00:04.613130+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
