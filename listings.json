@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-09T21:07:43.383666",
-  "count": 1185,
+  "updated_at": "2026-08-09T22:08:08.861912",
+  "count": 1186,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -34437,6 +34437,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1975619786462927",
       "posted_at": "Sunday 9 August 2026 at 18:16",
       "first_scraped_at": "2026-08-10T04:00:02.481843+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1975716093119963",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 4000,
+      "neighborhood": "Haight Ashbury / Cole Valley",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "top_floor",
+        "natural_light",
+        "near_golden_gate_park",
+        "near_ucsf",
+        "near_N_line",
+        "laundromat_nearby"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1975716093119963",
+      "posted_at": "Sunday 9 August 2026 at 21:18",
+      "first_scraped_at": "2026-08-10T05:00:04.328498+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
