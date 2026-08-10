@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-09T17:05:56.666796",
-  "count": 1180,
+  "updated_at": "2026-08-09T18:07:13.441517",
+  "count": 1181,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -34299,6 +34299,32 @@
       "posted_at": "Sunday 9 August 2026 at 16:12",
       "first_scraped_at": "2026-08-10T00:00:02.078045+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1975609356463970",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "utilities_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1975609356463970",
+      "posted_at": "Sunday 9 August 2026 at 17:57",
+      "first_scraped_at": "2026-08-10T01:00:03.027735+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
