@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-09T16:06:28.531704",
-  "count": 1179,
+  "updated_at": "2026-08-09T17:05:56.666796",
+  "count": 1180,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -34267,6 +34267,37 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4675196662715337",
       "posted_at": "Sunday 9 August 2026 at 15:17",
       "first_scraped_at": "2026-08-09T23:00:07.337565+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4675229272712076",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2900,
+      "neighborhood": "Presidio",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "in_unit_laundry",
+        "internet_included",
+        "bay_view",
+        "free_shuttle",
+        "work_desk"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4675229272712076",
+      "posted_at": "Sunday 9 August 2026 at 16:12",
+      "first_scraped_at": "2026-08-10T00:00:02.078045+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
