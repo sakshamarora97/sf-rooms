@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-09T22:08:08.861912",
-  "count": 1186,
+  "updated_at": "2026-08-10T06:07:08.335765",
+  "count": 1189,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -34469,6 +34469,88 @@
       "posted_at": "Sunday 9 August 2026 at 21:18",
       "first_scraped_at": "2026-08-10T05:00:04.328498+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "510ba17baaabc68f",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 600,
+      "neighborhood": "Milpitas",
+      "area": "South Bay",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100007531938503",
+      "posted_at": null,
+      "first_scraped_at": "2026-08-10T13:00:03.886504+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4675471786021158",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2400,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "private_entrance",
+        "stainless_steel_appliances",
+        "open_floor_plan",
+        "built_in_closets"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4675471786021158",
+      "posted_at": "Sunday 9 August 2026 at 22:40",
+      "first_scraped_at": "2026-08-10T13:00:03.886504+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4675474232687580",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Santa Clara",
+      "area": "South Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_bathroom",
+        "vegetarian_household"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4675474232687580",
+      "posted_at": "Sunday 9 August 2026 at 22:33",
+      "first_scraped_at": "2026-08-10T13:00:03.886504+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
