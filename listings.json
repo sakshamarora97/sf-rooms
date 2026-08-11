@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-10T22:09:14.507364",
-  "count": 1217,
+  "updated_at": "2026-08-11T06:10:53.008184",
+  "count": 1219,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -35358,6 +35358,68 @@
       "posted_at": "Monday 10 August 2026 at 21:19",
       "first_scraped_at": "2026-08-11T05:00:03.792844+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "27849212821402675",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 550,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "wifi",
+        "weekly_professional_cleaning",
+        "equipped_kitchen",
+        "near_public_transit",
+        "near_airport",
+        "near_supermarkets"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27849212821402675",
+      "posted_at": "Tuesday 11 August 2026 at 05:19",
+      "first_scraped_at": "2026-08-11T13:01:01.025497+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27847822958208328",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 850,
+      "neighborhood": "Sunset",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": "2026-11-30",
+      "unit_config": "5B2.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "street_parking",
+        "shared_bathroom",
+        "close_to_transit",
+        "close_to_park"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27847822958208328",
+      "posted_at": "Tuesday 11 August 2026 at 05:18",
+      "first_scraped_at": "2026-08-11T13:01:01.025497+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
