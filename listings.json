@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-10T18:08:01.053791",
-  "count": 1212,
+  "updated_at": "2026-08-10T19:08:26.481203",
+  "count": 1213,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -35206,6 +35206,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1976391863052386",
       "posted_at": "Monday 10 August 2026 at 16:16",
       "first_scraped_at": "2026-08-11T00:00:03.453689+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1976452966379609",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4000,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-08-25",
+      "available_until": "2026-09-25",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "gym",
+        "rooftop",
+        "coworking_space",
+        "parking",
+        "near_public_transit",
+        "walkable"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Quincy",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1976452966379609",
+      "posted_at": "Monday 10 August 2026 at 18:26",
+      "first_scraped_at": "2026-08-11T02:00:03.121824+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
