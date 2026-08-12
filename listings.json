@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-12T12:06:54.528548",
-  "count": 1249,
+  "updated_at": "2026-08-12T13:06:46.502538",
+  "count": 1250,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -36288,6 +36288,39 @@
       "posted_at": "Wednesday 12 August 2026 at 11:34",
       "first_scraped_at": "2026-08-12T19:00:01.664054+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1977971642894408",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1150,
+      "neighborhood": "Newark",
+      "area": "East Bay",
+      "available_from": "2026-08-22",
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "parking (garage)",
+        "storage_closet",
+        "upgraded_kitchen",
+        "side_yard",
+        "balcony",
+        "natural_light",
+        "public_transport_access",
+        "shuttle_to_tech"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1977971642894408",
+      "posted_at": "Wednesday 12 August 2026 at 12:42",
+      "first_scraped_at": "2026-08-12T20:00:00.817858+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
