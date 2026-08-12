@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-11T20:09:47.185764",
-  "count": 1232,
+  "updated_at": "2026-08-11T21:08:38.238744",
+  "count": 1233,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -35790,6 +35790,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1977337122957860",
       "posted_at": "Tuesday 11 August 2026 at 19:53",
       "first_scraped_at": "2026-08-12T03:00:01.363626+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1977370092954563",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 4350,
+      "neighborhood": "Mission (Harrison St between 22nd and 23rd)",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_dishwasher",
+        "in_unit_laundry",
+        "shared_back_yard"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1977370092954563",
+      "posted_at": "Tuesday 11 August 2026 at 20:50",
+      "first_scraped_at": "2026-08-12T04:00:01.115396+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
