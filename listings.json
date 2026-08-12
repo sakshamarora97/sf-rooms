@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-11T21:08:38.238744",
-  "count": 1233,
+  "updated_at": "2026-08-11T22:08:58.946761",
+  "count": 1234,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -35818,6 +35818,49 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1977370092954563",
       "posted_at": "Tuesday 11 August 2026 at 20:50",
       "first_scraped_at": "2026-08-12T04:00:01.115396+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1977383572953215",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Financial District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-12-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop",
+        "gym",
+        "pool",
+        "sauna",
+        "spa",
+        "concierge",
+        "package_lockers",
+        "high_speed_wifi",
+        "work_from_home_setup",
+        "chef_kitchen",
+        "gas_range",
+        "walk_in_closet",
+        "bay_bridge_views",
+        "city_skyline_views",
+        "resident_lounge",
+        "grills",
+        "fire_pits"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1977383572953215",
+      "posted_at": "Tuesday 11 August 2026 at 21:13",
+      "first_scraped_at": "2026-08-12T05:00:01.353459+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
