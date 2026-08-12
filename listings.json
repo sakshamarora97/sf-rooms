@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-12T15:06:06.766766",
-  "count": 1251,
+  "updated_at": "2026-08-12T16:07:03.630716",
+  "count": 1252,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -36349,6 +36349,37 @@
       "posted_at": "Wednesday 12 August 2026 at 14:42",
       "first_scraped_at": "2026-08-12T22:00:06.061067+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4678347132400290",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Mission Dolores Park / Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-08-20",
+      "available_until": "2026-09-05",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_building_laundry",
+        "kitchen_appliances",
+        "park_view",
+        "city_skyline_view",
+        "natural_light",
+        "near_public_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4678347132400290",
+      "posted_at": "Wednesday 12 August 2026 at 15:22",
+      "first_scraped_at": "2026-08-12T23:00:04.852074+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
