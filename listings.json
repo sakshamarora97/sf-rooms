@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-12T14:06:09.563623",
-  "count": 1250,
+  "updated_at": "2026-08-12T15:06:06.766766",
+  "count": 1251,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -36320,6 +36320,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1977971642894408",
       "posted_at": "Wednesday 12 August 2026 at 12:42",
       "first_scraped_at": "2026-08-12T20:00:00.817858+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1978039776220928",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-12-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "building_amenities",
+        "modern_styling"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Trinity Place",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1978039776220928",
+      "posted_at": "Wednesday 12 August 2026 at 14:42",
+      "first_scraped_at": "2026-08-12T22:00:06.061067+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
