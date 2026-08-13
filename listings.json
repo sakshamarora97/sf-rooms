@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-13T06:06:38.285109",
-  "count": 1256,
+  "updated_at": "2026-08-13T07:06:52.370174",
+  "count": 1257,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -36510,6 +36510,40 @@
       "posted_at": "Wednesday 12 August 2026 at 19:47",
       "first_scraped_at": "2026-08-13T03:00:01.325486+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4678961985672138",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3800,
+      "neighborhood": "Van Ness corridor (near Hayes Valley)",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "dedicated_workspace",
+        "dual_monitors",
+        "docking_station",
+        "google_fi_internet",
+        "65_inch_tv",
+        "streaming_services",
+        "dishwasher",
+        "air_fryer",
+        "oven"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4678961985672138",
+      "posted_at": "Thursday 13 August 2026 at 06:12",
+      "first_scraped_at": "2026-08-13T14:00:00.973451+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
