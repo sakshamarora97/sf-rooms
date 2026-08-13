@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-13T09:06:29.195536",
-  "count": 1258,
+  "updated_at": "2026-08-13T10:07:02.040558",
+  "count": 1260,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -36573,6 +36573,59 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4679071642327839",
       "posted_at": "Thursday 13 August 2026 at 08:17",
       "first_scraped_at": "2026-08-13T16:00:01.428373+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4679146202320383",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1600,
+      "neighborhood": "Santa Clara",
+      "area": "South Bay",
+      "available_from": "2026-08-30",
+      "available_until": "2026-10-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "public_transit",
+        "near_shopping",
+        "near_restaurants",
+        "near_tech_campuses"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4679146202320383",
+      "posted_at": "Thursday 13 August 2026 at 09:54",
+      "first_scraped_at": "2026-08-13T17:00:01.498198+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4679127705655566",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Downtown San Francisco",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4679127705655566",
+      "posted_at": "Thursday 13 August 2026 at 09:29",
+      "first_scraped_at": "2026-08-13T17:00:01.498198+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
