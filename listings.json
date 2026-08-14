@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-14T13:09:28.497373",
-  "count": 1285,
+  "updated_at": "2026-08-14T14:08:52.007972",
+  "count": 1288,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37387,6 +37387,92 @@
       "posted_at": "Friday 14 August 2026 at 12:07",
       "first_scraped_at": "2026-08-14T20:00:06.358186+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4680356905532646",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Visitacion Valley",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "washer_dryer",
+        "street_parking",
+        "private_entrance",
+        "shared_kitchen",
+        "shared_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4680356905532646",
+      "posted_at": "Friday 14 August 2026 at 13:52",
+      "first_scraped_at": "2026-08-14T21:00:02.136935+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4680352378866432",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3350,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-07-16",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "garage_parking",
+        "pet_friendly",
+        "floor_to_ceiling_windows",
+        "views_bay_bridge",
+        "walk_transit_score"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": "The Towers at Rincon",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4680352378866432",
+      "posted_at": "Friday 14 August 2026 at 13:45",
+      "first_scraped_at": "2026-08-14T21:00:02.136935+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4680325758869094",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2600,
+      "neighborhood": "San Francisco",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4680325758869094",
+      "posted_at": "Friday 14 August 2026 at 13:06",
+      "first_scraped_at": "2026-08-14T21:00:02.136935+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
