@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-13T18:08:49.266628",
-  "count": 1272,
+  "updated_at": "2026-08-13T19:08:22.856774",
+  "count": 1273,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -36998,6 +36998,36 @@
       "posted_at": null,
       "first_scraped_at": "2026-08-14T01:00:01.091320+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1979003716124534",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Sunnyvale",
+      "area": "South Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "pool",
+        "gym",
+        "game_room",
+        "resident_lounge",
+        "greenspace"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Spruce by Prometheus",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1979003716124534",
+      "posted_at": "Thursday 13 August 2026 at 18:56",
+      "first_scraped_at": "2026-08-14T02:00:01.937189+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
