@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-13T16:08:19.253075",
-  "count": 1270,
+  "updated_at": "2026-08-13T17:08:38.505099",
+  "count": 1271,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -36940,6 +36940,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1978862976138608",
       "posted_at": "Thursday 13 August 2026 at 14:02",
       "first_scraped_at": "2026-08-13T21:00:01.856384+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1978925549465684",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": 4000,
+      "neighborhood": "Cow Hollow",
+      "area": "San Francisco",
+      "available_from": "2026-09-08",
+      "available_until": "2026-10-11",
+      "unit_config": "1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "top_floor",
+        "presidio_view"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1978925549465684",
+      "posted_at": "Thursday 13 August 2026 at 16:20",
+      "first_scraped_at": "2026-08-14T00:00:04.422289+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
