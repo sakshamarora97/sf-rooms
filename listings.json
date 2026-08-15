@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-15T11:07:19.365238",
-  "count": 1294,
+  "updated_at": "2026-08-15T12:07:07.648771",
+  "count": 1295,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37641,6 +37641,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1980063519351887",
       "posted_at": "Saturday 15 August 2026 at 00:06",
       "first_scraped_at": "2026-08-15T13:00:02.339559+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1980499619308277",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 750,
+      "neighborhood": "Balboa Park / City College",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "kitchen",
+        "internet",
+        "utilities_included",
+        "parking",
+        "4_bathrooms"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1980499619308277",
+      "posted_at": "Saturday 15 August 2026 at 11:05",
+      "first_scraped_at": "2026-08-15T19:00:03.643172+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
