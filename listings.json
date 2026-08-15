@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-14T17:08:53.643047",
-  "count": 1289,
+  "updated_at": "2026-08-14T18:09:13.443625",
+  "count": 1290,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37502,6 +37502,30 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1979773822714190",
       "posted_at": "Friday 14 August 2026 at 16:40",
       "first_scraped_at": "2026-08-15T00:00:03.599805+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1979795469378692",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": 6850,
+      "neighborhood": "Duboce Triangle",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1979795469378692",
+      "posted_at": "Friday 14 August 2026 at 17:23",
+      "first_scraped_at": "2026-08-15T01:00:02.351978+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
