@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-15T12:07:07.648771",
-  "count": 1295,
+  "updated_at": "2026-08-15T13:08:39.818292",
+  "count": 1296,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37673,6 +37673,32 @@
       "posted_at": "Saturday 15 August 2026 at 11:05",
       "first_scraped_at": "2026-08-15T19:00:03.643172+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4681432762091727",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Van Ness",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": "2026-11-05",
+      "unit_config": "2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "full_amenity_building"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "100 Van Ness",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4681432762091727",
+      "posted_at": "Saturday 15 August 2026 at 12:56",
+      "first_scraped_at": "2026-08-15T20:00:03.262084+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
