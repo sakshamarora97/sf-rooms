@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-14T19:08:56.717451",
-  "count": 1290,
+  "updated_at": "2026-08-14T20:08:22.347798",
+  "count": 1291,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37527,6 +37527,33 @@
       "posted_at": "Friday 14 August 2026 at 17:23",
       "first_scraped_at": "2026-08-15T01:00:02.351978+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4680248108876859",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Japantown",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "public_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4680248108876859",
+      "posted_at": "Friday 14 August 2026 at 11:22",
+      "first_scraped_at": "2026-08-15T03:00:02.160538+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
