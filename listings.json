@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-14T22:07:27.592933",
-  "count": 1293,
+  "updated_at": "2026-08-15T06:05:52.098032",
+  "count": 1294,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37611,6 +37611,36 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1979916786033227",
       "posted_at": "Friday 14 August 2026 at 20:24",
       "first_scraped_at": "2026-08-15T04:00:02.058685+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1980063519351887",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1600,
+      "neighborhood": "Mission",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "5B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "recently_renovated",
+        "hardwood_floors",
+        "in_unit_laundry",
+        "near_24th_St_BART/Muni",
+        "spacious"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1980063519351887",
+      "posted_at": "Saturday 15 August 2026 at 00:06",
+      "first_scraped_at": "2026-08-15T13:00:02.339559+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
