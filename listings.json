@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-16T09:08:54.411868",
-  "count": 1303,
+  "updated_at": "2026-08-16T10:09:05.377146",
+  "count": 1304,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37913,6 +37913,33 @@
       "posted_at": "Saturday 15 August 2026 at 23:44",
       "first_scraped_at": "2026-08-16T16:00:06.520932+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4682320975336239",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1000,
+      "neighborhood": "San Leandro",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "internet",
+        "water"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Hillcrest Knolls",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4682320975336239",
+      "posted_at": "Sunday 16 August 2026 at 09:17",
+      "first_scraped_at": "2026-08-16T17:00:02.229227+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
