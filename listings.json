@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-16T11:06:59.186071",
-  "count": 1304,
+  "updated_at": "2026-08-16T12:07:49.761550",
+  "count": 1305,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37940,6 +37940,32 @@
       "posted_at": "Sunday 16 August 2026 at 09:17",
       "first_scraped_at": "2026-08-16T17:00:02.229227+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1981347369223502",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2950,
+      "neighborhood": "Pacific Heights / Presidio Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1981347369223502",
+      "posted_at": "Sunday 16 August 2026 at 11:16",
+      "first_scraped_at": "2026-08-16T19:00:02.129102+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
