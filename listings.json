@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-16T15:08:37.098868",
-  "count": 1306,
+  "updated_at": "2026-08-16T16:08:07.299048",
+  "count": 1307,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -37993,6 +37993,47 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4682574425310894",
       "posted_at": "Sunday 16 August 2026 at 14:36",
       "first_scraped_at": "2026-08-16T22:00:02.571145+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4682591208642549",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2095,
+      "neighborhood": "McLaren Park",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "kitchenette",
+        "refrigerator",
+        "microwave",
+        "air_fryer",
+        "kitchen_essentials",
+        "walk-in_closet",
+        "wifi",
+        "utilities_included",
+        "washer_dryer_access",
+        "private_patio",
+        "outdoor_grill",
+        "street_parking",
+        "garden",
+        "bay_views",
+        "private_entry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4682591208642549",
+      "posted_at": "Sunday 16 August 2026 at 15:05",
+      "first_scraped_at": "2026-08-16T23:00:06.479824+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
