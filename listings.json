@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-16T20:09:26.323413",
-  "count": 1309,
+  "updated_at": "2026-08-16T21:08:28.790059",
+  "count": 1310,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -38066,7 +38066,7 @@
       "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4682744675293869",
-      "posted_at": null,
+      "posted_at": "Sunday 16 August 2026 at 19:01",
       "first_scraped_at": "2026-08-17T03:00:02.830916+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
@@ -38093,6 +38093,33 @@
       "posted_at": "Sunday 16 August 2026 at 19:35",
       "first_scraped_at": "2026-08-17T03:00:02.830916+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4682795188622151",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2874,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-08-24",
+      "available_until": "2027-08-23",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "attached_bath",
+        "sunlit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "SoMa Square Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4682795188622151",
+      "posted_at": "Sunday 16 August 2026 at 20:11",
+      "first_scraped_at": "2026-08-17T04:00:05.783796+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
