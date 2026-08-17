@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-17T09:05:19.703208",
-  "count": 1311,
+  "updated_at": "2026-08-17T10:06:03.769778",
+  "count": 1312,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -38148,6 +38148,35 @@
       "posted_at": "Sunday 16 August 2026 at 23:41",
       "first_scraped_at": "2026-08-17T13:00:03.294290+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1982112059147033",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Mill Valley",
+      "area": "North Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "strong_internet",
+        "kitchenette",
+        "shared_washer_dryer",
+        "parking_on_street"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1982112059147033",
+      "posted_at": "Monday 17 August 2026 at 09:19",
+      "first_scraped_at": "2026-08-17T17:00:03.290278+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
