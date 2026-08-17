@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-17T11:05:48.112231",
-  "count": 1312,
+  "updated_at": "2026-08-17T12:05:06.915403",
+  "count": 1313,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -38176,6 +38176,38 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1982112059147033",
       "posted_at": "Monday 17 August 2026 at 09:19",
       "first_scraped_at": "2026-08-17T17:00:03.290278+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1982212735803632",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-12-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop_sky_deck",
+        "indoor_lap_pool",
+        "sauna",
+        "gym",
+        "high_speed_wifi",
+        "chef_kitchen"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1982212735803632",
+      "posted_at": "Monday 17 August 2026 at 12:01",
+      "first_scraped_at": "2026-08-17T19:00:03.258443+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
