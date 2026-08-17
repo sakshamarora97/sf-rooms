@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-16T19:08:11.007223",
-  "count": 1307,
+  "updated_at": "2026-08-16T20:09:26.323413",
+  "count": 1309,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -38035,6 +38035,64 @@
       "posted_at": "Sunday 16 August 2026 at 15:05",
       "first_scraped_at": "2026-08-16T23:00:06.479824+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4682744675293869",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2050,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "furnished",
+        "shared_backyard",
+        "street_parking",
+        "near_bart",
+        "near_muni",
+        "stainless_steel_appliances",
+        "top_floor",
+        "recently_remodeled"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4682744675293869",
+      "posted_at": null,
+      "first_scraped_at": "2026-08-17T03:00:02.830916+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1981604189197820",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Soma Square",
+      "area": "San Francisco",
+      "available_from": "2026-09-05",
+      "available_until": "2026-09-20",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Soma Square Apartments",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1981604189197820",
+      "posted_at": "Sunday 16 August 2026 at 19:35",
+      "first_scraped_at": "2026-08-17T03:00:02.830916+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
