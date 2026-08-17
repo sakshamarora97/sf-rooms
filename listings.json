@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-17T12:05:06.915403",
-  "count": 1313,
+  "updated_at": "2026-08-17T13:07:04.637009",
+  "count": 1314,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -38208,6 +38208,47 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1982212735803632",
       "posted_at": "Monday 17 August 2026 at 12:01",
       "first_scraped_at": "2026-08-17T19:00:03.258443+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1982226669135572",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": 1600,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-09-13",
+      "available_until": "2026-09-25",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "queen_bed",
+        "stove",
+        "oven",
+        "dishwasher",
+        "coffee_maker",
+        "Vitamix",
+        "55in_TV",
+        "large_walk-in_closet",
+        "towels_linens_toiletries_included",
+        "laundry_in_building",
+        "top_floor",
+        "large_desk_with_two_monitors",
+        "Herman_Miller_chair",
+        "reliable_WiFi",
+        "updated_kitchen_and_bathroom",
+        "street_parking_only"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1982226669135572",
+      "posted_at": "Monday 17 August 2026 at 12:22",
+      "first_scraped_at": "2026-08-17T20:00:06.998580+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
