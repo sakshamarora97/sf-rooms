@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-18T15:08:34.598481",
-  "count": 1359,
+  "updated_at": "2026-08-18T16:10:12.259465",
+  "count": 1360,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -39591,6 +39591,38 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1983101012381471",
       "posted_at": "Tuesday 18 August 2026 at 13:08",
       "first_scraped_at": "2026-08-18T21:00:03.305953+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1982558655769040",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2500,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-09-21",
+      "available_until": "2027-01-03",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "separate_kitchen",
+        "furnished",
+        "high_speed_internet",
+        "hardwood_floors",
+        "ample_closet_storage",
+        "bathtub",
+        "parking_available"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1982558655769040",
+      "posted_at": "Monday 17 August 2026 at 23:03",
+      "first_scraped_at": "2026-08-18T23:00:04.992831+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
