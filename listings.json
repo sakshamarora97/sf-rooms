@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-18T16:10:12.259465",
-  "count": 1360,
+  "updated_at": "2026-08-18T17:10:04.583400",
+  "count": 1361,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -39624,6 +39624,34 @@
       "posted_at": "Monday 17 August 2026 at 23:03",
       "first_scraped_at": "2026-08-18T23:00:04.992831+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4684768508424819",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Portola",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "laundry",
+        "street_parking",
+        "shared_bathroom"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4684768508424819",
+      "posted_at": "Tuesday 18 August 2026 at 16:45",
+      "first_scraped_at": "2026-08-19T00:00:06.279912+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
