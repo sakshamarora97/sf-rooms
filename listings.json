@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-19T15:12:53.697876",
-  "count": 1391,
+  "updated_at": "2026-08-19T16:09:34.134743",
+  "count": 1392,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -40560,6 +40560,45 @@
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/27945023145154975",
       "posted_at": "Wednesday 19 August 2026 at 14:59",
       "first_scraped_at": "2026-08-19T22:00:02.248726+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27931761326481157",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Little Italy",
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "private_balcony",
+        "parking (gated garage, included)",
+        "pool",
+        "spa",
+        "fitness_center",
+        "sauna",
+        "steam_room",
+        "outdoor_gardens",
+        "fireplaces",
+        "resident_lounge",
+        "secure_building_access",
+        "floor_to_ceiling_windows",
+        "hardwood_floors",
+        "fully_equipped_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Electra",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27931761326481157",
+      "posted_at": "Wednesday 19 August 2026 at 14:59",
+      "first_scraped_at": "2026-08-19T23:00:01.306548+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
