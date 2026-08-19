@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-19T10:06:22.713112",
-  "count": 1375,
+  "updated_at": "2026-08-19T11:07:09.164339",
+  "count": 1379,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -40084,6 +40084,116 @@
       "posted_at": "Wednesday 19 August 2026 at 09:29",
       "first_scraped_at": "2026-08-19T17:00:02.181654+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4685605728341097",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2300,
+      "neighborhood": "Marina",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": "2026-09-30",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "wifi"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4685605728341097",
+      "posted_at": "Wednesday 19 August 2026 at 10:56",
+      "first_scraped_at": "2026-08-19T18:00:03.133219+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4685583391676664",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Visitacion Valley",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "shared_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4685583391676664",
+      "posted_at": "Wednesday 19 August 2026 at 10:31",
+      "first_scraped_at": "2026-08-19T18:00:03.133219+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4685571318344538",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "heated swimming pool",
+        "theater",
+        "rooftop"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "100 Van Ness",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4685571318344538",
+      "posted_at": "Wednesday 19 August 2026 at 10:16",
+      "first_scraped_at": "2026-08-19T18:00:03.133219+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1983840468974192",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2600,
+      "neighborhood": "SoMA",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "rooftop"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1983840468974192",
+      "posted_at": "Wednesday 19 August 2026 at 10:15",
+      "first_scraped_at": "2026-08-19T18:00:03.133219+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
