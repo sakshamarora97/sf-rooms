@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-18T17:10:04.583400",
-  "count": 1361,
+  "updated_at": "2026-08-18T18:08:58.962608",
+  "count": 1362,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -39651,6 +39651,39 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4684768508424819",
       "posted_at": "Tuesday 18 August 2026 at 16:45",
       "first_scraped_at": "2026-08-19T00:00:06.279912+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4684749968426673",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Mission Dolores / Noe Valley",
+      "area": "San Francisco",
+      "available_from": "2026-08-23",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "laundry_in_building",
+        "bike_storage",
+        "shared_back_patio",
+        "large_kitchen",
+        "living_room",
+        "street_parking",
+        "near_bart",
+        "private_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4684749968426673",
+      "posted_at": "Tuesday 18 August 2026 at 16:15",
+      "first_scraped_at": "2026-08-19T01:00:06.718049+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
