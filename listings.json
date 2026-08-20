@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-19T21:07:47.904838",
-  "count": 1395,
+  "updated_at": "2026-08-19T22:10:59.983522",
+  "count": 1397,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -40687,6 +40687,62 @@
       "posted_at": "Wednesday 19 August 2026 at 19:42",
       "first_scraped_at": "2026-08-20T03:00:06.525795+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "27954168327573790",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-08-19",
+      "available_until": "2027-11-30",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "utilities_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Pinnacle",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27954168327573790",
+      "posted_at": "Wednesday 19 August 2026 at 15:01",
+      "first_scraped_at": "2026-08-20T05:00:07.405316+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27954390437551579",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "South Beach",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-10-31",
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "garage_parking",
+        "utilities",
+        "building_amenities",
+        "security"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "388 Beale",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27954390437551579",
+      "posted_at": "Wednesday 19 August 2026 at 15:01",
+      "first_scraped_at": "2026-08-20T05:00:07.405316+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
