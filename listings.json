@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-19T22:10:59.983522",
-  "count": 1397,
+  "updated_at": "2026-08-20T06:15:50.063584",
+  "count": 1398,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -40743,6 +40743,45 @@
       "posted_at": "Wednesday 19 August 2026 at 15:01",
       "first_scraped_at": "2026-08-20T05:00:07.405316+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "475bf8776847ff19",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1650,
+      "neighborhood": "Haight",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "walk_in_closet",
+        "furnished",
+        "table",
+        "chairs",
+        "mini_fridge",
+        "bed",
+        "tv",
+        "mirrors",
+        "wifi",
+        "biweekly_cleaning",
+        "in_apartment_laundry",
+        "top_floor",
+        "ample_sunlight",
+        "private_terrace"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100084367578612",
+      "posted_at": null,
+      "first_scraped_at": "2026-08-20T13:04:41.346388+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
