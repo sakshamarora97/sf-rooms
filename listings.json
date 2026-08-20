@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-20T12:08:46.384576",
-  "count": 1401,
+  "updated_at": "2026-08-20T13:09:09.644218",
+  "count": 1402,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -40866,6 +40866,36 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4686703901564613",
       "posted_at": "Thursday 20 August 2026 at 11:47",
       "first_scraped_at": "2026-08-20T19:00:02.278105+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4686749901560013",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2700,
+      "neighborhood": "South of Market (SoMa)",
+      "area": "San Francisco",
+      "available_from": "2026-08-28",
+      "available_until": "2026-12-31",
+      "unit_config": "1B1B",
+      "room_type": null,
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "co-working",
+        "rooftop",
+        "valet_parking",
+        "bikes_for_daily_use"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Quincy",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4686749901560013",
+      "posted_at": "Thursday 20 August 2026 at 12:43",
+      "first_scraped_at": "2026-08-20T20:00:04.205956+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
