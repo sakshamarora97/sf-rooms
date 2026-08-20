@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-20T10:08:44.430036",
-  "count": 1399,
+  "updated_at": "2026-08-20T11:08:10.868815",
+  "count": 1400,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -40807,6 +40807,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1984646545560251",
       "posted_at": "Thursday 20 August 2026 at 09:45",
       "first_scraped_at": "2026-08-20T17:00:03.578592+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1984684938889745",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 3000,
+      "neighborhood": "Bush & Jones",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": "2026-11-30",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "elevator",
+        "laundry",
+        "cafeteria/bar"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1984684938889745",
+      "posted_at": "Thursday 20 August 2026 at 10:48",
+      "first_scraped_at": "2026-08-20T18:00:03.496612+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
