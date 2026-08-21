@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-20T18:09:57.667419",
-  "count": 1411,
+  "updated_at": "2026-08-20T19:09:15.161304",
+  "count": 1413,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -41141,6 +41141,63 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1984884102203162",
       "posted_at": "Thursday 20 August 2026 at 16:55",
       "first_scraped_at": "2026-08-21T01:00:02.351242+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4686982281536775",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 7500,
+      "neighborhood": "San Mateo",
+      "area": "The Peninsula",
+      "available_from": "2026-09-04",
+      "available_until": null,
+      "unit_config": "4B4B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "gated_complex",
+        "remodeled_kitchen",
+        "skylights",
+        "high_ceiling"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4686982281536775",
+      "posted_at": "Thursday 20 August 2026 at 18:39",
+      "first_scraped_at": "2026-08-21T02:00:05.201619+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1984919928866246",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1800,
+      "neighborhood": "Parkmerced",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "wifi"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Parkmerced Apartments",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1984919928866246",
+      "posted_at": "Thursday 20 August 2026 at 18:07",
+      "first_scraped_at": "2026-08-21T02:00:05.201619+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
