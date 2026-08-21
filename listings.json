@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-21T09:06:28.057033",
-  "count": 1421,
+  "updated_at": "2026-08-21T10:07:06.617314",
+  "count": 1423,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -41447,6 +41447,67 @@
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/27970980009225955",
       "posted_at": "Friday 21 August 2026 at 06:54",
       "first_scraped_at": "2026-08-21T14:00:02.078770+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27970316079292348",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2000,
+      "neighborhood": "Twin Peaks",
+      "area": "San Francisco",
+      "available_from": "2026-08-30",
+      "available_until": "2026-11-30",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "garage",
+        "storage",
+        "street_parking",
+        "wifi",
+        "city_view"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27970316079292348",
+      "posted_at": "Friday 21 August 2026 at 09:53",
+      "first_scraped_at": "2026-08-21T17:00:04.836075+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "27974212025569420",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 2600,
+      "neighborhood": "Twin Peaks",
+      "area": "San Francisco",
+      "available_from": "2026-09-08",
+      "available_until": "2026-12-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "garage_parking",
+        "bay_view",
+        "large_kitchen",
+        "ensuite_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/27974212025569420",
+      "posted_at": "Friday 21 August 2026 at 06:55",
+      "first_scraped_at": "2026-08-21T17:00:04.836075+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
