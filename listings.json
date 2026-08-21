@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-21T14:06:43.996507",
-  "count": 1425,
+  "updated_at": "2026-08-21T15:06:19.752437",
+  "count": 1426,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -41569,6 +41569,37 @@
       "posted_at": "Friday 21 August 2026 at 11:37",
       "first_scraped_at": "2026-08-21T19:00:03.484812+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4687895994778737",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3850,
+      "neighborhood": "Nopa",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": "2026-09-30",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "furnished",
+        "near_panhandle",
+        "king_bed",
+        "closets",
+        "storage",
+        "natural_light"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4687895994778737",
+      "posted_at": "Friday 21 August 2026 at 14:42",
+      "first_scraped_at": "2026-08-21T22:00:06.028224+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
