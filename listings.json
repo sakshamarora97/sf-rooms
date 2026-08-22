@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-22T15:08:23.420437",
-  "count": 1439,
+  "updated_at": "2026-08-22T16:07:55.753827",
+  "count": 1440,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -41962,6 +41962,35 @@
       "posted_at": "Saturday 22 August 2026 at 13:38",
       "first_scraped_at": "2026-08-22T21:00:01.680912+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4688981704670166",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Duboce Triangle",
+      "area": "San Francisco",
+      "available_from": "2026-09-03",
+      "available_until": "2026-09-20",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "private_living_room",
+        "private_terrace",
+        "close_to_transit",
+        "near_Dolores_Park"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4688981704670166",
+      "posted_at": "Saturday 22 August 2026 at 15:54",
+      "first_scraped_at": "2026-08-22T23:00:02.293099+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
