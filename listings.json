@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-21T21:08:17.960894",
-  "count": 1430,
+  "updated_at": "2026-08-21T22:08:39.883472",
+  "count": 1431,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -41707,6 +41707,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1985802025444703",
       "posted_at": "Friday 21 August 2026 at 19:25",
       "first_scraped_at": "2026-08-22T03:00:07.395739+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1985879862103586",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Castro",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "deck",
+        "backyard_access",
+        "garage_storage",
+        "gigabit_internet",
+        "gas_range"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1985879862103586",
+      "posted_at": "Friday 21 August 2026 at 21:44",
+      "first_scraped_at": "2026-08-22T05:00:02.013966+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
