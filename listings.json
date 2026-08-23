@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-23T15:09:51.043029",
-  "count": 1455,
+  "updated_at": "2026-08-23T16:09:34.842247",
+  "count": 1456,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -42448,6 +42448,40 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1987260815298824",
       "posted_at": "Sunday 23 August 2026 at 13:37",
       "first_scraped_at": "2026-08-23T21:00:04.002001+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1987335051958067",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2640,
+      "neighborhood": "Pac Heights",
+      "area": "San Francisco",
+      "available_from": "2026-09-08",
+      "available_until": "2026-10-10",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "full_kitchen",
+        "dishwasher",
+        "tv",
+        "bathtub",
+        "building_laundry",
+        "trash_chute",
+        "recycling",
+        "city_view",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Clay Park Tower",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1987335051958067",
+      "posted_at": "Sunday 23 August 2026 at 16:00",
+      "first_scraped_at": "2026-08-23T23:00:03.475981+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
