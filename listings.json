@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-22T21:08:39.458369",
-  "count": 1444,
+  "updated_at": "2026-08-22T22:08:31.089990",
+  "count": 1445,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -42110,6 +42110,32 @@
       "posted_at": "Saturday 22 August 2026 at 20:51",
       "first_scraped_at": "2026-08-23T04:00:05.711073+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1986679695356936",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1986679695356936",
+      "posted_at": "Saturday 22 August 2026 at 21:16",
+      "first_scraped_at": "2026-08-23T05:00:02.397133+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
