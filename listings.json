@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-22T20:08:17.412745",
-  "count": 1443,
+  "updated_at": "2026-08-22T21:08:39.458369",
+  "count": 1444,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -42072,6 +42072,43 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4689051771329826",
       "posted_at": "Saturday 22 August 2026 at 17:59",
       "first_scraped_at": "2026-08-23T01:00:02.113368+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4689168537984816",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2150,
+      "neighborhood": "Crescent Village",
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "hardwood_flooring",
+        "granite_countertops",
+        "in_unit_laundry",
+        "central_AC_heating",
+        "stainless_steel_appliances",
+        "gym",
+        "private_movie_theater",
+        "game_lounge",
+        "co_working_space",
+        "conference_rooms",
+        "nearby_park",
+        "on_site_retail_and_dining"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Crescent Village",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4689168537984816",
+      "posted_at": "Saturday 22 August 2026 at 20:51",
+      "first_scraped_at": "2026-08-23T04:00:05.711073+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
