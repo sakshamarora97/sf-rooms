@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-22T22:08:31.089990",
-  "count": 1445,
+  "updated_at": "2026-08-23T06:08:48.115564",
+  "count": 1447,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -42136,6 +42136,64 @@
       "posted_at": "Saturday 22 August 2026 at 21:16",
       "first_scraped_at": "2026-08-23T05:00:02.397133+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4689353924632944",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 7350,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "central_heat",
+        "air_conditioning",
+        "fireplace",
+        "bay_windows",
+        "downtown_skyline_views"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4689353924632944",
+      "posted_at": "Sunday 23 August 2026 at 01:24",
+      "first_scraped_at": "2026-08-23T13:00:44.762971+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4689243967977273",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2800,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "7_min_walk_to_Caltrain",
+        "20_min_walk_to_Chase_Center"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4689243967977273",
+      "posted_at": "Saturday 22 August 2026 at 22:44",
+      "first_scraped_at": "2026-08-23T13:00:44.762971+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
