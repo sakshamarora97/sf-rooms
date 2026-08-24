@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-23T19:11:01.828878",
-  "count": 1458,
+  "updated_at": "2026-08-23T20:11:32.514258",
+  "count": 1460,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -42542,6 +42542,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1987426041948968",
       "posted_at": "Sunday 23 August 2026 at 19:00",
       "first_scraped_at": "2026-08-24T02:00:04.214522+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1987457288612510",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1000,
+      "neighborhood": "San Francisco",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Trinity Towers",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1987457288612510",
+      "posted_at": "Sunday 23 August 2026 at 19:57",
+      "first_scraped_at": "2026-08-24T03:00:06.132752+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1987433005281605",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "North Beach / Coit Tower / Telegraph Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2BD",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "parking",
+        "city_view",
+        "golden_gate_view",
+        "walkable",
+        "kitchen"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1987433005281605",
+      "posted_at": "Sunday 23 August 2026 at 19:13",
+      "first_scraped_at": "2026-08-24T03:00:06.132752+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
