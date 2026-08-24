@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-24T14:11:28.722783",
-  "count": 1471,
+  "updated_at": "2026-08-24T15:10:18.557421",
+  "count": 1472,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -42924,6 +42924,36 @@
       "posted_at": "Monday 24 August 2026 at 13:49",
       "first_scraped_at": "2026-08-24T21:00:02.424528+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1988131651878407",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1200,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": "2026-08-31",
+      "available_until": "2026-09-11",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "co_working_space",
+        "rooftop",
+        "gym",
+        "modern_appliances"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1988131651878407",
+      "posted_at": "Monday 24 August 2026 at 14:13",
+      "first_scraped_at": "2026-08-24T22:00:06.124949+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
