@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-24T19:10:20.024335",
-  "count": 1476,
+  "updated_at": "2026-08-24T20:08:42.129155",
+  "count": 1477,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -43074,6 +43074,40 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1988264061865166",
       "posted_at": "Monday 24 August 2026 at 18:52",
       "first_scraped_at": "2026-08-25T02:00:06.056898+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1988297381861834",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1400,
+      "neighborhood": "Polk Gulch (Lower Nob Hill)",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_bathroom",
+        "shared_living_room",
+        "full_kitchen",
+        "storage_closets",
+        "wifi_included",
+        "furnished_shared_spaces",
+        "no_garage_parking",
+        "near_transit",
+        "near_trader_joes"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1988297381861834",
+      "posted_at": "Monday 24 August 2026 at 19:49",
+      "first_scraped_at": "2026-08-25T03:00:03.026628+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
