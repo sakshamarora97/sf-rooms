@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-29T06:07:23.558991",
-  "count": 1528,
+  "updated_at": "2026-08-29T07:09:07.379300",
+  "count": 1529,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -44618,6 +44618,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1991763468181892",
       "posted_at": "Friday 28 August 2026 at 22:53",
       "first_scraped_at": "2026-08-29T13:00:03.208139+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1992024068155832",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2025,
+      "neighborhood": "Diamond Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "laundry_in_building",
+        "street_parking",
+        "natural_light",
+        "views",
+        "shared_living_area"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1992024068155832",
+      "posted_at": "Saturday 29 August 2026 at 06:06",
+      "first_scraped_at": "2026-08-29T14:00:05.032581+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
