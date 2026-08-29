@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-28T22:06:15.947365",
-  "count": 1525,
+  "updated_at": "2026-08-29T06:07:23.558991",
+  "count": 1528,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -44529,6 +44529,96 @@
       "posted_at": "Friday 28 August 2026 at 19:05",
       "first_scraped_at": "2026-08-29T03:00:02.475049+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1991962008162038",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2795,
+      "neighborhood": "Union Square",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-04-15",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "24/7_security",
+        "gym",
+        "rooftop",
+        "resident_lounge",
+        "workspaces",
+        "bike_storage",
+        "package_facilities",
+        "in_unit_laundry",
+        "stainless_steel_appliances",
+        "secure_building",
+        "natural_light"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1991962008162038",
+      "posted_at": "Saturday 29 August 2026 at 04:30",
+      "first_scraped_at": "2026-08-29T13:00:03.208139+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1991891968169042",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1991891968169042",
+      "posted_at": "Saturday 29 August 2026 at 02:40",
+      "first_scraped_at": "2026-08-29T13:00:03.208139+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1991763468181892",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "Hillsdale, San Mateo",
+      "area": "The Peninsula",
+      "available_from": "2026-09-01",
+      "available_until": "2027-01-31",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "walk_in_closet",
+        "close_to_transit",
+        "near_shopping"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1991763468181892",
+      "posted_at": "Friday 28 August 2026 at 22:53",
+      "first_scraped_at": "2026-08-29T13:00:03.208139+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
