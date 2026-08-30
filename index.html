@@ -856,6 +856,19 @@
       <option value="_bookmarked">⭐ Bookmarked</option>
     </select>
   </label>
+  <label>Posted within
+    <select id="f-posted-within">
+      <option value="3">Last 3 hours</option>
+      <option value="6">Last 6 hours</option>
+      <option value="12">Last 12 hours</option>
+      <option value="24">Last 1 day</option>
+      <option value="72">Last 3 days</option>
+      <option value="168" selected>Last 7 days</option>
+      <option value="336">Last 14 days</option>
+      <option value="720">Last 30 days</option>
+      <option value="">All time</option>
+    </select>
+  </label>
   <button class="clear-btn" id="clear-listing-filters">Clear filters</button>
 </div>
 
@@ -904,6 +917,19 @@
       <option value="applied">Applied</option>
       <option value="not_a_fit">Not a fit</option>
       <option value="_bookmarked">⭐ Bookmarked</option>
+    </select>
+  </label>
+  <label>Posted within
+    <select id="sf-posted-within">
+      <option value="3">Last 3 hours</option>
+      <option value="6">Last 6 hours</option>
+      <option value="12">Last 12 hours</option>
+      <option value="24">Last 1 day</option>
+      <option value="72">Last 3 days</option>
+      <option value="168" selected>Last 7 days</option>
+      <option value="336">Last 14 days</option>
+      <option value="720">Last 30 days</option>
+      <option value="">All time</option>
     </select>
   </label>
   <button class="clear-btn" id="clear-seeker-filters">Clear filters</button>
@@ -1108,6 +1134,10 @@ function parsePostedAt(raw) {
   }
   return null;
 }
+function postedTs(p) {
+  const t = parsePostedAt(p.posted_at);
+  return t ? t.getTime() : (p.first_scraped_at ? new Date(p.first_scraped_at).getTime() : 0);
+}
 function fmtPostedAt(raw) {
   if (!raw) return '—';
   const date = parsePostedAt(raw);
@@ -1186,6 +1216,7 @@ function renderListings() {
   const ltype        = $('f-listing-type').value;
   const furnished    = $('f-furnished').value;
   const tagFilter    = $('f-tag').value;
+  const postedWithinHours = parseInt($('f-posted-within').value) || null;
 
   let rows = allListings.filter(p => {
     if (area && p.area !== area) return false;
@@ -1197,6 +1228,7 @@ function renderListings() {
     if (furnished === 'false' && p.is_furnished !== false) return false;
     if (tagFilter === '_bookmarked' && !userBookmarks.has(p.listing_id)) return false;
     if (tagFilter && tagFilter !== '_bookmarked' && userTags.get(p.listing_id) !== tagFilter) return false;
+    if (postedWithinHours && postedTs(p) < Date.now() - postedWithinHours * 3600000) return false;
     return true;
   });
 
@@ -1299,12 +1331,13 @@ document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
   });
 });
 
-['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => {
+['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag','f-posted-within'].forEach(id => {
   $(id).addEventListener('input', () => { listingsPage = 1; renderListings(); });
   $(id).addEventListener('change', () => { listingsPage = 1; renderListings(); });
 });
 $('clear-listing-filters').addEventListener('click', () => {
   ['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => $(id).value = '');
+  $('f-posted-within').value = '168'; // default back to 1 week, not "all time"
   listingsPage = 1;
   renderListings();
 });
@@ -1324,6 +1357,7 @@ function renderSeekers() {
   const reason    = $('sf-reason').value;
   const moveinBy  = $('sf-movein').value.trim();
   const tagFilter = $('sf-tag').value;
+  const postedWithinHours = parseInt($('sf-posted-within').value) || null;
 
   let rows = allSeekers.filter(p => {
     if (sfArea && p.area !== sfArea) return false;
@@ -1333,6 +1367,7 @@ function renderSeekers() {
     if (moveinBy && p.move_in_date && p.move_in_date > moveinBy) return false;
     if (tagFilter === '_bookmarked' && !userBookmarks.has(p.listing_id)) return false;
     if (tagFilter && tagFilter !== '_bookmarked' && userTags.get(p.listing_id) !== tagFilter) return false;
+    if (postedWithinHours && postedTs(p) < Date.now() - postedWithinHours * 3600000) return false;
     return true;
   });
 
@@ -1349,6 +1384,8 @@ function renderSeekers() {
   });
 
   $('badge-seekers').textContent = allSeekers.length;
+  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
+  $('table-caption').textContent = `${rows.length} seekers${updStr}`;
 
   const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
   seekersPage = Math.min(Math.max(1, seekersPage), totalPages);
@@ -1432,12 +1469,13 @@ document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
     renderSeekers();
   });
 });
-['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id => {
+['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag','sf-posted-within'].forEach(id => {
   $(id).addEventListener('input', () => { seekersPage = 1; renderSeekers(); });
   $(id).addEventListener('change', () => { seekersPage = 1; renderSeekers(); });
 });
 $('clear-seeker-filters').addEventListener('click', () => {
   ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id=>$(id).value='');
+  $('sf-posted-within').value = '168'; // default back to 1 week, not "all time"
   seekersPage = 1;
   renderSeekers();
 });
@@ -1445,6 +1483,8 @@ $('clear-seeker-filters').addEventListener('click', () => {
 // ── Spam ──────────────────────────────────────────────────────────────────────
 function renderSpam(posts) {
   $('badge-spam').textContent = posts.length;
+  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
+  $('table-caption').textContent = `${posts.length} spam posts${updStr}`;
   if (!posts.length) { $('spam-empty').style.display='block'; $('spam-pagination').innerHTML=''; return; }
   $('spam-empty').style.display='none';
 
@@ -1475,6 +1515,18 @@ const TAB_SUBTITLES = {
   listings: 'Available rooms, subleases, and lease takeovers posted by people offering a place.',
   seekers: 'People looking for a room or roommate — post a place here if it matches what they need.',
 };
+function renderActiveTab() {
+  const active = document.querySelector('.tab.active');
+  const name = active ? active.dataset.tab : 'listings';
+  // The caption element is shared across tabs — always re-render whichever
+  // tab is actually visible last, so it never shows stale text left behind
+  // by another tab's render call.
+  if (name === 'listings') renderListings();
+  else if (name === 'seekers') renderSeekers();
+  else if (name === 'spam') renderSpam(allSpam);
+  else if (name === 'map') initMapIfNeeded();
+}
+
 document.querySelectorAll('.tab').forEach(tab => {
   tab.addEventListener('click', () => {
     document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
@@ -1488,7 +1540,7 @@ document.querySelectorAll('.tab').forEach(tab => {
     $('seeker-filters').style.display  = name==='seekers' ?'':'none';
     $('tab-subtitle').textContent = TAB_SUBTITLES[name] || '';
     $('tab-subtitle').style.display = TAB_SUBTITLES[name] ? '' : 'none';
-    if (name === 'map') initMapIfNeeded();
+    renderActiveTab();
   });
 });
 
@@ -1886,6 +1938,7 @@ async function load() {
   renderListings();
   renderSeekers();
   renderSpam(allSpam);
+  renderActiveTab(); // ensure the shared caption reflects the visible tab, not just whichever rendered last
   console.log('[load] rendered');
 
   // Load bookmarks/tags in background — never blocks the initial render
