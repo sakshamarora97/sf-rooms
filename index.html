@@ -32,6 +32,11 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <!-- Apply dark mode before CSS renders to avoid flash -->
 <script>if(localStorage.getItem('theme')==='dark')document.documentElement.classList.add('dark')</script>
 <style>
@@ -498,6 +503,46 @@
   .page-ellipsis { padding: 6px 4px; color: var(--text-4); font-size: 13px; }
   .page-info { font-size: 12px; color: var(--text-4); font-variant-numeric: tabular-nums; }
 
+  /* Map tab */
+  .map-toggle { display: flex; gap: 8px; padding-bottom: 12px; }
+  .map-toggle-btn {
+    padding: 6px 16px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-2);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .map-toggle-btn:hover { background: var(--surface-2); }
+  .map-toggle-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .map-split { display: flex; gap: 16px; height: 70vh; }
+  #map-canvas { flex: 1 1 50%; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 4px var(--shadow); background: var(--surface-2); }
+  #map-posts-list { flex: 1 1 50%; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; padding-right: 4px; }
+  .map-card {
+    background: var(--surface);
+    border-radius: 10px;
+    box-shadow: 0 1px 4px var(--shadow);
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    scroll-margin-top: 12px;
+    transition: box-shadow 0.3s, background 0.3s;
+  }
+  .map-card.highlighted { background: var(--row-bm); box-shadow: 0 0 0 2px var(--accent); }
+  .map-card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+  .map-card-rent { font-size: 18px; font-weight: 800; letter-spacing: -0.5px; color: var(--rent); font-variant-numeric: tabular-nums; }
+  .map-card-neighborhood { font-size: 13px; font-weight: 600; color: var(--text); }
+  .map-card-sub { font-size: 11px; color: var(--text-4); }
+  .leaflet-tooltip.map-rent-tooltip { font-weight: 700; font-size: 12px; }
+  @media (max-width: 900px) {
+    .map-split { flex-direction: column; height: auto; }
+    #map-canvas { height: 320px; flex: none; }
+    #map-posts-list { max-height: 420px; }
+  }
+
   /* Modal overlay */
   .modal-overlay {
     position: fixed;
@@ -752,6 +797,7 @@
   <div class="tab active" data-tab="listings">Listings <span class="badge" id="badge-listings">0</span></div>
   <div class="tab" data-tab="seekers">Seekers <span class="badge" id="badge-seekers">0</span></div>
   <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">0</span></div>
+  <div class="tab" data-tab="map">Map</div>
   <div class="spacer"></div>
   <div style="display:flex;align-items:center;font-size:11px;color:#9ca3af;font-weight:500;padding-right:4px" id="table-caption-tab"><span class="live-dot"></span><span id="table-caption"></span></div>
 </div>
@@ -922,6 +968,17 @@
     <div class="cards" id="spam-cards"></div>
     <div class="empty" id="spam-empty" style="display:none">No spam posts.</div>
     <div class="pagination" id="spam-pagination"></div>
+  </div>
+
+  <div id="view-map" style="display:none">
+    <div class="map-toggle">
+      <button class="map-toggle-btn active" data-maptype="listings" onclick="setMapType('listings')">Listings</button>
+      <button class="map-toggle-btn" data-maptype="seekers" onclick="setMapType('seekers')">Seekers</button>
+    </div>
+    <div class="map-split">
+      <div id="map-canvas"></div>
+      <div id="map-posts-list"></div>
+    </div>
   </div>
 </div>
 
@@ -1426,12 +1483,148 @@ document.querySelectorAll('.tab').forEach(tab => {
     $('view-listings').style.display = name==='listings'?'':'none';
     $('view-seekers').style.display  = name==='seekers' ?'':'none';
     $('view-spam').style.display     = name==='spam'    ?'':'none';
+    $('view-map').style.display      = name==='map'     ?'':'none';
     $('listing-filters').style.display = name==='listings'?'':'none';
     $('seeker-filters').style.display  = name==='seekers' ?'':'none';
     $('tab-subtitle').textContent = TAB_SUBTITLES[name] || '';
     $('tab-subtitle').style.display = TAB_SUBTITLES[name] ? '' : 'none';
+    if (name === 'map') initMapIfNeeded();
   });
 });
+
+// ── Map ───────────────────────────────────────────────────────────────────────
+let geocodeCache = {};
+let mapType = 'listings';
+let leafletMap = null;
+let markerCluster = null;
+let highlightedMapPostEl = null;
+const mapMarkersByListingId = {}; // listing_id -> [Leaflet marker, ...]
+
+// Deterministic small offset so posts sharing a neighborhood centroid don't
+// all stack on the exact same point — same input always gives the same
+// jitter, so pins don't shift around between page loads.
+function jitterSeed(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) { h = (h * 31 + str.charCodeAt(i)) | 0; }
+  return h;
+}
+function jitterOffset(seedStr) {
+  const h = jitterSeed(seedStr);
+  const a = ((h % 1000) / 1000) * Math.PI * 2;       // pseudo-random angle
+  const r = (((h >> 10) % 1000) / 1000) * 0.0025;     // up to ~250m radius
+  return { dLat: Math.sin(a) * r, dLon: Math.cos(a) * r };
+}
+
+function budgetRangeStr(p) {
+  if (p.budget_min && p.budget_max) return `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`;
+  if (p.budget_max) return `≤$${p.budget_max.toLocaleString()}`;
+  if (p.budget_min) return `$${p.budget_min.toLocaleString()}+`;
+  return null;
+}
+
+function initMapIfNeeded() {
+  if (leafletMap) { leafletMap.invalidateSize(); renderMap(); return; }
+  leafletMap = L.map('map-canvas').setView([37.7749, -122.4194], 10);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 18,
+  }).addTo(leafletMap);
+  markerCluster = L.markerClusterGroup();
+  leafletMap.addLayer(markerCluster);
+  renderMap();
+}
+
+window.setMapType = function(type) {
+  mapType = type;
+  document.querySelectorAll('.map-toggle-btn').forEach(b => b.classList.toggle('active', b.dataset.maptype === type));
+  renderMap();
+};
+
+function renderMap() {
+  if (!leafletMap) return;
+  markerCluster.clearLayers();
+  Object.keys(mapMarkersByListingId).forEach(k => delete mapMarkersByListingId[k]);
+  const listEl = $('map-posts-list');
+  listEl.innerHTML = '';
+
+  const posts = mapType === 'listings' ? allListings : allSeekers;
+  const cardsHtml = [];
+
+  posts.forEach(p => {
+    const neighborhoods = mapType === 'listings'
+      ? (p.neighborhood ? [p.neighborhood] : [])
+      : (p.preferred_neighborhoods || []);
+
+    let placed = false;
+    neighborhoods.forEach(nb => {
+      const name = (nb || '').trim();
+      if (!name) return;
+      const key = p.area ? `${name}, ${p.area}` : name;
+      const geo = geocodeCache[key];
+      if (!geo || geo.lat == null) return;
+
+      const { dLat, dLon } = jitterOffset(p.listing_id + '|' + key);
+      const marker = L.marker([geo.lat + dLat, geo.lon + dLon]);
+      const tooltipText = mapType === 'listings'
+        ? (p.rent != null ? `$${p.rent.toLocaleString()}/mo` : 'Rent not listed')
+        : (budgetRangeStr(p) || 'Budget not listed');
+      marker.bindTooltip(tooltipText, { className: 'map-rent-tooltip' });
+      marker.on('click', () => focusMapPost(p.listing_id));
+      markerCluster.addLayer(marker);
+      (mapMarkersByListingId[p.listing_id] ||= []).push(marker);
+      placed = true;
+    });
+
+    if (placed) {
+      cardsHtml.push(mapType === 'listings' ? listingMapCardHtml(p) : seekerMapCardHtml(p));
+    }
+  });
+
+  listEl.innerHTML = cardsHtml.join('');
+  $('table-caption').textContent = `${cardsHtml.length} of ${posts.length} ${mapType} plotted on map`;
+}
+
+function listingMapCardHtml(p) {
+  const rentStr = p.rent != null ? `$${p.rent.toLocaleString()}` : '—';
+  return `<div class="map-card" id="map-post-${p.listing_id}" onclick="focusMapPost('${p.listing_id}', true)">
+    <div class="map-card-top">
+      <div class="map-card-rent">${rentStr}</div>
+      <div class="map-card-sub">${fmtPostedAt(p.posted_at)}</div>
+    </div>
+    <div class="map-card-neighborhood">${esc(p.neighborhood||'—')}${p.area ? ' · ' + esc(p.area) : ''}</div>
+    <div class="map-card-sub">${esc((p.listing_type||'').replace(/_/g,' '))}${p.listing_type && p.duration_type ? ' · ' : ''}${esc((p.duration_type||'').replace(/_/g,' '))}</div>
+  </div>`;
+}
+
+function seekerMapCardHtml(p) {
+  const budget = budgetRangeStr(p) || '—';
+  const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).join(', ');
+  return `<div class="map-card" id="map-post-${p.listing_id}" onclick="focusMapPost('${p.listing_id}', true)">
+    <div class="map-card-top">
+      <div class="map-card-rent">${esc(budget)}</div>
+      <div class="map-card-sub">${fmtPostedAt(p.posted_at)}</div>
+    </div>
+    <div class="map-card-neighborhood">${esc(hoods||'—')}</div>
+    <div class="map-card-sub">${esc((p.reason||'').replace(/_/g,' '))}</div>
+  </div>`;
+}
+
+window.focusMapPost = function(listingId, fromCard) {
+  if (highlightedMapPostEl) highlightedMapPostEl.classList.remove('highlighted');
+  const el = $('map-post-' + listingId);
+  if (el) {
+    el.classList.add('highlighted');
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    highlightedMapPostEl = el;
+  }
+  if (fromCard) {
+    const markers = mapMarkersByListingId[listingId];
+    if (markers && markers.length) {
+      leafletMap.panTo(markers[0].getLatLng());
+      markers[0].openTooltip();
+    }
+  }
+};
 
 // ── Auth ──────────────────────────────────────────────────────────────────────
 let _authMode = 'signin'; // 'signin' | 'signup'
@@ -1669,12 +1862,14 @@ let _listingsLoaded = false;
 
 async function load() {
   console.log('[load] fetching JSON, currentUser=', currentUser?.email || null);
-  const [lData, sData, spData] = await Promise.all([
+  const [lData, sData, spData, geoData] = await Promise.all([
     fetch(DATA_BASE+'listings.json').then(r=>r.json()),
     fetch(DATA_BASE+'seekers.json').then(r=>r.json()),
     fetch(DATA_BASE+'spam.json').then(r=>r.json()),
+    fetch(DATA_BASE+'geocode_cache.json').then(r=>r.json()).catch(() => ({})),
   ]);
   console.log('[load] JSON ready — listings:', (lData.posts||[]).length, 'seekers:', (sData.posts||[]).length);
+  geocodeCache = geoData || {};
 
   const times = [lData.updated_at, sData.updated_at, spData.updated_at].filter(Boolean).sort();
   if (times.length) {
