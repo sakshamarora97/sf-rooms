@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T06:13:35.416534",
-  "count": 1543,
+  "updated_at": "2026-08-30T07:09:23.814165",
+  "count": 1545,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45066,6 +45066,70 @@
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/28061237716866850",
       "posted_at": "Sunday 30 August 2026 at 05:21",
       "first_scraped_at": "2026-08-30T13:00:04.034610+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28054368117553810",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Financial District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28054368117553810",
+      "posted_at": "Sunday 30 August 2026 at 05:22",
+      "first_scraped_at": "2026-08-30T14:00:04.532626+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28087665790890709",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Design District (Showplace Square)",
+      "area": "San Francisco",
+      "available_from": "2026-09-03",
+      "available_until": "2026-10-04",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "rooftop_deck",
+        "fitness_center",
+        "club_pilates",
+        "landscaped_courtyard",
+        "in_unit_laundry",
+        "air_conditioning",
+        "heating",
+        "ceiling_fans",
+        "hardwood_floors",
+        "walk_in_closet",
+        "ensuite_bath",
+        "stainless_steel_appliances",
+        "pet_friendly_common_areas"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28087665790890709",
+      "posted_at": "Sunday 30 August 2026 at 05:21",
+      "first_scraped_at": "2026-08-30T14:00:04.532626+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
