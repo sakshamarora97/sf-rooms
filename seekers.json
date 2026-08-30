@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T07:09:23.832070",
-  "count": 2236,
+  "updated_at": "2026-08-30T08:10:39.155538",
+  "count": 2237,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -62572,6 +62572,35 @@
       "posted_at": "Saturday 29 August 2026 at 22:29",
       "first_scraped_at": "2026-08-30T13:00:04.034610+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28055819824075306",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "in-law",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Embarcadero"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A full-time fitness professional and boxing coach who is clean, respectful, responsible, and easygoing; spends most of their time working or training.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28055819824075306",
+      "posted_at": "Sunday 30 August 2026 at 05:21",
+      "first_scraped_at": "2026-08-30T15:00:04.489037+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
