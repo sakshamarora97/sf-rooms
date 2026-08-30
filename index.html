@@ -241,6 +241,15 @@
   }
   .tab.active .badge { border-color: var(--accent-light); color: var(--accent-badge); }
 
+  /* Tab subtitle */
+  .tab-subtitle {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border-2);
+    padding: 8px 24px;
+    font-size: 12px;
+    color: var(--text-3);
+  }
+
   /* Filters */
   .filters {
     background: var(--surface);
@@ -746,6 +755,8 @@
   <div class="spacer"></div>
   <div style="display:flex;align-items:center;font-size:11px;color:#9ca3af;font-weight:500;padding-right:4px" id="table-caption-tab"><span class="live-dot"></span><span id="table-caption"></span></div>
 </div>
+
+<div class="tab-subtitle" id="tab-subtitle">Available rooms, subleases, and lease takeovers posted by people offering a place.</div>
 
 <!-- Listing filters -->
 <div class="filters" id="listing-filters">
@@ -1403,6 +1414,10 @@ window.toggleSpam = function(i) {
 };
 
 // ── Tabs ──────────────────────────────────────────────────────────────────────
+const TAB_SUBTITLES = {
+  listings: 'Available rooms, subleases, and lease takeovers posted by people offering a place.',
+  seekers: 'People looking for a room or roommate — post a place here if it matches what they need.',
+};
 document.querySelectorAll('.tab').forEach(tab => {
   tab.addEventListener('click', () => {
     document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
@@ -1413,6 +1428,8 @@ document.querySelectorAll('.tab').forEach(tab => {
     $('view-spam').style.display     = name==='spam'    ?'':'none';
     $('listing-filters').style.display = name==='listings'?'':'none';
     $('seeker-filters').style.display  = name==='seekers' ?'':'none';
+    $('tab-subtitle').textContent = TAB_SUBTITLES[name] || '';
+    $('tab-subtitle').style.display = TAB_SUBTITLES[name] ? '' : 'none';
   });
 });
 
