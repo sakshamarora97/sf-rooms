@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T13:11:20.186740",
-  "count": 2238,
+  "updated_at": "2026-08-30T14:12:34.688421",
+  "count": 2242,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -62628,6 +62628,122 @@
       "posted_at": "Sunday 30 August 2026 at 05:21",
       "first_scraped_at": "2026-08-30T17:00:05.259601+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1993125904712315",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "3-4 bedroom"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A group of San Francisco natives who recently moved back to the city, seeking a 3\u20134 bedroom rental and willing to pay up to $2,000 per room. They are open to different neighborhoods across San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993125904712315",
+      "posted_at": "Sunday 30 August 2026 at 14:02",
+      "first_scraped_at": "2026-08-30T21:00:06.433455+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993113958046843",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are quiet, clean, and out most of the day. Looking for a room, studio, or apartment in North Beach/Russian Hill with short-term or month-to-month availability and a budget of $1,500\u2013$3,500/month; can move ASAP.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993113958046843",
+      "posted_at": "Sunday 30 August 2026 at 13:36",
+      "first_scraped_at": "2026-08-30T21:00:06.433455+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993102454714660",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Polk Gulch",
+        "Russian Hill",
+        "Pac Heights",
+        "North Beach",
+        "Telegraph Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent University of San Francisco graduate working in finance in the Financial District seeking a room or roommates. Works in-office four days a week, values a clean and respectful (but social) home, flexible move-in around Nov 1, budget up to $2700.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993102454714660",
+      "posted_at": "Sunday 30 August 2026 at 13:12",
+      "first_scraped_at": "2026-08-30T21:00:06.433455+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993099514714954",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-01",
+      "move_out_date": null,
+      "budget_min": 3800,
+      "budget_max": 4500,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "Outer Sunset",
+        "Forest Knolls",
+        "West Portal",
+        "Twin Peaks",
+        "Cole Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a 1\u20132 bedroom in San Francisco. One is a mental health therapist and the other is a second-year neurology resident at UCSF; they have a well-trained 10 lb dog.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993099514714954",
+      "posted_at": "Sunday 30 August 2026 at 13:06",
+      "first_scraped_at": "2026-08-30T21:00:06.433455+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
