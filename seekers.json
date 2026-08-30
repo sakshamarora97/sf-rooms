@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T09:11:21.615077",
-  "count": 2237,
+  "updated_at": "2026-08-30T10:12:02.249100",
+  "count": 2238,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -62600,6 +62600,33 @@
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/28055819824075306",
       "posted_at": "Sunday 30 August 2026 at 05:21",
       "first_scraped_at": "2026-08-30T15:00:04.489037+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28071853089138646",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "near Caltrain station"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "She is a 23-year-old software engineer relocating from NYC to the Bay Area for a new job, seeking a roommate in her 20s and an apartment in San Francisco near a Caltrain station by early to mid-September.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28071853089138646",
+      "posted_at": "Sunday 30 August 2026 at 05:21",
+      "first_scraped_at": "2026-08-30T17:00:05.259601+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
