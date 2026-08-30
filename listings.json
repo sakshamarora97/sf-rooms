@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T14:12:34.661806",
-  "count": 1551,
+  "updated_at": "2026-08-30T15:12:32.168328",
+  "count": 1552,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45216,30 +45216,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "67df1e581b963292",
-      "post_type": "listing",
-      "listing_type": "room_rental",
-      "duration_type": "long_term",
-      "rent": 1830,
-      "neighborhood": "Fremont",
-      "area": "East Bay",
-      "available_from": "2026-09-01",
-      "available_until": null,
-      "unit_config": "2B2B",
-      "room_type": "private_room",
-      "is_furnished": null,
-      "roommates_count": null,
-      "amenities": null,
-      "utilities_included": null,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": "The Asher Apartments",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100006253715776",
-      "posted_at": null,
-      "first_scraped_at": "2026-08-30T21:00:06.433455+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4697322423836094",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -45293,6 +45269,58 @@
       "posted_at": "Sunday 30 August 2026 at 13:30",
       "first_scraped_at": "2026-08-30T21:00:06.433455+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4697350053833331",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1830,
+      "neighborhood": "Fremont",
+      "area": "East Bay",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "walkable_to_bart",
+        "private_outdoor_space",
+        "near_park"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Asher Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4697350053833331",
+      "posted_at": "Sunday 30 August 2026 at 13:48",
+      "first_scraped_at": "2026-08-30T22:00:06.368054+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "f0f0d6d75bc51539",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/user/100011260547937",
+      "posted_at": null,
+      "first_scraped_at": "2026-08-30T22:00:06.368054+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }

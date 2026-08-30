@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T14:12:34.688421",
-  "count": 2242,
+  "updated_at": "2026-08-30T15:12:32.195442",
+  "count": 2243,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -62744,6 +62744,37 @@
       "posted_at": "Sunday 30 August 2026 at 13:06",
       "first_scraped_at": "2026-08-30T21:00:06.433455+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4697366110498392",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B2B",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "SoMa",
+        "Mission Bay",
+        "Nob Hill",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works full-time in tech/IT, goes into the office 3\u20134 days a week. Clean, considerate, values personal space and tidy shared areas; enjoys music, weekend hikes, outdoor activities, and exploring new spots around the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4697366110498392",
+      "posted_at": "Sunday 30 August 2026 at 14:14",
+      "first_scraped_at": "2026-08-30T22:00:06.368054+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
