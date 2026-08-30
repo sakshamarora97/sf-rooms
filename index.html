@@ -175,6 +175,36 @@
     backdrop-filter: blur(4px);
   }
   #auth-btn:hover { background: rgba(255,255,255,0.95); }
+
+  /* Report-issue button */
+  #report-issue-btn {
+    padding: 7px 14px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid rgba(153,27,27,0.35);
+    background: rgba(220,38,38,0.14);
+    color: #7f1d1d;
+    white-space: nowrap;
+    margin-right: 8px;
+    position: relative;
+    z-index: 3;
+  }
+  #report-issue-btn:hover { background: rgba(220,38,38,0.24); }
+  html.dark #report-issue-btn { background: rgba(248,113,113,0.16); border-color: rgba(248,113,113,0.4); color: #fecaca; }
+  html.dark #report-issue-btn:hover { background: rgba(248,113,113,0.26); }
+
+  /* Footer */
+  .site-footer {
+    text-align: center;
+    padding: 28px 16px 36px;
+    font-size: 12px;
+    color: var(--text-4);
+  }
+  .site-footer a { color: var(--accent); text-decoration: none; }
+  .site-footer a:hover { text-decoration: underline; }
+
   #user-menu { position: relative; display: flex; align-items: center; gap: 10px; }
   #user-email { font-size: 12px; color: var(--text-3); }
   #signout-btn { font-size: 12px; color: var(--text-3); cursor: pointer; text-decoration: underline; border: none; background: none; padding: 0; }
@@ -703,6 +733,7 @@
       <circle cx="380" cy="5"  r="5"   fill="#fbbf24" opacity="0.2"/>
     </g>
   </svg>
+  <button id="report-issue-btn" onclick="openFeedbackModal('site_down')" title="Report the site being down or not updated">⚠ Report issue</button>
   <div id="auth-area">
     <button id="auth-btn" onclick="showAuthModal()">Sign in</button>
   </div>
@@ -880,6 +911,26 @@
     <div class="cards" id="spam-cards"></div>
     <div class="empty" id="spam-empty" style="display:none">No spam posts.</div>
     <div class="pagination" id="spam-pagination"></div>
+  </div>
+</div>
+
+<footer class="site-footer">
+  Have feedback or a feature request? <a href="#" onclick="openFeedbackModal('feedback');return false;">Contact us</a>
+</footer>
+
+<!-- Feedback / report-issue modal -->
+<div class="modal-overlay" id="feedback-modal" style="display:none" onclick="if(event.target===this)closeFeedbackModal()">
+  <div class="modal">
+    <h3 id="feedback-modal-title">Report an issue</h3>
+    <p id="feedback-modal-desc"></p>
+    <textarea id="feedback-message" placeholder="What's going on?" style="min-height:100px"></textarea>
+    <input type="email" id="feedback-email" placeholder="your@email.com" autocomplete="email">
+    <p id="feedback-email-hint" style="font-size:12px;color:var(--text-3)"></p>
+    <div id="feedback-status" style="display:none;font-size:13px;text-align:center;padding:10px;border-radius:8px;"></div>
+    <div class="modal-actions">
+      <button class="btn-secondary" onclick="closeFeedbackModal()">Cancel</button>
+      <button class="btn-primary" style="width:auto" id="feedback-submit-btn" onclick="submitFeedback()">Send</button>
+    </div>
   </div>
 </div>
 
@@ -1539,6 +1590,63 @@ window.deleteNote = async function() {
   renderListings(); renderSeekers();
 };
 
+// ── Feedback / report-issue modal ────────────────────────────────────────────
+let _feedbackType = 'feedback';
+
+window.openFeedbackModal = function(type) {
+  _feedbackType = type;
+  const isDown = type === 'site_down';
+  $('feedback-modal-title').textContent = isDown ? 'Report an issue' : 'Feedback & feature requests';
+  $('feedback-modal-desc').textContent = isDown
+    ? "Tell us what's wrong — e.g. listings look stale or the site seems down."
+    : 'Suggestions, bug reports, feature ideas — we read everything.';
+  $('feedback-message').placeholder = isDown
+    ? "What's going on? (e.g. “no new listings in 3 days”)"
+    : "What's on your mind?";
+  $('feedback-email-hint').textContent = isDown
+    ? "Optional — leave your email if you'd like us to let you know once it's back up."
+    : 'Optional — leave your email if you’d like us to follow up.';
+  $('feedback-message').value = '';
+  $('feedback-email').value = currentUser?.email || '';
+  $('feedback-status').style.display = 'none';
+  $('feedback-modal').style.display = 'flex';
+  setTimeout(() => $('feedback-message').focus(), 50);
+};
+
+window.closeFeedbackModal = function() {
+  $('feedback-modal').style.display = 'none';
+};
+
+function _showFeedbackMsg(msg, ok) {
+  const el = $('feedback-status');
+  el.textContent = msg;
+  el.style.display = 'block';
+  el.style.background = ok ? '#f0fdf4' : '#fef2f2';
+  el.style.color = ok ? '#166534' : '#991b1b';
+}
+
+window.submitFeedback = async function() {
+  const message = $('feedback-message').value.trim();
+  const email = $('feedback-email').value.trim();
+  if (!message) { _showFeedbackMsg('Please enter a message.', false); return; }
+  $('feedback-submit-btn').disabled = true;
+  const { error } = await supa.from('feedback').insert({
+    type: _feedbackType,
+    message,
+    email: email || null,
+    user_id: currentUser?.id || null,
+    page_url: window.location.href,
+  });
+  $('feedback-submit-btn').disabled = false;
+  if (error) {
+    console.warn('[feedback] insert failed:', error);
+    _showFeedbackMsg('Something went wrong — please try again.', false);
+    return;
+  }
+  _showFeedbackMsg("Thanks — we've got it!", true);
+  setTimeout(closeFeedbackModal, 1500);
+};
+
 // ── Load data ─────────────────────────────────────────────────────────────────
 let _listingsLoaded = false;
 
@@ -1554,7 +1662,7 @@ async function load() {
   const times = [lData.updated_at, sData.updated_at, spData.updated_at].filter(Boolean).sort();
   if (times.length) {
     const d = new Date(times[times.length-1]);
-    const timeStr = d.toLocaleString('en-US',{hour:'numeric',minute:'2-digit'});
+    const timeStr = d.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
     window._updatedTimeStr = timeStr;
   }
 
