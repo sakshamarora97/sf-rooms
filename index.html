@@ -517,6 +517,17 @@
   }
   .map-toggle-btn:hover { background: var(--surface-2); }
   .map-toggle-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  #map-posted-within {
+    margin-left: 8px;
+    padding: 6px 10px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-2);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+  }
   .map-split { display: flex; gap: 16px; height: 70vh; }
   #map-canvas { flex: 1 1 50%; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 4px var(--shadow); background: var(--surface-2); }
   #map-posts-list { flex: 1 1 50%; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; padding-right: 4px; }
@@ -1000,6 +1011,17 @@
     <div class="map-toggle">
       <button class="map-toggle-btn active" data-maptype="listings" onclick="setMapType('listings')">Listings</button>
       <button class="map-toggle-btn" data-maptype="seekers" onclick="setMapType('seekers')">Seekers</button>
+      <select id="map-posted-within" onchange="renderMap()">
+        <option value="3">Last 3 hours</option>
+        <option value="6">Last 6 hours</option>
+        <option value="12">Last 12 hours</option>
+        <option value="24">Last 1 day</option>
+        <option value="72">Last 3 days</option>
+        <option value="168" selected>Last 7 days</option>
+        <option value="336">Last 14 days</option>
+        <option value="720">Last 30 days</option>
+        <option value="">All time</option>
+      </select>
     </div>
     <div class="map-split">
       <div id="map-canvas"></div>
@@ -1599,7 +1621,11 @@ function renderMap() {
   const listEl = $('map-posts-list');
   listEl.innerHTML = '';
 
-  const posts = mapType === 'listings' ? allListings : allSeekers;
+  const allPosts = mapType === 'listings' ? allListings : allSeekers;
+  const postedWithinHours = parseInt($('map-posted-within').value) || null;
+  const posts = postedWithinHours
+    ? allPosts.filter(p => postedTs(p) >= Date.now() - postedWithinHours * 3600000)
+    : allPosts;
   const cardsHtml = [];
 
   posts.forEach(p => {
