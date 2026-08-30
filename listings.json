@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T15:12:32.168328",
-  "count": 1552,
+  "updated_at": "2026-08-30T16:13:28.449404",
+  "count": 1555,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45299,6 +45299,33 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
+      "listing_id": "80275386be18e28b",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3800,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "dedicated_workstation",
+        "high_speed_internet"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/621253781",
+      "posted_at": null,
+      "first_scraped_at": "2026-08-30T23:00:07.291917+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
       "listing_id": "f0f0d6d75bc51539",
       "post_type": "listing",
       "listing_type": "entire_unit",
@@ -45319,8 +45346,62 @@
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/843764532374203/user/100011260547937",
       "posted_at": null,
-      "first_scraped_at": "2026-08-30T22:00:06.368054+00:00",
+      "first_scraped_at": "2026-08-30T23:00:07.291917+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28071901409133814",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28071901409133814",
+      "posted_at": "Sunday 30 August 2026 at 05:21",
+      "first_scraped_at": "2026-08-30T23:00:07.291917+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1993179251373647",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2950,
+      "neighborhood": "Mission Bay / South Beach",
+      "area": "San Francisco",
+      "available_from": "2026-09-23",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "high_speed_wifi",
+        "gym",
+        "secure_building",
+        "garage_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993179251373647",
+      "posted_at": "Sunday 30 August 2026 at 16:02",
+      "first_scraped_at": "2026-08-30T23:00:07.291917+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
