@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T12:07:52.234452",
-  "count": 2261,
+  "updated_at": "2026-08-31T13:08:02.870570",
+  "count": 2263,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63267,6 +63267,69 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993904061301166",
       "posted_at": "Monday 31 August 2026 at 11:49",
       "first_scraped_at": "2026-08-31T19:00:01.860595+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993939204630985",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "Potrero Hill (east side, near 22nd Street station)",
+        "Mission",
+        "Bernal Heights",
+        "Glen Park",
+        "Noe Valley",
+        "SoMa",
+        "Mission Bay",
+        "Burlingame (downtown)",
+        "San Carlos",
+        "Redwood City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a room ASAP with easy access to Caltrain. Preferred neighborhoods include Dogpatch, the east side of Potrero Hill near 22nd Street, Mission, Bernal Heights, Glen Park, Noe Valley, SoMa/Mission Bay, and downtown Burlingame/San Carlos/Redwood City.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993939204630985",
+      "posted_at": "Monday 31 August 2026 at 12:54",
+      "first_scraped_at": "2026-08-31T20:00:01.904990+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993935084631397",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a 2-bedroom, 1-bath apartment in Dogpatch or Potrero Hill and needs to move in ASAP.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993935084631397",
+      "posted_at": "Monday 31 August 2026 at 12:46",
+      "first_scraped_at": "2026-08-31T20:00:01.904990+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

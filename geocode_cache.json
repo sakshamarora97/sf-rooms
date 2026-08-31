@@ -284,6 +284,11 @@
     "lat": 37.7857615,
     "lon": -122.2485801
   },
+  "Burlingame (downtown), San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Burlingame, San Francisco": {
     "lat": null,
     "lon": null,
@@ -2210,6 +2215,11 @@
     "lon": null,
     "retries": 3
   },
+  "Potrero Hill (east side, near 22nd Street station), San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Potrero Hill / Dogpatch, San Francisco": {
     "lat": null,
     "lon": null,
@@ -2482,6 +2492,10 @@
   "San Bruno, The Peninsula": {
     "lat": 37.6248536,
     "lon": -122.4145986
+  },
+  "San Carlos, San Francisco": {
+    "lat": 37.7598283,
+    "lon": -122.4199726
   },
   "San Carlos, The Peninsula": {
     "lat": 37.504936,

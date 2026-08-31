@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T12:07:52.217909",
-  "count": 1566,
+  "updated_at": "2026-08-31T13:08:02.853885",
+  "count": 1567,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45738,6 +45738,40 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993902761301296",
       "posted_at": "Monday 31 August 2026 at 11:47",
       "first_scraped_at": "2026-08-31T19:00:01.860595+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993940994630806",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3100,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": "2027-05-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "microwave",
+        "rooftop",
+        "gym",
+        "yoga_room",
+        "parking",
+        "lounge/study_floor",
+        "24/7_security"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Quincy Apartments",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993940994630806",
+      "posted_at": "Monday 31 August 2026 at 12:58",
+      "first_scraped_at": "2026-08-31T20:00:01.904990+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
