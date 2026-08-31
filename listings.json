@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T07:08:54.201405",
-  "count": 1561,
+  "updated_at": "2026-08-31T08:11:17.584816",
+  "count": 1564,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45595,6 +45595,97 @@
       "posted_at": "Monday 31 August 2026 at 00:08",
       "first_scraped_at": "2026-08-31T13:01:18.882014+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28095733680083920",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "East Cut",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "fitness_center",
+        "spa",
+        "private_courtyard",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "388 Beale",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28095733680083920",
+      "posted_at": "Monday 31 August 2026 at 07:48",
+      "first_scraped_at": "2026-08-31T15:00:01.525970+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28097803646543590",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "Haight Ashbury / Panhandle",
+      "area": "San Francisco",
+      "available_from": "2026-09-30",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_furnished_living_room",
+        "shared_furnished_kitchen",
+        "shared_furnished_bathroom",
+        "near_public_transit",
+        "near_park"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28097803646543590",
+      "posted_at": "Monday 31 August 2026 at 07:47",
+      "first_scraped_at": "2026-08-31T15:00:01.525970+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28095390576784897",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": "Downtown San Jose",
+      "area": "South Bay",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "4B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "ensuite_bathroom",
+        "shared_bathroom",
+        "utilities_included",
+        "public_transport_access",
+        "near_shopping",
+        "near_restaurants",
+        "downtown_location"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28095390576784897",
+      "posted_at": "Monday 31 August 2026 at 07:46",
+      "first_scraped_at": "2026-08-31T15:00:01.525970+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }

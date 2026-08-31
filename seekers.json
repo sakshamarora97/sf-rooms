@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T07:08:54.227654",
-  "count": 2254,
+  "updated_at": "2026-08-31T08:11:17.610036",
+  "count": 2257,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63068,6 +63068,94 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993650887993150",
       "posted_at": "Monday 31 August 2026 at 06:04",
       "first_scraped_at": "2026-08-31T14:00:01.780433+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28094916586832296",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a studio or one-bedroom and can move immediately or by mid-September. Prefers a short stay (~3 months) but is flexible up to 12 months; has a pet and is open to subleases and lease takeovers.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28094916586832296",
+      "posted_at": "Monday 31 August 2026 at 07:48",
+      "first_scraped_at": "2026-08-31T15:00:01.525970+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28095913450065943",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-30",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "North Beach",
+        "Marina",
+        "Dogpatch",
+        "Mission",
+        "Inner Richmond",
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "She is a product designer and master's student in design, new to the city and looking to move by the end of September. She works in-office five days a week, is an early riser, enjoys cooking and hosting, keeps shared spaces very clean, and hopes to make friends with roommates.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28095913450065943",
+      "posted_at": "Monday 31 August 2026 at 07:48",
+      "first_scraped_at": "2026-08-31T15:00:01.525970+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1993756741315898",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-15",
+      "move_out_date": "2026-10-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Rincon Hill",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are moving to San Francisco from New York City and seeking a temporary sublet from 9/15\u201310/15. They work remotely two days a week and plan to spend most days exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993756741315898",
+      "posted_at": "Monday 31 August 2026 at 07:59",
+      "first_scraped_at": "2026-08-31T15:00:01.525970+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
