@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T16:13:28.667742",
-  "count": 2243,
+  "updated_at": "2026-08-30T17:11:26.400460",
+  "count": 2245,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -62775,6 +62775,68 @@
       "posted_at": "Sunday 30 August 2026 at 14:14",
       "first_scraped_at": "2026-08-30T22:00:06.368054+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1993192794705626",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2BR"
+      ],
+      "preferred_neighborhoods": [
+        "Arsicault"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a furnished 2BR with parking within a 20-minute walk of Arsicault for their parents' short stay from mid-December to the end of January.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993192794705626",
+      "posted_at": "Sunday 30 August 2026 at 16:33",
+      "first_scraped_at": "2026-08-31T00:00:02.191706+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993008604724045",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "Outer Sunset",
+        "Inner Richmond",
+        "Outer Richmond",
+        "SoMa",
+        "Mission",
+        "Hayes Valley",
+        "Lower Haight",
+        "NOPA",
+        "Potrero Hill",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent UCLA graduate relocating to San Francisco for a banking job in SoMa. She is clean, organized, easygoing, works in-office most weekdays, and enjoys traveling, hiking, karaoke, reading, romcoms, and board games.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993008604724045",
+      "posted_at": "Sunday 30 August 2026 at 10:27",
+      "first_scraped_at": "2026-08-31T00:00:02.191706+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
