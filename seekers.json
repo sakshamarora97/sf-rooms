@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T17:11:26.400460",
-  "count": 2245,
+  "updated_at": "2026-08-30T18:14:01.958728",
+  "count": 2247,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -62836,6 +62836,56 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993008604724045",
       "posted_at": "Sunday 30 August 2026 at 10:27",
       "first_scraped_at": "2026-08-31T00:00:02.191706+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4697459540489049",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "He is in his 60s and urgently seeking a long-term rental in San Francisco starting Sept 1; can stay short-term temporarily, has a car and enjoys cooking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4697459540489049",
+      "posted_at": "Sunday 30 August 2026 at 17:09",
+      "first_scraped_at": "2026-08-31T01:00:04.535995+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1993233824701523",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are responsible, clean roommates seeking a well-maintained private 1-bedroom apartment in San Francisco, preferably with parking, for move-in on Oct 1 on a long-term lease (minimum 6 months).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993233824701523",
+      "posted_at": "Sunday 30 August 2026 at 18:01",
+      "first_scraped_at": "2026-08-31T01:00:04.535995+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
