@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T15:07:38.700939",
-  "count": 2267,
+  "updated_at": "2026-08-31T16:08:44.275232",
+  "count": 2269,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63445,6 +63445,58 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993980154626890",
       "posted_at": "Monday 31 August 2026 at 14:19",
       "first_scraped_at": "2026-08-31T22:00:01.360539+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "9af00181a78b0519",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two roommates searching for a third to join a 3-bedroom, 2-bath apartment in the Mission District or nearby neighborhoods. They are apartment hunting with an expected per-person rent of about $2,000\u2013$2,600.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100049982926167",
+      "posted_at": null,
+      "first_scraped_at": "2026-08-31T23:00:03.148369+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1994015734623332",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "The poster works in consulting and currently lives with a founding engineer at an AI startup. They are friendly, social, and seeking a roommate for a welcoming, social home in the Mission District.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994015734623332",
+      "posted_at": "Monday 31 August 2026 at 15:40",
+      "first_scraped_at": "2026-08-31T23:00:03.148369+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
