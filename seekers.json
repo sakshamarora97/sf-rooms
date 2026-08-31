@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T06:10:57.829883",
-  "count": 2252,
+  "updated_at": "2026-08-31T07:08:54.227654",
+  "count": 2254,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63014,6 +63014,60 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993380311353541",
       "posted_at": "Sunday 30 August 2026 at 22:34",
       "first_scraped_at": "2026-08-31T13:01:18.882014+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993675447990694",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1650,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "student",
+      "age": 21,
+      "bio": "They are a 21-year-old student moving to San Francisco for business development. They are clean, active, gay, and seeking a room or roommates with a similar lifestyle.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993675447990694",
+      "posted_at": "Monday 31 August 2026 at 06:39",
+      "first_scraped_at": "2026-08-31T14:00:01.780433+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993650887993150",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Telegraph Hill",
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Looks for a studio near North Beach/Telegraph Hill/Financial District; moving to San Francisco for work with a budget of $1,500\u2013$2,400 and move-in ASAP. Describes themself as clean and quiet.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993650887993150",
+      "posted_at": "Monday 31 August 2026 at 06:04",
+      "first_scraped_at": "2026-08-31T14:00:01.780433+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
