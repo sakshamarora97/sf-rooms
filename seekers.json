@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T19:12:36.860965",
-  "count": 2247,
+  "updated_at": "2026-08-30T20:12:03.625892",
+  "count": 2248,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -62887,6 +62887,34 @@
       "posted_at": "Sunday 30 August 2026 at 18:01",
       "first_scraped_at": "2026-08-31T01:00:04.535995+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4697572020477801",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond",
+        "Sunset",
+        "Haight"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "They are a 25-year-old artist and photographer relocating to San Francisco for a full-time framing job. They are clean, reliable, respectful of shared spaces, and have a small senior dog with an ESA letter; they enjoy arts, music, and occasional socializing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4697572020477801",
+      "posted_at": "Sunday 30 August 2026 at 19:58",
+      "first_scraped_at": "2026-08-31T03:00:02.458325+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

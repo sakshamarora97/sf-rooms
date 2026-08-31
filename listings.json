@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T19:12:36.832680",
-  "count": 1556,
+  "updated_at": "2026-08-30T20:12:03.599056",
+  "count": 1557,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45440,6 +45440,41 @@
       "posted_at": "Sunday 30 August 2026 at 17:10",
       "first_scraped_at": "2026-08-31T01:00:04.535995+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4697536130481390",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1850,
+      "neighborhood": "Santa Clara",
+      "area": "South Bay",
+      "available_from": "2026-09-26",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "private_bathroom",
+        "parking",
+        "dishwasher",
+        "refrigerator",
+        "patio_deck",
+        "gated_community",
+        "swimming_pool",
+        "wading_pool",
+        "walking_path",
+        "24_hour_maintenance"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": "female only",
+      "building_name": "Tuscany Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4697536130481390",
+      "posted_at": "Sunday 30 August 2026 at 19:03",
+      "first_scraped_at": "2026-08-31T03:00:02.458325+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
