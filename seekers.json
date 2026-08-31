@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T09:07:04.135074",
-  "count": 2257,
+  "updated_at": "2026-08-31T10:07:32.236564",
+  "count": 2259,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63156,6 +63156,65 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993756741315898",
       "posted_at": "Monday 31 August 2026 at 07:59",
       "first_scraped_at": "2026-08-31T15:00:01.525970+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4698189453749391",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1650,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "Hayes Valley",
+        "Inner Richmond",
+        "North Beach",
+        "The Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "She is a 28-year-old writer/editor seeking an existing lease by 2026-10-01. She enjoys reading, writing, yoga and pilates (working on a mat pilates certification), thrifting, art and museum outings, trying restaurants and cafes, concerts/shows, and movies; looking to live with other women ages 25\u201332 under $1650.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4698189453749391",
+      "posted_at": "Monday 31 August 2026 at 09:41",
+      "first_scraped_at": "2026-08-31T17:00:02.216487+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1993824077975831",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pac Heights",
+        "Cow Hollow",
+        "North Beach",
+        "FiDi"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old currently living in the East Bay planning to move to San Francisco and seeking a room or roommates with a budget of $2500\u2013$3000/month, preferring Pac Heights, Cow Hollow, North Beach, or FiDi. She has two well-behaved cats and needs a pet-friendly home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993824077975831",
+      "posted_at": "Monday 31 August 2026 at 09:37",
+      "first_scraped_at": "2026-08-31T17:00:02.216487+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
