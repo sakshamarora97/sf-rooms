@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T11:06:54.899602",
-  "count": 1565,
+  "updated_at": "2026-08-31T12:07:52.217909",
+  "count": 1566,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45713,6 +45713,32 @@
       "posted_at": "Monday 31 August 2026 at 07:46",
       "first_scraped_at": "2026-08-31T16:00:04.387468+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1993902761301296",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2600,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "premium_amenities"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Solaire SF",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993902761301296",
+      "posted_at": "Monday 31 August 2026 at 11:47",
+      "first_scraped_at": "2026-08-31T19:00:01.860595+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

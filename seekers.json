@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T11:06:54.916574",
-  "count": 2259,
+  "updated_at": "2026-08-31T12:07:52.234452",
+  "count": 2261,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63215,6 +63215,58 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993824077975831",
       "posted_at": "Monday 31 August 2026 at 09:37",
       "first_scraped_at": "2026-08-31T17:00:02.216487+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4698283523739984",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-13",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 21,
+      "bio": "They are 21, easygoing, starting a job on September 21st and seeking a 1\u20132 month sublet beginning around September 13th. They will be busy with work and searching for a longer-term place but are excited to explore the city and meet new people.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4698283523739984",
+      "posted_at": "Monday 31 August 2026 at 11:37",
+      "first_scraped_at": "2026-08-31T19:00:01.860595+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1993904061301166",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "She is a 26-year-old social media manager who moved to San Francisco six months ago. She enjoys music shows, going to the gym, local activities, and hanging out with friends; she's clean, respectful, laid-back, social but independent, and prefers living with roommates in their 20s.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993904061301166",
+      "posted_at": "Monday 31 August 2026 at 11:49",
+      "first_scraped_at": "2026-08-31T19:00:01.860595+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
