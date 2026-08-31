@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-30T21:11:46.216278",
-  "count": 2248,
+  "updated_at": "2026-08-30T22:12:35.596737",
+  "count": 2251,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -62915,6 +62915,82 @@
       "posted_at": "Sunday 30 August 2026 at 19:58",
       "first_scraped_at": "2026-08-31T03:00:02.458325+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4697634533804883",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4697634533804883",
+      "posted_at": "Sunday 30 August 2026 at 21:37",
+      "first_scraped_at": "2026-08-31T05:00:06.273174+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4697623597139310",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A full-time tech worker seeking a short-term (about one month) room sublet in San Francisco with a $2,000/month budget. Clean, quiet housemate, open to longer-term arrangements.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4697623597139310",
+      "posted_at": "Sunday 30 August 2026 at 21:20",
+      "first_scraped_at": "2026-08-31T05:00:06.273174+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1993350768023162",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-14",
+      "move_out_date": "2026-10-14",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a short-term stay near Union Square from 2026-09-14 to 2026-10-14 and are requesting leads or recommendations.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993350768023162",
+      "posted_at": "Sunday 30 August 2026 at 21:38",
+      "first_scraped_at": "2026-08-31T05:00:06.273174+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
