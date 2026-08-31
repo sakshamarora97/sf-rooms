@@ -287,7 +287,7 @@
   "Burlingame (downtown), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Burlingame, San Francisco": {
     "lat": null,
@@ -2097,6 +2097,11 @@
     "lat": 37.7171762,
     "lon": -122.4789473
   },
+  "Parkmerced, Daly City, The Peninsula": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Parkmerced, San Francisco": {
     "lat": 37.7171762,
     "lon": -122.4789473
@@ -2218,7 +2223,7 @@
   "Potrero Hill (east side, near 22nd Street station), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Potrero Hill / Dogpatch, San Francisco": {
     "lat": null,

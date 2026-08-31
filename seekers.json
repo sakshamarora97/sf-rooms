@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T13:08:02.870570",
-  "count": 2263,
+  "updated_at": "2026-08-31T14:08:11.833996",
+  "count": 2264,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63330,6 +63330,32 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993935084631397",
       "posted_at": "Monday 31 August 2026 at 12:46",
       "first_scraped_at": "2026-08-31T20:00:01.904990+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1993965627961676",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-26",
+      "move_out_date": "2026-10-26",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a one-month room in a house in Berkeley starting 2026-09-26.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1993965627961676",
+      "posted_at": "Monday 31 August 2026 at 13:48",
+      "first_scraped_at": "2026-08-31T21:00:04.603381+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T13:08:02.853885",
-  "count": 1567,
+  "updated_at": "2026-08-31T14:08:11.817525",
+  "count": 1570,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45773,6 +45773,89 @@
       "posted_at": "Monday 31 August 2026 at 12:58",
       "first_scraped_at": "2026-08-31T20:00:01.904990+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28095857266738228",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1775,
+      "neighborhood": "Parkmerced, Daly City",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "on_site_gym"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Parkmerced Apartments",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28095857266738228",
+      "posted_at": "Monday 31 August 2026 at 07:46",
+      "first_scraped_at": "2026-08-31T21:00:04.603381+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28093115900345698",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Hayward",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2026-12-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "pool",
+        "gym",
+        "gated_community"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "M/F",
+      "building_name": "The Glen",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28093115900345698",
+      "posted_at": "Monday 31 August 2026 at 07:46",
+      "first_scraped_at": "2026-08-31T21:00:04.603381+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28092512560406032",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1125,
+      "neighborhood": "El Cerrito",
+      "area": "East Bay",
+      "available_from": "2026-09-27",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "yard",
+        "street_parking",
+        "quiet_street"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28092512560406032",
+      "posted_at": "Monday 31 August 2026 at 07:46",
+      "first_scraped_at": "2026-08-31T21:00:04.603381+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
