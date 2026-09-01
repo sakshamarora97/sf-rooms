@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-01T08:10:21.428933",
-  "count": 2275,
+  "updated_at": "2026-09-01T09:10:51.756553",
+  "count": 2277,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63674,6 +63674,57 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994415401250032",
       "posted_at": "Tuesday 1 September 2026 at 04:00",
       "first_scraped_at": "2026-09-01T13:05:16.335566+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4699196846981985",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a 2025 UC Berkeley graduate moving to San Francisco to start work as an event planner. They are social, enjoy running and the outdoors, like trying new restaurants and farmers markets, and value a clean, respectful home and roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4699196846981985",
+      "posted_at": "Tuesday 1 September 2026 at 08:41",
+      "first_scraped_at": "2026-09-01T16:00:01.877704+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1994602567897982",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Recent UC Berkeley graduate in Political Science and African-American Studies, a Bay Area native moving to San Francisco to work during a gap year before applying to grad school. Outgoing and very tidy, enjoys movies, concerts, reading, and socializing; works in person M\u2013F with one remote day.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994602567897982",
+      "posted_at": "Tuesday 1 September 2026 at 08:29",
+      "first_scraped_at": "2026-09-01T16:00:01.877704+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
