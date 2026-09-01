@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T16:08:44.275232",
-  "count": 2269,
+  "updated_at": "2026-08-31T17:08:00.937144",
+  "count": 2270,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63448,32 +63448,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "9af00181a78b0519",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": 2000,
-      "budget_max": 2600,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [
-        "Mission District"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 2,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": "Two roommates searching for a third to join a 3-bedroom, 2-bath apartment in the Mission District or nearby neighborhoods. They are apartment hunting with an expected per-person rent of about $2,000\u2013$2,600.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100049982926167",
-      "posted_at": null,
-      "first_scraped_at": "2026-08-31T23:00:03.148369+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "1994015734623332",
       "post_type": "seeker",
       "duration_type": null,
@@ -63497,6 +63471,63 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994015734623332",
       "posted_at": "Monday 31 August 2026 at 15:40",
       "first_scraped_at": "2026-08-31T23:00:03.148369+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4698487907052879",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset",
+        "Richmond",
+        "Berkeley",
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old environmental construction professional who works in the field during weekdays and recently moved to the Bay Area for a new job. Outdoorsy and responsible \u2014 enjoys surfing, biking, hiking, camping, and music; clean and respectful of shared spaces, looking for a household where he can make friends and needs safe, reliable parking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4698487907052879",
+      "posted_at": "Monday 31 August 2026 at 16:52",
+      "first_scraped_at": "2026-09-01T00:00:01.977993+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1994041254620780",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 6000,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset",
+        "Richmond",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a 2-bedroom, 1-bath apartment or home in Sunset, Richmond, or Pacific Heights with a budget up to $6000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994041254620780",
+      "posted_at": "Monday 31 August 2026 at 16:36",
+      "first_scraped_at": "2026-09-01T00:00:01.977993+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
