@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T17:08:00.937144",
-  "count": 2270,
+  "updated_at": "2026-08-31T18:07:19.727461",
+  "count": 2271,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63528,6 +63528,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994041254620780",
       "posted_at": "Monday 31 August 2026 at 16:36",
       "first_scraped_at": "2026-09-01T00:00:01.977993+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994062721285300",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3300,
+      "budget_max": 3600,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "East Cut"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are an engineer working in tech who loves to cook and is an avid cyclist who enjoys outdoor activities. They are seeking a 1 bed/1 bath in San Francisco with a parking spot.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994062721285300",
+      "posted_at": "Monday 31 August 2026 at 17:21",
+      "first_scraped_at": "2026-09-01T01:00:01.891334+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
