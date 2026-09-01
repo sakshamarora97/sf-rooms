@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T22:11:08.896021",
-  "count": 2272,
+  "updated_at": "2026-09-01T06:15:11.080332",
+  "count": 2275,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63584,6 +63584,96 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994111704613735",
       "posted_at": "Monday 31 August 2026 at 19:01",
       "first_scraped_at": "2026-09-01T02:00:04.789167+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4698811433687193",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Balboa Park",
+        "Mission District",
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Is a student on a tight budget seeking a room near Balboa Park, the Mission District, or Haight-Ashbury. Prefers female, BIPOC, artistic, adventurous, down-to-earth roommates and wants a no-lease arrangement.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4698811433687193",
+      "posted_at": "Tuesday 1 September 2026 at 01:01",
+      "first_scraped_at": "2026-09-01T13:05:16.335566+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4698706933697643",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room",
+        "multi-bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A small business owner in her 30s looking to return to San Francisco. She is responsible, clean, vegan, non-drinking, has two small dogs, and is seeking an affordable studio, room, or shareable multi-bedroom in a safe, walkable area without carpeting.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4698706933697643",
+      "posted_at": "Monday 31 August 2026 at 22:27",
+      "first_scraped_at": "2026-09-01T13:05:16.335566+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1994415401250032",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-12",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Presidio",
+        "Presidio Heights",
+        "Inner Richmond",
+        "Central Richmond",
+        "Russian Hill",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Early-30s female professional with degrees from Harvard and Cornell working in architecture and urban design. Looking for a room with female roommates, has a gentle ESA cat that does not get along with other cats or dogs.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994415401250032",
+      "posted_at": "Tuesday 1 September 2026 at 04:00",
+      "first_scraped_at": "2026-09-01T13:05:16.335566+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

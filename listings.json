@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-08-31T22:11:08.868420",
-  "count": 1574,
+  "updated_at": "2026-09-01T06:15:11.053394",
+  "count": 1575,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -45962,6 +45962,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994180721273500",
       "posted_at": "Monday 31 August 2026 at 21:06",
       "first_scraped_at": "2026-09-01T05:00:06.446432+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994330511258521",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2550,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B2.5BA",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "water_included",
+        "garbage_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994330511258521",
+      "posted_at": "Tuesday 1 September 2026 at 01:37",
+      "first_scraped_at": "2026-09-01T13:05:16.335566+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
