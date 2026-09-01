@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-01T14:11:35.705178",
-  "count": 2286,
+  "updated_at": "2026-09-01T15:11:31.717074",
+  "count": 2288,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63968,6 +63968,70 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994774874547418",
       "posted_at": "Tuesday 1 September 2026 at 13:10",
       "first_scraped_at": "2026-09-01T21:00:01.985765+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28120116174312337",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-15",
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "Embarcadero",
+        "North Beach",
+        "Potrero Hill",
+        "Pacific Heights",
+        "Dogpatch",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "Product designer in tech relocating from Santa Cruz to start a new in-person role in the Financial District; seeks a private room or roommates in San Francisco and prefers clean, social flatmates. Has two friendly cats and enjoys cooking and occasional shared meals.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28120116174312337",
+      "posted_at": "Tuesday 1 September 2026 at 13:08",
+      "first_scraped_at": "2026-09-01T22:00:01.779709+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1994809627877276",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "SoMa",
+        "Dogpatch",
+        "Bayside village",
+        "Design District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works at a startup in San Francisco; active lifestyle (plays tennis and pickleball), paints, and enjoys running. Seeking a respectful, tidy roommate or lease-transfer for a private 1B/1B in a 2B/2B unit.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994809627877276",
+      "posted_at": "Tuesday 1 September 2026 at 14:25",
+      "first_scraped_at": "2026-09-01T22:00:01.779709+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
