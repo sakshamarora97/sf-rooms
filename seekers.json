@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-01T12:11:48.292548",
-  "count": 2282,
+  "updated_at": "2026-09-01T13:11:58.762710",
+  "count": 2285,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63863,6 +63863,89 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994211531270419",
       "posted_at": "Monday 31 August 2026 at 22:03",
       "first_scraped_at": "2026-09-01T19:00:03.291736+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994768547881384",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-15",
+      "move_out_date": "2027-09-15",
+      "budget_min": 5000,
+      "budget_max": 5000,
+      "unit_type_wanted": [
+        "2BR",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recently relocated to San Francisco from North Carolina. Clean, quiet, respectful renter with a well-behaved 4-year-old Labrador (~50 lbs) seeking a spacious, dog-friendly 2BR or similar unit (~800+ sqft) near a park with a budget of around $5,000/month for a 12-month lease starting mid-September.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994768547881384",
+      "posted_at": "Tuesday 1 September 2026 at 12:58",
+      "first_scraped_at": "2026-09-01T20:00:02.155074+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994749037883335",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "FiDi",
+        "Haight & Ashbury",
+        "Rincon Hill",
+        "Pac Heights",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Two new graduates moving to San Francisco for jobs in consulting and a startup, seeking a 2-bedroom/1-bath or two rooms in the same unit to move in ASAP with a budget under $2,500/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994749037883335",
+      "posted_at": "Tuesday 1 September 2026 at 12:22",
+      "first_scraped_at": "2026-09-01T20:00:02.155074+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994741497884089",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2600,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 23,
+      "bio": "He is a 23-year-old moving from the East Bay to San Francisco looking for roommates (ideally in the Mission). He has a budget around $2600, prefers a longer-term lease, is clean, and enjoys playing basketball, FIFA, cooking, and lifting.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994741497884089",
+      "posted_at": "Tuesday 1 September 2026 at 12:09",
+      "first_scraped_at": "2026-09-01T20:00:02.155074+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
