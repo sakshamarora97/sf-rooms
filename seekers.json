@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-01T11:10:25.556563",
-  "count": 2279,
+  "updated_at": "2026-09-01T12:11:48.292548",
+  "count": 2282,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -63782,6 +63782,87 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994677781223794",
       "posted_at": "Tuesday 1 September 2026 at 10:21",
       "first_scraped_at": "2026-09-01T18:00:04.720015+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28104800985843856",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-10",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are starting a new MTS job at Mercor and looking for a short sublease (about 1\u20132 months) beginning around Sept 10, 2026. They are flexible on price and seeking a clean living space.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28104800985843856",
+      "posted_at": "Tuesday 1 September 2026 at 07:30",
+      "first_scraped_at": "2026-09-01T19:00:03.291736+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1994503127907926",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1650,
+      "budget_max": 1650,
+      "unit_type_wanted": [
+        "sublease",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset",
+        "Richmond",
+        "Haight"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 21,
+      "bio": "He is a 21-year-old who works from home, is very active, and is looking for a sublease or room primarily in Sunset, Richmond, or Haight.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994503127907926",
+      "posted_at": "Tuesday 1 September 2026 at 06:10",
+      "first_scraped_at": "2026-09-01T19:00:03.291736+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994211531270419",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco",
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old software engineer at an AI startup who mostly works in person. Clean, easygoing, and social; enjoys going out on weekends and is looking for a social, clean roommate or a private room/lease takeover with parking under $3,000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994211531270419",
+      "posted_at": "Monday 31 August 2026 at 22:03",
+      "first_scraped_at": "2026-09-01T19:00:03.291736+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
