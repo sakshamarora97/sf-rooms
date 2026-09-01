@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-01T15:11:31.690626",
-  "count": 1592,
+  "updated_at": "2026-09-01T16:10:46.493458",
+  "count": 1593,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -46515,6 +46515,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994807234544182",
       "posted_at": "Tuesday 1 September 2026 at 14:19",
       "first_scraped_at": "2026-09-01T22:00:01.779709+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994844807873758",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1099,
+      "neighborhood": "Excelsior",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "4B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "near_public_transit",
+        "shared_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994844807873758",
+      "posted_at": "Tuesday 1 September 2026 at 15:42",
+      "first_scraped_at": "2026-09-01T23:00:01.560685+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
