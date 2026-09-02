@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-01T19:11:19.069595",
-  "count": 1596,
+  "updated_at": "2026-09-01T20:10:56.401314",
+  "count": 1597,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -46632,6 +46632,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994938361197736",
       "posted_at": "Tuesday 1 September 2026 at 18:46",
       "first_scraped_at": "2026-09-02T02:00:06.369623+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994803107877928",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2395,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": "2027-06-01",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "patio",
+        "covered_garage_parking_optional_$100_per_month",
+        "utilities_available_(water, garbage, gas, light)_for_additional_fee"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994803107877928",
+      "posted_at": "Tuesday 1 September 2026 at 14:10",
+      "first_scraped_at": "2026-09-02T03:00:05.166225+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
