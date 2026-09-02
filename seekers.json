@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-01T20:10:56.427917",
-  "count": 2294,
+  "updated_at": "2026-09-01T21:11:03.135110",
+  "count": 2295,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64195,6 +64195,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994556501235922",
       "posted_at": "Tuesday 1 September 2026 at 07:26",
       "first_scraped_at": "2026-09-02T03:00:05.166225+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1994986781192894",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "sublet",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": 24,
+      "bio": "Recent graduate from San Francisco State University seeking a sublet starting November for a coaching season. Active and considerate roommate who goes to the gym, enjoys cooking/baking, social outings, and keeping shared spaces clean.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1994986781192894",
+      "posted_at": "Tuesday 1 September 2026 at 20:15",
+      "first_scraped_at": "2026-09-02T04:00:06.962915+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
