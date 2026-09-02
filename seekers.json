@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-01T22:11:40.212685",
-  "count": 2296,
+  "updated_at": "2026-09-02T06:09:47.287378",
+  "count": 2297,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64248,6 +64248,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995032587854980",
       "posted_at": "Tuesday 1 September 2026 at 21:36",
       "first_scraped_at": "2026-09-02T05:00:03.968851+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1995126817845557",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Nob Hill",
+        "Polk Gulch",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Northwestern graduate and Bay Area native starting a job at UCSF, seeking a room in an existing apartment. Active and social\u2014plays club/semi-pro soccer and basketball, enjoys hiking, bars, and game nights; describes themself as easygoing and a clean roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995126817845557",
+      "posted_at": "Wednesday 2 September 2026 at 00:27",
+      "first_scraped_at": "2026-09-02T13:00:01.948637+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
