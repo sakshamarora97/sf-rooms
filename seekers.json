@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T15:08:16.670319",
-  "count": 2308,
+  "updated_at": "2026-09-02T16:08:25.909445",
+  "count": 2311,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64589,6 +64589,84 @@
       "posted_at": "Wednesday 2 September 2026 at 14:40",
       "first_scraped_at": "2026-09-02T22:00:02.241440+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4700562160178787",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two current roommates applying to a 3B2B in Inner Richmond seeking a third roommate. They prefer a social household that isn't loud late on weeknights and want someone ready to apply quickly.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4700562160178787",
+      "posted_at": "Wednesday 2 September 2026 at 15:41",
+      "first_scraped_at": "2026-09-02T23:00:06.325313+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1995681024456803",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UC Davis graduate moving to San Francisco for a data analyst job. They are clean, respectful, quiet, enjoy outdoor activities (climbing, hiking, camping, sailing) and reading; prefers Sunset but is flexible, with a budget of about $1,600/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995681024456803",
+      "posted_at": "Wednesday 2 September 2026 at 15:53",
+      "first_scraped_at": "2026-09-02T23:00:06.325313+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1995675127790726",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two current roommates seeking a third to apply quickly for a room in a 3BR/2BA in the Inner Richmond with an Oct 1 move-in; they want a social roommate who isn\u2019t loud on weeknights.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995675127790726",
+      "posted_at": "Wednesday 2 September 2026 at 15:41",
+      "first_scraped_at": "2026-09-02T23:00:06.325313+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
