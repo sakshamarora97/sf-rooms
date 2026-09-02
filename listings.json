@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T08:09:29.627038",
-  "count": 1599,
+  "updated_at": "2026-09-02T09:09:37.054168",
+  "count": 1600,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -46720,6 +46720,30 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995123731179199",
       "posted_at": "Wednesday 2 September 2026 at 00:21",
       "first_scraped_at": "2026-09-02T14:00:02.304036+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1995421794482726",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Milpitas",
+      "area": "South Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995421794482726",
+      "posted_at": "Wednesday 2 September 2026 at 08:06",
+      "first_scraped_at": "2026-09-02T16:00:03.062634+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

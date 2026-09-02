@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T08:09:29.653282",
-  "count": 2297,
+  "updated_at": "2026-09-02T09:09:37.080875",
+  "count": 2298,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64278,6 +64278,39 @@
       "posted_at": "Wednesday 2 September 2026 at 00:27",
       "first_scraped_at": "2026-09-02T13:00:01.948637+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4700240843544252",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-19",
+      "move_out_date": null,
+      "budget_min": 2800,
+      "budget_max": 3100,
+      "unit_type_wanted": [
+        "2BR",
+        "3BR",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Hayes",
+        "NOPA/Panhandle",
+        "Haight",
+        "North Beach/Russian Hill",
+        "Potrero/Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old professional moving from Seattle to start a new job near South Beach; currently works at Microsoft. Active climber and cyclist who values clean shared spaces, cooks Nigerian food, and is looking for roommates for a full-year 2\u20133BR lease.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4700240843544252",
+      "posted_at": "Wednesday 2 September 2026 at 08:19",
+      "first_scraped_at": "2026-09-02T16:00:03.062634+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

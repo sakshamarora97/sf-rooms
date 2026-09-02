@@ -1849,6 +1849,10 @@
     "lat": 37.8011749,
     "lon": -122.4090021
   },
+  "North Beach/Russian Hill, San Francisco": {
+    "lat": 37.8027053,
+    "lon": -122.4124368
+  },
   "North Berkeley, East Bay": {
     "lat": 37.8739663,
     "lon": -122.2834392
@@ -2262,6 +2266,11 @@
   "Potrero, The Peninsula": {
     "lat": 37.6163771,
     "lon": -122.3889756
+  },
+  "Potrero/Dogpatch, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "Precita Heights, San Francisco": {
     "lat": 37.7470932,
