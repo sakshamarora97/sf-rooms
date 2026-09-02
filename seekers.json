@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T09:09:37.080875",
-  "count": 2298,
+  "updated_at": "2026-09-02T10:06:46.327584",
+  "count": 2299,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64311,6 +64311,32 @@
       "posted_at": "Wednesday 2 September 2026 at 08:19",
       "first_scraped_at": "2026-09-02T16:00:03.062634+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1995476801143892",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-20",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "USF"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "Starting a new job near USF and seeking a dog-friendly room in San Francisco. He is a 25-year-old dog owner who enjoys social activities like drinks, coffee walks, video/tabletop games, pickleball and tennis, and outdoor hobbies such as fishing and kayaking; prefers roommates who hang out occasionally and does not host big parties.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995476801143892",
+      "posted_at": "Wednesday 2 September 2026 at 09:30",
+      "first_scraped_at": "2026-09-02T17:00:02.037985+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
