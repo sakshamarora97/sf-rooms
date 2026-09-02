@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T12:11:27.211710",
-  "count": 2305,
+  "updated_at": "2026-09-02T13:08:32.923744",
+  "count": 2307,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64501,6 +64501,66 @@
       "posted_at": "Wednesday 2 September 2026 at 11:57",
       "first_scraped_at": "2026-09-02T19:00:05.719241+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28127169376940350",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "4-bedroom house"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Daly City",
+        "South San Francisco",
+        "San Bruno"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is seeking a 4-bedroom house to rent starting in October in San Francisco, Daly City, South San Francisco, or San Bruno.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28127169376940350",
+      "posted_at": "Wednesday 2 September 2026 at 11:57",
+      "first_scraped_at": "2026-09-02T20:00:05.974177+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1995572344467671",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1650,
+      "budget_max": 1850,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Castro",
+        "Hayes Valley",
+        "Mission",
+        "Fillmore",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "A 25-year-old recent returnee to the U.S. who lived in Rome and played professional volleyball; has started a new job in real estate in San Francisco. He enjoys hiking, traveling, being outdoors, video games, caf\u00e9s, volleyball, and socializing; describes himself as clean, organized, respectful, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995572344467671",
+      "posted_at": "Wednesday 2 September 2026 at 12:07",
+      "first_scraped_at": "2026-09-02T20:00:05.974177+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
