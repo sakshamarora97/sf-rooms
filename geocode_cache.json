@@ -1289,6 +1289,11 @@
     "lon": null,
     "retries": 3
   },
+  "Lower East Side": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Lower Haight / Hayes Valley, San Francisco": {
     "lat": null,
     "lon": null,
@@ -1340,6 +1345,11 @@
     "lat": null,
     "lon": null,
     "retries": 3
+  },
+  "Lower Pacific Heights / Polk Gulch, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "Lower Pacific Heights, San Francisco": {
     "lat": 37.7857666,
@@ -1938,6 +1948,11 @@
   "Northwest San Francisco, San Francisco": {
     "lat": 37.7983796,
     "lon": -122.4587195
+  },
+  "Oakland (Lake Merritt / Lakeshore Ave), San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "Oakland (Temescal), East Bay": {
     "lat": 37.8382906,
