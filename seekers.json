@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T14:07:49.917632",
-  "count": 2307,
+  "updated_at": "2026-09-02T15:08:16.670319",
+  "count": 2308,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64561,6 +64561,34 @@
       "posted_at": "Wednesday 2 September 2026 at 12:07",
       "first_scraped_at": "2026-09-02T20:00:05.974177+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4700526283515708",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-14",
+      "move_out_date": "2027-01-22",
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "private_room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": 22,
+      "bio": "Recent University of Michigan graduate starting an internship in San Francisco; active, easygoing, and keeps a very clean living space.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4700526283515708",
+      "posted_at": "Wednesday 2 September 2026 at 14:40",
+      "first_scraped_at": "2026-09-02T22:00:02.241440+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

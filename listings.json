@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T14:07:49.896476",
-  "count": 1606,
+  "updated_at": "2026-09-02T15:08:16.651972",
+  "count": 1607,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -46935,6 +46935,38 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995557834469122",
       "posted_at": "Wednesday 2 September 2026 at 11:43",
       "first_scraped_at": "2026-09-02T19:00:05.719241+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1995647594460146",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": 2795,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": "2026-09-15",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "private_entry",
+        "kitchenette",
+        "full_bath",
+        "bamboo_floors",
+        "shared_laundry",
+        "wifi",
+        "cable"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995647594460146",
+      "posted_at": "Wednesday 2 September 2026 at 14:42",
+      "first_scraped_at": "2026-09-02T22:00:02.241440+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
