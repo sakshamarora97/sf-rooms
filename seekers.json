@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T12:11:34.053413",
-  "count": 2327,
+  "updated_at": "2026-09-03T13:10:44.314535",
+  "count": 2330,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65089,6 +65089,95 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996369501054622",
       "posted_at": "Thursday 3 September 2026 at 11:27",
       "first_scraped_at": "2026-09-03T19:00:02.850414+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4701504773417859",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-11",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Lower Pacific Heights",
+        "Cow Hollow",
+        "Marina",
+        "Russian Hill",
+        "Nob Hill",
+        "North Beach",
+        "Noe Valley",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old moving back to San Francisco for a new role in Creative Marketing Operations based in SoMa; seeking a room or short-term sublet with an easy commute. She is clean, organized, communicative, active (plays tennis frequently), and enjoys arts, food, and social activities.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701504773417859",
+      "posted_at": "Thursday 3 September 2026 at 12:49",
+      "first_scraped_at": "2026-09-03T20:00:02.330668+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4701477996753870",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a three-bedroom home or apartment, preferably in or near the Sunset neighborhood.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701477996753870",
+      "posted_at": "Thursday 3 September 2026 at 12:16",
+      "first_scraped_at": "2026-09-03T20:00:02.330668+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1996412057717033",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Noe Valley",
+        "Castro",
+        "Dolores Heights",
+        "Duboce Triangle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old recent transplant from Madison, WI seeking a room in Noe Valley/Castro/Dolores Heights/Duboce Triangle. Enjoys walking, parks/cafes, working out, hiking, cooking (making ice cream), and thrifting; keeps a clean apartment and commutes to the Peninsula 2\u20133 days/week.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996412057717033",
+      "posted_at": "Thursday 3 September 2026 at 12:39",
+      "first_scraped_at": "2026-09-03T20:00:02.330668+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
