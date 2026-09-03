@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T09:10:19.106517",
-  "count": 2321,
+  "updated_at": "2026-09-03T10:11:21.589516",
+  "count": 2324,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64932,6 +64932,82 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996226781068894",
       "posted_at": "Thursday 3 September 2026 at 07:44",
       "first_scraped_at": "2026-09-03T15:00:02.591132+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28139472809043340",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "She is a 28-year-old moving to San Francisco for a new in-person job. She is easygoing, enjoys hosting game and movie nights, and is looking for a clean, social roommate or a lease takeover within about 30 minutes of the Financial District under $2500/month.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28139472809043340",
+      "posted_at": "Thursday 3 September 2026 at 09:58",
+      "first_scraped_at": "2026-09-03T17:00:05.951235+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28136728839317737",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 24,
+      "bio": "He is a 24-year-old full-time student planning to move back to California between December and February. He has a car, is outgoing, very clean and organized, comfortable sharing a room with any gender, and identifies as gay.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28136728839317737",
+      "posted_at": "Thursday 3 September 2026 at 09:58",
+      "first_scraped_at": "2026-09-03T17:00:05.951235+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1996303267727912",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room",
+        "2-3BR"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old AI professional moving to San Francisco at the end of September for work. Clean and easygoing, has no pets, seeking a private room or roommates to find a long-term 2\u20133BR; budget $2,000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996303267727912",
+      "posted_at": "Thursday 3 September 2026 at 09:37",
+      "first_scraped_at": "2026-09-03T17:00:05.951235+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

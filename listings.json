@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T09:10:19.079083",
-  "count": 1620,
+  "updated_at": "2026-09-03T10:11:21.558865",
+  "count": 1623,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -47353,6 +47353,98 @@
       "posted_at": "Thursday 3 September 2026 at 08:21",
       "first_scraped_at": "2026-09-03T16:00:02.315475+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28146181718372449",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-12-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "fitness_center",
+        "rooftop_deck",
+        "bbq_lounges",
+        "resident_lounge",
+        "gear_wall",
+        "concierge_24_7",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "AVA 55 Ninth",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28146181718372449",
+      "posted_at": "Thursday 3 September 2026 at 09:59",
+      "first_scraped_at": "2026-09-03T17:00:05.951235+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28135537999436821",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1460,
+      "neighborhood": "Central Mission",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "tandem_garage",
+        "storage",
+        "shared_patio",
+        "full_kitchen",
+        "living_room"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28135537999436821",
+      "posted_at": "Thursday 3 September 2026 at 09:59",
+      "first_scraped_at": "2026-09-03T17:00:05.951235+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28140014292322525",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1200,
+      "neighborhood": "Union Square / Financial District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_bathrooms",
+        "mini_fridge",
+        "tv",
+        "community"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Olive Startup House",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28140014292322525",
+      "posted_at": "Thursday 3 September 2026 at 09:58",
+      "first_scraped_at": "2026-09-03T17:00:05.951235+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
