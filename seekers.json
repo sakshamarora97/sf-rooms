@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T11:10:53.223315",
-  "count": 2324,
+  "updated_at": "2026-09-03T12:11:34.053413",
+  "count": 2327,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65008,6 +65008,87 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996303267727912",
       "posted_at": "Thursday 3 September 2026 at 09:37",
       "first_scraped_at": "2026-09-03T17:00:05.951235+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1996385127719726",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 33,
+      "bio": "She is a 33-year-old woman relocating from NYC to San Francisco for a new job and seeking community house living for 6+ months. She enjoys restaurants, live music, hiking and cooking, and values respectful communal living.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996385127719726",
+      "posted_at": "Thursday 3 September 2026 at 11:51",
+      "first_scraped_at": "2026-09-03T19:00:02.850414+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1996374141054158",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1250,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Sunnyvale",
+        "Santa Clara"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "She is a recent graduate and working professional seeking a private or shared room starting in October or November around San Francisco, Sunnyvale, or Santa Clara. She is clean, organized, quiet, non-smoking, and without pets; her max budgets are $1,250/month for a private room and $750/month for a shared room.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996374141054158",
+      "posted_at": "Thursday 3 September 2026 at 11:35",
+      "first_scraped_at": "2026-09-03T19:00:02.850414+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1996369501054622",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Burlingame",
+        "San Carlos"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "A recent UCSB graduate starting a full-time sales role in San Carlos, seeking a room in San Mateo/Burlingame/San Carlos with about $1,500/month budget. Clean, social, and active (basketball, skiing, lifting, running).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996369501054622",
+      "posted_at": "Thursday 3 September 2026 at 11:27",
+      "first_scraped_at": "2026-09-03T19:00:02.850414+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

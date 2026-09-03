@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T11:10:53.194262",
-  "count": 1624,
+  "updated_at": "2026-09-03T12:11:34.024979",
+  "count": 1625,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -47475,6 +47475,36 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701393343429002",
       "posted_at": "Thursday 3 September 2026 at 10:31",
       "first_scraped_at": "2026-09-03T18:00:02.643843+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4701426886758981",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Mission Bay / SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-09-03",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "game room",
+        "gym",
+        "rooftop lounge",
+        "shared kitchen",
+        "shared bathroom"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701426886758981",
+      "posted_at": "Thursday 3 September 2026 at 11:12",
+      "first_scraped_at": "2026-09-03T19:00:02.850414+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
