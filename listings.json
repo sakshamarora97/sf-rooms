@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T10:11:21.558865",
-  "count": 1623,
+  "updated_at": "2026-09-03T11:10:53.194262",
+  "count": 1624,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -47445,6 +47445,37 @@
       "posted_at": "Thursday 3 September 2026 at 09:58",
       "first_scraped_at": "2026-09-03T17:00:05.951235+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4701393343429002",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Sacramento",
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "newly_renovated",
+        "fully_furnished",
+        "close_to_downtown",
+        "close_to_shopping",
+        "close_to_hospitals",
+        "hotel_style_comfort"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701393343429002",
+      "posted_at": "Thursday 3 September 2026 at 10:31",
+      "first_scraped_at": "2026-09-03T18:00:02.643843+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
