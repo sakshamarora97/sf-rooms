@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T07:07:18.342965",
-  "count": 2320,
+  "updated_at": "2026-09-03T08:07:14.876906",
+  "count": 2321,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64901,6 +64901,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996164944408411",
       "posted_at": "Thursday 3 September 2026 at 06:15",
       "first_scraped_at": "2026-09-03T14:00:03.951208+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1996226781068894",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Haight",
+        "Mission",
+        "Hayes Valley",
+        "Pacific Heights",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "She is a 23-year-old recent graduate moving to San Francisco this fall to start a tech job in FiDi. She enjoys exploring neighborhoods and trying gelato, and seeks 2-3BR with private bathroom, clean no-pet/no-smoking roommates, and a friendly household.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996226781068894",
+      "posted_at": "Thursday 3 September 2026 at 07:44",
+      "first_scraped_at": "2026-09-03T15:00:02.591132+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
