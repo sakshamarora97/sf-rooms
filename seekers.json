@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T16:08:25.909445",
-  "count": 2311,
+  "updated_at": "2026-09-02T17:07:53.927589",
+  "count": 2313,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -64666,6 +64666,60 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995675127790726",
       "posted_at": "Wednesday 2 September 2026 at 15:41",
       "first_scraped_at": "2026-09-02T23:00:06.325313+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1995696954455210",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 900,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Haight",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "They are a 23-year-old theatre lighting designer/technician and contract photographer who enjoys thrifting, traveling, languages, exploring food spots, and creating cozy shared spaces. They are clean, organized, 420/alc friendly, and looking for chill roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995696954455210",
+      "posted_at": "Wednesday 2 September 2026 at 16:27",
+      "first_scraped_at": "2026-09-03T00:00:07.175452+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1995696157788623",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-19",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old remote worker who typically works from coffee shops or the library on weekdays. Clean, pays rent on time, non-smoker, no pets, and flexible about socializing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995696157788623",
+      "posted_at": "Wednesday 2 September 2026 at 16:26",
+      "first_scraped_at": "2026-09-03T00:00:07.175452+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
