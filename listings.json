@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-02T21:07:41.731895",
-  "count": 1615,
+  "updated_at": "2026-09-02T22:07:37.411488",
+  "count": 1616,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -47208,6 +47208,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995780141113558",
       "posted_at": "Wednesday 2 September 2026 at 19:14",
       "first_scraped_at": "2026-09-03T03:00:03.372374+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1995857904439115",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Stonestown / Near SFSU",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "5B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "walk-in_closet",
+        "near_transit",
+        "near_supermarket"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1995857904439115",
+      "posted_at": "Wednesday 2 September 2026 at 21:36",
+      "first_scraped_at": "2026-09-03T05:00:01.933831+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
