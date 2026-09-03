@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T15:10:43.466223",
-  "count": 2333,
+  "updated_at": "2026-09-03T16:11:39.288704",
+  "count": 2336,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65259,6 +65259,91 @@
       "posted_at": "Thursday 3 September 2026 at 14:56",
       "first_scraped_at": "2026-09-03T22:00:02.930419+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "d0da11b237c6cade",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a short two-week stay and is asking for leads.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1017312763",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-03T23:00:01.765044+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28147944311529523",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Nob Hill",
+        "Pacific Heights",
+        "Richmond",
+        "Sunset",
+        "Potrero Hill",
+        "Marina",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "He is a 26-year-old founder who runs a custom software and AI agency and is working on a startup; he works remotely but is out of the house half the week. He describes himself as clean, organized, quiet, likes to cook, keeps common spaces tidy, and enjoys gym, running, tennis, soccer and outdoor adventures.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28147944311529523",
+      "posted_at": "Thursday 3 September 2026 at 15:19",
+      "first_scraped_at": "2026-09-03T23:00:01.765044+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28149033991420555",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B",
+        "3B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Dogpatch",
+        "Dolores Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent University of Washington graduate starting work in San Francisco who commutes to the office 1\u20132 times a week; social and active, enjoys working out, trying new restaurants and cafes, and happy hours.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28149033991420555",
+      "posted_at": "Thursday 3 September 2026 at 15:19",
+      "first_scraped_at": "2026-09-03T23:00:01.765044+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
