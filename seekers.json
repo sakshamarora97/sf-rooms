@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T13:10:44.314535",
-  "count": 2330,
+  "updated_at": "2026-09-03T14:11:09.540722",
+  "count": 2332,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65178,6 +65178,60 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996412057717033",
       "posted_at": "Thursday 3 September 2026 at 12:39",
       "first_scraped_at": "2026-09-03T20:00:02.330668+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4701538736747796",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 2,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Two female renters seeking a 2-bedroom unfurnished apartment and bringing an ESA dog.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701538736747796",
+      "posted_at": "Thursday 3 September 2026 at 13:38",
+      "first_scraped_at": "2026-09-03T21:00:04.383119+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1996431634381742",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Cow Hollow",
+        "Russian Hill",
+        "Pac Heights",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A tech consultant based in San Francisco originally from San Jose who enjoys camping, skiing, boating, and outdoor activities. Seeking a roommate or a room to move into in October\u2013November and prefers living with people in their 20s who are clean and responsible.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996431634381742",
+      "posted_at": "Thursday 3 September 2026 at 13:14",
+      "first_scraped_at": "2026-09-03T21:00:04.383119+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

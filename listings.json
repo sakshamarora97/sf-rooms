@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T13:10:44.288844",
-  "count": 1625,
+  "updated_at": "2026-09-03T14:11:09.513360",
+  "count": 1627,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -47506,6 +47506,68 @@
       "posted_at": "Thursday 3 September 2026 at 11:12",
       "first_scraped_at": "2026-09-03T19:00:02.850414+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1996454284379477",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1600,
+      "neighborhood": "Parkside",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_kitchen",
+        "shared_living_room",
+        "shared_bathroom",
+        "near_public_transit",
+        "near_park"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996454284379477",
+      "posted_at": "Thursday 3 September 2026 at 14:01",
+      "first_scraped_at": "2026-09-03T21:00:04.383119+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1996426834382222",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2788,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "rooftop_lounge",
+        "balcony",
+        "hardwood_floors",
+        "stainless_steel_appliances",
+        "floor_to_ceiling_windows",
+        "large_closet"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996426834382222",
+      "posted_at": "Thursday 3 September 2026 at 13:06",
+      "first_scraped_at": "2026-09-03T21:00:04.383119+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
