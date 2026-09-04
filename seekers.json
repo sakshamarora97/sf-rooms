@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T15:07:11.656736",
-  "count": 2357,
+  "updated_at": "2026-09-04T16:08:13.310568",
+  "count": 2359,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65948,6 +65948,63 @@
       "posted_at": "Friday 4 September 2026 at 14:36",
       "first_scraped_at": "2026-09-04T22:00:07.254739+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4702652903303046",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Noe Valley",
+        "Bernal Heights",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "A married couple seeking an apartment in San Francisco, ideally in Noe Valley, Bernal Heights, Dogpatch or similar neighborhoods, with a budget around $4,000/month and an ideal move-in in October. They are clean, responsible tenants with a small, well-behaved 7kg dog and are open to leases, sublets, or lease takeovers.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4702652903303046",
+      "posted_at": "Friday 4 September 2026 at 15:06",
+      "first_scraped_at": "2026-09-04T23:00:06.135012+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28163215340002420",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1999,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Nob Hill",
+        "Pacific Heights",
+        "Marina District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "They are a 23-year-old Georgia Tech (2025) graduate working in furniture design (9-5, in-person). They enjoy ceramics, skiing, hiking, cooking, and biking, and are outgoing and social.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28163215340002420",
+      "posted_at": "Friday 4 September 2026 at 15:18",
+      "first_scraped_at": "2026-09-04T23:00:06.135012+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
