@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T10:08:25.417636",
-  "count": 2352,
+  "updated_at": "2026-09-04T11:08:36.547748",
+  "count": 2354,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65810,6 +65810,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997164530975119",
       "posted_at": "Friday 4 September 2026 at 09:27",
       "first_scraped_at": "2026-09-04T17:00:05.052485+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4702477929987210",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "near Caltrain station"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a 1B1B in San Francisco while commuting to Stanford; can move in ASAP and is open to joining a shared lease. Has a cat and is comfortable living with roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4702477929987210",
+      "posted_at": "Friday 4 September 2026 at 10:58",
+      "first_scraped_at": "2026-09-04T18:00:06.922038+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1997220350969537",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-30",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Berkeley",
+        "The Peninsula",
+        "South Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 33,
+      "bio": "33-year-old ex-engineer studying sports science online. Practices Vipassana meditation, climbs and plays basketball; tidy, non-smoking, respectful of shared spaces and good with pets.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997220350969537",
+      "posted_at": "Friday 4 September 2026 at 10:50",
+      "first_scraped_at": "2026-09-04T18:00:06.922038+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
