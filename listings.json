@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T17:10:34.411895",
-  "count": 1630,
+  "updated_at": "2026-09-03T18:10:38.920119",
+  "count": 1631,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -47650,6 +47650,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996500024374903",
       "posted_at": "Thursday 3 September 2026 at 15:40",
       "first_scraped_at": "2026-09-03T23:00:01.765044+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1996552034369702",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Noe Valley",
+      "area": "San Francisco",
+      "available_from": "2026-09-20",
+      "available_until": "2026-10-10",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "fully_furnished",
+        "separate_kitchen",
+        "dining_area",
+        "storage",
+        "walk_in_closet",
+        "no_elevator"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996552034369702",
+      "posted_at": "Thursday 3 September 2026 at 17:33",
+      "first_scraped_at": "2026-09-04T01:00:05.613700+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T17:10:34.438985",
-  "count": 2337,
+  "updated_at": "2026-09-03T18:10:38.947584",
+  "count": 2338,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65374,6 +65374,34 @@
       "posted_at": "Thursday 3 September 2026 at 15:42",
       "first_scraped_at": "2026-09-04T00:00:03.391991+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1996566581034914",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-13",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "shared_room",
+        "room",
+        "shared_apartment"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are moving to San Francisco for a new role starting September 14 and is looking for a shared apartment, house, or room with easy access to public transportation for commuting downtown.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996566581034914",
+      "posted_at": "Thursday 3 September 2026 at 18:01",
+      "first_scraped_at": "2026-09-04T01:00:05.613700+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
