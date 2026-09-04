@@ -514,6 +514,11 @@
     "lon": null,
     "retries": 3
   },
+  "Daly City / Pacifica, The Peninsula": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Daly City, East Bay": {
     "lat": null,
     "lon": null,
@@ -2001,6 +2006,10 @@
     "lat": null,
     "lon": null,
     "retries": 3
+  },
+  "Ocean Avenue, San Francisco": {
+    "lat": 37.7221877,
+    "lon": -122.4490006
   },
   "Ocean Beach, San Francisco": {
     "lat": 37.7561513,

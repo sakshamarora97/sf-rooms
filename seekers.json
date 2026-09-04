@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T20:10:52.315990",
-  "count": 2340,
+  "updated_at": "2026-09-03T21:12:08.991019",
+  "count": 2341,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65464,6 +65464,36 @@
       "posted_at": "Thursday 3 September 2026 at 19:08",
       "first_scraped_at": "2026-09-04T03:00:02.331441+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1996647171026855",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2-3 bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Nob Hill",
+        "North Beach",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent Stanford graduate starting a full-time role at a startup and will be in-office five days a week. He is active (lifting, swimming), social, enjoys gaming and going out, and prefers private rooms in 2\u20133 bedroom places.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996647171026855",
+      "posted_at": "Thursday 3 September 2026 at 20:17",
+      "first_scraped_at": "2026-09-04T04:00:04.046607+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
