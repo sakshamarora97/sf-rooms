@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T09:08:02.966909",
-  "count": 2350,
+  "updated_at": "2026-09-04T10:08:25.417636",
+  "count": 2352,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65750,6 +65750,67 @@
       "posted_at": "Thursday 3 September 2026 at 23:07",
       "first_scraped_at": "2026-09-04T16:00:03.998787+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28152916931032261",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-05",
+      "move_out_date": null,
+      "budget_min": 2100,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SOMA",
+        "Bayside Village",
+        "Mission Bay",
+        "Design District",
+        "Mission District",
+        "Potrero Hill",
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recently moved to San Francisco from New York to raise capital for an AI startup; doing some consultancy work and will work from the office four days a week. Sociable, athletic (soccer, pickleball, tennis), and seeking a furnished private room.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28152916931032261",
+      "posted_at": "Friday 4 September 2026 at 09:36",
+      "first_scraped_at": "2026-09-04T17:00:05.052485+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1997164530975119",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": 24,
+      "bio": "24-year-old moving to San Francisco for an internship from Indonesia. In their free time they enjoy hiking, trying foods, strolling around cities, and they describe themselves as clean and chill.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997164530975119",
+      "posted_at": "Friday 4 September 2026 at 09:27",
+      "first_scraped_at": "2026-09-04T17:00:05.052485+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
