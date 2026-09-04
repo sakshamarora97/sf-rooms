@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T13:07:23.946971",
-  "count": 1647,
+  "updated_at": "2026-09-04T14:08:10.321239",
+  "count": 1648,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48164,6 +48164,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997204487637790",
       "posted_at": "Friday 4 September 2026 at 10:24",
       "first_scraped_at": "2026-09-04T18:00:06.922038+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1997316677626571",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Merced Manor",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "furnished_common_areas",
+        "private_entrance",
+        "private_bathroom",
+        "new_appliances"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "male only (20s)",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997316677626571",
+      "posted_at": "Friday 4 September 2026 at 13:33",
+      "first_scraped_at": "2026-09-04T21:00:07.321412+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
