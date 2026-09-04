@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T08:06:42.149027",
-  "count": 2348,
+  "updated_at": "2026-09-04T09:08:02.966909",
+  "count": 2350,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65689,6 +65689,67 @@
       "posted_at": "Friday 4 September 2026 at 00:24",
       "first_scraped_at": "2026-09-04T13:15:47.563685+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4702379436663726",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": null,
+      "age": 30,
+      "bio": "He is a 30-year-old tech worker who describes himself as clean, quiet, and easygoing, and is looking for two roommates to apply and sign a lease together for a 3-bedroom in the Mission District.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4702379436663726",
+      "posted_at": "Friday 4 September 2026 at 08:59",
+      "first_scraped_at": "2026-09-04T16:00:03.998787+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4701907263377610",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "private_room",
+        "lease_takeover",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Chinatown",
+        "Nob Hill",
+        "Russian Hill",
+        "Hayes Valley",
+        "Duboce Triangle",
+        "Polk",
+        "Lower Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old software engineer moving to San Francisco for a full-time job near 230 California St (FiDi). Seeking a private room, lease takeover, or studio; car-free, no pets, ready to tour and commit quickly; open to short-term furnished or 12-month leases.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701907263377610",
+      "posted_at": "Thursday 3 September 2026 at 23:07",
+      "first_scraped_at": "2026-09-04T16:00:03.998787+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
