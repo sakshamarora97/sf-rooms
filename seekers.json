@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T16:11:39.288704",
-  "count": 2336,
+  "updated_at": "2026-09-03T17:10:34.438985",
+  "count": 2337,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65261,28 +65261,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "d0da11b237c6cade",
-      "post_type": "seeker",
-      "duration_type": "short_term",
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": null,
-      "preferred_neighborhoods": null,
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": "Seeker is looking for a short two-week stay and is asking for leads.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1017312763",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-03T23:00:01.765044+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "28147944311529523",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -65344,6 +65322,58 @@
       "posted_at": "Thursday 3 September 2026 at 15:19",
       "first_scraped_at": "2026-09-03T23:00:01.765044+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4701629993405337",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bernal Heights",
+        "Mission",
+        "Potrero Hill",
+        "Excelsior",
+        "Portola"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old recent Northwestern graduate starting work in South San Francisco; queer/trans femme, outgoing, enjoys cooking (especially Asian food), salsa/bachata, gardening, climbing, and racket sports.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701629993405337",
+      "posted_at": "Thursday 3 September 2026 at 16:18",
+      "first_scraped_at": "2026-09-04T00:00:03.391991+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4701610283407308",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a short two-week stay and is requesting leads.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701610283407308",
+      "posted_at": "Thursday 3 September 2026 at 15:42",
+      "first_scraped_at": "2026-09-04T00:00:03.391991+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
