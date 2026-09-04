@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T11:08:36.547748",
-  "count": 2354,
+  "updated_at": "2026-09-04T12:08:00.320540",
+  "count": 2356,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65866,6 +65866,63 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997220350969537",
       "posted_at": "Friday 4 September 2026 at 10:50",
       "first_scraped_at": "2026-09-04T18:00:06.922038+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28161328156857805",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "3BR",
+        "4BR"
+      ],
+      "preferred_neighborhoods": [
+        "FiDi",
+        "North Beach",
+        "Nob Hill",
+        "Russian Hill",
+        "Hayes Valley",
+        "Telegraph Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent Northeastern graduate working as a product engineer in telecom, seeking female roommates in a 3\u20134 bedroom apartment. Enjoys lifting, travel, reading, painting, and exploring the city; prefers a social but peaceful, clean, and communicative household.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28161328156857805",
+      "posted_at": "Friday 4 September 2026 at 11:53",
+      "first_scraped_at": "2026-09-04T19:00:05.666121+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1997231327635106",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a Dartmouth 2022 graduate working in tech who is active and outdoorsy, enjoying skiing, boating, hiking, concerts, and running. They describe themselves as clean, quiet, respectful, and are looking for a friendly roommate situation with move-in around October 1 and a budget under $3,000.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997231327635106",
+      "posted_at": "Friday 4 September 2026 at 11:07",
+      "first_scraped_at": "2026-09-04T19:00:05.666121+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
