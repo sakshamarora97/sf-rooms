@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T18:10:38.947584",
-  "count": 2338,
+  "updated_at": "2026-09-03T19:11:06.459808",
+  "count": 2339,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65401,6 +65401,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996566581034914",
       "posted_at": "Thursday 3 September 2026 at 18:01",
       "first_scraped_at": "2026-09-04T01:00:05.613700+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1996587651032807",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2BR",
+        "3BR",
+        "apartment",
+        "house"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Pac Heights",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent Northwestern graduate starting a product manager role in tech, enjoys food, travel, skiing, Pilates, hosting, and socializing on weekends. Describes themself as clean and respectful and typically goes to the office five days a week.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1996587651032807",
+      "posted_at": "Thursday 3 September 2026 at 18:39",
+      "first_scraped_at": "2026-09-04T02:00:02.898059+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
