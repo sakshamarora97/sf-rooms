@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-03T19:11:06.459808",
-  "count": 2339,
+  "updated_at": "2026-09-03T20:10:52.315990",
+  "count": 2340,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -65433,6 +65433,37 @@
       "posted_at": "Thursday 3 September 2026 at 18:39",
       "first_scraped_at": "2026-09-04T02:00:02.898059+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4701734916728178",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Financial District",
+        "Chinatown",
+        "Jackson Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent UC Berkeley graduate starting a new job near Jackson Square. She is clean, quiet, has no pets, prefers a smoke-free home and would prefer a female roommate/household; open to small get-togethers but not a party person.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4701734916728178",
+      "posted_at": "Thursday 3 September 2026 at 19:08",
+      "first_scraped_at": "2026-09-04T03:00:02.331441+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
