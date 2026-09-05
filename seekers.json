@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T08:09:33.379078",
-  "count": 2365,
+  "updated_at": "2026-09-05T09:09:34.584958",
+  "count": 2366,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66162,6 +66162,33 @@
       "posted_at": "Friday 4 September 2026 at 16:02",
       "first_scraped_at": "2026-09-05T13:00:02.154008+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4703402776561392",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-12",
+      "move_out_date": "2026-10-03",
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "north-central San Francisco",
+        "northeast San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are relocating to San Francisco for work and seeking a furnished short-term sublet from Sep 12 to Oct 3 (flexible \u00b13 days), ideally under $2500 in north-central or northeast San Francisco.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703402776561392",
+      "posted_at": "Saturday 5 September 2026 at 08:35",
+      "first_scraped_at": "2026-09-05T16:00:02.608868+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

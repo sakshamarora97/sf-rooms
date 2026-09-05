@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T08:09:33.350508",
-  "count": 1658,
+  "updated_at": "2026-09-05T09:09:34.556933",
+  "count": 1659,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48502,6 +48502,34 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703294683238868",
       "posted_at": "Saturday 5 September 2026 at 06:28",
       "first_scraped_at": "2026-09-05T14:00:01.604203+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4703389586562711",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": "2026-09-18",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "fitness_center",
+        "balcony",
+        "close_to_transit"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Bell South City",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703389586562711",
+      "posted_at": "Saturday 5 September 2026 at 08:20",
+      "first_scraped_at": "2026-09-05T16:00:02.608868+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
