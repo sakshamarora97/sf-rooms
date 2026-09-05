@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T12:09:52.871005",
-  "count": 2370,
+  "updated_at": "2026-09-05T13:09:48.962541",
+  "count": 2371,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66296,6 +66296,32 @@
       "posted_at": "Saturday 5 September 2026 at 11:12",
       "first_scraped_at": "2026-09-05T19:00:05.031794+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4703586379876365",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-12",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "He is a 26-year-old extroverted male from Houston who works near the airport, enjoys basketball, UFC, occasional raves, hosting pregames, and collects trinkets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703586379876365",
+      "posted_at": "Saturday 5 September 2026 at 12:33",
+      "first_scraped_at": "2026-09-05T20:00:06.097310+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
