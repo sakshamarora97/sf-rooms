@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T19:07:08.067403",
-  "count": 2361,
+  "updated_at": "2026-09-04T20:10:12.144049",
+  "count": 2363,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66055,6 +66055,58 @@
       "posted_at": "Friday 4 September 2026 at 17:08",
       "first_scraped_at": "2026-09-05T01:00:01.736806+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4702825999952403",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Lower Richmond",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a remote worker relocating with their son to be near family in San Francisco; responsible, tidy, and would be excellent tenants.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4702825999952403",
+      "posted_at": "Friday 4 September 2026 at 19:53",
+      "first_scraped_at": "2026-09-05T03:00:01.954258+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4702819456619724",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-10",
+      "move_out_date": "2026-10-10",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a couple seeking a one-month sublet (1BR or studio) from 2026-09-10 to 2026-10-10.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4702819456619724",
+      "posted_at": "Friday 4 September 2026 at 19:43",
+      "first_scraped_at": "2026-09-05T03:00:01.954258+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
