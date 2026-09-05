@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T20:10:12.105834",
-  "count": 1652,
+  "updated_at": "2026-09-04T22:34:49.736147",
+  "count": 1653,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48322,6 +48322,38 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997481267610112",
       "posted_at": "Friday 4 September 2026 at 19:14",
       "first_scraped_at": "2026-09-05T03:00:01.954258+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1997528274272078",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1100,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "pool",
+        "hot_tub",
+        "gym",
+        "parking",
+        "security_guard",
+        "gated_community",
+        "updated_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Peninsula Pines Apartments",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997528274272078",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-05T04:23:14.420666+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
