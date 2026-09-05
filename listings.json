@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T13:09:48.933435",
-  "count": 1661,
+  "updated_at": "2026-09-05T14:09:22.120875",
+  "count": 1663,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48586,6 +48586,64 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703577023210634",
       "posted_at": "Saturday 5 September 2026 at 12:20",
       "first_scraped_at": "2026-09-05T20:00:06.097310+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4703631569871846",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-09-20",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "walk_in_closet",
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703631569871846",
+      "posted_at": "Saturday 5 September 2026 at 13:40",
+      "first_scraped_at": "2026-09-05T21:00:04.729830+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4703628459872157",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Outer Mission",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "shared_kitchen",
+        "in_unit_laundry",
+        "street_parking",
+        "near_public_transit",
+        "near_grocery"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703628459872157",
+      "posted_at": "Saturday 5 September 2026 at 13:36",
+      "first_scraped_at": "2026-09-05T21:00:04.729830+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
