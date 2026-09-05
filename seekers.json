@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T22:34:49.762966",
-  "count": 2363,
+  "updated_at": "2026-09-05T06:11:49.096691",
+  "count": 2365,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66107,6 +66107,61 @@
       "posted_at": "Friday 4 September 2026 at 19:43",
       "first_scraped_at": "2026-09-05T03:00:01.954258+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28162352990088655",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Nob Hill",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "They are a 22-year-old software engineer at a startup who currently commutes from Berkeley and is looking for 1\u20132 roommates in Russian Hill/Nob Hill/Marina. They are active \u2014 work out, hike, play sports \u2014 social, enjoy going out on weekends, and like house/drum & bass music and festivals.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28162352990088655",
+      "posted_at": "Friday 4 September 2026 at 16:03",
+      "first_scraped_at": "2026-09-05T13:00:02.154008+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28163967199927234",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-10",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are clean, neat, and respectful of shared spaces, will mostly work from home on weekdays and need reliable Wi-Fi. They are visiting temporarily from the Philippines for personal matters and paperwork for about one month.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28163967199927234",
+      "posted_at": "Friday 4 September 2026 at 16:02",
+      "first_scraped_at": "2026-09-05T13:00:02.154008+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
