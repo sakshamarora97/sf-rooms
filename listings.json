@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T06:11:49.070393",
-  "count": 1657,
+  "updated_at": "2026-09-05T07:10:16.243531",
+  "count": 1658,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48476,6 +48476,33 @@
       "posted_at": "Saturday 5 September 2026 at 05:44",
       "first_scraped_at": "2026-09-05T13:00:02.154008+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4703294683238868",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 650,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-09-07",
+      "available_until": "2026-09-30",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "near_dolores_park",
+        "walkable_to_general_hospital"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703294683238868",
+      "posted_at": "Saturday 5 September 2026 at 06:28",
+      "first_scraped_at": "2026-09-05T14:00:01.604203+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
