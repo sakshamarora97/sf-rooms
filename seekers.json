@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T16:08:13.310568",
-  "count": 2359,
+  "updated_at": "2026-09-04T17:07:55.780515",
+  "count": 2360,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66005,6 +66005,30 @@
       "posted_at": "Friday 4 September 2026 at 15:18",
       "first_scraped_at": "2026-09-04T23:00:06.135012+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1997404200951152",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": 28,
+      "bio": "28-year-old moving from San Diego to be closer to family. Enrolled in a 100% online grad program and will work full time as a nanny; has two cats and prefers communicative, very clean co-living.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997404200951152",
+      "posted_at": "Friday 4 September 2026 at 16:43",
+      "first_scraped_at": "2026-09-05T00:00:05.953175+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

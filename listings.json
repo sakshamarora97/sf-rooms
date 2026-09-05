@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-04T16:08:13.291400",
-  "count": 1650,
+  "updated_at": "2026-09-04T17:07:55.762677",
+  "count": 1651,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48260,6 +48260,41 @@
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/28161940403463247",
       "posted_at": "Friday 4 September 2026 at 15:19",
       "first_scraped_at": "2026-09-04T23:00:06.135012+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28163507449973209",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3350,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "home_office",
+        "wifi_included",
+        "water_included",
+        "garbage_included",
+        "building_services",
+        "modern_appliances",
+        "natural_light",
+        "near_transit",
+        "furnished"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28163507449973209",
+      "posted_at": "Friday 4 September 2026 at 16:03",
+      "first_scraped_at": "2026-09-05T00:00:05.953175+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
