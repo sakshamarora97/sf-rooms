@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T11:08:45.536730",
-  "count": 2368,
+  "updated_at": "2026-09-05T12:09:52.871005",
+  "count": 2370,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66240,6 +66240,61 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1997993350892237",
       "posted_at": "Saturday 5 September 2026 at 09:06",
       "first_scraped_at": "2026-09-05T17:00:06.465781+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4703523959882607",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-03",
+      "move_out_date": "2026-12-19",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "South Berkeley",
+        "North Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "student",
+      "age": null,
+      "bio": "He is a PhD student coming to the Bay Area for a three-month fellowship and will be accompanied by a cat. He is seeking a furnished studio, one-bedroom, or a room in a shared apartment in South Berkeley or North Oakland from October 3 to December 19.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703523959882607",
+      "posted_at": "Saturday 5 September 2026 at 11:17",
+      "first_scraped_at": "2026-09-05T19:00:05.031794+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1998071060884466",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They recently moved to the San Francisco area, are currently staying in Nob Hill, and are looking to sublet a room in North Beach for around $1000 within the next few months.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998071060884466",
+      "posted_at": "Saturday 5 September 2026 at 11:12",
+      "first_scraped_at": "2026-09-05T19:00:05.031794+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
