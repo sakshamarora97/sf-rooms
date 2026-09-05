@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T14:09:22.150019",
-  "count": 2371,
+  "updated_at": "2026-09-05T15:09:30.587502",
+  "count": 2373,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66322,6 +66322,62 @@
       "posted_at": "Saturday 5 September 2026 at 12:33",
       "first_scraped_at": "2026-09-05T20:00:06.097310+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4703680129866990",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent Stanford graduate (22F) who is social, clean, respectful, and easygoing. Enjoys restaurants, bars, nature, travel, working out, and exploring the city; seeking a room in a 2\u20134 bedroom apartment in San Francisco around $2,000/month, aiming to move in by 2026-09-17.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703680129866990",
+      "posted_at": "Saturday 5 September 2026 at 14:57",
+      "first_scraped_at": "2026-09-05T22:00:03.459732+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1998177910873781",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room",
+        "2B",
+        "3B",
+        "4B"
+      ],
+      "preferred_neighborhoods": [
+        "Golden Gate Bridge area",
+        "near ferry terminal"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UC Berkeley graduate (22) moving to San Francisco for work. Social, clean, and respectful; looking for roommates in their early 20s who want to build friendships and explore the city together.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998177910873781",
+      "posted_at": "Saturday 5 September 2026 at 14:42",
+      "first_scraped_at": "2026-09-05T22:00:03.459732+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

@@ -966,6 +966,11 @@
     "lat": 37.5247684,
     "lon": -122.2863202
   },
+  "Golden Gate Bridge area, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Golden Gate Heights / Inner Sunset, San Francisco": {
     "lat": 37.7545947,
     "lon": -122.4709039
@@ -3521,6 +3526,11 @@
     "lat": null,
     "lon": null,
     "retries": 3
+  },
+  "near ferry terminal, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "near tech shuttle, San Francisco": {
     "lat": null,
