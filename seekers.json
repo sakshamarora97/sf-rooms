@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T08:09:17.262830",
-  "count": 2377,
+  "updated_at": "2026-09-06T09:09:36.488365",
+  "count": 2378,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66492,6 +66492,35 @@
       "posted_at": "Saturday 5 September 2026 at 23:45",
       "first_scraped_at": "2026-09-06T14:00:02.121920+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28177033725287248",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Mission",
+        "Nob Hill",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UCSB graduate starting a Big 4 audit job in January 2027. Laid-back and social, enjoys going out and hosting; seeking a room with roommates in Marina, Mission, Nob Hill, or Russian Hill with a max budget of $3,500/month.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28177033725287248",
+      "posted_at": "Sunday 6 September 2026 at 04:41",
+      "first_scraped_at": "2026-09-06T16:00:01.727737+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
