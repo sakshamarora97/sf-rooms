@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T21:09:38.259134",
-  "count": 2374,
+  "updated_at": "2026-09-05T22:09:52.962254",
+  "count": 2375,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66411,6 +66411,34 @@
       "posted_at": "Saturday 5 September 2026 at 18:50",
       "first_scraped_at": "2026-09-06T02:00:03.878891+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4703949226506747",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Outer Richmond",
+        "Outer Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "reason": null,
+      "age": 22,
+      "bio": "Two 22-year-old women from Marin seeking two roommates to apply with them in San Francisco. One works multiple part-time jobs and values a clean, social home; the other works in fitness and enjoys walks, crafts, and socializing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4703949226506747",
+      "posted_at": "Saturday 5 September 2026 at 21:47",
+      "first_scraped_at": "2026-09-06T05:00:02.458265+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
