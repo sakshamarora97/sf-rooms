@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T12:09:08.657775",
-  "count": 1672,
+  "updated_at": "2026-09-06T13:09:19.790984",
+  "count": 1673,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48923,6 +48923,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998895964135309",
       "posted_at": "Sunday 6 September 2026 at 10:55",
       "first_scraped_at": "2026-09-06T18:00:06.428562+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1998963747461864",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Ocean Avenue",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_kitchen",
+        "full_kitchen",
+        "on_site_laundry",
+        "street_parking",
+        "garage_parking",
+        "freeway_access"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998963747461864",
+      "posted_at": "Sunday 6 September 2026 at 12:52",
+      "first_scraped_at": "2026-09-06T20:00:02.182965+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
