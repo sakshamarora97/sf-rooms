@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T14:09:56.280788",
-  "count": 2380,
+  "updated_at": "2026-09-06T15:09:38.631697",
+  "count": 2382,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66577,6 +66577,61 @@
       "posted_at": "Sunday 6 September 2026 at 11:35",
       "first_scraped_at": "2026-09-06T19:00:02.405305+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1999010214123884",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "She is a flight attendant seeking a room or studio near the airport. She has two cats, is clean and respectful, and is often away for work.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999010214123884",
+      "posted_at": "Sunday 6 September 2026 at 14:30",
+      "first_scraped_at": "2026-09-06T22:00:02.810868+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1998998214125084",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "GG Panhandle",
+        "Alamo Square",
+        "Lower Haight",
+        "Fillmore District",
+        "Cole Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": false,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old working in AI with an office in the Embarcadero; goes to the office 3\u20134 days/week. Introverted, enjoys cooking (can make authentic Indian food), has no pets or car, and prefers chill weekends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998998214125084",
+      "posted_at": "Sunday 6 September 2026 at 14:04",
+      "first_scraped_at": "2026-09-06T22:00:02.810868+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
