@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T11:10:10.097322",
-  "count": 2379,
+  "updated_at": "2026-09-06T12:09:08.686692",
+  "count": 2380,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66547,6 +66547,35 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4704544476447222",
       "posted_at": "Sunday 6 September 2026 at 10:22",
       "first_scraped_at": "2026-09-06T18:00:06.428562+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4704602073108129",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "East Palo Alto",
+        "Atherton"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A working professional and vegetarian who is flexible about roommates' dietary preferences. Actively searching for a private 1B1B (in a 2B2B or 3B3B) with female roommates and available to move and view immediately.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4704602073108129",
+      "posted_at": "Sunday 6 September 2026 at 11:35",
+      "first_scraped_at": "2026-09-06T19:00:02.405305+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
