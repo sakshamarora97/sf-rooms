@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T06:10:36.809041",
-  "count": 2376,
+  "updated_at": "2026-09-06T07:09:23.131371",
+  "count": 2377,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66464,6 +66464,34 @@
       "posted_at": "Sunday 6 September 2026 at 04:43",
       "first_scraped_at": "2026-09-06T13:00:02.408933+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4704034499831553",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Nob Hill",
+        "FiDi"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent UC Berkeley graduate moving to San Francisco looking to join a lease or find roommates to apartment hunt in North Beach, Nob Hill, or FiDi.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4704034499831553",
+      "posted_at": "Saturday 5 September 2026 at 23:45",
+      "first_scraped_at": "2026-09-06T14:00:02.121920+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
