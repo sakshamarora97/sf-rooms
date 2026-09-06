@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-05T22:09:52.962254",
-  "count": 2375,
+  "updated_at": "2026-09-06T06:10:36.809041",
+  "count": 2376,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66439,6 +66439,31 @@
       "posted_at": "Saturday 5 September 2026 at 21:47",
       "first_scraped_at": "2026-09-06T05:00:02.458265+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28179184551738832",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a responsible, long-term San Francisco resident couple seeking a lease takeover for a 2-bedroom or a spacious 1-bedroom, ready to move within the next month.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28179184551738832",
+      "posted_at": "Sunday 6 September 2026 at 04:43",
+      "first_scraped_at": "2026-09-06T13:00:02.408933+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
