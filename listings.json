@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T10:10:01.677928",
-  "count": 1671,
+  "updated_at": "2026-09-06T11:10:10.068738",
+  "count": 1672,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48894,6 +48894,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998849797473259",
       "posted_at": "Sunday 6 September 2026 at 09:43",
       "first_scraped_at": "2026-09-06T17:00:01.840831+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1998895964135309",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 3000,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "modern_kitchen",
+        "secure_building_entry",
+        "recently_renovated"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998895964135309",
+      "posted_at": "Sunday 6 September 2026 at 10:55",
+      "first_scraped_at": "2026-09-06T18:00:06.428562+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

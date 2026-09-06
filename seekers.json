@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T10:10:01.706058",
-  "count": 2378,
+  "updated_at": "2026-09-06T11:10:10.097322",
+  "count": 2379,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66521,6 +66521,33 @@
       "posted_at": "Sunday 6 September 2026 at 04:41",
       "first_scraped_at": "2026-09-06T16:00:01.727737+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4704544476447222",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-07",
+      "move_out_date": "2026-09-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Market Street",
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent Yale MS in Computer Science graduate seeking a short-term apartment in San Francisco near Market Street, available to move by 2026-09-07 and staying through the end of September.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4704544476447222",
+      "posted_at": "Sunday 6 September 2026 at 10:22",
+      "first_scraped_at": "2026-09-06T18:00:06.428562+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
