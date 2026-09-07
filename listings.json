@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T16:09:12.223136",
-  "count": 1673,
+  "updated_at": "2026-09-06T17:09:40.516022",
+  "count": 1674,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -48954,6 +48954,36 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998963747461864",
       "posted_at": "Sunday 6 September 2026 at 12:52",
       "first_scraped_at": "2026-09-06T20:00:02.182965+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1999077264117179",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "Sausalito",
+      "area": "North Bay",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "swimming_pool",
+        "hot_tub",
+        "gym",
+        "guest_parking",
+        "in_unit_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999077264117179",
+      "posted_at": "Sunday 6 September 2026 at 17:00",
+      "first_scraped_at": "2026-09-07T00:00:02.696381+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
