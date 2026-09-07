@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T11:10:35.271207",
-  "count": 2398,
+  "updated_at": "2026-09-07T12:11:22.893655",
+  "count": 2399,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67074,6 +67074,39 @@
       "posted_at": "Monday 7 September 2026 at 10:38",
       "first_scraped_at": "2026-09-07T18:00:01.806057+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1999764434048462",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "Potrero Hill",
+        "Mission Bay",
+        "South Beach",
+        "Belmont",
+        "Redwood City",
+        "Menlo Park",
+        "Palo Alto"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old electrical engineering graduate working as a Global Supply Manager in Palo Alto. Enjoys hiking, golf, running, watching football, and being outdoors; looking for a roommate or room in SF or the South Bay.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999764434048462",
+      "posted_at": "Monday 7 September 2026 at 11:50",
+      "first_scraped_at": "2026-09-07T19:00:02.678158+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
