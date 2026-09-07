@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T15:11:15.010728",
-  "count": 2403,
+  "updated_at": "2026-09-07T16:12:40.877929",
+  "count": 2405,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67219,6 +67219,56 @@
       "posted_at": "Monday 7 September 2026 at 14:43",
       "first_scraped_at": "2026-09-07T22:00:02.413950+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4705805072987829",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent UC Berkeley graduate starting a new job in San Francisco in mid-September, seeking one or two female roommates or a room in an existing apartment. Laid-back and respectful, enjoys hiking, concerts, reading, and socializing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4705805072987829",
+      "posted_at": "Monday 7 September 2026 at 15:25",
+      "first_scraped_at": "2026-09-07T23:00:01.935105+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1999862830705289",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Castro"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She is relocating to San Francisco in November for work in the Castro area and is searching for a room.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999862830705289",
+      "posted_at": "Monday 7 September 2026 at 15:02",
+      "first_scraped_at": "2026-09-07T23:00:01.935105+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

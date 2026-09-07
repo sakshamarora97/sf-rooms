@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T15:11:14.981271",
-  "count": 1695,
+  "updated_at": "2026-09-07T16:12:40.849553",
+  "count": 1698,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -49583,6 +49583,96 @@
       "posted_at": "Monday 7 September 2026 at 14:27",
       "first_scraped_at": "2026-09-07T22:00:02.413950+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28196022233388397",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "FiDi",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "elevator",
+        "air_conditioning",
+        "fully_equipped_kitchen",
+        "near_public_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28196022233388397",
+      "posted_at": "Monday 7 September 2026 at 15:32",
+      "first_scraped_at": "2026-09-07T23:00:01.935105+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28200375229619764",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Alamo Square",
+      "area": "San Francisco",
+      "available_from": "2026-09-25",
+      "available_until": "2026-10-17",
+      "unit_config": "2 bedroom",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "fast_wifi",
+        "full_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28200375229619764",
+      "posted_at": "Monday 7 September 2026 at 15:32",
+      "first_scraped_at": "2026-09-07T23:00:01.935105+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28199320529725234",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1950,
+      "neighborhood": "Dolores Park",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "dishwasher",
+        "garbage_disposal",
+        "back_porch",
+        "elevator",
+        "laundry",
+        "parking",
+        "garage_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28199320529725234",
+      "posted_at": "Monday 7 September 2026 at 15:32",
+      "first_scraped_at": "2026-09-07T23:00:01.935105+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
