@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T09:10:23.306894",
-  "count": 1685,
+  "updated_at": "2026-09-07T10:11:50.198110",
+  "count": 1686,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -49291,6 +49291,32 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999244570767115",
       "posted_at": "Sunday 6 September 2026 at 22:08",
       "first_scraped_at": "2026-09-07T13:00:05.701211+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1999693457388893",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 2200,
+      "neighborhood": "Presidio",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2027-01-01",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "basement"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999693457388893",
+      "posted_at": "Monday 7 September 2026 at 09:56",
+      "first_scraped_at": "2026-09-07T17:00:03.007794+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
