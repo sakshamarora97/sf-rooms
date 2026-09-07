@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T20:09:52.702196",
-  "count": 2387,
+  "updated_at": "2026-09-06T21:10:01.511312",
+  "count": 2388,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66772,6 +66772,36 @@
       "posted_at": "Sunday 6 September 2026 at 19:55",
       "first_scraped_at": "2026-09-07T03:00:02.055420+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4704959896405680",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-16",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Glen Park",
+        "Balboa Park",
+        "Daly City border",
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A professional couple (an engineer and an accountant) seeking a 1-bedroom in San Francisco. They describe themselves as quiet, clean, respectful, and responsible tenants who take great care of their home.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4704959896405680",
+      "posted_at": "Sunday 6 September 2026 at 20:49",
+      "first_scraped_at": "2026-09-07T04:00:01.870803+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
