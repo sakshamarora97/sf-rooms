@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T13:11:48.777511",
-  "count": 2401,
+  "updated_at": "2026-09-07T14:13:04.980622",
+  "count": 2402,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67165,6 +67165,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999791430712429",
       "posted_at": "Monday 7 September 2026 at 12:38",
       "first_scraped_at": "2026-09-07T20:00:03.657765+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1999818324043073",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond",
+        "Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Seeks a private room in San Francisco while applying to school; works in the medical field. Clean, respectful, and easygoing; enjoys hiking, music festivals, coffee, and exploring the city; prefers female roommates around their age.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999818324043073",
+      "posted_at": "Monday 7 September 2026 at 13:29",
+      "first_scraped_at": "2026-09-07T21:00:03.263966+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
