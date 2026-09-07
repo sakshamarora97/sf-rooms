@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T06:10:57.451554",
-  "count": 2392,
+  "updated_at": "2026-09-07T07:10:53.336382",
+  "count": 2394,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66913,6 +66913,61 @@
       "posted_at": "Monday 7 September 2026 at 05:52",
       "first_scraped_at": "2026-09-07T13:00:05.701211+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28178218608502093",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28178218608502093",
+      "posted_at": "Monday 7 September 2026 at 06:00",
+      "first_scraped_at": "2026-09-07T14:00:03.542054+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "1999557504069155",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B2B",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "She is a 23-year-old recent graduate moving to San Francisco to work in the Financial District. She is social, enjoys exploring restaurants and cafes, long walks, tennis and barre classes, keeps a relaxed home, and is open to small gatherings but not house parties.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999557504069155",
+      "posted_at": "Monday 7 September 2026 at 06:44",
+      "first_scraped_at": "2026-09-07T14:00:03.542054+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
