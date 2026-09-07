@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T10:11:50.198110",
-  "count": 1686,
+  "updated_at": "2026-09-07T11:10:35.242868",
+  "count": 1687,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -49317,6 +49317,40 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999693457388893",
       "posted_at": "Monday 7 September 2026 at 09:56",
       "first_scraped_at": "2026-09-07T17:00:03.007794+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1999706750720897",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1950,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-09-27",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "ocean_view",
+        "furnished_room",
+        "furnished_common_areas",
+        "shared_bathroom",
+        "monthly_cleaning",
+        "utilities_included",
+        "street_parking",
+        "near_transit",
+        "near_grocery"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999706750720897",
+      "posted_at": "Monday 7 September 2026 at 10:16",
+      "first_scraped_at": "2026-09-07T18:00:01.806057+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

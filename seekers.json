@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T10:11:50.227600",
-  "count": 2397,
+  "updated_at": "2026-09-07T11:10:35.271207",
+  "count": 2398,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67047,6 +67047,33 @@
       "posted_at": "Monday 7 September 2026 at 10:01",
       "first_scraped_at": "2026-09-07T17:00:03.007794+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4705593543008982",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Starting a job at Stanford\u2019s Cantor Art Center and looking for a longer-term or temporary room near Caltrain. Enjoys reading, museums, hiking, and painting; has a sociable cat and is flexible about roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4705593543008982",
+      "posted_at": "Monday 7 September 2026 at 10:38",
+      "first_scraped_at": "2026-09-07T18:00:01.806057+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
