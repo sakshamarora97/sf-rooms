@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T17:09:40.544799",
-  "count": 2382,
+  "updated_at": "2026-09-06T18:10:30.073052",
+  "count": 2385,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66631,6 +66631,84 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1998998214125084",
       "posted_at": "Sunday 6 September 2026 at 14:04",
       "first_scraped_at": "2026-09-06T22:00:02.810868+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4704827629752240",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Pacific Heights",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "They are 25, moving from LA to San Francisco for a new job and seeking a room. They enjoy sports (huge soccer fan), traveling, and socializing; they don't cook often, plan to work in-office most weekdays, and describe themselves as clean, organized, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4704827629752240",
+      "posted_at": "Sunday 6 September 2026 at 17:34",
+      "first_scraped_at": "2026-09-07T01:00:05.307855+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1999102190781353",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "An AI founder and software engineer from Sweden who is also a music producer, currently in San Francisco to grow their company and raise funding. They are tidy, friendly, respectful, and experienced with shared housing after living in the UK, Spain, and Germany.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999102190781353",
+      "posted_at": "Sunday 6 September 2026 at 17:55",
+      "first_scraped_at": "2026-09-07T01:00:05.307855+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1999074280784144",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "A recent Cal Poly SLO graduate starting a full-time job in the Bay Area. They are 22, clean, respectful, easygoing, and social; they enjoy exploring the city and outdoor activities like hiking, skiing, and biking, and are seeking a private room in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999074280784144",
+      "posted_at": "Sunday 6 September 2026 at 16:54",
+      "first_scraped_at": "2026-09-07T01:00:05.307855+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
