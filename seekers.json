@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T08:11:17.053387",
-  "count": 2395,
+  "updated_at": "2026-09-07T09:10:23.336120",
+  "count": 2396,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -66992,6 +66992,34 @@
       "posted_at": "Monday 7 September 2026 at 07:44",
       "first_scraped_at": "2026-09-07T15:00:04.178809+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1999645107393728",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Dolores Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "They are a 24-year-old tech worker new to the Bay Area from Madison, WI, looking for a room or to form a group to apartment-hunt for an Oct 1 move-in. They are active \u2014 enjoy hiking, lifting, visiting parks, concerts, thrifting, and cooking (especially making ice cream).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999645107393728",
+      "posted_at": "Monday 7 September 2026 at 08:45",
+      "first_scraped_at": "2026-09-07T16:00:05.263828+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
