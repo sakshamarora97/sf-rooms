@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T12:11:22.893655",
-  "count": 2399,
+  "updated_at": "2026-09-07T13:11:48.777511",
+  "count": 2401,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67106,6 +67106,65 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999764434048462",
       "posted_at": "Monday 7 September 2026 at 11:50",
       "first_scraped_at": "2026-09-07T19:00:02.678158+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4705703319664671",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Russian Hill",
+        "North Beach",
+        "Nob Hill",
+        "Hayes Valley",
+        "Lower Pac Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "He is 25 and moving to start a new job in tech after working in consulting. He is social, clean, plays tennis, has a pilot's license, and enjoys traveling and outdoor day trips.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4705703319664671",
+      "posted_at": "Monday 7 September 2026 at 12:52",
+      "first_scraped_at": "2026-09-07T20:00:03.657765+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "1999791430712429",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-10",
+      "move_out_date": "2026-10-10",
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a private room in San Francisco/Daly City from 2026-09-10 to 2026-10-10. They work from home, are clean, quiet, and low-key; budget is $1,000/month or less and they require fast, reliable internet. Currently in the Philippines and flying out in 3 days.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999791430712429",
+      "posted_at": "Monday 7 September 2026 at 12:38",
+      "first_scraped_at": "2026-09-07T20:00:03.657765+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
