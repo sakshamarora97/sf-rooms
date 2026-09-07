@@ -522,7 +522,7 @@
   "Daly City border, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Daly City, East Bay": {
     "lat": null,
@@ -1833,6 +1833,11 @@
     "lat": null,
     "lon": null,
     "retries": 3
+  },
+  "Nob Hill / Pacific Heights, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "Nob Hill / Polk Gulch, San Francisco": {
     "lat": 37.7887057,
