@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-06T18:10:30.044694",
-  "count": 1676,
+  "updated_at": "2026-09-06T19:10:38.810687",
+  "count": 1677,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -49040,6 +49040,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999083250783247",
       "posted_at": "Sunday 6 September 2026 at 17:13",
       "first_scraped_at": "2026-09-07T01:00:05.307855+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1999113807446858",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Bernal Heights",
+      "area": "San Francisco",
+      "available_from": "2026-09-15",
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "near_bernal_heights_park",
+        "city_view"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "femme, 20s-early 30s",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999113807446858",
+      "posted_at": "Sunday 6 September 2026 at 18:16",
+      "first_scraped_at": "2026-09-07T02:00:02.097841+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
