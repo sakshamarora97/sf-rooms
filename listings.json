@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T14:13:04.950732",
-  "count": 1694,
+  "updated_at": "2026-09-07T15:11:14.981271",
+  "count": 1695,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -49551,6 +49551,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999808144044091",
       "posted_at": "Monday 7 September 2026 at 13:09",
       "first_scraped_at": "2026-09-07T21:00:03.263966+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1999846267373612",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1395,
+      "neighborhood": "Dogpatch / Potrero Hill / Bernal Heights",
+      "area": "San Francisco",
+      "available_from": "2026-09-27",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "street_parking",
+        "garage",
+        "in_unit_laundry",
+        "backyard",
+        "bike_parking",
+        "near_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999846267373612",
+      "posted_at": "Monday 7 September 2026 at 14:27",
+      "first_scraped_at": "2026-09-07T22:00:02.413950+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
