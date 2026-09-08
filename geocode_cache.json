@@ -583,7 +583,7 @@
   "Dogpatch / Potrero Hill / Bernal Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Dogpatch, San Francisco": {
     "lat": 37.7606977,
@@ -2051,6 +2051,10 @@
     "lat": null,
     "lon": null,
     "retries": 3
+  },
+  "Ocean Ave, San Francisco": {
+    "lat": 37.7229501,
+    "lon": -122.4519716
   },
   "Ocean Avenue, San Francisco": {
     "lat": 37.7221877,
