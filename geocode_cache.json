@@ -793,6 +793,11 @@
     "lat": 37.792855,
     "lon": -122.3968986
   },
+  "Embracadero, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Emeryville, East Bay": {
     "lat": 37.8314089,
     "lon": -122.2865266
@@ -1649,7 +1654,7 @@
   "Mission District / Bernal Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Mission District / Noe Valley, San Francisco": {
     "lat": null,
