@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-08T14:11:18.284041",
-  "count": 1718,
+  "updated_at": "2026-09-08T15:11:28.418232",
+  "count": 1720,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -50254,6 +50254,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000649000626672",
       "posted_at": "Tuesday 8 September 2026 at 13:42",
       "first_scraped_at": "2026-09-08T21:00:02.492189+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4706857036215966",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2950,
+      "neighborhood": "Newark",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "close_to_highway",
+        "near_parks",
+        "shopping_nearby",
+        "move-in_ready",
+        "bright_living_area"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4706857036215966",
+      "posted_at": "Tuesday 8 September 2026 at 14:15",
+      "first_scraped_at": "2026-09-08T22:00:03.313461+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2000665370625035",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1300,
+      "neighborhood": "San Francisco",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "basic_amenities"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000665370625035",
+      "posted_at": "Tuesday 8 September 2026 at 14:18",
+      "first_scraped_at": "2026-09-08T22:00:03.313461+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
