@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-08T11:11:30.708113",
-  "count": 2411,
+  "updated_at": "2026-09-08T12:11:25.124795",
+  "count": 2414,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67440,6 +67440,89 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000047187353520",
       "posted_at": "Monday 7 September 2026 at 21:05",
       "first_scraped_at": "2026-09-08T17:00:02.212733+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4706630112905325",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-10-25",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a short-term room in San Francisco from ASAP to October 25, 2026.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4706630112905325",
+      "posted_at": "Tuesday 8 September 2026 at 09:17",
+      "first_scraped_at": "2026-09-08T19:00:02.802497+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2000505473974358",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a room or studio in San Francisco starting in October; would prefer a place with a parking spot.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000505473974358",
+      "posted_at": "Tuesday 8 September 2026 at 09:34",
+      "first_scraped_at": "2026-09-08T19:00:02.802497+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2000504857307753",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-29",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Duboce",
+        "NoPA",
+        "Haight",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Is in their early 30s and works in tech. Seeks a short-term (about 1 month) quiet, clean place in Hayes Valley/Duboce/NoPA/Haight/North Beach; prefers a studio but is open to sharing a 1B1B.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000504857307753",
+      "posted_at": "Tuesday 8 September 2026 at 09:33",
+      "first_scraped_at": "2026-09-08T19:00:02.802497+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

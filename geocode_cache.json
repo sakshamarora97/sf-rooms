@@ -903,7 +903,7 @@
   "Financial District (within 30 minute commute), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Financial District area, San Francisco": {
     "lat": null,
@@ -1649,7 +1649,7 @@
   "Mission District / Bernal Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Mission District / Noe Valley, San Francisco": {
     "lat": null,
@@ -1830,6 +1830,10 @@
   "Newark, South Bay": {
     "lat": 37.2688416,
     "lon": -121.9235793
+  },
+  "NoPA, San Francisco": {
+    "lat": 37.7768823,
+    "lon": -122.4423502
   },
   "NoPa / Pacific Heights, San Francisco": {
     "lat": null,
