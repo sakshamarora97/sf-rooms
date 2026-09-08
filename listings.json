@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-08T08:10:29.319249",
-  "count": 1705,
+  "updated_at": "2026-09-08T09:10:51.313002",
+  "count": 1706,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -49880,6 +49880,35 @@
       "posted_at": "Tuesday 8 September 2026 at 04:02",
       "first_scraped_at": "2026-09-08T13:00:01.690351+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4706598886241781",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 879,
+      "neighborhood": "Outer Sunset / Parkside",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "near_transit",
+        "furnished_shared_spaces"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female and 25+ only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4706598886241781",
+      "posted_at": "Tuesday 8 September 2026 at 08:39",
+      "first_scraped_at": "2026-09-08T16:00:04.321003+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
