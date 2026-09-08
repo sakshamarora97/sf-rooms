@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-08T07:10:41.739381",
-  "count": 2409,
+  "updated_at": "2026-09-08T08:10:29.347328",
+  "count": 2410,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67380,6 +67380,41 @@
       "posted_at": "Tuesday 8 September 2026 at 03:14",
       "first_scraped_at": "2026-09-08T13:00:01.690351+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4706513122917024",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-13",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Nob Hill",
+        "North Beach",
+        "Lower Pacific Heights",
+        "Pacific Heights",
+        "Marina / Cow Hollow",
+        "Inner Richmond",
+        "Alamo Square / Lower Haight",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A professional, responsible and tidy couple relocating from London to San Francisco around October 13, 2026. They are seeking a 1- or 2-bedroom apartment ($2,500\u2013$3,500/month) and are open to furnished options, sublets, lease takeovers, or private rentals.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4706513122917024",
+      "posted_at": "Tuesday 8 September 2026 at 07:02",
+      "first_scraped_at": "2026-09-08T15:00:02.460235+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
