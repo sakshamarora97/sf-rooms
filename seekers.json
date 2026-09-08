@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-08T09:10:51.341723",
-  "count": 2410,
+  "updated_at": "2026-09-08T10:10:24.605259",
+  "count": 2411,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67415,6 +67415,32 @@
       "posted_at": "Tuesday 8 September 2026 at 07:02",
       "first_scraped_at": "2026-09-08T15:00:02.460235+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2000047187353520",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District (within 30 minute commute)"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "She is a 22-year-old recent Berkeley graduate and full-time software engineer working in San Francisco. She describes herself as clean, respectful, and quiet, and enjoys cafe hopping, concerts, and exploring.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000047187353520",
+      "posted_at": "Monday 7 September 2026 at 21:05",
+      "first_scraped_at": "2026-09-08T17:00:02.212733+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

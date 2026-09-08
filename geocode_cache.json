@@ -900,6 +900,11 @@
     "lon": null,
     "retries": 3
   },
+  "Financial District (within 30 minute commute), San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Financial District area, San Francisco": {
     "lat": null,
     "lon": null,
@@ -2096,7 +2101,7 @@
   "Outer Sunset / Parkside, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Outer Sunset, San Francisco": {
     "lat": 37.7541496,
