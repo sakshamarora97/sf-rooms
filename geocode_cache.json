@@ -903,7 +903,7 @@
   "Financial District (within 30 minute commute), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Financial District area, San Francisco": {
     "lat": null,
@@ -1646,6 +1646,11 @@
     "lon": null,
     "retries": 3
   },
+  "Mission District / Bernal Heights, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Mission District / Noe Valley, San Francisco": {
     "lat": null,
     "lon": null,
@@ -2101,7 +2106,7 @@
   "Outer Sunset / Parkside, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Outer Sunset, San Francisco": {
     "lat": 37.7541496,
