@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T21:11:58.479484",
-  "count": 2406,
+  "updated_at": "2026-09-07T22:12:13.979321",
+  "count": 2407,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67300,6 +67300,36 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000041867354052",
       "posted_at": "Monday 7 September 2026 at 20:56",
       "first_scraped_at": "2026-09-08T04:00:04.282983+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2000066474018258",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-31",
+      "budget_min": 3000,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room",
+        "2BR"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "North Beach",
+        "Dolores Heights",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are moving to San Francisco in mid\u2013late September and seeking a furnished short-term (about 3 months) room in a 2-bedroom on the east side. They work in-office, travel frequently, and prefer a clean, quiet shared space; open to sublets or joining an existing lease.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000066474018258",
+      "posted_at": "Monday 7 September 2026 at 21:39",
+      "first_scraped_at": "2026-09-08T05:00:02.010805+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
