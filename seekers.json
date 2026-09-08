@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-08T13:13:40.801078",
-  "count": 2417,
+  "updated_at": "2026-09-08T14:11:18.313022",
+  "count": 2419,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67605,6 +67605,64 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000618930629679",
       "posted_at": "Tuesday 8 September 2026 at 12:43",
       "first_scraped_at": "2026-09-08T20:00:01.844927+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4706832319551771",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Lower Haight",
+        "NOPA",
+        "Alamo Square",
+        "Divisadero",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two years post-grad with a BA in Philosophy, she works as a server at a seafood/wine bar in Western Addition and is looking for a room starting 2026-10-01. She is tidy, enjoys hiking, cooking, baking, and music, and seeks friendly, respectful roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4706832319551771",
+      "posted_at": "Tuesday 8 September 2026 at 13:36",
+      "first_scraped_at": "2026-09-08T21:00:02.492189+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2000652383959667",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-02",
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "downtown SF"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Two people moving from Austin to San Francisco for work in AI, seeking a sublet for Nov 1\u2013Dec 2 with possible extension; prioritizes safety and secure parking, needs in-unit laundry and a functional kitchen, prefers private bathroom.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000652383959667",
+      "posted_at": "Tuesday 8 September 2026 at 13:49",
+      "first_scraped_at": "2026-09-08T21:00:02.492189+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
