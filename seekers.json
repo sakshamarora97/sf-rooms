@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-07T20:11:23.012466",
-  "count": 2405,
+  "updated_at": "2026-09-07T21:11:58.479484",
+  "count": 2406,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67268,6 +67268,38 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/1999862830705289",
       "posted_at": "Monday 7 September 2026 at 15:02",
       "first_scraped_at": "2026-09-07T23:00:01.935105+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2000041867354052",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-26",
+      "move_out_date": "2026-11-25",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "NOPA",
+        "Haight-Ashbury",
+        "Pac Heights",
+        "Duboce"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UC Berkeley graduate working hybrid in San Francisco's Financial District; enjoys tennis/pickleball, reading, and spending time with friends and family.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000041867354052",
+      "posted_at": "Monday 7 September 2026 at 20:56",
+      "first_scraped_at": "2026-09-08T04:00:04.282983+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
