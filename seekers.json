@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T10:11:26.143359",
-  "count": 2435,
+  "updated_at": "2026-09-09T11:12:05.290902",
+  "count": 2436,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68113,6 +68113,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000907560600816",
       "posted_at": "Tuesday 8 September 2026 at 22:02",
       "first_scraped_at": "2026-09-09T17:00:05.347903+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2001399980551574",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "NOPA",
+        "Haight Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Pomona College graduate in Math and CS who moved to San Francisco to start a software engineering job. Active outdoors\u2014runs, bikes, hikes, and played college soccer\u2014seeking a cozy, social household and a room in an existing lease or roommates to find a place.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001399980551574",
+      "posted_at": "Wednesday 9 September 2026 at 10:44",
+      "first_scraped_at": "2026-09-09T18:00:02.325525+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
