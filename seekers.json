@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T09:11:09.530684",
-  "count": 2434,
+  "updated_at": "2026-09-09T10:11:26.143359",
+  "count": 2435,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68083,6 +68083,36 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001297273895178",
       "posted_at": "Wednesday 9 September 2026 at 08:15",
       "first_scraped_at": "2026-09-09T16:00:04.515927+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2000907560600816",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Duboce Triangle",
+        "Mission",
+        "Noe Valley",
+        "Cole Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 25,
+      "bio": "25-year-old software engineer relocating to San Francisco. Hybrid worker who enjoys movies, working out, and spending time outdoors; clean, easy-going, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2000907560600816",
+      "posted_at": "Tuesday 8 September 2026 at 22:02",
+      "first_scraped_at": "2026-09-09T17:00:05.347903+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
