@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T15:11:23.869057",
-  "count": 1738,
+  "updated_at": "2026-09-09T16:11:22.195816",
+  "count": 1739,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -50821,6 +50821,37 @@
       "posted_at": "Wednesday 9 September 2026 at 14:57",
       "first_scraped_at": "2026-09-09T22:00:01.733877+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4707977116103958",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1850,
+      "neighborhood": "South Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-10-01",
+      "available_until": "2027-08-31",
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "garden",
+        "full_kitchen",
+        "common_living_room",
+        "parking",
+        "in_unit_laundry",
+        "air_conditioning"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4707977116103958",
+      "posted_at": "Wednesday 9 September 2026 at 15:42",
+      "first_scraped_at": "2026-09-09T23:00:02.608280+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
