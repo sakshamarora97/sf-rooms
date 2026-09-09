@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T13:10:53.851288",
-  "count": 1735,
+  "updated_at": "2026-09-09T14:12:12.080752",
+  "count": 1736,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -50695,7 +50695,7 @@
       "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4707819592786377",
-      "posted_at": null,
+      "posted_at": "Wednesday 9 September 2026 at 11:46",
       "first_scraped_at": "2026-09-09T19:00:02.203735+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
@@ -50725,6 +50725,40 @@
       "posted_at": "Wednesday 9 September 2026 at 12:53",
       "first_scraped_at": "2026-09-09T20:00:02.284131+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4707899609445042",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Russian Hill / North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-11-05",
+      "available_until": "2026-11-19",
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "kitchen",
+        "dining_room",
+        "living_room",
+        "view_coit_tower",
+        "cable_car_line",
+        "near_washington_square_park",
+        "near_trader_joes",
+        "no_parking",
+        "no_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4707899609445042",
+      "posted_at": "Wednesday 9 September 2026 at 13:37",
+      "first_scraped_at": "2026-09-09T21:00:04.773498+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

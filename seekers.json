@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T13:10:53.880459",
-  "count": 2436,
+  "updated_at": "2026-09-09T14:12:12.111781",
+  "count": 2441,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68141,6 +68141,147 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001399980551574",
       "posted_at": "Wednesday 9 September 2026 at 10:44",
       "first_scraped_at": "2026-09-09T18:00:02.325525+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4707886109446392",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Fidi",
+        "Soma",
+        "East Cut",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are transitioning to San Francisco from New York City and seeking a 1\u20134 month sublet starting in October, furnished or unfurnished, preferring FiDi, SoMa, East Cut, or Mission Bay.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4707886109446392",
+      "posted_at": "Wednesday 9 September 2026 at 13:17",
+      "first_scraped_at": "2026-09-09T21:00:04.773498+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4707882856113384",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-09",
+      "move_out_date": "2026-09-12",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "North San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A traveling couple seeking a short-term sublet in North San Francisco from 2026-09-09 to 2026-09-12 at a reasonable rate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4707882856113384",
+      "posted_at": "Wednesday 9 September 2026 at 13:13",
+      "first_scraped_at": "2026-09-09T21:00:04.773498+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2001509760540596",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "relocation",
+      "age": 29,
+      "bio": "Former startup founder now working in venture capital, seeking a furnished private room in San Francisco. Clean, responsible, easygoing and social; no pets and a non-smoker.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001509760540596",
+      "posted_at": "Wednesday 9 September 2026 at 14:01",
+      "first_scraped_at": "2026-09-09T21:00:04.773498+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2001488053876100",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-21",
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Little Russia",
+        "Inner Richmond",
+        "Cow Hollow",
+        "Pacific Heights",
+        "Nob Hill",
+        "Russian Hill",
+        "Japantown",
+        "Marina District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent college graduate moving to San Francisco for a tech job. Enjoys cooking, beach volleyball, spending time outdoors, goes out occasionally, is neat and goes to bed early on weeknights.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001488053876100",
+      "posted_at": "Wednesday 9 September 2026 at 13:18",
+      "first_scraped_at": "2026-09-09T21:00:04.773498+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2001397350551837",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "NOPA",
+        "Haight Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Pomona College graduate in Math and CS, originally from Portland, who moved to San Francisco a few weeks ago to start a software position. Seeking a room in an existing lease or 2\u20133 roommates; prefers neighborhoods with good park access.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001397350551837",
+      "posted_at": "Wednesday 9 September 2026 at 10:41",
+      "first_scraped_at": "2026-09-09T21:00:04.773498+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

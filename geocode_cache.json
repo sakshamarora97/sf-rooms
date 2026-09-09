@@ -1312,6 +1312,11 @@
     "lat": 37.3359545,
     "lon": -121.8986639
   },
+  "Little Russia, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Lombard area, San Francisco": {
     "lat": null,
     "lon": null,
@@ -2529,6 +2534,10 @@
   "Rose Garden, San Jose, South Bay": {
     "lat": 37.3339826,
     "lon": -121.9240708
+  },
+  "Russian Hill / North Beach, San Francisco": {
+    "lat": 37.8000729,
+    "lon": -122.417094
   },
   "Russian Hill, San Francisco": {
     "lat": 37.8000729,
