@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T06:13:24.819392",
-  "count": 2429,
+  "updated_at": "2026-09-09T07:12:06.002284",
+  "count": 2432,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67938,6 +67938,94 @@
       "posted_at": "Wednesday 9 September 2026 at 03:35",
       "first_scraped_at": "2026-09-09T13:00:04.179120+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28213248144999139",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B2B",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Lower Haight",
+        "Mission",
+        "SoMa",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Product Designer who is clean, respectful, and easygoing. Social but values a peaceful home; enjoys yoga, motorcycle riding, cooking, photography, hiking, volleyball, and techno/house events.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28213248144999139",
+      "posted_at": "Wednesday 9 September 2026 at 06:05",
+      "first_scraped_at": "2026-09-09T14:00:04.813734+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28214159524908001",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "North Beach",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "They are a 23-year-old construction management professional (University of Colorado Boulder, 2025) who enjoys hockey, skiing, going out, cooking, and trying new foods. They are seeking an easy-going room or sublet in Marina, North Beach, or Nob Hill.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28214159524908001",
+      "posted_at": "Wednesday 9 September 2026 at 06:04",
+      "first_scraped_at": "2026-09-09T14:00:04.813734+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28210165351974085",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2300,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old product manager at Uber who works in-office three days a week, recently lived in NYC and is relocating to San Francisco. Social, clean, enjoys trying new restaurants and bars, working out, live music, and movie nights.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28210165351974085",
+      "posted_at": "Wednesday 9 September 2026 at 06:04",
+      "first_scraped_at": "2026-09-09T14:00:04.813734+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }

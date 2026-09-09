@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T06:13:24.789456",
-  "count": 1728,
+  "updated_at": "2026-09-09T07:12:05.973278",
+  "count": 1729,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -50538,6 +50538,36 @@
       "posted_at": "Tuesday 8 September 2026 at 22:26",
       "first_scraped_at": "2026-09-09T13:00:04.179120+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28215212921469328",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-01-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "fitness_center",
+        "concierge_24_7",
+        "panoramic_views",
+        "package_acceptance",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Pinnacle at Nob Hill",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28215212921469328",
+      "posted_at": "Wednesday 9 September 2026 at 06:05",
+      "first_scraped_at": "2026-09-09T14:00:04.813734+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
