@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T08:11:13.515905",
-  "count": 2432,
+  "updated_at": "2026-09-09T09:11:09.530684",
+  "count": 2434,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68026,6 +68026,64 @@
       "posted_at": "Wednesday 9 September 2026 at 06:04",
       "first_scraped_at": "2026-09-09T14:00:04.813734+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "2001310277227211",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-10",
+      "move_out_date": "2026-12-17",
+      "budget_min": 1000,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit",
+        "sublet",
+        "housesit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are an actor and marketing consultant from Northern California, currently based in Brooklyn, visiting San Francisco for work. In their mid-twenties, they are quiet, very neat, non-smoking, not a drinker/partier, work six days a week, and enjoy hiking, swimming, reading, crafting, and cooking; comfortable living with pets.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001310277227211",
+      "posted_at": "Wednesday 9 September 2026 at 08:33",
+      "first_scraped_at": "2026-09-09T16:00:04.515927+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2001297273895178",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-18",
+      "move_out_date": "2026-09-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Pac Heights",
+        "Russian Hill",
+        "NOPA",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is moving to San Francisco and seeking a short-term stay or sublet from 2026-09-18 to 2026-09-30. Prefers Pacific Heights, Russian Hill, NOPA, or Mission Bay and is open to areas commutable to the Financial District.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001297273895178",
+      "posted_at": "Wednesday 9 September 2026 at 08:15",
+      "first_scraped_at": "2026-09-09T16:00:04.515927+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
