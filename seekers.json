@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-08T16:11:29.249147",
-  "count": 2420,
+  "updated_at": "2026-09-08T17:11:20.385220",
+  "count": 2421,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -67691,6 +67691,37 @@
       "posted_at": "Tuesday 8 September 2026 at 15:42",
       "first_scraped_at": "2026-09-08T23:00:02.440148+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4706944312873905",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose",
+        "Sunnyvale",
+        "Milpitas",
+        "Mountain View",
+        "Palo Alto",
+        "Menlo Park"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "An easygoing solo renter who keeps to themself, cooks, and prioritizes cleanliness; seeking a private room with a private bath.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4706944312873905",
+      "posted_at": "Tuesday 8 September 2026 at 16:37",
+      "first_scraped_at": "2026-09-09T00:00:05.023914+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
