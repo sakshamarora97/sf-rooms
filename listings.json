@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T17:12:41.210229",
-  "count": 1740,
+  "updated_at": "2026-09-09T18:11:51.881799",
+  "count": 1741,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -50880,6 +50880,39 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4707992646102405",
       "posted_at": "Wednesday 9 September 2026 at 16:08",
       "first_scraped_at": "2026-09-10T00:00:02.754171+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4708025976099072",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1200,
+      "neighborhood": "West Oakland",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "2_car_parking_behind_fence",
+        "security_system",
+        "fenced_property",
+        "dishwasher",
+        "storage",
+        "backyard",
+        "balcony"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": "female 20s-30s",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4708025976099072",
+      "posted_at": "Wednesday 9 September 2026 at 17:01",
+      "first_scraped_at": "2026-09-10T01:00:02.355434+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
