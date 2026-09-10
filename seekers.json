@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T06:11:44.999208",
-  "count": 2452,
+  "updated_at": "2026-09-10T07:12:11.635245",
+  "count": 2454,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68594,6 +68594,59 @@
       "posted_at": "Wednesday 9 September 2026 at 23:51",
       "first_scraped_at": "2026-09-10T13:00:03.463848+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4708258556075814",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "house"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 5,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 36,
+      "bio": "A 36-year-old Filipina teacher relocating to San Francisco; clean, respectful, and easygoing. Comfortable living with cats and dogs and seeking a room near Nob Hill (preferably with parking) within a $1,000\u2013$1,500 monthly budget.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4708258556075814",
+      "posted_at": "Wednesday 9 September 2026 at 22:40",
+      "first_scraped_at": "2026-09-10T14:00:03.147129+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28225935953730358",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-10-31",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit",
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term sublet (room or entire apartment) from now until the end of October with a budget up to $2,000/month.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28225935953730358",
+      "posted_at": "Thursday 10 September 2026 at 06:31",
+      "first_scraped_at": "2026-09-10T14:00:03.147129+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
