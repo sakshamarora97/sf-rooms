@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T16:11:22.195816",
-  "count": 1739,
+  "updated_at": "2026-09-09T17:12:41.210229",
+  "count": 1740,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -50851,6 +50851,35 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4707977116103958",
       "posted_at": "Wednesday 9 September 2026 at 15:42",
       "first_scraped_at": "2026-09-09T23:00:02.608280+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4707992646102405",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3800,
+      "neighborhood": "Marina",
+      "area": "San Francisco",
+      "available_from": "2026-01-11",
+      "available_until": "2026-04-10",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "stocked_kitchen",
+        "large_standing_desk"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4707992646102405",
+      "posted_at": "Wednesday 9 September 2026 at 16:08",
+      "first_scraped_at": "2026-09-10T00:00:02.754171+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
