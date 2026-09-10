@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T12:11:57.091734",
-  "count": 2458,
+  "updated_at": "2026-09-10T13:11:42.277695",
+  "count": 2460,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68755,6 +68755,63 @@
       "posted_at": "Thursday 10 September 2026 at 11:27",
       "first_scraped_at": "2026-09-10T19:00:02.510598+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "2002335513791354",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2300,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco",
+        "Mission",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent grad from Duke who works in tech and is seeking a roommate to sign a 2B2B lease. Enjoys sports, trivia, and exploring restaurants; keeps shared spaces generally clean.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2002335513791354",
+      "posted_at": "Thursday 10 September 2026 at 12:53",
+      "first_scraped_at": "2026-09-10T20:00:03.333168+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2002273987130840",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Potrero Hill",
+        "Dogpatch",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She is a 2024 graduate relocating from Brooklyn to the Bay Area for a job in tech, seeking a roommate near Caltrain while commuting to Palo Alto. She is tidy, a morning person who runs and surfs on weekends, and prefers a female roommate with no pets.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2002273987130840",
+      "posted_at": "Thursday 10 September 2026 at 11:07",
+      "first_scraped_at": "2026-09-10T20:00:03.333168+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
