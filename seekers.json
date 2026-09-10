@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T19:11:47.699796",
-  "count": 2445,
+  "updated_at": "2026-09-09T20:12:13.419215",
+  "count": 2446,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68395,6 +68395,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001516157206623",
       "posted_at": "Wednesday 9 September 2026 at 14:14",
       "first_scraped_at": "2026-09-10T00:00:02.754171+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2001681170523455",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bayview",
+        "Dogpatch",
+        "Potrero Hill",
+        "Bernal Heights",
+        "The Mission",
+        "Excelsior"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She is a mid-20s woman relocating to San Francisco for a full-time university position. She is quiet, respectful, non-smoking, non-drinking, pet-free, and seeking a calm, friendly household.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001681170523455",
+      "posted_at": "Wednesday 9 September 2026 at 19:40",
+      "first_scraped_at": "2026-09-10T03:00:01.899475+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
