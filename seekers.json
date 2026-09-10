@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T11:10:47.037380",
-  "count": 2457,
+  "updated_at": "2026-09-10T12:11:57.091734",
+  "count": 2458,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68728,6 +68728,33 @@
       "posted_at": "Thursday 10 September 2026 at 09:12",
       "first_scraped_at": "2026-09-10T17:00:01.837805+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28226674926989794",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-14",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Salesforce Tower"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a short-term studio or one-bedroom near Salesforce Tower. Available to move in on 2026-09-14 for a three-month lease or sublease.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28226674926989794",
+      "posted_at": "Thursday 10 September 2026 at 11:27",
+      "first_scraped_at": "2026-09-10T19:00:02.510598+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
