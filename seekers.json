@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T08:11:40.626724",
-  "count": 2454,
+  "updated_at": "2026-09-10T09:11:55.852371",
+  "count": 2455,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68647,6 +68647,32 @@
       "posted_at": "Thursday 10 September 2026 at 06:31",
       "first_scraped_at": "2026-09-10T14:00:03.147129+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "2002153807142858",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 29,
+      "bio": "She is 29 and returning to the Bay Area after a year as an au pair in Rome. She is quiet, clean, and respectful, enjoys hiking, flameworking, reading, knitting, museums, and baking, and likes chatting with housemates and having movie nights.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2002153807142858",
+      "posted_at": "Thursday 10 September 2026 at 08:10",
+      "first_scraped_at": "2026-09-10T16:00:01.963958+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
