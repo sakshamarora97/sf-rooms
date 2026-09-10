@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T15:12:24.011047",
+  "updated_at": "2026-09-10T16:11:55.480351",
   "count": 2463,
   "posts": [
     {
@@ -68814,33 +68814,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "356b3b5298b2c969",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": 2000,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [
-        "San Francisco",
-        "Financial District"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": "new_job",
-      "age": 22,
-      "bio": "She is a 22-year-old recent University of Michigan graduate who just moved to the Bay Area to start a full-time job in the Financial District. She enjoys hiking, traveling, concerts, sporting events, and spending time with friends.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100032043406942",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-10T22:00:01.852247+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4709001832668153",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -68896,6 +68869,32 @@
       "posted_at": "Thursday 10 September 2026 at 14:56",
       "first_scraped_at": "2026-09-10T22:00:01.852247+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4709017422666594",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "FiDi"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "She is a 22-year-old who recently moved to the Bay Area to start a full-time job in FiDi. She enjoys hiking, traveling, nature, concerts, sporting events, and socializing with friends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709017422666594",
+      "posted_at": "Thursday 10 September 2026 at 14:44",
+      "first_scraped_at": "2026-09-10T23:00:05.749304+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
