@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T21:12:05.453859",
-  "count": 1742,
+  "updated_at": "2026-09-09T22:12:01.896701",
+  "count": 1743,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -50941,6 +50941,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001628387195400",
       "posted_at": "Wednesday 9 September 2026 at 18:06",
       "first_scraped_at": "2026-09-10T02:00:03.257704+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2001749190516653",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-09-14",
+      "available_until": "2026-10-06",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "laundry_in_building",
+        "dishwasher",
+        "full_size_bed",
+        "walk_up"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2001749190516653",
+      "posted_at": "Wednesday 9 September 2026 at 21:34",
+      "first_scraped_at": "2026-09-10T05:00:02.736887+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

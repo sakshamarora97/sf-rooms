@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-09T21:12:05.483511",
-  "count": 2450,
+  "updated_at": "2026-09-09T22:12:01.925932",
+  "count": 2451,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68536,6 +68536,40 @@
       "posted_at": "Wednesday 9 September 2026 at 15:25",
       "first_scraped_at": "2026-09-10T04:00:03.026612+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4708211906080479",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Duboce",
+        "Civic Center",
+        "Alamo Square",
+        "Fillmore",
+        "Japantown",
+        "Upper Mission",
+        "Polk Gulch",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old recent UC Berkeley graduate working in tech sales (GTM) seeking a long-term shared room in San Francisco. Clean, social, extroverted; enjoys EDM, reading, vlogging, thrifting, and going to events; works in-office M/W/Th in SOMA and values cleanliness and boundaries.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4708211906080479",
+      "posted_at": "Wednesday 9 September 2026 at 21:32",
+      "first_scraped_at": "2026-09-10T05:00:02.736887+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
