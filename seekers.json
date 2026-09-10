@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T14:12:03.326577",
-  "count": 2460,
+  "updated_at": "2026-09-10T15:12:24.011047",
+  "count": 2463,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68811,6 +68811,90 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2002273987130840",
       "posted_at": "Thursday 10 September 2026 at 11:07",
       "first_scraped_at": "2026-09-10T20:00:03.333168+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "356b3b5298b2c969",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "She is a 22-year-old recent University of Michigan graduate who just moved to the Bay Area to start a full-time job in the Financial District. She enjoys hiking, traveling, concerts, sporting events, and spending time with friends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100032043406942",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-10T22:00:01.852247+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4709001832668153",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bayview"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": null,
+      "bio": "A mid-20s professional relocating from Southern California for a full-time research position in San Francisco. Quiet and respectful, works in-person full-time on weekdays, does not drink or smoke, has no pets, and enjoys trying new caf\u00e9s.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709001832668153",
+      "posted_at": "Thursday 10 September 2026 at 14:19",
+      "first_scraped_at": "2026-09-10T22:00:01.852247+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2002395310452041",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-18",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "shared_room",
+        "room",
+        "shared_apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City",
+        "Redwood City",
+        "Palo Alto",
+        "Mountain View"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is seeking a shared room or shared apartment in Foster City, Redwood City, Palo Alto, or Mountain View; available from 2026-09-18.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2002395310452041",
+      "posted_at": "Thursday 10 September 2026 at 14:56",
+      "first_scraped_at": "2026-09-10T22:00:01.852247+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
