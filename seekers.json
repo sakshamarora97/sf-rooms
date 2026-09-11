@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T10:10:50.844472",
-  "count": 2474,
+  "updated_at": "2026-09-11T11:12:04.154213",
+  "count": 2476,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69210,6 +69210,62 @@
       "posted_at": "Friday 11 September 2026 at 09:28",
       "first_scraped_at": "2026-09-11T17:00:02.106166+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4709896929245310",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "GGP",
+        "Mission District",
+        "Alamo Square",
+        "Nopa",
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "student",
+      "age": 25,
+      "bio": "Two 25-year-old women: one is a surgical nurse in Daly City who graduated from Hawaii Pacific University, the other works in sales and is doing an MBA at Santa Clara University. They are outgoing, enjoy coffee/matcha, fitness, exploring restaurants and the city, and are respectful roommates seeking to live with other women.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709896929245310",
+      "posted_at": "Friday 11 September 2026 at 10:10",
+      "first_scraped_at": "2026-09-11T18:00:01.986064+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2003108287047410",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old who has a lead on a 3B1B in the Marina and is seeking two roommates to share the unit.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2003108287047410",
+      "posted_at": "Friday 11 September 2026 at 10:53",
+      "first_scraped_at": "2026-09-11T18:00:01.986064+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
