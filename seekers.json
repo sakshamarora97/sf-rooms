@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T09:10:51.941572",
-  "count": 2473,
+  "updated_at": "2026-09-11T10:10:50.844472",
+  "count": 2474,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69180,6 +69180,35 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709818175919852",
       "posted_at": "Friday 11 September 2026 at 08:41",
       "first_scraped_at": "2026-09-11T16:00:03.171860+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4709862155915454",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lower Haight",
+        "Haight-Ashbury",
+        "NOPA",
+        "Panhandle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "28-year-old starting work as a lab technician at UCSF in late September, returning to San Francisco after time abroad. Active and social (climbing, languages, guitar), considerate and tidy roommate seeking a long-term room in a shared apartment near the Panhandle/Lower Haight area.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709862155915454",
+      "posted_at": "Friday 11 September 2026 at 09:28",
+      "first_scraped_at": "2026-09-11T17:00:02.106166+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
