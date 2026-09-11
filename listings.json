@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T13:12:21.665755",
-  "count": 1765,
+  "updated_at": "2026-09-11T14:11:04.519285",
+  "count": 1767,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -51580,6 +51580,73 @@
       "posted_at": "Friday 11 September 2026 at 12:37",
       "first_scraped_at": "2026-09-11T20:00:01.704054+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4710060652562271",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 6500,
+      "neighborhood": "Walnut Creek",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "community_olympic_pool",
+        "near_hiking_trails",
+        "near_schools",
+        "near_parks",
+        "near_shopping",
+        "furnished_option"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710060652562271",
+      "posted_at": "Friday 11 September 2026 at 13:53",
+      "first_scraped_at": "2026-09-11T21:00:02.321494+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4710057832562553",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2027-01-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "private_balcony",
+        "doorman",
+        "rooftop",
+        "gym",
+        "hot_tub",
+        "study_spaces",
+        "game_room",
+        "bridge_views",
+        "water_view",
+        "natural_light"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710057832562553",
+      "posted_at": "Friday 11 September 2026 at 13:49",
+      "first_scraped_at": "2026-09-11T21:00:02.321494+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
