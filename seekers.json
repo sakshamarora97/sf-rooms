@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T20:11:27.696184",
-  "count": 2469,
+  "updated_at": "2026-09-10T21:11:51.471567",
+  "count": 2470,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69065,6 +69065,38 @@
       "posted_at": "Thursday 10 September 2026 at 18:48",
       "first_scraped_at": "2026-09-11T02:00:05.297227+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4709247379310265",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4200,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pacific Heights",
+        "Lower Pacific Heights",
+        "Russian Hill",
+        "North Beach",
+        "Telegraph Hill",
+        "Polk Gulch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two professionals: one works in tech and the other works in education (before/after-school care, transitioning into preschool). They are clean, quiet, responsible, and seeking a long-term 1 bed/1 bath in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709247379310265",
+      "posted_at": "Thursday 10 September 2026 at 20:24",
+      "first_scraped_at": "2026-09-11T04:00:02.410928+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
