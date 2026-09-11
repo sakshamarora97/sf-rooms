@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T07:10:13.354261",
-  "count": 2470,
+  "updated_at": "2026-09-11T08:10:54.270184",
+  "count": 2472,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69097,6 +69097,58 @@
       "posted_at": "Thursday 10 September 2026 at 20:24",
       "first_scraped_at": "2026-09-11T04:00:02.410928+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28236890869301533",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-12",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "FiDi"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for an approximately one-week sublease starting 2026-09-12, ideally near FiDi (Financial District).",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28236890869301533",
+      "posted_at": "Friday 11 September 2026 at 07:02",
+      "first_scraped_at": "2026-09-11T15:00:02.394293+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "2002983447059894",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-05",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease",
+        "short_term_rental",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old moving to San Francisco for a strategy/finance role at a FAANG company after finishing grad school in China. He previously worked in management consulting in Atlanta, enjoys running, exploring restaurants, watching films, attending music festivals, and writes a Substack.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2002983447059894",
+      "posted_at": "Friday 11 September 2026 at 07:53",
+      "first_scraped_at": "2026-09-11T15:00:02.394293+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
