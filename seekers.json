@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T16:11:55.480351",
-  "count": 2463,
+  "updated_at": "2026-09-10T17:11:44.515049",
+  "count": 2464,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -68894,6 +68894,32 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709017422666594",
       "posted_at": "Thursday 10 September 2026 at 14:44",
       "first_scraped_at": "2026-09-10T23:00:05.749304+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4709075385994131",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-28",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old male relocating to San Francisco for a new job; tidy, laid-back roommate who stays active during the week (walks, runs, workouts) and socializes occasionally on weekends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709075385994131",
+      "posted_at": "Thursday 10 September 2026 at 16:20",
+      "first_scraped_at": "2026-09-11T00:00:02.624491+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
