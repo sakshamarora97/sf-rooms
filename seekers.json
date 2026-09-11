@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T08:10:54.270184",
-  "count": 2472,
+  "updated_at": "2026-09-11T09:10:51.941572",
+  "count": 2473,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69149,6 +69149,38 @@
       "posted_at": "Friday 11 September 2026 at 07:53",
       "first_scraped_at": "2026-09-11T15:00:02.394293+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4709818175919852",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "NOPA",
+        "SOMA",
+        "Inner Richmond",
+        "Inner Sunset",
+        "Nob Hill",
+        "Bernal Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old female moving to San Francisco for a new job in October and seeking a lease/sublease or roommate situation near FiDi. She is very clean, enjoys hot pilates/yoga, trying new restaurants, and also values quiet nights at home.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4709818175919852",
+      "posted_at": "Friday 11 September 2026 at 08:41",
+      "first_scraped_at": "2026-09-11T16:00:03.171860+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
