@@ -328,6 +328,10 @@
     "lat": 37.7759911,
     "lon": -122.394497
   },
+  "Cambrian Park, South Bay": {
+    "lat": 37.2564151,
+    "lon": -121.931325
+  },
   "Campbell, South Bay": {
     "lat": 37.2870626,
     "lon": -121.944881
@@ -2547,6 +2551,10 @@
     "lat": 37.3339826,
     "lon": -121.9240708
   },
+  "Rose Garden, South Bay": {
+    "lat": 37.3339826,
+    "lon": -121.9240708
+  },
   "Russian Hill / North Beach, San Francisco": {
     "lat": 37.8000729,
     "lon": -122.417094
@@ -2802,6 +2810,10 @@
   "Santa Rosa, North Bay": {
     "lat": 37.8551564,
     "lon": -122.4835284
+  },
+  "Santana Row, South Bay": {
+    "lat": 37.3209796,
+    "lon": -121.9486002
   },
   "Sausalito, North Bay": {
     "lat": 37.8590272,
@@ -3295,7 +3307,7 @@
   "Visitacion Valley, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Walnut Creek, East Bay": {
     "lat": null,
@@ -3317,6 +3329,10 @@
   "West Portal, San Francisco": {
     "lat": 37.7411405,
     "lon": -122.4656336
+  },
+  "West San Jose, South Bay": {
+    "lat": 37.3087649,
+    "lon": -121.9663444
   },
   "West SoMa, San Francisco": {
     "lat": 37.7768086,
@@ -3355,6 +3371,10 @@
   "Westwood Park, San Francisco": {
     "lat": 37.7275825,
     "lon": -122.4582279
+  },
+  "Winchester, South Bay": {
+    "lat": 37.2793937,
+    "lon": -121.948138
   },
   "Yerba Buena / Financial District, San Francisco": {
     "lat": 37.7856059,
