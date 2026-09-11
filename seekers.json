@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T12:10:14.522398",
-  "count": 2476,
+  "updated_at": "2026-09-11T13:12:21.696480",
+  "count": 2478,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69265,6 +69265,59 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2003108287047410",
       "posted_at": "Friday 11 September 2026 at 10:53",
       "first_scraped_at": "2026-09-11T18:00:01.986064+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4710004175901252",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Bayview"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a professional couple: one owns a long-standing recruiting company and the other is a culinary producer for food TV shows, seeking a sublease near Bayview from ASAP through mid-to-end January.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710004175901252",
+      "posted_at": "Friday 11 September 2026 at 12:29",
+      "first_scraped_at": "2026-09-11T20:00:01.704054+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2003174713707434",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "She is a 25-year-old full-time in-person worker who enjoys spending time outdoors and hanging out with friends. She is looking to join an existing lease within about 15 minutes of SoMa or the Mission in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2003174713707434",
+      "posted_at": "Friday 11 September 2026 at 12:31",
+      "first_scraped_at": "2026-09-11T20:00:01.704054+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
