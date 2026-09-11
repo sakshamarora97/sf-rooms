@@ -203,6 +203,10 @@
     "lat": 37.7152853,
     "lon": -122.3934821
   },
+  "Bayview, The Peninsula": {
+    "lat": 37.5908044,
+    "lon": -122.3410804
+  },
   "Belmont, San Francisco": {
     "lat": 37.762937,
     "lon": -122.454485
@@ -2357,6 +2361,10 @@
     "lat": 37.726379,
     "lon": -122.4085514
   },
+  "Portola, The Peninsula": {
+    "lat": 37.3736298,
+    "lon": -122.219047
+  },
   "Portrero Hill, San Francisco": {
     "lat": null,
     "lon": null,
@@ -3283,6 +3291,11 @@
   "Visitacion Valley, San Francisco": {
     "lat": 37.7121319,
     "lon": -122.4097128
+  },
+  "Visitacion Valley, The Peninsula": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "Walnut Creek, East Bay": {
     "lat": null,

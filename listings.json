@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-10T17:11:44.486350",
-  "count": 1756,
+  "updated_at": "2026-09-10T18:12:28.425028",
+  "count": 1758,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -51334,6 +51334,58 @@
       "posted_at": "Thursday 10 September 2026 at 15:49",
       "first_scraped_at": "2026-09-10T23:00:05.749304+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2002460530445519",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 995,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2002460530445519",
+      "posted_at": "Thursday 10 September 2026 at 17:14",
+      "first_scraped_at": "2026-09-11T01:00:02.356172+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2002428470448725",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1550,
+      "neighborhood": "Presidio",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "parking",
+        "shared_bathroom",
+        "near_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2002428470448725",
+      "posted_at": "Thursday 10 September 2026 at 16:08",
+      "first_scraped_at": "2026-09-11T01:00:02.356172+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
