@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T09:11:08.418842",
-  "count": 2493,
+  "updated_at": "2026-09-12T10:11:47.655803",
+  "count": 2495,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69727,6 +69727,58 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2003535920337980",
       "posted_at": "Friday 11 September 2026 at 23:38",
       "first_scraped_at": "2026-09-12T13:00:02.901274+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "c4dd0536c8cfa494",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-22",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old woman moving to San Francisco for work and seeking a room or other housing starting around September 22.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100008235662477",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-12T17:00:02.291193+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2003910016967237",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 23,
+      "bio": "A 23-year-old Bay Area native planning to attend SFSU in the spring. Outgoing, clean, social, enjoys thrifting, coffee/matcha, restaurants, concerts, and occasional nights out; seeking female roommates and a long-term room in San Francisco with a ~ $1500 budget around December.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2003910016967237",
+      "posted_at": "Saturday 12 September 2026 at 09:38",
+      "first_scraped_at": "2026-09-12T17:00:02.291193+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
