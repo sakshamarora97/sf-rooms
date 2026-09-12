@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T13:12:56.003730",
-  "count": 1777,
+  "updated_at": "2026-09-12T14:12:04.957675",
+  "count": 1778,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -51858,30 +51858,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "a17cb33fde882bde",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "short_term",
-      "rent": null,
-      "neighborhood": "Hayes Valley / SoMa",
-      "area": "San Francisco",
-      "available_from": "2026-11-01",
-      "available_until": "2026-12-05",
-      "unit_config": "2B2B",
-      "room_type": "private_room",
-      "is_furnished": true,
-      "roommates_count": null,
-      "amenities": [],
-      "utilities_included": null,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100002010500063",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-12T20:00:02.270306+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4711035975798072",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -51939,6 +51915,65 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004022196956019",
       "posted_at": "Saturday 12 September 2026 at 12:47",
       "first_scraped_at": "2026-09-12T20:00:02.270306+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4711084009126602",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Glen Park",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "balcony"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711084009126602",
+      "posted_at": "Saturday 12 September 2026 at 13:36",
+      "first_scraped_at": "2026-09-12T21:00:03.514932+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2004046606953578",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Inner Sunset",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2026-06-30",
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "bed_frame_and_mattress_included",
+        "storage",
+        "large_living_room",
+        "near_transit",
+        "near_UCSF",
+        "near_bars_and_cafes"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004046606953578",
+      "posted_at": "Saturday 12 September 2026 at 13:38",
+      "first_scraped_at": "2026-09-12T21:00:03.514932+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

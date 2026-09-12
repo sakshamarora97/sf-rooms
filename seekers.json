@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T13:12:56.034564",
-  "count": 2497,
+  "updated_at": "2026-09-12T14:12:04.987306",
+  "count": 2499,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69840,6 +69840,69 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004005103624395",
       "posted_at": "Saturday 12 September 2026 at 12:13",
       "first_scraped_at": "2026-09-12T20:00:02.270306+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004051960286376",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-14",
+      "move_out_date": "2026-10-01",
+      "budget_min": 1000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Marin",
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Short-term renter with a long history of Airbnb reviews who regularly sublets and petsits; can provide references.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004051960286376",
+      "posted_at": "Saturday 12 September 2026 at 13:49",
+      "first_scraped_at": "2026-09-12T21:00:03.514932+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004041953620710",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-07",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "lease_takeover",
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Castro",
+        "Golden Gate Park",
+        "Ashbury Heights",
+        "Pacific Heights",
+        "North Beach",
+        "Japantown",
+        "Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old LGBTQ+ professional artist who is respectful, community-oriented, adventurous, and enjoys hiking, making art, and travel. Open to roommates (requires own room) or studio/lease takeovers in San Francisco neighborhoods.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004041953620710",
+      "posted_at": "Saturday 12 September 2026 at 13:29",
+      "first_scraped_at": "2026-09-12T21:00:03.514932+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
