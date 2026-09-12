@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T14:12:04.957675",
-  "count": 1778,
+  "updated_at": "2026-09-12T15:10:55.986170",
+  "count": 1779,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -51974,6 +51974,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004046606953578",
       "posted_at": "Saturday 12 September 2026 at 13:38",
       "first_scraped_at": "2026-09-12T21:00:03.514932+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004059843618921",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1940,
+      "neighborhood": "Haight Ashbury",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "backyard",
+        "grill",
+        "living_room",
+        "kitchen",
+        "in_unit_laundry",
+        "dishwasher"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004059843618921",
+      "posted_at": "Saturday 12 September 2026 at 14:05",
+      "first_scraped_at": "2026-09-12T22:00:02.456570+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

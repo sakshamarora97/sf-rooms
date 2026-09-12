@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T14:12:04.987306",
-  "count": 2499,
+  "updated_at": "2026-09-12T15:10:56.016938",
+  "count": 2500,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69903,6 +69903,32 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004041953620710",
       "posted_at": "Saturday 12 September 2026 at 13:29",
       "first_scraped_at": "2026-09-12T21:00:03.514932+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004082620283310",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-10",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "SOMA",
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": 27,
+      "bio": "A 27-year-old PhD student in San Francisco for an internship, seeking short-term housing near Mission Bay, SOMA, or Union Square from Oct 10 to late December with a budget up to $2500.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004082620283310",
+      "posted_at": "Saturday 12 September 2026 at 14:58",
+      "first_scraped_at": "2026-09-12T22:00:02.456570+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
