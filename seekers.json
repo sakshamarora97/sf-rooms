@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T21:11:46.248734",
-  "count": 2490,
+  "updated_at": "2026-09-11T22:11:59.616829",
+  "count": 2491,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69645,6 +69645,32 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710315812536755",
       "posted_at": "Friday 11 September 2026 at 20:44",
       "first_scraped_at": "2026-09-12T04:00:06.415622+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4710337062534630",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover",
+        "room_rental"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 21,
+      "bio": "21-year-old starting a part-time job at Sutter Health (32 hrs/week). Enjoys the beach, farmers' markets, and a mix of nights out or chill nights in; clean, respectful, and seeking female-only roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710337062534630",
+      "posted_at": "Friday 11 September 2026 at 21:15",
+      "first_scraped_at": "2026-09-12T05:00:02.183144+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
