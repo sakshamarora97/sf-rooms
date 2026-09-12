@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T20:12:03.695727",
-  "count": 2489,
+  "updated_at": "2026-09-11T21:11:46.248734",
+  "count": 2490,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69618,6 +69618,33 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710225399212463",
       "posted_at": "Friday 11 September 2026 at 18:28",
       "first_scraped_at": "2026-09-12T03:00:03.472517+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4710315812536755",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2900,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SOMA"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They work full-time in tech/IT and go to the office most weekdays. They are clean, considerate, easygoing, and enjoy music, weekend hikes, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710315812536755",
+      "posted_at": "Friday 11 September 2026 at 20:44",
+      "first_scraped_at": "2026-09-12T04:00:06.415622+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
