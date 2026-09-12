@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T22:11:59.616829",
-  "count": 2491,
+  "updated_at": "2026-09-12T06:11:31.336833",
+  "count": 2493,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69672,6 +69672,62 @@
       "posted_at": "Friday 11 September 2026 at 21:15",
       "first_scraped_at": "2026-09-12T05:00:02.183144+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4710428029192200",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A working professional and ASU alumnus relocating from Texas to the Bay Area in November 2026, seeking a roommate to share a 2B2B. Telugu-speaking and prefers a clean, quiet home with mutual respect for privacy.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710428029192200",
+      "posted_at": "Friday 11 September 2026 at 23:25",
+      "first_scraped_at": "2026-09-12T13:00:02.901274+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2003535920337980",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond",
+        "NOPA",
+        "Panhandle",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 28,
+      "bio": "28-year-old relocating to San Francisco from London (via Berlin); former psychedelics researcher now working in film, photography, and music (techno, jazz). Seeking a room in a social household with artists/musicians/filmmakers, ideally for about a year in Richmond, NOPA, Panhandle, or the Mission.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2003535920337980",
+      "posted_at": "Friday 11 September 2026 at 23:38",
+      "first_scraped_at": "2026-09-12T13:00:02.901274+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
