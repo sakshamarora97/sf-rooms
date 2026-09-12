@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T15:10:56.016938",
-  "count": 2500,
+  "updated_at": "2026-09-12T16:10:58.159457",
+  "count": 2501,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69930,6 +69930,33 @@
       "posted_at": "Saturday 12 September 2026 at 14:58",
       "first_scraped_at": "2026-09-12T22:00:02.456570+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4711135515788118",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 900,
+      "budget_max": 1350,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent CCA graduate working as a teaching artist and in media production. Enjoys cooking, making art and hosts free art workshops; seeking a queer-friendly room near BART/Muni with a budget of $900\u2013$1,350.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711135515788118",
+      "posted_at": "Saturday 12 September 2026 at 15:03",
+      "first_scraped_at": "2026-09-12T23:00:02.444916+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
