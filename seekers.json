@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-11T18:12:50.741151",
-  "count": 2487,
+  "updated_at": "2026-09-11T19:12:47.316825",
+  "count": 2489,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69567,6 +69567,59 @@
       "posted_at": "Friday 11 September 2026 at 17:01",
       "first_scraped_at": "2026-09-12T01:00:01.728263+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "e59530cbd48365b3",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a female roommate to apply for a 2-bedroom apartment in the Mission District; requests interested people message them and notes a $30 application fee.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100094117761475",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-12T02:00:01.517987+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4710215632546773",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1850,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She is a technical recruiter who recently relocated from Massachusetts for a role in Palo Alto and is seeking a room starting in October. She keeps a clean, communicative routine, enjoys Pilates and cooking, and values a friendly, social roommate dynamic while respecting shared space.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710215632546773",
+      "posted_at": "Friday 11 September 2026 at 18:13",
+      "first_scraped_at": "2026-09-12T02:00:01.517987+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
