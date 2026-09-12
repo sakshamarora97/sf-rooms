@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T10:11:47.655803",
-  "count": 2495,
+  "updated_at": "2026-09-12T11:11:31.675504",
+  "count": 2496,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69730,32 +69730,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "c4dd0536c8cfa494",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": "2026-09-22",
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [
-        "San Francisco"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": "new_job",
-      "age": 27,
-      "bio": "27-year-old woman moving to San Francisco for work and seeking a room or other housing starting around September 22.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100008235662477",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-12T17:00:02.291193+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "2003910016967237",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -69780,6 +69754,66 @@
       "posted_at": "Saturday 12 September 2026 at 09:38",
       "first_scraped_at": "2026-09-12T17:00:02.291193+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4710968375804832",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-22",
+      "move_out_date": "2027-08-31",
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": 24,
+      "bio": "24-year-old pastry intern and chef moving to San Francisco for an internship. Experienced with roommates, she describes herself as clean, respectful, easygoing, and willing to cook for housemates occasionally.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710968375804832",
+      "posted_at": "Saturday 12 September 2026 at 10:53",
+      "first_scraped_at": "2026-09-12T18:00:02.130996+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4710960139138989",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-20",
+      "move_out_date": "2026-10-09",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Oakland",
+        "Berkeley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A couple relocating to the Bay Area seeking a short-term studio or private room in San Francisco, Oakland, or Berkeley from Sept 20 to Oct 9. They travel with a 2-year-old cat, are responsible and respectful, and can provide references.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4710960139138989",
+      "posted_at": "Saturday 12 September 2026 at 10:43",
+      "first_scraped_at": "2026-09-12T18:00:02.130996+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
