@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T20:12:14.610368",
-  "count": 2505,
+  "updated_at": "2026-09-12T21:12:26.907640",
+  "count": 2506,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70065,6 +70065,28 @@
       "posted_at": "Saturday 12 September 2026 at 19:53",
       "first_scraped_at": "2026-09-13T03:00:01.512319+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4711324579102545",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-01-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Is a travel nurse seeking furnished short-term housing from November to mid-January, traveling with a grey cat. Describes themself as a great tenant.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711324579102545",
+      "posted_at": "Saturday 12 September 2026 at 20:05",
+      "first_scraped_at": "2026-09-13T04:00:02.658848+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
