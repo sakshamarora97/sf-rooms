@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T12:11:56.403625",
-  "count": 1796,
+  "updated_at": "2026-09-13T13:12:06.371460",
+  "count": 1797,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52496,6 +52496,34 @@
       "posted_at": "Sunday 13 September 2026 at 11:37",
       "first_scraped_at": "2026-09-13T19:00:02.420858+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2004835093541396",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1968,
+      "neighborhood": "Castro",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "washer_dryer",
+        "street_parking",
+        "backyard"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004835093541396",
+      "posted_at": "Sunday 13 September 2026 at 12:05",
+      "first_scraped_at": "2026-09-13T20:00:02.320187+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
