@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T18:11:28.878464",
-  "count": 1780,
+  "updated_at": "2026-09-12T19:12:03.633319",
+  "count": 1781,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52035,6 +52035,36 @@
       "posted_at": "Saturday 12 September 2026 at 17:04",
       "first_scraped_at": "2026-09-13T01:00:02.038548+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4711241785777491",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1367,
+      "neighborhood": "Mission / Bernal Heights",
+      "area": "San Francisco",
+      "available_from": "2026-09-15",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "gas_stove",
+        "wood_laminate_flooring",
+        "flight_of_stairs",
+        "no_elevator"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female or gay man",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711241785777491",
+      "posted_at": "Saturday 12 September 2026 at 18:06",
+      "first_scraped_at": "2026-09-13T02:00:01.861721+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

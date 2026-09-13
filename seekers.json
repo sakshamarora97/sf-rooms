@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T18:11:28.909571",
-  "count": 2502,
+  "updated_at": "2026-09-12T19:12:03.663090",
+  "count": 2504,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69983,6 +69983,60 @@
       "posted_at": "Saturday 12 September 2026 at 17:41",
       "first_scraped_at": "2026-09-13T01:00:02.038548+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4711266825774987",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room in San Francisco, prefers a safe and well-connected area, ready to move in immediately and open to short- or long-term rentals.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711266825774987",
+      "posted_at": "Saturday 12 September 2026 at 18:45",
+      "first_scraped_at": "2026-09-13T02:00:01.861721+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2004193983605507",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a room or other accommodation for one person near Downtown San Francisco, available to move in immediately for about three months or longer.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004193983605507",
+      "posted_at": "Saturday 12 September 2026 at 18:54",
+      "first_scraped_at": "2026-09-13T02:00:01.861721+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
