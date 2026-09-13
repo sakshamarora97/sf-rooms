@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T17:11:32.370040",
-  "count": 1779,
+  "updated_at": "2026-09-12T18:11:28.878464",
+  "count": 1780,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52005,6 +52005,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004059843618921",
       "posted_at": "Saturday 12 September 2026 at 14:05",
       "first_scraped_at": "2026-09-12T22:00:02.456570+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004137890277783",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 5500,
+      "neighborhood": "Outer Sunset",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "laundry_on_site",
+        "near_public_transit",
+        "walking_distance_to_ocean",
+        "close_to_golden_gate_park"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004137890277783",
+      "posted_at": "Saturday 12 September 2026 at 17:04",
+      "first_scraped_at": "2026-09-13T01:00:02.038548+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

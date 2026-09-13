@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T17:11:32.400166",
-  "count": 2501,
+  "updated_at": "2026-09-12T18:11:28.909571",
+  "count": 2502,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -69956,6 +69956,32 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711135515788118",
       "posted_at": "Saturday 12 September 2026 at 15:03",
       "first_scraped_at": "2026-09-12T23:00:02.444916+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4711227315778938",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "He is starting a new hospitality/customer service job in San Francisco in November and works as a photographer/videographer. Social, clean, responsible, LGBTQ+-friendly, and enjoys fashion, music, travel, and going out.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711227315778938",
+      "posted_at": "Saturday 12 September 2026 at 17:41",
+      "first_scraped_at": "2026-09-13T01:00:02.038548+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
