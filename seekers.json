@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T22:12:26.820280",
-  "count": 2507,
+  "updated_at": "2026-09-13T06:12:24.622681",
+  "count": 2508,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70118,6 +70118,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004299660261606",
       "posted_at": "Saturday 12 September 2026 at 21:54",
       "first_scraped_at": "2026-09-13T05:00:02.562884+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004330043591901",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District",
+        "Richmond District",
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker with 10 years living experience in the Sunset District, looking for a 2-bedroom home or apartment in San Francisco. Prefers Sunset or Richmond and is open to other neighborhoods throughout the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004330043591901",
+      "posted_at": "Saturday 12 September 2026 at 22:42",
+      "first_scraped_at": "2026-09-13T13:00:02.202389+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
