@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T08:15:20.279016",
-  "count": 2514,
+  "updated_at": "2026-09-13T09:12:19.638893",
+  "count": 2515,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70312,6 +70312,32 @@
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/28224377977219489",
       "posted_at": "Sunday 13 September 2026 at 07:27",
       "first_scraped_at": "2026-09-13T15:00:01.838989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28257342263923060",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-02",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SOMA"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 32,
+      "bio": "32-year-old female from the DC area who has lived in the Bay Area five years. She enjoys hiking and trying new restaurants but values quiet personal time and keeps clean, organized spaces.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28257342263923060",
+      "posted_at": "Sunday 13 September 2026 at 07:27",
+      "first_scraped_at": "2026-09-13T16:00:01.503858+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
