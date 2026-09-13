@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T06:12:24.593373",
-  "count": 1786,
+  "updated_at": "2026-09-13T07:10:52.008065",
+  "count": 1787,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52208,6 +52208,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004316483593257",
       "posted_at": "Saturday 12 September 2026 at 22:20",
       "first_scraped_at": "2026-09-13T13:00:02.202389+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004623233562582",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": 1300,
+      "neighborhood": "2200 Jackson St",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "ac",
+        "parking_garage",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004623233562582",
+      "posted_at": "Sunday 13 September 2026 at 06:47",
+      "first_scraped_at": "2026-09-13T14:00:02.326581+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
