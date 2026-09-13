@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T09:12:19.638893",
-  "count": 2515,
+  "updated_at": "2026-09-13T10:13:17.740154",
+  "count": 2518,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70339,6 +70339,81 @@
       "posted_at": "Sunday 13 September 2026 at 07:27",
       "first_scraped_at": "2026-09-13T16:00:01.503858+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28251493457841274",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "FiDi"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent 23-year-old university graduate from the East Coast moving to San Francisco to start a job in the Financial District; seeking to join an existing 2B2B or 3B2B lease for an October move-in.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28251493457841274",
+      "posted_at": "Sunday 13 September 2026 at 07:27",
+      "first_scraped_at": "2026-09-13T17:00:02.603363+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "2004746673550238",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-14",
+      "move_out_date": "2026-09-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old seeking a short sublease (Sep 14\u201330) while searching for permanent housing; requires easy access to Caltrain.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004746673550238",
+      "posted_at": "Sunday 13 September 2026 at 09:39",
+      "first_scraped_at": "2026-09-13T17:00:02.603363+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004731290218443",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 24,
+      "bio": "They recently moved from Wisconsin and are apartment hunting in the Marina. They lead an active lifestyle (lifting, hiking, some sports) and enjoy cooking (has a gelato maker), thrifting, and going to concerts.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004731290218443",
+      "posted_at": "Sunday 13 September 2026 at 09:16",
+      "first_scraped_at": "2026-09-13T17:00:02.603363+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
