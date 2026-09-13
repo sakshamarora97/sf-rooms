@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T15:12:57.390020",
-  "count": 2524,
+  "updated_at": "2026-09-13T16:14:17.416593",
+  "count": 2530,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70586,6 +70586,182 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004899813534924",
       "posted_at": "Sunday 13 September 2026 at 14:13",
       "first_scraped_at": "2026-09-13T22:00:01.855448+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4712201649014838",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "A 22-year-old Berkeley graduate who has lived in New York and Los Angeles and recently moved to the Bay. Enjoys city activities, wine bars, park days, crafting, board games, thrifting, and hosting dinners; seeking a room under $1500/month and flexible on neighborhood.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712201649014838",
+      "posted_at": "Sunday 13 September 2026 at 15:41",
+      "first_scraped_at": "2026-09-13T23:00:02.336013+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4712185889016414",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-30",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Nob Hill",
+        "Outer Sunset",
+        "Inner Richmond",
+        "Pacific Heights",
+        "Bernal Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent University of Chicago graduate starting a full-time job in the Financial District who is looking to join a lease or find roommates. She prefers a quiet, organized household, enjoys working out and running, and is a non-smoker with no pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712185889016414",
+      "posted_at": "Sunday 13 September 2026 at 15:14",
+      "first_scraped_at": "2026-09-13T23:00:02.336013+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4712152775686392",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A clean, easygoing couple who are flexible on move-in date and location. They prefer chill weeknights with TV/video games and enjoy exploring the city on weekends, going out for drinks and trying new restaurants.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712152775686392",
+      "posted_at": "Sunday 13 September 2026 at 14:21",
+      "first_scraped_at": "2026-09-13T23:00:02.336013+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4712147335686936",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-24",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are a professional who needs a consistent landing pad in San Francisco for work, coming to town about once a month for two-week stays, and is seeking a furnished sublease for 5\u20136 months.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712147335686936",
+      "posted_at": "Sunday 13 September 2026 at 14:12",
+      "first_scraped_at": "2026-09-13T23:00:02.336013+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2004949270196645",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3800,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "apartment",
+        "condo",
+        "ADU",
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "South San Francisco",
+        "San Mateo",
+        "Burlingame",
+        "Foster City",
+        "Bernal Heights",
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "They are working professionals\u2014one is an Immigration Specialist and the other is a Senior Social Manager\u2014responsible, clean, and respectful tenants with one friendly, quiet dog.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004949270196645",
+      "posted_at": "Sunday 13 September 2026 at 16:01",
+      "first_scraped_at": "2026-09-13T23:00:02.336013+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004948110196761",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Noe Valley",
+        "Castro",
+        "Hayes Valley",
+        "Mission District",
+        "Nob Hill",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Two mid-20s partners relocating to San Francisco seeking housing together. One works full-time in retail and the other holds a full-time managerial role; they prefer proximity to transit and grocery stores, in-unit laundry, and are allergic to cats (prefer dogs).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004948110196761",
+      "posted_at": "Sunday 13 September 2026 at 15:59",
+      "first_scraped_at": "2026-09-13T23:00:02.336013+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

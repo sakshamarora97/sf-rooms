@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T15:12:57.358852",
-  "count": 1798,
+  "updated_at": "2026-09-13T16:14:17.385810",
+  "count": 1799,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52558,6 +52558,35 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712173462350990",
       "posted_at": "Sunday 13 September 2026 at 14:54",
       "first_scraped_at": "2026-09-13T22:00:01.855448+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4712201065681563",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2700,
+      "neighborhood": "Mission and Geneva Ave",
+      "area": "San Francisco",
+      "available_from": "2026-09-01",
+      "available_until": null,
+      "unit_config": "3B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "near_transit",
+        "laundromat_nearby",
+        "shared_furnished_common_areas"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712201065681563",
+      "posted_at": "Sunday 13 September 2026 at 15:40",
+      "first_scraped_at": "2026-09-13T23:00:02.336013+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
