@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T14:13:08.865082",
-  "count": 2521,
+  "updated_at": "2026-09-13T15:12:57.390020",
+  "count": 2524,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70465,7 +70465,7 @@
       "age": null,
       "bio": "Is seeking a short-term private-room sublease for three months near downtown San Francisco or Daly City; works at Salesforce Tower.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712125875689082",
-      "posted_at": null,
+      "posted_at": "Sunday 13 September 2026 at 13:37",
       "first_scraped_at": "2026-09-13T21:00:01.911167+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
@@ -70496,6 +70496,96 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004884850203087",
       "posted_at": "Sunday 13 September 2026 at 13:39",
       "first_scraped_at": "2026-09-13T21:00:01.911167+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004922813532624",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Pac Heights",
+        "Lower Haight",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old software engineer who is social and enjoys exploring the city, trying new food/coffee spots, and running. Clean, respectful, and looking for a friendly/chill roommate situation with other young professionals.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004922813532624",
+      "posted_at": "Sunday 13 September 2026 at 15:01",
+      "first_scraped_at": "2026-09-13T22:00:01.855448+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004907073534198",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two working professionals looking for a 2-bedroom (1+ bath) apartment in San Francisco for at least a year. They have stable income, good credit, and application materials ready; flexible on move-in date and open to lease takeovers or subleases.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004907073534198",
+      "posted_at": "Sunday 13 September 2026 at 14:28",
+      "first_scraped_at": "2026-09-13T22:00:01.855448+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004899813534924",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B",
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Rincon Hill",
+        "North Beach",
+        "Dogpatch",
+        "Mission District",
+        "Nob Hill",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old working in big tech who is social, easygoing, and enjoys soccer, the gym, outdoor activities, and learning dance. He occasionally hosts friends and is looking for a compatible roommate for a 2- or 3-bedroom in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004899813534924",
+      "posted_at": "Sunday 13 September 2026 at 14:13",
+      "first_scraped_at": "2026-09-13T22:00:01.855448+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
