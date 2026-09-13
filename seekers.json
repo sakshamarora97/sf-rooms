@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T13:12:06.401306",
-  "count": 2519,
+  "updated_at": "2026-09-13T14:13:08.865082",
+  "count": 2521,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70439,6 +70439,63 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004814430210129",
       "posted_at": "Sunday 13 September 2026 at 11:29",
       "first_scraped_at": "2026-09-13T19:00:02.420858+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4712125875689082",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown San Francisco",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is seeking a short-term private-room sublease for three months near downtown San Francisco or Daly City; works at Salesforce Tower.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712125875689082",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-13T21:00:01.911167+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2004884850203087",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "private_room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown San Francisco",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working professional employed near Salesforce Tower seeking a clean, respectful short-term private room close to downtown San Francisco or Daly City.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004884850203087",
+      "posted_at": "Sunday 13 September 2026 at 13:39",
+      "first_scraped_at": "2026-09-13T21:00:01.911167+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
