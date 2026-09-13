@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T11:11:39.901008",
-  "count": 1795,
+  "updated_at": "2026-09-13T12:11:56.403625",
+  "count": 1796,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52472,6 +52472,30 @@
       "posted_at": "Sunday 13 September 2026 at 09:18",
       "first_scraped_at": "2026-09-13T17:00:02.603363+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4712042199030783",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 592,
+      "neighborhood": "Hayward",
+      "area": "East Bay",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "male only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712042199030783",
+      "posted_at": "Sunday 13 September 2026 at 11:37",
+      "first_scraped_at": "2026-09-13T19:00:02.420858+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
