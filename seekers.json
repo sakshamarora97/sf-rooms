@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-12T19:12:03.663090",
-  "count": 2504,
+  "updated_at": "2026-09-12T20:12:14.610368",
+  "count": 2505,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70036,6 +70036,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004193983605507",
       "posted_at": "Saturday 12 September 2026 at 18:54",
       "first_scraped_at": "2026-09-13T02:00:01.861721+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2004228403602065",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1750,
+      "budget_max": 1750,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Walnut Creek",
+        "Contra Costa"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 21,
+      "bio": "A 21-year-old female who is clean, social, and easygoing, looking for a female roommate in her early 20s to sign a lease for a 2B/2B in Walnut Creek near BART; hopes to move before October and wants a friendly but respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2004228403602065",
+      "posted_at": "Saturday 12 September 2026 at 19:53",
+      "first_scraped_at": "2026-09-13T03:00:01.512319+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
