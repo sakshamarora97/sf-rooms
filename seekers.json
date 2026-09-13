@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T07:10:52.036572",
-  "count": 2508,
+  "updated_at": "2026-09-13T08:15:20.279016",
+  "count": 2514,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70148,6 +70148,171 @@
       "posted_at": "Saturday 12 September 2026 at 22:42",
       "first_scraped_at": "2026-09-13T13:00:02.202389+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4711861065715563",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-04",
+      "move_out_date": "2026-10-16",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term room/sublet while working at UCSF Mission Bay. Clean, quiet, respectful, and will mainly be at work during the day; prefers a furnished room with easy access to public transit.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711861065715563",
+      "posted_at": "Sunday 13 September 2026 at 07:57",
+      "first_scraped_at": "2026-09-13T15:00:01.838989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28258529110471042",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 34,
+      "bio": "A 34-year-old technology sales professional relocating to San Francisco who is clean, respectful, and social. Enjoys cooking, exercising, hiking, volunteering, and live music, and can provide references.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28258529110471042",
+      "posted_at": "Sunday 13 September 2026 at 07:27",
+      "first_scraped_at": "2026-09-13T15:00:01.838989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28256768623980424",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a studio or one-bedroom in San Francisco or Daly City with a budget up to $2,300/month.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28256768623980424",
+      "posted_at": "Sunday 13 September 2026 at 07:27",
+      "first_scraped_at": "2026-09-13T15:00:01.838989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28255025660821387",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "townhome",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28255025660821387",
+      "posted_at": "Sunday 13 September 2026 at 07:27",
+      "first_scraped_at": "2026-09-13T15:00:01.838989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28252329161091037",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "lease_takeover",
+        "room_rental",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old software engineer working remotely for a startup who enjoys running, playing video games, and visiting nearby beaches. Seeking a lease takeover or to join a unit in the Marina, North Beach, or surrounding areas with in-unit laundry and preferably a private bathroom.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28252329161091037",
+      "posted_at": "Sunday 13 September 2026 at 07:27",
+      "first_scraped_at": "2026-09-13T15:00:01.838989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28224377977219489",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "ADU",
+        "guesthouse",
+        "in-law",
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works in hospitality downtown and is seeking a stable, private studio or small apartment. Quiet, home-oriented person who enjoys cooking, sewing, knitting, and drawing.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28224377977219489",
+      "posted_at": "Sunday 13 September 2026 at 07:27",
+      "first_scraped_at": "2026-09-13T15:00:01.838989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
