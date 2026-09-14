@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T17:11:53.521538",
-  "count": 1799,
+  "updated_at": "2026-09-13T18:13:46.605177",
+  "count": 1800,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52587,6 +52587,35 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712201065681563",
       "posted_at": "Sunday 13 September 2026 at 15:40",
       "first_scraped_at": "2026-09-13T23:00:02.336013+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4712270689007934",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4100,
+      "neighborhood": "Nob Hill / Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2026-11-30",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "sauna",
+        "floor_to_ceiling_windows"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712270689007934",
+      "posted_at": "Sunday 13 September 2026 at 17:42",
+      "first_scraped_at": "2026-09-14T01:00:04.327674+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
