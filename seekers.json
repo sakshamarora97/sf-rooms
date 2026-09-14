@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-14T14:12:10.874734",
-  "count": 2544,
+  "updated_at": "2026-09-14T15:12:26.159633",
+  "count": 2546,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71150,6 +71150,65 @@
       "posted_at": "Monday 14 September 2026 at 12:37",
       "first_scraped_at": "2026-09-14T20:00:05.575568+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4713238528911150",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-18",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City",
+        "Redwood City",
+        "San Mateo",
+        "Palo Alto",
+        "Mountain View"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "He is a working professional moving from Dallas to the Bay Area, clean, respectful, active, friendly, easygoing, and seeking a private or shared room with convenient access to public transportation.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713238528911150",
+      "posted_at": "Monday 14 September 2026 at 14:40",
+      "first_scraped_at": "2026-09-14T22:00:02.065178+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2005755756782663",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old recent Michigan State graduate starting a tech sales role at a startup in San Francisco. Social, easygoing, clean, enjoys working out, sports, traveling, and going out with friends; seeking roommates around his age in the Marina/Cow Hollow/Russian Hill area with a $2,000\u2013$3,000/month budget.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005755756782663",
+      "posted_at": "Monday 14 September 2026 at 14:19",
+      "first_scraped_at": "2026-09-14T22:00:02.065178+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
