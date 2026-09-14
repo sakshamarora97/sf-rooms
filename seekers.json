@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T22:13:02.634377",
-  "count": 2534,
+  "updated_at": "2026-09-14T06:11:48.490093",
+  "count": 2536,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70874,6 +70874,67 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005073553517550",
       "posted_at": "Sunday 13 September 2026 at 20:01",
       "first_scraped_at": "2026-09-14T03:00:02.115955+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2005423980149174",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Haight Ashbury",
+        "Sunset",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Looking to move to San Francisco in October and seeking a lease takeover or roommates. Queer-friendly and pet-friendly (allergic to cats), keeps a clean but fun home, enjoys photography, music, and film.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005423980149174",
+      "posted_at": "Monday 14 September 2026 at 05:46",
+      "first_scraped_at": "2026-09-14T13:00:03.786553+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2005047976853441",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room",
+        "lease_takeover",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "South Beach",
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "They are a 25-year-old new sales hire moving to San Francisco, active in biking, hiking, and cooking; laid-back and social, comfortable living with pets, and seeking a studio/1BR or room/lease takeover starting early October.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005047976853441",
+      "posted_at": "Sunday 13 September 2026 at 19:18",
+      "first_scraped_at": "2026-09-14T13:00:03.786553+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

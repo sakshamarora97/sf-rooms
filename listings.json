@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T22:13:02.604170",
-  "count": 1804,
+  "updated_at": "2026-09-14T06:11:48.451013",
+  "count": 1805,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52724,6 +52724,39 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712370168997986",
       "posted_at": "Sunday 13 September 2026 at 20:04",
       "first_scraped_at": "2026-09-14T04:00:01.945435+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4712483248986678",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3550,
+      "neighborhood": "Downtown Redwood City",
+      "area": "The Peninsula",
+      "available_from": "2026-09-26",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "balcony",
+        "air_conditioning",
+        "pool",
+        "spa",
+        "gym",
+        "clubhouse",
+        "business_center"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712483248986678",
+      "posted_at": "Sunday 13 September 2026 at 22:48",
+      "first_scraped_at": "2026-09-14T13:00:03.786553+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
