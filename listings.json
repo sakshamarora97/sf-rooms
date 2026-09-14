@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T20:13:41.959401",
-  "count": 1802,
+  "updated_at": "2026-09-13T21:13:48.088428",
+  "count": 1804,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -52668,6 +52668,62 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4711918032376533",
       "posted_at": "Sunday 13 September 2026 at 09:03",
       "first_scraped_at": "2026-09-14T03:00:02.115955+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4712375058997497",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Sunset/Parkside",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "5B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "walk_in_closet"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712375058997497",
+      "posted_at": "Sunday 13 September 2026 at 20:11",
+      "first_scraped_at": "2026-09-14T04:00:01.945435+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4712370168997986",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1475,
+      "neighborhood": "Hillsborough",
+      "area": "The Peninsula",
+      "available_from": "2026-10-01",
+      "available_until": "2027-01-01",
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": 6,
+      "amenities": [
+        "pool",
+        "hot_tub",
+        "sauna",
+        "large_kitchen",
+        "outdoor_patio"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712370168997986",
+      "posted_at": "Sunday 13 September 2026 at 20:04",
+      "first_scraped_at": "2026-09-14T04:00:01.945435+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
