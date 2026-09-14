@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-14T12:11:57.367448",
-  "count": 2542,
+  "updated_at": "2026-09-14T13:12:12.002018",
+  "count": 2544,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71095,6 +71095,61 @@
       "posted_at": "Monday 14 September 2026 at 11:18",
       "first_scraped_at": "2026-09-14T19:00:02.671520+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4713170005584669",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713170005584669",
+      "posted_at": "Monday 14 September 2026 at 12:50",
+      "first_scraped_at": "2026-09-14T20:00:05.575568+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4713159925585677",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1750,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Outer Richmond",
+        "Panhandle",
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 25,
+      "bio": "She is a 25-year-old full-time Trader Joe\u2019s employee in San Francisco who enjoys climbing, reading in Golden Gate Park, trying cafes and restaurants, and visiting cocktail bars. She seeks a tidy, respectful home with young professionals or students and is flexible on lease length.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713159925585677",
+      "posted_at": "Monday 14 September 2026 at 12:37",
+      "first_scraped_at": "2026-09-14T20:00:05.575568+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
