@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-14T10:10:59.067785",
-  "count": 2537,
+  "updated_at": "2026-09-14T11:11:53.864251",
+  "count": 2539,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70966,6 +70966,61 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005526853472220",
       "posted_at": "Monday 14 September 2026 at 08:04",
       "first_scraped_at": "2026-09-14T16:00:03.029083+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4713051872263149",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-27",
+      "move_out_date": "2026-11-22",
+      "budget_min": 2700,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "South Park"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": 24,
+      "bio": "24-year-old coming from NYC for a two-month work program in South Park. He works late most weekdays, is clean and tidy, enjoys basketball and dancing, and has experience living well with all genders.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713051872263149",
+      "posted_at": "Monday 14 September 2026 at 10:19",
+      "first_scraped_at": "2026-09-14T18:00:05.623040+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2005631826795056",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pacific Heights",
+        "North Beach",
+        "Cow Hollow",
+        "Russian Hill",
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Founding engineer at a health\u2011tech company relocating from Canada, planning to move in early October. Active and social\u2014enjoys running, lifting, coffee and hosting\u2014generally clean and organized, seeking a bright, high\u2011taste place with great people in Marina, Pacific Heights, North Beach, Cow Hollow or Russian Hill (or within a 15\u2011minute bike of the Financial District).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005631826795056",
+      "posted_at": "Monday 14 September 2026 at 10:31",
+      "first_scraped_at": "2026-09-14T18:00:05.623040+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
