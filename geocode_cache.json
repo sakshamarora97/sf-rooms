@@ -862,6 +862,11 @@
     "lat": 37.7955487,
     "lon": -122.3934746
   },
+  "Ferry Building Marketplace, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Ferry Building, San Francisco": {
     "lat": 37.7955487,
     "lon": -122.3934746
@@ -1924,7 +1929,7 @@
   "Nob Hill / Lower Pacific Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Nob Hill / Pacific Heights, San Francisco": {
     "lat": null,
