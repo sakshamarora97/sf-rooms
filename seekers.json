@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-13T19:14:03.484859",
-  "count": 2532,
+  "updated_at": "2026-09-13T20:13:41.989121",
+  "count": 2534,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70816,6 +70816,64 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005021776856061",
       "posted_at": "Sunday 13 September 2026 at 18:31",
       "first_scraped_at": "2026-09-14T02:00:02.122736+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4712357378999265",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 21,
+      "bio": "Looking for a furnished private room in San Francisco starting around Oct 1 for a 3-month lease. Newly hired at a YC startup, 21, clean, responsible, easygoing and social; mostly out working but enjoys hanging with roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4712357378999265",
+      "posted_at": "Sunday 13 September 2026 at 19:46",
+      "first_scraped_at": "2026-09-14T03:00:02.115955+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2005073553517550",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina District",
+        "Cow Hollow",
+        "Pacific Heights",
+        "Presidio Heights",
+        "Russian Hill",
+        "Nob Hill",
+        "Lower Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "Culinary professional on a J-1 internship seeking a private room in San Francisco. Clean, respectful, quiet, and responsible; looking for a longer-term stay and can move in soon.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005073553517550",
+      "posted_at": "Sunday 13 September 2026 at 20:01",
+      "first_scraped_at": "2026-09-14T03:00:02.115955+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
