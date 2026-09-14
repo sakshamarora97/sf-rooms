@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-14T08:10:16.087351",
-  "count": 2536,
+  "updated_at": "2026-09-14T09:14:35.497880",
+  "count": 2537,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -70935,6 +70935,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005047976853441",
       "posted_at": "Sunday 13 September 2026 at 19:18",
       "first_scraped_at": "2026-09-14T13:00:03.786553+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2005526853472220",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill",
+        "Nob Hill",
+        "Russian Hill",
+        "Hayes Valley",
+        "Mission",
+        "Noe Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "They are turning 24 and starting a new full-time job in mid-October. Quiet and clean, seeking a short-term month-to-month room and has no pets.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005526853472220",
+      "posted_at": "Monday 14 September 2026 at 08:04",
+      "first_scraped_at": "2026-09-14T16:00:03.029083+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
