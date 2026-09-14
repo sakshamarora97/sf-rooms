@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-14T11:11:53.864251",
-  "count": 2539,
+  "updated_at": "2026-09-14T12:11:57.367448",
+  "count": 2542,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71021,6 +71021,79 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005631826795056",
       "posted_at": "Monday 14 September 2026 at 10:31",
       "first_scraped_at": "2026-09-14T18:00:05.623040+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4713117832256553",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B",
+        "house"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Looking for a 2-bedroom apartment or house in San Francisco. Can take over a lease and plans to move back on 2026-11-01.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713117832256553",
+      "posted_at": "Monday 14 September 2026 at 11:44",
+      "first_scraped_at": "2026-09-14T19:00:02.671520+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4713116462256690",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are relocating back to San Francisco and recently joined the group.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713116462256690",
+      "posted_at": "Monday 14 September 2026 at 11:42",
+      "first_scraped_at": "2026-09-14T19:00:02.671520+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2005661206792118",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 25,
+      "bio": "Applicant is a 25-year-old tech worker who enjoys hiking, camping, climbing, traveling, and local events. They describe themselves as clean, organized, outgoing, social, and are seeking roommates; they have a 4-year-old ESA-certified dachshund.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2005661206792118",
+      "posted_at": "Monday 14 September 2026 at 11:18",
+      "first_scraped_at": "2026-09-14T19:00:02.671520+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
