@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T08:11:36.547128",
-  "count": 2555,
+  "updated_at": "2026-09-15T09:11:30.354015",
+  "count": 2556,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71457,6 +71457,39 @@
       "posted_at": "Tuesday 15 September 2026 at 06:14",
       "first_scraped_at": "2026-09-15T14:00:04.896591+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4713974675504202",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room",
+        "3B",
+        "4B"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "North Beach",
+        "Russian Hill",
+        "Hayes Valley",
+        "South Beach",
+        "East Cut"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "She is in her early 20s, recently moved to the Bay Area from Boston, and will be working in tech sales. She is social, enjoys trying new restaurants and bars, exploring the city, traveling, and working out, and seeks clean, respectful roommates for a late-October move-in.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713974675504202",
+      "posted_at": "Tuesday 15 September 2026 at 08:14",
+      "first_scraped_at": "2026-09-15T16:00:02.464412+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
