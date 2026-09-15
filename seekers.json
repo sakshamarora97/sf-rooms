@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T10:11:00.066142",
-  "count": 2556,
+  "updated_at": "2026-09-15T11:10:38.854236",
+  "count": 2557,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71490,6 +71490,32 @@
       "posted_at": "Tuesday 15 September 2026 at 08:14",
       "first_scraped_at": "2026-09-15T16:00:02.464412+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2006485363376369",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 30,
+      "bio": "She is a 30-year-old Greek-German teacher who prefers to live alone but is open to a roommate or renting a room from a family.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006485363376369",
+      "posted_at": "Tuesday 15 September 2026 at 10:57",
+      "first_scraped_at": "2026-09-15T18:00:02.274513+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
