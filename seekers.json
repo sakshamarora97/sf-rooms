@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T06:11:48.780677",
-  "count": 2554,
+  "updated_at": "2026-09-15T07:11:58.504670",
+  "count": 2555,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71426,6 +71426,37 @@
       "posted_at": "Tuesday 15 September 2026 at 00:07",
       "first_scraped_at": "2026-09-15T13:00:02.654126+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2006291396729099",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": "2027-01-15",
+      "budget_min": 3000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes",
+        "Pac Heights",
+        "Duboce",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "A recent college graduate relocating to San Francisco to begin work in the Financial District. Seeking a short-term (~3 month) sublease starting mid-October, preferably a studio or one-bedroom with a private bathroom.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006291396729099",
+      "posted_at": "Tuesday 15 September 2026 at 06:14",
+      "first_scraped_at": "2026-09-15T14:00:04.896591+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

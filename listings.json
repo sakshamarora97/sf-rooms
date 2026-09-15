@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T06:11:48.749947",
-  "count": 1824,
+  "updated_at": "2026-09-15T07:11:58.472902",
+  "count": 1825,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -53295,6 +53295,33 @@
       "posted_at": "Tuesday 15 September 2026 at 05:53",
       "first_scraped_at": "2026-09-15T13:00:02.654126+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4713898455511824",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "San Francisco Opera House",
+      "area": "San Francisco",
+      "available_from": "2026-09-18",
+      "available_until": "2026-09-25",
+      "unit_config": "1B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "kitchenette",
+        "hotel"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Inn at the Opera",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713898455511824",
+      "posted_at": "Tuesday 15 September 2026 at 06:45",
+      "first_scraped_at": "2026-09-15T14:00:04.896591+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
