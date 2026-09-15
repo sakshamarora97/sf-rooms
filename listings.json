@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-14T16:12:22.146083",
-  "count": 1819,
+  "updated_at": "2026-09-14T17:12:23.607998",
+  "count": 1820,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -53151,6 +53151,37 @@
       "posted_at": "Monday 14 September 2026 at 14:49",
       "first_scraped_at": "2026-09-14T22:00:02.065178+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4713290842239252",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Sherwood Forest",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "5B4B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "balcony",
+        "backyard",
+        "shared_kitchen",
+        "living_room",
+        "garage_spot"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713290842239252",
+      "posted_at": "Monday 14 September 2026 at 16:12",
+      "first_scraped_at": "2026-09-15T00:00:01.818427+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
