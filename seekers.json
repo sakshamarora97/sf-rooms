@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T14:12:00.909051",
-  "count": 2561,
+  "updated_at": "2026-09-15T15:13:29.472566",
+  "count": 2564,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71624,6 +71624,93 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006582143366691",
       "posted_at": "Tuesday 15 September 2026 at 13:56",
       "first_scraped_at": "2026-09-15T21:00:02.602083+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "751488baa981a1cc",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "Recent Cal Poly SLO graduate starting a full-time mechanical engineering job in South San Francisco who seeks a long-term room in Dogpatch or Potrero Hill. Outdoorsy and tidy, enjoys backpacking, ceramics, biking, trail running, and values a clean, respectful household.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100050660612443",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-15T22:00:02.650136+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4714248778810125",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B",
+        "3B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old who grew up in Texas and is back in San Francisco full-time working in-office. Outdoorsy (hiking, camping, kayaking, biking), practices hot yoga, clean and quiet, no pets, no car.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4714248778810125",
+      "posted_at": "Tuesday 15 September 2026 at 14:23",
+      "first_scraped_at": "2026-09-15T22:00:02.650136+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2006607423364163",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-03",
+      "move_out_date": "2027-05-29",
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Telegraph Hill",
+        "Nob Hill",
+        "Russian Hill",
+        "Pacific Heights",
+        "Lower Pacific Heights",
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "A UChicago student graduating in December who will be working temporarily in San Francisco. Clean, quiet, respectful, and able to commit to the full Jan 3\u2013May 29, 2027 period.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006607423364163",
+      "posted_at": "Tuesday 15 September 2026 at 14:50",
+      "first_scraped_at": "2026-09-15T22:00:02.650136+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T14:12:00.879401",
-  "count": 1830,
+  "updated_at": "2026-09-15T15:13:29.441138",
+  "count": 1831,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -53464,6 +53464,30 @@
       "posted_at": "Tuesday 15 September 2026 at 12:03",
       "first_scraped_at": "2026-09-15T20:00:02.872248+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4714252978809705",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Bayview",
+      "area": "San Francisco",
+      "available_from": "2026-09-15",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4714252978809705",
+      "posted_at": "Tuesday 15 September 2026 at 14:30",
+      "first_scraped_at": "2026-09-15T22:00:02.650136+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
