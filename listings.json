@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T11:10:38.823197",
-  "count": 1827,
+  "updated_at": "2026-09-15T12:11:03.118934",
+  "count": 1828,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -53377,6 +53377,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006366573388248",
       "posted_at": "Tuesday 15 September 2026 at 07:58",
       "first_scraped_at": "2026-09-15T16:00:02.464412+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2006487360042836",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 900,
+      "neighborhood": "Oakland",
+      "area": "East Bay",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "backyard",
+        "forest_view"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006487360042836",
+      "posted_at": "Tuesday 15 September 2026 at 11:01",
+      "first_scraped_at": "2026-09-15T19:00:06.104477+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
