@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-14T22:15:34.249120",
+  "updated_at": "2026-09-15T06:11:48.780677",
   "count": 2554,
   "posts": [
     {
@@ -71344,33 +71344,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "6157e0a0b634e67f",
-      "post_type": "seeker",
-      "duration_type": "short_term",
-      "move_in_date": "2026-09-16",
-      "move_out_date": "2026-09-21",
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "room",
-        "entire_unit"
-      ],
-      "preferred_neighborhoods": [
-        "San Francisco"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": "Seeks a short-term room or apartment in San Francisco for 5 days (Sep 16\u201321); looking for central location close to transit and amenities.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/61588286444397",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-15T05:00:02.104932+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "2005985776759661",
       "post_type": "seeker",
       "duration_type": null,
@@ -71424,6 +71397,35 @@
       "posted_at": "Monday 14 September 2026 at 21:41",
       "first_scraped_at": "2026-09-15T05:00:02.104932+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4713597845541885",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-18",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Parkmerced",
+        "Fisherman\u2019s Wharf",
+        "Marina District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a private room in a shared apartment/house in San Francisco and describe themselves as clean, friendly, and respectful.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4713597845541885",
+      "posted_at": "Tuesday 15 September 2026 at 00:07",
+      "first_scraped_at": "2026-09-15T13:00:02.654126+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
