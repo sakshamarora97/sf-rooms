@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T13:13:08.030467",
-  "count": 2560,
+  "updated_at": "2026-09-15T14:12:00.909051",
+  "count": 2561,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71547,32 +71547,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "a6245cda218849a3",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": "2026-10-01",
-      "move_out_date": "2027-10-01",
-      "budget_min": null,
-      "budget_max": 1400,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [
-        "West Oakland"
-      ],
-      "area": "East Bay",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": 22,
-      "bio": "She is a 22-year-old software engineer, recently graduated, who values clear communication and keeping shared spaces clean. She is outdoorsy (rock climbing, hiking, surfing, taekwondo), doesn't smoke or drink, is mostly out during the week, and wants housemates who become friends.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100005363087069",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-15T20:00:02.872248+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "28294571803533439",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -71596,6 +71570,61 @@
       "posted_at": "Tuesday 15 September 2026 at 12:03",
       "first_scraped_at": "2026-09-15T20:00:02.872248+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4714167855484884",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": "2027-10-01",
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "West Oakland",
+        "San Francisco"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "She is a 22-year-old recent graduate working as a software engineer who values clear communication, mutual respect, and clean shared spaces. She is a non-smoker, mostly out during the week, enjoys outdoor activities (rock climbing, hiking, surfing, taekwondo), and seeks female housemates to form a friendly household.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4714167855484884",
+      "posted_at": "Tuesday 15 September 2026 at 12:21",
+      "first_scraped_at": "2026-09-15T21:00:02.602083+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2006582143366691",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": "2026-10-29",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Duboce Triangle",
+        "Marina District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term sublet (whole unit) starting mid-October for a couple of weeks; a couple traveling with a dog looking in Pacific Heights, Duboce, or the Marina.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006582143366691",
+      "posted_at": "Tuesday 15 September 2026 at 13:56",
+      "first_scraped_at": "2026-09-15T21:00:02.602083+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
