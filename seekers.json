@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T13:12:26.023370",
-  "count": 2576,
+  "updated_at": "2026-09-16T14:12:50.501763",
+  "count": 2577,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72055,6 +72055,30 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4715083175393352",
       "posted_at": "Wednesday 16 September 2026 at 09:52",
       "first_scraped_at": "2026-09-16T17:00:06.432745+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4715259668709036",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "A 24-year-old planning to move to San Francisco to work at Trader Joe\u2019s; outgoing and considerate, keeps common areas clean and contributes to shared household chores.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4715259668709036",
+      "posted_at": "Wednesday 16 September 2026 at 13:58",
+      "first_scraped_at": "2026-09-16T21:00:05.039390+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
