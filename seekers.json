@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T19:12:42.063879",
-  "count": 2566,
+  "updated_at": "2026-09-15T20:13:37.683119",
+  "count": 2568,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71776,6 +71776,57 @@
       "posted_at": "Tuesday 15 September 2026 at 16:41",
       "first_scraped_at": "2026-09-16T00:00:02.429279+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2006757583349147",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 33,
+      "bio": "33-year-old software engineer working downtown full-time who enjoys golf, surfing, meditation, and socializing. Neat, socially aware, and easy to get along with; looking for housemates and a bright home under $1500/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006757583349147",
+      "posted_at": "Tuesday 15 September 2026 at 19:51",
+      "first_scraped_at": "2026-09-16T03:00:05.635393+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2006736510017921",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet",
+        "home_swap"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "She is an early-30s sustainability professional currently living in Honolulu who enjoys surfing, hiking, cycling, reading, and yoga. She is looking for a sublet or home swap in San Francisco this fall and is flexible to move in anytime in October or November.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006736510017921",
+      "posted_at": "Tuesday 15 September 2026 at 19:12",
+      "first_scraped_at": "2026-09-16T03:00:05.635393+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
