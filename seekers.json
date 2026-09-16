@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T16:12:52.832626",
-  "count": 2565,
+  "updated_at": "2026-09-15T17:12:31.430818",
+  "count": 2566,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71743,6 +71743,39 @@
       "posted_at": "Tuesday 15 September 2026 at 15:35",
       "first_scraped_at": "2026-09-15T23:00:03.473769+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4714325152135821",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill",
+        "Chinatown",
+        "Marina",
+        "Pac Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "They are a 23-year-old full-time tech engineer relocating from San Diego for a new job in San Francisco. They describe themselves as clean, responsible, and active, and are open to a room, studio, or 1BR near North Beach/Chinatown/nearby neighborhoods.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4714325152135821",
+      "posted_at": "Tuesday 15 September 2026 at 16:41",
+      "first_scraped_at": "2026-09-16T00:00:02.429279+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
