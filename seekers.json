@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T06:15:59.224459",
-  "count": 2573,
+  "updated_at": "2026-09-16T07:12:56.939933",
+  "count": 2574,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71857,36 +71857,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "ea4e43f39f03e992",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": "2026-10-31",
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "in-law house"
-      ],
-      "preferred_neighborhoods": [
-        "Hayes Valley",
-        "Sunset",
-        "Dog Patch",
-        "Presidio",
-        "West of Twin Peaks"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": null,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": "They are seeking an in-law house in San Francisco with a flexible move-in around the end of October. Preferred neighborhoods are Hayes Valley, Sunset, Dog Patch, Presidio, and West of Twin Peaks.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001541265061",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-16T13:00:04.986356+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "4714603165441353",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -71972,6 +71942,64 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006816573343248",
       "posted_at": "Tuesday 15 September 2026 at 21:30",
       "first_scraped_at": "2026-09-16T13:00:04.986356+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4714813608753642",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Sunset",
+        "Dog Patch",
+        "Presidio",
+        "West of Twin Peaks"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks an in-law house in San Francisco with a flexible move-in around the end of October, and lists preferred neighborhoods Hayes Valley, Sunset, Dog Patch, Presidio, and West of Twin Peaks.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4714813608753642",
+      "posted_at": "Wednesday 16 September 2026 at 04:47",
+      "first_scraped_at": "2026-09-16T14:00:03.991969+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2007150153309890",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pacific Heights",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a short-term sublet in San Francisco starting Feb 1, 2027 for 1\u20132 months; prefers Marina, Pacific Heights, or Russian Hill.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007150153309890",
+      "posted_at": "Wednesday 16 September 2026 at 06:44",
+      "first_scraped_at": "2026-09-16T14:00:03.991969+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
