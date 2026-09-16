@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T09:12:51.974594",
-  "count": 2575,
+  "updated_at": "2026-09-16T10:13:16.390449",
+  "count": 2576,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72027,6 +72027,35 @@
       "posted_at": "Wednesday 16 September 2026 at 08:17",
       "first_scraped_at": "2026-09-16T16:00:04.681998+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4715083175393352",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-19",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "private apartment",
+        "shared apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown",
+        "Central San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old recent Cornell Computer Science graduate relocating from NYC to San Francisco for a software engineering job; clean, respectful, quiet, non-smoker with steady income and documents ready.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4715083175393352",
+      "posted_at": "Wednesday 16 September 2026 at 09:52",
+      "first_scraped_at": "2026-09-16T17:00:06.432745+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
