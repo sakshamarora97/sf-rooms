@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T22:12:57.964017",
-  "count": 2570,
+  "updated_at": "2026-09-16T06:15:59.224459",
+  "count": 2573,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71829,38 +71829,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "1d9b1bd5df06bb93",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": "2026-10-01",
-      "move_out_date": null,
-      "budget_min": 2800,
-      "budget_max": 3200,
-      "unit_type_wanted": [
-        "room",
-        "2BR",
-        "3BR",
-        "4BR"
-      ],
-      "preferred_neighborhoods": [
-        "Cole Valley",
-        "NoPa",
-        "Panhandle",
-        "Hayes Valley"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": 25,
-      "bio": "25-year-old who works in AI near Embarcadero and goes into the office 3\u20134 days a week; currently lives in Cole Valley and enjoys cooking; looking to join others signing a new lease for a 2\u20134BR.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100067425385465",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-16T05:00:02.419690+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "2006808873344018",
       "post_type": "seeker",
       "duration_type": null,
@@ -71886,6 +71854,124 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006808873344018",
       "posted_at": "Tuesday 15 September 2026 at 21:16",
       "first_scraped_at": "2026-09-16T05:00:02.419690+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "ea4e43f39f03e992",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "in-law house"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Sunset",
+        "Dog Patch",
+        "Presidio",
+        "West of Twin Peaks"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking an in-law house in San Francisco with a flexible move-in around the end of October. Preferred neighborhoods are Hayes Valley, Sunset, Dog Patch, Presidio, and West of Twin Peaks.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001541265061",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-16T13:00:04.986356+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4714603165441353",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Russian Hill",
+        "Cow Hollow",
+        "Marina",
+        "Nob Hill",
+        "Presidio Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 29,
+      "bio": "She is 29 and relocating to San Francisco for work in medical device sales; she also coaches at Solidcore. She is clean, responsible, social, enjoys working out and dining out, and is seeking an unfurnished studio or 1-bedroom up to $4,000/month or a female roommate for a 2B2B.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4714603165441353",
+      "posted_at": "Tuesday 15 September 2026 at 23:50",
+      "first_scraped_at": "2026-09-16T13:00:04.986356+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2006861473338758",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old recent Cal Poly SLO graduate who just started a full-time job in San Francisco. Easygoing, enjoys cycling, basketball, reading, exploring the city, and hanging out with friends; describes themselves as clean, respectful, and responsible, seeking a long-term room with a budget of $1,500\u2013$1,700 and convenient commute to SoMa.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006861473338758",
+      "posted_at": "Tuesday 15 September 2026 at 22:45",
+      "first_scraped_at": "2026-09-16T13:00:04.986356+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2006816573343248",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2800,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Cole Valley",
+        "NoPa",
+        "Panhandle",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old who works in AI near Embarcadero and goes into the office 3\u20134 days/week. Clean and considerate, enjoys cooking, playing guitar, F1 and movies, has no pets or car, seeking a room in a 2\u20134BR around Cole Valley/NoPa/Panhandle/Hayes Valley with a $2,800\u2013$3,200/month budget starting around Oct 1.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006816573343248",
+      "posted_at": "Tuesday 15 September 2026 at 21:30",
+      "first_scraped_at": "2026-09-16T13:00:04.986356+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
