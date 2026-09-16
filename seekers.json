@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T14:12:50.501763",
-  "count": 2577,
+  "updated_at": "2026-09-16T15:14:12.317829",
+  "count": 2580,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72080,6 +72080,99 @@
       "posted_at": "Wednesday 16 September 2026 at 13:58",
       "first_scraped_at": "2026-09-16T21:00:05.039390+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4715289585372711",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Marina",
+        "Japantown",
+        "Alamo Square",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are recent graduates working in startups, biotech, finance, and quantitative roles. They are a social, close-knit, active household that values cleanliness and enjoys cooking, hosting, outdoor activities, and travel.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4715289585372711",
+      "posted_at": "Wednesday 16 September 2026 at 14:51",
+      "first_scraped_at": "2026-09-16T22:00:03.677518+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2007448959946676",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2-bedroom",
+        "3-bedroom",
+        "lease_takeover",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Russian Hill",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Two mid-20s professionals moving to San Francisco for tech sales roles. They are social, clean, easygoing, active, and enjoy going out, watching sports, working out, biking, traveling, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007448959946676",
+      "posted_at": "Wednesday 16 September 2026 at 15:02",
+      "first_scraped_at": "2026-09-16T22:00:03.677518+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2007437979947774",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "furnished room",
+        "sublease",
+        "shared apartment",
+        "short-term rental"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "They are a 2L law student from South Dakota seeking roughly 10 weeks in San Francisco during Summer 2027 for a fellowship/internship. They are open to furnished rooms, subleases, or shared housing, prefer LGBTQ+ friendly environments, and hope to keep costs manageable on a student/intern budget.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007437979947774",
+      "posted_at": "Wednesday 16 September 2026 at 14:37",
+      "first_scraped_at": "2026-09-16T22:00:03.677518+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
