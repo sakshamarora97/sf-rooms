@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-15T21:12:03.460379",
-  "count": 2568,
+  "updated_at": "2026-09-15T22:12:57.964017",
+  "count": 2570,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -71826,6 +71826,66 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006736510017921",
       "posted_at": "Tuesday 15 September 2026 at 19:12",
       "first_scraped_at": "2026-09-16T03:00:05.635393+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "1d9b1bd5df06bb93",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2800,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "room",
+        "2BR",
+        "3BR",
+        "4BR"
+      ],
+      "preferred_neighborhoods": [
+        "Cole Valley",
+        "NoPa",
+        "Panhandle",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old who works in AI near Embarcadero and goes into the office 3\u20134 days a week; currently lives in Cole Valley and enjoys cooking; looking to join others signing a new lease for a 2\u20134BR.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100067425385465",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-16T05:00:02.419690+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2006808873344018",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Noe Valley",
+        "Inner Richmond",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "She is a 24-year-old who recently started a job near FiDi and is seeking a room in San Francisco. She is a non-smoker with no pets, prefers to room with women, and enjoys drawing, reading, exploring cafes, and watching movies.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2006808873344018",
+      "posted_at": "Tuesday 15 September 2026 at 21:16",
+      "first_scraped_at": "2026-09-16T05:00:02.419690+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
