@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T12:13:08.143574",
-  "count": 2594,
+  "updated_at": "2026-09-17T13:13:07.384451",
+  "count": 2596,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72582,6 +72582,66 @@
       "posted_at": "Thursday 17 September 2026 at 00:53",
       "first_scraped_at": "2026-09-17T13:00:03.419745+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2008203009871271",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "FiDi"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent Northeastern graduate moving to San Francisco to start a tech sales job in FiDi at the end of the month; looking to move in October with a budget around $1500 and open to joining leases or sublets. Enjoys working out, yoga, concerts, and exploring restaurants and wine bars; looking to make new friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008203009871271",
+      "posted_at": "Thursday 17 September 2026 at 12:31",
+      "first_scraped_at": "2026-09-17T20:00:03.344420+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2008200513204854",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room",
+        "apartment",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Russian Hill",
+        "Pacific Heights",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent Penn State graduate and full-time software engineer who recently moved to San Francisco. She describes herself as clean, considerate, and easy to communicate with, and enjoys restaurants, hiking, and exploring the city; she is looking for a room, apartment, or sublet and is open to finding roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008200513204854",
+      "posted_at": "Thursday 17 September 2026 at 12:26",
+      "first_scraped_at": "2026-09-17T20:00:03.344420+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
