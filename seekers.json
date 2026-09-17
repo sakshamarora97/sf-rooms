@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T15:12:57.114238",
-  "count": 2598,
+  "updated_at": "2026-09-17T16:13:26.475622",
+  "count": 2599,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72699,6 +72699,33 @@
       "posted_at": "Wednesday 16 September 2026 at 21:05",
       "first_scraped_at": "2026-09-17T21:00:03.096553+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4716358755265794",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Presidio",
+        "Sunset",
+        "Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 27,
+      "bio": "He is a 27-year-old remote clinical research worker who travels 2\u20133 days a week and is seeking a mid\u2013late October move to San Francisco. Social and active, he enjoys backpacking, surfing, playing guitar, grilling, skiing, and occasional golf; he often spends time at his girlfriend's place.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4716358755265794",
+      "posted_at": "Thursday 17 September 2026 at 15:25",
+      "first_scraped_at": "2026-09-17T23:00:03.899780+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
