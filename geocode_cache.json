@@ -532,6 +532,10 @@
     "lat": 37.7093777,
     "lon": -122.4385868
   },
+  "Crocker-Amazon, San Francisco": {
+    "lat": 37.7093777,
+    "lon": -122.4385868
+  },
   "Croker Park, San Francisco": {
     "lat": null,
     "lon": null,
@@ -649,6 +653,11 @@
   "Down Town, San Francisco": {
     "lat": 37.655082,
     "lon": -122.4102852
+  },
+  "Downtown (Embarcadero), San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "Downtown / Salesforce Tower area, San Francisco": {
     "lat": null,
@@ -1470,6 +1479,10 @@
     "retries": 3
   },
   "Lower Pacific Heights, San Francisco": {
+    "lat": 37.7857666,
+    "lon": -122.4389042
+  },
+  "Lower Pacific, San Francisco": {
     "lat": 37.7857666,
     "lon": -122.4389042
   },
