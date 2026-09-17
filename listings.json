@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T09:13:02.830077",
-  "count": 1871,
+  "updated_at": "2026-09-17T10:13:02.278828",
+  "count": 1872,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -54683,6 +54683,38 @@
       "posted_at": "Thursday 17 September 2026 at 07:10",
       "first_scraped_at": "2026-09-17T16:00:05.129330+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "2008092773215628",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 850,
+      "neighborhood": "Lower Dimond District, Oakland",
+      "area": "East Bay",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "4B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "gated_driveway",
+        "street_parking",
+        "dishwasher",
+        "gas_stove",
+        "separate_upstairs_downstairs_heating"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008092773215628",
+      "posted_at": "Thursday 17 September 2026 at 09:27",
+      "first_scraped_at": "2026-09-17T17:00:04.011691+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
