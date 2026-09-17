@@ -7,6 +7,10 @@
     "lat": 37.7737479,
     "lon": -122.4181526
   },
+  "2150 Webster St, Oakland, East Bay": {
+    "lat": 37.8103358,
+    "lon": -122.2653719
+  },
   "2200 Jackson St, San Francisco": {
     "lat": 37.7931044,
     "lon": -122.4314774
@@ -343,7 +347,7 @@
   "Caltrain corridor, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Cambrian Park, South Bay": {
     "lat": 37.2564151,
