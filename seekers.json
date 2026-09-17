@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T16:13:08.479494",
-  "count": 2580,
+  "updated_at": "2026-09-16T17:13:36.431043",
+  "count": 2582,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72172,6 +72172,64 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007437979947774",
       "posted_at": "Wednesday 16 September 2026 at 14:37",
       "first_scraped_at": "2026-09-16T22:00:03.677518+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4715330265368643",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "parking_spot"
+      ],
+      "preferred_neighborhoods": [
+        "Pac Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a parking spot in Pac Heights and is looking to rent it as soon as possible.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4715330265368643",
+      "posted_at": "Wednesday 16 September 2026 at 16:05",
+      "first_scraped_at": "2026-09-17T00:00:06.546555+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2007470486611190",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B",
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Bernal Heights",
+        "Dogpatch",
+        "Bayview",
+        "Portola",
+        "McLaren Park"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "She is 27 and will start a postdoc in computational genetics in October. She is active (running, hiking, climbing, skiing, sailing), enjoys social activities like game nights and breweries, and describes herself as a laidback, neat housemate who values quiet hours.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007470486611190",
+      "posted_at": "Wednesday 16 September 2026 at 15:49",
+      "first_scraped_at": "2026-09-17T00:00:06.546555+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
