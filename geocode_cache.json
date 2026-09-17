@@ -343,7 +343,7 @@
   "Caltrain corridor, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Cambrian Park, South Bay": {
     "lat": 37.2564151,
@@ -2523,6 +2523,10 @@
   "Presidio, San Francisco": {
     "lat": 37.7987926,
     "lon": -122.4645799
+  },
+  "Presidio/Presidio Heights, San Francisco": {
+    "lat": 37.7873082,
+    "lon": -122.4472343
   },
   "Professorville, The Peninsula": {
     "lat": null,
