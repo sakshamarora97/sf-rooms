@@ -28,6 +28,10 @@
     "lat": 37.8037964,
     "lon": -122.4054543
   },
+  "255 California St, San Francisco": {
+    "lat": 37.7929589,
+    "lon": -122.3995978
+  },
   "26th Street, San Francisco": {
     "lat": 37.7487752,
     "lon": -122.4225278
@@ -1726,7 +1730,7 @@
   "Mission District (south Mission near 25th & Potrero), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Mission District / Bernal Heights, San Francisco": {
     "lat": null,
@@ -2295,7 +2299,7 @@
   "Panhandle / Page St (near Cole Valley), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 2
   },
   "Panhandle East, San Francisco": {
     "lat": null,

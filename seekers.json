@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T19:13:30.711429",
-  "count": 2584,
+  "updated_at": "2026-09-16T20:12:50.100443",
+  "count": 2585,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72286,6 +72286,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007537366604502",
       "posted_at": "Wednesday 16 September 2026 at 18:11",
       "first_scraped_at": "2026-09-17T02:00:03.995503+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2007568229934749",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-28",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "private_room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "255 California St"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "They are a University of Waterloo student moving to San Francisco for a software engineering internship this fall, seeking a furnished private bedroom with a private bathroom near the Financial District for a short-term (about 3-month) lease.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007568229934749",
+      "posted_at": "Wednesday 16 September 2026 at 19:09",
+      "first_scraped_at": "2026-09-17T03:00:03.903776+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
