@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T18:13:46.845411",
-  "count": 1861,
+  "updated_at": "2026-09-16T19:13:30.680993",
+  "count": 1862,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -54276,37 +54276,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "21ea64bc2952e37e",
-      "post_type": "listing",
-      "listing_type": "room_rental",
-      "duration_type": null,
-      "rent": null,
-      "neighborhood": "Berkeley",
-      "area": "East Bay",
-      "available_from": null,
-      "available_until": null,
-      "unit_config": null,
-      "room_type": "private_room",
-      "is_furnished": true,
-      "roommates_count": null,
-      "amenities": [
-        "furnished",
-        "utilities_included",
-        "wifi_included",
-        "hardwood_floors",
-        "sunroom",
-        "natural_light"
-      ],
-      "utilities_included": true,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/602503619",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-17T01:00:06.268138+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "28314572818200004",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -54398,6 +54367,64 @@
       "posted_at": "Wednesday 16 September 2026 at 03:36",
       "first_scraped_at": "2026-09-17T01:00:06.268138+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4715412822027054",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2800,
+      "neighborhood": "Panhandle / Page St (near Cole Valley)",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "private_patio",
+        "dishwasher",
+        "parking_included"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4715412822027054",
+      "posted_at": "Wednesday 16 September 2026 at 18:24",
+      "first_scraped_at": "2026-09-17T02:00:03.995503+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2007541309937441",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Burlingame",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "pool",
+        "gym",
+        "near_caltrain",
+        "near_bart"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Northpark Apartments",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007541309937441",
+      "posted_at": "Wednesday 16 September 2026 at 18:20",
+      "first_scraped_at": "2026-09-17T02:00:03.995503+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

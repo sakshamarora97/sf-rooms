@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T18:13:46.876924",
-  "count": 2582,
+  "updated_at": "2026-09-16T19:13:30.711429",
+  "count": 2584,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72230,6 +72230,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007470486611190",
       "posted_at": "Wednesday 16 September 2026 at 15:49",
       "first_scraped_at": "2026-09-17T00:00:06.546555+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2007548593270046",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": "2027-04-15",
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City",
+        "San Mateo (Hillsdale)",
+        "Belmont",
+        "Redwood City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "She is relocating to the Bay Area around mid-October and is looking for a private bedroom (preferably with a private bathroom). She is clean, organized, respectful, will work onsite on weekdays, does not have a car, and needs easy access to public transportation.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007548593270046",
+      "posted_at": "Wednesday 16 September 2026 at 18:35",
+      "first_scraped_at": "2026-09-17T02:00:03.995503+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2007537366604502",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a studio apartment in San Francisco or Daly City for themselves and their family with a $2000 monthly budget.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007537366604502",
+      "posted_at": "Wednesday 16 September 2026 at 18:11",
+      "first_scraped_at": "2026-09-17T02:00:03.995503+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
