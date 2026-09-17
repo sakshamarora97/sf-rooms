@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T20:12:50.067342",
-  "count": 1862,
+  "updated_at": "2026-09-16T21:13:39.355137",
+  "count": 1864,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -54425,6 +54425,67 @@
       "posted_at": "Wednesday 16 September 2026 at 18:20",
       "first_scraped_at": "2026-09-17T02:00:03.995503+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "e72ec1864c1ce4e0",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_dishwasher",
+        "in_building_laundry",
+        "bay_windows",
+        "natural_light",
+        "closet_space"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100071248194284",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-17T04:00:03.865193+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4715494368685566",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2995,
+      "neighborhood": "Haight-Ashbury",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "bay_windows",
+        "shared_kitchen",
+        "shared_living_area",
+        "near_golden_gate_park"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4715494368685566",
+      "posted_at": "Wednesday 16 September 2026 at 20:30",
+      "first_scraped_at": "2026-09-17T04:00:03.865193+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

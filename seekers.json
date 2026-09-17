@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-16T20:12:50.100443",
-  "count": 2585,
+  "updated_at": "2026-09-16T21:13:39.386317",
+  "count": 2587,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72314,6 +72314,65 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007568229934749",
       "posted_at": "Wednesday 16 September 2026 at 19:09",
       "first_scraped_at": "2026-09-17T03:00:03.903776+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2007619413262964",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "San Mateo",
+        "Palo Alto",
+        "Redwood City",
+        "Caltrain corridor"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a working parent with two children employed in San Mateo, currently temporarily in Los Angeles after leaving a Palo Alto apartment due to a gas issue; seeking an affordable 1-bedroom along the Caltrain corridor.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007619413262964",
+      "posted_at": "Wednesday 16 September 2026 at 20:39",
+      "first_scraped_at": "2026-09-17T04:00:03.865193+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2007609706597268",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room",
+        "private_room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A student at Foothill College seeking a private room or sublet in Sunnyvale or Mountain View with a budget up to $800/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2007609706597268",
+      "posted_at": "Wednesday 16 September 2026 at 20:20",
+      "first_scraped_at": "2026-09-17T04:00:03.865193+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
