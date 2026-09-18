@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T07:12:44.494550",
-  "count": 1894,
+  "updated_at": "2026-09-18T08:11:29.682243",
+  "count": 1895,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -55364,6 +55364,41 @@
       "post_url": "https://www.facebook.com/groups/843764532374203/posts/28338855599105059",
       "posted_at": "Friday 18 September 2026 at 06:27",
       "first_scraped_at": "2026-09-18T14:00:05.709987+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28341083622215590",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2800,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "central_ac",
+        "stainless_steel_appliances",
+        "gym",
+        "rooftop_deck",
+        "bbq",
+        "elevator",
+        "secured_entry",
+        "private_patio",
+        "internet_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28341083622215590",
+      "posted_at": "Friday 18 September 2026 at 06:27",
+      "first_scraped_at": "2026-09-18T15:00:03.364913+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
