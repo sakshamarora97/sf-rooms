@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T11:13:04.694225",
-  "count": 2609,
+  "updated_at": "2026-09-18T12:12:36.611115",
+  "count": 2611,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73010,6 +73010,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008911359800436",
       "posted_at": "Friday 18 September 2026 at 09:14",
       "first_scraped_at": "2026-09-18T17:00:03.187680+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2009011163123789",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "NoPA",
+        "SoMA",
+        "Pacific Heights",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent college graduate starting a job at an AI startup in San Francisco. Outdoorsy and active (running, cycling, climbing), sociable but respectful and values quiet; looking for a shared apartment in the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009011163123789",
+      "posted_at": "Friday 18 September 2026 at 11:48",
+      "first_scraped_at": "2026-09-18T19:00:03.773556+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2009009363123969",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Civic Center",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "She is a 23-year-old flight attendant based at SFO who enjoys running, baking, making matcha, and playing pickleball. She is seeking a respectful, clean, peaceful apartment in Civic Center or the Mission with a budget of $1500\u2013$1800/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009009363123969",
+      "posted_at": "Friday 18 September 2026 at 11:45",
+      "first_scraped_at": "2026-09-18T19:00:03.773556+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
