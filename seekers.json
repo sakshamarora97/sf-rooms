@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T21:13:21.923470",
-  "count": 2603,
+  "updated_at": "2026-09-17T22:13:52.846424",
+  "count": 2604,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72841,6 +72841,38 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008451499846422",
       "posted_at": "Thursday 17 September 2026 at 20:57",
       "first_scraped_at": "2026-09-18T04:00:06.046024+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2008465383178367",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-25",
+      "move_out_date": null,
+      "budget_min": 3200,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Russian Hill",
+        "Pacific Heights",
+        "Mission",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "She is a 23-year-old industrial engineer moving to San Francisco for work, active (plays pickleball and soccer) and into painting, enjoys trying new hobbies and socializing, and is looking to sign a lease and open to roommates or a sublease.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008465383178367",
+      "posted_at": "Thursday 17 September 2026 at 21:23",
+      "first_scraped_at": "2026-09-18T05:00:03.949068+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

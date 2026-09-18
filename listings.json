@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T21:13:21.892264",
-  "count": 1889,
+  "updated_at": "2026-09-17T22:13:52.815093",
+  "count": 1890,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -55205,6 +55205,38 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008453129846259",
       "posted_at": "Thursday 17 September 2026 at 21:00",
       "first_scraped_at": "2026-09-18T04:00:06.046024+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2008482013176704",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Potrero Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2027-07-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "rooftop",
+        "parking",
+        "secure_entry",
+        "kitchen",
+        "views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008482013176704",
+      "posted_at": "Thursday 17 September 2026 at 21:52",
+      "first_scraped_at": "2026-09-18T05:00:03.949068+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
