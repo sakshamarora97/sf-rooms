@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T14:11:14.972614",
-  "count": 2612,
+  "updated_at": "2026-09-18T15:12:16.193411",
+  "count": 2613,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73097,6 +73097,39 @@
       "posted_at": "Friday 18 September 2026 at 12:28",
       "first_scraped_at": "2026-09-18T20:00:03.838430+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4717386421829694",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-22",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 6000,
+      "unit_type_wanted": [
+        "2BR apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Polk Gulch",
+        "Russian Hill",
+        "Marina",
+        "North Beach",
+        "Pacific Heights",
+        "Rincon Hill",
+        "Noe Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Two women moving to San Francisco for jobs in tech; they are clean, respectful, and easygoing, enjoy thrifting, cafe-hopping, and trying new food, and seek a safe, non-smoking, female-only 2BR (preferably with 2 baths) for move-in between Sept 22 and Oct 1, up to $6,000/month including utilities.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717386421829694",
+      "posted_at": "Friday 18 September 2026 at 14:35",
+      "first_scraped_at": "2026-09-18T22:00:02.346428+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
