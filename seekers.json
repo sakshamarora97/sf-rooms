@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T22:13:52.846424",
-  "count": 2604,
+  "updated_at": "2026-09-18T06:13:42.881061",
+  "count": 2605,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72874,6 +72874,30 @@
       "posted_at": "Thursday 17 September 2026 at 21:23",
       "first_scraped_at": "2026-09-18T05:00:03.949068+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4716626718572331",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent 22-year-old aerospace engineering graduate in San Francisco seeking a short-term stay from mid October to mid December.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4716626718572331",
+      "posted_at": "Thursday 17 September 2026 at 22:26",
+      "first_scraped_at": "2026-09-18T13:00:06.499420+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
