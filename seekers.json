@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T15:12:16.193411",
-  "count": 2613,
+  "updated_at": "2026-09-18T16:12:28.843819",
+  "count": 2615,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73129,6 +73129,69 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717386421829694",
       "posted_at": "Friday 18 September 2026 at 14:35",
       "first_scraped_at": "2026-09-18T22:00:02.346428+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4717433971824939",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-03",
+      "move_out_date": "2026-10-25",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2 beds",
+        "furnished"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Mission",
+        "Lower Haight",
+        "North Beach",
+        "SoMa",
+        "Duboce",
+        "Noe Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are two software engineers from Argentina in their late 20s/early 30s visiting San Francisco for Tech Week (Oct 3\u201325, 2026). They will work remotely part of the trip, attend tech events, and describe themselves as clean, respectful, non-smoking, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717433971824939",
+      "posted_at": "Friday 18 September 2026 at 15:58",
+      "first_scraped_at": "2026-09-18T23:00:04.033281+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4717405311827805",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1750,
+      "budget_max": 1750,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Mission",
+        "Outer Sunset",
+        "Pac Heights",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent UCSB graduate seeking to join an existing lease in San Francisco; works full-time as a server/bartender with evening shifts (4\u201311pm). Enjoys cooking, hot yoga, sewing/embroidery, vinyl records, piano, exploring neighborhoods, and ceramics.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717405311827805",
+      "posted_at": "Friday 18 September 2026 at 15:06",
+      "first_scraped_at": "2026-09-18T23:00:04.033281+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
