@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T16:13:26.475622",
-  "count": 2599,
+  "updated_at": "2026-09-17T17:13:24.761706",
+  "count": 2600,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72726,6 +72726,33 @@
       "posted_at": "Thursday 17 September 2026 at 15:25",
       "first_scraped_at": "2026-09-17T23:00:03.899780+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2008321859859386",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Potrero Hill",
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old who works hybrid at a tech startup, currently in temporary housing in Potrero Hill and seeking a long-term room in San Francisco. Laid-back, thoughtful, clean, and social; enjoys restaurants, wellness, coffee, walks, and exploring the city, and is looking for roommates who can be friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008321859859386",
+      "posted_at": "Thursday 17 September 2026 at 16:52",
+      "first_scraped_at": "2026-09-18T00:00:03.604525+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
