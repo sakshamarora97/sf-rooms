@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T09:11:58.662515",
-  "count": 2606,
+  "updated_at": "2026-09-18T10:13:00.092477",
+  "count": 2609,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72923,6 +72923,93 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008897509801821",
       "posted_at": "Friday 18 September 2026 at 08:53",
       "first_scraped_at": "2026-09-18T16:00:05.436395+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4717182881850048",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "2-3 bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose",
+        "San Francisco"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a Howard University BBA alumna working in tech who will be in the office three days a week and is looking for 1\u20132 roommates in a 2\u20133 bedroom place, preferably with her own bathroom. She is easygoing, social, enjoys traveling, hiking, cooking and wants to be settled by mid\u2013late November, with a budget under $2,500 (under $2,000 if more than two roommates).",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717182881850048",
+      "posted_at": "Friday 18 September 2026 at 09:54",
+      "first_scraped_at": "2026-09-18T17:00:03.187680+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4717139101854426",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Downtown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717139101854426",
+      "posted_at": "Friday 18 September 2026 at 09:19",
+      "first_scraped_at": "2026-09-18T17:00:03.187680+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2008911359800436",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit",
+        "studio",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill",
+        "Mission Bay",
+        "Dogpatch",
+        "Potrero Hill",
+        "Hayes Valley",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A product manager in tech seeking a short (1\u20132 week) sublet in mid\u2013to\u2013late October in San Francisco. Prefers Rincon Hill, Mission Bay, Dogpatch, Potrero Hill (open to Hayes Valley, Pacific Heights and similar); wants the place to themself.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008911359800436",
+      "posted_at": "Friday 18 September 2026 at 09:14",
+      "first_scraped_at": "2026-09-18T17:00:03.187680+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
