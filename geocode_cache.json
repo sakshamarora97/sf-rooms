@@ -1788,7 +1788,7 @@
   "Mission Dolores / Dolores Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Mission Dolores / Noe Valley, San Francisco": {
     "lat": null,
@@ -1908,6 +1908,11 @@
     "lat": null,
     "lon": null,
     "retries": 3
+  },
+  "Near SFO, The Peninsula": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "Near SFSU, San Francisco": {
     "lat": null,
