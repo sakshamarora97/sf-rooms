@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T08:11:29.713806",
-  "count": 2605,
+  "updated_at": "2026-09-18T09:11:58.662515",
+  "count": 2606,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72898,6 +72898,32 @@
       "posted_at": "Thursday 17 September 2026 at 22:26",
       "first_scraped_at": "2026-09-18T13:00:06.499420+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2008897509801821",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-06",
+      "move_out_date": "2026-10-25",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a startup founder who is clean, quiet, does not drink or smoke, works a lot, and enjoys reading; seeking a private room with a private bathroom.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008897509801821",
+      "posted_at": "Friday 18 September 2026 at 08:53",
+      "first_scraped_at": "2026-09-18T16:00:05.436395+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
