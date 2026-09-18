@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T20:13:40.591288",
-  "count": 2602,
+  "updated_at": "2026-09-17T21:13:21.923470",
+  "count": 2603,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -72812,6 +72812,35 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008352043189701",
       "posted_at": "Thursday 17 September 2026 at 17:55",
       "first_scraped_at": "2026-09-18T01:00:07.476529+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2008451499846422",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "Pacific Heights",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old with a remote consulting job, originally from Park City, UT, who studied in Philadelphia and played soccer in Greece. Enjoys outdoor activities and coffee shops; seeking a roommate or open spot in Nob Hill, Russian Hill, Pacific Heights, or North Beach.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008451499846422",
+      "posted_at": "Thursday 17 September 2026 at 20:57",
+      "first_scraped_at": "2026-09-18T04:00:06.046024+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
