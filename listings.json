@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T06:13:42.849208",
+  "updated_at": "2026-09-18T07:12:44.494550",
   "count": 1894,
   "posts": [
     {
@@ -55306,32 +55306,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "cf27a6110b3a0d12",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "long_term",
-      "rent": null,
-      "neighborhood": "Burlingame",
-      "area": "The Peninsula",
-      "available_from": null,
-      "available_until": "2027-05-30",
-      "unit_config": null,
-      "room_type": "private_room",
-      "is_furnished": null,
-      "roommates_count": null,
-      "amenities": [
-        "private_bath"
-      ],
-      "utilities_included": null,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": "Hanover Burlingame",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100040984356435",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-18T13:00:06.499420+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "2008545116503727",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -55361,6 +55335,36 @@
       "posted_at": "Thursday 17 September 2026 at 23:45",
       "first_scraped_at": "2026-09-18T13:00:06.499420+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28338855599105059",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1700,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2027-02-01",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "rooftop",
+        "laundry_on_site",
+        "furnished_common_areas",
+        "street_parking",
+        "near_public_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28338855599105059",
+      "posted_at": "Friday 18 September 2026 at 06:27",
+      "first_scraped_at": "2026-09-18T14:00:05.709987+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
