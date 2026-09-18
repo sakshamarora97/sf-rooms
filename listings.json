@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-17T19:13:07.548203",
-  "count": 1885,
+  "updated_at": "2026-09-17T20:13:40.557807",
+  "count": 1888,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -55089,6 +55089,94 @@
       "posted_at": "Thursday 17 September 2026 at 18:28",
       "first_scraped_at": "2026-09-18T02:00:03.332324+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4716507918584211",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Southern Hills, Daly City",
+      "area": "The Peninsula",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 3,
+      "amenities": [
+        "1gbps_internet",
+        "shared_kitchen",
+        "shared_common_areas",
+        "in_unit_laundry",
+        "street_parking",
+        "near_bart",
+        "near_highways",
+        "near_sfo"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4716507918584211",
+      "posted_at": "Thursday 17 September 2026 at 19:28",
+      "first_scraped_at": "2026-09-18T03:00:04.118414+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2008419146516324",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2500,
+      "neighborhood": "Design District",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2027-01-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "private_bathroom"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008419146516324",
+      "posted_at": "Thursday 17 September 2026 at 20:01",
+      "first_scraped_at": "2026-09-18T03:00:04.118414+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2008396293185276",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1850,
+      "neighborhood": "Twin Peaks",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "backyard",
+        "outdoor_gym"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2008396293185276",
+      "posted_at": "Thursday 17 September 2026 at 19:22",
+      "first_scraped_at": "2026-09-18T03:00:04.118414+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

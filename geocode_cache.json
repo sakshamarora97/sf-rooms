@@ -1912,7 +1912,7 @@
   "Near SFO, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Near SFSU, San Francisco": {
     "lat": null,
@@ -3112,6 +3112,11 @@
   "South of Market, San Francisco": {
     "lat": 37.7808925,
     "lon": -122.4009518
+  },
+  "Southern Hills, Daly City, The Peninsula": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "St. Francis, Daly City, The Peninsula": {
     "lat": 37.6981139,
