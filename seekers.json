@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T06:12:37.520053",
+  "updated_at": "2026-09-19T07:12:44.397507",
   "count": 2622,
   "posts": [
     {
@@ -73284,34 +73284,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "2009249226433316",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": 900,
-      "budget_max": 1300,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [
-        "Mission",
-        "Haight",
-        "North Beach"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": 23,
-      "bio": "They are a 23-year-old queer trans man seeking a roommate or housing in central San Francisco, ideally in the Mission, Haight, or North Beach.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009249226433316",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-19T03:00:03.475658+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "2009202179771354",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -73392,6 +73364,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009567023068203",
       "posted_at": "Saturday 19 September 2026 at 04:54",
       "first_scraped_at": "2026-09-19T13:00:02.263164+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2009649353059970",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "He is 24, recently returned from playing professional soccer in Europe and now works in tech sales in SoMa. He enjoys playing sports and working out and is looking to sublease an apartment or rent a room with an ideal move-in date of October 1, 2026.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009649353059970",
+      "posted_at": "Saturday 19 September 2026 at 06:58",
+      "first_scraped_at": "2026-09-19T14:00:03.426462+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
