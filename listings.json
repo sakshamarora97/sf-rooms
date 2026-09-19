@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T15:11:21.514251",
-  "count": 1914,
+  "updated_at": "2026-09-19T16:12:08.415377",
+  "count": 1915,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -55943,6 +55943,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009893843035521",
       "posted_at": "Saturday 19 September 2026 at 13:27",
       "first_scraped_at": "2026-09-19T21:00:04.621989+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2009959859695586",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SOMA",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-12-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "garage_parking",
+        "doorman",
+        "pool",
+        "hot_tub",
+        "fitness_center",
+        "near_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "388 Beale St.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009959859695586",
+      "posted_at": "Saturday 19 September 2026 at 15:53",
+      "first_scraped_at": "2026-09-19T23:00:06.239285+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
