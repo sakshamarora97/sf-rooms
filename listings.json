@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T20:13:27.813030",
-  "count": 1905,
+  "updated_at": "2026-09-18T21:12:43.105689",
+  "count": 1907,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -55688,6 +55688,58 @@
       "posted_at": "Friday 18 September 2026 at 19:39",
       "first_scraped_at": "2026-09-19T03:00:03.475658+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "0e8a2e1340d8dc8a",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "Panhandle",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2027-03-01",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "near_park"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/732100013",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-19T04:00:04.386644+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2009263773098528",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "The Glen (Hayward)",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2026-01-31",
+      "unit_config": "3B2.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009263773098528",
+      "posted_at": "Friday 18 September 2026 at 20:10",
+      "first_scraped_at": "2026-09-19T04:00:04.386644+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
