@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T10:11:40.900519",
-  "count": 2624,
+  "updated_at": "2026-09-19T11:12:31.413677",
+  "count": 2626,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73448,6 +73448,64 @@
       "posted_at": "Friday 18 September 2026 at 18:35",
       "first_scraped_at": "2026-09-19T17:00:07.132190+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4718230978411905",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-10",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Mission Bay",
+        "Dogpatch",
+        "South Beach",
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "PhD student at Carnegie Mellon moving to San Francisco to join an AI lab. Tidy, quiet, respectful, and friendly; enjoys weightlifting, board games, sports, and reading.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718230978411905",
+      "posted_at": "Saturday 19 September 2026 at 10:11",
+      "first_scraped_at": "2026-09-19T18:00:05.982215+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4717697005131969",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "2B1.5B",
+        "loft"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a group looking for a 2-bedroom, 2-bath (or 1.5 bath) loft in San Francisco, open to a lease takeover or a new lease and aiming to move ASAP.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717697005131969",
+      "posted_at": "Friday 18 September 2026 at 22:40",
+      "first_scraped_at": "2026-09-19T18:00:05.982215+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
