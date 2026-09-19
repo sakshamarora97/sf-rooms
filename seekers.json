@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T22:12:41.133968",
-  "count": 2620,
+  "updated_at": "2026-09-19T06:12:37.520053",
+  "count": 2622,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73336,6 +73336,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009202179771354",
       "posted_at": "Friday 18 September 2026 at 18:22",
       "first_scraped_at": "2026-09-19T03:00:03.475658+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4717700865131583",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "San Francisco",
+        "East Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "She is a 22-year-old recent Williams College graduate moving to the Bay for a social impact consulting job in San Francisco's Financial District. Active and outdoorsy, she is social, tidy, enjoys cooking, and seeks roommates (open to SF or East Bay) with a budget up to $1,500/month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717700865131583",
+      "posted_at": "Friday 18 September 2026 at 22:46",
+      "first_scraped_at": "2026-09-19T13:00:02.263164+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2009567023068203",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two 22-year-old women who will be working in San Francisco's Financial District and are looking for a third female roommate to apply for 3-bedroom apartments with an October 1, 2026 move-in.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009567023068203",
+      "posted_at": "Saturday 19 September 2026 at 04:54",
+      "first_scraped_at": "2026-09-19T13:00:02.263164+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
