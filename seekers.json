@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T16:12:28.843819",
-  "count": 2615,
+  "updated_at": "2026-09-18T17:11:50.583419",
+  "count": 2617,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73193,6 +73193,62 @@
       "posted_at": "Friday 18 September 2026 at 15:06",
       "first_scraped_at": "2026-09-18T23:00:04.033281+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4717446451823691",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Carlos",
+        "San Mateo",
+        "Redwood City",
+        "Palo Alto",
+        "Sunnyvale",
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "He is a 24-year-old robotics engineering professional and Northeastern University graduate, clean, respectful, and easygoing. Focused on work during the week and enjoys exploring cafes and movies on weekends, open to socializing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717446451823691",
+      "posted_at": "Friday 18 September 2026 at 16:21",
+      "first_scraped_at": "2026-09-19T00:00:03.945844+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2009142656443973",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UW\u2013Madison graduate moving to San Francisco for a legal job. Outgoing, clean, respectful, and social; enjoys hiking, cycling, skiing, exploring, and hanging out with roommates while respecting privacy.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009142656443973",
+      "posted_at": "Friday 18 September 2026 at 16:16",
+      "first_scraped_at": "2026-09-19T00:00:03.945844+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
