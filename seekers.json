@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T09:11:21.216801",
-  "count": 2622,
+  "updated_at": "2026-09-19T10:11:40.900519",
+  "count": 2624,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73391,6 +73391,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009649353059970",
       "posted_at": "Saturday 19 September 2026 at 06:58",
       "first_scraped_at": "2026-09-19T14:00:03.426462+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2009759163048989",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-09-24",
+      "move_out_date": "2026-11-20",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A couple in their early 30s who have lived in San Francisco for many years, enjoy the outdoors, and are seeking a furnished short-term sublet while their apartment is renovated.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009759163048989",
+      "posted_at": "Saturday 19 September 2026 at 09:31",
+      "first_scraped_at": "2026-09-19T17:00:07.132190+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2009208756437363",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "roommate"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She recently finished a PhD in Machine Learning and is moving to the Bay Area for work. She is friendly, clean, respectful, easygoing, enjoys meeting people and exploring the city, and has a friendly golden retriever.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009208756437363",
+      "posted_at": "Friday 18 September 2026 at 18:35",
+      "first_scraped_at": "2026-09-19T17:00:07.132190+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
