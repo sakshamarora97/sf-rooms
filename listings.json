@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T21:12:43.105689",
-  "count": 1907,
+  "updated_at": "2026-09-18T22:12:41.102009",
+  "count": 1908,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -55690,32 +55690,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "0e8a2e1340d8dc8a",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "long_term",
-      "rent": 3500,
-      "neighborhood": "Panhandle",
-      "area": "San Francisco",
-      "available_from": "2026-10-01",
-      "available_until": "2027-03-01",
-      "unit_config": "1B1B",
-      "room_type": "entire_unit",
-      "is_furnished": true,
-      "roommates_count": null,
-      "amenities": [
-        "near_park"
-      ],
-      "utilities_included": null,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/732100013",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-19T04:00:04.386644+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "2009263773098528",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -55740,6 +55714,57 @@
       "posted_at": "Friday 18 September 2026 at 20:10",
       "first_scraped_at": "2026-09-19T04:00:04.386644+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4717664018468601",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "San Francisco",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "parking",
+        "street_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717664018468601",
+      "posted_at": "Friday 18 September 2026 at 21:51",
+      "first_scraped_at": "2026-09-19T05:00:04.237812+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4717594595142210",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "Panhandle",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2027-03-01",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717594595142210",
+      "posted_at": "Friday 18 September 2026 at 20:02",
+      "first_scraped_at": "2026-09-19T05:00:04.237812+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
