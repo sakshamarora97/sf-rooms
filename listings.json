@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T13:11:35.671365",
-  "count": 1913,
+  "updated_at": "2026-09-19T14:12:01.815201",
+  "count": 1914,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -55903,6 +55903,46 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009852176373021",
       "posted_at": "Saturday 19 September 2026 at 12:06",
       "first_scraped_at": "2026-09-19T20:00:03.897896+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2009893843035521",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1475,
+      "neighborhood": "Downtown San Jose",
+      "area": "South Bay",
+      "available_from": "2026-11-01",
+      "available_until": "2027-06-30",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "driveway_parking",
+        "front_yard",
+        "backyard",
+        "dishwasher",
+        "basement_storage",
+        "loft_storage",
+        "high_ceilings",
+        "hardwood_floors",
+        "private_bathroom",
+        "large_kitchen",
+        "dining_area",
+        "living_room",
+        "natural_light",
+        "walk_in_shower"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009893843035521",
+      "posted_at": "Saturday 19 September 2026 at 13:27",
+      "first_scraped_at": "2026-09-19T21:00:04.621989+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]

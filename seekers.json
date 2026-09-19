@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T13:11:35.703397",
-  "count": 2626,
+  "updated_at": "2026-09-19T14:12:01.846339",
+  "count": 2628,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73505,6 +73505,60 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717697005131969",
       "posted_at": "Friday 18 September 2026 at 22:40",
       "first_scraped_at": "2026-09-19T18:00:05.982215+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4718381115063558",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "shared apartment",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old who grew up in Santa Rosa and has been working in tech sales for the past 3 months. Active and easygoing\u2014played college baseball and enjoys golf, pickleball, and going out\u2014seeking a room in a shared apartment or a sublease.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718381115063558",
+      "posted_at": "Saturday 19 September 2026 at 13:24",
+      "first_scraped_at": "2026-09-19T21:00:04.621989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4718377978397205",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "near BART station"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "They are a 24-year-old full-time content producer in tech who graduated from UC Berkeley and also does freelance photography and video work. They describe themself as easygoing and clean, travel often for work, work in-person in South SF most weekdays, and enjoy cafe-hopping and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718377978397205",
+      "posted_at": "Saturday 19 September 2026 at 13:19",
+      "first_scraped_at": "2026-09-19T21:00:04.621989+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
