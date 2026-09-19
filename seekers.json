@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-18T19:11:47.097024",
-  "count": 2617,
+  "updated_at": "2026-09-18T20:13:27.845340",
+  "count": 2620,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73248,6 +73248,94 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009142656443973",
       "posted_at": "Friday 18 September 2026 at 16:16",
       "first_scraped_at": "2026-09-19T00:00:03.945844+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4717584301809906",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2B2B",
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Rincon Hill",
+        "North Beach",
+        "Treasure Island",
+        "Potrero Hill",
+        "Telegraph Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old who works at an early-stage startup in San Francisco's FiDi, enjoys lifting, writing, and going out. Seeking a roommate or an available private room (or lease takeover) in a 2B2B with a budget up to $3,000/month, moving late October or November.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4717584301809906",
+      "posted_at": "Friday 18 September 2026 at 19:48",
+      "first_scraped_at": "2026-09-19T03:00:03.475658+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2009249226433316",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 900,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Haight",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "They are a 23-year-old queer trans man seeking a roommate or housing in central San Francisco, ideally in the Mission, Haight, or North Beach.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009249226433316",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-19T03:00:03.475658+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2009202179771354",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "East Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are a student training to become a massage therapist, building a somatic dance, breathwork, and meditation community, and also work part-time as a nanny and at Alchemy Springs. They seek a long-term furnished room in San Francisco or the East Bay, value nature, quiet, and authentic connection, and prefer a home with mutual care and respect for solitude.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009202179771354",
+      "posted_at": "Friday 18 September 2026 at 18:22",
+      "first_scraped_at": "2026-09-19T03:00:03.475658+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
