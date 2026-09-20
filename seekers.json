@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-20T12:12:45.952522",
-  "count": 2641,
+  "updated_at": "2026-09-20T13:12:22.892944",
+  "count": 2643,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73913,6 +73913,63 @@
       "posted_at": "Sunday 20 September 2026 at 11:26",
       "first_scraped_at": "2026-09-20T19:00:04.501823+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4719427728292230",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-02",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Bancroft",
+        "Walnut Creek"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "A 27-year-old working professional moving from Denver for work; clean, responsible, respectful, and easygoing. Seeking a private room in Walnut Creek (Bancroft area) and open to teaming up for a 2B/2B.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4719427728292230",
+      "posted_at": "Sunday 20 September 2026 at 12:32",
+      "first_scraped_at": "2026-09-20T20:00:05.289199+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4719420591626277",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pac Heights",
+        "Marina",
+        "Cow Hollow",
+        "Lower Pac Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old UCLA graduate working remotely for a matcha company. Active and social, seeks to join an existing lease in Pac Heights/Marina/Cow Hollow/Lower Pac Heights, ideally in a lively house with 3+ roommates and a backyard.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4719420591626277",
+      "posted_at": "Sunday 20 September 2026 at 12:23",
+      "first_scraped_at": "2026-09-20T20:00:05.289199+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
