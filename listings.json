@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T20:12:32.365770",
-  "count": 1916,
+  "updated_at": "2026-09-19T21:12:39.760314",
+  "count": 1917,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -56007,6 +56007,34 @@
       "posted_at": "Saturday 19 September 2026 at 17:07",
       "first_scraped_at": "2026-09-20T01:00:03.892209+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2010105389681033",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1100,
+      "neighborhood": "Central Haight",
+      "area": "San Francisco",
+      "available_from": "2026-10-03",
+      "available_until": "2026-10-16",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "street_parking",
+        "near_public_transit",
+        "muni_bus_lines_6_7_33_37_43"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2010105389681033",
+      "posted_at": "Saturday 19 September 2026 at 20:42",
+      "first_scraped_at": "2026-09-20T04:00:04.529968+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
