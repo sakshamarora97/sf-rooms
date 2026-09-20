@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-20T15:11:35.006546",
-  "count": 2645,
+  "updated_at": "2026-09-20T16:14:58.657852",
+  "count": 2648,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74023,6 +74023,82 @@
       "posted_at": "Sunday 20 September 2026 at 13:25",
       "first_scraped_at": "2026-09-20T21:00:06.715339+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4719542978280705",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Yerba Buena"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A young professional working full-time in tech who is clean, easygoing, respectful, and social. Enjoys soccer/football, hiking, exploring the city, and trying new restaurants.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4719542978280705",
+      "posted_at": "Sunday 20 September 2026 at 15:29",
+      "first_scraped_at": "2026-09-20T23:00:06.691937+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28376303098693642",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": 26,
+      "bio": "26-year-old entrepreneur building a startup who enjoys working out and playing sports.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28376303098693642",
+      "posted_at": "Sunday 20 September 2026 at 15:01",
+      "first_scraped_at": "2026-09-20T23:00:06.691937+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28352338574423428",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker looking for a room, studio, or one-bedroom in San Francisco for $1,000 or less starting in January 2027; open to splitting a studio/one-bedroom with a friend for up to $1,900 (about $1,000 per person).",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28352338574423428",
+      "posted_at": "Sunday 20 September 2026 at 15:01",
+      "first_scraped_at": "2026-09-20T23:00:06.691937+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }

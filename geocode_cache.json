@@ -451,6 +451,11 @@
     "lon": null,
     "retries": 3
   },
+  "Civic Center / 55 9th St, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Civic Center / Hayes Valley, San Francisco": {
     "lat": null,
     "lon": null,
@@ -2079,6 +2084,10 @@
   "North Beach / Russian Hill, San Francisco": {
     "lat": 37.8027053,
     "lon": -122.4124368
+  },
+  "North Beach / Telegraph Hill, San Francisco": {
+    "lat": 37.8000529,
+    "lon": -122.4100582
   },
   "North Beach, San Francisco": {
     "lat": 37.8011749,
