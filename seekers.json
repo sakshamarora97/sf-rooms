@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-20T13:12:22.892944",
-  "count": 2643,
+  "updated_at": "2026-09-20T14:12:15.643746",
+  "count": 2645,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73970,6 +73970,59 @@
       "posted_at": "Sunday 20 September 2026 at 12:23",
       "first_scraped_at": "2026-09-20T20:00:05.289199+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4719461331622203",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "An AI researcher working remotely for a startup seeking a private room in a 4+ person house in San Francisco. Prefers a friendly, relatively social house; interests include psychology, philosophy, AI safety, puzzles, racket sports, lifting, speedsolving, cooking, and hiking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4719461331622203",
+      "posted_at": "Sunday 20 September 2026 at 13:20",
+      "first_scraped_at": "2026-09-20T21:00:06.715339+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2010717276286511",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-05",
+      "move_out_date": "2026-10-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "A postdoctoral researcher visiting from Boston for three weeks seeking a studio sublet in the Mission from Oct 5 to the end of October.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2010717276286511",
+      "posted_at": "Sunday 20 September 2026 at 13:25",
+      "first_scraped_at": "2026-09-20T21:00:06.715339+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
