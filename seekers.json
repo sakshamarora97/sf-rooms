@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T19:12:34.079402",
-  "count": 2634,
+  "updated_at": "2026-09-19T20:12:32.396890",
+  "count": 2635,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73669,6 +73669,28 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
+      "listing_id": "2010035386354700",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 25,
+      "bio": "A responsible 25-year-old originally from Romania who will be bringing a 2-year-old dog and is looking for a winter rental in the Bay Area.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2010035386354700",
+      "posted_at": "Saturday 19 September 2026 at 18:33",
+      "first_scraped_at": "2026-09-20T02:00:04.786204+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
       "listing_id": "9d5c41626632f1b8",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -73690,30 +73712,43 @@
       "bio": "They are looking for an October sublet in San Francisco, preferably near downtown.",
       "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001779042569",
       "posted_at": null,
-      "first_scraped_at": "2026-09-20T02:00:04.786204+00:00",
+      "first_scraped_at": "2026-09-20T03:00:04.731475+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "2010035386354700",
+      "listing_id": "9cb78101f527b45f",
       "post_type": "seeker",
-      "duration_type": "short_term",
-      "move_in_date": null,
+      "duration_type": "long_term",
+      "move_in_date": "2026-09-21",
       "move_out_date": null,
       "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": null,
-      "preferred_neighborhoods": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Lower Haight",
+        "Richmond",
+        "Anza Vista",
+        "Panhandle",
+        "Mission District",
+        "Civic Center",
+        "Union Square",
+        "Fillmore District"
+      ],
       "area": "San Francisco",
       "furnished_required": null,
       "group_size": 1,
-      "has_pets": true,
-      "reason": null,
+      "has_pets": false,
+      "reason": "new_job",
       "age": 25,
-      "bio": "A responsible 25-year-old originally from Romania who will be bringing a 2-year-old dog and is looking for a winter rental in the Bay Area.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2010035386354700",
-      "posted_at": "Saturday 19 September 2026 at 18:33",
-      "first_scraped_at": "2026-09-20T02:00:04.786204+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+      "bio": "They are 25 and moving to San Francisco from Italy to work as a preschool teacher. They are active and laid-back, keep shared spaces tidy, enjoy outdoor activities and birdwatching, and are looking for a private room with washer/dryer, kitchen, and Wi\u2011Fi.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100010232551389",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-20T03:00:04.731475+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
