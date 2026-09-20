@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T22:13:23.537437",
-  "count": 2636,
+  "updated_at": "2026-09-20T06:12:51.584498",
+  "count": 2637,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73774,6 +73774,33 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718608251707511",
       "posted_at": "Saturday 19 September 2026 at 19:27",
       "first_scraped_at": "2026-09-20T05:00:07.616521+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4718740475027622",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old recent San Jos\u00e9 State University graduate working in fintech and starting a new job in San Francisco in October; seeking a 1-year lease or sublease and open to roommates. Social and outgoing, enjoys coffee and concerts, describes herself as clean, respectful, and communicative; will be in the office five days a week.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718740475027622",
+      "posted_at": "Saturday 19 September 2026 at 22:13",
+      "first_scraped_at": "2026-09-20T13:00:04.038058+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
