@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T16:12:08.447238",
-  "count": 2628,
+  "updated_at": "2026-09-19T17:13:30.521470",
+  "count": 2631,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73560,6 +73560,85 @@
       "posted_at": "Saturday 19 September 2026 at 13:19",
       "first_scraped_at": "2026-09-19T21:00:04.621989+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4718493585052311",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Livermore",
+        "East Bay"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old electrical engineer moving to the Bay Area in October to start a new job. Active and social, enjoys outdoor activities and cooking, keeps shared spaces clean, does not smoke or drink, and is comfortable rooming with any gender.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718493585052311",
+      "posted_at": "Saturday 19 September 2026 at 16:26",
+      "first_scraped_at": "2026-09-20T00:00:04.159889+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4718489265052743",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Outer Sunset",
+        "Inner Sunset",
+        "Richmond",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "They are 26 and work in events/festival operations, moving from Southern California to San Francisco. They enjoy festivals, dancing, cooking, yoga, surfing, crafting, snowboarding, hiking, camping, backpacking, and other outdoor and creative activities.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718489265052743",
+      "posted_at": "Saturday 19 September 2026 at 16:19",
+      "first_scraped_at": "2026-09-20T00:00:04.159889+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2009984983026407",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "They are a 26-year-old tech sales professional relocating from NYC for a new job in San Francisco. They enjoy fitness and rooting for the Giants, Warriors, and 49ers.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2009984983026407",
+      "posted_at": "Saturday 19 September 2026 at 16:50",
+      "first_scraped_at": "2026-09-20T00:00:04.159889+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
