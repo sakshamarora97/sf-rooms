@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-20T07:12:10.944848",
-  "count": 1921,
+  "updated_at": "2026-09-20T08:11:48.604068",
+  "count": 1922,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -56147,6 +56147,36 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2010093896348849",
       "posted_at": "Saturday 19 September 2026 at 20:22",
       "first_scraped_at": "2026-09-20T13:00:04.038058+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2010512862973619",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 4634,
+      "neighborhood": "Mission Bay / Design District",
+      "area": "San Francisco",
+      "available_from": "2026-09-26",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "stainless_steel_appliances",
+        "smart_home_features",
+        "vinyl_flooring",
+        "caesarstone_countertops"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "One Henry Adams",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2010512862973619",
+      "posted_at": "Sunday 20 September 2026 at 07:57",
+      "first_scraped_at": "2026-09-20T15:00:03.995990+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
