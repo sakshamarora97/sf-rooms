@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T17:13:30.521470",
-  "count": 2631,
+  "updated_at": "2026-09-19T18:13:10.663023",
+  "count": 2632,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73639,6 +73639,34 @@
       "posted_at": "Saturday 19 September 2026 at 16:50",
       "first_scraped_at": "2026-09-20T00:00:04.159889+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4718529355048734",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-08",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Potrero",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "He is a 26-year-old AI engineer relocating from NYC to San Francisco for work in financial services. He works a lot but enjoys cooking, painting, Brazilian jiu-jitsu, and socializing; he\u2019s looking for 1\u20132 roommates for a 12-month lease near Mission/Potrero/Dogpatch.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718529355048734",
+      "posted_at": "Saturday 19 September 2026 at 17:24",
+      "first_scraped_at": "2026-09-20T01:00:03.892209+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

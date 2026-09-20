@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T17:13:30.488954",
-  "count": 1915,
+  "updated_at": "2026-09-19T18:13:10.630234",
+  "count": 1916,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -55975,6 +55975,38 @@
       "posted_at": "Saturday 19 September 2026 at 15:53",
       "first_scraped_at": "2026-09-19T23:00:06.239285+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4718518015049868",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "ac",
+        "rooftop_lounge",
+        "fitness_center",
+        "clubroom",
+        "near_park",
+        "near_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Brick + Iron Lofts",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718518015049868",
+      "posted_at": "Saturday 19 September 2026 at 17:07",
+      "first_scraped_at": "2026-09-20T01:00:03.892209+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
