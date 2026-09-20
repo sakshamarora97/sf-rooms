@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T21:12:39.791536",
-  "count": 2635,
+  "updated_at": "2026-09-19T22:13:23.537437",
+  "count": 2636,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -73691,17 +73691,44 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "9d5c41626632f1b8",
+      "listing_id": "4718684785033191",
       "post_type": "seeker",
       "duration_type": "short_term",
-      "move_in_date": "2026-10-01",
+      "move_in_date": null,
       "move_out_date": null,
       "budget_min": null,
       "budget_max": null,
-      "unit_type_wanted": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
       "preferred_neighborhoods": [
-        "San Francisco",
-        "downtown"
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Recent MBA graduate working in tech based in San Mateo seeking a short-term (October/November) sublet for a family member visiting the Bay Area for medical reasons.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718684785033191",
+      "posted_at": "Saturday 19 September 2026 at 21:04",
+      "first_scraped_at": "2026-09-20T05:00:07.616521+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4718618095039860",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
       ],
       "area": "San Francisco",
       "furnished_required": null,
@@ -73709,14 +73736,14 @@
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "They are looking for an October sublet in San Francisco, preferably near downtown.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100001779042569",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-20T04:00:04.529968+00:00",
+      "bio": "They are seeking an October sublet in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718618095039860",
+      "posted_at": "Saturday 19 September 2026 at 19:42",
+      "first_scraped_at": "2026-09-20T05:00:07.616521+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "9cb78101f527b45f",
+      "listing_id": "4718608251707511",
       "post_type": "seeker",
       "duration_type": "long_term",
       "move_in_date": "2026-09-21",
@@ -73724,8 +73751,7 @@
       "budget_min": null,
       "budget_max": 1800,
       "unit_type_wanted": [
-        "room",
-        "private_room"
+        "room"
       ],
       "preferred_neighborhoods": [
         "Pacific Heights",
@@ -73744,10 +73770,10 @@
       "has_pets": false,
       "reason": "new_job",
       "age": 25,
-      "bio": "They are 25 and moving to San Francisco from Italy to work as a preschool teacher. They are active and laid-back, keep shared spaces tidy, enjoy outdoor activities and birdwatching, and are looking for a private room with washer/dryer, kitchen, and Wi\u2011Fi.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100010232551389",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-20T04:00:04.529968+00:00",
+      "bio": "They are a 25-year-old preschool teacher moving to San Francisco from Italy who is active\u2014plays soccer, beach volleyball, and basketball\u2014and enjoys hiking, geography, history, and birdwatching. They're laid-back, keep shared spaces tidy, and seeking a private room with roommates they can also be friends with.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718608251707511",
+      "posted_at": "Saturday 19 September 2026 at 19:27",
+      "first_scraped_at": "2026-09-20T05:00:07.616521+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]

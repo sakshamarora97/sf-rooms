@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-19T21:12:39.760314",
-  "count": 1917,
+  "updated_at": "2026-09-19T22:13:23.504970",
+  "count": 1918,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -56035,6 +56035,30 @@
       "posted_at": "Saturday 19 September 2026 at 20:42",
       "first_scraped_at": "2026-09-20T04:00:04.529968+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4718713821696954",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 642,
+      "neighborhood": "Union City",
+      "area": "East Bay",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Skylark Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4718713821696954",
+      "posted_at": "Saturday 19 September 2026 at 21:34",
+      "first_scraped_at": "2026-09-20T05:00:07.616521+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
