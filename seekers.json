@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T09:12:27.247308",
-  "count": 2653,
+  "updated_at": "2026-09-21T10:12:12.534912",
+  "count": 2654,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74237,6 +74237,38 @@
       "posted_at": "Monday 21 September 2026 at 07:10",
       "first_scraped_at": "2026-09-21T15:00:06.324113+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2011403336217905",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "NoPa",
+        "Panhandle",
+        "Outer Sunset",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 22,
+      "bio": "Recent University of Oregon graduate with a BS in environmental studies moving to San Francisco to pursue a career in social change/environmental work; currently working as a barista, clean, organized, respectful, and easygoing; enjoys outdoor activities, live music, sustainable fashion, and photography.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011403336217905",
+      "posted_at": "Monday 21 September 2026 at 09:51",
+      "first_scraped_at": "2026-09-21T17:00:07.257371+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
