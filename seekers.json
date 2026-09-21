@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T14:12:38.504283",
-  "count": 2658,
+  "updated_at": "2026-09-21T15:12:43.185186",
+  "count": 2660,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74369,6 +74369,54 @@
       "posted_at": "Monday 21 September 2026 at 13:14",
       "first_scraped_at": "2026-09-21T21:00:07.488373+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4720566018178401",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old moving solo from Ohio to San Francisco in October for an engineering job starting at the end of the month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4720566018178401",
+      "posted_at": "Monday 21 September 2026 at 14:36",
+      "first_scraped_at": "2026-09-21T22:00:07.155453+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4720548544846815",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old outdoor enthusiast who enjoys skiing, surfing, climbing, running, hiking, and playing soccer. New to the city, social, and open to subleases or a year-long commitment; seeks a friendly household for game nights and shared dinners.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4720548544846815",
+      "posted_at": "Monday 21 September 2026 at 14:07",
+      "first_scraped_at": "2026-09-21T22:00:07.155453+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

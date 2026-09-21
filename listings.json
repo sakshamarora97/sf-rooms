@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T14:12:38.470322",
-  "count": 1954,
+  "updated_at": "2026-09-21T15:12:43.144218",
+  "count": 1955,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -57149,6 +57149,36 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011450806213158",
       "posted_at": "Monday 21 September 2026 at 11:07",
       "first_scraped_at": "2026-09-21T19:00:06.295462+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2011552269536345",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1750,
+      "neighborhood": "San Bruno",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "pool",
+        "tennis_court",
+        "barbecue_area",
+        "laundry_room"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011552269536345",
+      "posted_at": "Monday 21 September 2026 at 14:20",
+      "first_scraped_at": "2026-09-21T22:00:07.155453+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
