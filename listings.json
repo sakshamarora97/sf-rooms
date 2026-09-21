@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T10:12:12.501839",
-  "count": 1949,
+  "updated_at": "2026-09-21T11:11:30.738981",
+  "count": 1950,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -56998,6 +56998,34 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011392566218982",
       "posted_at": "Monday 21 September 2026 at 09:34",
       "first_scraped_at": "2026-09-21T17:00:07.257371+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2011433089548263",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2950,
+      "neighborhood": "Adams Point",
+      "area": "East Bay",
+      "available_from": "2026-10-01",
+      "available_until": "2027-03-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "wifi",
+        "in_unit_laundry",
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011433089548263",
+      "posted_at": "Monday 21 September 2026 at 10:38",
+      "first_scraped_at": "2026-09-21T18:00:04.699151+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
