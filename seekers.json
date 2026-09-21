@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-20T16:14:58.657852",
-  "count": 2648,
+  "updated_at": "2026-09-20T17:15:12.895014",
+  "count": 2649,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74099,6 +74099,34 @@
       "posted_at": "Sunday 20 September 2026 at 15:01",
       "first_scraped_at": "2026-09-20T23:00:06.691937+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4719587531609583",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Potrero Hill",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 30,
+      "bio": "30-year-old tech worker and immigrant who enjoys movies, indoor climbing, Vinyasa yoga, pottery, and history. Clean, respectful, and seeking a private room with good roommate relationships.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4719587531609583",
+      "posted_at": "Sunday 20 September 2026 at 16:48",
+      "first_scraped_at": "2026-09-21T00:00:06.277680+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
