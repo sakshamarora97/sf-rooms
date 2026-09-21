@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-20T20:14:00.454043",
-  "count": 1944,
+  "updated_at": "2026-09-20T21:13:37.884197",
+  "count": 1945,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -56854,6 +56854,38 @@
       "posted_at": "Sunday 20 September 2026 at 20:00",
       "first_scraped_at": "2026-09-21T03:00:07.211583+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4719720734929596",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 5422,
+      "neighborhood": "Potrero Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2027-07-27",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "kitchen",
+        "extra_storage",
+        "gym",
+        "secure_building",
+        "near_transit",
+        "internet_available"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Potrero 1010 Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4719720734929596",
+      "posted_at": "Sunday 20 September 2026 at 20:15",
+      "first_scraped_at": "2026-09-21T04:00:05.788300+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
