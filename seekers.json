@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T06:14:12.253503",
+  "updated_at": "2026-09-21T07:13:53.813937",
   "count": 2652,
   "posts": [
     {
@@ -74129,31 +74129,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "ec3409b1e8499614",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": "2026-10-05",
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "studio",
-        "1B1B"
-      ],
-      "preferred_neighborhoods": null,
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": "They are looking for a studio or 1B1B sublease in San Francisco starting 2026-10-05.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000139707822",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-21T13:00:03.524691+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
-    },
-    {
       "listing_id": "28361307753526510",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -74208,6 +74183,33 @@
       "posted_at": "Sunday 20 September 2026 at 22:05",
       "first_scraped_at": "2026-09-21T13:00:03.524691+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4719843614917308",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-05",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a sublease in San Francisco. Wants a studio or 1B1B starting 2026-10-05.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4719843614917308",
+      "posted_at": "Sunday 20 September 2026 at 23:13",
+      "first_scraped_at": "2026-09-21T14:00:07.458664+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T06:14:12.219460",
-  "count": 1946,
+  "updated_at": "2026-09-21T07:13:53.781888",
+  "count": 1947,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -56913,6 +56913,37 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011002329591339",
       "posted_at": "Sunday 20 September 2026 at 23:08",
       "first_scraped_at": "2026-09-21T13:00:03.524691+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2011282589563313",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1525,
+      "neighborhood": "Inner Sunset",
+      "area": "San Francisco",
+      "available_from": "2026-10-20",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "parking",
+        "bay_view",
+        "large_kitchen",
+        "shared_living_room",
+        "recently_remodeled",
+        "near_public_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011282589563313",
+      "posted_at": "Monday 21 September 2026 at 06:56",
+      "first_scraped_at": "2026-09-21T14:00:07.458664+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
