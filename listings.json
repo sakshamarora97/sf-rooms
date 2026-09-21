@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-20T22:13:44.214509",
-  "count": 1945,
+  "updated_at": "2026-09-21T06:14:12.219460",
+  "count": 1946,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -56886,6 +56886,34 @@
       "posted_at": "Sunday 20 September 2026 at 20:15",
       "first_scraped_at": "2026-09-21T04:00:05.788300+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2011002329591339",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "Westlake",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "private_bathroom",
+        "near_public_transit",
+        "convenient_location"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011002329591339",
+      "posted_at": "Sunday 20 September 2026 at 23:08",
+      "first_scraped_at": "2026-09-21T13:00:03.524691+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }

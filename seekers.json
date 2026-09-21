@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-20T22:13:44.246639",
-  "count": 2649,
+  "updated_at": "2026-09-21T06:14:12.253503",
+  "count": 2652,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74127,6 +74127,87 @@
       "posted_at": "Sunday 20 September 2026 at 16:48",
       "first_scraped_at": "2026-09-21T00:00:06.277680+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "ec3409b1e8499614",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-05",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a studio or 1B1B sublease in San Francisco starting 2026-10-05.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000139707822",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-21T13:00:03.524691+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28361307753526510",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-18",
+      "move_out_date": "2027-01-31",
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "sublease",
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 29,
+      "bio": "29-year-old travel nurse moving to San Francisco for a contract through January 31, seeking a furnished short-term sublease and open to roommate situations. She is easygoing, respectful, enjoys Pilates, yoga, reading, cooking, and crafting, and will bring a well-behaved cat.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28361307753526510",
+      "posted_at": "Sunday 20 September 2026 at 16:11",
+      "first_scraped_at": "2026-09-21T13:00:03.524691+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "2010969716261267",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "He is a 24-year-old tech worker moving to San Francisco in November. He is an active triathlete and runner who loves coffee and is a passionate soccer fan, seeking a room with a group with a budget of $2,000/month or less.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2010969716261267",
+      "posted_at": "Sunday 20 September 2026 at 22:05",
+      "first_scraped_at": "2026-09-21T13:00:03.524691+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
