@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T07:13:53.813937",
-  "count": 2652,
+  "updated_at": "2026-09-21T08:14:12.046334",
+  "count": 2653,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74209,6 +74209,33 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4719843614917308",
       "posted_at": "Sunday 20 September 2026 at 23:13",
       "first_scraped_at": "2026-09-21T14:00:07.458664+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4720215861546750",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Seeking a 1\u20132 month sublet starting Oct 1 in San Francisco/Oakland. Moving back to the city; active, respectful tenant with references available.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4720215861546750",
+      "posted_at": "Monday 21 September 2026 at 07:10",
+      "first_scraped_at": "2026-09-21T15:00:06.324113+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
