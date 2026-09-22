@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T22:12:57.314479",
-  "count": 2664,
+  "updated_at": "2026-09-22T06:12:20.979443",
+  "count": 2665,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74534,6 +74534,30 @@
       "posted_at": "Monday 21 September 2026 at 19:33",
       "first_scraped_at": "2026-09-22T03:00:06.318040+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2011990442825861",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Lives in Chico and is looking to move to the San Francisco area; single, identifies as gay, and describes themself as honest and fun, seeking friendship and more.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011990442825861",
+      "posted_at": "Tuesday 22 September 2026 at 04:04",
+      "first_scraped_at": "2026-09-22T13:00:06.876130+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
