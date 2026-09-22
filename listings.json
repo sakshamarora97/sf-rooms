@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T17:12:07.075505",
-  "count": 1955,
+  "updated_at": "2026-09-21T18:13:24.464232",
+  "count": 1956,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -57180,6 +57180,35 @@
       "posted_at": "Monday 21 September 2026 at 14:20",
       "first_scraped_at": "2026-09-21T22:00:07.155453+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "938c5a7dc0ad06dd",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Grand Lake",
+      "area": "East Bay",
+      "available_from": "2026-10-01",
+      "available_until": "2027-01-31",
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "garage_parking",
+        "storage",
+        "elevator",
+        "fob_access"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100010070801022",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-22T01:00:06.590222+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }

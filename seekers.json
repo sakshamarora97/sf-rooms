@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T17:12:07.107380",
-  "count": 2662,
+  "updated_at": "2026-09-21T18:13:24.496084",
+  "count": 2663,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74482,6 +74482,36 @@
       "posted_at": "Monday 21 September 2026 at 16:01",
       "first_scraped_at": "2026-09-22T00:00:05.940914+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2011636639527908",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "2B",
+        "3B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Daly City",
+        "San Jose"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a lease starting in late October. Software engineer working in-person five days a week, currently living in San Jose; enjoys going out, concerts, running, working out, and playing guitar.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2011636639527908",
+      "posted_at": "Monday 21 September 2026 at 17:27",
+      "first_scraped_at": "2026-09-22T01:00:06.590222+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
