@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-22T15:12:12.613442",
-  "count": 2675,
+  "updated_at": "2026-09-22T16:12:32.899081",
+  "count": 2676,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74828,6 +74828,34 @@
       "posted_at": "Tuesday 22 September 2026 at 14:39",
       "first_scraped_at": "2026-09-22T22:00:04.352153+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4721686524733017",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": "2026-10-31",
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "SOMA",
+        "FiDi"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Working professional visiting the Bay Area for job interviews seeking a furnished private room with a private bath for Oct 1\u201331. Clean, quiet, and respectful.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4721686524733017",
+      "posted_at": "Tuesday 22 September 2026 at 15:38",
+      "first_scraped_at": "2026-09-22T23:00:02.193735+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
