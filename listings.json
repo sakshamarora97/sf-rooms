@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-22T08:12:10.883179",
-  "count": 1967,
+  "updated_at": "2026-09-22T09:13:06.874783",
+  "count": 1969,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -57532,6 +57532,69 @@
       "posted_at": "Tuesday 22 September 2026 at 06:56",
       "first_scraped_at": "2026-09-22T14:00:04.648505+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "28270168752640411",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2380,
+      "neighborhood": "Baker Beach",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "designated_parking",
+        "street_parking",
+        "storage_unit",
+        "hardwood_floors",
+        "ocean_view",
+        "furnished_common_areas"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28270168752640411",
+      "posted_at": "Tuesday 22 September 2026 at 08:30",
+      "first_scraped_at": "2026-09-22T16:00:05.056865+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28397004989956786",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3000,
+      "neighborhood": "Japantown / Hayes",
+      "area": "San Francisco",
+      "available_from": "2026-09-26",
+      "available_until": "2026-10-31",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "laundry_in_building",
+        "dishwasher",
+        "hardwood_floors",
+        "500Mbps_internet",
+        "city_views",
+        "standing_desk"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28397004989956786",
+      "posted_at": "Tuesday 22 September 2026 at 06:45",
+      "first_scraped_at": "2026-09-22T16:00:05.056865+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }

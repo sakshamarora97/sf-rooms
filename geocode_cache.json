@@ -173,6 +173,10 @@
     "lon": null,
     "retries": 3
   },
+  "Baker Beach, San Francisco": {
+    "lat": 37.7931227,
+    "lon": -122.4838209
+  },
   "Balboa Park / City College, San Francisco": {
     "lat": null,
     "lon": null,
@@ -1328,6 +1332,11 @@
     "lon": null,
     "retries": 3
   },
+  "Japantown / Hayes, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Japantown, San Francisco": {
     "lat": 37.7855789,
     "lon": -122.4298089
@@ -2448,6 +2457,10 @@
   "Petaluma, North Bay": {
     "lat": 38.200685,
     "lon": -122.56655
+  },
+  "Phoenix, San Francisco": {
+    "lat": 37.795773,
+    "lon": -122.4142044
   },
   "Piedmont Avenue, Berkeley, East Bay": {
     "lat": 37.8707061,
