@@ -781,6 +781,10 @@
     "lat": 37.8058542,
     "lon": -122.4101253
   },
+  "East Bay, South Bay": {
+    "lat": 37.0021307,
+    "lon": -121.7103793
+  },
   "East Cut, San Francisco": {
     "lat": 37.7898558,
     "lon": -122.393325
@@ -1335,7 +1339,7 @@
   "Japantown / Hayes, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Japantown, San Francisco": {
     "lat": 37.7855789,
