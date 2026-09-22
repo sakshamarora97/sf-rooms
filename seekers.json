@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-22T11:12:31.588105",
-  "count": 2671,
+  "updated_at": "2026-09-22T12:13:26.062031",
+  "count": 2674,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74696,7 +74696,33 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "f95f0162a045370f",
+      "listing_id": "4721505748084428",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "month_to_month"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "She is 24 and moving back from Austin to San Francisco in October; she works in tech sales in a hybrid role and will be in the office three days a week. She describes herself as laid-back, very clean, social, and enjoys movies, trying new food spots, and traveling.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4721505748084428",
+      "posted_at": "Tuesday 22 September 2026 at 11:20",
+      "first_scraped_at": "2026-09-22T19:00:04.191988+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4721449661423370",
       "post_type": "seeker",
       "duration_type": "long_term",
       "move_in_date": "2026-10-01",
@@ -74719,11 +74745,65 @@
       "has_pets": null,
       "reason": "new_job",
       "age": null,
-      "bio": "Recent master's graduate from Chicago starting a new role in the Bay Area. Seeking a studio, ADU, 1B/1B, or a private bedroom with private bathroom in safe neighborhoods of the South Bay or East Bay; vegetarian and will need dedicated parking.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100000502001946",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-22T18:00:03.242815+00:00",
+      "bio": "A recent Master's graduate from Chicago starting a new job in the Bay Area, seeking a studio, ADU, 1B/1B, or private room with a private bathroom for a 6-month lease beginning around 2026-10-01. Vegetarian and will need a dedicated parking spot or very reliable street parking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4721449661423370",
+      "posted_at": "Tuesday 22 September 2026 at 10:08",
+      "first_scraped_at": "2026-09-22T19:00:04.191988+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2012301632794742",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a comfortable, clean, and peaceful room near public transportation, starting in October, with a budget up to $1,500/month and preference for all-inclusive utilities.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012301632794742",
+      "posted_at": "Tuesday 22 September 2026 at 11:58",
+      "first_scraped_at": "2026-09-22T19:00:04.191988+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2012270326131206",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "North Beach",
+        "Marina",
+        "Russian Hill",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "She is a 22-year-old UCLA graduate who works full-time in accounting on a hybrid schedule. She is social, enjoys trying new restaurants and coffee shops, exploring the city, traveling, shopping, art, and reading, and values a clean, respectful, and friendly living environment.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012270326131206",
+      "posted_at": "Tuesday 22 September 2026 at 11:04",
+      "first_scraped_at": "2026-09-22T19:00:04.191988+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
 }
