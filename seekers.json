@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-21T16:11:54.826699",
-  "count": 2660,
+  "updated_at": "2026-09-21T17:12:07.107380",
+  "count": 2662,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74416,6 +74416,71 @@
       "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4720548544846815",
       "posted_at": "Monday 21 September 2026 at 14:07",
       "first_scraped_at": "2026-09-21T22:00:07.155453+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4720647731503563",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-19",
+      "move_out_date": "2026-11-09",
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Duboce Triangle",
+        "Lower Haight",
+        "Hayes Valley",
+        "Mission/Dolores",
+        "Castro",
+        "Russian Hill",
+        "North Beach",
+        "Marina",
+        "Cow Hollow"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works in AI safety and will be in San Francisco from 2026-10-19 to 2026-11-09 for a short-term work stay. Seeking a studio or 1B1B sublet with a budget of $1800\u2013$2000 in central SF neighborhoods, open to nearby areas with an easy commute to Mission St.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4720647731503563",
+      "posted_at": "Monday 21 September 2026 at 16:47",
+      "first_scraped_at": "2026-09-22T00:00:05.940914+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4720617628173240",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Park",
+        "Nob Hill",
+        "Russian Hill",
+        "Alamo Square Park",
+        "Soma"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old relocating to San Francisco for a new job in commercial real estate (works 8am\u20135pm). Active and tidy, enjoys running, hiking, skiing, yoga, swimming, climbing, and cooking; seeking a room ASAP and open to living with up to four roommates, preferring neighborhoods near the Financial District.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4720617628173240",
+      "posted_at": "Monday 21 September 2026 at 16:01",
+      "first_scraped_at": "2026-09-22T00:00:05.940914+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
