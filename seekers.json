@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-22T18:12:46.115189",
-  "count": 2677,
+  "updated_at": "2026-09-22T19:13:56.980121",
+  "count": 2680,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74883,6 +74883,84 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012439532780952",
       "posted_at": "Tuesday 22 September 2026 at 16:41",
       "first_scraped_at": "2026-09-23T00:00:02.881594+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "7eed805b4541301e",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 22,
+      "bio": "Recent graduate working in tech sales relocating to San Francisco for a work opportunity. She is clean, friendly, active (goes to the gym), creative, likes to hang out but values privacy, and prefers 1\u20132 female working professionals as roommates in their 20s.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/61574409867266",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-23T02:00:02.663889+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2012497189441853",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 27,
+      "bio": "Recent transplant from Mexico City working in tech, looking for a room in San Francisco and commuting to Mission Bay most weekdays. He is neat and respectful of shared spaces, active (running and playing tennis), and enjoys museums, concerts, and caf\u00e9s; available to view rooms in person.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012497189441853",
+      "posted_at": "Tuesday 22 September 2026 at 18:38",
+      "first_scraped_at": "2026-09-23T02:00:02.663889+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2012488746109364",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-01-01",
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent Cal Poly graduate, 22, seeking a short-term sublease in San Francisco. Active and social (pickleball, surfing, hiking, working out), values cleanliness and a non-smoking household; looking for a private bedroom around $2,000/month in North Beach, Marina, or Hayes Valley for Nov\u2013Jan 1.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012488746109364",
+      "posted_at": "Tuesday 22 September 2026 at 18:23",
+      "first_scraped_at": "2026-09-23T02:00:02.663889+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
