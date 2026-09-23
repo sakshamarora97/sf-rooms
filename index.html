@@ -1264,7 +1264,7 @@ function listingFreshnessBadge(p) {
 function fmtPostedAt(raw) {
   if (!raw) return '—';
   const date = parsePostedAt(raw);
-  if (!date) return raw;
+  if (!date) return esc(raw);
 
   const now = new Date();
   const todayMidnight = new Date(now); todayMidnight.setHours(0,0,0,0);
