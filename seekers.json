@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T13:14:27.905483",
-  "count": 2697,
+  "updated_at": "2026-09-23T14:13:52.978096",
+  "count": 2698,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -75349,28 +75349,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "9ecfbc523985a135",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": null,
-      "preferred_neighborhoods": null,
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": 25,
-      "bio": "25-year-old data analyst on a health consulting team who works hybrid (in-office Tues\u2013Thurs) seeking to join an existing lease.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100010838560746",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-23T20:00:04.989170+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "2013171246041114",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -75457,6 +75435,58 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013155789375993",
       "posted_at": "Wednesday 23 September 2026 at 12:29",
       "first_scraped_at": "2026-09-23T20:00:04.989170+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "75295a6d3ff25e71",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two people seeking a private bedroom in a shared apartment or house in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100005633748236",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-23T21:00:04.901697+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2013171426041096",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "She is a 25-year-old data analyst on a health consulting team who works hybrid (in-office Tues\u2013Thurs). She enjoys Pilates, walks, coffee shops and happy hours, is tidy and respectful of common areas, and is seeking roommates who are friendly and social.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013171426041096",
+      "posted_at": "Wednesday 23 September 2026 at 12:59",
+      "first_scraped_at": "2026-09-23T21:00:04.901697+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
