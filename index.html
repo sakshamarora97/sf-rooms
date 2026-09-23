@@ -567,6 +567,20 @@
   tr.map-highlighted td { background: var(--row-bm-hover) !important; box-shadow: inset 0 0 0 2px var(--accent); }
   .m-card.map-highlighted { box-shadow: 0 0 0 2px var(--accent); }
 
+  /* Selected pin on the map, driven from either direction */
+  .leaflet-marker-icon.marker-highlighted {
+    filter: hue-rotate(140deg) saturate(4) brightness(1.15);
+    transform: scale(1.35);
+    z-index: 10000 !important;
+  }
+
+  /* Whole row/card is clickable to pan the map, while the map is open */
+  #main-area.map-open #listings-body tr,
+  #main-area.map-open #seekers-body tr,
+  #main-area.map-open .m-card {
+    cursor: pointer;
+  }
+
   /* Row-level "pan map to this pin" button — only meaningful while the map pane is open */
   .pin-to-map-btn {
     background: none;
@@ -580,6 +594,9 @@
     display: none;
   }
   #main-area.map-open .pin-to-map-btn { display: inline-flex; }
+  /* Pagination is bypassed while the map is open (every row needs to exist
+     in the DOM for pins to work), so the controls would be meaningless. */
+  #main-area.map-open .pagination { display: none; }
   .pin-to-map-btn:hover { color: var(--accent); }
 
   @media (max-width: 900px) {
@@ -1308,7 +1325,7 @@ function statusCellHtml(lid) {
     </select>
     <button class="note-btn ${hasNote ? 'active' : ''}" title="Notes" onclick="openNoteModal('${lid}')">${SVG_NOTE}</button>
     <button class="report-btn" title="Report an issue with this post" onclick="reportListingIssue('${lid}')">${SVG_FLAG}</button>
-    <button class="pin-to-map-btn" title="Show this on the map" onclick="panMapToPost('${lid}')">${SVG_PIN}</button>
+    <button class="pin-to-map-btn" title="Show this on the map" onclick="selectFromPost('${lid}')">${SVG_PIN}</button>
   </div>`;
 }
 
@@ -1351,9 +1368,12 @@ function renderListings() {
     if (av < bv) return -sortDir; if (av > bv) return sortDir; return 0;
   });
 
+  // While the map is open, every filtered row needs a real DOM element for
+  // pins to scroll/highlight to — pagination would otherwise only render
+  // 25 of them, silently breaking most pin clicks.
   const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
   listingsPage = Math.min(Math.max(1, listingsPage), totalPages);
-  const pageRows = rows.slice((listingsPage - 1) * PAGE_SIZE, listingsPage * PAGE_SIZE);
+  const pageRows = mapPaneOpen ? rows : rows.slice((listingsPage - 1) * PAGE_SIZE, listingsPage * PAGE_SIZE);
 
   const tbody = $('listings-body');
   tbody.innerHTML = pageRows.map(p => {
@@ -1367,7 +1387,7 @@ function renderListings() {
       ? '<span style="color:var(--text-4);font-size:12px">No</span>'
       : '—';
     return `
-    <tr id="lrow-${p.listing_id}" class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
+    <tr id="lrow-${p.listing_id}" class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" onclick="rowClickToMap(event, '${p.listing_id}')">
       <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</td>
       <td>${fmtRent(p.rent)}</td>
       <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
@@ -1397,7 +1417,7 @@ function renderListings() {
     const amenStr = p.amenities?.length ? `<div class="m-card-amenities">${p.amenities.map(a=>esc(a.replace(/_/g,' '))).join(', ')}</div>` : '';
     const viewUrl = p.post_url || '';
     const isProfile = viewUrl.includes('/user/');
-    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}">
+    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">
       <div class="m-card-top">
         <div class="m-card-rent">${p.rent != null ? '$'+p.rent.toLocaleString() : '<span class="rent-null">—</span>'}</div>
         <div class="m-card-posted">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</div>
@@ -1500,7 +1520,7 @@ function renderSeekers() {
 
   const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
   seekersPage = Math.min(Math.max(1, seekersPage), totalPages);
-  const pageRows = rows.slice((seekersPage - 1) * PAGE_SIZE, seekersPage * PAGE_SIZE);
+  const pageRows = mapPaneOpen ? rows : rows.slice((seekersPage - 1) * PAGE_SIZE, seekersPage * PAGE_SIZE);
   $('seekers-pagination').innerHTML = paginationHtml(seekersPage, totalPages, 'goSeekersPage');
 
   $('seekers-mobile').innerHTML = pageRows.map(p => {
@@ -1513,7 +1533,7 @@ function renderSeekers() {
     const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).map(n=>`<span class="chip">${esc(n)}</span>`).join('');
     const viewUrl = p.post_url || '';
     const isProfile = viewUrl.includes('/user/');
-    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}">
+    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">
       <div class="m-card-top">
         <div class="m-card-budget">${esc(budgetStr)}</div>
         <div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div>
@@ -1552,7 +1572,7 @@ function renderSeekers() {
     const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).map(n=>`<span class="chip">${esc(n)}</span>`).join('')||'—';
     const unitTypes = (p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')||'—';
     const groupStr = p.group_size>1?`${p.group_size} ppl`:p.group_size===1?'Solo':'—';
-    return `<tr id="lrow-${p.listing_id}" class="${userBookmarks.has(p.listing_id)?'bookmarked':''}">
+    return `<tr id="lrow-${p.listing_id}" class="${userBookmarks.has(p.listing_id)?'bookmarked':''}" onclick="rowClickToMap(event, '${p.listing_id}')">
       <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}</td>
       <td style="white-space:nowrap;font-size:12px">${moveinStr}</td>
       <td style="font-weight:700;font-size:16px;letter-spacing:-0.5px">${esc(budgetStr)}</td>
@@ -1704,6 +1724,10 @@ window.toggleMapPane = function() {
   $('main-area').classList.toggle('map-open', mapPaneOpen);
   document.querySelectorAll('.map-toggle-pill').forEach(b => b.classList.toggle('active', mapPaneOpen));
   if (mapPaneOpen) initMapIfNeeded();
+  // Re-render the list itself — it needs to switch between paginated (map
+  // closed) and showing every row (map open, so pins always have something
+  // to scroll/highlight to), not just re-render the map's markers.
+  renderActiveTab();
 };
 
 function initMapIfNeeded() {
@@ -1748,7 +1772,7 @@ function renderMap() {
         ? (p.rent != null ? `$${p.rent.toLocaleString()}/mo` : 'Rent not listed')
         : (budgetRangeStr(p) || 'Budget not listed');
       marker.bindTooltip(tooltipText, { className: 'map-rent-tooltip' });
-      marker.on('click', () => focusRealPost(p.listing_id));
+      marker.on('click', () => selectFromPin(p.listing_id));
       markerCluster.addLayer(marker);
       (mapMarkersByListingId[p.listing_id] ||= []).push(marker);
       placed = true;
@@ -1761,11 +1785,12 @@ function renderMap() {
   $('table-caption').textContent = `${plotted} of ${posts.length} ${label} plotted on map`;
 }
 
-// Pin clicked on the map -> scroll to and highlight the real row/card. Both
-// the table row and mobile card exist in the DOM at all times (CSS decides
-// which is visible per viewport), so just try both — scrolling a hidden
-// element is a harmless no-op.
-window.focusRealPost = function(lid) {
+let highlightedMarkerEls = [];
+
+function highlightRowForPost(lid, scroll) {
+  // Both the table row and mobile card exist in the DOM at all times (CSS
+  // decides which is visible per viewport) — try both; scrolling/styling a
+  // hidden element is a harmless no-op.
   highlightedMapEls.forEach(el => el.classList.remove('map-highlighted'));
   highlightedMapEls = [];
   ['lrow-' + lid, 'lcard-' + lid].forEach(id => {
@@ -1773,16 +1798,48 @@ window.focusRealPost = function(lid) {
     if (!el) return;
     el.classList.add('map-highlighted');
     highlightedMapEls.push(el);
-    if (el.offsetParent !== null) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (scroll && el.offsetParent !== null) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+}
+
+function highlightMarkersForPost(lid) {
+  highlightedMarkerEls.forEach(el => el.classList.remove('marker-highlighted'));
+  highlightedMarkerEls = [];
+  const markers = mapMarkersByListingId[lid];
+  if (!markers) return;
+  markers.forEach(m => {
+    const el = m.getElement(); // null if still absorbed into an unexpanded cluster bubble
+    if (el) { el.classList.add('marker-highlighted'); highlightedMarkerEls.push(el); }
+  });
+}
+
+// Pin clicked on the map -> scroll to and highlight the real row/card, and
+// mark the clicked pin itself as selected.
+window.selectFromPin = function(lid) {
+  highlightRowForPost(lid, true);
+  highlightMarkersForPost(lid);
+};
+
+// Post's row/card clicked -> reveal (un-cluster/zoom if needed) and pan to
+// its pin, highlighting both ends.
+window.selectFromPost = function(lid) {
+  highlightRowForPost(lid, false);
+  const markers = mapMarkersByListingId[lid];
+  if (!markers || !markers.length || !leafletMap) return;
+  markerCluster.zoomToShowLayer(markers[0], () => {
+    highlightMarkersForPost(lid);
+    leafletMap.panTo(markers[0].getLatLng());
+    markers[0].openTooltip();
   });
 };
 
-// Row/card clicked -> pan the map to its pin (reverse direction).
-window.panMapToPost = function(lid) {
-  const markers = mapMarkersByListingId[lid];
-  if (!markers || !markers.length || !leafletMap) return;
-  leafletMap.panTo(markers[0].getLatLng());
-  markers[0].openTooltip();
+// Delegate for whole-row/card clicks — ignore clicks on nested interactive
+// controls (bookmark, tag select, notes, report, pin, view link) so those
+// keep working normally instead of also triggering a pan.
+window.rowClickToMap = function(event, lid) {
+  if (!mapPaneOpen) return;
+  if (event.target.closest('button, select, a, input')) return;
+  selectFromPost(lid);
 };
 
 // ── Auth ──────────────────────────────────────────────────────────────────────
