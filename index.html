@@ -383,6 +383,9 @@
   .tag-rotation        { background: #f5f3ff; color: #5b21b6; }
   .tag-relocation      { background: #fffbeb; color: #92400e; }
   .tag-other           { background: #f3f4f6; color: #4b5563; }
+  .badge-expired       { background: #fee2e2; color: #991b1b; font-size: 9px; margin-left: 4px; }
+  .badge-old           { background: var(--surface-3); color: var(--text-4); font-size: 9px; margin-left: 4px; }
+  html.dark .badge-expired { background: #3a1414; color: #fca5a5; }
 
   .amenities { display: flex; flex-wrap: wrap; gap: 4px; }
   .amenity { background: var(--surface-3); border-radius: 20px; padding: 2px 8px; font-size: 11px; color: var(--text-2); }
@@ -818,7 +821,7 @@
   <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">416</span></div>
   <div class="tab" data-tab="map">Map</div>
   <div class="spacer"></div>
-  <div style="display:flex;align-items:center;font-size:11px;color:#9ca3af;font-weight:500;padding-right:4px" id="table-caption-tab"><span class="live-dot"></span><span id="table-caption"></span></div>
+  <div style="display:flex;align-items:center;font-size:11px;color:#9ca3af;font-weight:500;padding-right:4px" id="table-caption-tab"><span class="live-dot"></span><span id="table-caption" title="&#39;Updated&#39; means SF Rooms checked for new posts at this time — it doesn&#39;t mean every listing has been reconfirmed by the poster."></span></div>
 </div>
 
 <div class="tab-subtitle" id="tab-subtitle">Available rooms, subleases, and lease takeovers posted by people offering a place.</div>
@@ -1199,6 +1202,17 @@ function postedTs(p) {
   const t = parsePostedAt(p.posted_at);
   return t ? t.getTime() : (p.first_scraped_at ? new Date(p.first_scraped_at).getTime() : 0);
 }
+const OLD_POST_THRESHOLD_MS = 30 * 24 * 3600000; // 30 days
+function listingFreshnessBadge(p) {
+  const today = new Date().toISOString().slice(0, 10);
+  if (p.duration_type === 'short_term' && p.available_until && p.available_until < today) {
+    return '<span class="tag badge-expired" title="Stated availability window has passed — may no longer be available">Likely expired</span>';
+  }
+  if (Date.now() - postedTs(p) > OLD_POST_THRESHOLD_MS) {
+    return '<span class="tag badge-old" title="Posted more than 30 days ago">Older post</span>';
+  }
+  return '';
+}
 function fmtPostedAt(raw) {
   if (!raw) return '—';
   const date = parsePostedAt(raw);
@@ -1324,7 +1338,7 @@ function renderListings() {
       : '—';
     return `
     <tr class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
-      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}</td>
+      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</td>
       <td>${fmtRent(p.rent)}</td>
       <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
       <td>
@@ -1356,7 +1370,7 @@ function renderListings() {
     return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}">
       <div class="m-card-top">
         <div class="m-card-rent">${p.rent != null ? '$'+p.rent.toLocaleString() : '<span class="rent-null">—</span>'}</div>
-        <div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div>
+        <div class="m-card-posted">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</div>
       </div>
       <div class="m-card-location">${esc(p.neighborhood)||'—'}</div>
       ${locSub ? `<div class="m-card-sub">${esc(locSub)}</div>` : ''}
