@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-22T21:14:03.108044",
+  "updated_at": "2026-09-22T22:16:53.533534",
   "count": 2684,
   "posts": [
     {
@@ -75026,32 +75026,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "7936254d8acf1669",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": 2500,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [
-        "San Francisco"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": 23,
-      "bio": "23-year-old UCSB graduate working at EY, social and laid-back, enjoys reading, baking, working out, coffee walks, the beach, and exploring new areas; seeking a sublease or existing lease in San Francisco with a $2500/month budget.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100027348425268",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-23T04:00:01.241129+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "2012534292771476",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -75080,6 +75054,33 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012534292771476",
       "posted_at": "Tuesday 22 September 2026 at 19:45",
       "first_scraped_at": "2026-09-23T04:00:01.241129+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2012574372767468",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "Recent UCSB graduate who works at EY, social and active; enjoys reading, baking, coffee walks, the beach, and working out. Laid-back, very clean, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012574372767468",
+      "posted_at": "Tuesday 22 September 2026 at 20:54",
+      "first_scraped_at": "2026-09-23T05:00:07.100705+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
