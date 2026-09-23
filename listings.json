@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T11:13:49.021774",
-  "count": 1983,
+  "updated_at": "2026-09-23T12:14:39.020460",
+  "count": 1986,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -57988,6 +57988,93 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013085369383035",
       "posted_at": "Wednesday 23 September 2026 at 10:31",
       "first_scraped_at": "2026-09-23T18:00:06.604573+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4722554221312914",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 2700,
+      "neighborhood": "SOMA",
+      "area": "San Francisco",
+      "available_from": "2026-10-05",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "laundry_in_building",
+        "parking",
+        "views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722554221312914",
+      "posted_at": "Wednesday 23 September 2026 at 11:02",
+      "first_scraped_at": "2026-09-23T19:00:07.167307+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "f3bfb7dfb5ce153b",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2850,
+      "neighborhood": "San Francisco",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "pool",
+        "hot_tub",
+        "rooftop",
+        "lobby"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100000879950568",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-23T19:00:07.167307+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2013132789378293",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1251,
+      "neighborhood": "NoPa",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "4B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "washer_dryer",
+        "shared_backyard",
+        "full_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013132789378293",
+      "posted_at": "Wednesday 23 September 2026 at 11:49",
+      "first_scraped_at": "2026-09-23T19:00:07.167307+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
