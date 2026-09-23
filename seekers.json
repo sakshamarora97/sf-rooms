@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T10:12:15.004913",
-  "count": 2688,
+  "updated_at": "2026-09-23T11:13:49.057115",
+  "count": 2691,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -75198,6 +75198,95 @@
       "posted_at": "Wednesday 23 September 2026 at 07:55",
       "first_scraped_at": "2026-09-23T15:00:03.619869+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "4722529517982051",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "Redwood City",
+        "Palo Alto",
+        "Mountain View",
+        "San Mateo",
+        "Caltrain line"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Moving from Toronto/Montreal to Santa Clara mid-October for a new tech job. Clean, respectful non-smoker and McGill grad who enjoys tennis, running, padel, food, and cooking; seeking a room or to roommate up with a 2BR/2BA, budget ~$1,300\u2013$2,000/month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722529517982051",
+      "posted_at": "Wednesday 23 September 2026 at 10:31",
+      "first_scraped_at": "2026-09-23T18:00:06.604573+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4722513964650273",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Nob Hill",
+        "Hayes Valley",
+        "Noe Valley",
+        "Cow Hollow",
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old engineer working in FiDi, currently commuting from the South Bay. Non-smoker, no pets, prefers to room with women.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722513964650273",
+      "posted_at": "Wednesday 23 September 2026 at 10:11",
+      "first_scraped_at": "2026-09-23T18:00:06.604573+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4722504954651174",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old working in tech seeking a private room in San Francisco starting 2026-11-01 with a budget under $2,000/month. Clean, quiet, and respectful; open to finding roommates and apartment-hunting together.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722504954651174",
+      "posted_at": "Wednesday 23 September 2026 at 10:00",
+      "first_scraped_at": "2026-09-23T18:00:06.604573+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
