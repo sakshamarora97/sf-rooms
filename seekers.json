@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T14:13:52.978096",
+  "updated_at": "2026-09-23T15:14:22.977631",
   "count": 2698,
   "posts": [
     {
@@ -75438,32 +75438,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "75295a6d3ff25e71",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "private_room"
-      ],
-      "preferred_neighborhoods": [
-        "San Francisco"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 2,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": "They are two people seeking a private bedroom in a shared apartment or house in San Francisco.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100005633748236",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-23T21:00:04.901697+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "2013171426041096",
       "post_type": "seeker",
       "duration_type": null,
@@ -75487,6 +75461,36 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013171426041096",
       "posted_at": "Wednesday 23 September 2026 at 12:59",
       "first_scraped_at": "2026-09-23T21:00:04.901697+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2013222312702674",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-04",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "SoMa",
+        "North Beach",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "A 23-year-old relocating to San Francisco for a new job starting October 5th. Has lived in the Bay Area their whole life and is looking for a room or a place in Mission, SoMa, North Beach, or Nob Hill with a budget up to $2,500/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013222312702674",
+      "posted_at": "Wednesday 23 September 2026 at 14:36",
+      "first_scraped_at": "2026-09-23T22:00:05.424068+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
