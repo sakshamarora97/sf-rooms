@@ -576,6 +576,9 @@
     gap: 16px;
   }
   .modal h3 { font-size: 18px; font-weight: 700; }
+  .faq-item { display: flex; flex-direction: column; gap: 3px; }
+  .faq-q { font-size: 13px; font-weight: 700; color: var(--text); }
+  .faq-a { font-size: 13px; color: var(--text-2); line-height: 1.45; }
   .modal p { font-size: 13px; color: var(--text-2); }
   .modal input[type=email], .modal input[type=password], .modal textarea {
     width: 100%;
@@ -1036,8 +1039,39 @@
 </div>
 
 <footer class="site-footer">
+  <a href="#" onclick="showHowItWorksModal();return false;">How it works</a> ·
   Have feedback or a feature request? <a href="#" onclick="openFeedbackModal('feedback');return false;">Contact us</a>
 </footer>
+
+<!-- How it works / trust modal -->
+<div class="modal-overlay" id="how-it-works-modal" style="display:none" onclick="if(event.target===this)closeHowItWorksModal()">
+  <div class="modal" style="max-width:480px">
+    <h3>How SF Rooms works</h3>
+    <div class="faq-item">
+      <div class="faq-q">Where do listings come from?</div>
+      <div class="faq-a">SF Rooms organizes housing posts from relevant Facebook groups.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Does SF Rooms host these listings?</div>
+      <div class="faq-a">No. Every result links back to the original Facebook post — that's where you contact the poster.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Are listings verified?</div>
+      <div class="faq-a">No. SF Rooms organizes third-party posts but does not independently verify landlords, posters, properties, or availability.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How often are posts updated?</div>
+      <div class="faq-a">New posts are checked roughly hourly. That means new posts appear quickly — it doesn't mean every existing listing's availability has been reconfirmed.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Safety</div>
+      <div class="faq-a">Verify the poster and the property yourself before sending any money.</div>
+    </div>
+    <div class="modal-actions">
+      <button class="btn-secondary" onclick="closeHowItWorksModal()">Close</button>
+    </div>
+  </div>
+</div>
 
 <!-- Feedback / report-issue modal -->
 <div class="modal-overlay" id="feedback-modal" style="display:none" onclick="if(event.target===this)closeFeedbackModal()">
@@ -1908,6 +1942,13 @@ window.openFeedbackModal = function(type) {
 
 window.closeFeedbackModal = function() {
   $('feedback-modal').style.display = 'none';
+};
+
+window.showHowItWorksModal = function() {
+  $('how-it-works-modal').style.display = 'flex';
+};
+window.closeHowItWorksModal = function() {
+  $('how-it-works-modal').style.display = 'none';
 };
 
 function _showFeedbackMsg(msg, ok) {
