@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-22T20:14:33.175018",
-  "count": 2682,
+  "updated_at": "2026-09-22T21:14:03.108044",
+  "count": 2684,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -74940,37 +74940,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "24fc3604940576ca",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": 2000,
-      "unit_type_wanted": [
-        "room",
-        "studio",
-        "apartment"
-      ],
-      "preferred_neighborhoods": [
-        "Inner Richmond",
-        "Yerba Buena",
-        "Nob Hill",
-        "Union Square"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": "Looking for a room, studio, or apartment in San Francisco; prefers downtown neighborhoods and previously lived in New York City.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100094863810969",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-23T03:00:05.499215+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "2012518766106362",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -75020,6 +74989,97 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012507639440808",
       "posted_at": "Tuesday 22 September 2026 at 18:58",
       "first_scraped_at": "2026-09-23T03:00:05.499215+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4721877624713907",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pacific Heights",
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill",
+        "Richmond",
+        "Hayes Valley",
+        "Presidio"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "A 23-year-old recent graduate from the UK who moved to San Francisco to start a role at an AI tech firm. Enjoys sports, outdoor activities, and cooking; describes themself as clean, tidy, and easygoing, and is seeking a friendly, respectful household with like-minded people.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4721877624713907",
+      "posted_at": "Tuesday 22 September 2026 at 20:33",
+      "first_scraped_at": "2026-09-23T04:00:01.241129+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "7936254d8acf1669",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old UCSB graduate working at EY, social and laid-back, enjoys reading, baking, working out, coffee walks, the beach, and exploring new areas; seeking a sublease or existing lease in San Francisco with a $2500/month budget.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100027348425268",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-23T04:00:01.241129+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2012534292771476",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Yerba Buena",
+        "Nob Hill",
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room, studio, or apartment in San Francisco with a budget up to $2,000/month; prefers Inner Richmond, Yerba Buena, Nob Hill, or Union Square and is comfortable with downtown living after previously living in New York City.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2012534292771476",
+      "posted_at": "Tuesday 22 September 2026 at 19:45",
+      "first_scraped_at": "2026-09-23T04:00:01.241129+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
