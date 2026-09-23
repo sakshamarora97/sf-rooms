@@ -372,7 +372,7 @@
   "Caltrain line, South Bay": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Cambrian Park, South Bay": {
     "lat": 37.2564151,
@@ -2903,6 +2903,10 @@
     "lat": null,
     "lon": null,
     "retries": 3
+  },
+  "San Francisco County, San Francisco": {
+    "lat": 37.7866963,
+    "lon": -122.4948298
   },
   "San Francisco Opera House, San Francisco": {
     "lat": null,
