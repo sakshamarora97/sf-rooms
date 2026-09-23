@@ -808,7 +808,7 @@
   </svg>
   <button id="report-issue-btn" onclick="openFeedbackModal('site_down')" title="Report the site being down or not updated">⚠ Report issue</button>
   <div id="auth-area">
-    <button id="auth-btn" onclick="showAuthModal()">Sign in</button>
+    <button id="auth-btn" onclick="showAuthModal()" title="Save listings, add private notes, and organize your search with tags">Sign in</button>
   </div>
 </header>
 
@@ -825,7 +825,7 @@
 
 <!-- Listing filters -->
 <div class="filters" id="listing-filters">
-  <label>Area
+  <label title="Broader Bay Area region — San Francisco, East Bay, Peninsula, South Bay, or North Bay">Region
     <select id="f-area">
       <option value="">Any</option>
       <option value="San Francisco">San Francisco</option>
@@ -864,7 +864,7 @@
       <option value="false">No</option>
     </select>
   </label>
-  <label>My tag
+  <label title="Tags you created yourself while browsing — not supplied by the listing poster">My tags
     <select id="f-tag">
       <option value="">Any</option>
       <option value="interested">Interested</option>
@@ -893,7 +893,7 @@
 
 <!-- Seeker filters -->
 <div class="filters" id="seeker-filters" style="display:none">
-  <label>Area
+  <label title="Broader Bay Area region — San Francisco, East Bay, Peninsula, South Bay, or North Bay">Region
     <select id="sf-area">
       <option value="">Any</option>
       <option value="San Francisco">San Francisco</option>
@@ -927,7 +927,7 @@
   <label>Move-in by
     <input type="text" id="sf-movein" placeholder="e.g. 2026-07-01">
   </label>
-  <label>My tag
+  <label title="Tags you created yourself while browsing — not supplied by the listing poster">My tags
     <select id="sf-tag">
       <option value="">Any</option>
       <option value="interested">Interested</option>
@@ -969,7 +969,7 @@
             <th data-col="listing_type">Type</th>
             <th data-col="is_furnished">Furnished</th>
             <th data-col="amenities">Amenities</th>
-            <th>Save</th>
+            <th title="Sign in to bookmark, tag, and add private notes to listings">Save</th>
             <th>Post</th>
           </tr>
         </thead>
@@ -997,7 +997,7 @@
             <th data-scol="bio">Bio</th>
             <th data-scol="age">Age</th>
             <th data-scol="group_size">Group</th>
-            <th>Save</th>
+            <th title="Sign in to bookmark, tag, and add private notes to listings">Save</th>
             <th>Post</th>
           </tr>
         </thead>
@@ -1826,7 +1826,7 @@ function updateAuthUI() {
       <button id="signout-btn" onclick="signOut()">Sign out</button>
     </div>`;
   } else {
-    area.innerHTML = `<button id="auth-btn" onclick="showAuthModal()">Sign in</button>`;
+    area.innerHTML = `<button id="auth-btn" onclick="showAuthModal()" title="Save listings, add private notes, and organize your search with tags">Sign in</button>`;
   }
 }
 
