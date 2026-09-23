@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-22T22:16:53.533534",
-  "count": 2684,
+  "updated_at": "2026-09-23T06:13:21.085223",
+  "count": 2685,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -75082,6 +75082,32 @@
       "posted_at": "Tuesday 22 September 2026 at 20:54",
       "first_scraped_at": "2026-09-23T05:00:07.100705+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4721986931369643",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Carlos"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old who works full-time at a tech company in Menlo Park (in-office five days a week). She describes herself as clean, quiet, respectful, and easygoing; seeking a female roommate to apply and move in together.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4721986931369643",
+      "posted_at": "Tuesday 22 September 2026 at 23:15",
+      "first_scraped_at": "2026-09-23T13:00:06.535746+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
