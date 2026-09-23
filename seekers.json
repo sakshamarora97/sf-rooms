@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T07:12:17.935533",
-  "count": 2685,
+  "updated_at": "2026-09-23T08:13:34.968565",
+  "count": 2688,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -75108,6 +75108,96 @@
       "posted_at": "Tuesday 22 September 2026 at 23:15",
       "first_scraped_at": "2026-09-23T13:00:06.535746+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4722361534665516",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover",
+        "long_term_sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach",
+        "Marina",
+        "Cow Hollow",
+        "Pacific Heights",
+        "Alamo Square",
+        "Duboce Triangle",
+        "Lower Haight",
+        "Noe Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "She is a 27-year-old professional moving to San Francisco for work, clean, respectful, and easygoing, seeking a private room in a 2\u20133BR unit with a private bathroom preferred. She enjoys thrifting, painting, and making crafts with air-dry clay and prefers a female-only household.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722361534665516",
+      "posted_at": "Wednesday 23 September 2026 at 07:10",
+      "first_scraped_at": "2026-09-23T15:00:03.619869+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "28406528705671081",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are snowbirding from New York City and looking to sublet a room in San Francisco from December through March.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28406528705671081",
+      "posted_at": "Wednesday 23 September 2026 at 07:56",
+      "first_scraped_at": "2026-09-23T15:00:03.619869+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
+    },
+    {
+      "listing_id": "28416193088037976",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Alviso",
+        "Milpitas",
+        "North San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a female working professional who is clean, respectful, and easygoing. She prefers a neat, peaceful home, needs a private bedroom with an attached bathroom, and prefers locations near public transit as she won't have a car initially.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28416193088037976",
+      "posted_at": "Wednesday 23 September 2026 at 07:55",
+      "first_scraped_at": "2026-09-23T15:00:03.619869+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)"
     }
   ]
 }
