@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-22T17:13:29.558709",
-  "count": 1974,
+  "updated_at": "2026-09-22T18:12:46.082743",
+  "count": 1975,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -57734,6 +57734,30 @@
       "posted_at": "Tuesday 22 September 2026 at 16:39",
       "first_scraped_at": "2026-09-23T00:00:02.881594+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4721773678057635",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2500,
+      "neighborhood": "Valencia St, Mission District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4721773678057635",
+      "posted_at": "Tuesday 22 September 2026 at 17:56",
+      "first_scraped_at": "2026-09-23T01:00:05.584135+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     }
   ]
 }
