@@ -442,6 +442,18 @@
   .note-btn:hover { color: var(--accent); }
   .note-btn.active { color: var(--accent); }
 
+  .report-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px;
+    border-radius: 4px;
+    line-height: 0;
+    color: var(--border);
+    transition: color 0.15s;
+  }
+  .report-btn:hover { color: #dc2626; }
+
   /* User tag select */
   .utag-select {
     border: 1px solid var(--border);
@@ -583,7 +595,7 @@
   .faq-q { font-size: 13px; font-weight: 700; color: var(--text); }
   .faq-a { font-size: 13px; color: var(--text-2); line-height: 1.45; }
   .modal p { font-size: 13px; color: var(--text-2); }
-  .modal input[type=email], .modal input[type=password], .modal textarea {
+  .modal input[type=email], .modal input[type=password], .modal textarea, .modal select {
     width: 100%;
     border: 1px solid var(--border);
     border-radius: 8px;
@@ -595,7 +607,7 @@
     background: var(--surface);
     color: var(--text);
   }
-  .modal input[type=email]:focus, .modal input[type=password]:focus, .modal textarea:focus { border-color: var(--accent); }
+  .modal input[type=email]:focus, .modal input[type=password]:focus, .modal textarea:focus, .modal select:focus { border-color: var(--accent); }
   .modal textarea { resize: vertical; min-height: 100px; }
   .modal-divider { text-align: center; color: var(--text-4); font-size: 12px; position: relative; }
   .modal-divider::before, .modal-divider::after { content: ''; position: absolute; top: 50%; width: 42%; height: 1px; background: var(--border); }
@@ -1081,6 +1093,16 @@
   <div class="modal">
     <h3 id="feedback-modal-title">Report an issue</h3>
     <p id="feedback-modal-desc"></p>
+    <p id="feedback-context" style="display:none;font-size:12px;color:var(--text-3);background:var(--surface-2);padding:8px 10px;border-radius:6px"></p>
+    <select id="feedback-category" style="display:none">
+      <option value="">What's the issue?</option>
+      <option value="info_incorrect">Listing information is incorrect</option>
+      <option value="no_longer_available">Listing is no longer available</option>
+      <option value="broken_link">Original link is broken</option>
+      <option value="scam">Possible scam / unsafe listing</option>
+      <option value="site_bug">Website bug</option>
+      <option value="other">Other</option>
+    </select>
     <textarea id="feedback-message" placeholder="What's going on?" style="min-height:100px"></textarea>
     <input type="email" id="feedback-email" placeholder="your@email.com" autocomplete="email">
     <p id="feedback-email-hint" style="font-size:12px;color:var(--text-3)"></p>
@@ -1263,6 +1285,7 @@ const REASON_MAP = { internship:'tag-internship', student:'tag-student', new_job
 // ── Status cell HTML ──────────────────────────────────────────────────────────
 const SVG_STAR = `<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>`;
 const SVG_NOTE = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>`;
+const SVG_FLAG = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="3"/></svg>`;
 
 function statusCellHtml(lid) {
   const bm = userBookmarks.has(lid);
@@ -1279,6 +1302,7 @@ function statusCellHtml(lid) {
       <option value="not_a_fit"   ${tag==='not_a_fit'   ? 'selected':''}>Not a fit</option>
     </select>
     <button class="note-btn ${hasNote ? 'active' : ''}" title="Notes" onclick="openNoteModal('${lid}')">${SVG_NOTE}</button>
+    <button class="report-btn" title="Report an issue with this post" onclick="reportListingIssue('${lid}')">${SVG_FLAG}</button>
   </div>`;
 }
 
@@ -1933,20 +1957,45 @@ window.deleteNote = async function() {
 
 // ── Feedback / report-issue modal ────────────────────────────────────────────
 let _feedbackType = 'feedback';
+let _feedbackContext = null; // { listing_id, post_url, label } when reporting a specific post
 
-window.openFeedbackModal = function(type) {
+window.reportListingIssue = function(lid) {
+  const post = allListings.find(p => p.listing_id === lid) || allSeekers.find(p => p.listing_id === lid);
+  if (!post) return;
+  const label = post.rent != null
+    ? `$${post.rent.toLocaleString()} · ${post.neighborhood || post.area || ''}`
+    : (post.neighborhood || (post.preferred_neighborhoods||[])[0] || post.area || 'this post');
+  openFeedbackModal('listing_issue', { listing_id: lid, post_url: post.post_url, label });
+};
+
+window.openFeedbackModal = function(type, context) {
   _feedbackType = type;
+  _feedbackContext = context || null;
   const isDown = type === 'site_down';
-  $('feedback-modal-title').textContent = isDown ? 'Report an issue' : 'Feedback & feature requests';
-  $('feedback-modal-desc').textContent = isDown
-    ? "Tell us what's wrong — e.g. listings look stale or the site seems down."
+  const isListing = type === 'listing_issue';
+
+  $('feedback-modal-title').textContent = isListing ? 'Report an issue with this post'
+    : isDown ? 'Report an issue'
+    : 'Feedback & feature requests';
+  $('feedback-modal-desc').textContent = isListing ? 'Let us know what\'s wrong with this specific post.'
+    : isDown ? "Tell us what's wrong — e.g. listings look stale or the site seems down."
     : 'Suggestions, bug reports, feature ideas — we read everything.';
-  $('feedback-message').placeholder = isDown
-    ? "What's going on? (e.g. “no new listings in 3 days”)"
+  $('feedback-message').placeholder = isListing ? 'Any extra detail (optional)'
+    : isDown ? "What's going on? (e.g. “no new listings in 3 days”)"
     : "What's on your mind?";
   $('feedback-email-hint').textContent = isDown
     ? "Optional — leave your email if you'd like us to let you know once it's back up."
     : 'Optional — leave your email if you’d like us to follow up.';
+
+  $('feedback-category').style.display = isListing ? '' : 'none';
+  $('feedback-category').value = '';
+  if (isListing && _feedbackContext) {
+    $('feedback-context').style.display = '';
+    $('feedback-context').textContent = `Reporting: ${_feedbackContext.label}`;
+  } else {
+    $('feedback-context').style.display = 'none';
+  }
+
   $('feedback-message').value = '';
   $('feedback-email').value = currentUser?.email || '';
   $('feedback-status').style.display = 'none';
@@ -1976,14 +2025,21 @@ function _showFeedbackMsg(msg, ok) {
 window.submitFeedback = async function() {
   const message = $('feedback-message').value.trim();
   const email = $('feedback-email').value.trim();
-  if (!message) { _showFeedbackMsg('Please enter a message.', false); return; }
+  const isListing = _feedbackType === 'listing_issue';
+  const category = isListing ? $('feedback-category').value : null;
+
+  if (isListing && !category) { _showFeedbackMsg('Please choose what the issue is.', false); return; }
+  if (!isListing && !message) { _showFeedbackMsg('Please enter a message.', false); return; }
+
   $('feedback-submit-btn').disabled = true;
   const { error } = await supa.from('feedback').insert({
     type: _feedbackType,
-    message,
+    category,
+    message: message || null,
+    listing_id: _feedbackContext?.listing_id || null,
     email: email || null,
     user_id: currentUser?.id || null,
-    page_url: window.location.href,
+    page_url: _feedbackContext?.post_url || window.location.href,
   });
   $('feedback-submit-btn').disabled = false;
   if (error) {
