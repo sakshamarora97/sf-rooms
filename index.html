@@ -61,6 +61,7 @@
     --row-hover:     #fafbff;
     --row-bm:        #fffbeb;
     --row-bm-hover:  #fff8d6;
+    --row-map-highlight: #eef0fe;
     --accent:        #4f46e5;
     --accent-hover:  #4338ca;
     --accent-light:  #a5b4fc;
@@ -89,6 +90,7 @@
     --row-hover:     #1e1e2e;
     --row-bm:        #2d2600;
     --row-bm-hover:  #3d3300;
+    --row-map-highlight: #23244a;
     --accent:        #6366f1;
     --accent-hover:  #4f46e5;
     --accent-light:  #818cf8;
@@ -562,15 +564,18 @@
   #map-canvas { width: 100%; height: 100%; }
   .leaflet-tooltip.map-rent-tooltip { font-weight: 700; font-size: 12px; }
 
-  /* Highlight state for the real table row / mobile card, driven by map pin clicks */
+  /* Highlight state for the real table row / mobile card, driven by map pin
+     clicks — a single clean wash + left accent stripe, not a per-cell grid. */
   tr[id^="lrow-"] { scroll-margin-top: 40px; } /* clears the sticky thead when scrolled to the top */
-  tr.map-highlighted td { background: var(--row-bm-hover) !important; box-shadow: inset 0 0 0 2px var(--accent); }
-  .m-card.map-highlighted { box-shadow: 0 0 0 2px var(--accent); }
+  tr.map-highlighted td { background: var(--row-map-highlight) !important; }
+  tr.map-highlighted td:first-child { box-shadow: inset 3px 0 0 var(--accent); }
+  .m-card.map-highlighted { background: var(--row-map-highlight); box-shadow: inset 3px 0 0 var(--accent); }
 
-  /* Selected pin on the map, driven from either direction */
+  /* Selected pin on the map, driven from either direction — a soft accent
+     glow + lift, keeping the marker's own color rather than shifting hue. */
   .leaflet-marker-icon.marker-highlighted {
-    filter: hue-rotate(140deg) saturate(4) brightness(1.15);
-    transform: scale(1.35);
+    filter: drop-shadow(0 0 5px var(--accent)) drop-shadow(0 0 2px var(--accent));
+    transform: scale(1.3) translateY(-2px);
     z-index: 10000 !important;
   }
 
