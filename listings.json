@@ -1,6 +1,6 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T21:14:44.310249",
+  "updated_at": "2026-09-23T22:13:30.158225",
   "count": 1992,
   "posts": [
     {
@@ -60216,7 +60216,7 @@
       "search_snippet": "Available \u2014 Near Ocean Ave, SF! Newly renovated apartment"
     },
     {
-      "listing_id": "eb86f884f9b6108a",
+      "listing_id": "2013416559349916",
       "post_type": "listing",
       "listing_type": "room_rental",
       "duration_type": "long_term",
@@ -60231,25 +60231,24 @@
       "roommates_count": 1,
       "amenities": [
         "in_unit_laundry",
-        "central_ac",
+        "central_ac_heat",
         "gym",
-        "rooftop",
+        "rooftop_terrace",
+        "grilling_area",
         "resident_lounge",
         "coworking_space",
         "floor_to_ceiling_windows",
         "modern_kitchen",
-        "parking",
-        "ev_charging",
-        "near_transit",
-        "near_groceries"
+        "garage_parking",
+        "ev_charging"
       ],
       "utilities_included": null,
       "pets_allowed": null,
       "gender_preference": null,
       "building_name": "One Henry Adams Apartments",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/61582983148602",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013416559349916",
       "posted_at": null,
-      "first_scraped_at": "2026-09-24T04:00:08.148428+00:00",
+      "first_scraped_at": "2026-09-24T05:00:07.615655+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for someone to join me on a 1-year"
     }
