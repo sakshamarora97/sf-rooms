@@ -951,9 +951,9 @@
       <option value="12">Last 12 hours</option>
       <option value="24">Last 1 day</option>
       <option value="72">Last 3 days</option>
-      <option value="168" selected>Last 7 days</option>
+      <option value="168">Last 7 days</option>
       <option value="336">Last 14 days</option>
-      <option value="720">Last 30 days</option>
+      <option value="720" selected>Last 30 days</option>
       <option value="">All time</option>
     </select>
   </label>
@@ -1015,9 +1015,9 @@
       <option value="12">Last 12 hours</option>
       <option value="24">Last 1 day</option>
       <option value="72">Last 3 days</option>
-      <option value="168" selected>Last 7 days</option>
+      <option value="168">Last 7 days</option>
       <option value="336">Last 14 days</option>
-      <option value="720">Last 30 days</option>
+      <option value="720" selected>Last 30 days</option>
       <option value="">All time</option>
     </select>
   </label>
@@ -1495,7 +1495,7 @@ document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
 });
 $('clear-listing-filters').addEventListener('click', () => {
   ['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => $(id).value = '');
-  $('f-posted-within').value = '168'; // default back to 1 week, not "all time"
+  $('f-posted-within').value = '720'; // default back to 30 days, not "all time"
   listingsPage = 1;
   renderListings();
 });
@@ -1636,7 +1636,7 @@ document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
 });
 $('clear-seeker-filters').addEventListener('click', () => {
   ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id=>$(id).value='');
-  $('sf-posted-within').value = '168'; // default back to 1 week, not "all time"
+  $('sf-posted-within').value = '720'; // default back to 30 days, not "all time"
   seekersPage = 1;
   renderSeekers();
 });
