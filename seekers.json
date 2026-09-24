@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T07:14:17.233159",
-  "count": 2713,
+  "updated_at": "2026-09-24T08:14:53.180731",
+  "count": 2714,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -78575,34 +78575,6 @@
       "search_snippet": "a 30-year-old female hoping to move to Daly City,"
     },
     {
-      "listing_id": "68db373bac1d80ac",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "room"
-      ],
-      "preferred_neighborhoods": [
-        "Haight",
-        "Mission"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": null,
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100005718038419",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-24T14:00:03.776218+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
-      "search_snippet": "looking for a room or roommates, ideally in the"
-    },
-    {
       "listing_id": "2013764799315092",
       "post_type": "seeker",
       "duration_type": null,
@@ -78631,6 +78603,62 @@
       "first_scraped_at": "2026-09-24T14:00:03.776218+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "east sf 2k budget Hey just got a job"
+    },
+    {
+      "listing_id": "4723548451213491",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "She is a female graduate student, clean, quiet, and a non-smoker who spends most of her time on campus for research. She is urgently looking for a private room in Santa Clara starting early October.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4723548451213491",
+      "posted_at": "Thursday 24 September 2026 at 07:55",
+      "first_scraped_at": "2026-09-24T15:00:04.301773+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "and around Santa Clara Hi everyone! I am a"
+    },
+    {
+      "listing_id": "2013782032646702",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They work in software with a hybrid schedule (in office Tue\u2013Thu) and produce music in their free time using headphones. Clean, respectful, and easygoing; can provide references from past roommates and requires an in-unit washer/dryer.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013782032646702",
+      "posted_at": "Thursday 24 September 2026 at 06:20",
+      "first_scraped_at": "2026-09-24T15:00:04.301773+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a room or roommates, ideally in the"
     }
   ]
 }
