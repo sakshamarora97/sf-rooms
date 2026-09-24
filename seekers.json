@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T16:13:44.285463",
-  "count": 2699,
+  "updated_at": "2026-09-23T17:13:38.033963",
+  "count": 2702,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -75494,25 +75494,114 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     },
     {
-      "listing_id": "57a057fa49c2a69a",
+      "listing_id": "4722778837957119",
       "post_type": "seeker",
-      "duration_type": "short_term",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "A 22-year-old young professional relatively new to San Francisco. Friendly, chill, clean, and easygoing; enjoys exploring the city, trying restaurants and caf\u00e9s, and balancing nights out with relaxed nights at home.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722778837957119",
+      "posted_at": "Wednesday 23 September 2026 at 16:19",
+      "first_scraped_at": "2026-09-24T00:00:05.180511+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "4722691884632481",
+      "post_type": "seeker",
+      "duration_type": null,
       "move_in_date": null,
       "move_out_date": null,
       "budget_min": null,
-      "budget_max": 800,
-      "unit_type_wanted": null,
-      "preferred_neighborhoods": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Downtown SF"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two people seeking a private bedroom in a shared apartment or house in San Francisco. One works in tech; they describe themselves as clean, respectful, easygoing, quiet, busy with work and startup projects, and enjoy exploring the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722691884632481",
+      "posted_at": "Wednesday 23 September 2026 at 14:02",
+      "first_scraped_at": "2026-09-24T00:00:05.180511+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "0a36aa506991b861",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-04",
+      "move_out_date": "2026-11-27",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "They are a working professional, non-smoking, single, and have no pets. Seeking a furnished sublet, studio, or 1B1B in San Francisco from 2026-10-04 to 2026-11-27, flexible on location.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/user/100000433433826",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-24T00:00:05.180511+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "2013266456031593",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Berkeley",
+        "Oakland",
+        "Daly City"
+      ],
       "area": "San Francisco",
       "furnished_required": null,
       "group_size": 1,
       "has_pets": null,
       "reason": null,
       "age": null,
-      "bio": "Seeking a short-term stay (about 1\u20131.5 months) with move-in this month and a budget up to $800.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100012280631228",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-23T23:00:06.327010+00:00",
+      "bio": "A software engineer moving to San Francisco seeking a private room for a lease or sublease. Clean, quiet, easygoing, non-smoker/non-drinker who works from home some days and prefers a peaceful place close to BART with a reasonable commute to downtown SF.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013266456031593",
+      "posted_at": "Wednesday 23 September 2026 at 16:16",
+      "first_scraped_at": "2026-09-24T00:00:05.180511+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
