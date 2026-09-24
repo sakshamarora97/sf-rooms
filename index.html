@@ -1309,11 +1309,22 @@ function amenitiesHtml(list) {
   if (!list || !list.length) return '—';
   return `<span style="font-size:12px;color:#9ca3af;line-height:1.4">${list.map(a => esc(a.replace(/_/g,' '))).join(', ')}</span>`;
 }
+function isMobileViewport() {
+  return window.matchMedia('(max-width: 767px)').matches;
+}
 function fbGroupSearchUrl(p) {
   if (!p.post_url || !p.search_snippet) return null;
+  const q = encodeURIComponent(p.search_snippet);
+  // The group-scoped search page (/groups/<id>/search/) only works on desktop web —
+  // on mobile web it silently redirects to the plain group page, dropping the query.
+  // Global search (/search/top/) isn't group-scoped, but it survives the mobile
+  // redirect and the distinctive snippet still surfaces the right post near the top.
+  if (isMobileViewport()) {
+    return `https://www.facebook.com/search/top/?q=${q}`;
+  }
   const m = p.post_url.match(/\/groups\/(\d+)/);
   if (!m) return null;
-  return `https://www.facebook.com/groups/${m[1]}/search/?q=${encodeURIComponent(p.search_snippet)}`;
+  return `https://www.facebook.com/groups/${m[1]}/search/?q=${q}`;
 }
 function searchFallbackHtml(p) {
   const url = fbGroupSearchUrl(p);
@@ -1464,7 +1475,7 @@ function renderListings() {
       ${amenStr}
       <div class="m-card-actions">
         <div>${statusCellHtml(p.listing_id)}</div>
-        ${viewUrl ? `<a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}` : ''}
+        ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
       </div>
     </div>`;
   }).join('');
@@ -1577,7 +1588,7 @@ function renderSeekers() {
       ${p.bio ? `<div class="m-card-bio">${esc(p.bio)}</div>` : ''}
       <div class="m-card-actions">
         <div>${statusCellHtml(p.listing_id)}</div>
-        ${viewUrl ? `<a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}` : ''}
+        ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
       </div>
     </div>`;
   }).join('');
