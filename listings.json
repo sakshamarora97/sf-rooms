@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T11:14:31.281722",
-  "count": 2001,
+  "updated_at": "2026-09-24T12:13:21.656978",
+  "count": 2000,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -62485,36 +62485,6 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "to fill a spot in a 2 person lease",
       "search_snippet_long": "to fill a spot in a 2 person lease in Pac Heights with a move in date of Nov. 1st."
-    },
-    {
-      "listing_id": "2353572fe39009b4",
-      "post_type": "listing",
-      "listing_type": "sublease",
-      "duration_type": "long_term",
-      "rent": null,
-      "neighborhood": "Ferry Building",
-      "area": "San Francisco",
-      "available_from": null,
-      "available_until": null,
-      "unit_config": "1B1B",
-      "room_type": "entire_unit",
-      "is_furnished": true,
-      "roommates_count": null,
-      "amenities": [
-        "waterfront",
-        "walkable_neighborhood",
-        "quiet_building"
-      ],
-      "utilities_included": null,
-      "pets_allowed": null,
-      "gender_preference": null,
-      "building_name": null,
-      "post_url": "https://www.facebook.com/groups/843764532374203/user/61573647015730",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-24T18:00:06.523297+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
-      "search_snippet": "have a beautiful, fully furnished 1-bedroom apartment in San",
-      "search_snippet_long": "have a beautiful, fully furnished 1-bedroom apartment in San Francisco in a walkable waterfront location, available for a 3\u20136 month"
     }
   ]
 }
