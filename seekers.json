@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T19:40:33.400418",
-  "count": 2705,
+  "updated_at": "2026-09-23T20:14:42.837620",
+  "count": 2706,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -78336,42 +78336,6 @@
       "search_snippet": "looking for a furnished sublet, studio or 1BD, in"
     },
     {
-      "listing_id": "32aed60f3e643716",
-      "post_type": "seeker",
-      "duration_type": null,
-      "move_in_date": null,
-      "move_out_date": null,
-      "budget_min": 2000,
-      "budget_max": 3000,
-      "unit_type_wanted": [
-        "room",
-        "2-bedroom"
-      ],
-      "preferred_neighborhoods": [
-        "Duboce Triangle",
-        "NoPa",
-        "Lower Haight",
-        "Haight",
-        "Pac Heights",
-        "Russian Hill",
-        "Marina",
-        "Noe Valley",
-        "Mission"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": 1,
-      "has_pets": null,
-      "reason": null,
-      "age": 30,
-      "bio": "A 30-year-old professional working in food/biotech who is social and active\u2014enjoys running, hiking, cooking, wine, and sports. They describe themselves as clean, communicative, respectful, and are looking for a considerate roommate and a calm, comfortable home.",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/1535386643",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-24T02:00:06.065382+00:00",
-      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
-      "search_snippet": "for a place to find a place in SF,"
-    },
-    {
       "listing_id": "4722879424613727",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -78397,6 +78361,67 @@
       "first_scraped_at": "2026-09-24T02:00:06.065382+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "moving to San Francisco October 6\u20137 for a new"
+    },
+    {
+      "listing_id": "4722881101280226",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2-bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "Duboce Triangle",
+        "NoPa",
+        "Lower Haight",
+        "Haight",
+        "Pac Heights",
+        "Russian Hill",
+        "Marina",
+        "Noe Valley",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 30,
+      "bio": "30-year-old working in food/biotech who is social and often out and about; seeking a 2-bedroom and a friendly, respectful roommate in San Francisco, flexible on several neighborhoods listed.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722881101280226",
+      "posted_at": "Wednesday 23 September 2026 at 18:57",
+      "first_scraped_at": "2026-09-24T03:00:07.074226+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for a place to find a place in SF,"
+    },
+    {
+      "listing_id": "2013368142688091",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "23-year-old new computer science graduate starting a job in SoMA mid-October; recent MS from Georgia Tech and BS from RPI. Enjoys movies/theaters, hiking, drawing, playing soccer, and exploring local restaurants; looking for clean roommates to be friends with.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013368142688091",
+      "posted_at": "Wednesday 23 September 2026 at 19:37",
+      "first_scraped_at": "2026-09-24T03:00:07.074226+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "(Oct-Nov Move In) Hey guys!! I\u2019m a 23 year"
     }
   ]
 }
