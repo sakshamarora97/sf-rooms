@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-23T17:13:38.033963",
-  "count": 2702,
+  "updated_at": "2026-09-23T18:14:03.023835",
+  "count": 2703,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -75547,34 +75547,6 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
     },
     {
-      "listing_id": "0a36aa506991b861",
-      "post_type": "seeker",
-      "duration_type": "short_term",
-      "move_in_date": "2026-10-04",
-      "move_out_date": "2026-11-27",
-      "budget_min": null,
-      "budget_max": null,
-      "unit_type_wanted": [
-        "sublet",
-        "studio",
-        "1B1B"
-      ],
-      "preferred_neighborhoods": [
-        "San Francisco"
-      ],
-      "area": "San Francisco",
-      "furnished_required": true,
-      "group_size": 1,
-      "has_pets": false,
-      "reason": null,
-      "age": null,
-      "bio": "They are a working professional, non-smoking, single, and have no pets. Seeking a furnished sublet, studio, or 1B1B in San Francisco from 2026-10-04 to 2026-11-27, flexible on location.",
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/100000433433826",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-24T00:00:05.180511+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
-    },
-    {
       "listing_id": "2013266456031593",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -75602,6 +75574,62 @@
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013266456031593",
       "posted_at": "Wednesday 23 September 2026 at 16:16",
       "first_scraped_at": "2026-09-24T00:00:05.180511+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
+    },
+    {
+      "listing_id": "4722842834617386",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-19",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "North Beach",
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "23-year-old mechanical engineer who graduated from UPenn in 2025 and is starting a new job in late October; enjoys workouts, matcha mornings, running, hiking, golf, trying new restaurants, fashion, and exploring cities.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4722842834617386",
+      "posted_at": "Wednesday 23 September 2026 at 17:59",
+      "first_scraped_at": "2026-09-24T01:00:07.490844+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)"
+    },
+    {
+      "listing_id": "2013278142697091",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-04",
+      "move_out_date": "2026-11-27",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "They are a working professional, non-smoking, single, and have no pets, seeking a furnished short-term sublet or studio/1B1B in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2013278142697091",
+      "posted_at": "Wednesday 23 September 2026 at 16:41",
+      "first_scraped_at": "2026-09-24T01:00:07.490844+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)"
     }
   ]
