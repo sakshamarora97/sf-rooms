@@ -884,7 +884,7 @@
 
 <div class="tabs">
   <div class="tab active" data-tab="listings">Listings <span class="badge" id="badge-listings">2000</span></div>
-  <div class="tab" data-tab="seekers">Room Seekers <span class="badge" id="badge-seekers">2714</span></div>
+  <div class="tab" data-tab="seekers">Room Seekers <span class="badge" id="badge-seekers">2715</span></div>
   <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">423</span></div>
   <div class="spacer"></div>
   <div style="display:flex;align-items:center;font-size:11px;color:#9ca3af;font-weight:500;padding-right:4px" id="table-caption-tab"><span class="live-dot"></span><span id="table-caption" title="&#39;Updated&#39; means SF Rooms checked for new posts at this time — it doesn&#39;t mean every listing has been reconfirmed by the poster."></span></div>
@@ -1314,14 +1314,18 @@ function isMobileViewport() {
 }
 function fbGroupSearchUrl(p) {
   if (!p.post_url || !p.search_snippet) return null;
-  const q = encodeURIComponent(p.search_snippet);
   // The group-scoped search page (/groups/<id>/search/) only works on desktop web —
   // on mobile web it silently redirects to the plain group page, dropping the query.
   // Global search (/search/top/) isn't group-scoped, but it survives the mobile
-  // redirect and the distinctive snippet still surfaces the right post near the top.
+  // redirect. Since that search is FB-wide (not narrowed to the group), it uses a
+  // longer ~20-word snippet instead of the 9-word one, to cut down false-positive
+  // matches — falls back to the short snippet if a long one wasn't generated (e.g.
+  // it would have contained PII).
   if (isMobileViewport()) {
-    return `https://www.facebook.com/search/top/?q=${q}`;
+    const longSnippet = p.search_snippet_long || p.search_snippet;
+    return `https://www.facebook.com/search/top/?q=${encodeURIComponent(longSnippet)}`;
   }
+  const q = encodeURIComponent(p.search_snippet);
   const m = p.post_url.match(/\/groups\/(\d+)/);
   if (!m) return null;
   return `https://www.facebook.com/groups/${m[1]}/search/?q=${q}`;
