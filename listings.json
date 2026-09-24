@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T13:14:13.720576",
-  "count": 2002,
+  "updated_at": "2026-09-24T14:14:38.339740",
+  "count": 2004,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -62552,6 +62552,58 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "(\"Casita\") (detached from rest of the home!) in Sunnyside",
       "search_snippet_long": "(\"Casita\") (detached from rest of the home!) in Sunnyside / Glen Park \u2014 $1,600/month Posting on behalf of a friend"
+    },
+    {
+      "listing_id": "4723874001180936",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2500,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4723874001180936",
+      "posted_at": "Thursday 24 September 2026 at 13:57",
+      "first_scraped_at": "2026-09-24T21:00:02.341372+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "and I just got a 4BD, 2BA apartment in",
+      "search_snippet_long": "and I just got a 4BD, 2BA apartment in lower pacific heights! We are looking for 2 additional roommates! Rent"
+    },
+    {
+      "listing_id": "2014095829281989",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "5B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014095829281989",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-24T21:00:02.341372+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "LOWER PAC HEIGHTS on October 1st. Message me to",
+      "search_snippet_long": "LOWER PAC HEIGHTS on October 1st. Message me to come see it, Monday at 7:30pm this will be the ONLY"
     }
   ]
 }

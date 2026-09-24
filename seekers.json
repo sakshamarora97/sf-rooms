@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T13:14:13.758969",
-  "count": 2719,
+  "updated_at": "2026-09-24T14:14:38.378015",
+  "count": 2720,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -81479,35 +81479,6 @@
       "search_snippet_long": "of my friend, he doesn\u2019t have social media! Hey everyone, my name is Jack and I am currently looking for"
     },
     {
-      "listing_id": "bac1179626b148dc",
-      "post_type": "seeker",
-      "duration_type": "long_term",
-      "move_in_date": "2027-01-15",
-      "move_out_date": "2028-01-15",
-      "budget_min": 2000,
-      "budget_max": 2500,
-      "unit_type_wanted": [
-        "studio",
-        "1B1B"
-      ],
-      "preferred_neighborhoods": [
-        "Marina"
-      ],
-      "area": "San Francisco",
-      "furnished_required": null,
-      "group_size": null,
-      "has_pets": null,
-      "reason": null,
-      "age": null,
-      "bio": null,
-      "post_url": "https://www.facebook.com/groups/242765489748374/user/512986132",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-24T20:00:07.382113+00:00",
-      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
-      "search_snippet": "studio or one bedroom lease or sublease for 12",
-      "search_snippet_long": "studio or one bedroom lease or sublease for 12 months starting January 15, 2027. Budget around $2-2.5k within a 20"
-    },
-    {
       "listing_id": "2014070579284514",
       "post_type": "seeker",
       "duration_type": null,
@@ -81536,6 +81507,66 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommate | 2 bed / 2 bath I\u2019m looking",
       "search_snippet_long": "roommate | 2 bed / 2 bath I\u2019m looking for 1 roommate to apply with for an unfurnished luxury apartment"
+    },
+    {
+      "listing_id": "2014087442616161",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District",
+        "Mission"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "She is 25 and moving to San Francisco to run a Pilates studio. She has a background in art and animation, is social but values a peaceful home, and will be bringing a well-behaved cat.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014087442616161",
+      "posted_at": "Thursday 24 September 2026 at 13:22",
+      "first_scraped_at": "2026-09-24T21:00:02.341372+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "home in San Francisco Hi everyone! I\u2019m making the",
+      "search_snippet_long": "home in San Francisco Hi everyone! I\u2019m making the move to San Francisco for work, where I\u2019ll be running a"
+    },
+    {
+      "listing_id": "2014074502617455",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-15",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a 12-month studio or one-bedroom lease/sublease starting 2027-01-15 with a budget of $2,000\u2013$2,500/month; willing to live within a 20-minute commute of the Marina.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014074502617455",
+      "posted_at": "Thursday 24 September 2026 at 12:58",
+      "first_scraped_at": "2026-09-24T21:00:02.341372+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "studio or one bedroom lease or sublease for 12",
+      "search_snippet_long": "studio or one bedroom lease or sublease for 12 months starting January 15, 2027. Budget around $2-2.5k within a 20"
     }
   ]
 }
