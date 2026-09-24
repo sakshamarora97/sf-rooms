@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T14:14:38.378015",
-  "count": 2720,
+  "updated_at": "2026-09-24T15:14:04.558217",
+  "count": 2721,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -81567,6 +81567,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "studio or one bedroom lease or sublease for 12",
       "search_snippet_long": "studio or one bedroom lease or sublease for 12 months starting January 15, 2027. Budget around $2-2.5k within a 20"
+    },
+    {
+      "listing_id": "28433217583002193",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B3B"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Nob Hill",
+        "Duboce Triangle",
+        "Mission/Van Ness",
+        "Hayes Valley",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is a software engineer at an AI startup who is clean, respectful, and low\u2011key. Vegetarian, cooks, lifts, runs, and is typically heading to work during the week.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28433217583002193",
+      "posted_at": "Thursday 24 September 2026 at 14:49",
+      "first_scraped_at": "2026-09-24T22:00:04.301854+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "to find a 2BR/2BA or 3BR/3BA in SF (mid-Jan",
+      "search_snippet_long": "to find a 2BR/2BA or 3BR/3BA in SF (mid-Jan 2027 move-in) Hey all! I'm Laye, a software engineer at an"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T14:14:38.339740",
-  "count": 2004,
+  "updated_at": "2026-09-24T15:14:04.522444",
+  "count": 2006,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -62599,11 +62599,75 @@
       "gender_preference": null,
       "building_name": null,
       "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014095829281989",
-      "posted_at": null,
+      "posted_at": "Thursday 24 September 2026 at 13:38",
       "first_scraped_at": "2026-09-24T21:00:02.341372+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "LOWER PAC HEIGHTS on October 1st. Message me to",
       "search_snippet_long": "LOWER PAC HEIGHTS on October 1st. Message me to come see it, Monday at 7:30pm this will be the ONLY"
+    },
+    {
+      "listing_id": "4723883344513335",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2495,
+      "neighborhood": "Lower Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "public_transit",
+        "near_restaurants",
+        "near_shops",
+        "downtown_access"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4723883344513335",
+      "posted_at": "Thursday 24 September 2026 at 14:09",
+      "first_scraped_at": "2026-09-24T22:00:04.301854+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "\u2013 735 Taylor Street, San Francisco** Looking for a",
+      "search_snippet_long": "\u2013 735 Taylor Street, San Francisco** Looking for a new tenant for a studio apartment at **735 Taylor Street, San"
+    },
+    {
+      "listing_id": "28428313540159264",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SOMA",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-01-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "fitness_center",
+        "courtyard",
+        "concierge",
+        "parking",
+        "gourmet_kitchen"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Trinity Place",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28428313540159264",
+      "posted_at": "Thursday 24 September 2026 at 14:48",
+      "first_scraped_at": "2026-09-24T22:00:04.301854+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "SUBLEASE Live at the iconic Trinity Place! 1190 Mission",
+      "search_snippet_long": "SUBLEASE Live at the iconic Trinity Place! 1190 Mission St, San Francisco, CA 94103 $2,000 / month (Includes Utilities +"
     }
   ]
 }

@@ -1916,6 +1916,10 @@
     "lat": 37.764353,
     "lon": -122.4269535
   },
+  "Mission/Van Ness, San Francisco": {
+    "lat": 37.7540956,
+    "lon": -122.4168021
+  },
   "Montclair, East Bay": {
     "lat": 37.8267683,
     "lon": -122.2096725
@@ -3239,7 +3243,7 @@
   "Sunnyside / Glen Park, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 2
+    "retries": 3
   },
   "Sunnyside, San Francisco": {
     "lat": 37.7315849,
