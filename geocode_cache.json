@@ -541,6 +541,10 @@
     "lat": 37.7648857,
     "lon": -122.4393677
   },
+  "Corte Madera, North Bay": {
+    "lat": 37.9254806,
+    "lon": -122.527475
+  },
   "Cow Hallow, San Francisco": {
     "lat": null,
     "lon": null,
@@ -3231,6 +3235,11 @@
   "Stonestown, San Francisco": {
     "lat": 37.7274507,
     "lon": -122.4749029
+  },
+  "Sunnyside / Glen Park, San Francisco": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
   },
   "Sunnyside, San Francisco": {
     "lat": 37.7315849,
