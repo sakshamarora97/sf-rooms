@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T22:15:13.484652",
-  "count": 2727,
+  "updated_at": "2026-09-25T06:14:01.535492",
+  "count": 2729,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -81779,6 +81779,67 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "sublease place 1b1b or room - Month on month",
       "search_snippet_long": "sublease place 1b1b or room - Month on month or long-term. HMU if you have anything available or know of"
+    },
+    {
+      "listing_id": "4724618324439837",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Potrero Hill",
+        "Mission Bay",
+        "Dogpatch",
+        "SOMA",
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a GNC engineer at an aerospace company who is clean, easygoing, and respectful of shared spaces. They enjoy cooking, hiking, and bouldering.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4724618324439837",
+      "posted_at": "Friday 25 September 2026 at 05:47",
+      "first_scraped_at": "2026-09-25T13:00:02.050260+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room or roommates in San Francisco! Hi everyone! I'm",
+      "search_snippet_long": "room or roommates in San Francisco! Hi everyone! I'm moving to SF for a new job. I'm looking for a"
+    },
+    {
+      "listing_id": "2014648439226728",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-25",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Sausalito"
+      ],
+      "area": "North Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "A young, non-smoking couple seeking a 1-bedroom apartment in Sausalito until Christmas. They are very clean and have no pets.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014648439226728",
+      "posted_at": "Friday 25 September 2026 at 04:25",
+      "first_scraped_at": "2026-09-25T13:00:02.050260+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "my girlfriend are looking for a 1 bed apartment",
+      "search_snippet_long": "my girlfriend are looking for a 1 bed apartment around the Sausalito area until Christmas. We are a young couple,"
     }
   ]
 }
