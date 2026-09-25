@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T14:13:06.522442",
-  "count": 2736,
+  "updated_at": "2026-09-25T15:13:20.040904",
+  "count": 2738,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82062,6 +82062,63 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "to live !! Hi all! My name is Erica,",
       "search_snippet_long": "to live !! Hi all! My name is Erica, I'm 28y/o and on the hunt for somewhere to live in"
+    },
+    {
+      "listing_id": "4725090747725928",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 25,
+      "bio": "25-year-old graduate student at USF downtown campus for the next 10 months who enjoys pilates, painting, concerts, and trying matcha, wine, and coffee; seeking a long-term room, preferably with washer/dryer, with a budget up to $1500.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4725090747725928",
+      "posted_at": "Friday 25 September 2026 at 14:36",
+      "first_scraped_at": "2026-09-25T22:00:07.313369+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "long-term room Asap, can move quickly!! Hi, I\u2019m looking",
+      "search_snippet_long": "long-term room Asap, can move quickly!! Hi, I\u2019m looking for a room that anyone may have available or soon, I"
+    },
+    {
+      "listing_id": "2015061859185386",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "2B",
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill",
+        "Yerba Buena"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old Canadian-American professional who recently moved from NYC and works near Salesforce Park. Looking for a place within a 20-minute walk of their office; flexible on 2BR units, temporary sublets, or lease takeovers with a budget up to $4,000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2015061859185386",
+      "posted_at": "Friday 25 September 2026 at 13:56",
+      "first_scraped_at": "2026-09-25T22:00:07.313369+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "27 year old Canadian / American who recently moved",
+      "search_snippet_long": "27 year old Canadian / American who recently moved from nyc to sf. I\u2019m working next to salesforce park and"
     }
   ]
 }
