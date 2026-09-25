@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T21:15:01.772096",
-  "count": 2011,
+  "updated_at": "2026-09-24T22:15:13.447410",
+  "count": 2013,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -62822,6 +62822,71 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "available in a massive 5BR house in Lower Haight",
       "search_snippet_long": "available in a massive 5BR house in Lower Haight / Alamo Square Hey everyone! We're a group of 4 moving"
+    },
+    {
+      "listing_id": "4724220584479611",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1280,
+      "neighborhood": "Outer Mission",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "public_transit",
+        "quiet_hours"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Lily Pad House",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4724220584479611",
+      "posted_at": "Thursday 24 September 2026 at 21:44",
+      "first_scraped_at": "2026-09-25T05:00:04.020499+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "new roommate to join our house! $1280 bedroom overseeing",
+      "search_snippet_long": "new roommate to join our house! $1280 bedroom overseeing the garden in the Lily Pad House - Outer Mission/Excelsior, San"
+    },
+    {
+      "listing_id": "2014338192591086",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Bernal Heights",
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "updated_kitchen",
+        "solar_panels",
+        "street_parking",
+        "near_bart",
+        "near_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014338192591086",
+      "posted_at": "Thursday 24 September 2026 at 20:39",
+      "first_scraped_at": "2026-09-25T05:00:04.020499+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a 4th roommate to join us in",
+      "search_snippet_long": "looking for a 4th roommate to join us in a renovated 4-bed apartment located in Bernal Heights! About the room:"
     }
   ]
 }
