@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T11:13:28.610817",
-  "count": 2733,
+  "updated_at": "2026-09-25T12:14:35.135668",
+  "count": 2735,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -81968,6 +81968,68 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Gaurav, 27, and I just moved to SF from",
       "search_snippet_long": "Gaurav, 27, and I just moved to SF from Boston to start as a Robotics Engineer at an AI startup"
+    },
+    {
+      "listing_id": "2014986775859561",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Pacific Heights",
+        "Duboce Triangle",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent university graduate (23) moving to San Francisco to start a job in FiDi at the end of October. She is social, non-smoking, enjoys exploring the city, restaurants, tennis and barre classes, keeps shared spaces clean, and would occasionally host friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014986775859561",
+      "posted_at": "Friday 25 September 2026 at 11:48",
+      "first_scraped_at": "2026-09-25T19:00:07.199692+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate! Hey! My name is Archana, I'm 23 and",
+      "search_snippet_long": "roommate! Hey! My name is Archana, I'm 23 and just graduated from university! I am originally from the east coast"
+    },
+    {
+      "listing_id": "2014968292528076",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Burlingame",
+        "San Mateo",
+        "Millbrae"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are finishing a master\u2019s at Johns Hopkins and will start a tech job in Burlingame in early 2027. They describe themselves as clean and quiet, enjoy cooking, tennis, working out, and playing video games.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014968292528076",
+      "posted_at": "Friday 25 September 2026 at 11:20",
+      "first_scraped_at": "2026-09-25T19:00:07.199692+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and apartment near Burlingame Hi! I\u2019m recently finishing my",
+      "search_snippet_long": "and apartment near Burlingame Hi! I\u2019m recently finishing my masters at JHU and planning to start a tech job in"
     }
   ]
 }

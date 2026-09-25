@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T11:13:28.573865",
-  "count": 2021,
+  "updated_at": "2026-09-25T12:14:35.098115",
+  "count": 2022,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63145,6 +63145,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "BR in 2BR/2BA shared apartment - Richmond District in",
       "search_snippet_long": "BR in 2BR/2BA shared apartment - Richmond District in SF (Clement & 27th Ave) - Move-In Date: Thu, October 1sr,"
+    },
+    {
+      "listing_id": "4724925491075787",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2090,
+      "neighborhood": "Alamo Square",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "shared_backyard",
+        "bocce_court",
+        "fully_stocked_kitchen",
+        "responsive_management"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4724925491075787",
+      "posted_at": "Friday 25 September 2026 at 11:07",
+      "first_scraped_at": "2026-09-25T19:00:07.199692+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Bath in NOPA/Alamo Square ($2,090/mo) Looking for a 3rd",
+      "search_snippet_long": "Bath in NOPA/Alamo Square ($2,090/mo) Looking for a 3rd roommate to join our ground-floor 3BD/2BA for November 1st move-in (some"
     }
   ]
 }
