@@ -34,7 +34,7 @@
 <!-- Nothing below blocks first paint: stylesheets load as media=print and swap
      in on load; scripts are deferred (they only run on user action — map open,
      sign-in — or after DOMContentLoaded; see initSupabase()). -->
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=optional" rel="stylesheet" media="print" onload="this.media='all'">
 <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" media="print" onload="this.media='all'">
 <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -316,6 +316,10 @@
     -webkit-mask-image: none;
     mask-image: none;
   }
+  /* In the stylesheet, not inline, so the mobile media query can hide it —
+     an inline display:flex overrode that, and the caption filling in after
+     JS render squeezed the tabs onto two lines (the main mobile layout shift). */
+  #table-caption-tab { display: flex; align-items: center; font-size: 12px; color: #9ca3af; font-weight: 500; padding-right: 4px; }
   .table-caption-bar {
     display: flex;
     justify-content: flex-end;
@@ -893,7 +897,7 @@
   <div class="tab" data-tab="seekers">Room Seekers <span class="badge" id="badge-seekers">2727</span></div>
   <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">427</span></div>
   <div class="spacer"></div>
-  <div style="display:flex;align-items:center;font-size:12px;color:#9ca3af;font-weight:500;padding-right:4px" id="table-caption-tab"><span class="live-dot"></span><span id="table-caption" title="&#39;Updated&#39; means SF Rooms checked for new posts at this time — it doesn&#39;t mean every listing has been reconfirmed by the poster."></span></div>
+  <div id="table-caption-tab"><span class="live-dot"></span><span id="table-caption" title="&#39;Updated&#39; means SF Rooms checked for new posts at this time — it doesn&#39;t mean every listing has been reconfirmed by the poster."></span></div>
 </div>
 
 <div class="tab-subtitle" id="tab-subtitle">Available rooms, subleases, and lease takeovers posted by people offering a place.</div>
