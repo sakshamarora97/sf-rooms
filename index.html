@@ -1446,6 +1446,7 @@ function renderListings() {
   const furnished    = $('f-furnished').value;
   const tagFilter    = $('f-tag').value;
   const postedWithinHours = parseInt($('f-posted-within').value) || null;
+  if (!postedWithinHours || tagFilter) ensureFullData();
 
   let rows = allListings.filter(p => {
     if (area && p.area !== area) return false;
@@ -1546,7 +1547,7 @@ function renderListings() {
     </div>`;
   }).join('');
 
-  $('badge-listings').textContent = allListings.length;
+  $('badge-listings').textContent = listingsTotal;
   const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
   $('table-caption').textContent = `${rows.length} listings${updStr}`;
   $('listings-pagination').innerHTML = paginationHtml(listingsPage, totalPages, 'goListingsPage');
@@ -1594,6 +1595,7 @@ function renderSeekers() {
   const maxAge    = parseInt($('sf-age').value) || Infinity;
   const tagFilter = $('sf-tag').value;
   const postedWithinHours = parseInt($('sf-posted-within').value) || null;
+  if (!postedWithinHours || tagFilter) ensureFullData();
 
   let rows = allSeekers.filter(p => {
     if (sfArea && p.area !== sfArea) return false;
@@ -1620,7 +1622,7 @@ function renderSeekers() {
     if (av < bv) return -seekerSortDir; if (av > bv) return seekerSortDir; return 0;
   });
 
-  $('badge-seekers').textContent = allSeekers.length;
+  $('badge-seekers').textContent = seekersTotal;
   const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
   $('table-caption').textContent = `${rows.length} seekers${updStr}`;
 
@@ -1735,7 +1737,7 @@ function renderSpam(posts) {
 
   $('spam-cards').innerHTML = pagePosts.map((p,i) => `
     <div class="card">
-      <div class="card-header"><span class="card-date">${esc(fmtPostedAt(p.posted_at))}</span></div>
+      <div class="card-header"><span class="card-date">${fmtPostedAt(p.posted_at)}</span></div>
       <div class="card-text collapsed" id="spam-text-${i}">${esc(p.text||'')}</div>
       <div style="display:flex;justify-content:space-between;align-items:center">
         <button class="card-expand" onclick="toggleSpam(${i})">Show more</button>
@@ -1763,7 +1765,10 @@ function renderActiveTab() {
   // by another tab's render call.
   if (name === 'listings') renderListings();
   else if (name === 'seekers') renderSeekers();
-  else if (name === 'spam') renderSpam(allSpam);
+  else if (name === 'spam') {
+    if (_spamLoaded) renderSpam(allSpam);
+    else { $('spam-cards').innerHTML = '<div class="empty">Loading…</div>'; ensureSpam(); }
+  }
 }
 
 document.querySelectorAll('.tab').forEach(tab => {
@@ -2222,20 +2227,60 @@ window.submitFeedback = async function() {
 };
 
 // ── Load data ─────────────────────────────────────────────────────────────────
+// First paint uses the small last-30-days files (the default "Posted within"
+// window). The multi-MB full files are only fetched when a view needs older
+// posts ("All time", or a tag/bookmark filter); spam only when its tab opens —
+// which also keeps spam text out of the DOM Google renders for this page.
 let _listingsLoaded = false;
+let _fullLoaded = false, _fullLoading = null;
+let _spamLoaded = false, _spamLoading = null;
+let listingsTotal = 0, seekersTotal = 0;
+
+const fetchJson = name => fetch(DATA_BASE + name).then(r => {
+  if (!r.ok) throw new Error(`${name}: HTTP ${r.status}`);
+  return r.json();
+});
+
+function ensureFullData() {
+  if (_fullLoaded || _fullLoading) return;
+  _fullLoading = Promise.all([fetchJson('listings.json'), fetchJson('seekers.json')])
+    .then(([lData, sData]) => {
+      allListings = lData.posts || [];
+      allSeekers  = sData.posts || [];
+      listingsTotal = allListings.length;
+      seekersTotal  = allSeekers.length;
+      _fullLoaded = true;
+      renderActiveTab();
+    })
+    .catch(e => { console.warn('[load] full data failed:', e); _fullLoading = null; });
+}
+
+function ensureSpam() {
+  if (_spamLoaded || _spamLoading) return;
+  _spamLoading = fetchJson('spam.json')
+    .then(d => {
+      allSpam = d.posts || [];
+      _spamLoaded = true;
+      if (currentTabName() === 'spam') renderSpam(allSpam);
+    })
+    .catch(e => { console.warn('[load] spam failed:', e); _spamLoading = null; });
+}
 
 async function load() {
   console.log('[load] fetching JSON, currentUser=', currentUser?.email || null);
-  const [lData, sData, spData, geoData] = await Promise.all([
-    fetch(DATA_BASE+'listings.json').then(r=>r.json()),
-    fetch(DATA_BASE+'seekers.json').then(r=>r.json()),
-    fetch(DATA_BASE+'spam.json').then(r=>r.json()),
-    fetch(DATA_BASE+'geocode_cache.json').then(r=>r.json()).catch(() => ({})),
+  // Fall back to the full files if the recent ones haven't been published yet.
+  let usedFull = false;
+  const recentOrFull = base => fetchJson(base + '.recent.json')
+    .catch(() => { usedFull = true; return fetchJson(base + '.json'); });
+  const [lData, sData, geoData] = await Promise.all([
+    recentOrFull('listings'),
+    recentOrFull('seekers'),
+    fetchJson('geocode_cache.json').catch(() => ({})),
   ]);
   console.log('[load] JSON ready — listings:', (lData.posts||[]).length, 'seekers:', (sData.posts||[]).length);
   geocodeCache = geoData || {};
 
-  const times = [lData.updated_at, sData.updated_at, spData.updated_at].filter(Boolean).sort();
+  const times = [lData.updated_at, sData.updated_at].filter(Boolean).sort();
   if (times.length) {
     const d = new Date(times[times.length-1]);
     const timeStr = d.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
@@ -2244,12 +2289,13 @@ async function load() {
 
   allListings = lData.posts || [];
   allSeekers  = sData.posts || [];
-  allSpam     = spData.posts || [];
+  listingsTotal = lData.total_count ?? allListings.length;
+  seekersTotal  = sData.total_count ?? allSeekers.length;
+  if (usedFull) _fullLoaded = true;
 
   _listingsLoaded = true;
   renderListings();
   renderSeekers();
-  renderSpam(allSpam);
   renderActiveTab(); // ensure the shared caption reflects the visible tab, not just whichever rendered last
   console.log('[load] rendered');
 
