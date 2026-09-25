@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T07:13:48.192789",
-  "count": 2730,
+  "updated_at": "2026-09-25T08:13:06.591030",
+  "count": 2731,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -81869,6 +81869,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "nurse here! I\u2019ll be moving to San Francisco around",
       "search_snippet_long": "nurse here! I\u2019ll be moving to San Francisco around Nov. 12th/second week of November and I\u2019m looking for furnished housing."
+    },
+    {
+      "listing_id": "2014767319214840",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond",
+        "Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 24,
+      "bio": "Recent SFSU graduate working in retail and merchandising in-person 5\u20136 days/week. Extroverted and considerate, non-smoker with no pets, seeking a calm, non-smoking home with parking and (ideally) in-unit laundry.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014767319214840",
+      "posted_at": "Friday 25 September 2026 at 06:58",
+      "first_scraped_at": "2026-09-25T15:00:04.239687+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Ada (24) and I\u2019m looking for a room to",
+      "search_snippet_long": "Ada (24) and I\u2019m looking for a room to rent in SF Move in: anytime from Oct 1 to the"
     }
   ]
 }
