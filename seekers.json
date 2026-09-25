@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T06:14:01.535492",
-  "count": 2729,
+  "updated_at": "2026-09-25T07:13:48.192789",
+  "count": 2730,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -81840,6 +81840,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "my girlfriend are looking for a 1 bed apartment",
       "search_snippet_long": "my girlfriend are looking for a 1 bed apartment around the Sausalito area until Christmas. We are a young couple,"
+    },
+    {
+      "listing_id": "2014765322548373",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-12",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "entire_unit",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 29,
+      "bio": "She is a 29-year-old travel nurse moving to San Francisco around Nov 12 for work and seeking furnished housing, preferably an entire place but open to renting a room with female roommates. She does not bring pets, prefers a place allowing guests sometimes and parking, and is targeting about $3,000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014765322548373",
+      "posted_at": "Friday 25 September 2026 at 06:56",
+      "first_scraped_at": "2026-09-25T14:00:05.505282+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "nurse here! I\u2019ll be moving to San Francisco around",
+      "search_snippet_long": "nurse here! I\u2019ll be moving to San Francisco around Nov. 12th/second week of November and I\u2019m looking for furnished housing."
     }
   ]
 }
