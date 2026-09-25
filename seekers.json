@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T08:13:06.591030",
-  "count": 2731,
+  "updated_at": "2026-09-25T09:14:12.885938",
+  "count": 2733,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -81871,6 +81871,39 @@
       "search_snippet_long": "nurse here! I\u2019ll be moving to San Francisco around Nov. 12th/second week of November and I\u2019m looking for furnished housing."
     },
     {
+      "listing_id": "2014780975880141",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-10",
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "North Beach",
+        "Hayes Valley",
+        "Mission",
+        "Pacific Heights",
+        "Bayside Village"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 24,
+      "bio": "He is a 24-year-old software engineer relocating from Seattle to San Francisco. He enjoys reading, going to concerts, and playing sports; he cooks frequently and is a tidy roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014780975880141",
+      "posted_at": "Friday 25 September 2026 at 07:15",
+      "first_scraped_at": "2026-09-25T15:00:04.239687+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "or roommates Hi! I'm looking for a roommate to",
+      "search_snippet_long": "or roommates Hi! I'm looking for a roommate to share a 2b2b starting 10th October. Budget: ~3k/month flexible for my"
+    },
+    {
       "listing_id": "2014767319214840",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -81898,6 +81931,43 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Ada (24) and I\u2019m looking for a room to",
       "search_snippet_long": "Ada (24) and I\u2019m looking for a room to rent in SF Move in: anytime from Oct 1 to the"
+    },
+    {
+      "listing_id": "28437787625878522",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "Pacific Heights",
+        "Marina",
+        "Noe Valley",
+        "Potrero Hill",
+        "Mission Bay",
+        "South Beach",
+        "Haight",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old robotics engineer starting at an AI startup in Union Square, previously a software engineer in India with a Master's from Northeastern. Tidy, low-key, longtime roommate, non-smoker, in the office about three days a week; looking for a private room or a roommate to team up with.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28437787625878522",
+      "posted_at": "Friday 25 September 2026 at 05:43",
+      "first_scraped_at": "2026-09-25T16:00:07.472926+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Gaurav, 27, and I just moved to SF from",
+      "search_snippet_long": "Gaurav, 27, and I just moved to SF from Boston to start as a Robotics Engineer at an AI startup"
     }
   ]
 }
