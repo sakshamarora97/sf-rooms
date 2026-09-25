@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T19:14:17.904724",
-  "count": 2008,
+  "updated_at": "2026-09-24T20:15:01.000250",
+  "count": 2009,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -62703,7 +62703,33 @@
       "search_snippet_long": "1 BA Available now in Temescal, Oakland *PROPERTY DETAILS* 4722 Shattuck Ave Oakland, CA 94609-2033 - Available: Now - Bedrooms:"
     },
     {
-      "listing_id": "37e43569b698b638",
+      "listing_id": "4724130931155243",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Alamo Square",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2026-10-10",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4724130931155243",
+      "posted_at": "Thursday 24 September 2026 at 19:59",
+      "first_scraped_at": "2026-09-25T03:00:02.134061+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in a beautiful house next to Alamo Square park",
+      "search_snippet_long": "in a beautiful house next to Alamo Square park Oct 1-10 during tech week SF! https://docs.google.com/document/d/1JmeZoZT44tfvo4Qsi9hM224DuPjnGO8sTBLzE6PkgPA/edit?usp=sharing"
+    },
+    {
+      "listing_id": "4724082347826768",
       "post_type": "listing",
       "listing_type": "entire_unit",
       "duration_type": "long_term",
@@ -62715,7 +62741,7 @@
       "unit_config": "studio",
       "room_type": "studio",
       "is_furnished": null,
-      "roommates_count": 0,
+      "roommates_count": null,
       "amenities": [
         "in_unit_laundry",
         "gym",
@@ -62725,10 +62751,10 @@
       "utilities_included": null,
       "pets_allowed": null,
       "gender_preference": null,
-      "building_name": "Avalon at Mission Bay",
-      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100088499534045",
-      "posted_at": null,
-      "first_scraped_at": "2026-09-25T02:00:07.656082+00:00",
+      "building_name": "Avalon Mission Bay",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4724082347826768",
+      "posted_at": "Thursday 24 September 2026 at 18:57",
+      "first_scraped_at": "2026-09-25T03:00:02.134061+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Studio - Move in specials + extra $1000 from",
       "search_snippet_long": "Studio - Move in specials + extra $1000 from me Hi everyone! I\u2019m looking for someone interested in leasing my"
