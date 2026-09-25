@@ -18,7 +18,7 @@
   "22nd St Caltrain, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "22nd Street (San Francisco), San Francisco": {
     "lat": 37.757286,
@@ -51,7 +51,7 @@
   "5th and Clement, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "8th & Market (SoMa), San Francisco": {
     "lat": 37.7788061,
@@ -78,9 +78,8 @@
     "lon": -122.2559026
   },
   "Adams Point, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.810403,
+    "lon": -122.2559026
   },
   "Alabama Street, San Francisco": {
     "lat": 37.7504963,
@@ -97,7 +96,7 @@
   "Alamo Square / Painted Ladies, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Alamo Square Park, San Francisco": {
     "lat": 37.7763599,
@@ -110,7 +109,7 @@
   "Alamo Square/Painted Ladies, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Alamo, San Francisco": {
     "lat": 37.7839902,
@@ -119,7 +118,7 @@
   "Alamo/NoPa, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Albany, East Bay": {
     "lat": 37.8871621,
@@ -140,7 +139,7 @@
   "Arch St (near Stonestown / SFSU), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Arch St, San Francisco": {
     "lat": 37.7119684,
@@ -153,7 +152,7 @@
   "Ashbury Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Ashbury, San Francisco": {
     "lat": 37.76715,
@@ -170,12 +169,12 @@
   "Avery Apts, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "BART line, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Baker Beach, San Francisco": {
     "lat": 37.7931227,
@@ -184,7 +183,7 @@
   "Balboa Park / City College, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Balboa Park, San Francisco": {
     "lat": 37.7214274,
@@ -195,9 +194,8 @@
     "lon": -122.2588768
   },
   "Barron Park, Palo Alto, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4124668,
+    "lon": -122.1329481
   },
   "Bay Area, San Francisco": {
     "lat": 37.7884969,
@@ -254,17 +252,17 @@
   "Berkeley (Haste & MLK), East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Berkeley (university area), East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Berkeley / Marina Bay, East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Berkeley Hills, East Bay": {
     "lat": 37.9032501,
@@ -287,9 +285,8 @@
     "lon": -122.4142136
   },
   "Bernal Heights, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7410008,
+    "lon": -122.4142136
   },
   "Bernal, San Francisco": {
     "lat": 37.7410008,
@@ -310,7 +307,7 @@
   "Brendel Hieghts, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Brentwood, East Bay": {
     "lat": 37.8146891,
@@ -331,12 +328,11 @@
   "Burlingame (downtown), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Burlingame, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.5815147,
+    "lon": -122.3498706
   },
   "Burlingame, South Bay": {
     "lat": 37.3109743,
@@ -349,7 +345,7 @@
   "Bush & Jones, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Bush St, San Francisco": {
     "lat": 37.7902718,
@@ -358,7 +354,7 @@
   "California St near Filmore, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Caltrain Stations, San Francisco": {
     "lat": 37.7759911,
@@ -367,12 +363,12 @@
   "Caltrain corridor, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Caltrain line, South Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Cambrian Park, South Bay": {
     "lat": 37.2564151,
@@ -405,7 +401,7 @@
   "Castro/Corona Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Castro/Duboce, San Francisco": {
     "lat": 37.769203,
@@ -414,7 +410,7 @@
   "Castro/Twin Peaks, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Catalyst, South Bay": {
     "lat": 37.3307354,
@@ -431,7 +427,7 @@
   "Central Richmond (19th & Balboa), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Central Richmond, San Francisco": {
     "lat": 37.7972787,
@@ -444,12 +440,12 @@
   "Central Sunset (20th & Kirkham), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Central Sunset, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "China Basin, San Francisco": {
     "lat": 37.7771799,
@@ -470,17 +466,17 @@
   "Civi Center, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Civic Center / 55 9th St, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Civic Center / Hayes Valley, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Civic Center, San Francisco": {
     "lat": 37.7795939,
@@ -491,14 +487,13 @@
     "lon": -122.452872
   },
   "Coal Valley, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.3537417,
+    "lon": -122.2089743
   },
   "Coe Hollow, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Cole Valley / Haight, San Francisco": {
     "lat": 37.7658133,
@@ -535,7 +530,7 @@
   "Corona Heights / Clarendon Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Corona Heights, San Francisco": {
     "lat": 37.7648857,
@@ -548,7 +543,7 @@
   "Cow Hallow, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Cow Hollow / Marina, San Francisco": {
     "lat": 37.7972616,
@@ -577,7 +572,7 @@
   "Croker Park, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Cupertino, South Bay": {
     "lat": 37.3228934,
@@ -586,36 +581,34 @@
   "Dali City, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Daly City - Pacifica Views, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Daly City / Pacifica, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Daly City border, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Daly City, East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.6904826,
+    "lon": -122.47267
   },
   "Daly City, San Francisco": {
     "lat": 37.7067194,
     "lon": -122.4614201
   },
   "Daly City, South Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.6904826,
+    "lon": -122.47267
   },
   "Daly City, The Peninsula": {
     "lat": 37.6904826,
@@ -624,7 +617,7 @@
   "Design District (Showplace Square), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Design District, San Francisco": {
     "lat": 37.7879858,
@@ -655,14 +648,13 @@
     "lon": -122.4408796
   },
   "Dog Patch, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7606977,
+    "lon": -122.3892016
   },
   "Dogpatch / Potrero Hill / Bernal Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Dogpatch, San Francisco": {
     "lat": 37.7606977,
@@ -695,12 +687,12 @@
   "Downtown (Embarcadero), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Downtown / Salesforce Tower area, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Downtown Berkeley, East Bay": {
     "lat": 37.8701007,
@@ -721,16 +713,15 @@
   "Downtown Oakland (17th & Broadway), East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Downtown Oakland, East Bay": {
     "lat": 37.8043196,
     "lon": -122.2711889
   },
   "Downtown Oakland, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.8036295,
+    "lon": -122.2715244
   },
   "Downtown Redwood City, The Peninsula": {
     "lat": 37.4854375,
@@ -751,7 +742,7 @@
   "Downtown Sunnyvale, South Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Downtown, San Francisco": {
     "lat": 37.7875138,
@@ -780,7 +771,7 @@
   "Dubose Triangle, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "East Bay, East Bay": {
     "lat": 37.6555236,
@@ -805,12 +796,12 @@
   "East Cut/South Financial District, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "East Industrial, East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "East Mission / Potrero Hill, San Francisco": {
     "lat": 37.7624837,
@@ -843,12 +834,12 @@
   "East side of SF, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "East side of San Francisco, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Eastern San Francisco, San Francisco": {
     "lat": 37.7827673,
@@ -863,9 +854,8 @@
     "lon": -122.2995487
   },
   "El Sobrante, East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.9744635,
+    "lon": -122.3057294
   },
   "Elgin Park, San Francisco": {
     "lat": 37.770654,
@@ -874,12 +864,12 @@
   "Embarcadero / FiDi, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Embarcadero / North Waterfront, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Embarcadero, San Francisco": {
     "lat": 37.792855,
@@ -888,16 +878,15 @@
   "Embracadero, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Emeryville, East Bay": {
     "lat": 37.8314089,
     "lon": -122.2865266
   },
   "Emeryville, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.8314089,
+    "lon": -122.2865266
   },
   "Eureka Valley, San Francisco": {
     "lat": 37.7609556,
@@ -910,21 +899,20 @@
   "FDI, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "FIDI, San Francisco": {
     "lat": 37.7855373,
     "lon": -122.3963944
   },
   "FIDI, South Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7855373,
+    "lon": -122.3963944
   },
   "Fell and Central Ave, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Ferry Building / Embarcadero, San Francisco": {
     "lat": 37.7955487,
@@ -933,7 +921,7 @@
   "Ferry Building Marketplace, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 1
+    "retries": 0
   },
   "Ferry Building, San Francisco": {
     "lat": 37.7955487,
@@ -950,31 +938,29 @@
   "FiDi / Downtown / SoMa, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "FiDi / North Waterfront, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "FiDi, East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7855373,
+    "lon": -122.3963944
   },
   "FiDi, San Francisco": {
     "lat": 37.7855373,
     "lon": -122.3963944
   },
   "FiDi, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7855373,
+    "lon": -122.3963944
   },
   "FiDi/Downtown, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Fidi, San Francisco": {
     "lat": 37.7855373,
@@ -991,7 +977,7 @@
   "Fillmore area, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Fillmore, San Francisco": {
     "lat": 37.7720799,
@@ -1000,17 +986,17 @@
   "Financial District (FiDi), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Financial District (within 30 minute commute), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Financial District area, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Financial District, San Francisco": {
     "lat": 37.7936467,
@@ -1019,7 +1005,7 @@
   "Financial District/Rincon Hill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Fisherman Wharf, San Francisco": {
     "lat": 37.8081325,
@@ -1034,9 +1020,8 @@
     "lon": -122.4165913
   },
   "Forest Hills, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 38.5079678,
+    "lon": -122.9244402
   },
   "Forest Knolls, San Francisco": {
     "lat": 37.7542725,
@@ -1081,7 +1066,7 @@
   "Geary area, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Glen Canyon / Diamond Heights, San Francisco": {
     "lat": 37.7366825,
@@ -1098,7 +1083,7 @@
   "Golden Gate Bridge area, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Golden Gate Heights / Inner Sunset, San Francisco": {
     "lat": 37.7545947,
@@ -1135,7 +1120,7 @@
   "Haight Ashbury / Panhandle, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Haight Ashbury, San Francisco": {
     "lat": 37.770028,
@@ -1154,9 +1139,8 @@
     "lon": -122.446982
   },
   "Haight-Ashbury, North Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.770028,
+    "lon": -122.446982
   },
   "Haight-Ashbury, San Francisco": {
     "lat": 37.770028,
@@ -1173,7 +1157,7 @@
   "Haights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Hayes (Hayes Valley), San Francisco": {
     "lat": 37.7765747,
@@ -1198,7 +1182,7 @@
   "Hayes Valley, Nob Hill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Hayes Valley, San Francisco": {
     "lat": 37.7766853,
@@ -1211,7 +1195,7 @@
   "Hayward (near Cal State East Bay), East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Hayward, East Bay": {
     "lat": 37.6688205,
@@ -1228,12 +1212,12 @@
   "Height, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Hell's Kitchen, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Hillsborough, South Bay": {
     "lat": 37.3105802,
@@ -1274,12 +1258,12 @@
   "Ingleside Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Ingleside Terrace, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Ingleside, San Francisco": {
     "lat": 37.721932,
@@ -1288,12 +1272,12 @@
   "Inner / Central Sunset, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Inner Mission, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Inner Parkside, San Francisco": {
     "lat": 37.7521586,
@@ -1302,12 +1286,12 @@
   "Inner Richmond (5th & Clement), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Inner Richmond / Lone Mountain, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Inner Richmond, San Francisco": {
     "lat": 37.7786189,
@@ -1316,12 +1300,12 @@
   "Inner Sundet, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Inner Sunset / Cole Valley, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Inner Sunset, San Francisco": {
     "lat": 37.76145,
@@ -1330,7 +1314,7 @@
   "Irving & 28th, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Jackson Square, San Francisco": {
     "lat": 37.7967564,
@@ -1347,12 +1331,12 @@
   "Japantown / Hayes Valley, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Japantown / Hayes, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Japantown, San Francisco": {
     "lat": 37.7855789,
@@ -1373,12 +1357,12 @@
   "LES": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "LES, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lafayette Park, San Francisco": {
     "lat": 37.7914551,
@@ -1393,9 +1377,8 @@
     "lon": -122.2562502
   },
   "Lake Merritt, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.804621,
+    "lon": -122.2562502
   },
   "Lakeshore, San Francisco": {
     "lat": 37.7330235,
@@ -1426,9 +1409,8 @@
     "lon": -122.4015046
   },
   "Linda Mar, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.5954929,
+    "lon": -122.4941424
   },
   "Little Italy": {
     "lat": 37.3359545,
@@ -1437,7 +1419,7 @@
   "Little Russia, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Livermore, East Bay": {
     "lat": 37.6820583,
@@ -1446,12 +1428,12 @@
   "Lombard area, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lone Mountain / NoPa, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lone Mountain, San Francisco": {
     "lat": 37.7790963,
@@ -1462,14 +1444,13 @@
     "lon": -122.3361021
   },
   "Low Pac Heights, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7857666,
+    "lon": -122.4389042
   },
   "Lower Chinatown, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Lower Dimond District, Oakland, East Bay": {
     "lat": 37.8038437,
@@ -1478,21 +1459,20 @@
   "Lower East Side": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lower Haight / Hayes Valley, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lower Haight, San Francisco": {
     "lat": 37.7722602,
     "lon": -122.4330181
   },
   "Lower Marina, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.9458998,
+    "lon": -122.5269442
   },
   "Lower Mission, San Francisco": {
     "lat": 37.7632688,
@@ -1501,7 +1481,7 @@
   "Lower Nob Hill / Polk Gulch (Polk Village), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lower Nob Hill, San Francisco": {
     "lat": 37.7884163,
@@ -1510,32 +1490,31 @@
   "Lower PAC, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lower Pac Heights / Japantown / Fillmore District, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Lower Pac Heights, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7857666,
+    "lon": -122.4389042
   },
   "Lower Pac, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lower Pacific Heights / Japantown, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lower Pacific Heights / Polk Gulch, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lower Pacific Heights, San Francisco": {
     "lat": 37.7857666,
@@ -1552,12 +1531,12 @@
   "Lower Russian Hill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Lumina Tower, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Madrone, South Bay": {
     "lat": 37.1505008,
@@ -1568,14 +1547,13 @@
     "lon": -122.4399758
   },
   "Manhattan, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4307748,
+    "lon": -122.4399758
   },
   "Marin County (south of Corte Madera), North Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Marin County, North Bay": {
     "lat": 38.0060944,
@@ -1588,7 +1566,7 @@
   "Marin Hills, North Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Marin, North Bay": {
     "lat": 37.9507726,
@@ -1609,7 +1587,7 @@
   "Marina District / Presidio / Cow Hollow, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Marina District, San Francisco": {
     "lat": 37.8029843,
@@ -1630,7 +1608,7 @@
   "Market & Valencia (near Hayes Valley), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Market Square, San Francisco": {
     "lat": 37.7767159,
@@ -1647,7 +1625,7 @@
   "Market and 5th, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mateo, San Francisco": {
     "lat": 37.7365394,
@@ -1662,9 +1640,8 @@
     "lon": -122.4175419
   },
   "Menlo Park, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4519671,
+    "lon": -122.177992
   },
   "Menlo Park, South Bay": {
     "lat": 37.399015,
@@ -1707,9 +1684,8 @@
     "lon": -122.5449763
   },
   "Millbrae, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.598958,
+    "lon": -122.400941
   },
   "Millbrae, South Bay": {
     "lat": 37.3097897,
@@ -1738,32 +1714,32 @@
   "Mission (14th St & Valencia St), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Mission (23rd & Guerrero), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission (24th/Cesar Chavez), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission (Harrison St between 22nd and 23rd), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission (west of Valencia or east of Folsom), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission / 22nd & Capp, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission / Bernal Heights, San Francisco": {
     "lat": 37.7468127,
@@ -1780,7 +1756,7 @@
   "Mission Bay / Design District, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission Bay / Dogpatch, San Francisco": {
     "lat": 37.7634358,
@@ -1797,16 +1773,15 @@
   "Mission Bay / South Beach, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission Bay, San Francisco": {
     "lat": 37.7707742,
     "lon": -122.3911712
   },
   "Mission Bay, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7707742,
+    "lon": -122.3911712
   },
   "Mission Creek, San Francisco": {
     "lat": 37.7692261,
@@ -1815,22 +1790,22 @@
   "Mission District (eastern side), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission District (south Mission near 25th & Potrero), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission District / Bernal Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Mission District / Noe Valley, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Mission District / Potrero Hill, San Francisco": {
     "lat": 37.7524984,
@@ -1847,17 +1822,17 @@
   "Mission Dolores (20th & Church), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission Dolores / Dolores Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Mission Dolores / Noe Valley, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission Dolores Park / Mission District, San Francisco": {
     "lat": 37.7597203,
@@ -1890,7 +1865,7 @@
   "Mission district of Mariana, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Mission district, San Francisco": {
     "lat": 37.7524984,
@@ -1933,9 +1908,8 @@
     "lon": -122.2341716
   },
   "Mountain View, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.3893889,
+    "lon": -122.0832101
   },
   "Mountain View, South Bay": {
     "lat": 37.3893889,
@@ -1948,7 +1922,7 @@
   "NOPA / Lower Pacific Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "NOPA, San Francisco": {
     "lat": 37.7768823,
@@ -1965,57 +1939,55 @@
   "Near 321 Alabama St, San Francisco, CA 94110, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Near Caltrain, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Near City College of San Francisco, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Near SFO, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Near SFSU, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7245167,
+    "lon": -122.4799957
   },
   "Near San Francisco State University / MUNI / BART, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Near San Francisco State University, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7245167,
+    "lon": -122.4799957
   },
   "Near USF (2130 Fulton St.), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Near USF (2130 Fulton Street), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Near USF, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Near University of San Francisco (USF), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Newark, East Bay": {
     "lat": 37.5296593,
@@ -2032,7 +2004,7 @@
   "NoPa / Pacific Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "NoPa, San Francisco": {
     "lat": 37.7768823,
@@ -2049,17 +2021,17 @@
   "Nob Hill / FiDi, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Nob Hill / Lower Pacific Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Nob Hill / Pacific Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Nob Hill / Polk Gulch, San Francisco": {
     "lat": 37.7887057,
@@ -2068,7 +2040,7 @@
   "Nob Hill / Russian Hill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Nob Hill, San Francisco": {
     "lat": 37.7944792,
@@ -2085,7 +2057,7 @@
   "Nobhill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Noe (Noe Valley), San Francisco": {
     "lat": 37.7514069,
@@ -2094,16 +2066,15 @@
   "Noe Valley / Japantown, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Noe Valley, San Francisco": {
     "lat": 37.7515906,
     "lon": -122.4320814
   },
   "Noe Valley, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7515906,
+    "lon": -122.4320814
   },
   "Nopa, San Francisco": {
     "lat": 37.7768823,
@@ -2120,12 +2091,12 @@
   "North Beach / Coit Tower / Telegraph Hill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "North Beach / Little Italy, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "North Beach / Russian Hill, San Francisco": {
     "lat": 37.8027053,
@@ -2154,12 +2125,11 @@
   "North Fort Scott (Presidio), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "North Mission District, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.5210507,
+    "lon": -121.927111
   },
   "North Mission, San Francisco": {
     "lat": 37.7712075,
@@ -2170,9 +2140,8 @@
     "lon": -122.2638015
   },
   "North Oakland, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.8406581,
+    "lon": -122.2638015
   },
   "North Panhandle, San Francisco": {
     "lat": 37.7768823,
@@ -2187,9 +2156,8 @@
     "lon": -122.418975
   },
   "North San Francisco, North Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.8097487,
+    "lon": -122.4104493
   },
   "North San Francisco, San Francisco": {
     "lat": 37.8097487,
@@ -2200,9 +2168,8 @@
     "lon": -121.9205071
   },
   "North Waterfront, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 38.1010742,
+    "lon": -122.2700069
   },
   "North of Panhandle, San Francisco": {
     "lat": 37.7768823,
@@ -2211,22 +2178,21 @@
   "North of the Panhandle, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Northern Bernal Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Northern Castro, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Northern Oakland, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.8023713,
+    "lon": -122.2640751
   },
   "Northern San Francisco, San Francisco": {
     "lat": 37.7887644,
@@ -2235,7 +2201,7 @@
   "Northfield Beach, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Northwest San Francisco, San Francisco": {
     "lat": 37.7983796,
@@ -2244,7 +2210,7 @@
   "Oakland (Lake Merritt / Lakeshore Ave), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Oakland (Temescal), East Bay": {
     "lat": 37.8382906,
@@ -2253,12 +2219,11 @@
   "Oakland Hills (Broadway Terrace), East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Oakland Hills, North Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.8050455,
+    "lon": -122.1792233
   },
   "Oakland Lakeshore, East Bay": {
     "lat": 37.8102993,
@@ -2279,7 +2244,7 @@
   "Ocean Ave / City College (Ingleside), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Ocean Ave, San Francisco": {
     "lat": 37.7229501,
@@ -2312,7 +2277,7 @@
   "Outer Mission / Excelsior, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Outer Mission, San Francisco": {
     "lat": 37.7138354,
@@ -2325,7 +2290,7 @@
   "Outer Sunset / Parkside, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Outer Sunset, San Francisco": {
     "lat": 37.7541496,
@@ -2342,7 +2307,7 @@
   "Pac Heights/Lower Pac Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Pac, San Francisco": {
     "lat": 37.7887529,
@@ -2363,12 +2328,11 @@
   "Pacific Heights/Lafayette Park, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Pacifica Manor, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.6492489,
+    "lon": -122.492666
   },
   "Pacifica, San Francisco": {
     "lat": 37.6329093,
@@ -2381,7 +2345,7 @@
   "Pakye Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Palm Park, Redwood City, The Peninsula": {
     "lat": 37.4708062,
@@ -2414,17 +2378,17 @@
   "Panhandle (near Divisadero / Golden Gate Park), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Panhandle / Page St (near Cole Valley), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Panhandle East, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Panhandle, San Francisco": {
     "lat": 37.7724029,
@@ -2445,7 +2409,7 @@
   "Parkmerced, Daly City, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Parkmerced, San Francisco": {
     "lat": 37.7171762,
@@ -2454,21 +2418,20 @@
   "Parkside (Lower Outer Sunset), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Parkside, San Francisco": {
     "lat": 37.742375,
     "lon": -122.4874401
   },
   "Parmerced, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7171762,
+    "lon": -122.4789473
   },
   "Parnassus Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Parnassus, San Francisco": {
     "lat": 37.7652671,
@@ -2477,7 +2440,7 @@
   "Patrola, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Peninsula, San Francisco": {
     "lat": 37.7112938,
@@ -2510,7 +2473,7 @@
   "Pine Street area, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Pleasant Hill, East Bay": {
     "lat": 37.654352,
@@ -2521,14 +2484,13 @@
     "lon": -121.8746789
   },
   "Point Richmond, East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.9262904,
+    "lon": -122.3857153
   },
   "Polk & California (near Lafayette Park), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Polk Gulch (Lower Nob Hill), San Francisco": {
     "lat": 37.7898562,
@@ -2569,32 +2531,31 @@
   "Portrero Hill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Portrero Hills, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Portrero, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 38.015184,
+    "lon": -122.7001581
   },
   "Potero Hill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Potrero Hill (east side, near 22nd Street station), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Potrero Hill / Dogpatch, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Potrero Hill / Mission District, San Francisco": {
     "lat": 37.75633,
@@ -2607,7 +2568,7 @@
   "Potrero Hill/Dogpatch, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Potrero, San Francisco": {
     "lat": 37.7565834,
@@ -2620,7 +2581,7 @@
   "Potrero/Dogpatch, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Precita Heights, San Francisco": {
     "lat": 37.7470932,
@@ -2633,7 +2594,7 @@
   "Presidio / near One Letterman Drive, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Presidio Heights, San Francisco": {
     "lat": 37.7887511,
@@ -2648,19 +2609,16 @@
     "lon": -122.4472343
   },
   "Professorville, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4414895,
+    "lon": -122.1521587
   },
   "Redwood City Downtown, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4854375,
+    "lon": -122.2277882
   },
   "Redwood City, East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4863239,
+    "lon": -122.232523
   },
   "Redwood City, San Francisco": {
     "lat": 37.7803575,
@@ -2709,7 +2667,7 @@
   "Rincon Hill / East Cut, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Rincon Hill / South Beach, San Francisco": {
     "lat": 37.7824852,
@@ -2744,9 +2702,8 @@
     "lon": -122.4695288
   },
   "Rohnert Park, North Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 38.3396367,
+    "lon": -122.701098
   },
   "Rose Garden, San Jose, South Bay": {
     "lat": 37.3339826,
@@ -2765,9 +2722,8 @@
     "lon": -122.417094
   },
   "Russian Hill, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.8000729,
+    "lon": -122.417094
   },
   "Russian hill, San Francisco": {
     "lat": 37.8000729,
@@ -2778,9 +2734,8 @@
     "lon": -122.4164229
   },
   "SF Bay Area, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.6171949,
+    "lon": -122.3810622
   },
   "SF city, San Francisco": {
     "lat": 37.7866963,
@@ -2815,23 +2770,21 @@
     "lon": -122.3839894
   },
   "SFSU area, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7245167,
+    "lon": -122.4799957
   },
   "SFSU, San Francisco": {
     "lat": 37.7239724,
     "lon": -122.4768133
   },
   "SJ, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.2755535,
+    "lon": -121.9228654
   },
   "SOMA / Hayes Valley, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "SOMA, San Francisco": {
     "lat": 37.7808925,
@@ -2840,17 +2793,16 @@
   "SOMA/Hayes, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "SSF, South Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.6697911,
+    "lon": -122.4175869
   },
   "SSF/Daly City/Colma, South Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Sacramento": {
     "lat": 38.5810606,
@@ -2869,9 +2821,8 @@
     "lon": -122.3968627
   },
   "San Antonio (Mountain View), The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4074107,
+    "lon": -122.1072412
   },
   "San Bruno, San Francisco": {
     "lat": 37.7275058,
@@ -2896,12 +2847,12 @@
   "San Francisco (2075 Sutter St, 94115), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "San Francisco (east/central), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "San Francisco Bay Area, San Francisco": {
     "lat": 37.7884969,
@@ -2910,7 +2861,7 @@
   "San Francisco County Hospital, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "San Francisco County, San Francisco": {
     "lat": 37.7866963,
@@ -2919,7 +2870,7 @@
   "San Francisco Opera House, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "San Francisco State University, San Francisco": {
     "lat": 37.7245167,
@@ -3030,14 +2981,12 @@
     "lon": -122.485469
   },
   "Sausalito, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.8590272,
+    "lon": -122.485469
   },
   "Shadowhawk (Danville), East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7965134,
+    "lon": -121.9194483
   },
   "Sherwood Forest, San Francisco": {
     "lat": 37.7496978,
@@ -3072,9 +3021,8 @@
     "lon": -122.4009518
   },
   "SoMa, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7808925,
+    "lon": -122.4009518
   },
   "Soma Square, San Francisco": {
     "lat": 37.7836831,
@@ -3091,7 +3039,7 @@
   "Soma/South Park, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "South Bay, East Bay": {
     "lat": 37.74778,
@@ -3116,7 +3064,7 @@
   "South Beach / near 4th & King, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "South Beach, San Francisco": {
     "lat": 37.7798139,
@@ -3125,7 +3073,7 @@
   "South Beach/East Cut, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "South Berkeley, East Bay": {
     "lat": 37.857735,
@@ -3136,14 +3084,12 @@
     "lon": -122.0569501
   },
   "South Pacific Heights, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7927171,
+    "lon": -122.4356445
   },
   "South Palo Alto, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4423905,
+    "lon": -122.1643648
   },
   "South Park, San Francisco": {
     "lat": 37.7815898,
@@ -3154,9 +3100,8 @@
     "lon": -122.421408
   },
   "South SF, South Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7718367,
+    "lon": -122.4164222
   },
   "South SF, The Peninsula": {
     "lat": 37.7090586,
@@ -3167,9 +3112,8 @@
     "lon": -122.4164222
   },
   "South San Francisco Downtown, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7874729,
+    "lon": -122.407867
   },
   "South San Francisco, San Francisco": {
     "lat": 37.6548559,
@@ -3190,12 +3134,12 @@
   "South Side Berkeley, East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "South of Jack London sq. Oakland, East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "South of Market (SoMa), San Francisco": {
     "lat": 37.7887057,
@@ -3208,7 +3152,7 @@
   "Southern Hills, Daly City, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "St. Francis, Daly City, The Peninsula": {
     "lat": 37.6981139,
@@ -3227,14 +3171,13 @@
     "lon": -122.1888461
   },
   "Stonestown (near SFSU, Junipero Serra Blvd), San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7274507,
+    "lon": -122.4749029
   },
   "Stonestown / Near SFSU, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Stonestown, San Francisco": {
     "lat": 37.7274507,
@@ -3243,16 +3186,15 @@
   "Sunnyside / Glen Park, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Sunnyside, San Francisco": {
     "lat": 37.7315849,
     "lon": -122.4408912
   },
   "Sunnyvale, East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.3688301,
+    "lon": -122.036349
   },
   "Sunnyvale, San Francisco": {
     "lat": 37.368513,
@@ -3263,9 +3205,8 @@
     "lon": -122.036349
   },
   "Sunnyvale, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.3688301,
+    "lon": -122.036349
   },
   "Sunset / Parkside, San Francisco": {
     "lat": 37.7425629,
@@ -3330,7 +3271,7 @@
   "The Glen (Hayward), East Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "The Haight, San Francisco": {
     "lat": 37.7701006,
@@ -3343,7 +3284,7 @@
   "The Mission (Valencia Street / Dolores Park), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "The Mission District, San Francisco": {
     "lat": 37.767859,
@@ -3354,14 +3295,12 @@
     "lon": -122.3897902
   },
   "The Peninsula, East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.6004566,
+    "lon": -122.3856754
   },
   "The Peninsula, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.6004566,
+    "lon": -122.3856754
   },
   "The Presidio, San Francisco": {
     "lat": 37.7987926,
@@ -3394,7 +3333,7 @@
   "UCSF Stanyan Hospital, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "UCSF, San Francisco": {
     "lat": 37.7627257,
@@ -3403,7 +3342,7 @@
   "UES": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "USF, San Francisco": {
     "lat": 37.7793627,
@@ -3412,7 +3351,7 @@
   "UT West Campus, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Union City, East Bay": {
     "lat": 37.5872576,
@@ -3441,22 +3380,21 @@
   "Union Street area, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "University Ave / Downtown North, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.4495628,
+    "lon": -122.1581986
   },
   "University of San Francisco (USF), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "University of San Francisco / Close to Main Campus, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "University of San Francisco, San Francisco": {
     "lat": 37.7793627,
@@ -3481,7 +3419,7 @@
   "Upper Pac Heights, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Uptown, San Francisco": {
     "lat": 37.7784019,
@@ -3490,7 +3428,7 @@
   "Valencia Corridor, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Valencia St, Mission District, San Francisco": {
     "lat": 37.765011,
@@ -3515,7 +3453,7 @@
   "Van Ness corridor (near Hayes Valley), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Van Ness, San Francisco": {
     "lat": 37.7751897,
@@ -3542,14 +3480,12 @@
     "lon": -122.4097128
   },
   "Visitacion Valley, The Peninsula": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7121319,
+    "lon": -122.4097128
   },
   "Walnut Creek, East Bay": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.9020731,
+    "lon": -122.0618702
   },
   "Warm Springs, East Bay": {
     "lat": 37.5019913,
@@ -3586,12 +3522,12 @@
   "West of Twin Peaks, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "West/Southwest Manhattan": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Western Addition, San Francisco": {
     "lat": 37.779559,
@@ -3604,7 +3540,7 @@
   "Western Potrero Hill, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Westlake, Daly City, The Peninsula": {
     "lat": 37.6977107,
@@ -3629,7 +3565,7 @@
   "Yerba Buena / South FiDi, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "Yerba Buena, San Francisco": {
     "lat": 37.7822253,
@@ -3638,17 +3574,17 @@
   "Yerba Burna, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "Zuckerberg San Francisco General Hospital (2540 23rd Street, San Francisco), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "any, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "central San Francisco, San Francisco": {
     "lat": 37.7865463,
@@ -3657,7 +3593,7 @@
   "central area of SF, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "central sf, San Francisco": {
     "lat": 37.7871881,
@@ -3666,12 +3602,12 @@
   "close to USFCA, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "close to caltrain, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "cole valley, San Francisco": {
     "lat": 37.7658133,
@@ -3708,12 +3644,11 @@
   "east side of San Francisco, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "east side, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.3817621,
+    "lon": -121.8532528
   },
   "eastern San Francisco, San Francisco": {
     "lat": 37.7827673,
@@ -3744,9 +3679,8 @@
     "lon": -122.4510402
   },
   "lower pac heights, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7857666,
+    "lon": -122.4389042
   },
   "lower pacific heights, San Francisco": {
     "lat": 37.7857666,
@@ -3767,112 +3701,111 @@
   "near 156 2nd St, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near 22nd Street Caltrain, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near 33/43/5R bus lines, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near 4th & King Caltrain, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near BART station, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near BART, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near CA-237 & I-880, South Bay": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near CCSF, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Caltrain (4th & King or 22nd St), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Caltrain station, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near Caltrain stations": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Caltrain stations, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near Caltrain stop, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Caltrain, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Caltrain, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Geary & Divisadero (Kaiser), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Golden Gate Park, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Muni M line, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near SF parks, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near SFO, The Peninsula": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near SFSU, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7245167,
+    "lon": -122.4799957
   },
   "near Salesforce Tower, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near Stanford, The Peninsula": {
     "lat": 37.4177646,
@@ -3881,32 +3814,32 @@
   "near USF, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near USFCA, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near University of San Francisco (USF), San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "near ferry terminal, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "near tech shuttle, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "nearby cities, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "nob hill, San Francisco": {
     "lat": 37.7944792,
@@ -3927,17 +3860,16 @@
   "north east side, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "north half of the city, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "north of Daly City, San Francisco": {
-    "lat": null,
-    "lon": null,
-    "retries": 3
+    "lat": 37.7016933,
+    "lon": -122.4679009
   },
   "north of noe valley, San Francisco": {
     "lat": 37.7436486,
@@ -3946,7 +3878,7 @@
   "north-central San Francisco, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "northeast San Francisco, San Francisco": {
     "lat": 37.7527347,
@@ -3955,7 +3887,7 @@
   "northern part of San Francisco, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "other, San Francisco": {
     "lat": 37.7607052,
@@ -3980,7 +3912,7 @@
   "quiet, low-crime neighborhood with easy access to campus, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "richmond, San Francisco": {
     "lat": 37.7806432,
@@ -3989,7 +3921,7 @@
   "right side of the city, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "russian hill, San Francisco": {
     "lat": 37.8000729,
@@ -4006,7 +3938,7 @@
   "south part of the city, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "sunset district, San Francisco": {
     "lat": 37.7535418,
@@ -4019,7 +3951,7 @@
   "surrounding areas, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 1
   },
   "the Castro, San Francisco": {
     "lat": 37.7608561,
@@ -4060,11 +3992,11 @@
   "western half of the city, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   },
   "within 30-40 min commute of downtown, San Francisco": {
     "lat": null,
     "lon": null,
-    "retries": 3
+    "retries": 2
   }
 }
