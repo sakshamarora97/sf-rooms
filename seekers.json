@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T15:13:20.040904",
-  "count": 2738,
+  "updated_at": "2026-09-25T16:13:51.759094",
+  "count": 2739,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82119,6 +82119,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "27 year old Canadian / American who recently moved",
       "search_snippet_long": "27 year old Canadian / American who recently moved from nyc to sf. I\u2019m working next to salesforce park and"
+    },
+    {
+      "listing_id": "2015109162513989",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill",
+        "South Beach",
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "She is a 22-year-old software engineer starting a new job at a tech startup in San Francisco, seeking a private bedroom and open to 1\u20132 roommates. She describes herself as friendly, clean, easygoing, does not drink, requires no smoking in the apartment, and enjoys reading, baking, hiking, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2015109162513989",
+      "posted_at": "Friday 25 September 2026 at 15:27",
+      "first_scraped_at": "2026-09-25T23:00:03.940755+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room / 1\u20132 roommates around Rincon Hill! Hi everyone!",
+      "search_snippet_long": "room / 1\u20132 roommates around Rincon Hill! Hi everyone! I\u2019m Zaynab, 22, and I\u2019m starting a new job as a"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T15:13:20.003555",
-  "count": 2022,
+  "updated_at": "2026-09-25T16:13:51.721672",
+  "count": 2023,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63178,6 +63178,41 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Bath in NOPA/Alamo Square ($2,090/mo) Looking for a 3rd",
       "search_snippet_long": "Bath in NOPA/Alamo Square ($2,090/mo) Looking for a 3rd roommate to join our ground-floor 3BD/2BA for November 1st move-in (some"
+    },
+    {
+      "listing_id": "4725127744388895",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2225,
+      "neighborhood": "Upper Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2026-10-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gas_stove",
+        "oven",
+        "full_sized_refrigerator",
+        "cable_tv",
+        "fiber_internet",
+        "laundry_nearby",
+        "street_parking",
+        "bay_windows"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4725127744388895",
+      "posted_at": "Friday 25 September 2026 at 15:31",
+      "first_scraped_at": "2026-09-25T23:00:03.940755+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "master bedroom in my spacious 2 bedroom apartment in",
+      "search_snippet_long": "master bedroom in my spacious 2 bedroom apartment in Upper Nob Hill for the month of October. The apartment is"
     }
   ]
 }
