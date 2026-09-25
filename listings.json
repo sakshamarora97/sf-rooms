@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T10:13:23.181523",
-  "count": 2020,
+  "updated_at": "2026-09-25T11:13:28.573865",
+  "count": 2021,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63110,6 +63110,41 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "am renting a big, sunny 1-bedroom that feels much",
       "search_snippet_long": "am renting a big, sunny 1-bedroom that feels much larger than most. Very comfortable for a couple. Walking distance to"
+    },
+    {
+      "listing_id": "28435055289485089",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1680,
+      "neighborhood": "Richmond District",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "balcony",
+        "in_building_laundry",
+        "furnished",
+        "fully_equipped_kitchen",
+        "bay_windows",
+        "natural_light",
+        "top_floor",
+        "street_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28435055289485089",
+      "posted_at": "Friday 25 September 2026 at 05:43",
+      "first_scraped_at": "2026-09-25T18:00:05.020983+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "BR in 2BR/2BA shared apartment - Richmond District in",
+      "search_snippet_long": "BR in 2BR/2BA shared apartment - Richmond District in SF (Clement & 27th Ave) - Move-In Date: Thu, October 1sr,"
     }
   ]
 }
