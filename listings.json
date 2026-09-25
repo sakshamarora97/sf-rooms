@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T20:15:01.000250",
-  "count": 2009,
+  "updated_at": "2026-09-24T21:15:01.772096",
+  "count": 2011,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -62758,6 +62758,70 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Studio - Move in specials + extra $1000 from",
       "search_snippet_long": "Studio - Move in specials + extra $1000 from me Hi everyone! I\u2019m looking for someone interested in leasing my"
+    },
+    {
+      "listing_id": "4724176351150701",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2200,
+      "neighborhood": "Forest Hills",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "private_bathroom",
+        "views",
+        "semi_furnished"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4724176351150701",
+      "posted_at": "Thursday 24 September 2026 at 20:54",
+      "first_scraped_at": "2026-09-25T04:00:05.031911+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "4th roommate (female) \u2013 4B/3.5B house! Hi everyone! We're",
+      "search_snippet_long": "4th roommate (female) \u2013 4B/3.5B house! Hi everyone! We're a group of three (me and my two roommates) who've found"
+    },
+    {
+      "listing_id": "2014295362595369",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3400,
+      "neighborhood": "Lower Haight / Alamo Square",
+      "area": "San Francisco",
+      "available_from": "2026-10-07",
+      "available_until": null,
+      "unit_config": "5B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "weekly_cleaning",
+        "private_patio",
+        "fire_pit",
+        "dishwasher",
+        "full_kitchen",
+        "shared_living_spaces"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2014295362595369",
+      "posted_at": "Thursday 24 September 2026 at 19:33",
+      "first_scraped_at": "2026-09-25T04:00:05.031911+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "available in a massive 5BR house in Lower Haight",
+      "search_snippet_long": "available in a massive 5BR house in Lower Haight / Alamo Square Hey everyone! We're a group of 4 moving"
     }
   ]
 }
