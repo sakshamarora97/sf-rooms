@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T12:14:35.135668",
-  "count": 2735,
+  "updated_at": "2026-09-25T13:13:28.536183",
+  "count": 2736,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82030,6 +82030,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "and apartment near Burlingame Hi! I\u2019m recently finishing my",
       "search_snippet_long": "and apartment near Burlingame Hi! I\u2019m recently finishing my masters at JHU and planning to start a tech job in"
+    },
+    {
+      "listing_id": "4725015327733470",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond",
+        "Sunset",
+        "Haight",
+        "Cole Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "student",
+      "age": 28,
+      "bio": "She is a 28-year-old incoming graduate student at SF State who will work part-time nights at a restaurant. She is social and outdoorsy, seeks a room or lease takeover, and has a well-behaved 6-year-old cat.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4725015327733470",
+      "posted_at": "Friday 25 September 2026 at 12:51",
+      "first_scraped_at": "2026-09-25T20:00:06.691093+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to live !! Hi all! My name is Erica,",
+      "search_snippet_long": "to live !! Hi all! My name is Erica, I'm 28y/o and on the hunt for somewhere to live in"
     }
   ]
 }
