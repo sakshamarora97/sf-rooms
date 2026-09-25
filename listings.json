@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T18:13:31.476518",
-  "count": 2007,
+  "updated_at": "2026-09-24T19:14:17.904724",
+  "count": 2008,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -62701,6 +62701,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "1 BA Available now in Temescal, Oakland *PROPERTY DETAILS*",
       "search_snippet_long": "1 BA Available now in Temescal, Oakland *PROPERTY DETAILS* 4722 Shattuck Ave Oakland, CA 94609-2033 - Available: Now - Bedrooms:"
+    },
+    {
+      "listing_id": "37e43569b698b638",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 4540,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-09-26",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "resident_lounge",
+        "package_lockers"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Avalon at Mission Bay",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/user/100088499534045",
+      "posted_at": null,
+      "first_scraped_at": "2026-09-25T02:00:07.656082+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Studio - Move in specials + extra $1000 from",
+      "search_snippet_long": "Studio - Move in specials + extra $1000 from me Hi everyone! I\u2019m looking for someone interested in leasing my"
     }
   ]
 }
