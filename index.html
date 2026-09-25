@@ -997,6 +997,9 @@
   <label>Move-in by
     <input type="text" id="sf-movein" placeholder="e.g. 2026-07-01">
   </label>
+  <label title="Only shown for posts where age was explicitly stated">Max Age
+    <input type="number" id="sf-age" placeholder="e.g. 30" min="0" step="1">
+  </label>
   <label title="Tags you created yourself while browsing — not supplied by the listing poster">My tags
     <select id="sf-tag">
       <option value="">Any</option>
@@ -1529,6 +1532,7 @@ function renderSeekers() {
   const duration  = $('sf-duration').value;
   const reason    = $('sf-reason').value;
   const moveinBy  = $('sf-movein').value.trim();
+  const maxAge    = parseInt($('sf-age').value) || Infinity;
   const tagFilter = $('sf-tag').value;
   const postedWithinHours = parseInt($('sf-posted-within').value) || null;
 
@@ -1538,6 +1542,7 @@ function renderSeekers() {
     if (duration && p.duration_type !== duration) return false;
     if (reason && p.reason !== reason) return false;
     if (moveinBy && p.move_in_date && p.move_in_date > moveinBy) return false;
+    if (maxAge !== Infinity && (p.age ?? Infinity) > maxAge) return false;
     if (tagFilter === '_bookmarked' && !userBookmarks.has(p.listing_id)) return false;
     if (tagFilter && tagFilter !== '_bookmarked' && userTags.get(p.listing_id) !== tagFilter) return false;
     if (postedWithinHours && postedTs(p) < Date.now() - postedWithinHours * 3600000) return false;
@@ -1645,12 +1650,12 @@ document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
     renderSeekers();
   });
 });
-['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag','sf-posted-within'].forEach(id => {
+['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-age','sf-tag','sf-posted-within'].forEach(id => {
   $(id).addEventListener('input', () => { seekersPage = 1; renderSeekers(); });
   $(id).addEventListener('change', () => { seekersPage = 1; renderSeekers(); });
 });
 $('clear-seeker-filters').addEventListener('click', () => {
-  ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-tag'].forEach(id=>$(id).value='');
+  ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-age','sf-tag'].forEach(id=>$(id).value='');
   $('sf-posted-within').value = '720'; // default back to 30 days, not "all time"
   seekersPage = 1;
   renderSeekers();
