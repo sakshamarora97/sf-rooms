@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-24T17:13:13.613300",
-  "count": 2721,
+  "updated_at": "2026-09-24T18:13:31.513684",
+  "count": 2722,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -81601,6 +81601,32 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "to find a 2BR/2BA or 3BR/3BA in SF (mid-Jan",
       "search_snippet_long": "to find a 2BR/2BA or 3BR/3BA in SF (mid-Jan 2027 move-in) Hey all! I'm Laye, a software engineer at an"
+    },
+    {
+      "listing_id": "4724032394498430",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are clean, respectful, and easygoing, seeking a 1-bedroom/1-bath apartment and able to move in immediately.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4724032394498430",
+      "posted_at": "Thursday 24 September 2026 at 17:50",
+      "first_scraped_at": "2026-09-25T01:00:07.361653+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1B1B Apartment Hi everyone! I\u2019m currently looking for a",
+      "search_snippet_long": "1B1B Apartment Hi everyone! I\u2019m currently looking for a 1-bedroom, 1-bathroom apartment and am ready to move in immediately. A"
     }
   ]
 }
