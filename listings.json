@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T19:13:34.444761",
-  "count": 2024,
+  "updated_at": "2026-09-25T20:13:56.221612",
+  "count": 2025,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63244,6 +63244,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "\u2013 North Park, San Jose * Looking for a",
       "search_snippet_long": "\u2013 North Park, San Jose * Looking for a male roommate to join us at North Park Apartments, San Jose."
+    },
+    {
+      "listing_id": "2015190425839196",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "NoPa",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "shared_bathroom",
+        "shared_kitchen",
+        "furnished",
+        "high_walk_score"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2015190425839196",
+      "posted_at": "Friday 25 September 2026 at 18:04",
+      "first_scraped_at": "2026-09-26T03:00:06.501684+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "month to month available Oct 1 or til filled.",
+      "search_snippet_long": "month to month available Oct 1 or til filled. Nopa near USF walkable to Haight Ashbury. Great walk score. Private"
     }
   ]
 }
