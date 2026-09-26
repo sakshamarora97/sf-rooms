@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T14:12:57.623525",
-  "count": 2747,
+  "updated_at": "2026-09-26T15:13:22.238366",
+  "count": 2749,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82378,6 +82378,67 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "with 3.5k budget Hey everyone! I'm Thomas (23). Just",
       "search_snippet_long": "with 3.5k budget Hey everyone! I'm Thomas (23). Just graduated and moved here for a tech job. I'm looking for"
+    },
+    {
+      "listing_id": "4726251357609867",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "student",
+      "age": 26,
+      "bio": "26-year-old master's student working at a robotics startup. Social and easygoing, keeps busy with work and school and occasionally has a couple friends over; seeks a clean, respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726251357609867",
+      "posted_at": "Saturday 26 September 2026 at 14:37",
+      "first_scraped_at": "2026-09-26T22:00:09.727786+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for a third roommate to sign a lease on",
+      "search_snippet_long": "for a third roommate to sign a lease on a 3b2b or 3b3b with us in San Francisco. We have"
+    },
+    {
+      "listing_id": "2016011959090376",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Russian Hill",
+        "Nob Hill",
+        "Cow Hollow",
+        "Pacific Heights",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is an easygoing, clean, and respectful individual who enjoys exploring the city, hanging out with friends, hiking, and running.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2016011959090376",
+      "posted_at": "Saturday 26 September 2026 at 14:44",
+      "first_scraped_at": "2026-09-26T22:00:09.727786+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Gerardo, and currently on the hunt to",
+      "search_snippet_long": "name is Gerardo, and currently on the hunt to find a place in SF. A little about myself, im easygoing,"
     }
   ]
 }
