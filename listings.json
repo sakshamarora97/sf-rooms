@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T10:12:15.777505",
-  "count": 2028,
+  "updated_at": "2026-09-26T11:12:36.816354",
+  "count": 2030,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63377,6 +63377,73 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "bedroom available ($1495) and you'd share the bathroom with",
       "search_snippet_long": "bedroom available ($1495) and you'd share the bathroom with only one other person. Separately we also have a smaller bedroom"
+    },
+    {
+      "listing_id": "4726050550963281",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1375,
+      "neighborhood": "Glen Park",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "washer_dryer",
+        "hardwood_floors",
+        "private_bathroom",
+        "garden",
+        "storage",
+        "street_parking",
+        "near_bart"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726050550963281",
+      "posted_at": "Saturday 26 September 2026 at 10:27",
+      "first_scraped_at": "2026-09-26T18:00:05.148152+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in 3 BR flat Avail Oct 1st. We are",
+      "search_snippet_long": "in 3 BR flat Avail Oct 1st. We are looking for one new flatmate for October 1st to join our"
+    },
+    {
+      "listing_id": "4726042430964093",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 5400,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "air_conditioning",
+        "radiant_heat",
+        "high_end_kitchen_appliances",
+        "ceiling_fan"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726042430964093",
+      "posted_at": "Saturday 26 September 2026 at 10:18",
+      "first_scraped_at": "2026-09-26T18:00:05.148152+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "available with flexible move out date - $5400/month Sunny,",
+      "search_snippet_long": "available with flexible move out date - $5400/month Sunny, top floor 1 bed/ 1 bath apartment in a boutique, North"
     }
   ]
 }
