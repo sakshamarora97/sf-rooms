@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T12:12:20.009964",
-  "count": 2742,
+  "updated_at": "2026-09-26T13:13:10.533911",
+  "count": 2745,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82232,6 +82232,96 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "19-year-old worker I\u2019m looking to move to SF hopefully",
       "search_snippet_long": "19-year-old worker I\u2019m looking to move to SF hopefully in the next month or two if anyone is available or"
+    },
+    {
+      "listing_id": "2015934132431492",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are clean, respectful, and responsible, working at a jazz club and caf\u00e9 in San Francisco. They are seeking a room in Haight-Ashbury (or nearby) with a budget up to $1,300/month and are open to furnished or unfurnished options.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2015934132431492",
+      "posted_at": "Saturday 26 September 2026 at 12:31",
+      "first_scraped_at": "2026-09-26T20:00:03.723045+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "HAIGHT-ASHBURY / SF Hi everyone! I\u2019m looking for a",
+      "search_snippet_long": "HAIGHT-ASHBURY / SF Hi everyone! I\u2019m looking for a room to rent in Haight-Ashbury or nearby neighborhoods. \u2022 Budget: up"
+    },
+    {
+      "listing_id": "2015927192432186",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Hayes Valley",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 29,
+      "bio": "He is a 29-year-old new hire at an AI startup who works in FiDi, is active and social, low-maintenance, clean, and pet-friendly.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2015927192432186",
+      "posted_at": "Saturday 26 September 2026 at 12:20",
+      "first_scraped_at": "2026-09-26T20:00:03.723045+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Pablo, 29, just moved to SF for a new",
+      "search_snippet_long": "Pablo, 29, just moved to SF for a new role at an AI startup and looking for a place to"
+    },
+    {
+      "listing_id": "2015899582434947",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-08",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Haight-Ashbury",
+        "Panhandle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 29,
+      "bio": "He is 29 and moving to San Francisco to work at Sports Basement Presidio. He is looking for a room in a shared house or apartment in Inner Richmond, Haight-Ashbury, or the Panhandle; he enjoys biking, yoga, writing, and movies, and is 420- and pet-friendly.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2015899582434947",
+      "posted_at": "Saturday 26 September 2026 at 11:35",
+      "first_scraped_at": "2026-09-26T20:00:03.723045+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "is Joe, I\u2019m 29 I\u2019m moving to SF to",
+      "search_snippet_long": "is Joe, I\u2019m 29 I\u2019m moving to SF to work at Sports Basement Presidio and I am looking for a"
     }
   ]
 }
