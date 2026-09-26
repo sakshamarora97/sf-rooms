@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T08:12:49.929801",
-  "count": 2741,
+  "updated_at": "2026-09-26T09:12:50.811603",
+  "count": 2742,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82204,6 +82204,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "friend and I are looking for two rooms for",
       "search_snippet_long": "friend and I are looking for two rooms for rent near Lower Nob Hill or around ZIP code 94109 in"
+    },
+    {
+      "listing_id": "2015767622448143",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 19,
+      "bio": "19-year-old worker relocating to San Francisco who is looking to move within the next month or two and is seeking a roommate to split rent. Open to male or female roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2015767622448143",
+      "posted_at": "Saturday 26 September 2026 at 08:30",
+      "first_scraped_at": "2026-09-26T16:00:06.431606+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "19-year-old worker I\u2019m looking to move to SF hopefully",
+      "search_snippet_long": "19-year-old worker I\u2019m looking to move to SF hopefully in the next month or two if anyone is available or"
     }
   ]
 }
