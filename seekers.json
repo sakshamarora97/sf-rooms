@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T13:13:10.533911",
-  "count": 2745,
+  "updated_at": "2026-09-26T14:12:57.623525",
+  "count": 2747,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82322,6 +82322,62 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "is Joe, I\u2019m 29 I\u2019m moving to SF to",
       "search_snippet_long": "is Joe, I\u2019m 29 I\u2019m moving to SF to work at Sports Basement Presidio and I am looking for a"
+    },
+    {
+      "listing_id": "4726213524280317",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-12",
+      "move_out_date": "2027-03-13",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": null,
+      "bio": "A travel nurse seeking a furnished studio or one-bedroom near Stanford Hospital for a solo stay from 2026-12-12 to 2027-03-13; no pets, requires in-unit laundry, a full kitchen, utilities included, and prefers designated parking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726213524280317",
+      "posted_at": "Saturday 26 September 2026 at 13:44",
+      "first_scraped_at": "2026-09-26T21:00:03.650213+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "owners: I have a MatchMaking request for a stay",
+      "search_snippet_long": "owners: I have a MatchMaking request for a stay starting in December! I've got a travel nurse looking for a"
+    },
+    {
+      "listing_id": "4726181067616896",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent graduate (23) who moved to the Bay Area for a tech job. Clean, responsible, stable income; enjoys going out, trying restaurants, exploring the city and concerts.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726181067616896",
+      "posted_at": "Saturday 26 September 2026 at 13:00",
+      "first_scraped_at": "2026-09-26T21:00:03.650213+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "with 3.5k budget Hey everyone! I'm Thomas (23). Just",
+      "search_snippet_long": "with 3.5k budget Hey everyone! I'm Thomas (23). Just graduated and moved here for a tech job. I'm looking for"
     }
   ]
 }
