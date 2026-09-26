@@ -35,7 +35,7 @@
      in on load; scripts are deferred (they only run on user action — map open,
      sign-in — or after DOMContentLoaded; see initSupabase()). -->
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=optional" rel="stylesheet" media="print" onload="this.media='all'">
-<script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.2"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" media="print" onload="this.media='all'">
 <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" media="print" onload="this.media='all'">
@@ -793,6 +793,25 @@
   /* chip-type needs better contrast in dark */
   html.dark .chip-type { background: #3a3a3c; color: #c7c7cc; }
   html.dark .chip      { background: #2d2d00; color: #a5b4fc; }
+  #update-banner {
+    position: fixed; top: 12px; left: 50%; transform: translateX(-50%);
+    z-index: 2000; display: flex; align-items: center; gap: 10px;
+    max-width: calc(100vw - 32px); padding: 8px 8px 8px 16px;
+    background: var(--surface); color: var(--text);
+    border: 1px solid var(--border); border-radius: 999px;
+    box-shadow: 0 4px 16px var(--shadow-lg); font-size: 14px;
+  }
+  #update-banner .ub-text { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #update-banner .ub-action {
+    border: none; border-radius: 999px; padding: 6px 14px; cursor: pointer;
+    background: var(--accent); color: #fff; font: inherit; font-weight: 600;
+  }
+  #update-banner .ub-action:hover { background: var(--accent-hover); }
+  #update-banner .ub-close {
+    border: none; background: none; color: var(--text); opacity: .6;
+    font-size: 18px; line-height: 1; cursor: pointer; padding: 0 6px;
+  }
+  #update-banner .ub-close:hover { opacity: 1; }
 </style>
 </head>
 <body>
@@ -1280,6 +1299,9 @@ let userNotes     = new Map();   // Map<listing_id, body>
 
 // ── Data ──────────────────────────────────────────────────────────────────────
 const DATA_BASE = './';
+// Stamped by extract_only.py (hash of this file's code, ignoring the parts the
+// pipeline rewrites hourly). Compared against version.json to spot redeploys.
+const SITE_VERSION = 'cfdae8f478fa';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -2277,6 +2299,14 @@ function ensureSpam() {
     .catch(e => { console.warn('[load] spam failed:', e); _spamLoading = null; });
 }
 
+function setUpdatedTime(lData, sData) {
+  const times = [lData.updated_at, sData.updated_at].filter(Boolean).sort();
+  if (times.length) {
+    const d = new Date(times[times.length-1]);
+    window._updatedTimeStr = d.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+  }
+}
+
 async function load() {
   console.log('[load] fetching JSON, currentUser=', currentUser?.email || null);
   // Fall back to the full files if the recent ones haven't been published yet.
@@ -2291,12 +2321,8 @@ async function load() {
   console.log('[load] JSON ready — listings:', (lData.posts||[]).length, 'seekers:', (sData.posts||[]).length);
   geocodeCache = geoData || {};
 
-  const times = [lData.updated_at, sData.updated_at].filter(Boolean).sort();
-  if (times.length) {
-    const d = new Date(times[times.length-1]);
-    const timeStr = d.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
-    window._updatedTimeStr = timeStr;
-  }
+  setUpdatedTime(lData, sData);
+  _dataUpdatedAt = lData.updated_at || null;
 
   allListings = lData.posts || [];
   allSeekers  = sData.posts || [];
@@ -2309,6 +2335,7 @@ async function load() {
   renderSeekers();
   renderActiveTab(); // ensure the shared caption reflects the visible tab, not just whichever rendered last
   console.log('[load] rendered');
+  if (_restoreScrollY != null) { window.scrollTo(0, _restoreScrollY); _restoreScrollY = null; }
 
   // The static preview is real, visible HTML present for every visitor —
   // crawlers that never run JS see it and stop there; browsers that do run
@@ -2350,6 +2377,169 @@ supa.auth.onAuthStateChange((event, session) => {
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initSupabase);
 else initSupabase();
 
+
+// ── Live updates ──────────────────────────────────────────────────────────────
+// The page fetches data once; an open tab would otherwise never see new
+// listings or a redeployed index.html. Poll the tiny version.json (the data
+// files are ~0.5MB each) every 10 min while visible, and whenever the tab
+// regains focus. New data waits behind a banner rather than re-rendering under
+// the user; a new site version reloads only when the tab is hidden and nothing
+// is in progress, with filters/tab/scroll carried across the reload.
+let _dataUpdatedAt = null;
+let _pendingData = null;
+let _newSiteVersion = null;
+let _checking = false;
+const UPDATE_CHECK_MS = 10 * 60 * 1000;
+const VIEW_STATE_KEY = 'sfrooms.viewState';
+const RELOADED_FOR_KEY = 'sfrooms.reloadedFor';
+
+const fetchFresh = name => fetch(DATA_BASE + name + '?t=' + Date.now(), { cache: 'no-store' }).then(r => {
+  if (!r.ok) throw new Error(`${name}: HTTP ${r.status}`);
+  return r.json();
+});
+
+async function checkForUpdates() {
+  if (document.hidden || !_listingsLoaded || _checking) return;
+  _checking = true;
+  try {
+    const v = await fetchFresh('version.json');
+    if (v.site_version && SITE_VERSION && v.site_version !== SITE_VERSION) {
+      _newSiteVersion = v.site_version;
+      showUpdateBanner('The site was updated', 'Reload', reloadForNewVersion);
+      return;
+    }
+    if (!v.updated_at || v.updated_at === _dataUpdatedAt || v.updated_at === _pendingData?.updated_at) return;
+    const [lData, sData] = await Promise.all([fetchFresh('listings.recent.json'), fetchFresh('seekers.recent.json')]);
+    const have = new Set([...allListings, ...allSeekers].map(p => p.listing_id));
+    const newL = (lData.posts || []).filter(p => !have.has(p.listing_id)).length;
+    const newS = (sData.posts || []).filter(p => !have.has(p.listing_id)).length;
+    if (!newL && !newS) { _dataUpdatedAt = v.updated_at; return; }
+    _pendingData = { lData, sData, updated_at: v.updated_at };
+    const parts = [];
+    if (newL) parts.push(`${newL} new listing${newL === 1 ? '' : 's'}`);
+    if (newS) parts.push(`${newS} new seeker${newS === 1 ? '' : 's'}`);
+    showUpdateBanner(parts.join(' · '), 'Show', applyPendingData);
+  } catch (e) {
+    console.warn('[update] check failed:', e);
+  } finally {
+    _checking = false;
+  }
+}
+
+function mergeById(existing, fresh) {
+  const byId = new Map(existing.map(p => [p.listing_id, p]));
+  for (const p of fresh) byId.set(p.listing_id, p);
+  return [...byId.values()];
+}
+
+async function applyPendingData() {
+  const pd = _pendingData;
+  if (!pd) return;
+  _pendingData = null;
+  hideUpdateBanner();
+  const freshL = pd.lData.posts || [], freshS = pd.sData.posts || [];
+  // The recent files are a 30-day subset — merge into the full arrays if
+  // they're loaded, otherwise the fresh subset simply replaces the old one.
+  allListings = _fullLoaded ? mergeById(allListings, freshL) : freshL;
+  allSeekers  = _fullLoaded ? mergeById(allSeekers, freshS)  : freshS;
+  listingsTotal = _fullLoaded ? allListings.length : (pd.lData.total_count ?? allListings.length);
+  seekersTotal  = _fullLoaded ? allSeekers.length  : (pd.sData.total_count ?? allSeekers.length);
+  _dataUpdatedAt = pd.updated_at;
+  setUpdatedTime(pd.lData, pd.sData);
+  // New neighborhoods may have new geocodes — without them new rows get no pin.
+  try { Object.assign(geocodeCache, await fetchFresh('geocode_cache.json')); } catch (e) {}
+  renderListings();
+  renderSeekers();
+  renderActiveTab();
+}
+
+function anyModalOpen() {
+  return [...document.querySelectorAll('.modal-overlay')].some(m => m.style.display !== 'none');
+}
+
+function saveViewState() {
+  const fields = {};
+  document.querySelectorAll('[id^="f-"], [id^="sf-"]').forEach(el => {
+    if ('value' in el) fields[el.id] = el.value;
+  });
+  try {
+    sessionStorage.setItem(VIEW_STATE_KEY, JSON.stringify({ fields, tab: currentTabName(), scrollY: window.scrollY }));
+  } catch (e) {}
+}
+
+let _restoreScrollY = null;
+function restoreViewState() {
+  // Drop the ?v= cache-buster a version reload added.
+  const url = new URL(location.href);
+  if (url.searchParams.has('v')) {
+    url.searchParams.delete('v');
+    history.replaceState(null, '', url.pathname + url.search + url.hash);
+  }
+  let state = null;
+  try {
+    state = JSON.parse(sessionStorage.getItem(VIEW_STATE_KEY) || 'null');
+    sessionStorage.removeItem(VIEW_STATE_KEY);
+  } catch (e) {}
+  if (!state) return;
+  for (const [id, val] of Object.entries(state.fields || {})) {
+    const el = document.getElementById(id);
+    if (el) el.value = val;
+  }
+  const tab = document.querySelector(`.tab[data-tab="${state.tab}"]`);
+  if (tab && state.tab !== 'listings') tab.click();
+  _restoreScrollY = state.scrollY ?? null;
+}
+
+function reloadForNewVersion() {
+  const ver = _newSiteVersion;
+  if (!ver) return;
+  try { sessionStorage.setItem(RELOADED_FOR_KEY, ver); } catch (e) {}
+  saveViewState();
+  // ?v= bypasses a cached copy of the old index.html.
+  const url = new URL(location.href);
+  url.searchParams.set('v', ver);
+  location.replace(url.toString());
+}
+
+function autoReloadIfSafe() {
+  if (!_newSiteVersion || anyModalOpen()) return;
+  // Loop guard: if we already reloaded for this version and still have old
+  // code (stale cache), leave it to the banner instead of reloading forever.
+  let already = null;
+  try { already = sessionStorage.getItem(RELOADED_FOR_KEY); } catch (e) {}
+  if (already === _newSiteVersion) return;
+  reloadForNewVersion();
+}
+
+function showUpdateBanner(text, actionLabel, action) {
+  let el = $('update-banner');
+  if (!el) {
+    el = document.createElement('div');
+    el.id = 'update-banner';
+    el.setAttribute('role', 'status');
+    el.innerHTML = '<span class="ub-text"></span><button class="ub-action"></button><button class="ub-close" aria-label="Dismiss">×</button>';
+    el.querySelector('.ub-close').onclick = hideUpdateBanner;
+    document.body.appendChild(el);
+  }
+  el.querySelector('.ub-text').textContent = text;
+  const btn = el.querySelector('.ub-action');
+  btn.textContent = actionLabel;
+  btn.onclick = action;
+  el.style.display = '';
+}
+
+function hideUpdateBanner() {
+  const el = $('update-banner');
+  if (el) el.style.display = 'none';
+}
+
+setInterval(checkForUpdates, UPDATE_CHECK_MS);
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) autoReloadIfSafe();
+  else checkForUpdates();
+});
+
+restoreViewState();
 load().catch(err => console.error('Failed to load data:', err));
 
 // ── Dark mode ──────────────────────────────────────────────────────────────────
