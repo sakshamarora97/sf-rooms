@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-25T21:13:25.991862",
-  "count": 2739,
+  "updated_at": "2026-09-25T22:14:24.297787",
+  "count": 2740,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82150,6 +82150,32 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "room / 1\u20132 roommates around Rincon Hill! Hi everyone!",
       "search_snippet_long": "room / 1\u20132 roommates around Rincon Hill! Hi everyone! I\u2019m Zaynab, 22, and I\u2019m starting a new job as a"
+    },
+    {
+      "listing_id": "2015099655848273",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "She is 22 and starting a job as a case manager next month. She enjoys socializing, Pilates, travel, and trying new foods, and is looking for a roommate or room in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2015099655848273",
+      "posted_at": "Friday 25 September 2026 at 19:23",
+      "first_scraped_at": "2026-09-26T05:00:06.881300+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Evie and I am looking for housing",
+      "search_snippet_long": "name is Evie and I am looking for housing with roommates or a room in SF. I am 22 and"
     }
   ]
 }
