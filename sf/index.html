@@ -1,0 +1,2573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SF Rooms — San Francisco Housing, Sublets & Roommates</title>
+<meta name="description" content="Browse real-time San Francisco housing listings scraped from Facebook groups. Find subleases, room rentals, lease takeovers, and roommates in SF neighborhoods updated hourly.">
+<meta name="keywords" content="San Francisco housing, SF room for rent, SF sublease, San Francisco roommate, SF sublet, Bay Area housing listings">
+<link rel="canonical" href="https://unlistedrooms.com/sf/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://unlistedrooms.com/sf/">
+<meta property="og:title" content="SF Rooms — San Francisco Housing, Sublets & Roommates">
+<meta property="og:description" content="Real-time SF housing listings scraped from Facebook groups. Subleases, room rentals, lease takeovers, and roommates — updated hourly.">
+<meta property="og:site_name" content="SF Rooms">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="SF Rooms — San Francisco Housing, Sublets & Roommates">
+<meta name="twitter:description" content="Real-time SF housing listings scraped from Facebook groups. Updated hourly.">
+<meta name="google-site-verification" content="pAtc5vYt9xrlUB2TRrlCaBdwJyTpOFX-O9HHWVsBdGI">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1GZ9FS6ZKP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-1GZ9FS6ZKP');
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>">
+<!-- Nothing below blocks first paint: stylesheets load as media=print and swap
+     in on load; scripts are deferred (they only run on user action — map open,
+     sign-in — or after DOMContentLoaded; see initSupabase()). -->
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=optional" rel="stylesheet" media="print" onload="this.media='all'">
+<script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.2"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" media="print" onload="this.media='all'">
+<script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" media="print" onload="this.media='all'">
+<script defer src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<!-- Apply dark mode before CSS renders to avoid flash -->
+<script>if(localStorage.getItem('theme')==='dark')document.documentElement.classList.add('dark')</script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:            #f7f6f3;
+    --surface:       #ffffff;
+    --surface-2:     #f8f8f8;
+    --surface-3:     #f3f4f6;
+    --text:          #1a1a1a;
+    --text-2:        #555555;
+    --text-3:        #888888;
+    --text-4:        #9ca3af;
+    --text-5:        #999999;
+    --border:        #e0e0e0;
+    --border-2:      #e8e8e4;
+    --border-3:      #ebebeb;
+    --border-4:      #f0f0f0;
+    --rent:          #111111;
+    --rent-null:     #bbbbbb;
+    --row-hover:     #fafbff;
+    --row-bm:        #fffbeb;
+    --row-bm-hover:  #fff8d6;
+    --row-map-highlight: #eef0fe;
+    --accent:        #4f46e5;
+    --accent-hover:  #4338ca;
+    --accent-light:  #a5b4fc;
+    --accent-badge:  #6366f1;
+    --shadow:        rgba(0,0,0,.08);
+    --shadow-lg:     rgba(0,0,0,.18);
+    --overlay:       rgba(0,0,0,0.45);
+  }
+
+  html.dark {
+    --bg:            #111111;
+    --surface:       #1c1c1e;
+    --surface-2:     #242426;
+    --surface-3:     #2c2c2e;
+    --text:          #f2f2f7;
+    --text-2:        #aeaeb2;
+    --text-3:        #8e8e93;
+    --text-4:        #6b7280;
+    --text-5:        #777777;
+    --border:        #38383a;
+    --border-2:      #2c2c2e;
+    --border-3:      #38383a;
+    --border-4:      #242426;
+    --rent:          #f2f2f7;
+    --rent-null:     #555555;
+    --row-hover:     #1e1e2e;
+    --row-bm:        #2d2600;
+    --row-bm-hover:  #3d3300;
+    --row-map-highlight: #23244a;
+    --accent:        #6366f1;
+    --accent-hover:  #4f46e5;
+    --accent-light:  #818cf8;
+    --accent-badge:  #818cf8;
+    --shadow:        rgba(0,0,0,.35);
+    --shadow-lg:     rgba(0,0,0,.55);
+    --overlay:       rgba(0,0,0,0.65);
+  }
+
+  body {
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 14px;
+  }
+
+  header {
+    background: linear-gradient(135deg, #c8922a 0%, #e8a830 30%, #f0b84a 55%, #e8c870 80%, #d4a840 100%);
+    transition: background 0.3s;
+    border-bottom: none;
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+    overflow: hidden;
+    min-height: 64px;
+  }
+  header h1 { font-size: 17px; font-weight: 800; letter-spacing: -0.3px; color: #3b1f08; position: relative; z-index: 2; }
+  header .updated { color: #6b3d10; font-size: 12px; position: relative; z-index: 2; }
+  header .spacer { flex: 1; }
+  header #auth-area { position: relative; z-index: 3; }
+  .header-bridge {
+    position: absolute;
+    right: 110px;
+    top: 0;
+    height: 100%;
+    width: 55%;
+    pointer-events: none;
+    z-index: 1;
+  }
+  .live-dot {
+    display: inline-block;
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: #22c55e;
+    margin-right: 5px;
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+    box-shadow: 0 0 0 0 rgba(34,197,94,0.5);
+    animation: pulse-dot 2s ease-in-out infinite;
+  }
+  @keyframes pulse-dot {
+    0%   { box-shadow: 0 0 0 0 rgba(34,197,94,0.5); }
+    60%  { box-shadow: 0 0 0 5px rgba(34,197,94,0); }
+    100% { box-shadow: 0 0 0 0 rgba(34,197,94,0); }
+  }
+
+  /* Theme toggle button */
+  .theme-btn-el {
+    background: rgba(0,0,0,0.18);
+    border: 1px solid rgba(0,0,0,0.25);
+    border-radius: 8px;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1;
+    backdrop-filter: blur(4px);
+    margin-right: 8px;
+    position: relative;
+    z-index: 3;
+  }
+  .theme-btn-el:hover { background: rgba(0,0,0,0.28); }
+  html.dark .theme-btn-el { background: rgba(255,255,255,0.12); border-color: rgba(255,255,255,0.2); }
+  html.dark .theme-btn-el:hover { background: rgba(255,255,255,0.2); }
+
+  /* Auth button */
+  #auth-btn {
+    padding: 7px 16px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid rgba(255,255,255,0.6);
+    background: rgba(255,255,255,0.85);
+    color: #3b1f08;
+    white-space: nowrap;
+    backdrop-filter: blur(4px);
+  }
+  #auth-btn:hover { background: rgba(255,255,255,0.95); }
+
+  /* Report-issue button */
+  #report-issue-btn {
+    padding: 7px 14px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid rgba(153,27,27,0.35);
+    background: rgba(220,38,38,0.14);
+    color: #7f1d1d;
+    white-space: nowrap;
+    margin-right: 8px;
+    position: relative;
+    z-index: 3;
+  }
+  #report-issue-btn:hover { background: rgba(220,38,38,0.24); }
+  html.dark #report-issue-btn { background: rgba(248,113,113,0.16); border-color: rgba(248,113,113,0.4); color: #fecaca; }
+  html.dark #report-issue-btn:hover { background: rgba(248,113,113,0.26); }
+
+  /* Footer */
+  .site-footer {
+    text-align: center;
+    padding: 28px 16px 36px;
+    font-size: 12px;
+    color: var(--text-4);
+  }
+  .site-footer a { color: var(--accent); text-decoration: none; }
+  .site-footer a:hover { text-decoration: underline; }
+
+  #user-menu { position: relative; display: flex; align-items: center; gap: 10px; }
+  #user-email { font-size: 12px; color: var(--text-3); }
+  #signout-btn { font-size: 12px; color: var(--text-3); cursor: pointer; text-decoration: underline; border: none; background: none; padding: 0; }
+  #signout-btn:hover { color: var(--text); }
+
+  /* Tabs */
+  .tabs {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0 24px;
+    display: flex;
+  }
+  .tab {
+    padding: 12px 20px;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    font-weight: 500;
+    color: var(--text-3);
+    user-select: none;
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .tab .badge {
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 0px 5px;
+    font-size: 12px;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+    margin-left: 5px;
+    color: var(--text-4);
+    letter-spacing: 0;
+  }
+  .tab.active .badge { border-color: var(--accent-light); color: var(--accent-badge); }
+
+  /* Tab subtitle */
+  .tab-subtitle {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border-2);
+    padding: 8px 24px;
+    font-size: 12px;
+    color: var(--text-3);
+  }
+
+  /* Filters */
+  .filters {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border-2);
+    padding: 10px 24px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .filters label { display: flex; flex-direction: column; gap: 3px; font-size: 12px; color: var(--text-5); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+  .filters input, .filters select {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 10px;
+    font-size: 13px;
+    outline: none;
+    background: var(--surface);
+    color: var(--text);
+  }
+  .filters input:focus, .filters select:focus { border-color: var(--accent); }
+  .filters input[type=number] { width: 100px; }
+  .filters input[type=text] { width: 160px; }
+  .filters input[type=checkbox] { width: 16px; height: 16px; margin-top: 4px; cursor: pointer; }
+  .clear-btn {
+    margin-left: auto;
+    padding: 6px 14px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--surface);
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--text-2);
+  }
+  .clear-btn:hover { background: var(--surface-2); }
+
+  /* Content */
+  .content { padding: 20px 24px; }
+
+  /* Table */
+  .table-wrap {
+    overflow-x: auto;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px var(--shadow);
+    position: relative;
+  }
+  /* Fade on right edge when table overflows — added via JS .has-overflow class */
+  .table-wrap.has-overflow {
+    -webkit-mask-image: linear-gradient(to right, black calc(100% - 48px), transparent 100%);
+    mask-image: linear-gradient(to right, black calc(100% - 48px), transparent 100%);
+  }
+  .table-wrap.has-overflow.scrolled-right {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+  /* In the stylesheet, not inline, so the mobile media query can hide it —
+     an inline display:flex overrode that, and the caption filling in after
+     JS render squeezed the tabs onto two lines (the main mobile layout shift). */
+  #table-caption-tab { display: flex; align-items: center; font-size: 12px; color: #9ca3af; font-weight: 500; padding-right: 4px; }
+  .table-caption-bar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px 16px 4px;
+    font-size: 12px;
+    color: var(--text-4);
+    font-weight: 500;
+    letter-spacing: 0.01em;
+  }
+  .table-caption-bar .live-dot { width: 6px; height: 6px; margin-right: 4px; top: 0; }
+  table { width: 100%; border-collapse: collapse; background: var(--surface); }
+  th {
+    background: var(--surface-2);
+    padding: 9px 14px;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: var(--text-4);
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+    border-bottom: 0.5px solid var(--border-3);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  th:hover { background: var(--surface-3); color: var(--text); }
+  th.sorted-asc::after { content: " ↑"; color: var(--accent); }
+  th.sorted-desc::after { content: " ↓"; color: var(--accent); }
+  td {
+    padding: 10px 14px;
+    border-bottom: 0.5px solid var(--border-4);
+    vertical-align: top;
+  }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: var(--row-hover); }
+  tr.bookmarked td { background: var(--row-bm); }
+  tr.bookmarked:hover td { background: var(--row-bm-hover); }
+
+  /* Column min-widths so content doesn't crush before scrolling kicks in */
+  #listings-table td:nth-child(1), #seekers-table td:nth-child(1) { min-width: 72px; }   /* Posted */
+  #listings-table td:nth-child(2), #seekers-table td:nth-child(3) { min-width: 80px; }   /* Rent/Budget */
+  #listings-table td:nth-child(3)  { min-width: 120px; }  /* Location */
+  #listings-table td:nth-child(4)  { min-width: 90px; }   /* Available */
+  #listings-table td:nth-child(8)  { max-width: 200px; }  /* Amenities */
+  #seekers-table td:nth-child(6)   { min-width: 120px; }  /* Neighborhoods */
+  #seekers-table td:nth-child(8)   { min-width: 180px; max-width: 240px; }  /* Bio */
+
+  .rent { font-weight: 700; font-size: 17px; letter-spacing: -0.5px; color: var(--rent); font-variant-numeric: tabular-nums; }
+  .rent-null { color: var(--rent-null); font-weight: normal; font-size: 13px; }
+
+  /* Listing type tags */
+  .tag {
+    display: inline-block;
+    padding: 2px 7px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+  }
+  .tag-short           { background: #fef9c3; color: #854d0e; }
+  .tag-long            { background: #dcfce7; color: #166534; }
+  .tag-sublease        { background: #ede9fe; color: #4c1d95; }
+  .tag-lease_takeover  { background: #ffedd5; color: #9a3412; }
+  .tag-room_rental     { background: #d1fae5; color: #065f46; }
+  .tag-entire_unit     { background: #dbeafe; color: #1e3a8a; }
+  .tag-internship      { background: #fce7f3; color: #9d174d; }
+  .tag-student         { background: #ecfdf5; color: #065f46; }
+  .tag-new_job         { background: #eff6ff; color: #1e40af; }
+  .tag-rotation        { background: #f5f3ff; color: #5b21b6; }
+  .tag-relocation      { background: #fffbeb; color: #92400e; }
+  .tag-other           { background: #f3f4f6; color: #4b5563; }
+  .badge-expired       { background: #fee2e2; color: #991b1b; font-size: 12px; margin-left: 4px; }
+  .badge-old           { background: var(--surface-3); color: var(--text-4); font-size: 12px; margin-left: 4px; }
+  html.dark .badge-expired { background: #3a1414; color: #fca5a5; }
+
+  .amenities { display: flex; flex-wrap: wrap; gap: 4px; }
+  .amenity { background: var(--surface-3); border-radius: 20px; padding: 2px 8px; font-size: 12px; color: var(--text-2); }
+
+  .btn-post {
+    display: inline-block;
+    padding: 5px 12px;
+    background: #4f46e5;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .btn-post:hover { background: var(--accent-hover); }
+  .btn-post-profile {
+    background: var(--surface-3);
+    color: var(--text-4);
+    border: 1px solid var(--border);
+  }
+  .btn-post-profile:hover { background: var(--border); }
+  .btn-post-search {
+    display: inline-block;
+    padding: 5px 8px;
+    margin-left: 4px;
+    background: transparent;
+    color: var(--text-4);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  .btn-post-search:hover { background: var(--surface-3); color: var(--text-2); }
+
+  .chip { display: inline-block; background: var(--row-bm); color: var(--accent); border-radius: 20px; padding: 2px 9px; font-size: 12px; font-weight: 500; margin: 1px 2px 1px 0; }
+  .chip-type { display: inline-block; background: var(--surface-3); color: var(--text-4); border-radius: 20px; padding: 2px 9px; font-size: 12px; margin: 1px 2px 1px 0; }
+  .bio-cell { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; max-width: 280px; }
+
+  /* User status column */
+  .status-cell { display: flex; align-items: center; gap: 6px; white-space: nowrap; }
+
+  .bm-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px;
+    border-radius: 4px;
+    line-height: 0;
+    color: var(--border);
+    transition: color 0.15s;
+  }
+  .bm-btn:hover { color: #f59e0b; }
+  .bm-btn.active { color: #f59e0b; }
+
+  .note-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px;
+    border-radius: 4px;
+    line-height: 0;
+    color: var(--border);
+    transition: color 0.15s;
+  }
+  .note-btn:hover { color: var(--accent); }
+  .note-btn.active { color: var(--accent); }
+
+  .report-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px;
+    border-radius: 4px;
+    line-height: 0;
+    color: var(--border);
+    transition: color 0.15s;
+  }
+  .report-btn:hover { color: #dc2626; }
+
+  /* User tag select */
+  .utag-select {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 3px 6px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+    background: var(--surface-2);
+    color: var(--text-2);
+    max-width: 110px;
+  }
+  .utag-select:focus { border-color: var(--accent); }
+  .utag-select.tag-interested  { background: #dcfce7; color: #166534; border-color: #86efac; }
+  .utag-select.tag-contacted   { background: #dbeafe; color: #1e40af; border-color: #93c5fd; }
+  .utag-select.tag-toured      { background: #f3e8ff; color: #6b21a8; border-color: #c4b5fd; }
+  .utag-select.tag-applied     { background: #fef9c3; color: #854d0e; border-color: #fde047; }
+  .utag-select.tag-not_a_fit   { background: #fee2e2; color: #991b1b; border-color: #fca5a5; }
+
+  /* Spam cards */
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
+  .card { background: var(--surface); border-radius: 8px; box-shadow: 0 1px 4px var(--shadow); padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+  .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+  .card-date { font-size: 12px; color: var(--text-3); white-space: nowrap; }
+  .card-text { font-size: 13px; color: var(--text-2); line-height: 1.5; }
+  .card-text.collapsed { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+  .card-expand { font-size: 12px; color: #1877f2; cursor: pointer; border: none; background: none; padding: 0; }
+  .card-expand:hover { text-decoration: underline; }
+
+  .empty { padding: 60px 0; text-align: center; color: var(--text-4); font-size: 15px; }
+
+  /* Pagination */
+  .pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 18px 0 4px;
+  }
+  .page-btn {
+    padding: 6px 12px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--surface);
+    color: var(--text-2);
+    font-size: 13px;
+    cursor: pointer;
+    font-variant-numeric: tabular-nums;
+  }
+  .page-btn:hover:not(:disabled) { background: var(--surface-2); color: var(--text); }
+  .page-btn:disabled { opacity: 0.4; cursor: default; }
+  .page-btn.page-num { min-width: 34px; padding: 6px 8px; text-align: center; }
+  .page-btn.page-num.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+    opacity: 1;
+    cursor: default;
+  }
+  .page-ellipsis { padding: 6px 4px; color: var(--text-4); font-size: 13px; }
+  .page-info { font-size: 12px; color: var(--text-4); font-variant-numeric: tabular-nums; }
+
+  /* Map split pane (shared across Listings/Room Seekers) */
+  .map-toggle-pill {
+    padding: 6px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-2);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    align-self: flex-end;
+  }
+  .map-toggle-pill:hover { background: var(--surface-2); }
+  .map-toggle-pill.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  #main-area { display: block; }
+  #map-pane { display: none; }
+  #main-area.map-open {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    padding: 0 24px 20px;
+  }
+  #main-area.map-open #map-pane {
+    display: block;
+    flex: 1 1 50%;
+    height: 75vh;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 4px var(--shadow);
+    background: var(--surface-2);
+  }
+  /* Bounded + independently scrollable, so scrolling to a clicked pin's row
+     only moves this pane — never the whole page. */
+  #main-area.map-open #content-pane {
+    flex: 1 1 50%;
+    min-width: 0;
+    height: 75vh;
+    overflow-y: auto;
+    padding: 0 12px 20px 0;
+  }
+  #map-canvas { width: 100%; height: 100%; }
+  .leaflet-tooltip.map-rent-tooltip { font-weight: 700; font-size: 12px; }
+
+  /* Highlight state for the real table row / mobile card, driven by map pin
+     clicks — a single clean wash + left accent stripe, not a per-cell grid. */
+  tr[id^="lrow-"] { scroll-margin-top: 40px; } /* clears the sticky thead when scrolled to the top */
+  tr.map-highlighted td { background: var(--row-map-highlight) !important; }
+  tr.map-highlighted td:first-child { box-shadow: inset 3px 0 0 var(--accent); }
+  .m-card.map-highlighted { background: var(--row-map-highlight); box-shadow: inset 3px 0 0 var(--accent); }
+
+  /* Selected pin on the map, driven from either direction — a soft accent
+     glow + lift, keeping the marker's own color rather than shifting hue. */
+  .leaflet-marker-icon.marker-highlighted {
+    filter: drop-shadow(0 0 5px var(--accent)) drop-shadow(0 0 2px var(--accent));
+    transform: scale(1.3) translateY(-2px);
+    z-index: 10000 !important;
+  }
+
+  /* Whole row/card is clickable to pan the map, while the map is open */
+  #main-area.map-open #listings-body tr,
+  #main-area.map-open #seekers-body tr,
+  #main-area.map-open .m-card {
+    cursor: pointer;
+  }
+
+  /* Row-level "pan map to this pin" button — only meaningful while the map pane is open */
+  .pin-to-map-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px;
+    border-radius: 4px;
+    line-height: 0;
+    color: var(--border);
+    transition: color 0.15s;
+    display: none;
+  }
+  #main-area.map-open .pin-to-map-btn { display: inline-flex; }
+  /* Pagination is bypassed while the map is open (every row needs to exist
+     in the DOM for pins to work), so the controls would be meaningless. */
+  #main-area.map-open .pagination { display: none; }
+  .pin-to-map-btn:hover { color: var(--accent); }
+
+  @media (max-width: 900px) {
+    #main-area.map-open { flex-direction: column; padding: 0; }
+    #main-area.map-open #map-pane { flex: none; width: 100%; height: 300px; }
+    #main-area.map-open #content-pane { flex: none; width: 100%; height: 55vh; padding: 12px 24px 20px; }
+  }
+
+  /* Modal overlay */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: var(--overlay);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+  .modal {
+    background: var(--surface);
+    border-radius: 12px;
+    padding: 28px;
+    width: 100%;
+    max-width: 420px;
+    box-shadow: 0 8px 32px var(--shadow-lg);
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .modal h3 { font-size: 18px; font-weight: 700; }
+  .faq-item { display: flex; flex-direction: column; gap: 3px; }
+  .faq-q { font-size: 13px; font-weight: 700; color: var(--text); }
+  .faq-a { font-size: 13px; color: var(--text-2); line-height: 1.45; }
+  .modal p { font-size: 13px; color: var(--text-2); }
+  .modal input[type=email], .modal input[type=password], .modal textarea, .modal select {
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 14px;
+    outline: none;
+    font-family: inherit;
+    box-sizing: border-box;
+    background: var(--surface);
+    color: var(--text);
+  }
+  .modal input[type=email]:focus, .modal input[type=password]:focus, .modal textarea:focus, .modal select:focus { border-color: var(--accent); }
+  .modal textarea { resize: vertical; min-height: 100px; }
+  .modal-divider { text-align: center; color: var(--text-4); font-size: 12px; position: relative; }
+  .modal-divider::before, .modal-divider::after { content: ''; position: absolute; top: 50%; width: 42%; height: 1px; background: var(--border); }
+  .modal-divider::before { left: 0; }
+  .modal-divider::after { right: 0; }
+  .modal-actions { display: flex; gap: 10px; justify-content: flex-end; }
+
+  .btn-google {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 16px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--surface);
+    color: var(--text);
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    width: 100%;
+  }
+  .btn-google:hover { background: var(--surface-2); }
+  .btn-primary {
+    padding: 10px 16px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    width: 100%;
+  }
+  .btn-primary:hover { background: var(--accent-hover); }
+  .btn-secondary {
+    padding: 8px 16px;
+    background: var(--surface);
+    color: var(--text-2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+  .btn-secondary:hover { background: var(--surface-2); }
+  .btn-danger {
+    padding: 8px 16px;
+    background: #fee2e2;
+    color: #991b1b;
+    border: 1px solid #fca5a5;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+
+
+  /* ── Mobile card layout ───────────────────────────────────────────────────── */
+  .mobile-list { display: none; }
+
+  @media (max-width: 767px) {
+    .header-bridge { display: none; }
+    #table-caption-tab { display: none; }
+    .table-wrap { display: none !important; }
+    .mobile-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .m-card {
+      background: var(--surface);
+      border-radius: 10px;
+      box-shadow: 0 1px 4px var(--shadow);
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      scroll-margin-top: 12px;
+    }
+    .m-card.bookmarked { background: var(--row-bm); }
+    .m-card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .m-card-rent { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; color: var(--rent); font-variant-numeric: tabular-nums; }
+    .m-card-budget { font-size: 20px; font-weight: 800; letter-spacing: -0.5px; color: var(--rent); }
+    .m-card-posted { font-size: 12px; color: var(--text-4); text-align: right; flex-shrink: 0; }
+    .m-card-location { font-size: 15px; font-weight: 600; color: var(--text); }
+    .m-card-sub { font-size: 12px; color: var(--text-3); margin-top: 1px; }
+    .m-card-meta { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
+    .m-card-avail { font-size: 12px; color: var(--text-2); }
+    .m-card-hoods { display: flex; flex-wrap: wrap; gap: 4px; }
+    .m-card-bio { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .m-card-amenities { font-size: 12px; color: var(--text-4); }
+    .m-card-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 2px; padding-top: 8px; border-top: 0.5px solid var(--border-4); }
+  }
+
+  @media (max-width: 600px) {
+    header, .tabs, .filters, .content { padding-left: 12px; padding-right: 12px; }
+    header { flex-wrap: wrap; row-gap: 8px; }
+    header > div:first-child { width: 100%; }
+    .header-tagline-sub { display: none; }
+    .filters { flex-direction: column; align-items: stretch; }
+    .filters input[type=text], .filters input[type=number] { width: 100%; }
+    .clear-btn { margin-left: 0; }
+  }
+
+  /* ── Dark mode overrides ──────────────────────────────────────────────────── */
+  html.dark header {
+    background: linear-gradient(135deg, #070b1a 0%, #0c1535 35%, #111e4a 65%, #0a1230 100%);
+  }
+  html.dark header h1 { color: #e8eaf6; }
+  html.dark .header-tagline { color: #7986cb !important; }
+  html.dark .header-tagline-sub { color: #6a76b0 !important; }
+  html.dark #auth-btn { background: rgba(255,255,255,0.12); color: #e8eaf6; border-color: rgba(255,255,255,0.2); }
+  html.dark #auth-btn:hover { background: rgba(255,255,255,0.2); }
+  html.dark #signout-btn { color: #9fa8da; }
+  html.dark #user-email { color: #9fa8da; }
+
+  /* Night/day SVG layer toggles */
+  .night-only { display: none; }
+  html.dark .night-only { display: block; }
+  html.dark .day-only   { display: none; }
+
+  /* chip-type needs better contrast in dark */
+  html.dark .chip-type { background: #3a3a3c; color: #c7c7cc; }
+  html.dark .chip      { background: #2d2d00; color: #a5b4fc; }
+  #update-banner {
+    position: fixed; top: 12px; left: 50%; transform: translateX(-50%);
+    z-index: 2000; display: flex; align-items: center; gap: 10px;
+    max-width: calc(100vw - 32px); padding: 8px 8px 8px 16px;
+    background: var(--surface); color: var(--text);
+    border: 1px solid var(--border); border-radius: 999px;
+    box-shadow: 0 4px 16px var(--shadow-lg); font-size: 14px;
+  }
+  #update-banner .ub-text { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #update-banner .ub-action {
+    border: none; border-radius: 999px; padding: 6px 14px; cursor: pointer;
+    background: var(--accent); color: #fff; font: inherit; font-weight: 600;
+  }
+  #update-banner .ub-action:hover { background: var(--accent-hover); }
+  #update-banner .ub-close {
+    border: none; background: none; color: var(--text); opacity: .6;
+    font-size: 18px; line-height: 1; cursor: pointer; padding: 0 6px;
+  }
+  #update-banner .ub-close:hover { opacity: 1; }
+</style>
+</head>
+<body>
+
+<header>
+  <div style="position:relative;z-index:2">
+    <h1>SF Rooms</h1>
+    <div class="header-tagline" style="font-size:12px;color:#7a4a1a;margin-top:2px;font-weight:600">SF Bay Area housing posts from Facebook groups — organized, searchable, updated hourly.</div>
+    <div class="header-tagline-sub" style="font-size:12px;color:#8a5a20;margin-top:1px;font-weight:400">Not a listing host — every result links back to the original Facebook post.</div>
+  </div>
+  <div class="spacer"></div>
+  <button id="theme-btn" onclick="toggleTheme()" title="Toggle dark mode" class="theme-btn-el">🌙</button>
+  <!-- Golden Gate Bridge illustration -->
+  <svg class="header-bridge" viewBox="0 0 560 80" preserveAspectRatio="xMidYMax meet" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <mask id="crescent-mask">
+        <circle cx="420" cy="20" r="14" fill="white"/>
+        <circle cx="428" cy="15" r="11" fill="black"/>
+      </mask>
+    </defs>
+
+    <!-- ── Day elements ─────────────────────────────────────────── -->
+    <g class="day-only">
+      <circle cx="430" cy="22" r="18" fill="#f5d06a" opacity="0.85"/>
+      <rect x="0" y="62" width="560" height="18" fill="#6aabbd" opacity="0.55"/>
+      <rect x="0" y="67" width="560" height="4" fill="#5599aa" opacity="0.4"/>
+    </g>
+
+    <!-- ── Night elements ───────────────────────────────────────── -->
+    <g class="night-only">
+      <!-- Stars -->
+      <circle cx="30"  cy="8"  r="1"   fill="white" opacity="0.9"/>
+      <circle cx="75"  cy="15" r="0.8" fill="white" opacity="0.7"/>
+      <circle cx="140" cy="6"  r="1.2" fill="white" opacity="0.85"/>
+      <circle cx="195" cy="18" r="0.7" fill="white" opacity="0.6"/>
+      <circle cx="230" cy="5"  r="1"   fill="white" opacity="0.9"/>
+      <circle cx="270" cy="12" r="0.8" fill="white" opacity="0.75"/>
+      <circle cx="310" cy="4"  r="1.1" fill="white" opacity="0.8"/>
+      <circle cx="345" cy="20" r="0.7" fill="white" opacity="0.65"/>
+      <circle cx="395" cy="7"  r="1"   fill="white" opacity="0.9"/>
+      <circle cx="440" cy="40" r="0.8" fill="white" opacity="0.6"/>
+      <circle cx="470" cy="10" r="1.2" fill="white" opacity="0.85"/>
+      <circle cx="500" cy="25" r="0.7" fill="white" opacity="0.7"/>
+      <circle cx="530" cy="8"  r="1"   fill="white" opacity="0.8"/>
+      <circle cx="550" cy="18" r="0.9" fill="white" opacity="0.65"/>
+      <circle cx="55"  cy="30" r="0.6" fill="white" opacity="0.5"/>
+      <circle cx="160" cy="28" r="0.7" fill="white" opacity="0.55"/>
+      <circle cx="490" cy="40" r="0.8" fill="white" opacity="0.6"/>
+      <!-- Crescent moon -->
+      <circle cx="420" cy="20" r="14" fill="#fef3c7" opacity="0.92" mask="url(#crescent-mask)"/>
+      <!-- Night water -->
+      <rect x="0" y="62" width="560" height="18" fill="#0d2535" opacity="0.85"/>
+      <rect x="0" y="67" width="560" height="4" fill="#0a1e2e" opacity="0.7"/>
+      <!-- Water shimmer/reflection -->
+      <line x1="60"  y1="68" x2="120" y2="68" stroke="#1e4a6a" stroke-width="1" opacity="0.6"/>
+      <line x1="200" y1="70" x2="260" y2="70" stroke="#1e4a6a" stroke-width="1" opacity="0.5"/>
+      <line x1="330" y1="67" x2="390" y2="67" stroke="#1e4a6a" stroke-width="1" opacity="0.6"/>
+    </g>
+
+    <!-- ── Bridge structure (shared, colors shift in dark via CSS) ── -->
+    <path d="M 80 8 Q 230 54 380 8" fill="none" stroke="#9b3a2a" stroke-width="2.2"/>
+    <line x1="110" y1="16" x2="110" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="135" y1="22" x2="135" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="160" y1="30" x2="160" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="185" y1="37" x2="185" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="210" y1="43" x2="210" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="250" y1="49" x2="250" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="275" y1="51" x2="275" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="300" y1="49" x2="300" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="325" y1="44" x2="325" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <line x1="350" y1="37" x2="350" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <rect x="0" y="61" width="560" height="3" fill="#9b3a2a"/>
+    <rect x="74" y="4" width="12" height="58" rx="1" fill="#9b3a2a"/>
+    <rect x="70" y="12" width="20" height="4" rx="1" fill="#7a2d1e"/>
+    <rect x="70" y="24" width="20" height="4" rx="1" fill="#7a2d1e"/>
+    <rect x="70" y="36" width="20" height="4" rx="1" fill="#7a2d1e"/>
+    <rect x="374" y="4" width="12" height="58" rx="1" fill="#9b3a2a"/>
+    <rect x="370" y="12" width="20" height="4" rx="1" fill="#7a2d1e"/>
+    <rect x="370" y="24" width="20" height="4" rx="1" fill="#7a2d1e"/>
+    <rect x="370" y="36" width="20" height="4" rx="1" fill="#7a2d1e"/>
+    <line x1="80" y1="8" x2="0" y2="52" stroke="#9b3a2a" stroke-width="2.2"/>
+    <line x1="380" y1="8" x2="460" y2="52" stroke="#9b3a2a" stroke-width="2.2"/>
+
+    <!-- Tower lights (night only) -->
+    <g class="night-only">
+      <circle cx="80"  cy="5"  r="2.5" fill="#fbbf24" opacity="0.9"/>
+      <circle cx="380" cy="5"  r="2.5" fill="#fbbf24" opacity="0.9"/>
+      <circle cx="80"  cy="5"  r="5"   fill="#fbbf24" opacity="0.2"/>
+      <circle cx="380" cy="5"  r="5"   fill="#fbbf24" opacity="0.2"/>
+    </g>
+  </svg>
+  <button id="report-issue-btn" onclick="openFeedbackModal('site_down')" title="Report the site being down or not updated">⚠ Report issue</button>
+  <div id="auth-area">
+    <button id="auth-btn" onclick="showAuthModal()" title="Save listings, add private notes, and organize your search with tags">Sign in</button>
+  </div>
+</header>
+
+
+
+<div class="tabs">
+  <div class="tab active" data-tab="listings">Listings <span class="badge" id="badge-listings">2054</span></div>
+  <div class="tab" data-tab="seekers">Room Seekers <span class="badge" id="badge-seekers">2766</span></div>
+  <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">437</span></div>
+  <div class="spacer"></div>
+  <div id="table-caption-tab"><span class="live-dot"></span><span id="table-caption" title="&#39;Updated&#39; means SF Rooms checked for new posts at this time — it doesn&#39;t mean every listing has been reconfirmed by the poster."></span></div>
+</div>
+
+<div class="tab-subtitle" id="tab-subtitle">Available rooms, subleases, and lease takeovers posted by people offering a place.</div>
+
+<!-- Listing filters -->
+<div class="filters" id="listing-filters">
+  <label title="Broader Bay Area region — San Francisco, East Bay, Peninsula, South Bay, or North Bay">Region
+    <select id="f-area">
+      <option value="">Any</option>
+      <option value="San Francisco">San Francisco</option>
+      <option value="East Bay">East Bay</option>
+      <option value="The Peninsula">The Peninsula</option>
+      <option value="South Bay">South Bay</option>
+      <option value="North Bay">North Bay</option>
+    </select>
+  </label>
+  <label>Neighborhood
+    <input type="text" id="f-neighborhood" placeholder="e.g. Mission">
+  </label>
+  <label>Max Rent ($)
+    <input type="number" id="f-rent" placeholder="e.g. 2500" min="0" step="100">
+  </label>
+  <label>Duration
+    <select id="f-duration">
+      <option value="">Any</option>
+      <option value="short_term">Short term</option>
+      <option value="long_term">Long term</option>
+    </select>
+  </label>
+  <label>Listing type
+    <select id="f-listing-type">
+      <option value="">Any</option>
+      <option value="sublease">Sublease</option>
+      <option value="lease_takeover">Lease takeover</option>
+      <option value="room_rental">Room rental</option>
+      <option value="entire_unit">Entire unit</option>
+    </select>
+  </label>
+  <label>Furnished
+    <select id="f-furnished">
+      <option value="">Any</option>
+      <option value="true">Yes</option>
+      <option value="false">No</option>
+    </select>
+  </label>
+  <label title="Tags you created yourself while browsing — not supplied by the listing poster">My tags
+    <select id="f-tag">
+      <option value="">Any</option>
+      <option value="interested">Interested</option>
+      <option value="contacted">Contacted</option>
+      <option value="toured">Toured</option>
+      <option value="applied">Applied</option>
+      <option value="not_a_fit">Not a fit</option>
+      <option value="_bookmarked">⭐ Bookmarked</option>
+    </select>
+  </label>
+  <label>Posted within
+    <select id="f-posted-within">
+      <option value="3">Last 3 hours</option>
+      <option value="6">Last 6 hours</option>
+      <option value="12">Last 12 hours</option>
+      <option value="24">Last 1 day</option>
+      <option value="72">Last 3 days</option>
+      <option value="168">Last 7 days</option>
+      <option value="336">Last 14 days</option>
+      <option value="720" selected>Last 30 days</option>
+      <option value="">All time</option>
+    </select>
+  </label>
+  <button class="map-toggle-pill" id="map-toggle-btn-listings" onclick="toggleMapPane()">🗺 Map</button>
+  <button class="clear-btn" id="clear-listing-filters">Clear filters</button>
+</div>
+
+<!-- Seeker filters -->
+<div class="filters" id="seeker-filters" style="display:none">
+  <label title="Broader Bay Area region — San Francisco, East Bay, Peninsula, South Bay, or North Bay">Region
+    <select id="sf-area">
+      <option value="">Any</option>
+      <option value="San Francisco">San Francisco</option>
+      <option value="East Bay">East Bay</option>
+      <option value="The Peninsula">The Peninsula</option>
+      <option value="South Bay">South Bay</option>
+      <option value="North Bay">North Bay</option>
+    </select>
+  </label>
+  <label>Max Budget ($)
+    <input type="number" id="sf-budget" placeholder="e.g. 2000" min="0" step="100">
+  </label>
+  <label>Duration
+    <select id="sf-duration">
+      <option value="">Any</option>
+      <option value="short_term">Short term</option>
+      <option value="long_term">Long term</option>
+    </select>
+  </label>
+  <label>Reason
+    <select id="sf-reason">
+      <option value="">Any</option>
+      <option value="internship">Internship</option>
+      <option value="student">Student</option>
+      <option value="new_job">New job</option>
+      <option value="rotation">Rotation</option>
+      <option value="relocation">Relocation</option>
+      <option value="other">Other</option>
+    </select>
+  </label>
+  <label>Move-in by
+    <input type="text" id="sf-movein" placeholder="e.g. 2026-07-01">
+  </label>
+  <label title="Only shown for posts where age was explicitly stated">Max Age
+    <input type="number" id="sf-age" placeholder="e.g. 30" min="0" step="1">
+  </label>
+  <label title="Tags you created yourself while browsing — not supplied by the listing poster">My tags
+    <select id="sf-tag">
+      <option value="">Any</option>
+      <option value="interested">Interested</option>
+      <option value="contacted">Contacted</option>
+      <option value="toured">Toured</option>
+      <option value="applied">Applied</option>
+      <option value="not_a_fit">Not a fit</option>
+      <option value="_bookmarked">⭐ Bookmarked</option>
+    </select>
+  </label>
+  <label>Posted within
+    <select id="sf-posted-within">
+      <option value="3">Last 3 hours</option>
+      <option value="6">Last 6 hours</option>
+      <option value="12">Last 12 hours</option>
+      <option value="24">Last 1 day</option>
+      <option value="72">Last 3 days</option>
+      <option value="168">Last 7 days</option>
+      <option value="336">Last 14 days</option>
+      <option value="720" selected>Last 30 days</option>
+      <option value="">All time</option>
+    </select>
+  </label>
+  <button class="map-toggle-pill" id="map-toggle-btn-seekers" onclick="toggleMapPane()">🗺 Map</button>
+  <button class="clear-btn" id="clear-seeker-filters">Clear filters</button>
+</div>
+
+<div id="main-area">
+<div id="map-pane"><div id="map-canvas"></div></div>
+<div class="content" id="content-pane">
+  <div id="view-listings">
+    <div class="table-wrap">
+      <table id="listings-table">
+        <thead>
+          <tr>
+            <th data-col="posted_at">Posted</th>
+            <th data-col="rent">Rent</th>
+            <th data-col="area">Area</th>
+            <th data-col="neighborhood">Location</th>
+            <th data-col="available_from">Available</th>
+            <th data-col="duration_type">Duration</th>
+            <th data-col="listing_type">Type</th>
+            <th data-col="is_furnished">Furnished</th>
+            <th data-col="amenities">Amenities</th>
+            <th title="Sign in to bookmark, tag, and add private notes to listings">Save</th>
+            <th>Post</th>
+          </tr>
+        </thead>
+        <tbody id="listings-body"></tbody>
+      </table>
+    </div>
+    <div class="mobile-list" id="listings-mobile"></div>
+    <div class="empty" id="listings-empty" style="display:none">No listings match your filters.</div>
+    <div class="pagination" id="listings-pagination"></div>
+  </div>
+
+  <div id="view-seekers" style="display:none">
+    <div class="table-wrap">
+      <table id="seekers-table">
+        <thead>
+          <tr>
+            <th data-scol="posted_at">Posted</th>
+            <th data-scol="move_in_date">Move-in</th>
+            <th data-scol="budget_max">Budget</th>
+            <th data-scol="duration_type">Duration</th>
+            <th data-scol="reason">Reason</th>
+            <th data-scol="area">Area</th>
+            <th data-scol="preferred_neighborhoods">Neighborhoods</th>
+            <th data-scol="unit_type_wanted">Looking for</th>
+            <th data-scol="bio">Bio</th>
+            <th data-scol="age">Age</th>
+            <th data-scol="group_size">Group</th>
+            <th title="Sign in to bookmark, tag, and add private notes to listings">Save</th>
+            <th>Post</th>
+          </tr>
+        </thead>
+        <tbody id="seekers-body"></tbody>
+      </table>
+    </div>
+    <div class="mobile-list" id="seekers-mobile"></div>
+    <div class="empty" id="seekers-empty" style="display:none">No seeker posts match your filters.</div>
+    <div class="pagination" id="seekers-pagination"></div>
+  </div>
+
+  <div id="view-spam" style="display:none">
+    <div class="cards" id="spam-cards"></div>
+    <div class="empty" id="spam-empty" style="display:none">No spam posts.</div>
+    <div class="pagination" id="spam-pagination"></div>
+  </div>
+
+
+</div>
+</div>
+
+<!-- SEO_CONTENT_START -->
+<section id="static-preview" style="max-width:900px;margin:0 auto;padding:16px 20px">
+<h2 style="font-size:16px;margin:0 0 6px">Recent San Francisco Housing Listings — Updated 2026-09-27</h2>
+<p style="font-size:13px;color:#666;margin:0 0 10px">Showing 50 of 2054 San Francisco room rentals, subleases, lease takeovers, and roommates from Facebook groups — updated hourly. <noscript>Enable JavaScript for the full searchable, filterable view.</noscript></p>
+<ul style="font-size:13px;line-height:1.7;padding-left:20px;margin:0">
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4727460167488986">$2,900/month, Ingleside, San Francisco, room rental, long term, 4B3B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4727440684157601">$4,500/month, Nob Hill, San Francisco, entire unit, short term, available 2026-10-17, 1B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4727392164162453">$4,500/month, SoMa, San Francisco, room rental, long term, 3B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4727378214163848">$2,650/month, Potrero Hill, San Francisco, sublease, short term, available 2026-11-05, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2016890065669232">$3,100/month, Russian Hill, San Francisco, room rental, long term, available 2026-11-01, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4727259957509007">$1,392/month, South San Francisco, The Peninsula, room rental, long term, 4B4B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2016811722343733">$2,200/month, Lower Pacific Heights, San Francisco, room rental, long term, available 2026-10-01, 5B2.5B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4727178964183773">$2,432/month, Noe Valley, San Francisco, room rental, long term, available 2026-10-01, 3B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4727060127528990">Listing</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28461042600219691">$4,000/month, Russian Hill, San Francisco, room rental, short term, 2B3B</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28459165130407438">Nob Hill, San Francisco, room rental, long term, 3B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28455258040798147">$2,000/month, SoMa, San Francisco, lease takeover, long term</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28446656778324940">$2,500/month, entire unit, long term, 1B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28461033260220625">$1,979/month, South San Jose, South Bay, lease takeover, long term, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28459648863692398">$2,300/month, Russian Hill, San Francisco, lease takeover, long term, available 2026-11-01, 3B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28446352221688729">Mission Bay, San Francisco, lease takeover, long term, 1B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4726638220904514">$1,100/month, North Beach, San Francisco, lease takeover, long term, available 2026-11-01, 4B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4726609580907378">$1,850/month, Lower Nob Hill, San Francisco, lease takeover, long term, available 2026-10-11, 2B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2016207075737531">$5,504/month, Burlingame, The Peninsula, lease takeover, long term, available 2026-11-01, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2016151799076392">$5,000/month, Rincon Hill, San Francisco, sublease, short term, available 2026-11-06, 1B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2016129922411913">$3,000/month, South of Market, San Francisco, room rental, long term, available 2026-10-25, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2016118215746417">$1,250/month, Outer Sunset, San Francisco, room rental, 5B2.5B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4726337834267886">$2,150/month, South of Market, San Francisco, sublease, short term, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2016018525756386">$2,300/month, Russian Hill, San Francisco, lease takeover, available 2026-11-01, 3B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4726050550963281">$1,375/month, Glen Park, San Francisco, room rental, long term, available 2026-10-01, 3B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4726042430964093">$5,400/month, North Beach, San Francisco, sublease, long term, available 2026-10-01, 1B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2015304732494432">$1,395/month, Silver Terrace, San Francisco, room rental, long term, available 2026-09-27</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4725397044361965">$3,100/month, Lower Pac Heights, San Francisco, room rental, long term, available 2026-10-01, 4B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2015114742513431">$3,025/month, SoMa, San Francisco, room rental, long term, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2015190425839196">$3,000/month, NoPa, San Francisco, room rental, long term, available 2026-10-01</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4725246231043713">$1,023/month, North Park, South Bay, room rental, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4725127744388895">$2,225/month, Upper Nob Hill, San Francisco, sublease, short term, available 2026-10-01</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4724925491075787">$2,090/month, Alamo Square, San Francisco, room rental, long term, available 2026-11-01, 3B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28435055289485089">$1,680/month, Richmond District, San Francisco, sublease, long term, available 2026-10-01, 2B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4724789077756095">$2,017/month, Presidio, San Francisco, room rental, long term, available 2026-10-02, 3B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4724750934426576">$2,300/month, San Francisco, San Francisco</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28434097669580851">$4,800/month, Cole Valley, San Francisco, sublease, short term, available 2026-12-15, 1B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28435635496093735">$2,000/month, Rincon Hill, San Francisco, sublease, long term</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28436371602686791">$2,000/month, Union Square, San Francisco, sublease, long term</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28436321262691825">$2,000/month, Rincon Hill, San Francisco, sublease, long term</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28436964815960803">Marina, San Francisco, sublease, short term, available 2026-10-30, studio</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4724220584479611">$1,280/month, Outer Mission, San Francisco, room rental, long term, available 2026-11-01</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2014338192591086">$1,600/month, Bernal Heights, San Francisco, room rental, long term, available 2026-10-15, 4B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4724176351150701">$2,200/month, Forest Hills, San Francisco, room rental, long term, available 2026-10-01, 4B3.5B</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2014295362595369">$3,400/month, Lower Haight / Alamo Square, San Francisco, room rental, long term, available 2026-10-07, 5B2B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4724130931155243">Alamo Square, San Francisco, sublease, short term, available 2026-10-01</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4724082347826768">$4,540/month, Mission Bay, San Francisco, entire unit, long term, available 2026-09-26, studio</a></li>
+    <li><a href="https://www.facebook.com/groups/242765489748374/posts/2014222459269326">$2,800/month, Temescal, East Bay, entire unit, long term, 2B1B</a></li>
+    <li><a href="https://www.facebook.com/groups/2176716625896699/posts/4723883344513335">$2,495/month, Lower Nob Hill, San Francisco, entire unit, long term, studio</a></li>
+    <li><a href="https://www.facebook.com/groups/843764532374203/posts/28428313540159264">$2,000/month, SOMA, San Francisco, sublease, long term</a></li>
+</ul>
+</section>
+<!-- SEO_CONTENT_END -->
+
+<footer class="site-footer">
+  <a href="#" onclick="showHowItWorksModal();return false;">How it works</a> ·
+  Have feedback or a feature request? <a href="#" onclick="openFeedbackModal('feedback');return false;">Contact us</a>
+</footer>
+
+<!-- How it works / trust modal -->
+<div class="modal-overlay" id="how-it-works-modal" style="display:none" onclick="if(event.target===this)closeHowItWorksModal()">
+  <div class="modal" style="max-width:480px">
+    <h3>How SF Rooms works</h3>
+    <div class="faq-item">
+      <div class="faq-q">Where do listings come from?</div>
+      <div class="faq-a">SF Rooms organizes housing posts from relevant Facebook groups.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Does SF Rooms host these listings?</div>
+      <div class="faq-a">No. Every result links back to the original Facebook post — that's where you contact the poster.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Are listings verified?</div>
+      <div class="faq-a">No. SF Rooms organizes third-party posts but does not independently verify landlords, posters, properties, or availability.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How often are posts updated?</div>
+      <div class="faq-a">New posts are checked roughly hourly. That means new posts appear quickly — it doesn't mean every existing listing's availability has been reconfirmed.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Safety</div>
+      <div class="faq-a">Verify the poster and the property yourself before sending any money.</div>
+    </div>
+    <div class="modal-actions">
+      <button class="btn-secondary" onclick="closeHowItWorksModal()">Close</button>
+    </div>
+  </div>
+</div>
+
+<!-- Feedback / report-issue modal -->
+<div class="modal-overlay" id="feedback-modal" style="display:none" onclick="if(event.target===this)closeFeedbackModal()">
+  <div class="modal">
+    <h3 id="feedback-modal-title">Report an issue</h3>
+    <p id="feedback-modal-desc"></p>
+    <p id="feedback-context" style="display:none;font-size:12px;color:var(--text-3);background:var(--surface-2);padding:8px 10px;border-radius:6px"></p>
+    <select id="feedback-category" style="display:none">
+      <option value="">What's the issue?</option>
+      <option value="info_incorrect">Listing information is incorrect</option>
+      <option value="no_longer_available">Listing is no longer available</option>
+      <option value="broken_link">Original link is broken</option>
+      <option value="scam">Possible scam / unsafe listing</option>
+      <option value="site_bug">Website bug</option>
+      <option value="other">Other</option>
+    </select>
+    <textarea id="feedback-message" placeholder="What's going on?" style="min-height:100px"></textarea>
+    <input type="email" id="feedback-email" placeholder="your@email.com" autocomplete="email">
+    <p id="feedback-email-hint" style="font-size:12px;color:var(--text-3)"></p>
+    <div id="feedback-status" style="display:none;font-size:13px;text-align:center;padding:10px;border-radius:8px;"></div>
+    <div class="modal-actions">
+      <button class="btn-secondary" onclick="closeFeedbackModal()">Cancel</button>
+      <button class="btn-primary" style="width:auto" id="feedback-submit-btn" onclick="submitFeedback()">Send</button>
+    </div>
+  </div>
+</div>
+
+<!-- Auth modal -->
+<div class="modal-overlay" id="auth-modal" style="display:none" onclick="if(event.target===this)closeAuthModal()">
+  <div class="modal">
+    <h3>Save your shortlist</h3>
+    <p>Sign in to bookmark listings, add tags, and keep notes — all synced to your account.</p>
+    <button class="btn-google" onclick="signInGoogle()">
+      <svg width="18" height="18" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.2l6.8-6.8C35.8 2.5 30.3 0 24 0 14.7 0 6.7 5.4 2.9 13.3l7.9 6.1C12.6 13.1 17.9 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.1-.4-4.5H24v8.5h12.7c-.6 3-2.3 5.5-4.8 7.2l7.5 5.8c4.4-4.1 7.1-10.1 7.1-17z"/><path fill="#FBBC05" d="M10.8 28.6A14.8 14.8 0 0 1 9.5 24c0-1.6.3-3.1.7-4.6L2.3 13.3A23.9 23.9 0 0 0 0 24c0 3.9.9 7.5 2.9 10.7l7.9-6.1z"/><path fill="#34A853" d="M24 48c6.5 0 11.9-2.1 15.9-5.8l-7.5-5.8c-2.1 1.4-4.8 2.2-8.4 2.2-6.1 0-11.4-3.6-13.2-9.1l-7.9 6.1C6.7 42.6 14.7 48 24 48z"/></svg>
+      Continue with Google
+    </button>
+    <div class="modal-divider">or</div>
+    <div id="email-auth-form" style="display:flex;flex-direction:column;gap:10px">
+      <input type="email" id="auth-email" placeholder="your@email.com" autocomplete="email" onkeydown="if(event.key==='Enter')signInEmail()">
+      <input type="password" id="auth-password" placeholder="Password" autocomplete="current-password" onkeydown="if(event.key==='Enter')signInEmail()">
+      <button class="btn-primary" id="auth-submit-btn" onclick="signInEmail()">Sign in</button>
+      <div style="display:flex;justify-content:space-between;align-items:center;font-size:12px;">
+        <a href="#" onclick="toggleAuthMode(event)" id="auth-toggle-link" style="color:#4f46e5;">No account? Create one</a>
+        <a href="#" onclick="forgotPassword(event)" style="color:#888;">Forgot password?</a>
+      </div>
+    </div>
+    <div id="auth-message" style="display:none;font-size:13px;text-align:center;padding:10px;border-radius:8px;"></div>
+  </div>
+</div>
+
+<!-- Note modal -->
+<div class="modal-overlay" id="note-modal" style="display:none" onclick="if(event.target===this)closeNoteModal()">
+  <div class="modal">
+    <h3>📝 Notes</h3>
+    <p id="note-listing-label" style="font-size:12px;color:#888"></p>
+    <textarea id="note-body" placeholder="Add your notes about this listing…"></textarea>
+    <div class="modal-actions">
+      <button class="btn-danger" id="note-delete-btn" onclick="deleteNote()" style="display:none">Delete</button>
+      <button class="btn-secondary" onclick="closeNoteModal()">Cancel</button>
+      <button class="btn-primary" style="width:auto" onclick="saveNote()">Save</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── Supabase ──────────────────────────────────────────────────────────────────
+const SUPA_URL = 'https://twxlfedibabrkhskriqr.supabase.co';
+const SUPA_KEY = 'sb_publishable_xNn0UlNWyOt0vjfZwopTNw_g1lpXDeB';
+// noOpLock bypasses Supabase's Web Locks mechanism which has a known deadlock bug:
+// any async Supabase call inside onAuthStateChange causes all subsequent calls to
+// hang indefinitely with no network request ever fired. Safe for a single-user app.
+const noOpLock = (_name, _timeout, fn) => fn();
+// Assigned in initSupabase() — the SDK script is deferred so it doesn't block first paint.
+let supa = null;
+
+let currentUser = null;
+let userBookmarks = new Set();   // Set<listing_id>
+let userTags      = new Map();   // Map<listing_id, tag>
+let userNotes     = new Map();   // Map<listing_id, body>
+
+// ── Data ──────────────────────────────────────────────────────────────────────
+const DATA_BASE = './';
+// Stamped by extract_only.py (hash of this file's code, ignoring the parts the
+// pipeline rewrites hourly). Compared against version.json to spot redeploys.
+const SITE_VERSION = '4470dc6fb8cc';
+let allListings = [], allSeekers = [], allSpam = [];
+let sortCol = 'posted_at', sortDir = -1;
+let seekerSortCol = 'posted_at', seekerSortDir = -1;
+
+// ── Pagination ────────────────────────────────────────────────────────────────
+const PAGE_SIZE = 25;
+let listingsPage = 1, seekersPage = 1, spamPage = 1;
+
+function pageNumberList(page, totalPages) {
+  const delta = 2;
+  const range = [];
+  for (let i = Math.max(1, page - delta); i <= Math.min(totalPages, page + delta); i++) range.push(i);
+  if (range[0] > 1) { if (range[0] > 2) range.unshift('…'); range.unshift(1); }
+  if (range[range.length - 1] < totalPages) { if (range[range.length - 1] < totalPages - 1) range.push('…'); range.push(totalPages); }
+  return range;
+}
+
+function paginationHtml(page, totalPages, fnName) {
+  if (totalPages <= 1) return '';
+  const numbers = pageNumberList(page, totalPages).map(n =>
+    n === '…'
+      ? `<span class="page-ellipsis">…</span>`
+      : `<button class="page-btn page-num ${n === page ? 'active' : ''}" ${n === page ? 'disabled' : ''} onclick="${fnName}(${n})">${n}</button>`
+  ).join('');
+  return `
+    <button class="page-btn" ${page<=1?'disabled':''} onclick="${fnName}(${page-1})">‹ Prev</button>
+    ${numbers}
+    <button class="page-btn" ${page>=totalPages?'disabled':''} onclick="${fnName}(${page+1})">Next ›</button>`;
+}
+window.goListingsPage = function(n) { listingsPage = n; renderListings(); };
+window.goSeekersPage  = function(n) { seekersPage = n; renderSeekers(); };
+window.goSpamPage     = function(n) { spamPage = n; renderSpam(allSpam); };
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+
+function fmtDate(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso.includes('T') ? iso : iso + 'T00:00:00');
+  return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+}
+function parsePostedAt(raw) {
+  if (!raw) return null;
+  if (/^\d{4}-\d{2}-\d{2}T/.test(raw)) return new Date(raw);
+  const m = raw.match(/(\d{1,2})\s+(\w+)\s+(\d{4})\s+at\s+(\d{1,2}):(\d{2})/);
+  if (m) {
+    const d = new Date(`${m[2]} ${m[1]}, ${m[3]} ${m[4]}:${m[5]}:00`);
+    return isNaN(d) ? null : d;
+  }
+  return null;
+}
+function postedTs(p) {
+  const t = parsePostedAt(p.posted_at);
+  return t ? t.getTime() : (p.first_scraped_at ? new Date(p.first_scraped_at).getTime() : 0);
+}
+const OLD_POST_THRESHOLD_MS = 30 * 24 * 3600000; // 30 days
+function listingFreshnessBadge(p) {
+  const today = new Date().toISOString().slice(0, 10);
+  if (p.duration_type === 'short_term' && p.available_until && p.available_until < today) {
+    return '<span class="tag badge-expired" title="Stated availability window has passed — may no longer be available">Likely expired</span>';
+  }
+  if (Date.now() - postedTs(p) > OLD_POST_THRESHOLD_MS) {
+    return '<span class="tag badge-old" title="Posted more than 30 days ago">Older post</span>';
+  }
+  return '';
+}
+function fmtPostedAt(raw) {
+  if (!raw) return '—';
+  const date = parsePostedAt(raw);
+  if (!date) return esc(raw);
+
+  const now = new Date();
+  const todayMidnight = new Date(now); todayMidnight.setHours(0,0,0,0);
+  const postMidnight  = new Date(date); postMidnight.setHours(0,0,0,0);
+  const calDays = Math.round((todayMidnight - postMidnight) / 86400000);
+
+  let ago;
+  if (calDays === 0) ago = date.toLocaleTimeString('en-US', { hour:'numeric', minute:'2-digit' });
+  else if (calDays < 7) ago = `${calDays}d ago`;
+  else                  ago = `${Math.floor(calDays/7)}w ago`;
+
+  const dateStr = date.toLocaleDateString('en-US', { month:'short', day:'numeric' });
+  return `<span style="color:var(--text)">${ago}</span> <span style="font-size:12px;color:var(--text-4)">${dateStr}</span>`;
+}
+function fmtRent(r) {
+  if (r == null) return '<span class="rent-null">—</span>';
+  return `<span class="rent">$${r.toLocaleString()}</span>`;
+}
+function tagHtml(val, map) {
+  if (!val) return '—';
+  return `<span class="tag ${map[val]||''}">${esc(val.replace(/_/g,' '))}</span>`;
+}
+function fmtGroup(g) {
+  if (!g) return '—';
+  const m = g.match(/\((\d+\.?\d*[KM])\)/);
+  return m ? m[1] : g.slice(0, 20);
+}
+function amenitiesHtml(list) {
+  if (!list || !list.length) return '—';
+  return `<span style="font-size:12px;color:#9ca3af;line-height:1.4">${list.map(a => esc(a.replace(/_/g,' '))).join(', ')}</span>`;
+}
+function isMobileViewport() {
+  return window.matchMedia('(max-width: 767px)').matches;
+}
+function fbGroupSearchUrl(p) {
+  if (!p.post_url || !p.search_snippet) return null;
+  // The group-scoped search page (/groups/<id>/search/) only works on desktop web —
+  // on mobile web it silently redirects to the plain group page, dropping the query.
+  // Global search (/search/top/) isn't group-scoped, but it survives the mobile
+  // redirect. Since that search is FB-wide (not narrowed to the group), it uses a
+  // longer ~20-word snippet instead of the 9-word one, to cut down false-positive
+  // matches — falls back to the short snippet if a long one wasn't generated (e.g.
+  // it would have contained PII).
+  if (isMobileViewport()) {
+    const longSnippet = p.search_snippet_long || p.search_snippet;
+    return `https://www.facebook.com/search/top/?q=${encodeURIComponent(longSnippet)}`;
+  }
+  const q = encodeURIComponent(p.search_snippet);
+  const m = p.post_url.match(/\/groups\/(\d+)/);
+  if (!m) return null;
+  return `https://www.facebook.com/groups/${m[1]}/search/?q=${q}`;
+}
+function searchFallbackHtml(p) {
+  const url = fbGroupSearchUrl(p);
+  if (!url) return '';
+  return `<a class="btn-post-search" href="${esc(url)}" target="_blank" rel="noopener noreferrer" title="Link broken? Search this post in the group">Link broken?</a>`;
+}
+function postLinkHtml(p) {
+  const url = p.post_url;
+  if (!url) return '<td>—</td>';
+  const isProfile = url.includes('/user/');
+  const cls = isProfile ? 'btn-post btn-post-profile' : 'btn-post';
+  const label = isProfile ? 'Profile →' : 'View →';
+  return `<td><a class="${cls}" href="${esc(url)}" target="_blank" rel="noopener" title="${esc(p.source_group||'')}">${label}</a>${searchFallbackHtml(p)}</td>`;
+}
+
+const DURATION_MAP = { short_term:'tag-short', long_term:'tag-long' };
+const TYPE_MAP = { sublease:'tag-sublease', lease_takeover:'tag-lease_takeover', room_rental:'tag-room_rental', entire_unit:'tag-entire_unit' };
+const REASON_MAP = { internship:'tag-internship', student:'tag-student', new_job:'tag-new_job', rotation:'tag-rotation', relocation:'tag-relocation', other:'tag-other' };
+
+// ── Status cell HTML ──────────────────────────────────────────────────────────
+const SVG_STAR = `<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>`;
+const SVG_NOTE = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>`;
+const SVG_FLAG = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="3"/></svg>`;
+const SVG_PIN = `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>`;
+
+function statusCellHtml(lid) {
+  const bm = userBookmarks.has(lid);
+  const tag = userTags.get(lid) || '';
+  const hasNote = userNotes.has(lid);
+  return `<div class="status-cell">
+    <button class="bm-btn ${bm ? 'active' : ''}" title="Bookmark" onclick="toggleBookmark('${lid}')">${SVG_STAR}</button>
+    <select class="utag-select ${tag ? 'tag-'+tag : ''}" onchange="setTag('${lid}', this.value)" title="Tag this listing">
+      <option value="">Tag…</option>
+      <option value="interested"  ${tag==='interested'  ? 'selected':''}>Interested</option>
+      <option value="contacted"   ${tag==='contacted'   ? 'selected':''}>Contacted</option>
+      <option value="toured"      ${tag==='toured'      ? 'selected':''}>Toured</option>
+      <option value="applied"     ${tag==='applied'     ? 'selected':''}>Applied</option>
+      <option value="not_a_fit"   ${tag==='not_a_fit'   ? 'selected':''}>Not a fit</option>
+    </select>
+    <button class="note-btn ${hasNote ? 'active' : ''}" title="Notes" onclick="openNoteModal('${lid}')">${SVG_NOTE}</button>
+    <button class="report-btn" title="Report an issue with this post" onclick="reportListingIssue('${lid}')">${SVG_FLAG}</button>
+    <button class="pin-to-map-btn" title="Show this on the map" onclick="selectFromPost('${lid}')">${SVG_PIN}</button>
+  </div>`;
+}
+
+// ── Listings table ────────────────────────────────────────────────────────────
+function renderListings() {
+  const area         = $('f-area').value;
+  const neighborhood = $('f-neighborhood').value.trim().toLowerCase();
+  const maxRent      = parseInt($('f-rent').value) || Infinity;
+  const duration     = $('f-duration').value;
+  const ltype        = $('f-listing-type').value;
+  const furnished    = $('f-furnished').value;
+  const tagFilter    = $('f-tag').value;
+  const postedWithinHours = parseInt($('f-posted-within').value) || null;
+  if (!postedWithinHours || tagFilter) ensureFullData();
+
+  let rows = allListings.filter(p => {
+    if (area && p.area !== area) return false;
+    if (neighborhood && !(p.neighborhood||'').toLowerCase().includes(neighborhood)) return false;
+    if ((p.rent ?? Infinity) > maxRent) return false;
+    if (duration && p.duration_type !== duration) return false;
+    if (ltype && p.listing_type !== ltype) return false;
+    if (furnished === 'true'  && p.is_furnished !== true) return false;
+    if (furnished === 'false' && p.is_furnished !== false) return false;
+    if (tagFilter === '_bookmarked' && !userBookmarks.has(p.listing_id)) return false;
+    if (tagFilter && tagFilter !== '_bookmarked' && userTags.get(p.listing_id) !== tagFilter) return false;
+    if (postedWithinHours && postedTs(p) < Date.now() - postedWithinHours * 3600000) return false;
+    return true;
+  });
+
+  rows.sort((a, b) => {
+    let av, bv;
+    if (sortCol === 'posted_at') {
+      // Use best available timestamp: FB post date if known, else scrape time as proxy.
+      const aTs = parsePostedAt(a.posted_at), bTs = parsePostedAt(b.posted_at);
+      av = aTs ? aTs.getTime() : (a.first_scraped_at ? new Date(a.first_scraped_at).getTime() : 0);
+      bv = bTs ? bTs.getTime() : (b.first_scraped_at ? new Date(b.first_scraped_at).getTime() : 0);
+    } else {
+      av = a[sortCol] ?? (sortCol==='rent'?Infinity:'');
+      bv = b[sortCol] ?? (sortCol==='rent'?Infinity:'');
+    }
+    if (av < bv) return -sortDir; if (av > bv) return sortDir; return 0;
+  });
+
+  // While the map is open, every filtered row needs a real DOM element for
+  // pins to scroll/highlight to — pagination would otherwise only render
+  // 25 of them, silently breaking most pin clicks.
+  const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
+  listingsPage = Math.min(Math.max(1, listingsPage), totalPages);
+  const pageRows = mapPaneOpen ? rows : rows.slice((listingsPage - 1) * PAGE_SIZE, listingsPage * PAGE_SIZE);
+
+  const tbody = $('listings-body');
+  tbody.innerHTML = pageRows.map(p => {
+    const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
+    const availStr = p.available_from
+      ? fmtDate(p.available_from) + (p.available_until ? '<span style="color:var(--text-4);margin:0 3px">→</span><span style="color:var(--text-3)">'+fmtDate(p.available_until)+'</span>' : '')
+      : '—';
+    const furnStr = p.is_furnished===true
+      ? '<span class="tag tag-long" style="font-size:12px">Yes</span>'
+      : p.is_furnished===false
+      ? '<span style="color:var(--text-4);font-size:12px">No</span>'
+      : '—';
+    return `
+    <tr id="lrow-${p.listing_id}" class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" onclick="rowClickToMap(event, '${p.listing_id}')">
+      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</td>
+      <td>${fmtRent(p.rent)}</td>
+      <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
+      <td>
+        <div style="font-weight:600;font-size:13px">${esc(p.neighborhood)||'—'}</div>
+        ${locSub ? `<div style="font-size:12px;color:var(--text-5);margin-top:2px">${esc(locSub)}</div>` : ''}
+      </td>
+      <td style="white-space:nowrap;font-size:12px">${availStr}</td>
+      <td>${tagHtml(p.duration_type, DURATION_MAP)}</td>
+      <td>${tagHtml(p.listing_type, TYPE_MAP)}</td>
+      <td>${furnStr}</td>
+      <td>${amenitiesHtml(p.amenities)}</td>
+      <td>${statusCellHtml(p.listing_id)}</td>
+      ${postLinkHtml(p)}
+    </tr>`;
+  }).join('');
+
+  $('listings-empty').style.display = rows.length ? 'none' : 'block';
+  $('listings-table').style.display = rows.length ? '' : 'none';
+
+  $('listings-mobile').innerHTML = pageRows.map(p => {
+    const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
+    const availStr = p.available_from
+      ? 'From ' + fmtDate(p.available_from) + (p.available_until ? ' → ' + fmtDate(p.available_until) : '')
+      : '';
+    const furnStr = p.is_furnished === true ? '<span class="tag tag-long" style="font-size:12px">Furnished</span>' : '';
+    const amenStr = p.amenities?.length ? `<div class="m-card-amenities">${p.amenities.map(a=>esc(a.replace(/_/g,' '))).join(', ')}</div>` : '';
+    const viewUrl = p.post_url || '';
+    const isProfile = viewUrl.includes('/user/');
+    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">
+      <div class="m-card-top">
+        <div class="m-card-rent">${p.rent != null ? '$'+p.rent.toLocaleString() : '<span class="rent-null">—</span>'}</div>
+        <div class="m-card-posted">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</div>
+      </div>
+      <div class="m-card-location">${esc(p.neighborhood)||'—'}</div>
+      ${locSub ? `<div class="m-card-sub">${esc(locSub)}</div>` : ''}
+      ${p.area ? `<div class="m-card-sub" style="font-size:12px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
+      <div class="m-card-meta">
+        ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
+        ${p.listing_type ? tagHtml(p.listing_type, TYPE_MAP) : ''}
+        ${furnStr}
+      </div>
+      ${availStr ? `<div class="m-card-avail">${availStr}</div>` : ''}
+      ${amenStr}
+      <div class="m-card-actions">
+        <div>${statusCellHtml(p.listing_id)}</div>
+        ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+
+  $('badge-listings').textContent = listingsTotal;
+  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
+  $('table-caption').textContent = `${rows.length} listings${updStr}`;
+  $('listings-pagination').innerHTML = paginationHtml(listingsPage, totalPages, 'goListingsPage');
+
+  _lastListingsRows = rows;
+  renderMap();
+}
+
+document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if (sortCol === col) sortDir *= -1; else { sortCol = col; sortDir = 1; }
+    document.querySelectorAll('#listings-table th').forEach(t => t.classList.remove('sorted-asc','sorted-desc'));
+    th.classList.add(sortDir===1?'sorted-asc':'sorted-desc');
+    listingsPage = 1;
+    renderListings();
+  });
+});
+
+['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag','f-posted-within'].forEach(id => {
+  $(id).addEventListener('input', () => { listingsPage = 1; renderListings(); });
+  $(id).addEventListener('change', () => { listingsPage = 1; renderListings(); });
+});
+$('clear-listing-filters').addEventListener('click', () => {
+  ['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => $(id).value = '');
+  $('f-posted-within').value = '720'; // default back to 30 days, not "all time"
+  listingsPage = 1;
+  renderListings();
+});
+
+// ── Seekers table ─────────────────────────────────────────────────────────────
+function seekerSortVal(p, col) {
+  const v = p[col];
+  if (v == null) return col === 'budget_max' ? Infinity : '';
+  if (Array.isArray(v)) return v.join(', ');
+  return v;
+}
+
+function renderSeekers() {
+  const sfArea    = $('sf-area').value;
+  const maxBudget = parseInt($('sf-budget').value) || Infinity;
+  const duration  = $('sf-duration').value;
+  const reason    = $('sf-reason').value;
+  const moveinBy  = $('sf-movein').value.trim();
+  const maxAge    = parseInt($('sf-age').value) || Infinity;
+  const tagFilter = $('sf-tag').value;
+  const postedWithinHours = parseInt($('sf-posted-within').value) || null;
+  if (!postedWithinHours || tagFilter) ensureFullData();
+
+  let rows = allSeekers.filter(p => {
+    if (sfArea && p.area !== sfArea) return false;
+    if ((p.budget_max ?? Infinity) > maxBudget) return false;
+    if (duration && p.duration_type !== duration) return false;
+    if (reason && p.reason !== reason) return false;
+    if (moveinBy && p.move_in_date && p.move_in_date > moveinBy) return false;
+    if (maxAge !== Infinity && (p.age ?? Infinity) > maxAge) return false;
+    if (tagFilter === '_bookmarked' && !userBookmarks.has(p.listing_id)) return false;
+    if (tagFilter && tagFilter !== '_bookmarked' && userTags.get(p.listing_id) !== tagFilter) return false;
+    if (postedWithinHours && postedTs(p) < Date.now() - postedWithinHours * 3600000) return false;
+    return true;
+  });
+
+  rows.sort((a, b) => {
+    let av, bv;
+    if (seekerSortCol === 'posted_at') {
+      const aTs = parsePostedAt(a.posted_at), bTs = parsePostedAt(b.posted_at);
+      av = aTs ? aTs.getTime() : (a.first_scraped_at ? new Date(a.first_scraped_at).getTime() : 0);
+      bv = bTs ? bTs.getTime() : (b.first_scraped_at ? new Date(b.first_scraped_at).getTime() : 0);
+    } else {
+      av = seekerSortVal(a, seekerSortCol); bv = seekerSortVal(b, seekerSortCol);
+    }
+    if (av < bv) return -seekerSortDir; if (av > bv) return seekerSortDir; return 0;
+  });
+
+  $('badge-seekers').textContent = seekersTotal;
+  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
+  $('table-caption').textContent = `${rows.length} seekers${updStr}`;
+
+  _lastSeekersRows = rows;
+  renderMap();
+
+  const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
+  seekersPage = Math.min(Math.max(1, seekersPage), totalPages);
+  const pageRows = mapPaneOpen ? rows : rows.slice((seekersPage - 1) * PAGE_SIZE, seekersPage * PAGE_SIZE);
+  $('seekers-pagination').innerHTML = paginationHtml(seekersPage, totalPages, 'goSeekersPage');
+
+  $('seekers-mobile').innerHTML = pageRows.map(p => {
+    const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
+      : p.budget_max ? `≤$${p.budget_max.toLocaleString()}`
+      : p.budget_min ? `$${p.budget_min.toLocaleString()}+` : '—';
+    const moveinStr = p.move_in_date
+      ? 'From ' + fmtDate(p.move_in_date) + (p.move_out_date ? ' → ' + fmtDate(p.move_out_date) : '')
+      : '';
+    const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).map(n=>`<span class="chip">${esc(n)}</span>`).join('');
+    const viewUrl = p.post_url || '';
+    const isProfile = viewUrl.includes('/user/');
+    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">
+      <div class="m-card-top">
+        <div class="m-card-budget">${esc(budgetStr)}</div>
+        <div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div>
+      </div>
+      <div class="m-card-meta">
+        ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
+        ${p.reason ? tagHtml(p.reason, REASON_MAP) : ''}
+      </div>
+      ${moveinStr ? `<div class="m-card-avail">${moveinStr}</div>` : ''}
+      ${hoods ? `<div class="m-card-hoods">${hoods}</div>` : ''}
+      ${p.bio ? `<div class="m-card-bio">${esc(p.bio)}</div>` : ''}
+      <div class="m-card-actions">
+        <div>${statusCellHtml(p.listing_id)}</div>
+        ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+
+  const tbody = $('seekers-body');
+  if (!rows.length) {
+    tbody.innerHTML = '';
+    $('seekers-empty').style.display = 'block';
+    $('seekers-table').style.display = 'none';
+    return;
+  }
+  $('seekers-empty').style.display = 'none';
+  $('seekers-table').style.display = '';
+
+  tbody.innerHTML = pageRows.map(p => {
+    const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
+      : p.budget_max ? `≤$${p.budget_max.toLocaleString()}`
+      : p.budget_min ? `$${p.budget_min.toLocaleString()}+` : '—';
+    const moveinStr = p.move_in_date
+      ? fmtDate(p.move_in_date) + (p.move_out_date ? '<br><span style="color:var(--text-3);font-size:12px">→ '+fmtDate(p.move_out_date)+'</span>' : '')
+      : '—';
+    const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).map(n=>`<span class="chip">${esc(n)}</span>`).join('')||'—';
+    const unitTypes = (p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')||'—';
+    const groupStr = p.group_size>1?`${p.group_size} ppl`:p.group_size===1?'Solo':'—';
+    return `<tr id="lrow-${p.listing_id}" class="${userBookmarks.has(p.listing_id)?'bookmarked':''}" onclick="rowClickToMap(event, '${p.listing_id}')">
+      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}</td>
+      <td style="white-space:nowrap;font-size:12px">${moveinStr}</td>
+      <td style="font-weight:700;font-size:16px;letter-spacing:-0.5px">${esc(budgetStr)}</td>
+      <td>${p.duration_type?tagHtml(p.duration_type,DURATION_MAP):'—'}</td>
+      <td>${p.reason?tagHtml(p.reason,REASON_MAP):'—'}</td>
+      <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
+      <td>${hoods}</td>
+      <td>${unitTypes}</td>
+      <td><div class="bio-cell">${esc(p.bio||'—')}</div></td>
+      <td style="text-align:center;color:#666">${p.age??'—'}</td>
+      <td style="text-align:center;color:#666">${esc(groupStr)}</td>
+      <td>${statusCellHtml(p.listing_id)}</td>
+      ${postLinkHtml(p)}
+    </tr>`;
+  }).join('');
+}
+
+document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.scol;
+    if (seekerSortCol===col) seekerSortDir*=-1; else { seekerSortCol=col; seekerSortDir=1; }
+    document.querySelectorAll('#seekers-table th').forEach(t=>t.classList.remove('sorted-asc','sorted-desc'));
+    th.classList.add(seekerSortDir===1?'sorted-asc':'sorted-desc');
+    seekersPage = 1;
+    renderSeekers();
+  });
+});
+['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-age','sf-tag','sf-posted-within'].forEach(id => {
+  $(id).addEventListener('input', () => { seekersPage = 1; renderSeekers(); });
+  $(id).addEventListener('change', () => { seekersPage = 1; renderSeekers(); });
+});
+$('clear-seeker-filters').addEventListener('click', () => {
+  ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-age','sf-tag'].forEach(id=>$(id).value='');
+  $('sf-posted-within').value = '720'; // default back to 30 days, not "all time"
+  seekersPage = 1;
+  renderSeekers();
+});
+
+// ── Spam ──────────────────────────────────────────────────────────────────────
+function renderSpam(posts) {
+  $('badge-spam').textContent = posts.length;
+  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
+  $('table-caption').textContent = `${posts.length} spam posts${updStr}`;
+  if (!posts.length) { $('spam-empty').style.display='block'; $('spam-pagination').innerHTML=''; return; }
+  $('spam-empty').style.display='none';
+
+  const totalPages = Math.max(1, Math.ceil(posts.length / PAGE_SIZE));
+  spamPage = Math.min(Math.max(1, spamPage), totalPages);
+  const start = (spamPage - 1) * PAGE_SIZE;
+  const pagePosts = posts.slice(start, start + PAGE_SIZE);
+
+  $('spam-cards').innerHTML = pagePosts.map((p,i) => `
+    <div class="card">
+      <div class="card-header"><span class="card-date">${fmtPostedAt(p.posted_at)}</span></div>
+      <div class="card-text collapsed" id="spam-text-${i}">${esc(p.text||'')}</div>
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <button class="card-expand" onclick="toggleSpam(${i})">Show more</button>
+        <a class="${p.post_url?.includes('/user/') ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(p.post_url)}" target="_blank" rel="noopener">${p.post_url?.includes('/user/') ? 'Profile →' : 'View →'}</a>
+      </div>
+    </div>`).join('');
+  $('spam-pagination').innerHTML = paginationHtml(spamPage, totalPages, 'goSpamPage');
+}
+window.toggleSpam = function(i) {
+  const el = $('spam-text-'+i);
+  const btn = el.nextElementSibling.querySelector('.card-expand');
+  if (el.classList.toggle('collapsed')) btn.textContent='Show more'; else btn.textContent='Show less';
+};
+
+// ── Tabs ──────────────────────────────────────────────────────────────────────
+const TAB_SUBTITLES = {
+  listings: 'Available rooms, subleases, and lease takeovers posted by people offering a place.',
+  seekers: 'People looking for a room or roommate — post a place here if it matches what they need.',
+};
+function renderActiveTab() {
+  const active = document.querySelector('.tab.active');
+  const name = active ? active.dataset.tab : 'listings';
+  // The caption element is shared across tabs — always re-render whichever
+  // tab is actually visible last, so it never shows stale text left behind
+  // by another tab's render call.
+  if (name === 'listings') renderListings();
+  else if (name === 'seekers') renderSeekers();
+  else if (name === 'spam') {
+    if (_spamLoaded) renderSpam(allSpam);
+    else { $('spam-cards').innerHTML = '<div class="empty">Loading…</div>'; ensureSpam(); }
+  }
+}
+
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+    tab.classList.add('active');
+    const name = tab.dataset.tab;
+    $('view-listings').style.display = name==='listings'?'':'none';
+    $('view-seekers').style.display  = name==='seekers' ?'':'none';
+    $('view-spam').style.display     = name==='spam'    ?'':'none';
+    $('listing-filters').style.display = name==='listings'?'':'none';
+    $('seeker-filters').style.display  = name==='seekers' ?'':'none';
+    $('tab-subtitle').textContent = TAB_SUBTITLES[name] || '';
+    $('tab-subtitle').style.display = TAB_SUBTITLES[name] ? '' : 'none';
+    // The map pane only makes sense on Listings/Room Seekers — close it if
+    // the user switches to Spam while it's open, rather than leaving a map
+    // with no matching content behind it.
+    if (mapPaneOpen && name !== 'listings' && name !== 'seekers') toggleMapPane();
+    renderActiveTab();
+  });
+});
+
+// ── Map (split pane over whichever of Listings/Room Seekers is active) ───────
+let geocodeCache = {};
+let mapPaneOpen = false;
+let leafletMap = null;
+let markerCluster = null;
+let highlightedMapEls = [];
+const mapMarkersByListingId = {}; // listing_id -> [Leaflet marker, ...]
+
+// Rows currently passing this tab's own filters — set at the end of
+// renderListings()/renderSeekers(), so the map always reflects exactly what
+// that tab is showing (same filters, same "Posted within" window), with no
+// separate/duplicate map-only filter UI.
+let _lastListingsRows = [];
+let _lastSeekersRows = [];
+
+// Deterministic small offset so posts sharing a neighborhood centroid don't
+// all stack on the exact same point — same input always gives the same
+// jitter, so pins don't shift around between page loads.
+function jitterSeed(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) { h = (h * 31 + str.charCodeAt(i)) | 0; }
+  return h;
+}
+function jitterOffset(seedStr) {
+  const h = jitterSeed(seedStr);
+  const a = ((h % 1000) / 1000) * Math.PI * 2;       // pseudo-random angle
+  const r = (((h >> 10) % 1000) / 1000) * 0.0025;     // up to ~250m radius
+  return { dLat: Math.sin(a) * r, dLon: Math.cos(a) * r };
+}
+
+function budgetRangeStr(p) {
+  if (p.budget_min && p.budget_max) return `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`;
+  if (p.budget_max) return `≤$${p.budget_max.toLocaleString()}`;
+  if (p.budget_min) return `$${p.budget_min.toLocaleString()}+`;
+  return null;
+}
+
+function currentTabName() {
+  const active = document.querySelector('.tab.active');
+  return active ? active.dataset.tab : 'listings';
+}
+
+window.toggleMapPane = function() {
+  mapPaneOpen = !mapPaneOpen;
+  $('main-area').classList.toggle('map-open', mapPaneOpen);
+  document.querySelectorAll('.map-toggle-pill').forEach(b => b.classList.toggle('active', mapPaneOpen));
+  if (mapPaneOpen) initMapIfNeeded();
+  // Re-render the list itself — it needs to switch between paginated (map
+  // closed) and showing every row (map open, so pins always have something
+  // to scroll/highlight to), not just re-render the map's markers.
+  renderActiveTab();
+};
+
+function initMapIfNeeded() {
+  if (leafletMap) { leafletMap.invalidateSize(); renderMap(); return; }
+  leafletMap = L.map('map-canvas').setView([37.7749, -122.4194], 10);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 18,
+  }).addTo(leafletMap);
+  markerCluster = L.markerClusterGroup();
+  leafletMap.addLayer(markerCluster);
+  renderMap();
+}
+
+function renderMap() {
+  if (!leafletMap || !mapPaneOpen) return;
+  const type = currentTabName();
+  if (type !== 'listings' && type !== 'seekers') return; // map pane isn't available on Spam
+
+  markerCluster.clearLayers();
+  Object.keys(mapMarkersByListingId).forEach(k => delete mapMarkersByListingId[k]);
+
+  const posts = type === 'listings' ? _lastListingsRows : _lastSeekersRows;
+  let plotted = 0;
+
+  posts.forEach(p => {
+    const neighborhoods = type === 'listings'
+      ? (p.neighborhood ? [p.neighborhood] : [])
+      : (p.preferred_neighborhoods || []);
+
+    let placed = false;
+    neighborhoods.forEach(nb => {
+      const name = (nb || '').trim();
+      if (!name) return;
+      const key = p.area ? `${name}, ${p.area}` : name;
+      const geo = geocodeCache[key];
+      if (!geo || geo.lat == null) return;
+
+      const { dLat, dLon } = jitterOffset(p.listing_id + '|' + key);
+      const marker = L.marker([geo.lat + dLat, geo.lon + dLon]);
+      const tooltipText = type === 'listings'
+        ? (p.rent != null ? `$${p.rent.toLocaleString()}/mo` : 'Rent not listed')
+        : (budgetRangeStr(p) || 'Budget not listed');
+      marker.bindTooltip(tooltipText, { className: 'map-rent-tooltip' });
+      marker.on('click', () => selectFromPin(p.listing_id));
+      markerCluster.addLayer(marker);
+      (mapMarkersByListingId[p.listing_id] ||= []).push(marker);
+      placed = true;
+    });
+
+    if (placed) plotted++;
+  });
+
+  const label = type === 'listings' ? 'listings' : 'seekers';
+  $('table-caption').textContent = `${plotted} of ${posts.length} ${label} plotted on map`;
+}
+
+let highlightedMarkerEls = [];
+
+function highlightRowForPost(lid, scroll) {
+  // Both the table row and mobile card exist in the DOM at all times (CSS
+  // decides which is visible per viewport) — try both; scrolling/styling a
+  // hidden element is a harmless no-op.
+  highlightedMapEls.forEach(el => el.classList.remove('map-highlighted'));
+  highlightedMapEls = [];
+  ['lrow-' + lid, 'lcard-' + lid].forEach(id => {
+    const el = $(id);
+    if (!el) return;
+    el.classList.add('map-highlighted');
+    highlightedMapEls.push(el);
+    if (scroll && el.offsetParent !== null) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+}
+
+function highlightMarkersForPost(lid) {
+  highlightedMarkerEls.forEach(el => el.classList.remove('marker-highlighted'));
+  highlightedMarkerEls = [];
+  const markers = mapMarkersByListingId[lid];
+  if (!markers) return;
+  markers.forEach(m => {
+    const el = m.getElement(); // null if still absorbed into an unexpanded cluster bubble
+    if (el) { el.classList.add('marker-highlighted'); highlightedMarkerEls.push(el); }
+  });
+}
+
+// Pin clicked on the map -> scroll to and highlight the real row/card, and
+// mark the clicked pin itself as selected.
+window.selectFromPin = function(lid) {
+  highlightRowForPost(lid, true);
+  highlightMarkersForPost(lid);
+};
+
+// Post's row/card clicked -> reveal (un-cluster/zoom if needed) and pan to
+// its pin, highlighting both ends.
+window.selectFromPost = function(lid) {
+  highlightRowForPost(lid, false);
+  const markers = mapMarkersByListingId[lid];
+  if (!markers || !markers.length || !leafletMap) return;
+  markerCluster.zoomToShowLayer(markers[0], () => {
+    highlightMarkersForPost(lid);
+    leafletMap.panTo(markers[0].getLatLng());
+    markers[0].openTooltip();
+  });
+};
+
+// Delegate for whole-row/card clicks — ignore clicks on nested interactive
+// controls (bookmark, tag select, notes, report, pin, view link) so those
+// keep working normally instead of also triggering a pan.
+window.rowClickToMap = function(event, lid) {
+  if (!mapPaneOpen) return;
+  if (event.target.closest('button, select, a, input')) return;
+  selectFromPost(lid);
+};
+
+// ── Auth ──────────────────────────────────────────────────────────────────────
+let _authMode = 'signin'; // 'signin' | 'signup'
+
+function showAuthModal() {
+  _authMode = 'signin';
+  _resetAuthForm();
+  $('auth-modal').style.display='flex';
+  setTimeout(() => $('auth-email').focus(), 50);
+}
+function closeAuthModal() {
+  $('auth-modal').style.display='none';
+  _resetAuthForm();
+}
+function _resetAuthForm() {
+  $('auth-email').value = '';
+  $('auth-password').value = '';
+  $('auth-message').style.display = 'none';
+  $('auth-submit-btn').textContent = _authMode === 'signup' ? 'Create account' : 'Sign in';
+  $('auth-toggle-link').textContent = _authMode === 'signup' ? 'Already have an account? Sign in' : 'No account? Create one';
+}
+function toggleAuthMode(e) {
+  e.preventDefault();
+  _authMode = _authMode === 'signin' ? 'signup' : 'signin';
+  _resetAuthForm();
+}
+function _showAuthMsg(msg, ok) {
+  const el = $('auth-message');
+  el.textContent = msg;
+  el.style.display = 'block';
+  el.style.background = ok ? '#f0fdf4' : '#fef2f2';
+  el.style.color = ok ? '#166534' : '#991b1b';
+}
+
+async function signInGoogle() {
+  await supa.auth.signInWithOAuth({
+    provider: 'google',
+    options: { redirectTo: window.location.origin + window.location.pathname }
+  });
+}
+
+async function signInEmail() {
+  const email = $('auth-email').value.trim();
+  const password = $('auth-password').value;
+  if (!email || !password) { _showAuthMsg('Please enter your email and password.', false); return; }
+  $('auth-submit-btn').disabled = true;
+  if (_authMode === 'signup') {
+    const { error } = await supa.auth.signUp({ email, password });
+    if (error) { _showAuthMsg(error.message, false); }
+    else { _showAuthMsg('Account created! Check your email to confirm, then sign in.', true); }
+  } else {
+    const { error } = await supa.auth.signInWithPassword({ email, password });
+    if (error) { _showAuthMsg(error.message, false); }
+    else { closeAuthModal(); }
+  }
+  $('auth-submit-btn').disabled = false;
+}
+
+async function forgotPassword(e) {
+  e.preventDefault();
+  const email = $('auth-email').value.trim();
+  if (!email) { _showAuthMsg('Enter your email above first.', false); return; }
+  const { error } = await supa.auth.resetPasswordForEmail(email, { redirectTo: window.location.href });
+  if (error) { _showAuthMsg(error.message, false); }
+  else { _showAuthMsg('Password reset link sent — check your email.', true); }
+}
+
+function signOut() {
+  currentUser = null;
+  userBookmarks.clear(); userTags.clear(); userNotes.clear();
+  updateAuthUI();
+  renderListings(); renderSeekers();
+  supa.auth.signOut({ scope: 'local' }).catch(e => console.warn('[signOut] error:', e));
+}
+
+function updateAuthUI() {
+  const area = $('auth-area');
+  if (currentUser) {
+    const email = currentUser.email || '';
+    area.innerHTML = `<div class="user-menu">
+      <span id="user-email">${esc(email)}</span>
+      <button id="signout-btn" onclick="signOut()">Sign out</button>
+    </div>`;
+  } else {
+    area.innerHTML = `<button id="auth-btn" onclick="showAuthModal()" title="Save listings, add private notes, and organize your search with tags">Sign in</button>`;
+  }
+}
+
+// ── User data ─────────────────────────────────────────────────────────────────
+async function loadUserData() {
+  if (!currentUser) return;
+  const uid = currentUser.id;
+  const [bm, tg, nt] = await Promise.all([
+    supa.from('bookmarks').select('listing_id').eq('user_id', uid),
+    supa.from('tags').select('listing_id,tag').eq('user_id', uid),
+    supa.from('notes').select('listing_id,body').eq('user_id', uid),
+  ]);
+  userBookmarks = new Set((bm.data||[]).map(r=>r.listing_id));
+  userTags      = new Map((tg.data||[]).map(r=>[r.listing_id, r.tag]));
+  userNotes     = new Map((nt.data||[]).map(r=>[r.listing_id, r.body]));
+}
+
+window.toggleBookmark = async function(lid) {
+  if (!currentUser) { showAuthModal(); return; }
+  const uid = currentUser.id;
+  if (userBookmarks.has(lid)) {
+    await supa.from('bookmarks').delete().eq('user_id',uid).eq('listing_id',lid);
+    userBookmarks.delete(lid);
+  } else {
+    await supa.from('bookmarks').upsert({user_id:uid, listing_id:lid});
+    userBookmarks.add(lid);
+  }
+  renderListings(); renderSeekers();
+};
+
+window.setTag = async function(lid, tag) {
+  if (!currentUser) { showAuthModal(); return; }
+  const uid = currentUser.id;
+  if (!tag) {
+    await supa.from('tags').delete().eq('user_id',uid).eq('listing_id',lid);
+    userTags.delete(lid);
+  } else {
+    await supa.from('tags').upsert({user_id:uid, listing_id:lid, tag}, {onConflict: 'user_id,listing_id'});
+    userTags.set(lid, tag);
+  }
+  // update just the select color without full re-render
+  document.querySelectorAll(`.utag-select`).forEach(el => {
+    if (el.closest('tr') && el.onchange.toString().includes(`'${lid}'`)) {
+      el.className = 'utag-select' + (tag ? ' tag-'+tag : '');
+    }
+  });
+};
+
+// ── Notes modal ───────────────────────────────────────────────────────────────
+let noteListingId = null;
+
+window.openNoteModal = function(lid) {
+  if (!currentUser) { showAuthModal(); return; }
+  noteListingId = lid;
+  const body = userNotes.get(lid) || '';
+  $('note-body').value = body;
+  $('note-listing-label').textContent = 'Listing ' + lid;
+  $('note-delete-btn').style.display = body ? 'inline-block' : 'none';
+  $('note-modal').style.display = 'flex';
+  setTimeout(() => $('note-body').focus(), 50);
+};
+
+window.closeNoteModal = function() {
+  $('note-modal').style.display = 'none';
+  noteListingId = null;
+};
+
+window.saveNote = async function() {
+  if (!noteListingId || !currentUser) return;
+  const body = $('note-body').value.trim();
+  const uid = currentUser.id;
+  if (!body) {
+    await supa.from('notes').delete().eq('user_id',uid).eq('listing_id',noteListingId);
+    userNotes.delete(noteListingId);
+  } else {
+    await supa.from('notes').upsert({user_id:uid, listing_id:noteListingId, body, updated_at: new Date().toISOString()}, {onConflict: 'user_id,listing_id'});
+    userNotes.set(noteListingId, body);
+  }
+  closeNoteModal();
+  renderListings(); renderSeekers();
+};
+
+window.deleteNote = async function() {
+  if (!noteListingId || !currentUser) return;
+  await supa.from('notes').delete().eq('user_id',currentUser.id).eq('listing_id',noteListingId);
+  userNotes.delete(noteListingId);
+  closeNoteModal();
+  renderListings(); renderSeekers();
+};
+
+// ── Feedback / report-issue modal ────────────────────────────────────────────
+let _feedbackType = 'feedback';
+let _feedbackContext = null; // { listing_id, post_url, label } when reporting a specific post
+
+window.reportListingIssue = function(lid) {
+  const post = allListings.find(p => p.listing_id === lid) || allSeekers.find(p => p.listing_id === lid);
+  if (!post) return;
+  const label = post.rent != null
+    ? `$${post.rent.toLocaleString()} · ${post.neighborhood || post.area || ''}`
+    : (post.neighborhood || (post.preferred_neighborhoods||[])[0] || post.area || 'this post');
+  openFeedbackModal('listing_issue', { listing_id: lid, post_url: post.post_url, label });
+};
+
+window.openFeedbackModal = function(type, context) {
+  _feedbackType = type;
+  _feedbackContext = context || null;
+  const isDown = type === 'site_down';
+  const isListing = type === 'listing_issue';
+
+  $('feedback-modal-title').textContent = isListing ? 'Report an issue with this post'
+    : isDown ? 'Report an issue'
+    : 'Feedback & feature requests';
+  $('feedback-modal-desc').textContent = isListing ? 'Let us know what\'s wrong with this specific post.'
+    : isDown ? "Tell us what's wrong — e.g. listings look stale or the site seems down."
+    : 'Suggestions, bug reports, feature ideas — we read everything.';
+  $('feedback-message').placeholder = isListing ? 'Any extra detail (optional)'
+    : isDown ? "What's going on? (e.g. “no new listings in 3 days”)"
+    : "What's on your mind?";
+  $('feedback-email-hint').textContent = isDown
+    ? "Optional — leave your email if you'd like us to let you know once it's back up."
+    : 'Optional — leave your email if you’d like us to follow up.';
+
+  $('feedback-category').style.display = isListing ? '' : 'none';
+  $('feedback-category').value = '';
+  if (isListing && _feedbackContext) {
+    $('feedback-context').style.display = '';
+    $('feedback-context').textContent = `Reporting: ${_feedbackContext.label}`;
+  } else {
+    $('feedback-context').style.display = 'none';
+  }
+
+  $('feedback-message').value = '';
+  $('feedback-email').value = currentUser?.email || '';
+  $('feedback-status').style.display = 'none';
+  $('feedback-modal').style.display = 'flex';
+  setTimeout(() => $('feedback-message').focus(), 50);
+};
+
+window.closeFeedbackModal = function() {
+  $('feedback-modal').style.display = 'none';
+};
+
+window.showHowItWorksModal = function() {
+  $('how-it-works-modal').style.display = 'flex';
+};
+window.closeHowItWorksModal = function() {
+  $('how-it-works-modal').style.display = 'none';
+};
+
+function _showFeedbackMsg(msg, ok) {
+  const el = $('feedback-status');
+  el.textContent = msg;
+  el.style.display = 'block';
+  el.style.background = ok ? '#f0fdf4' : '#fef2f2';
+  el.style.color = ok ? '#166534' : '#991b1b';
+}
+
+window.submitFeedback = async function() {
+  const message = $('feedback-message').value.trim();
+  const email = $('feedback-email').value.trim();
+  const isListing = _feedbackType === 'listing_issue';
+  const category = isListing ? $('feedback-category').value : null;
+
+  if (isListing && !category) { _showFeedbackMsg('Please choose what the issue is.', false); return; }
+  if (!isListing && !message) { _showFeedbackMsg('Please enter a message.', false); return; }
+
+  $('feedback-submit-btn').disabled = true;
+  const { error } = await supa.from('feedback').insert({
+    type: _feedbackType,
+    category,
+    message: message || null,
+    listing_id: _feedbackContext?.listing_id || null,
+    email: email || null,
+    user_id: currentUser?.id || null,
+    page_url: _feedbackContext?.post_url || window.location.href,
+  });
+  $('feedback-submit-btn').disabled = false;
+  if (error) {
+    console.warn('[feedback] insert failed:', error);
+    _showFeedbackMsg('Something went wrong — please try again.', false);
+    return;
+  }
+  _showFeedbackMsg("Thanks — we've got it!", true);
+  setTimeout(closeFeedbackModal, 1500);
+};
+
+// ── Load data ─────────────────────────────────────────────────────────────────
+// First paint uses the small last-30-days files (the default "Posted within"
+// window). The multi-MB full files are only fetched when a view needs older
+// posts ("All time", or a tag/bookmark filter); spam only when its tab opens —
+// which also keeps spam text out of the DOM Google renders for this page.
+let _listingsLoaded = false;
+let _fullLoaded = false, _fullLoading = null;
+let _spamLoaded = false, _spamLoading = null;
+let listingsTotal = 0, seekersTotal = 0;
+
+const fetchJson = name => fetch(DATA_BASE + name).then(r => {
+  if (!r.ok) throw new Error(`${name}: HTTP ${r.status}`);
+  return r.json();
+});
+
+function ensureFullData() {
+  if (_fullLoaded || _fullLoading) return;
+  _fullLoading = Promise.all([fetchJson('listings.json'), fetchJson('seekers.json')])
+    .then(([lData, sData]) => {
+      allListings = lData.posts || [];
+      allSeekers  = sData.posts || [];
+      listingsTotal = allListings.length;
+      seekersTotal  = allSeekers.length;
+      _fullLoaded = true;
+      renderActiveTab();
+    })
+    .catch(e => { console.warn('[load] full data failed:', e); _fullLoading = null; });
+}
+
+function ensureSpam() {
+  if (_spamLoaded || _spamLoading) return;
+  _spamLoading = fetchJson('spam.json')
+    .then(d => {
+      allSpam = d.posts || [];
+      _spamLoaded = true;
+      if (currentTabName() === 'spam') renderSpam(allSpam);
+    })
+    .catch(e => { console.warn('[load] spam failed:', e); _spamLoading = null; });
+}
+
+function setUpdatedTime(lData, sData) {
+  const times = [lData.updated_at, sData.updated_at].filter(Boolean).sort();
+  if (times.length) {
+    const d = new Date(times[times.length-1]);
+    window._updatedTimeStr = d.toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+  }
+}
+
+async function load() {
+  console.log('[load] fetching JSON, currentUser=', currentUser?.email || null);
+  // Fall back to the full files if the recent ones haven't been published yet.
+  let usedFull = false;
+  const recentOrFull = base => fetchJson(base + '.recent.json')
+    .catch(() => { usedFull = true; return fetchJson(base + '.json'); });
+  const [lData, sData, geoData] = await Promise.all([
+    recentOrFull('listings'),
+    recentOrFull('seekers'),
+    fetchJson('geocode_cache.json').catch(() => ({})),
+  ]);
+  console.log('[load] JSON ready — listings:', (lData.posts||[]).length, 'seekers:', (sData.posts||[]).length);
+  geocodeCache = geoData || {};
+
+  setUpdatedTime(lData, sData);
+  _dataUpdatedAt = lData.updated_at || null;
+
+  allListings = lData.posts || [];
+  allSeekers  = sData.posts || [];
+  listingsTotal = lData.total_count ?? allListings.length;
+  seekersTotal  = sData.total_count ?? allSeekers.length;
+  if (usedFull) _fullLoaded = true;
+
+  _listingsLoaded = true;
+  renderListings();
+  renderSeekers();
+  renderActiveTab(); // ensure the shared caption reflects the visible tab, not just whichever rendered last
+  console.log('[load] rendered');
+  if (_restoreScrollY != null) { window.scrollTo(0, _restoreScrollY); _restoreScrollY = null; }
+
+  // The static preview is real, visible HTML present for every visitor —
+  // crawlers that never run JS see it and stop there; browsers that do run
+  // JS get here and hide it once the real interactive app has data, so
+  // nobody sees duplicate content. Same initial markup for everyone — no
+  // cloaking, just progressive enhancement.
+  const staticPreview = document.getElementById('static-preview');
+  if (staticPreview) staticPreview.style.display = 'none';
+
+  // Load bookmarks/tags in background — never blocks the initial render
+  if (currentUser) {
+    console.log('[load] loading user data in background...');
+    loadUserData()
+      .then(() => { console.log('[load] user data ready, re-rendering'); renderListings(); renderSeekers(); })
+      .catch(e => console.warn('[load] loadUserData failed:', e));
+  }
+}
+
+// ── Auth state ────────────────────────────────────────────────────────────────
+function initSupabase() {
+supa = supabase.createClient(SUPA_URL, SUPA_KEY, { auth: { lock: noOpLock } });
+supa.auth.onAuthStateChange((event, session) => {
+  console.log('[auth]', event, session?.user?.email || null);
+  currentUser = session?.user || null;
+  updateAuthUI();
+  if (currentUser) {
+    // Do NOT await Supabase calls inside onAuthStateChange — triggers Web Locks deadlock.
+    // Fire in background; re-render when done.
+    loadUserData()
+      .then(() => { closeAuthModal(); if (_listingsLoaded) { renderListings(); renderSeekers(); } })
+      .catch(e => console.warn('loadUserData failed:', e));
+  } else {
+    userBookmarks.clear(); userTags.clear(); userNotes.clear();
+    if (_listingsLoaded) { renderListings(); renderSeekers(); }
+  }
+});
+}
+// Deferred scripts have all executed by DOMContentLoaded.
+if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initSupabase);
+else initSupabase();
+
+
+// ── Live updates ──────────────────────────────────────────────────────────────
+// The page fetches data once; an open tab would otherwise never see new
+// listings or a redeployed index.html. Poll the tiny version.json (the data
+// files are ~0.5MB each) every 10 min while visible, and whenever the tab
+// regains focus. New data waits behind a banner rather than re-rendering under
+// the user; a new site version reloads only when the tab is hidden and nothing
+// is in progress, with filters/tab/scroll carried across the reload.
+let _dataUpdatedAt = null;
+let _pendingData = null;
+let _newSiteVersion = null;
+let _checking = false;
+const UPDATE_CHECK_MS = 10 * 60 * 1000;
+const VIEW_STATE_KEY = 'sfrooms.viewState';
+const RELOADED_FOR_KEY = 'sfrooms.reloadedFor';
+
+const fetchFresh = name => fetch(DATA_BASE + name + '?t=' + Date.now(), { cache: 'no-store' }).then(r => {
+  if (!r.ok) throw new Error(`${name}: HTTP ${r.status}`);
+  return r.json();
+});
+
+async function checkForUpdates() {
+  if (document.hidden || !_listingsLoaded || _checking) return;
+  _checking = true;
+  try {
+    const v = await fetchFresh('version.json');
+    if (v.site_version && SITE_VERSION && v.site_version !== SITE_VERSION) {
+      _newSiteVersion = v.site_version;
+      showUpdateBanner('The site was updated', 'Reload', reloadForNewVersion);
+      return;
+    }
+    if (!v.updated_at || v.updated_at === _dataUpdatedAt || v.updated_at === _pendingData?.updated_at) return;
+    const [lData, sData] = await Promise.all([fetchFresh('listings.recent.json'), fetchFresh('seekers.recent.json')]);
+    const have = new Set([...allListings, ...allSeekers].map(p => p.listing_id));
+    const newL = (lData.posts || []).filter(p => !have.has(p.listing_id)).length;
+    const newS = (sData.posts || []).filter(p => !have.has(p.listing_id)).length;
+    if (!newL && !newS) { _dataUpdatedAt = v.updated_at; return; }
+    _pendingData = { lData, sData, updated_at: v.updated_at };
+    const parts = [];
+    if (newL) parts.push(`${newL} new listing${newL === 1 ? '' : 's'}`);
+    if (newS) parts.push(`${newS} new seeker${newS === 1 ? '' : 's'}`);
+    showUpdateBanner(parts.join(' · '), 'Show', applyPendingData);
+  } catch (e) {
+    console.warn('[update] check failed:', e);
+  } finally {
+    _checking = false;
+  }
+}
+
+function mergeById(existing, fresh) {
+  const byId = new Map(existing.map(p => [p.listing_id, p]));
+  for (const p of fresh) byId.set(p.listing_id, p);
+  return [...byId.values()];
+}
+
+async function applyPendingData() {
+  const pd = _pendingData;
+  if (!pd) return;
+  _pendingData = null;
+  hideUpdateBanner();
+  const freshL = pd.lData.posts || [], freshS = pd.sData.posts || [];
+  // The recent files are a 30-day subset — merge into the full arrays if
+  // they're loaded, otherwise the fresh subset simply replaces the old one.
+  allListings = _fullLoaded ? mergeById(allListings, freshL) : freshL;
+  allSeekers  = _fullLoaded ? mergeById(allSeekers, freshS)  : freshS;
+  listingsTotal = _fullLoaded ? allListings.length : (pd.lData.total_count ?? allListings.length);
+  seekersTotal  = _fullLoaded ? allSeekers.length  : (pd.sData.total_count ?? allSeekers.length);
+  _dataUpdatedAt = pd.updated_at;
+  setUpdatedTime(pd.lData, pd.sData);
+  // New neighborhoods may have new geocodes — without them new rows get no pin.
+  try { Object.assign(geocodeCache, await fetchFresh('geocode_cache.json')); } catch (e) {}
+  renderListings();
+  renderSeekers();
+  renderActiveTab();
+}
+
+function anyModalOpen() {
+  return [...document.querySelectorAll('.modal-overlay')].some(m => m.style.display !== 'none');
+}
+
+function saveViewState() {
+  const fields = {};
+  document.querySelectorAll('[id^="f-"], [id^="sf-"]').forEach(el => {
+    if ('value' in el) fields[el.id] = el.value;
+  });
+  try {
+    sessionStorage.setItem(VIEW_STATE_KEY, JSON.stringify({ fields, tab: currentTabName(), scrollY: window.scrollY }));
+  } catch (e) {}
+}
+
+let _restoreScrollY = null;
+function restoreViewState() {
+  // Drop the ?v= cache-buster a version reload added.
+  const url = new URL(location.href);
+  if (url.searchParams.has('v')) {
+    url.searchParams.delete('v');
+    history.replaceState(null, '', url.pathname + url.search + url.hash);
+  }
+  let state = null;
+  try {
+    state = JSON.parse(sessionStorage.getItem(VIEW_STATE_KEY) || 'null');
+    sessionStorage.removeItem(VIEW_STATE_KEY);
+  } catch (e) {}
+  if (!state) return;
+  for (const [id, val] of Object.entries(state.fields || {})) {
+    const el = document.getElementById(id);
+    if (el) el.value = val;
+  }
+  const tab = document.querySelector(`.tab[data-tab="${state.tab}"]`);
+  if (tab && state.tab !== 'listings') tab.click();
+  _restoreScrollY = state.scrollY ?? null;
+}
+
+function reloadForNewVersion() {
+  const ver = _newSiteVersion;
+  if (!ver) return;
+  try { sessionStorage.setItem(RELOADED_FOR_KEY, ver); } catch (e) {}
+  saveViewState();
+  // ?v= bypasses a cached copy of the old index.html.
+  const url = new URL(location.href);
+  url.searchParams.set('v', ver);
+  location.replace(url.toString());
+}
+
+function autoReloadIfSafe() {
+  if (!_newSiteVersion || anyModalOpen()) return;
+  // Loop guard: if we already reloaded for this version and still have old
+  // code (stale cache), leave it to the banner instead of reloading forever.
+  let already = null;
+  try { already = sessionStorage.getItem(RELOADED_FOR_KEY); } catch (e) {}
+  if (already === _newSiteVersion) return;
+  reloadForNewVersion();
+}
+
+function showUpdateBanner(text, actionLabel, action) {
+  let el = $('update-banner');
+  if (!el) {
+    el = document.createElement('div');
+    el.id = 'update-banner';
+    el.setAttribute('role', 'status');
+    el.innerHTML = '<span class="ub-text"></span><button class="ub-action"></button><button class="ub-close" aria-label="Dismiss">×</button>';
+    el.querySelector('.ub-close').onclick = hideUpdateBanner;
+    document.body.appendChild(el);
+  }
+  el.querySelector('.ub-text').textContent = text;
+  const btn = el.querySelector('.ub-action');
+  btn.textContent = actionLabel;
+  btn.onclick = action;
+  el.style.display = '';
+}
+
+function hideUpdateBanner() {
+  const el = $('update-banner');
+  if (el) el.style.display = 'none';
+}
+
+setInterval(checkForUpdates, UPDATE_CHECK_MS);
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) autoReloadIfSafe();
+  else checkForUpdates();
+});
+
+restoreViewState();
+load().catch(err => console.error('Failed to load data:', err));
+
+// ── Dark mode ──────────────────────────────────────────────────────────────────
+function applyTheme(dark) {
+  document.documentElement.classList.toggle('dark', dark);
+  $('theme-btn').textContent = dark ? '☀️' : '🌙';
+}
+function toggleTheme() {
+  const dark = !document.documentElement.classList.contains('dark');
+  localStorage.setItem('theme', dark ? 'dark' : 'light');
+  applyTheme(dark);
+}
+// Apply saved preference immediately
+applyTheme(localStorage.getItem('theme') === 'dark');
+
+// Show fade gradient when table overflows horizontally
+function setupScrollFade(wrap) {
+  function update() {
+    const overflows = wrap.scrollWidth > wrap.clientWidth;
+    wrap.classList.toggle('has-overflow', overflows);
+    wrap.classList.toggle('scrolled-right', overflows && wrap.scrollLeft + wrap.clientWidth >= wrap.scrollWidth - 4);
+  }
+  wrap.addEventListener('scroll', update);
+  new ResizeObserver(update).observe(wrap);
+  update();
+}
+document.querySelectorAll('.table-wrap').forEach(setupScrollFade);
+</script>
+
+</body>
+</html>
