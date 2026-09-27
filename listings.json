@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T22:14:00.363473",
-  "count": 2036,
+  "updated_at": "2026-09-27T06:14:47.939960",
+  "count": 2038,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63627,6 +63627,63 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "2026-March 2027 LEASE TAKEOVER \u2014 2BR/2BA + Den at",
       "search_snippet_long": "2026-March 2027 LEASE TAKEOVER \u2014 2BR/2BA + Den at Hanover Burlingame \u2014 $5,504/m Spacious 2-bedroom, 2-bath + study/den (1,163 sq"
+    },
+    {
+      "listing_id": "4726638220904514",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1100,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "rent_controlled"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726638220904514",
+      "posted_at": "Saturday 26 September 2026 at 23:28",
+      "first_scraped_at": "2026-09-27T13:00:02.697269+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "tenant and one roommate in our 4 bedroom 1",
+      "search_snippet_long": "tenant and one roommate in our 4 bedroom 1 bathroom apartment in North Beach, next to Washington Square, are moving"
+    },
+    {
+      "listing_id": "4726609580907378",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1850,
+      "neighborhood": "Lower Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-11",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726609580907378",
+      "posted_at": "Saturday 26 September 2026 at 22:53",
+      "first_scraped_at": "2026-09-27T13:00:02.697269+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Lease Takeover - 2 bed / 1 bath Hi",
+      "search_snippet_long": "Lease Takeover - 2 bed / 1 bath Hi everyone, I\u2019m looking for someone to take over my lease in"
     }
   ]
 }

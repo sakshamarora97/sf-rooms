@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T22:14:00.363473",
-  "count": 2752,
+  "updated_at": "2026-09-27T06:14:47.939960",
+  "count": 2755,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82530,6 +82530,97 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "a lease in the Mission I'm Olivia! I'm searching",
       "search_snippet_long": "a lease in the Mission I'm Olivia! I'm searching for a room or community in the Mission! $1.8k budget, flexible"
+    },
+    {
+      "listing_id": "4726682324233437",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "A recent Colby College graduate moving to San Francisco to start a full-time job at a startup on Oct 1; seeking a roommate to share a 2B2B in Rincon Hill and will be working in-person in FiDi five days a week, rarely home on weekdays.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726682324233437",
+      "posted_at": "Sunday 27 September 2026 at 00:23",
+      "first_scraped_at": "2026-09-27T13:00:02.697269+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "people wanting to move in between Oct 1st-5th, can",
+      "search_snippet_long": "people wanting to move in between Oct 1st-5th, can pay $3-$3.5K a month and looking to live in Rincon Hill."
+    },
+    {
+      "listing_id": "4726596384242031",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Potrero Hill",
+        "North Beach",
+        "SOMA",
+        "Hayes Valley",
+        "Telegraph Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Works in a lab at UCSF Mission Bay, seeks housing closer to work, enjoys running, cooking/baking, exploring, and plans to apply for grad school.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726596384242031",
+      "posted_at": "Saturday 26 September 2026 at 22:38",
+      "first_scraped_at": "2026-09-27T13:00:02.697269+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a lease! Hi! My name is Leila. I work",
+      "search_snippet_long": "a lease! Hi! My name is Leila. I work in a lab at UCSF mission bay and wish to move"
+    },
+    {
+      "listing_id": "2016294065728832",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-09-26",
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Undergraduate biology major finishing final semester at the University of San Francisco on the pre-health track, aspiring pediatrician. Studious, clean, and responsible roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2016294065728832",
+      "posted_at": "Saturday 26 September 2026 at 22:50",
+      "first_scraped_at": "2026-09-27T13:00:02.697269+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Leah Getaneh, and I\u2019m looking for a",
+      "search_snippet_long": "name is Leah Getaneh, and I\u2019m looking for a private room in San Francisco. I can move in anytime between"
     }
   ]
 }
