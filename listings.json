@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T16:14:20.613176",
-  "count": 2030,
+  "updated_at": "2026-09-26T17:13:42.741489",
+  "count": 2032,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63444,6 +63444,58 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "available with flexible move out date - $5400/month Sunny,",
       "search_snippet_long": "available with flexible move out date - $5400/month Sunny, top floor 1 bed/ 1 bath apartment in a boutique, North"
+    },
+    {
+      "listing_id": "4726337834267886",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2150,
+      "neighborhood": "South of Market",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4726337834267886",
+      "posted_at": "Saturday 26 September 2026 at 16:47",
+      "first_scraped_at": "2026-09-27T00:00:06.381118+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "tenant in our apartment is moving out for 3",
+      "search_snippet_long": "tenant in our apartment is moving out for 3 months and we are looking to sublease his room for that"
+    },
+    {
+      "listing_id": "2016018525756386",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 2300,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2016018525756386",
+      "posted_at": "Saturday 26 September 2026 at 14:58",
+      "first_scraped_at": "2026-09-27T00:00:06.381118+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Nov 1, 3bed/1bath Hey everyone, I'm moving out of",
+      "search_snippet_long": "Nov 1, 3bed/1bath Hey everyone, I'm moving out of my room in our house at the end of October and"
     }
   ]
 }

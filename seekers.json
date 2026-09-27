@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T16:14:20.613176",
-  "count": 2749,
+  "updated_at": "2026-09-26T17:13:42.741489",
+  "count": 2750,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82439,6 +82439,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Gerardo, and currently on the hunt to",
       "search_snippet_long": "name is Gerardo, and currently on the hunt to find a place in SF. A little about myself, im easygoing,"
+    },
+    {
+      "listing_id": "2016040382420867",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": "2027-01-01",
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "sublease",
+        "room",
+        "month_to_month_lease"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City",
+        "Ingleside",
+        "Sunset",
+        "Russian Hill",
+        "Panhandle",
+        "NOVA"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent UC Santa Cruz graduate working full-time who enjoys nature, art projects, live shows, and trying new food spots. She is described as clean, responsible, social, and loves cooking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2016040382420867",
+      "posted_at": "Saturday 26 September 2026 at 15:39",
+      "first_scraped_at": "2026-09-27T00:00:06.381118+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "term housing or month to month lease, starting Oct",
+      "search_snippet_long": "term housing or month to month lease, starting Oct 1** hi everyone! I am Britt (22), I recently graduated from"
     }
   ]
 }
