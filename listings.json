@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-27T15:14:19.239491",
-  "count": 2052,
+  "updated_at": "2026-09-27T16:15:06.191387",
+  "count": 2054,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64118,6 +64118,68 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Potrero Hill | $2,650/month including utilities | Nov\u2013Feb Hi",
       "search_snippet_long": "Potrero Hill | $2,650/month including utilities | Nov\u2013Feb Hi everyone! I\u2019m subletting my room in a 2B2B apartment in Potrero"
+    },
+    {
+      "listing_id": "4727460167488986",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2900,
+      "neighborhood": "Ingleside",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_bath",
+        "two_windows",
+        "two_closets",
+        "near_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727460167488986",
+      "posted_at": "Sunday 27 September 2026 at 15:43",
+      "first_scraped_at": "2026-09-27T23:00:06.925629+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "roommate who can sign tonight! We are signing a",
+      "search_snippet_long": "roommate who can sign tonight! We are signing a lease in a 4b3b by 5pm tonight and the roommate taking"
+    },
+    {
+      "listing_id": "4727440684157601",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": 4500,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-17",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "24_hour_security",
+        "front_desk",
+        "gym",
+        "laundry_room"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727440684157601",
+      "posted_at": "Sunday 27 September 2026 at 15:13",
+      "first_scraped_at": "2026-09-27T23:00:06.925629+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for month-to-month rentals. Fully furnished one bedroom and one",
+      "search_snippet_long": "for month-to-month rentals. Fully furnished one bedroom and one bath, located one block from the Masonic and Grace Cathedral. Building"
     }
   ]
 }
