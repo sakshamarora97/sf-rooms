@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-27T13:15:39.485748",
-  "count": 2764,
+  "updated_at": "2026-09-27T14:15:44.315592",
+  "count": 2766,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -82903,6 +82903,72 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a room to sublease or take over starting as",
       "search_snippet_long": "a room to sublease or take over starting as soon as October 21st (4 months minimum, then month-to-month flexibility). I'll"
+    },
+    {
+      "listing_id": "4727359027499100",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "Pacific Heights",
+        "Marina",
+        "Noe Valley",
+        "Potrero Hill",
+        "Mission Bay",
+        "South Beach",
+        "North Beach",
+        "Soma",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "Recent master's graduate in computer science who moved to San Francisco to work at a startup; seeking a private room and open to short-term subleases while looking for a longer-term lease.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727359027499100",
+      "posted_at": "Sunday 27 September 2026 at 13:10",
+      "first_scraped_at": "2026-09-27T21:00:03.133816+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "24M. I just graduated from a masters in CS",
+      "search_snippet_long": "24M. I just graduated from a masters in CS at GT, previously completing my bachelors in EE at IITK and"
+    },
+    {
+      "listing_id": "4727331694168500",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is in his early 20s and works in tech, has lived in San Francisco before, and is looking for a short-term sublet room until the end of the year.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727331694168500",
+      "posted_at": "Sunday 27 September 2026 at 12:36",
+      "first_scraped_at": "2026-09-27T21:00:03.133816+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "sublet room from now till end of year! Hi",
+      "search_snippet_long": "sublet room from now till end of year! Hi everyone! My name is Christian and I am looking for a"
     }
   ]
 }
