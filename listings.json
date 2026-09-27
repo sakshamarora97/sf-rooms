@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-27T09:13:36.361728",
-  "count": 2046,
+  "updated_at": "2026-09-27T10:14:17.133617",
+  "count": 2047,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63922,6 +63922,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Take over my 1B1B at One Henry Adams (Mission",
       "search_snippet_long": "Take over my 1B1B at One Henry Adams (Mission Bay / Design District, SF) Hi all! I'm moving out of"
+    },
+    {
+      "listing_id": "4727178964183773",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2432,
+      "neighborhood": "Noe Valley",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "water_included",
+        "trash_included",
+        "updated_kitchen",
+        "near_transit",
+        "natural_light",
+        "original_woodwork"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727178964183773",
+      "posted_at": "Sunday 27 September 2026 at 09:50",
+      "first_scraped_at": "2026-09-27T17:00:05.690116+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Noe Valley SF \u2013 Need a 3rd Roommate (Female)",
+      "search_snippet_long": "Noe Valley SF \u2013 Need a 3rd Roommate (Female) to Sign ASAP! Hi everyone! I'm Ayesha, 27F, and my roommate"
     }
   ]
 }
