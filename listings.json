@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-27T11:14:48.663984",
-  "count": 2047,
+  "updated_at": "2026-09-27T12:14:50.342859",
+  "count": 2049,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63956,6 +63956,70 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Noe Valley SF \u2013 Need a 3rd Roommate (Female)",
       "search_snippet_long": "Noe Valley SF \u2013 Need a 3rd Roommate (Female) to Sign ASAP! Hi everyone! I'm Ayesha, 27F, and my roommate"
+    },
+    {
+      "listing_id": "4727259957509007",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1392,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B4B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "garage",
+        "driveway_parking",
+        "kitchen",
+        "living_room",
+        "sunroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727259957509007",
+      "posted_at": "Sunday 27 September 2026 at 11:17",
+      "first_scraped_at": "2026-09-27T19:00:06.582496+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Roommate in SSF needed! My roommates and I are",
+      "search_snippet_long": "Roommate in SSF needed! My roommates and I are looking for a 4th roommate in our South San Francisco house"
+    },
+    {
+      "listing_id": "2016811722343733",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2200,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "5B2.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "backyard",
+        "street_parking",
+        "in_unit_laundry",
+        "ensuite_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2016811722343733",
+      "posted_at": "Sunday 27 September 2026 at 10:52",
+      "first_scraped_at": "2026-09-27T19:00:06.582496+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "have a few slots left for roommate tours on",
+      "search_snippet_long": "have a few slots left for roommate tours on Monday at 7:30pm - 9pm, you will have a 10 minute"
     }
   ]
 }
