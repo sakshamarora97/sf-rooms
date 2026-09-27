@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-26T19:14:10.975565",
-  "count": 2033,
+  "updated_at": "2026-09-26T20:13:50.793848",
+  "count": 2034,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -63527,6 +63527,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "and comfortable private room on the second floor of",
       "search_snippet_long": "and comfortable private room on the second floor of a 5-bedroom, 2.5-bathroom house is available for rent. The kitchen and"
+    },
+    {
+      "listing_id": "2016129922411913",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "South of Market",
+      "area": "San Francisco",
+      "available_from": "2026-10-25",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "lounge",
+        "rooftop",
+        "downtown_views"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2016129922411913",
+      "posted_at": "Saturday 26 September 2026 at 18:32",
+      "first_scraped_at": "2026-09-27T03:00:06.571388+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate \u2014 2BR/2BA on Harrison St, SF (move-in Oct",
+      "search_snippet_long": "roommate \u2014 2BR/2BA on Harrison St, SF (move-in Oct 25th) The place: \u2022 6th floor, floor-to-ceiling windows with unobstructed downtown"
     }
   ]
 }
