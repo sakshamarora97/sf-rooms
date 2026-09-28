@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T11:14:15.294029",
-  "count": 2062,
+  "updated_at": "2026-09-28T12:13:52.516680",
+  "count": 2063,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64431,6 +64431,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for anyone to takeover a private unit through late",
       "search_snippet_long": "for anyone to takeover a private unit through late December, renewable. A bed and a bath \u2018eighteen hundred with Utilities"
+    },
+    {
+      "listing_id": "2017787932246112",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3400,
+      "neighborhood": "Japantown",
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "full_kitchen",
+        "balcony",
+        "backyard",
+        "walk_in_closets",
+        "furnished",
+        "gated_community",
+        "bay_window"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017787932246112",
+      "posted_at": "Monday 28 September 2026 at 11:45",
+      "first_scraped_at": "2026-09-28T19:00:06.745021+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "one female roommate to join us in our 3bed2bath",
+      "search_snippet_long": "one female roommate to join us in our 3bed2bath house in a gated community in Japantown! [TLDR: Japantown three-story house,"
     }
   ]
 }
