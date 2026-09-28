@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-27T19:14:07.411836",
-  "count": 2054,
+  "updated_at": "2026-09-27T20:14:04.484203",
+  "count": 2055,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64180,6 +64180,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "for month-to-month rentals. Fully furnished one bedroom and one",
       "search_snippet_long": "for month-to-month rentals. Fully furnished one bedroom and one bath, located one block from the Masonic and Grace Cathedral. Building"
+    },
+    {
+      "listing_id": "2017058735652365",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1520,
+      "neighborhood": "Alamo Square",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "shared_kitchen",
+        "professional_cleaning",
+        "high_ceilings",
+        "living_room",
+        "dining_room"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female-identifying preference",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017058735652365",
+      "posted_at": "Sunday 27 September 2026 at 18:18",
+      "first_scraped_at": "2026-09-28T03:00:04.518476+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "We live on the top floor of a beautiful,",
+      "search_snippet_long": "We live on the top floor of a beautiful, light-filled Victorian at the corner of Alamo Square, on Steiner and"
     }
   ]
 }
