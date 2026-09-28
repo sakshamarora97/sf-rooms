@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-27T20:14:04.484203",
-  "count": 2055,
+  "updated_at": "2026-09-27T21:14:04.949309",
+  "count": 2056,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64212,6 +64212,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "We live on the top floor of a beautiful,",
       "search_snippet_long": "We live on the top floor of a beautiful, light-filled Victorian at the corner of Alamo Square, on Steiner and"
+    },
+    {
+      "listing_id": "4727660017469001",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1975,
+      "neighborhood": "Lower Pac Heights",
+      "area": "San Francisco",
+      "available_from": "2026-10-19",
+      "available_until": null,
+      "unit_config": "2BR",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "private_patio"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727660017469001",
+      "posted_at": "Sunday 27 September 2026 at 20:20",
+      "first_scraped_at": "2026-09-28T04:00:05.949541+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "| Lower Pac Heights | $1975/mo + utilities |",
+      "search_snippet_long": "| Lower Pac Heights | $1975/mo + utilities | Available 19th October | 3+ months (ideally 1 year+) 5min walk"
     }
   ]
 }
