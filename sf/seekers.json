@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-27T22:14:53.287173",
-  "count": 2770,
+  "updated_at": "2026-09-28T06:13:13.275440",
+  "count": 2772,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83097,6 +83097,63 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "I'm looking to join a lease. I recently moved",
       "search_snippet_long": "I'm looking to join a lease. I recently moved to SF, and am looking to live somewhere with easy transit"
+    },
+    {
+      "listing_id": "4727771914124478",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "NoPa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 23,
+      "bio": "Recent 23-year-old graduate from Concordia University who has moved back to the Bay Area from Montreal; seeking a room in San Francisco and looking for roommates in a similar age group who are kind, clean, and enjoy occasional small gatherings.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727771914124478",
+      "posted_at": "Sunday 27 September 2026 at 22:47",
+      "first_scraped_at": "2026-09-28T13:00:06.882731+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room in SF in November Hi! My name is",
+      "search_snippet_long": "room in SF in November Hi! My name is Kenza and I am a 23 year old recent graduate from"
+    },
+    {
+      "listing_id": "2017482115610027",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "house"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 6,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a group of six women seeking a house in the Mission District, ready to move in on 2026-10-01.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017482115610027",
+      "posted_at": "Monday 28 September 2026 at 05:11",
+      "first_scraped_at": "2026-09-28T13:00:06.882731+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "HOUSE in SF We are 6 girls! Ready to",
+      "search_snippet_long": "HOUSE in SF We are 6 girls! Ready to move in this October 1! Preferably near in Mission District Please"
     }
   ]
 }
