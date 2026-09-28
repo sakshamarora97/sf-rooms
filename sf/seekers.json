@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T09:14:08.143997",
-  "count": 2775,
+  "updated_at": "2026-09-28T10:14:41.643313",
+  "count": 2776,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83242,6 +83242,45 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "female roommate to co-lease a 2B/2B apartment in San",
       "search_snippet_long": "female roommate to co-lease a 2B/2B apartment in San Mateo County \u2014 Redwood City / San Mateo / Menlo Park"
+    },
+    {
+      "listing_id": "2017692335589005",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Mission Dolores",
+        "Dolores Heights",
+        "Potrero Hill",
+        "Dogpatch",
+        "Noe Valley",
+        "The Castro",
+        "Lower Haight",
+        "Hayes Valley",
+        "East SoMa",
+        "Downtown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "A 22-year-old Yale graduate who works on the human research team at a neurotech startup in Mission Bay. Social and easygoing, into sports, cooking, and fashion; very tidy and enjoys hosting and creating a vibey, well-decorated home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017692335589005",
+      "posted_at": "Monday 28 September 2026 at 09:38",
+      "first_scraped_at": "2026-09-28T17:00:02.940962+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommates to find an SF apartment with ASAP! Hi!",
+      "search_snippet_long": "roommates to find an SF apartment with ASAP! Hi! My name is Matthew and I\u2019m looking for a potential roommate!"
     }
   ]
 }

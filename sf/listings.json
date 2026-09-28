@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T09:14:08.143997",
-  "count": 2060,
+  "updated_at": "2026-09-28T10:14:41.643313",
+  "count": 2061,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64372,6 +64372,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "FEMALE Roommates to apply/sign a lease for a 3b2b",
       "search_snippet_long": "FEMALE Roommates to apply/sign a lease for a 3b2b in Rincon Hill (1300 sqft) ** Rent would come out to"
+    },
+    {
+      "listing_id": "4728329487402054",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 4060,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-09-28",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "resident_lounge",
+        "package_lockers"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Avalon Mission Bay",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4728329487402054",
+      "posted_at": "Monday 28 September 2026 at 09:12",
+      "first_scraped_at": "2026-09-28T17:00:02.940962+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Bay \u2013 ~$4,060/mo effective** Hey everyone! I recently moved",
+      "search_snippet_long": "Bay \u2013 ~$4,060/mo effective** Hey everyone! I recently moved out of my studio at Avalon Mission Bay and am trying"
     }
   ]
 }
