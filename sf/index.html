@@ -1809,6 +1809,7 @@ document.querySelectorAll('.tab').forEach(tab => {
     document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
     tab.classList.add('active');
     const name = tab.dataset.tab;
+    track('switch_tab', { tab_name: name });
     $('view-listings').style.display = name==='listings'?'':'none';
     $('view-seekers').style.display  = name==='seekers' ?'':'none';
     $('view-spam').style.display     = name==='spam'    ?'':'none';
@@ -1866,8 +1867,23 @@ function currentTabName() {
   return active ? active.dataset.tab : 'listings';
 }
 
+function track(name, params) { gtag('event', name, params || {}); }
+
+// Delegated: catches every "View →" / "Profile →" link, however it was
+// rendered (listings table, seekers table, card view, spam list) instead of
+// instrumenting each render path separately.
+document.addEventListener('click', e => {
+  const link = e.target.closest('a.btn-post');
+  if (!link) return;
+  track('view_listing', {
+    link_type: link.classList.contains('btn-post-profile') ? 'profile' : 'post',
+    tab: currentTabName(),
+  });
+});
+
 window.toggleMapPane = function() {
   mapPaneOpen = !mapPaneOpen;
+  track('toggle_map', { open: mapPaneOpen, tab: currentTabName() });
   $('main-area').classList.toggle('map-open', mapPaneOpen);
   document.querySelectorAll('.map-toggle-pill').forEach(b => b.classList.toggle('active', mapPaneOpen));
   if (mapPaneOpen) initMapIfNeeded();
@@ -1963,6 +1979,7 @@ function highlightMarkersForPost(lid) {
 // Pin clicked on the map -> scroll to and highlight the real row/card, and
 // mark the clicked pin itself as selected.
 window.selectFromPin = function(lid) {
+  track('map_pin_click', { source: 'marker', tab: currentTabName() });
   highlightRowForPost(lid, true);
   highlightMarkersForPost(lid);
 };
@@ -1970,6 +1987,7 @@ window.selectFromPin = function(lid) {
 // Post's row/card clicked -> reveal (un-cluster/zoom if needed) and pan to
 // its pin, highlighting both ends.
 window.selectFromPost = function(lid) {
+  track('map_pin_click', { source: 'row_button', tab: currentTabName() });
   highlightRowForPost(lid, false);
   const markers = mapMarkersByListingId[lid];
   if (!markers || !markers.length || !leafletMap) return;
@@ -2023,6 +2041,7 @@ function _showAuthMsg(msg, ok) {
 }
 
 async function signInGoogle() {
+  track('login', { method: 'google' });
   await supa.auth.signInWithOAuth({
     provider: 'google',
     options: { redirectTo: window.location.origin + window.location.pathname }
@@ -2037,11 +2056,11 @@ async function signInEmail() {
   if (_authMode === 'signup') {
     const { error } = await supa.auth.signUp({ email, password });
     if (error) { _showAuthMsg(error.message, false); }
-    else { _showAuthMsg('Account created! Check your email to confirm, then sign in.', true); }
+    else { track('sign_up', { method: 'email' }); _showAuthMsg('Account created! Check your email to confirm, then sign in.', true); }
   } else {
     const { error } = await supa.auth.signInWithPassword({ email, password });
     if (error) { _showAuthMsg(error.message, false); }
-    else { closeAuthModal(); }
+    else { track('login', { method: 'email' }); closeAuthModal(); }
   }
   $('auth-submit-btn').disabled = false;
 }
@@ -2096,9 +2115,11 @@ window.toggleBookmark = async function(lid) {
   if (userBookmarks.has(lid)) {
     await supa.from('bookmarks').delete().eq('user_id',uid).eq('listing_id',lid);
     userBookmarks.delete(lid);
+    track('bookmark_listing', { action: 'remove' });
   } else {
     await supa.from('bookmarks').upsert({user_id:uid, listing_id:lid});
     userBookmarks.add(lid);
+    track('bookmark_listing', { action: 'add' });
   }
   renderListings(); renderSeekers();
 };
@@ -2170,6 +2191,7 @@ let _feedbackContext = null; // { listing_id, post_url, label } when reporting a
 window.reportListingIssue = function(lid) {
   const post = allListings.find(p => p.listing_id === lid) || allSeekers.find(p => p.listing_id === lid);
   if (!post) return;
+  track('report_listing');
   const label = post.rent != null
     ? `$${post.rent.toLocaleString()} · ${post.neighborhood || post.area || ''}`
     : (post.neighborhood || (post.preferred_neighborhoods||[])[0] || post.area || 'this post');
@@ -2255,6 +2277,7 @@ window.submitFeedback = async function() {
     _showFeedbackMsg('Something went wrong — please try again.', false);
     return;
   }
+  track('submit_feedback', { feedback_type: _feedbackType, category: category || undefined });
   _showFeedbackMsg("Thanks — we've got it!", true);
   setTimeout(closeFeedbackModal, 1500);
 };
