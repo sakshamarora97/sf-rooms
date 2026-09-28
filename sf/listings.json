@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T08:14:30.683005",
-  "count": 2059,
+  "updated_at": "2026-09-28T09:14:08.143997",
+  "count": 2060,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64344,6 +64344,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "master bedroom, complete with en suite bathroom with 2",
       "search_snippet_long": "master bedroom, complete with en suite bathroom with 2 sinks and lots of storage, in a renovated 2 bedroom/2bath in"
+    },
+    {
+      "listing_id": "2017595228932049",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2780,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-12",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_bath"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017595228932049",
+      "posted_at": "Monday 28 September 2026 at 07:38",
+      "first_scraped_at": "2026-09-28T16:00:04.908721+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "FEMALE Roommates to apply/sign a lease for a 3b2b",
+      "search_snippet_long": "FEMALE Roommates to apply/sign a lease for a 3b2b in Rincon Hill (1300 sqft) ** Rent would come out to"
     }
   ]
 }
