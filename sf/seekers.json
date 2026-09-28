@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T15:14:14.831918",
-  "count": 2780,
+  "updated_at": "2026-09-28T16:14:11.894670",
+  "count": 2781,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83392,6 +83392,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "one more roommate to apply with us ASAP (EOD",
       "search_snippet_long": "one more roommate to apply with us ASAP (EOD today)! Hi!! I\u2019m currently apartment hunting with two other girls, and"
+    },
+    {
+      "listing_id": "4728617390706597",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "Inner Richmond",
+        "Outer Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Clean working professional in their 30s seeking a studio or room under $1000 to use while working in San Francisco a few days per week.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4728617390706597",
+      "posted_at": "Monday 28 September 2026 at 15:03",
+      "first_scraped_at": "2026-09-28T23:00:04.018999+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "rooms available to rent in Inner Sunset, inner/ outer",
+      "search_snippet_long": "rooms available to rent in Inner Sunset, inner/ outer Richmond (surrounding areas) under 1000 only going to be using for"
     }
   ]
 }
