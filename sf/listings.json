@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T14:14:09.947724",
-  "count": 2063,
+  "updated_at": "2026-09-28T15:14:14.831918",
+  "count": 2064,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64466,6 +64466,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "one female roommate to join us in our 3bed2bath",
       "search_snippet_long": "one female roommate to join us in our 3bed2bath house in a gated community in Japantown! [TLDR: Japantown three-story house,"
+    },
+    {
+      "listing_id": "4728524350715901",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 930,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": "2027-12-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "gated_community",
+        "parking",
+        "garage",
+        "gas_stove",
+        "shared_kitchen",
+        "living_room_access",
+        "storage_cabinet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "male, 26 or younger",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4728524350715901",
+      "posted_at": "Monday 28 September 2026 at 12:59",
+      "first_scraped_at": "2026-09-28T22:00:07.734069+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "our Daly City townhouse - need someone to move",
+      "search_snippet_long": "our Daly City townhouse - need someone to move in ASAP!! Rent is $930/mo + utilities (~$150). Deposit is 1.5x"
     }
   ]
 }
