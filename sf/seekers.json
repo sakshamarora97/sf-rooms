@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T06:13:13.275440",
-  "count": 2772,
+  "updated_at": "2026-09-28T07:15:47.127357",
+  "count": 2774,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83154,6 +83154,62 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "HOUSE in SF We are 6 girls! Ready to",
       "search_snippet_long": "HOUSE in SF We are 6 girls! Ready to move in this October 1! Preferably near in Mission District Please"
+    },
+    {
+      "listing_id": "28472249732432311",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are relocating to the Bay for a travel social work position and seeking a pet-friendly six-month sublet, preferably an entire unit, with a $3,000/month budget.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28472249732432311",
+      "posted_at": "Monday 28 September 2026 at 06:04",
+      "first_scraped_at": "2026-09-28T14:00:05.435601+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "6 month sublet! Preferably entire unit, pet friendly. Relocating",
+      "search_snippet_long": "6 month sublet! Preferably entire unit, pet friendly. Relocating back to the bay for a travel social work position, budget"
+    },
+    {
+      "listing_id": "2017193075638931",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "North Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 24,
+      "bio": "He is a 24-year-old full-time software engineer working in Santa Clara who is clean and easygoing and works in-office during the week. He has a friendly 30 lb hypoallergenic dog that is at the house about 70% of the time.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017193075638931",
+      "posted_at": "Sunday 27 September 2026 at 21:59",
+      "first_scraped_at": "2026-09-28T14:00:05.435601+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Snehith (24M) working full-time as a software engineer in",
+      "search_snippet_long": "Snehith (24M) working full-time as a software engineer in Santa Clara, and I'm looking for someone around my age to"
     }
   ]
 }
