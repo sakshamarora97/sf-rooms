@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T10:14:41.643313",
-  "count": 2776,
+  "updated_at": "2026-09-28T11:14:15.294029",
+  "count": 2778,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83281,6 +83281,60 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommates to find an SF apartment with ASAP! Hi!",
       "search_snippet_long": "roommates to find an SF apartment with ASAP! Hi! My name is Matthew and I\u2019m looking for a potential roommate!"
+    },
+    {
+      "listing_id": "28470219455968672",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-06-01",
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A couple moving to San Francisco short-term (beginning Jan 2027 through June 1, 2027) seeking a sublet; budget around $3,000/month and flexible on location and style.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28470219455968672",
+      "posted_at": "Monday 28 September 2026 at 06:04",
+      "first_scraped_at": "2026-09-28T18:00:02.809057+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "(Jan-May 2027) Hi, my name is Jackson! I am",
+      "search_snippet_long": "(Jan-May 2027) Hi, my name is Jackson! I am moving to SF short-term in the beginning on January and planned"
+    },
+    {
+      "listing_id": "2017660622258843",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "She is a 26-year-old outdoor educator and nanny who enjoys backpacking, biking, cooking, playing guitar, and movies. She describes herself as a clean, considerate roommate who is cat-friendly and willing to contribute a Costco membership.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017660622258843",
+      "posted_at": "Monday 28 September 2026 at 08:59",
+      "first_scraped_at": "2026-09-28T18:00:02.809057+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room (<$1400) in SF Oct or Nov 1st! My",
+      "search_snippet_long": "room (<$1400) in SF Oct or Nov 1st! My name is Hannah and I\u2019m a 26 year old outdoor educator."
     }
   ]
 }

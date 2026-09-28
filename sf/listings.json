@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T10:14:41.643313",
-  "count": 2061,
+  "updated_at": "2026-09-28T11:14:15.294029",
+  "count": 2062,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64403,6 +64403,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Bay \u2013 ~$4,060/mo effective** Hey everyone! I recently moved",
       "search_snippet_long": "Bay \u2013 ~$4,060/mo effective** Hey everyone! I recently moved out of my studio at Avalon Mission Bay and am trying"
+    },
+    {
+      "listing_id": "2017735055584733",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "short_term",
+      "rent": 1800,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017735055584733",
+      "posted_at": "Monday 28 September 2026 at 10:34",
+      "first_scraped_at": "2026-09-28T18:00:02.809057+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for anyone to takeover a private unit through late",
+      "search_snippet_long": "for anyone to takeover a private unit through late December, renewable. A bed and a bath \u2018eighteen hundred with Utilities"
     }
   ]
 }
