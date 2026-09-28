@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-27T18:17:20.092103",
-  "count": 2767,
+  "updated_at": "2026-09-27T19:14:07.411836",
+  "count": 2768,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83001,6 +83001,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "I are looking for a 2B2B/2B1B or 1B with",
       "search_snippet_long": "I are looking for a 2B2B/2B1B or 1B with den apartment lease takeover in San Francisco, preferably in Mission Bay,"
+    },
+    {
+      "listing_id": "4727581507476852",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": "2026-10-31",
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "SOMA",
+        "FiDi",
+        "San Jose",
+        "San Mateo",
+        "Sunnyvale",
+        "Mountain View"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a furnished private room with a private bathroom for October, budget around $1,500/month, open to Mission, SOMA, FiDi, or South Bay cities.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4727581507476852",
+      "posted_at": "Sunday 27 September 2026 at 18:40",
+      "first_scraped_at": "2026-09-28T02:00:06.842895+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room with private bath \u2014 Oct 1\u201331 (1 month)",
+      "search_snippet_long": "room with private bath \u2014 Oct 1\u201331 (1 month) Hi all! I'm looking for a furnished private room with a"
     }
   ]
 }
