@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T20:14:18.377519",
-  "count": 2068,
+  "updated_at": "2026-09-28T21:14:14.954563",
+  "count": 2069,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64617,6 +64617,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Bathroom in Soma/Mission Hi everyone!! REPOSTING - my roommate",
       "search_snippet_long": "Bathroom in Soma/Mission Hi everyone!! REPOSTING - my roommate is moving out and we have a room with a private"
+    },
+    {
+      "listing_id": "2018047112220194",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "private_bathroom",
+        "parking",
+        "furnished"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018047112220194",
+      "posted_at": "Monday 28 September 2026 at 19:32",
+      "first_scraped_at": "2026-09-29T03:00:04.313693+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "A ROOMMATE FOR OCTOBER Hi there! We\u2019re looking for",
+      "search_snippet_long": "A ROOMMATE FOR OCTOBER Hi there! We\u2019re looking for someone to join our house of four other guys in Lower"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T20:14:18.377519",
-  "count": 2785,
+  "updated_at": "2026-09-28T21:14:14.954563",
+  "count": 2786,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83540,6 +83540,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "can call me CK or Claire. I am 22,",
       "search_snippet_long": "can call me CK or Claire. I am 22, working in the city, and looking for female roommates in SF"
+    },
+    {
+      "listing_id": "2018070152217890",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Pac Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is currently looking for housing in the Marina, Cow Hollow, or Pac Heights and is open to joining leases, subleases, or lease takeovers; prefers a private bedroom and bathroom but is also open to a studio or 1B1B.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018070152217890",
+      "posted_at": "Monday 28 September 2026 at 20:05",
+      "first_scraped_at": "2026-09-29T04:00:03.150713+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Jackie and I\u2019m currently looking for a place in",
+      "search_snippet_long": "Jackie and I\u2019m currently looking for a place in the Marina, Cow Hollow, or Pac Heights area. I\u2019m open to"
     }
   ]
 }
