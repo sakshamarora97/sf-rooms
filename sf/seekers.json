@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T13:15:10.592676",
-  "count": 2792,
+  "updated_at": "2026-09-29T14:14:17.746423",
+  "count": 2793,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83748,6 +83748,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Mary! I am 22 and graduated from",
       "search_snippet_long": "name is Mary! I am 22 and graduated from Syracuse University (upstate ny) in may. I am starting a new"
+    },
+    {
+      "listing_id": "2018777108813861",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-10",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View",
+        "Palo Alto",
+        "Redwood City",
+        "Menlo Park",
+        "Belmont"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are starting a job as a lab tech at a semiconductor startup in Menlo Park and may have irregular hours. They enjoy golf, baseball, cooking, baking, and playing video games.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018777108813861",
+      "posted_at": "Tuesday 29 September 2026 at 13:17",
+      "first_scraped_at": "2026-09-29T21:00:06.964841+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in South Bay/Peninsula (Mtn View, Palo Alto, Redwood City,",
+      "search_snippet_long": "in South Bay/Peninsula (Mtn View, Palo Alto, Redwood City, Menlo Park, Belmont) Hey everyone, I'm moving to the Bay Area"
     }
   ]
 }
