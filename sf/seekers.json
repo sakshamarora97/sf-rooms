@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T08:13:51.833589",
-  "count": 2787,
+  "updated_at": "2026-09-29T09:13:47.512764",
+  "count": 2788,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83603,6 +83603,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Sublease (1 or 2 BR): Nov 16 to Jan",
       "search_snippet_long": "Sublease (1 or 2 BR): Nov 16 to Jan 6 Hi - my wife and I are looking for a"
+    },
+    {
+      "listing_id": "2018180305540208",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "West Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a studio or private living space in San Francisco or West Oakland with a budget around $2,000/month, prefers walking distance to BART and requires laundry in the building. Open to long-term sublets or yearly rentals, flexible on move-in date, and can provide references.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018180305540208",
+      "posted_at": "Monday 28 September 2026 at 23:01",
+      "first_scraped_at": "2026-09-29T15:00:06.776208+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a sublet or rental in SF /",
+      "search_snippet_long": "looking for a sublet or rental in SF / West Oakland and would love to hear if anyone has something"
     }
   ]
 }
