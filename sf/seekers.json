@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T16:14:11.894670",
-  "count": 2781,
+  "updated_at": "2026-09-28T17:14:11.717113",
+  "count": 2783,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83423,6 +83423,62 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "rooms available to rent in Inner Sunset, inner/ outer",
       "search_snippet_long": "rooms available to rent in Inner Sunset, inner/ outer Richmond (surrounding areas) under 1000 only going to be using for"
+    },
+    {
+      "listing_id": "4728685967366406",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 5500,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Telegraph Hill",
+        "Chinatown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "They are two clean, non-smoking tenants with no pets, credit scores above 700, and income exceeding three times the rent.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4728685967366406",
+      "posted_at": "Monday 28 September 2026 at 16:38",
+      "first_scraped_at": "2026-09-29T00:00:06.619441+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "roommate and I are looking to find an apartment",
+      "search_snippet_long": "roommate and I are looking to find an apartment or takeover a lease in north beach, telegraph hill, or chinatown."
+    },
+    {
+      "listing_id": "2017944315563807",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are expecting their first baby and are seeking a short-term sublease in Rincon Hill (within walking distance of The Lumina) for the mother to stay for a few weeks up to two months to help after the birth.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2017944315563807",
+      "posted_at": "Monday 28 September 2026 at 16:32",
+      "first_scraped_at": "2026-09-29T00:00:06.619441+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "expecting our first baby in mid-November and live in",
+      "search_snippet_long": "expecting our first baby in mid-November and live in Rincon Hill. We\u2019re looking for a short-term rental for my mom"
     }
   ]
 }

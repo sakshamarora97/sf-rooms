@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T16:14:11.894670",
-  "count": 2066,
+  "updated_at": "2026-09-28T17:14:11.717113",
+  "count": 2068,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64557,6 +64557,66 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "OCT-NOV AVAIL ASAP 500 Folsom high rise unit available",
       "search_snippet_long": "OCT-NOV AVAIL ASAP 500 Folsom high rise unit available Monday Oct 5 through November Building has hot tub, gym, and"
+    },
+    {
+      "listing_id": "4728686857366317",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2100,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4728686857366317",
+      "posted_at": "Monday 28 September 2026 at 16:40",
+      "first_scraped_at": "2026-09-29T00:00:06.619441+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "roommate in SoMa starting November 1! We\u2019re a couple",
+      "search_snippet_long": "roommate in SoMa starting November 1! We\u2019re a couple looking for someone to join our 1,400 sq. ft., 2-bedroom, 2.5-bath"
+    },
+    {
+      "listing_id": "4728664134035256",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Soma",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "backyard",
+        "storage",
+        "private_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4728664134035256",
+      "posted_at": "Monday 28 September 2026 at 16:05",
+      "first_scraped_at": "2026-09-29T00:00:06.619441+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Bathroom in Soma/Mission Hi everyone!! REPOSTING - my roommate",
+      "search_snippet_long": "Bathroom in Soma/Mission Hi everyone!! REPOSTING - my roommate is moving out and we have a room with a private"
     }
   ]
 }
