@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T12:13:34.738306",
-  "count": 2079,
+  "updated_at": "2026-09-29T13:15:10.592676",
+  "count": 2080,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64949,6 +64949,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for anyone to takeover a private unit through",
       "search_snippet_long": "looking for anyone to takeover a private unit through late December, flexible on move-in timing. It's a 1 bed and"
+    },
+    {
+      "listing_id": "2018733838818188",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-02-29",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "lounge",
+        "security",
+        "parking",
+        "city_views",
+        "contemporary_finishes"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "AVA Nob Hill",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018733838818188",
+      "posted_at": "Tuesday 29 September 2026 at 12:03",
+      "first_scraped_at": "2026-09-29T20:00:06.397294+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Sublease at AVA Nob Hill Address: 965 Sutter St,",
+      "search_snippet_long": "Sublease at AVA Nob Hill Address: 965 Sutter St, San Francisco, CA 94109 Monthly Rent: $2,000 (All utilities & a"
     }
   ]
 }
