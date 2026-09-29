@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T22:14:44.373978",
-  "count": 2786,
+  "updated_at": "2026-09-29T06:15:24.403576",
+  "count": 2787,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83572,6 +83572,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Jackie and I\u2019m currently looking for a place in",
       "search_snippet_long": "Jackie and I\u2019m currently looking for a place in the Marina, Cow Hollow, or Pac Heights area. I\u2019m open to"
+    },
+    {
+      "listing_id": "28485050597818891",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-16",
+      "move_out_date": "2027-01-06",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "SOMA",
+        "Rincon Hill",
+        "East Cut"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "reason": "other",
+      "age": null,
+      "bio": "A nearby married couple looking for a short sublease to host quiet, responsible visiting parents in their mid-60s. They can provide references, prefer a written sublease with monthly payment in advance, and can meet in person.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28485050597818891",
+      "posted_at": "Tuesday 29 September 2026 at 05:21",
+      "first_scraped_at": "2026-09-29T13:00:06.558990+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Sublease (1 or 2 BR): Nov 16 to Jan",
+      "search_snippet_long": "Sublease (1 or 2 BR): Nov 16 to Jan 6 Hi - my wife and I are looking for a"
     }
   ]
 }
