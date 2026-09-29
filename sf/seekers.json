@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T17:14:11.717113",
-  "count": 2783,
+  "updated_at": "2026-09-28T18:13:58.085870",
+  "count": 2784,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83479,6 +83479,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "expecting our first baby in mid-November and live in",
       "search_snippet_long": "expecting our first baby in mid-November and live in Rincon Hill. We\u2019re looking for a short-term rental for my mom"
+    },
+    {
+      "listing_id": "4728732814028388",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Russian Hill",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are a tech sales professional working in FiDi who recently moved back to the Bay Area. Active and social \u2014 into pickup basketball, golf, pickleball and the gym; big Bay Area sports fan who enjoys weekend bars and food.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4728732814028388",
+      "posted_at": "Monday 28 September 2026 at 17:47",
+      "first_scraped_at": "2026-09-29T01:00:07.335671+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a lease Hey everyone! I grew up in Marin,",
+      "search_snippet_long": "a lease Hey everyone! I grew up in Marin, went to Redwood High School, then went to college in PA"
     }
   ]
 }
