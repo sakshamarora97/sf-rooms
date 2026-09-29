@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-28T21:14:14.954563",
-  "count": 2069,
+  "updated_at": "2026-09-28T22:14:44.373978",
+  "count": 2071,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64648,6 +64648,78 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "A ROOMMATE FOR OCTOBER Hi there! We\u2019re looking for",
       "search_snippet_long": "A ROOMMATE FOR OCTOBER Hi there! We\u2019re looking for someone to join our house of four other guys in Lower"
+    },
+    {
+      "listing_id": "4728915490676787",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2650,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "microwave",
+        "furnished_common_area",
+        "street_parking",
+        "central_heating",
+        "natural_light"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4728915490676787",
+      "posted_at": "Monday 28 September 2026 at 21:51",
+      "first_scraped_at": "2026-09-29T05:00:03.136266+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "rent 28 Clyde St, San Francisco, CA 94107-1718, United",
+      "search_snippet_long": "rent 28 Clyde St, San Francisco, CA 94107-1718, United States Caltrain station is like a 2 minute walk away. Walgreens,"
+    },
+    {
+      "listing_id": "2018108055547433",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Bernal Heights",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "free_parking",
+        "in_unit_laundry",
+        "maid_service",
+        "living_room",
+        "dining_room",
+        "garage_storage",
+        "sun_deck",
+        "bbq",
+        "garden",
+        "street_parking",
+        "near_transit"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018108055547433",
+      "posted_at": "Monday 28 September 2026 at 21:07",
+      "first_scraped_at": "2026-09-29T05:00:03.136266+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Bedroom w/ Free Parking, Free Laundry & Maid Mission/Bernal",
+      "search_snippet_long": "Bedroom w/ Free Parking, Free Laundry & Maid Mission/Bernal Heights location Room w/ Free Parking, Free Laundry & Maid Service"
     }
   ]
 }
