@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T09:13:47.512764",
-  "count": 2076,
+  "updated_at": "2026-09-29T10:13:51.894523",
+  "count": 2078,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64864,6 +64864,63 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "my room starting in November in the Marina for",
       "search_snippet_long": "my room starting in November in the Marina for 3-4 months. $2600 Amazing location just off of Union 3 Bed"
+    },
+    {
+      "listing_id": "4729544110613925",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2065,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4729544110613925",
+      "posted_at": "Tuesday 29 September 2026 at 09:38",
+      "first_scraped_at": "2026-09-29T17:00:07.446391+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "roommates are moving out and I\u2019m hoping to stay",
+      "search_snippet_long": "roommates are moving out and I\u2019m hoping to stay and sublet the two available rooms in my 3 bed, 2"
+    },
+    {
+      "listing_id": "2018147132210192",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3600,
+      "neighborhood": "Mission",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "wifi",
+        "trash"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018147132210192",
+      "posted_at": "Monday 28 September 2026 at 22:08",
+      "first_scraped_at": "2026-09-29T17:00:07.446391+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Mission for rent starting Oct 1. $3600 including Wifi",
+      "search_snippet_long": "Mission for rent starting Oct 1. $3600 including Wifi and trash. DM for more details."
     }
   ]
 }
