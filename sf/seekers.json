@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T15:13:37.698481",
-  "count": 2793,
+  "updated_at": "2026-09-29T16:14:16.585251",
+  "count": 2794,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83781,6 +83781,32 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in South Bay/Peninsula (Mtn View, Palo Alto, Redwood City,",
       "search_snippet_long": "in South Bay/Peninsula (Mtn View, Palo Alto, Redwood City, Menlo Park, Belmont) Hey everyone, I'm moving to the Bay Area"
+    },
+    {
+      "listing_id": "2018848988806673",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-05",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a short-term sublet from Oct 5 through December, ideally near Caltrain for easy access.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018848988806673",
+      "posted_at": "Tuesday 29 September 2026 at 15:28",
+      "first_scraped_at": "2026-09-29T23:00:07.443484+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "sublet (ideally near / easy access to caltrain) from",
+      "search_snippet_long": "sublet (ideally near / easy access to caltrain) from Oct 5 through December!"
     }
   ]
 }

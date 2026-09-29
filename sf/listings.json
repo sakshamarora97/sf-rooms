@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T15:13:37.698481",
-  "count": 2085,
+  "updated_at": "2026-09-29T16:14:16.585251",
+  "count": 2087,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65141,6 +65141,70 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in Daly City Townhouse \u2013 $900/mo (Walk to BART",
       "search_snippet_long": "in Daly City Townhouse \u2013 $900/mo (Walk to BART & Groceries!) Looking for a quiet, convenient, and affordable spot near"
+    },
+    {
+      "listing_id": "4729836510584685",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Ocean Ave",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "renovated_kitchen",
+        "renovated_bathrooms",
+        "shared_laundry",
+        "biometric_door_locks",
+        "street_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4729836510584685",
+      "posted_at": "Tuesday 29 September 2026 at 15:53",
+      "first_scraped_at": "2026-09-29T23:00:07.443484+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Available \u2014 Near Ocean Ave, San Francisco! Newly renovated",
+      "search_snippet_long": "Available \u2014 Near Ocean Ave, San Francisco! Newly renovated apartment conveniently located near CCSF and SF State, with easy freeway"
+    },
+    {
+      "listing_id": "2018844372140468",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 816,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": "2027-08-13",
+      "unit_config": "2B1B",
+      "room_type": "shared_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "shared_laundry",
+        "gym",
+        "pool",
+        "hot_tub",
+        "street_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018844372140468",
+      "posted_at": "Tuesday 29 September 2026 at 15:20",
+      "first_scraped_at": "2026-09-29T23:00:07.443484+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Female Replacement Roommate - South San Francisco Hello everyone!",
+      "search_snippet_long": "Female Replacement Roommate - South San Francisco Hello everyone! I\u2019m looking for a female roommate to share a bedroom with"
     }
   ]
 }
