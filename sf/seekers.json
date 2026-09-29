@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T10:13:51.894523",
-  "count": 2788,
+  "updated_at": "2026-09-29T11:13:31.243611",
+  "count": 2789,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83633,6 +83633,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a sublet or rental in SF /",
       "search_snippet_long": "looking for a sublet or rental in SF / West Oakland and would love to hear if anyone has something"
+    },
+    {
+      "listing_id": "4729590630609273",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "sublease",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Tenderloin",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a 2\u20134 month sublease or a room for rent with a budget at or below $1000/month. They prefer non-smoker roommates, proximity to public transit, are open to most areas except the Tenderloin, are considering Daly City, and need to move as soon as possible (DMs OK).",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4729590630609273",
+      "posted_at": "Tuesday 29 September 2026 at 10:29",
+      "first_scraped_at": "2026-09-29T18:00:07.789493+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "well. Looking for a sublease 2-4 months or a",
+      "search_snippet_long": "well. Looking for a sublease 2-4 months or a room for rent. Would like to keep my budget $1000 or"
     }
   ]
 }

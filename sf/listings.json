@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T10:13:51.894523",
-  "count": 2078,
+  "updated_at": "2026-09-29T11:13:31.243611",
+  "count": 2079,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -64921,6 +64921,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Mission for rent starting Oct 1. $3600 including Wifi",
       "search_snippet_long": "Mission for rent starting Oct 1. $3600 including Wifi and trash. DM for more details."
+    },
+    {
+      "listing_id": "2018668432158062",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018668432158062",
+      "posted_at": "Tuesday 29 September 2026 at 10:27",
+      "first_scraped_at": "2026-09-29T18:00:07.789493+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for anyone to takeover a private unit through",
+      "search_snippet_long": "looking for anyone to takeover a private unit through late December, flexible on move-in timing. It's a 1 bed and"
     }
   ]
 }
