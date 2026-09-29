@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T14:14:17.746423",
-  "count": 2084,
+  "updated_at": "2026-09-29T15:13:37.698481",
+  "count": 2085,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65109,6 +65109,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "One Rincon Hill 425 1st St, San Francisco, CA",
       "search_snippet_long": "One Rincon Hill 425 1st St, San Francisco, CA 94105 Rent: $2,000/mo (All-inclusive: utilities + dedicated parking included! ) Availability:"
+    },
+    {
+      "listing_id": "2018799058811666",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 900,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": "2026-11-01",
+      "available_until": "2027-07-31",
+      "unit_config": "3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 6,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_bathroom",
+        "near_bart",
+        "near_grocery",
+        "highway_access"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018799058811666",
+      "posted_at": "Tuesday 29 September 2026 at 13:58",
+      "first_scraped_at": "2026-09-29T22:00:07.438970+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in Daly City Townhouse \u2013 $900/mo (Walk to BART",
+      "search_snippet_long": "in Daly City Townhouse \u2013 $900/mo (Walk to BART & Groceries!) Looking for a quiet, convenient, and affordable spot near"
     }
   ]
 }
