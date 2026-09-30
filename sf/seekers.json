@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T09:15:09.354265",
-  "count": 2806,
+  "updated_at": "2026-09-30T10:14:24.634698",
+  "count": 2808,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84149,6 +84149,62 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking for a professional female roommate to co-sign a",
       "search_snippet_long": "looking for a professional female roommate to co-sign a 2B lease with me. Looking to finalize by the end of"
+    },
+    {
+      "listing_id": "4730679070500429",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a private furnished room for about a month starting early October; prefers a private bath; open to the SF Bay Area.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730679070500429",
+      "posted_at": "Wednesday 30 September 2026 at 08:59",
+      "first_scraped_at": "2026-09-30T17:00:07.708613+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a private room for about a month",
+      "search_snippet_long": "looking for a private room for about a month starting early October. Must be furnished; private bath preferred. Open to"
+    },
+    {
+      "listing_id": "2019602178731354",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": null,
+      "age": 32,
+      "bio": "32-year-old who works in person in San Francisco. Clean, responsible, social, cooks breakfast most days, meal preps during the week, goes to the gym regularly, and seeks friendly, considerate roommates to move into a 3-bedroom ASAP.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2019602178731354",
+      "posted_at": "Wednesday 30 September 2026 at 09:50",
+      "first_scraped_at": "2026-09-30T17:00:07.708613+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommates \u2014 SF or Daly City Hey everyone! I\u2019m",
+      "search_snippet_long": "roommates \u2014 SF or Daly City Hey everyone! I\u2019m looking for two other people interested in finding a 3-bedroom place"
     }
   ]
 }
