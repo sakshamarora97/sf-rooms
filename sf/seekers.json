@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T18:14:29.087608",
-  "count": 2800,
+  "updated_at": "2026-09-29T19:14:06.136906",
+  "count": 2801,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -83975,6 +83975,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "for a place for my brother who's moving to",
       "search_snippet_long": "for a place for my brother who's moving to the US on September 30th. He'll be working as a teacher"
+    },
+    {
+      "listing_id": "2018917508799821",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "She is a 22-year-old recent UC Berkeley graduate in International Business Communications who is respectful, clean, and social. She enjoys exploring restaurants, cafes, shops, traveling, and has lived in multiple countries (Tokyo, Seoul, Honolulu, Italy, Denmark).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018917508799821",
+      "posted_at": "Tuesday 29 September 2026 at 17:36",
+      "first_scraped_at": "2026-09-30T01:00:07.124566+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Lei (22y/o, Female) looking for a bedroom",
+      "search_snippet_long": "name is Lei (22y/o, Female) looking for a bedroom in SF ideally under $3000 starting December/January. I just graduated from"
     }
   ]
 }
