@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T11:14:42.881287",
-  "count": 2809,
+  "updated_at": "2026-09-30T12:14:49.270868",
+  "count": 2811,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84235,6 +84235,65 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a short term/month to month lease, move",
       "search_snippet_long": "looking for a short term/month to month lease, move in ASAP. My budget is around $2600 a month. I am"
+    },
+    {
+      "listing_id": "4730810383820631",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "He is a 23-year-old tech worker who is easygoing and keeps to himself.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730810383820631",
+      "posted_at": "Wednesday 30 September 2026 at 11:26",
+      "first_scraped_at": "2026-09-30T19:00:07.251624+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a short term 1bd or studio lease",
+      "search_snippet_long": "looking for a short term 1bd or studio lease I can take over. Budget is very flexible/open I can move"
+    },
+    {
+      "listing_id": "28494099390247345",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Russian Hill",
+        "Nob Hill",
+        "Telegraph Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "student",
+      "age": 23,
+      "bio": "She is a recent Cornell graduate who grew up in San Francisco and will attend law school next fall. She enjoys live rock/punk music, crafting, and travel, and is respectful of shared spaces while preferring roommates who are social but relaxed.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28494099390247345",
+      "posted_at": "Wednesday 30 September 2026 at 06:09",
+      "first_scraped_at": "2026-09-30T19:00:07.251624+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "pet-free room in North Beach, Marina, Russian Hill, Nob",
+      "search_snippet_long": "pet-free room in North Beach, Marina, Russian Hill, Nob Hill, or Telegraph Hill. Budget ~$1,600 (Flexible). Move in ASAP. The"
     }
   ]
 }
