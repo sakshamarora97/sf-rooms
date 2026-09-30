@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T16:14:16.585251",
-  "count": 2087,
+  "updated_at": "2026-09-29T17:14:31.473909",
+  "count": 2088,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65205,6 +65205,43 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Female Replacement Roommate - South San Francisco Hello everyone!",
       "search_snippet_long": "Female Replacement Roommate - South San Francisco Hello everyone! I\u2019m looking for a female roommate to share a bedroom with"
+    },
+    {
+      "listing_id": "2018858088805763",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1000,
+      "neighborhood": "Silver Terrace",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "walk_in_closet",
+        "hardwood_floors",
+        "natural_light",
+        "bay_windows",
+        "shared_kitchen",
+        "shared_bathroom",
+        "near_public_transit",
+        "near_grocery",
+        "near_laundromat",
+        "near_park"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018858088805763",
+      "posted_at": "Tuesday 29 September 2026 at 15:47",
+      "first_scraped_at": "2026-09-30T00:00:05.140622+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "retiree seeking a roommate to share my two-bedroom, one-bath",
+      "search_snippet_long": "retiree seeking a roommate to share my two-bedroom, one-bath flat in the Silver Terrace/Bayview neighborhood of SF. The shared unit"
     }
   ]
 }
