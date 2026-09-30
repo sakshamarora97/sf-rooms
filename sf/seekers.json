@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T15:15:54.886177",
-  "count": 2812,
+  "updated_at": "2026-09-30T16:15:17.536889",
+  "count": 2813,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84326,6 +84326,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "to Team Up on a 2B/2B in SF! **",
       "search_snippet_long": "to Team Up on a 2B/2B in SF! ** Hi everyone! My husband and I are looking to connect with"
+    },
+    {
+      "listing_id": "4731016383800031",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-17",
+      "move_out_date": "2026-11-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are in their 20s and work at a startup in the Financial District. Non-smoker, social, clean, and works a lot so they won't be around the apartment much.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4731016383800031",
+      "posted_at": "Wednesday 30 September 2026 at 15:58",
+      "first_scraped_at": "2026-09-30T23:00:06.859307+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "housing from October 17th to November 1st - dates",
+      "search_snippet_long": "housing from October 17th to November 1st - dates are flexible. Neighborhood is flexible too, as long as it's an"
     }
   ]
 }
