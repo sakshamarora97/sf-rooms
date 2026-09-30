@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T13:15:07.199924",
-  "count": 2099,
+  "updated_at": "2026-09-30T14:15:37.887196",
+  "count": 2101,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65584,6 +65584,72 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "partner and I will be out of town for",
       "search_snippet_long": "partner and I will be out of town for about 6 months so we're subleasing our large 2BR/1BA in North"
+    },
+    {
+      "listing_id": "4730904893811180",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 2100,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": "2026-10-10",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_laundry",
+        "in_unit_kitchen",
+        "near_transit",
+        "near_highway",
+        "near_beach"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730904893811180",
+      "posted_at": "Wednesday 30 September 2026 at 13:20",
+      "first_scraped_at": "2026-09-30T21:00:06.547668+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for someone to take over my lease for",
+      "search_snippet_long": "looking for someone to take over my lease for a private 500 sq ft ADU. Needs a move-in by October"
+    },
+    {
+      "listing_id": "4730857070482629",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2500,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": "2026-10-16",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "ensuite_bathroom",
+        "walk_in_closet",
+        "balcony",
+        "in_unit_laundry",
+        "shared_courtyard",
+        "garage_parking",
+        "street_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730857070482629",
+      "posted_at": "Wednesday 30 September 2026 at 12:20",
+      "first_scraped_at": "2026-09-30T21:00:06.547668+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "bathroom available in 3bed/2bath Looking for a roommate who",
+      "search_snippet_long": "bathroom available in 3bed/2bath Looking for a roommate who could sign a lease on October 16th, preferably for a year"
     }
   ]
 }

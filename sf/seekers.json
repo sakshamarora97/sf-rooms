@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T13:15:07.199924",
-  "count": 2811,
+  "updated_at": "2026-09-30T14:15:37.887196",
+  "count": 2812,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84294,6 +84294,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "pet-free room in North Beach, Marina, Russian Hill, Nob",
       "search_snippet_long": "pet-free room in North Beach, Marina, Russian Hill, Nob Hill, or Telegraph Hill. Budget ~$1,600 (Flexible). Move in ASAP. The"
+    },
+    {
+      "listing_id": "4730912460477090",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "South Beach",
+        "Mission Bay",
+        "Rincon Hill",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "They are a couple seeking a 2-bedroom, 2-bath in San Francisco. One is a DJ, photographer and artist; the other works as an executive assistant. They are clean, communicative, social but respectful of downtime, and ready to move quickly.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730912460477090",
+      "posted_at": "Wednesday 30 September 2026 at 13:30",
+      "first_scraped_at": "2026-09-30T21:00:06.547668+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to Team Up on a 2B/2B in SF! **",
+      "search_snippet_long": "to Team Up on a 2B/2B in SF! ** Hi everyone! My husband and I are looking to connect with"
     }
   ]
 }
