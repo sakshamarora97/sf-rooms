@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T07:14:33.879061",
-  "count": 2804,
+  "updated_at": "2026-09-30T08:14:36.104567",
+  "count": 2806,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84090,6 +84090,65 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "for housemates in SF/east bay/elsewhere! The most important things",
       "search_snippet_long": "for housemates in SF/east bay/elsewhere! The most important things you need to know about me probably are: Friends say I'm"
+    },
+    {
+      "listing_id": "2019419425416296",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Parnassus Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "A traveling healthcare professional seeking a room near UCSF Parnassus with a budget around $1500/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2019419425416296",
+      "posted_at": "Wednesday 30 September 2026 at 06:04",
+      "first_scraped_at": "2026-09-30T14:00:07.155767+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "am a traveling healthcare professional needing a room for",
+      "search_snippet_long": "am a traveling healthcare professional needing a room for rent. Around 1500/ month but am a littleflexible on budget. Near"
+    },
+    {
+      "listing_id": "4730597327175270",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Bayview",
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 30,
+      "bio": "30-year-old female scientist working in Mission Bay. She is quiet, clean, prefers sunny, chill, spacious places, and seeks a long-term lease through mid-2027.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730597327175270",
+      "posted_at": "Wednesday 30 September 2026 at 07:35",
+      "first_scraped_at": "2026-09-30T15:00:06.793716+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a professional female roommate to co-sign a",
+      "search_snippet_long": "looking for a professional female roommate to co-sign a 2B lease with me. Looking to finalize by the end of"
     }
   ]
 }
