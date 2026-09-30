@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T20:14:15.516735",
-  "count": 2088,
+  "updated_at": "2026-09-29T21:16:17.469186",
+  "count": 2090,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65242,6 +65242,70 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "retiree seeking a roommate to share my two-bedroom, one-bath",
       "search_snippet_long": "retiree seeking a roommate to share my two-bedroom, one-bath flat in the Silver Terrace/Bayview neighborhood of SF. The shared unit"
+    },
+    {
+      "listing_id": "4730040353897634",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3400,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-09-01",
+      "unit_config": "2B1.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "shared_outdoor_space",
+        "projector",
+        "kitchen",
+        "half_bath"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730040353897634",
+      "posted_at": "Tuesday 29 September 2026 at 20:30",
+      "first_scraped_at": "2026-09-30T04:00:06.938811+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Private Bath Available in SoMa \u2013 Own Floor, Parking,",
+      "search_snippet_long": "Private Bath Available in SoMa \u2013 Own Floor, Parking, Utilities Included! Hi everyone! I'm looking for a roommate to take"
+    },
+    {
+      "listing_id": "2018986502126255",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Oakland",
+      "area": "East Bay",
+      "available_from": "2026-11-03",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "pilates_facility",
+        "professional_management"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2018986502126255",
+      "posted_at": "Tuesday 29 September 2026 at 19:26",
+      "first_scraped_at": "2026-09-30T04:00:06.938811+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "professional female roommate to share this spacious sunny 2B2B",
+      "search_snippet_long": "professional female roommate to share this spacious sunny 2B2B on 5th floor filled with plenty of natural sunlight with me"
     }
   ]
 }
