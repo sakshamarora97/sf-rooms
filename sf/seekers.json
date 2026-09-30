@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T10:14:24.634698",
-  "count": 2808,
+  "updated_at": "2026-09-30T11:14:42.881287",
+  "count": 2809,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84205,6 +84205,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommates \u2014 SF or Daly City Hey everyone! I\u2019m",
       "search_snippet_long": "roommates \u2014 SF or Daly City Hey everyone! I\u2019m looking for two other people interested in finding a 3-bedroom place"
+    },
+    {
+      "listing_id": "2019636688727903",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2600,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina District",
+        "Pacific Heights",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent Harvard graduate who is clean and respectful and works remotely in tech, seeking a short-term month-to-month lease with a private bathroom if possible.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2019636688727903",
+      "posted_at": "Wednesday 30 September 2026 at 10:35",
+      "first_scraped_at": "2026-09-30T18:00:07.270231+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a short term/month to month lease, move",
+      "search_snippet_long": "looking for a short term/month to month lease, move in ASAP. My budget is around $2600 a month. I am"
     }
   ]
 }
