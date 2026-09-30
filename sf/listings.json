@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T14:15:37.887196",
-  "count": 2101,
+  "updated_at": "2026-09-30T15:15:54.886177",
+  "count": 2103,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65650,6 +65650,61 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "bathroom available in 3bed/2bath Looking for a roommate who",
       "search_snippet_long": "bathroom available in 3bed/2bath Looking for a roommate who could sign a lease on October 16th, preferably for a year"
+    },
+    {
+      "listing_id": "4730946063807063",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 2250,
+      "neighborhood": "Ashbury Heights",
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730946063807063",
+      "posted_at": "Wednesday 30 September 2026 at 14:16",
+      "first_scraped_at": "2026-09-30T22:00:07.043970+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "sublet or move in Located in Ashbury Heights near",
+      "search_snippet_long": "sublet or move in Located in Ashbury Heights near Cole Valley. Bedroom in a 2BR 1Bth Rent 2250/Mo Available for"
+    },
+    {
+      "listing_id": "4730868787148124",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Outer Mission",
+      "area": "San Francisco",
+      "available_from": "2026-10-07",
+      "available_until": "2027-04-30",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 7,
+      "amenities": [
+        "street_parking",
+        "walking_distance_to_restaurants_and_grocery_stores"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730868787148124",
+      "posted_at": "Wednesday 30 September 2026 at 12:34",
+      "first_scraped_at": "2026-09-30T22:00:07.043970+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "SF \u2014 $1,500/month | Available Oct. 7 (or possibly",
+      "search_snippet_long": "SF \u2014 $1,500/month | Available Oct. 7 (or possibly sooner)** Hi everyone! I\u2019m looking for someone to take over my"
     }
   ]
 }
