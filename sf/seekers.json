@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T22:14:29.952808",
-  "count": 2802,
+  "updated_at": "2026-09-30T06:14:17.349414",
+  "count": 2804,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84033,6 +84033,63 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "housing in San Francisco \u2014 move-in by October 7",
       "search_snippet_long": "housing in San Francisco \u2014 move-in by October 7 at the latest. Hi everyone! My name is Leah Getaneh, and"
+    },
+    {
+      "listing_id": "4730337600534576",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 900,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 23,
+      "bio": "She is a 23-year-old remote UX Designer moving from DC, looking for a single room or to join an existing lease with early-Nov flexibility. She describes herself as chill, clean, and respectful, enjoys trying new restaurants and low-key evenings.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730337600534576",
+      "posted_at": "Wednesday 30 September 2026 at 02:55",
+      "first_scraped_at": "2026-09-30T13:00:06.813307+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in Hi! I\u2019m zehra (23) and looking for roommates",
+      "search_snippet_long": "in Hi! I\u2019m zehra (23) and looking for roommates or to join an existing lease Looking for a single room"
+    },
+    {
+      "listing_id": "4730135977221405",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "East Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "They are a 22-year-old who moved from Michigan in June and is seeking slightly more permanent housing. They prefer living with three or more housemates, are adaptable and organized, enjoy hosting, and have hobbies including movies, writing, sports, motorcycling, and cooking; they want to spend under $2,000/month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4730135977221405",
+      "posted_at": "Tuesday 29 September 2026 at 22:36",
+      "first_scraped_at": "2026-09-30T13:00:06.813307+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for housemates in SF/east bay/elsewhere! The most important things",
+      "search_snippet_long": "for housemates in SF/east bay/elsewhere! The most important things you need to know about me probably are: Friends say I'm"
     }
   ]
 }
