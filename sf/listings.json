@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-29T21:16:17.469186",
-  "count": 2090,
+  "updated_at": "2026-09-29T22:14:29.952808",
+  "count": 2091,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65306,6 +65306,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "professional female roommate to share this spacious sunny 2B2B",
       "search_snippet_long": "professional female roommate to share this spacious sunny 2B2B on 5th floor filled with plenty of natural sunlight with me"
+    },
+    {
+      "listing_id": "2019062245452014",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Castro",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2027-07-31",
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_bathrooms"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2019062245452014",
+      "posted_at": "Tuesday 29 September 2026 at 21:23",
+      "first_scraped_at": "2026-09-30T05:00:07.380685+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "1BR in a 4B2B unit in the Castro area",
+      "search_snippet_long": "1BR in a 4B2B unit in the Castro area on Market Street. Spacious Room with 2 windows, Closet, and built"
     }
   ]
 }
