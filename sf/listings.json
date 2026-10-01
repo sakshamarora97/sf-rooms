@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T13:15:08.050100",
-  "count": 2114,
+  "updated_at": "2026-10-01T14:14:46.789488",
+  "count": 2115,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -66075,6 +66075,42 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for someone to fill a room in our house",
       "search_snippet_long": "for someone to fill a room in our house (3 BR & 1 bath) till end of November. 2.5k a"
+    },
+    {
+      "listing_id": "2020725481952357",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Miraloma Park",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "garage_parking",
+        "private_bathroom",
+        "private_entrance",
+        "shared_kitchen",
+        "patio_backyard",
+        "bbq_allowed",
+        "view",
+        "ground_floor",
+        "quiet_neighborhood"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020725481952357",
+      "posted_at": "Thursday 1 October 2026 at 13:17",
+      "first_scraped_at": "2026-10-01T21:00:07.052007+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "+ PRIVATE BATHROOM + PARKING | MIRALOMA PARK, SAN",
+      "search_snippet_long": "+ PRIVATE BATHROOM + PARKING | MIRALOMA PARK, SAN FRANCISCO | $1,800/MONTH Looking for space, privacy, parking, and a beautiful"
     }
   ]
 }
