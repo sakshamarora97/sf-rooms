@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T14:14:46.789488",
-  "count": 2833,
+  "updated_at": "2026-10-01T15:15:32.971932",
+  "count": 2834,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84956,6 +84956,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "to join an existing lease or sign a lease",
       "search_snippet_long": "to join an existing lease or sign a lease ASAP!! My name is Eden. I am 21, and I am"
+    },
+    {
+      "listing_id": "4732149510353385",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Hayes Valley",
+        "SOMA"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "She is a 25-year-old food scientist working at a foodtech incubator/accelerator. She is clean, respectful, and easygoing, enjoys cooking and exploring restaurants and cafes, goes to the gym during the week, and likes to be social on weekends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4732149510353385",
+      "posted_at": "Thursday 1 October 2026 at 14:20",
+      "first_scraped_at": "2026-10-01T22:00:06.936541+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a female roommate to either find a",
+      "search_snippet_long": "looking for a female roommate to either find a lease together or join an existing 2B or 3B apartment in"
     }
   ]
 }
