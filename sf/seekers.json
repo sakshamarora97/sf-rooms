@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T10:14:42.228364",
-  "count": 2828,
+  "updated_at": "2026-10-01T11:14:51.603851",
+  "count": 2829,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84805,6 +84805,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "wanted to post an update! I\u2019ve found one female",
       "search_snippet_long": "wanted to post an update! I\u2019ve found one female roommate so far, and we\u2019re now looking for a third female"
+    },
+    {
+      "listing_id": "4731124227122580",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-10",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission",
+        "Pacific Heights",
+        "SoMa",
+        "Potrero Hill",
+        "Bernal Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are an AI engineer at a startup, quiet, tidy, and easygoing, seeking a clean, comfortable room or 1B1B.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4731124227122580",
+      "posted_at": "Wednesday 30 September 2026 at 18:31",
+      "first_scraped_at": "2026-10-01T18:00:07.603259+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for a room or 1B1B in Mission, Pacific Heights,",
+      "search_snippet_long": "for a room or 1B1B in Mission, Pacific Heights, SoMa, Potrero Hill, or Bernal Heights, with a move-in date by"
     }
   ]
 }
