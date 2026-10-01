@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T08:14:16.659171",
-  "count": 2111,
+  "updated_at": "2026-10-01T09:15:06.401750",
+  "count": 2112,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65972,6 +65972,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "AVAILABLE- Diego Lease sublet or lease takeover Hello, I've",
       "search_snippet_long": "AVAILABLE- Diego Lease sublet or lease takeover Hello, I've got 1-bedrooms 1-bathroom apartment for rent at nearby campus. The property"
+    },
+    {
+      "listing_id": "2020496878641884",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020496878641884",
+      "posted_at": "Thursday 1 October 2026 at 08:09",
+      "first_scraped_at": "2026-10-01T16:00:07.066893+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for someone to takeover the private studio unit",
+      "search_snippet_long": "looking for someone to takeover the private studio unit move in flexible,renewable 1400 utilities and parking included reach out with"
     }
   ]
 }
