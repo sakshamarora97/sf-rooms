@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T15:15:32.971932",
-  "count": 2834,
+  "updated_at": "2026-10-01T16:14:43.389360",
+  "count": 2835,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84986,6 +84986,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking for a female roommate to either find a",
       "search_snippet_long": "looking for a female roommate to either find a lease together or join an existing 2B or 3B apartment in"
+    },
+    {
+      "listing_id": "4732185823683087",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 700,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a room in San Francisco with a budget of $700\u2013$800 per month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4732185823683087",
+      "posted_at": "Thursday 1 October 2026 at 15:10",
+      "first_scraped_at": "2026-10-01T23:00:06.709922+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for room around 700-800$ in San Francisco. Let me",
+      "search_snippet_long": "for room around 700-800$ in San Francisco. Let me know thank you"
     }
   ]
 }
