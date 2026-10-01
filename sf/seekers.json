@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T09:15:06.401750",
-  "count": 2826,
+  "updated_at": "2026-10-01T10:14:42.228364",
+  "count": 2828,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84745,6 +84745,66 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "am looking to pay for a parking spot (either",
       "search_snippet_long": "am looking to pay for a parking spot (either garage, driveway, or parking lot is fine) in Mission - ideally"
+    },
+    {
+      "listing_id": "4731933263708343",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 30,
+      "bio": "She is a 30-year-old marketing professional starting a new job in San Francisco's Financial District, tidy, quiet and social, who enjoys coffee, the outdoors, and fitness; seeking a short-term sublet (ideally furnished) with all-female roommates (1\u20132).",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4731933263708343",
+      "posted_at": "Thursday 1 October 2026 at 09:59",
+      "first_scraped_at": "2026-10-01T17:00:06.472080+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Dahlia and I'm moving from Vancouver to",
+      "search_snippet_long": "name is Dahlia and I'm moving from Vancouver to SF in the beginning of October for a new job!!! I'm"
+    },
+    {
+      "listing_id": "2020545841970321",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City",
+        "South San Francisco",
+        "Millbrae",
+        "Burlingame"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two female full-time professionals in their late 20s and early 30s seeking a third roommate to find a 3-bedroom around late November/early December. They describe themselves as clean, respectful, considerate, LGBTQ+ friendly, and comfortable living with a cat.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020545841970321",
+      "posted_at": "Thursday 1 October 2026 at 09:08",
+      "first_scraped_at": "2026-10-01T17:00:06.472080+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "wanted to post an update! I\u2019ve found one female",
+      "search_snippet_long": "wanted to post an update! I\u2019ve found one female roommate so far, and we\u2019re now looking for a third female"
     }
   ]
 }
