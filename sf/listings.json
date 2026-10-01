@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T07:15:01.494401",
-  "count": 2110,
+  "updated_at": "2026-10-01T08:14:16.659171",
+  "count": 2111,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65936,6 +65936,42 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a female roommate to take over my lease",
       "search_snippet_long": "for a female roommate to take over my lease as soon as possible in Outer Richmond. The lease runs until"
+    },
+    {
+      "listing_id": "2020437475314491",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "San Francisco",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "stainless_steel_appliances",
+        "granite_countertops",
+        "gated_community",
+        "secure_entry",
+        "parking_included",
+        "near_public_transportation",
+        "near_shops",
+        "near_restaurants"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020437475314491",
+      "posted_at": "Thursday 1 October 2026 at 06:56",
+      "first_scraped_at": "2026-10-01T15:00:07.222770+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "AVAILABLE- Diego Lease sublet or lease takeover Hello, I've",
+      "search_snippet_long": "AVAILABLE- Diego Lease sublet or lease takeover Hello, I've got 1-bedrooms 1-bathroom apartment for rent at nearby campus. The property"
     }
   ]
 }
