@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T11:14:51.603851",
-  "count": 2829,
+  "updated_at": "2026-10-01T12:15:05.817998",
+  "count": 2832,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84838,6 +84838,98 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "for a room or 1B1B in Mission, Pacific Heights,",
       "search_snippet_long": "for a room or 1B1B in Mission, Pacific Heights, SoMa, Potrero Hill, or Bernal Heights, with a move-in date by"
+    },
+    {
+      "listing_id": "2020654291959476",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-05-01",
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are relocating from Maryland to South San Francisco for a biotech job and is seeking a private bedroom for about 6 months. They prefer female, vegetarian roommates and are looking downtown South San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020654291959476",
+      "posted_at": "Thursday 1 October 2026 at 11:24",
+      "first_scraped_at": "2026-10-01T19:00:06.998244+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "will be moving from Maryland to South San Francisco",
+      "search_snippet_long": "will be moving from Maryland to South San Francisco for a job in a biotech company and I am looking"
+    },
+    {
+      "listing_id": "2020651851959720",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-25",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "2BR"
+      ],
+      "preferred_neighborhoods": [
+        "South Beach",
+        "SoMa",
+        "Mission Bay",
+        "Downtown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Working professional relocating to San Francisco for work; clean, responsible, and respectful. Seeking a private room in a 2BR with a female roommate in a peaceful, friendly home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020651851959720",
+      "posted_at": "Thursday 1 October 2026 at 11:20",
+      "first_scraped_at": "2026-10-01T19:00:06.998244+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room in a 2BR Apartment in San Francisco Hi",
+      "search_snippet_long": "Room in a 2BR Apartment in San Francisco Hi everyone! I\u2019m relocating to San Francisco for work and am looking"
+    },
+    {
+      "listing_id": "2020599745298264",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Noe Valley",
+        "Dolores Heights",
+        "Dulbolce",
+        "NOPA"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "relocation",
+      "age": 30,
+      "bio": "She is a 30-year-old career nanny with 12+ years of experience and steady income who works on a rotational schedule (one week live-in, one week off). She is clean, quiet, non-drinking, brings minimal belongings, and is seeking a respectful long-term room in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020599745298264",
+      "posted_at": "Thursday 1 October 2026 at 10:11",
+      "first_scraped_at": "2026-10-01T19:00:06.998244+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hoping For But All Flexible: - Neighborhoods: Hayes Valley,",
+      "search_snippet_long": "Hoping For But All Flexible: - Neighborhoods: Hayes Valley, Noe Valley, Dolores Heights, Dulbolce, NOPA - Budget: $1800-2200 - Lease"
     }
   ]
 }
