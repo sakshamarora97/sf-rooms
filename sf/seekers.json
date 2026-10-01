@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T16:15:17.536889",
-  "count": 2813,
+  "updated_at": "2026-09-30T17:15:06.193466",
+  "count": 2814,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -84355,6 +84355,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "housing from October 17th to November 1st - dates",
       "search_snippet_long": "housing from October 17th to November 1st - dates are flexible. Neighborhood is flexible too, as long as it's an"
+    },
+    {
+      "listing_id": "2019798472045058",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Lower Pacific Heights",
+        "Marina",
+        "Cow Hollow",
+        "Richmond District",
+        "Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old MBA graduate who is active and outdoorsy, enjoys surfing, hiking, Pilates and social weekends. She is starting a job at a tech company and is looking to join a house or lease in SF neighborhoods.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2019798472045058",
+      "posted_at": "Wednesday 30 September 2026 at 14:50",
+      "first_scraped_at": "2026-10-01T00:00:06.413295+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking to join an existing lease or get a",
+      "search_snippet_long": "looking to join an existing lease or get a group of some cool girls together to apply to some houses"
     }
   ]
 }
