@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-09-30T18:14:32.388142",
-  "count": 2103,
+  "updated_at": "2026-09-30T19:14:53.955916",
+  "count": 2104,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -65705,6 +65705,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "SF \u2014 $1,500/month | Available Oct. 7 (or possibly",
       "search_snippet_long": "SF \u2014 $1,500/month | Available Oct. 7 (or possibly sooner)** Hi everyone! I\u2019m looking for someone to take over my"
+    },
+    {
+      "listing_id": "2019851475373091",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2200,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": "2026-09-29",
+      "available_until": "2027-12-29",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "lounge",
+        "rooftop",
+        "gym",
+        "security",
+        "walkable_to_caltrain",
+        "near_muni"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2019851475373091",
+      "posted_at": "Wednesday 30 September 2026 at 16:31",
+      "first_scraped_at": "2026-10-01T02:00:07.124736+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "female roommates for master room/ flex room in dogpatch",
+      "search_snippet_long": "female roommates for master room/ flex room in dogpatch (walkable to Caltrain), move-in now! Hello! I am looking to add"
     }
   ]
 }
