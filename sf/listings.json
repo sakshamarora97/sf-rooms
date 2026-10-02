@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T13:17:23.791327",
-  "count": 2146,
+  "updated_at": "2026-10-02T14:17:36.701095",
+  "count": 2148,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67107,6 +67107,71 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "2-BEDROOM, 1-BATHROOM APARTMENT \u2014 $1,600/MONTH UTILITIES INCLUDED Looking for",
       "search_snippet_long": "2-BEDROOM, 1-BATHROOM APARTMENT \u2014 $1,600/MONTH UTILITIES INCLUDED Looking for a SHORT-TERM roommate in Emeryville. Available immediately! Private furnished room \u2014"
+    },
+    {
+      "listing_id": "2021740935184145",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1200,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "in_unit_laundry",
+        "gym"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021740935184145",
+      "posted_at": "Friday 2 October 2026 at 13:39",
+      "first_scraped_at": "2026-10-02T21:00:03.810934+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "is Jon! I\u2019m looking for someone to sublease my",
+      "search_snippet_long": "is Jon! I\u2019m looking for someone to sublease my 1bd/1bth apartment. It is furnished, has parking and pet friendly. Rent"
+    },
+    {
+      "listing_id": "2021731328518439",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-11-23",
+      "available_until": "2026-12-01",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "building_laundry",
+        "fully_equipped_kitchen",
+        "dishwasher",
+        "fast_wifi",
+        "work_from_home_setup",
+        "55in_tv",
+        "linens_provided",
+        "coffee_maker"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021731328518439",
+      "posted_at": "Friday 2 October 2026 at 13:22",
+      "first_scraped_at": "2026-10-02T21:00:03.810934+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "to stay in my beautiful, bright studio apartment in",
+      "search_snippet_long": "to stay in my beautiful, bright studio apartment in Lower Pacific Heights from November 23\u2013December 1. This is for the"
     }
   ]
 }
