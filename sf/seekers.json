@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T08:18:08.113477",
-  "count": 2856,
+  "updated_at": "2026-10-02T09:16:23.990909",
+  "count": 2857,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85614,6 +85614,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "name is katya and i\u2019m looking for a roommate",
       "search_snippet_long": "name is katya and i\u2019m looking for a roommate (male or female) to split a 2BR 1BA near USF. Rent"
+    },
+    {
+      "listing_id": "2021474431877462",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private_room",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "A traveling healthcare professional working as an operating room surgical technologist with ~4 years of travel experience; quiet, respectful, clean, and responsible, does not smoke/vape or drink at home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021474431877462",
+      "posted_at": "Friday 2 October 2026 at 07:38",
+      "first_scraped_at": "2026-10-02T16:00:03.532969+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "is Aarmeen! I\u2019m a traveling healthcare professional looking for",
+      "search_snippet_long": "is Aarmeen! I\u2019m a traveling healthcare professional looking for lodging in San Francisco for my upcoming healthcare assignment. I work"
     }
   ]
 }
