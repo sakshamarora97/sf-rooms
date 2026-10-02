@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T10:16:18.053553",
-  "count": 2857,
+  "updated_at": "2026-10-02T11:16:32.519229",
+  "count": 2858,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85643,6 +85643,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "is Aarmeen! I\u2019m a traveling healthcare professional looking for",
       "search_snippet_long": "is Aarmeen! I\u2019m a traveling healthcare professional looking for lodging in San Francisco for my upcoming healthcare assignment. I work"
+    },
+    {
+      "listing_id": "1377493600817550",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "West Berkeley",
+        "Southside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1377493600817550",
+      "posted_at": "Friday 2 October 2026 at 10:50",
+      "first_scraped_at": "2026-10-02T18:00:03.207305+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "room from November to the end of the school",
+      "search_snippet_long": "room from November to the end of the school year. Budget under 1900 include utilities, close to west or south"
     }
   ]
 }

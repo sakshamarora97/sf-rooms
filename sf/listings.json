@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T10:16:18.053553",
-  "count": 2135,
+  "updated_at": "2026-10-02T11:16:32.519229",
+  "count": 2136,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -66766,6 +66766,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Property Description before sending a message to me to",
       "search_snippet_long": "Property Description before sending a message to me to save each other\u2019s time! The newly, bright and spacious private bedroom"
+    },
+    {
+      "listing_id": "2021540641870841",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 325,
+      "neighborhood": "Japantown",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2026-12-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "covered_parking",
+        "gated_parking",
+        "fob_access",
+        "24_7_access",
+        "fits_sedan_or_suv"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Carillon Tower",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021540641870841",
+      "posted_at": "Friday 2 October 2026 at 08:55",
+      "first_scraped_at": "2026-10-02T18:00:03.207305+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in Japantown - $325/month Hi! I have a gated,",
+      "search_snippet_long": "in Japantown - $325/month Hi! I have a gated, covered parking space in a residential complex right by Carillon Tower."
     }
   ]
 }
