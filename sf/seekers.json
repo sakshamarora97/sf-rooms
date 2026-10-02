@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T12:18:19.847287",
-  "count": 2858,
+  "updated_at": "2026-10-02T13:17:23.791327",
+  "count": 2859,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85672,6 +85672,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "room from November to the end of the school",
       "search_snippet_long": "room from November to the end of the school year. Budget under 1900 include utilities, close to west or south"
+    },
+    {
+      "listing_id": "4733313056903697",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Panhandle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "He recently graduated with an MBA from USF and is starting a Customer Engineering role at a tech startup; he describes himself as clean and easygoing. He is an avid runner, enjoys working out, playing soccer, reading, and exploring restaurants and caf\u00e9s around the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4733313056903697",
+      "posted_at": "Friday 2 October 2026 at 12:45",
+      "first_scraped_at": "2026-10-02T20:00:03.880678+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Hi everyone! I\u2019m Yash, 28, and looking for a",
+      "search_snippet_long": "Hi everyone! I\u2019m Yash, 28, and looking for a room starting in October. I\u2019m looking around SoMa and Panhandle, but"
     }
   ]
 }
