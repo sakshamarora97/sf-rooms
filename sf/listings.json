@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T17:14:42.099084",
-  "count": 2116,
+  "updated_at": "2026-10-01T18:15:05.275518",
+  "count": 2117,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -66148,6 +66148,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "PRIVATE BED + BATH + BALCONY - Start Oct",
       "search_snippet_long": "PRIVATE BED + BATH + BALCONY - Start Oct - $2,200 Short-Term / Month-to-Month If you\u2019re interested, reply here and"
+    },
+    {
+      "listing_id": "2020882748603297",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Adams Point",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2026-10-22",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "yard",
+        "fiber_internet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020882748603297",
+      "posted_at": "Thursday 1 October 2026 at 17:49",
+      "first_scraped_at": "2026-10-02T01:00:06.602238+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "2 or 3 week sublet in Oakland! Amazing location",
+      "search_snippet_long": "2 or 3 week sublet in Oakland! Amazing location in Adams Point, walking distance to all the things including Lake"
     }
   ]
 }
