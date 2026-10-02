@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T09:16:23.990909",
-  "count": 2134,
+  "updated_at": "2026-10-02T10:16:18.053553",
+  "count": 2135,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -66733,6 +66733,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "50 steps away from UC Berkeley Private Rooms starting",
       "search_snippet_long": "50 steps away from UC Berkeley Private Rooms starting at $1120 | Shared Rooms starting at $897 DM for more"
+    },
+    {
+      "listing_id": "4733153880252948",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 950,
+      "neighborhood": "Outer Mission",
+      "area": "San Francisco",
+      "available_from": "2026-10-20",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "laundry_in_garage",
+        "street_parking",
+        "wifi",
+        "shared_kitchen",
+        "shared_bathroom",
+        "renovated_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4733153880252948",
+      "posted_at": "Friday 2 October 2026 at 09:54",
+      "first_scraped_at": "2026-10-02T17:00:03.572486+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Property Description before sending a message to me to",
+      "search_snippet_long": "Property Description before sending a message to me to save each other\u2019s time! The newly, bright and spacious private bedroom"
     }
   ]
 }
