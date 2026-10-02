@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T21:22:48.454709",
-  "count": 2840,
+  "updated_at": "2026-10-01T22:18:55.774742",
+  "count": 2844,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85151,6 +85151,117 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "to sign lease together OR move into an existing",
       "search_snippet_long": "to sign lease together OR move into an existing lease mid-October to November! Budget is under $2500/month. I\u2019m Audrey, 22,"
+    },
+    {
+      "listing_id": "4732483606986642",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "West Portal"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for roommates to apply to a 4b3b house near West Portal, prefers a social household that's not too loud on weeknights, and is ready to apply quickly.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4732483606986642",
+      "posted_at": "Thursday 1 October 2026 at 21:37",
+      "first_scraped_at": "2026-10-02T05:00:03.019064+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to apply to house asap! Hi! I am looking",
+      "search_snippet_long": "to apply to house asap! Hi! I am looking to apply to a house. It is a 4b3b, but I"
+    },
+    {
+      "listing_id": "1376894347544142",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley",
+        "West Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a private room near UC Berkeley's south or west side from November through the end of next May, budget $1,800/month.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1376894347544142",
+      "posted_at": "Thursday 1 October 2026 at 20:55",
+      "first_scraped_at": "2026-10-02T05:00:03.019064+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a private room from November to the",
+      "search_snippet_long": "looking for a private room from November to the end of the next May. I wish it to be close"
+    },
+    {
+      "listing_id": "1376697544230489",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a single-room sublease for the spring semester with a budget under $1,600/month.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1376697544230489",
+      "posted_at": "Thursday 1 October 2026 at 15:22",
+      "first_scraped_at": "2026-10-02T05:00:03.019064+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "semester sublease! single room ideally under 1600 please feel",
+      "search_snippet_long": "semester sublease! single room ideally under 1600 please feel free to message me"
+    },
+    {
+      "listing_id": "1376678617565715",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1376678617565715",
+      "posted_at": "Thursday 1 October 2026 at 14:44",
+      "first_scraped_at": "2026-10-02T05:00:03.019064+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "tell me how much they pay at The Hub",
+      "search_snippet_long": "tell me how much they pay at The Hub in Berkeley? I callee and someone said $4500 for a studio."
     }
   ]
 }
