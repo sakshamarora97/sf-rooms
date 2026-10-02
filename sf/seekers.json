@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T18:15:05.275518",
-  "count": 2835,
+  "updated_at": "2026-10-01T19:14:52.946660",
+  "count": 2837,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85014,6 +85014,60 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "for room around 700-800$ in San Francisco. Let me",
       "search_snippet_long": "for room around 700-800$ in San Francisco. Let me know thank you"
+    },
+    {
+      "listing_id": "4732233383678331",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "He is a 23-year-old banker seeking a month-to-month lease and can move in immediately. He is flexible and prefers a place within a 30-minute commute to the Financial District.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4732233383678331",
+      "posted_at": "Thursday 1 October 2026 at 16:19",
+      "first_scraped_at": "2026-10-02T02:00:07.529598+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Move-In Hi! My name is Henry and I\u2019m looking",
+      "search_snippet_long": "Move-In Hi! My name is Henry and I\u2019m looking for a month to month lease that I can move into"
+    },
+    {
+      "listing_id": "2020883525269886",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SOMA"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old working at a health tech company in the Financial District, currently living in the East Bay and planning to move to San Francisco around December/January. Chill and sociable; enjoys running, going out, and attending events.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020883525269886",
+      "posted_at": "Thursday 1 October 2026 at 17:50",
+      "first_scraped_at": "2026-10-02T02:00:07.529598+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "to apartment hunt with! I\u2019m 26, working at a",
+      "search_snippet_long": "to apartment hunt with! I\u2019m 26, working at a health tech company in the Financial District. I currently live in"
     }
   ]
 }
