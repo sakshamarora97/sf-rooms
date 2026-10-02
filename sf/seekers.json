@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T22:18:55.774742",
-  "count": 2844,
+  "updated_at": "2026-10-02T06:17:22.590699",
+  "count": 2848,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85262,6 +85262,122 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "tell me how much they pay at The Hub",
       "search_snippet_long": "tell me how much they pay at The Hub in Berkeley? I callee and someone said $4500 for a studio."
+    },
+    {
+      "listing_id": "4732782630290073",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Polk Gulch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old female software engineer working in the Financial District who enjoys hosting but prefers quiet weekday nights and loves exploring the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4732782630290073",
+      "posted_at": "Friday 2 October 2026 at 03:41",
+      "first_scraped_at": "2026-10-02T13:00:03.275631+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for a roommate ASAP for a 2b1b in Russian",
+      "search_snippet_long": "for a roommate ASAP for a 2b1b in Russian Hill/ Polk Gulch area! 1390 Jackson St - 1 Yr lease"
+    },
+    {
+      "listing_id": "2021344161890489",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Japantown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two female teachers from the Philippines seeking a 2-bedroom house in Japantown near Rosa Parks Elementary School.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021344161890489",
+      "posted_at": "Friday 2 October 2026 at 05:01",
+      "first_scraped_at": "2026-10-02T13:00:03.275631+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "2 bedroom house near Rosa Parks Elementary School Preferably",
+      "search_snippet_long": "2 bedroom house near Rosa Parks Elementary School Preferably in Japan Town. We are both females teachers from the Philippines."
+    },
+    {
+      "listing_id": "2021122195246019",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "She is a 23-year-old female looking for a lease and roommates in San Francisco starting in mid-November; she prefers female/non-binary roommates, is usually out of the house due to a busy schedule, and describes herself as chill.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021122195246019",
+      "posted_at": "Thursday 1 October 2026 at 23:45",
+      "first_scraped_at": "2026-10-02T13:00:03.275631+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a lease and roommates in SF starting",
+      "search_snippet_long": "looking for a lease and roommates in SF starting in mid-November to December-ish. I\u2019m a 23 yr old female and"
+    },
+    {
+      "listing_id": "1377009020866008",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1250,
+      "unit_type_wanted": [
+        "private_room",
+        "double_room"
+      ],
+      "preferred_neighborhoods": [
+        "Rockridge",
+        "Temescal",
+        "Adams Point",
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 20,
+      "bio": "They are a 20-year-old student transferring to San Francisco State University to study psychology, who enjoys theater, travel, concerts, and creative pursuits. They are seeking an LGBTQ+-friendly home with students or young professionals and values communication and clear boundaries.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1377009020866008",
+      "posted_at": "Friday 2 October 2026 at 00:02",
+      "first_scraped_at": "2026-10-02T13:00:03.275631+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "- Jan 2027 Hi everyone! My name is Rayne",
+      "search_snippet_long": "- Jan 2027 Hi everyone! My name is Rayne (20F) and I'm transferring to SFSU from LA in the spring"
     }
   ]
 }
