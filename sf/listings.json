@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T14:17:36.701095",
-  "count": 2148,
+  "updated_at": "2026-10-02T15:17:46.322293",
+  "count": 2149,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67172,6 +67172,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "to stay in my beautiful, bright studio apartment in",
       "search_snippet_long": "to stay in my beautiful, bright studio apartment in Lower Pacific Heights from November 23\u2013December 1. This is for the"
+    },
+    {
+      "listing_id": "2021774198514152",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 7500,
+      "neighborhood": "Civic Center",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "heated_lap_pool",
+        "gym",
+        "basketball_court",
+        "golf_simulator",
+        "rooftop",
+        "bbq"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021774198514152",
+      "posted_at": "Friday 2 October 2026 at 14:39",
+      "first_scraped_at": "2026-10-02T22:00:03.471855+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "to sublease our fully furnished 2 bed / 2",
+      "search_snippet_long": "to sublease our fully furnished 2 bed / 2 bath apartment at 100 Van Ness for ~6 months, starting mid-October."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T14:17:36.701095",
-  "count": 2859,
+  "updated_at": "2026-10-02T15:17:46.322293",
+  "count": 2860,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85701,6 +85701,33 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Hi everyone! I\u2019m Yash, 28, and looking for a",
       "search_snippet_long": "Hi everyone! I\u2019m Yash, 28, and looking for a room starting in October. I\u2019m looking around SoMa and Panhandle, but"
+    },
+    {
+      "listing_id": "2021748841850021",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-05",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are moving to San Francisco from Sacramento to start a new job on 2026-10-05 and are seeking a studio or sublease for at least six months with a budget of $1500\u2013$2000; prefers a building with a gym.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021748841850021",
+      "posted_at": "Friday 2 October 2026 at 13:53",
+      "first_scraped_at": "2026-10-02T22:00:03.471855+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "urgently looking for a studio or to sublease for",
+      "search_snippet_long": "urgently looking for a studio or to sublease for atleast 6 months. I\u2019ll be moving to the sf to start"
     }
   ]
 }
