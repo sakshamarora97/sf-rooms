@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T16:14:43.389360",
-  "count": 2115,
+  "updated_at": "2026-10-01T17:14:42.099084",
+  "count": 2116,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -66111,6 +66111,43 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "+ PRIVATE BATHROOM + PARKING | MIRALOMA PARK, SAN",
       "search_snippet_long": "+ PRIVATE BATHROOM + PARKING | MIRALOMA PARK, SAN FRANCISCO | $1,800/MONTH Looking for space, privacy, parking, and a beautiful"
+    },
+    {
+      "listing_id": "2020786621946243",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2200,
+      "neighborhood": "SOMA",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "furnished",
+        "balcony",
+        "private_bathroom",
+        "balcony_firepit",
+        "desk",
+        "fully_equipped_kitchen",
+        "large_dining_table",
+        "living_room",
+        "street_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020786621946243",
+      "posted_at": "Thursday 1 October 2026 at 14:59",
+      "first_scraped_at": "2026-10-02T00:00:07.111153+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "PRIVATE BED + BATH + BALCONY - Start Oct",
+      "search_snippet_long": "PRIVATE BED + BATH + BALCONY - Start Oct - $2,200 Short-Term / Month-to-Month If you\u2019re interested, reply here and"
     }
   ]
 }
