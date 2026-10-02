@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T15:17:46.322293",
-  "count": 2860,
+  "updated_at": "2026-10-02T16:17:26.505638",
+  "count": 2861,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85728,6 +85728,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "urgently looking for a studio or to sublease for",
       "search_snippet_long": "urgently looking for a studio or to sublease for atleast 6 months. I\u2019ll be moving to the sf to start"
+    },
+    {
+      "listing_id": "1377660704134173",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private room",
+        "shared room"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "Sunnyvale",
+        "San Jose",
+        "Fremont",
+        "Milpitas"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "He is a male working professional starting a job at NVIDIA on October 8, 2026, seeking an immediate private or shared room with a reasonable commute in the South Bay.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1377660704134173",
+      "posted_at": "Friday 2 October 2026 at 15:37",
+      "first_scraped_at": "2026-10-02T23:00:03.354162+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Accommodation \u2013 Male Hi everyone! I\u2019m looking for immediate",
+      "search_snippet_long": "Accommodation \u2013 Male Hi everyone! I\u2019m looking for immediate accommodation in or around Santa Clara, Sunnyvale, San Jose, or nearby"
     }
   ]
 }
