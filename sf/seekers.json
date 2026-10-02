@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T06:17:22.590699",
-  "count": 2848,
+  "updated_at": "2026-10-02T07:16:33.511752",
+  "count": 2851,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85378,6 +85378,99 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "- Jan 2027 Hi everyone! My name is Rayne",
       "search_snippet_long": "- Jan 2027 Hi everyone! My name is Rayne (20F) and I'm transferring to SFSU from LA in the spring"
+    },
+    {
+      "listing_id": "2021408175217421",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works in tech, is clean, and enjoys surfing and making music and games.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021408175217421",
+      "posted_at": "Friday 2 October 2026 at 06:20",
+      "first_scraped_at": "2026-10-02T14:00:02.929149+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a room 1500-2200 starting either november or",
+      "search_snippet_long": "looking for a room 1500-2200 starting either november or december. I'm clean, work in tech, love surfing and making music"
+    },
+    {
+      "listing_id": "2021392431885662",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-05-15",
+      "move_out_date": "2027-12-04",
+      "budget_min": null,
+      "budget_max": 2699,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Rincon Hill",
+        "South Beach",
+        "Dogpatch",
+        "Noe Valley",
+        "Potrero Hill",
+        "Pacific Heights",
+        "Nob Hill",
+        "Burlingame"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": 20,
+      "bio": "She is a 20-year-old UT Austin student interning in tech in the Bay Area. She is a low-key, clean, non-smoking person who cooks daily, enjoys exploring the city, trying restaurants and farmers markets, and plays volleyball.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021392431885662",
+      "posted_at": "Friday 2 October 2026 at 06:00",
+      "first_scraped_at": "2026-10-02T14:00:02.929149+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Posting for my daughter who does not have FB",
+      "search_snippet_long": "Posting for my daughter who does not have FB Female intern seeking sublet space for 3 or 6 mths summer"
+    },
+    {
+      "listing_id": "2021058271919078",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 4000,
+      "budget_max": 5000,
+      "unit_type_wanted": [
+        "2B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Hayes Valley",
+        "Japantown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Two friends relocating from Toronto seeking a 2-bedroom in San Francisco. They prefer Mission District, Hayes Valley, or Japantown, are open to lease takeovers/sublets with the option to extend or sign a new lease, and will have 1\u20132 cars.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021058271919078",
+      "posted_at": "Thursday 1 October 2026 at 22:06",
+      "first_scraped_at": "2026-10-02T14:00:02.929149+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a lease to sign for a 2 bedroom",
+      "search_snippet_long": "for a lease to sign for a 2 bedroom spot! Two friends from Toronto moving in. Preferably in mission/hayes/japantown or"
     }
   ]
 }

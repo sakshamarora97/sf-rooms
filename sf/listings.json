@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T06:17:22.590699",
-  "count": 2129,
+  "updated_at": "2026-10-02T07:16:33.511752",
+  "count": 2130,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -66550,6 +66550,43 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "school a room for girl900dollars a month only for",
       "search_snippet_long": "school a room for girl900dollars a month only for girls because other rent people are all girls\uff01 Number\uff1a6269868114"
+    },
+    {
+      "listing_id": "1377271547506422",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Emeryville",
+      "area": "East Bay",
+      "available_from": "2026-11-01",
+      "available_until": "2027-07-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "swimming_pool",
+        "jacuzzi",
+        "sauna",
+        "views",
+        "modern_appliances",
+        "laundry_on_floor",
+        "trash_included",
+        "sewer_included",
+        "water_included"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1377271547506422",
+      "posted_at": "Friday 2 October 2026 at 06:15",
+      "first_scraped_at": "2026-10-02T14:00:02.929149+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "1 Bath Apartment for Sublease \u2013 Emeryville 6363 Christie",
+      "search_snippet_long": "1 Bath Apartment for Sublease \u2013 Emeryville 6363 Christie Ave, Emeryville, CA Available from November 1st Lease through July 31,"
     }
   ]
 }
