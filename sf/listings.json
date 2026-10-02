@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-01T19:14:52.946660",
-  "count": 2117,
+  "updated_at": "2026-10-01T21:22:48.454709",
+  "count": 2119,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -66177,6 +66177,75 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "2 or 3 week sublet in Oakland! Amazing location",
       "search_snippet_long": "2 or 3 week sublet in Oakland! Amazing location in Adams Point, walking distance to all the things including Lake"
+    },
+    {
+      "listing_id": "2020954351929470",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": "2026-10-11",
+      "unit_config": "2B3B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "sauna",
+        "private_full_bathroom",
+        "bidet",
+        "tv",
+        "workspace",
+        "gym",
+        "kitchen",
+        "furnished",
+        "street_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020954351929470",
+      "posted_at": "Thursday 1 October 2026 at 19:37",
+      "first_scraped_at": "2026-10-02T04:05:47.529096+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "RENTAL | Oct 1\u201311 | $150\u2013200/Night SF TECH WEEK",
+      "search_snippet_long": "RENTAL | Oct 1\u201311 | $150\u2013200/Night SF TECH WEEK SUBLET | OCT 1\u201311 | $150\u2013200/NIGHT PRIVATE, ENCLOSED FIRST-FLOOR SUITE available"
+    },
+    {
+      "listing_id": "2020729661951939",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-01-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "parking",
+        "concierge",
+        "private_courtyard"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Trinity Place",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2020729661951939",
+      "posted_at": "Thursday 1 October 2026 at 13:24",
+      "first_scraped_at": "2026-10-02T04:05:47.529096+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "at Trinity Place Location: 1190 Mission St, San Francisco,",
+      "search_snippet_long": "at Trinity Place Location: 1190 Mission St, San Francisco, CA 94103 Monthly Rent: $2,000 (All-inclusive: utilities and a dedicated parking"
     }
   ]
 }
