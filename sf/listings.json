@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T20:16:59.779416",
-  "count": 2153,
+  "updated_at": "2026-10-02T21:17:48.678440",
+  "count": 2154,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67325,6 +67325,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "new roommate to join our house! $1280 bedroom overseeing",
       "search_snippet_long": "new roommate to join our house! $1280 bedroom overseeing the garden in the Lily Pad House - Outer Mission/Excelsior, San"
+    },
+    {
+      "listing_id": "2021968881828017",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": 800,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "utilities_included",
+        "parking",
+        "pet_friendly",
+        "new_appliances",
+        "furnished"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021968881828017",
+      "posted_at": "Friday 2 October 2026 at 20:39",
+      "first_scraped_at": "2026-10-03T04:00:04.488929+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "APARTMENT FOR RENT! $800/month \u2014 UTILITIES INCLUDED! Walkable to",
+      "search_snippet_long": "APARTMENT FOR RENT! $800/month \u2014 UTILITIES INCLUDED! Walkable to campus Fully furnished Parking available Pet-friendly Brand-new appliances Month-to-month lease available"
     }
   ]
 }
