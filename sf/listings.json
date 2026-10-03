@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T15:17:12.991284",
-  "count": 2171,
+  "updated_at": "2026-10-03T16:18:50.490448",
+  "count": 2172,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67869,6 +67869,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Bathroom Sublease Available! A clean and comfortable 1-bedroom, 1-bathroom",
       "search_snippet_long": "Bathroom Sublease Available! A clean and comfortable 1-bedroom, 1-bathroom apartment is available for sublease. If you\u2019re interested please Contact +1"
+    },
+    {
+      "listing_id": "1378501804050063",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 850,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-06-01",
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "backyard",
+        "shared_dining_room",
+        "shared_living_room",
+        "shared_kitchen",
+        "cleaning_service",
+        "toiletries_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1378501804050063",
+      "posted_at": "Saturday 3 October 2026 at 15:26",
+      "first_scraped_at": "2026-10-03T23:00:01.814496+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "+ Parking Included Hi I am studying abroad in",
+      "search_snippet_long": "+ Parking Included Hi I am studying abroad in the spring and subleasing my spot in the sunny shared double."
     }
   ]
 }
