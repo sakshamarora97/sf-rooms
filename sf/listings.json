@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T17:17:14.264484",
-  "count": 2150,
+  "updated_at": "2026-10-02T18:17:44.933862",
+  "count": 2151,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67231,6 +67231,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": null,
       "search_snippet_long": null
+    },
+    {
+      "listing_id": "4733514130216923",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Marina",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2026-11-15",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "private_garden",
+        "workspace_desk"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4733514130216923",
+      "posted_at": "Friday 2 October 2026 at 17:25",
+      "first_scraped_at": "2026-10-03T01:00:03.108486+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "| Available November 1\u201315 My cozy, furnished studio in",
+      "search_snippet_long": "| Available November 1\u201315 My cozy, furnished studio in the Marina is available for 2 weeks in Nov. You\u2019ll have"
     }
   ]
 }

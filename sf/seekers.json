@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T17:17:14.264484",
-  "count": 2862,
+  "updated_at": "2026-10-02T18:17:44.933862",
+  "count": 2863,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85790,6 +85790,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "is Tyler I\u2019m 20 years old. I don\u2019t go",
       "search_snippet_long": "is Tyler I\u2019m 20 years old. I don\u2019t go to Berkeley but looking for somewhere to live around Berkeley or"
+    },
+    {
+      "listing_id": "2021837205174518",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-04",
+      "move_out_date": "2026-12-04",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Alamo Square",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": 29,
+      "bio": "Works in tech and is in San Francisco for a two-month program; seeks a short-term place and will mostly be out but needs somewhere to crash.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2021837205174518",
+      "posted_at": "Friday 2 October 2026 at 16:44",
+      "first_scraped_at": "2026-10-03T01:00:03.108486+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "place with 1-2 rooms for the next two months,",
+      "search_snippet_long": "place with 1-2 rooms for the next two months, Oct 4-Dec 4. Need it to be around Alamo square or"
     }
   ]
 }
