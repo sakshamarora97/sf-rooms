@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T16:17:26.505638",
-  "count": 2861,
+  "updated_at": "2026-10-02T17:17:14.264484",
+  "count": 2862,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85761,6 +85761,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Accommodation \u2013 Male Hi everyone! I\u2019m looking for immediate",
       "search_snippet_long": "Accommodation \u2013 Male Hi everyone! I\u2019m looking for immediate accommodation in or around Santa Clara, Sunnyvale, San Jose, or nearby"
+    },
+    {
+      "listing_id": "1377709364129307",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 20,
+      "bio": "20-year-old Coast Guard service member recently stationed in the area, looking for a roommate to split a 2-bedroom near Berkeley.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1377709364129307",
+      "posted_at": "Friday 2 October 2026 at 16:58",
+      "first_scraped_at": "2026-10-03T00:00:05.280418+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "is Tyler I\u2019m 20 years old. I don\u2019t go",
+      "search_snippet_long": "is Tyler I\u2019m 20 years old. I don\u2019t go to Berkeley but looking for somewhere to live around Berkeley or"
     }
   ]
 }

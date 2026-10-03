@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T16:17:26.505638",
-  "count": 2149,
+  "updated_at": "2026-10-02T17:17:14.264484",
+  "count": 2150,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67205,6 +67205,32 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "to sublease our fully furnished 2 bed / 2",
       "search_snippet_long": "to sublease our fully furnished 2 bed / 2 bath apartment at 100 Van Ness for ~6 months, starting mid-October."
+    },
+    {
+      "listing_id": "1377691264131117",
+      "post_type": "listing",
+      "listing_type": null,
+      "duration_type": null,
+      "rent": 1400,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1377691264131117",
+      "posted_at": "Friday 2 October 2026 at 16:19",
+      "first_scraped_at": "2026-10-03T00:00:05.280418+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": null,
+      "search_snippet_long": null
     }
   ]
 }
