@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T12:17:30.621995",
-  "count": 2871,
+  "updated_at": "2026-10-03T13:16:27.404650",
+  "count": 2872,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86057,6 +86057,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "visiting San Francisco for the last week of December",
       "search_snippet_long": "visiting San Francisco for the last week of December (Dec 23 \u2013 Dec 30 ) and looking for a sublet"
+    },
+    {
+      "listing_id": "4734423993459270",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "sublease",
+        "month-to-month",
+        "short_term_lease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old who just started a job in downtown San Francisco after finishing a master's in Philadelphia. She works in person five days a week, is clean, social, responsible, communicative, easygoing, allergic to cats but open to other pets, and is looking for a short-term or month-to-month sublease under $2K.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4734423993459270",
+      "posted_at": "Saturday 3 October 2026 at 12:11",
+      "first_scraped_at": "2026-10-03T20:00:06.438677+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "started a job in downtown sf and am looking",
+      "search_snippet_long": "started a job in downtown sf and am looking for a sublease, month-to-month, or short-term lease, ready to move in"
     }
   ]
 }
