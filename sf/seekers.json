@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T13:16:27.404650",
-  "count": 2872,
+  "updated_at": "2026-10-03T14:18:02.336430",
+  "count": 2873,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86085,6 +86085,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "started a job in downtown sf and am looking",
       "search_snippet_long": "started a job in downtown sf and am looking for a sublease, month-to-month, or short-term lease, ready to move in"
+    },
+    {
+      "listing_id": "2022598181765087",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Western Addition"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Poster and a roommate are in their early 20s and are seeking a third female roommate for a social, clean, homey 3BR/2BA apartment in Anza Vista.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2022598181765087",
+      "posted_at": "Saturday 3 October 2026 at 12:57",
+      "first_scraped_at": "2026-10-03T21:00:03.438474+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "is Megan, I\u2019m looking for a 3rd roommate for",
+      "search_snippet_long": "is Megan, I\u2019m looking for a 3rd roommate for a 3bed 2bath apartment in Anza Vista. My other roommate and"
     }
   ]
 }
