@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T21:17:48.678440",
-  "count": 2154,
+  "updated_at": "2026-10-02T22:18:28.421981",
+  "count": 2156,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67357,6 +67357,62 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "APARTMENT FOR RENT! $800/month \u2014 UTILITIES INCLUDED! Walkable to",
       "search_snippet_long": "APARTMENT FOR RENT! $800/month \u2014 UTILITIES INCLUDED! Walkable to campus Fully furnished Parking available Pet-friendly Brand-new appliances Month-to-month lease available"
+    },
+    {
+      "listing_id": "1377865727447004",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1377865727447004",
+      "posted_at": "Friday 2 October 2026 at 21:44",
+      "first_scraped_at": "2026-10-03T05:00:06.566929+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "2 bath \u00b7 House",
+      "search_snippet_long": "2 bath \u00b7 House"
+    },
+    {
+      "listing_id": "1377857227447854",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1599,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-10-11",
+      "available_until": "2027-01-12",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "street_parking",
+        "kitchen",
+        "fully_furnished"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1377857227447854",
+      "posted_at": "Friday 2 October 2026 at 21:28",
+      "first_scraped_at": "2026-10-03T05:00:06.566929+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Private House | Fully furnished | Berkeley, CA Rent:",
+      "search_snippet_long": "Private House | Fully furnished | Berkeley, CA Rent: $1,599/month Utilities included: water, electricity, and trash 1600 Tyler St, Berkeley,"
     }
   ]
 }

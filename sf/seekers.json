@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T21:17:48.678440",
-  "count": 2867,
+  "updated_at": "2026-10-02T22:18:28.421981",
+  "count": 2868,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85942,6 +85942,33 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "/ Private Room Hi everyone! I am one person",
       "search_snippet_long": "/ Private Room Hi everyone! I am one person looking to find a room or apartment and fine with shared"
+    },
+    {
+      "listing_id": "28516419491348668",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Seeks a roommate for the 2026\u20132027 school year to share a fully furnished 2-bedroom, 2-bath apartment. Outgoing and outdoorsy, they describe themselves as respectful, responsible, tidy, easygoing, and a good listener.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28516419491348668",
+      "posted_at": "Friday 2 October 2026 at 07:05",
+      "first_scraped_at": "2026-10-03T05:00:06.566929+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "name is Managa I'm looking for a roommate, either",
+      "search_snippet_long": "name is Managa I'm looking for a roommate, either male or female, for the 2026-2027 school year to share a"
     }
   ]
 }
