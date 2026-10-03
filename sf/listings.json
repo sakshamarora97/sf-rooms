@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-02T19:16:58.011788",
-  "count": 2151,
+  "updated_at": "2026-10-02T20:16:59.779416",
+  "count": 2153,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67260,6 +67260,71 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "| Available November 1\u201315 My cozy, furnished studio in",
       "search_snippet_long": "| Available November 1\u201315 My cozy, furnished studio in the Marina is available for 2 weeks in Nov. You\u2019ll have"
+    },
+    {
+      "listing_id": "4733615523540117",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1450,
+      "neighborhood": "West Oakland",
+      "area": "East Bay",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "4B4.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "backyard",
+        "garden",
+        "fire_pit",
+        "hot_tub",
+        "furnished_kitchen",
+        "shared_meals"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4733615523540117",
+      "posted_at": "Friday 2 October 2026 at 19:44",
+      "first_scraped_at": "2026-10-03T03:00:04.686147+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "PRIVATE bathroom (and a bathtub!) available in a 4",
+      "search_snippet_long": "PRIVATE bathroom (and a bathtub!) available in a 4 bd/4.5 ba house in West Oakland (move in Nov 1) The"
+    },
+    {
+      "listing_id": "4733603440207992",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1280,
+      "neighborhood": "Outer Mission",
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "public_transit_access",
+        "garden"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Lily Pad House",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4733603440207992",
+      "posted_at": "Friday 2 October 2026 at 19:27",
+      "first_scraped_at": "2026-10-03T03:00:04.686147+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "new roommate to join our house! $1280 bedroom overseeing",
+      "search_snippet_long": "new roommate to join our house! $1280 bedroom overseeing the garden in the Lily Pad House - Outer Mission/Excelsior, San"
     }
   ]
 }
