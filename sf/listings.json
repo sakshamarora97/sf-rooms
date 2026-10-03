@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T10:16:25.212993",
-  "count": 2162,
+  "updated_at": "2026-10-03T11:16:44.470221",
+  "count": 2163,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67586,6 +67586,49 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "single room from Jan-Jun 2027 I'm looking to sublet",
       "search_snippet_long": "single room from Jan-Jun 2027 I'm looking to sublet my 2B1B single on Francisco St (North Berkeley) for next spring"
+    },
+    {
+      "listing_id": "1378357704064473",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1100,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": "6B6B",
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "fully_furnished",
+        "balcony",
+        "private_balcony",
+        "personal_vanity",
+        "modern_kitchen",
+        "laundry_on_site",
+        "rooftop",
+        "fitness_center",
+        "sauna",
+        "study_spaces",
+        "bike_storage",
+        "scooter_storage",
+        "package_lockers",
+        "bbq",
+        "common_lounge",
+        "key_fob_entry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Pique Berkeley",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1378357704064473",
+      "posted_at": "Saturday 3 October 2026 at 10:57",
+      "first_scraped_at": "2026-10-03T18:00:06.473279+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "AT PIQUE BERKELEY \u2014 $1,100/MO | 7 MIN WALK",
+      "search_snippet_long": "AT PIQUE BERKELEY \u2014 $1,100/MO | 7 MIN WALK TO UC BERKELEY Hi! I\u2019ll be studying abroad during Spring 2027,"
     }
   ]
 }
