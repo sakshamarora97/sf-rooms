@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T08:15:57.018649",
-  "count": 2161,
+  "updated_at": "2026-10-03T09:16:38.317280",
+  "count": 2162,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67560,6 +67560,32 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "I have a 2 bed 2bath available, and I'm",
       "search_snippet_long": "I have a 2 bed 2bath available, and I'm looking for a student male/Female to occupy the other room, and"
+    },
+    {
+      "listing_id": "1378276694072574",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-06-30",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1378276694072574",
+      "posted_at": "Saturday 3 October 2026 at 08:58",
+      "first_scraped_at": "2026-10-03T16:00:03.776484+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "single room from Jan-Jun 2027 I'm looking to sublet",
+      "search_snippet_long": "single room from Jan-Jun 2027 I'm looking to sublet my 2B1B single on Francisco St (North Berkeley) for next spring"
     }
   ]
 }

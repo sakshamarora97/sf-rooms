@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T08:15:57.018649",
-  "count": 2868,
+  "updated_at": "2026-10-03T09:16:38.317280",
+  "count": 2869,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -85969,6 +85969,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "name is Managa I'm looking for a roommate, either",
       "search_snippet_long": "name is Managa I'm looking for a roommate, either male or female, for the 2026-2027 school year to share a"
+    },
+    {
+      "listing_id": "4734219020146434",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Telegraph Hill",
+        "Nob Hill",
+        "Chinatown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "She is 23, moving to San Francisco for a new full-time job; clean, responsible, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4734219020146434",
+      "posted_at": "Saturday 3 October 2026 at 08:14",
+      "first_scraped_at": "2026-10-03T16:00:03.776484+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to san francisco for work and looking for a",
+      "search_snippet_long": "to san francisco for work and looking for a studio or sublet, ideally starting mid october. i\u2019m mainly looking around"
     }
   ]
 }
