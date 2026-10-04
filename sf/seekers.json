@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T15:17:31.340363",
-  "count": 2894,
+  "updated_at": "2026-10-04T16:17:56.592693",
+  "count": 2896,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86734,6 +86734,66 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a Studio Near USF \u2014 Ready to Sign TODAY",
       "search_snippet_long": "a Studio Near USF \u2014 Ready to Sign TODAY Hi everyone! My name is Leah, and I\u2019m urgently looking for"
+    },
+    {
+      "listing_id": "4735706773330992",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "NoPa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old male, remote software engineer who enjoys the gym, basketball, and exploring the city. Seeking one more roommate for a 3BR/1BA in NoPa.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4735706773330992",
+      "posted_at": "Sunday 4 October 2026 at 15:43",
+      "first_scraped_at": "2026-10-04T23:00:06.284661+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Roommate Hi. My friend and I are looking for",
+      "search_snippet_long": "Roommate Hi. My friend and I are looking for one more male to apply to a 3 bed 1 bath"
+    },
+    {
+      "listing_id": "2023522821672623",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Nob Hill",
+        "Haight-Ashbury",
+        "Hayes Valley",
+        "NoPa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Stanford graduate (English BA, Communication MA) starting a fintech job in late October who enjoys concerts, vintage shopping, and reading in parks. Seeking an all-female roommate situation in San Francisco with a budget up to $2,500/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023522821672623",
+      "posted_at": "Sunday 4 October 2026 at 14:35",
+      "first_scraped_at": "2026-10-04T23:00:06.284661+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "rooms, etc (SF) *ASAP* Hi everyone! My name is",
+      "search_snippet_long": "rooms, etc (SF) *ASAP* Hi everyone! My name is Audrey and I just graduated from Stanford (English BA + Comm"
     }
   ]
 }

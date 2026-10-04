@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T15:17:31.340363",
-  "count": 2187,
+  "updated_at": "2026-10-04T16:17:56.592693",
+  "count": 2189,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68382,6 +68382,72 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Single \u2014 Spring + Summer Sublease | Jan\u2013July 2027",
       "search_snippet_long": "Single \u2014 Spring + Summer Sublease | Jan\u2013July 2027 | $1,080/month ALL utilities included Hi everyone! I\u2019m a UC Berkeley"
+    },
+    {
+      "listing_id": "2023552625002976",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3200,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "garage_parking",
+        "in_unit_laundry",
+        "backyard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023552625002976",
+      "posted_at": "Sunday 4 October 2026 at 15:40",
+      "first_scraped_at": "2026-10-04T23:00:06.284661+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in San Francisco available November 1st Room available Nov",
+      "search_snippet_long": "in San Francisco available November 1st Room available Nov 1st in San Francisco! Hey everyone! My roommate is moving out"
+    },
+    {
+      "listing_id": "2023513368340235",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3200,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-01-02",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": false,
+      "roommates_count": 0,
+      "amenities": [
+        "dishwasher",
+        "oven",
+        "stove",
+        "shared_laundry",
+        "top_floor",
+        "walk_up",
+        "natural_light",
+        "skyline_view",
+        "quiet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023513368340235",
+      "posted_at": "Sunday 4 October 2026 at 14:14",
+      "first_scraped_at": "2026-10-04T23:00:06.284661+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Alamo Square \u2013 Unfurnished top floor studio \u2013 $3200/month",
+      "search_snippet_long": "Alamo Square \u2013 Unfurnished top floor studio \u2013 $3200/month \u2013 Now to Jan 2 2027 Subletting my studio at Fillmore"
     }
   ]
 }
