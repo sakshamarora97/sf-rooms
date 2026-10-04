@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T18:15:53.979278",
-  "count": 2174,
+  "updated_at": "2026-10-03T19:16:20.860488",
+  "count": 2175,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67969,6 +67969,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "3-bed / 3-floor stunning house in Miraloma \ud83c\udfe1 SF",
       "search_snippet_long": "3-bed / 3-floor stunning house in Miraloma \ud83c\udfe1 SF Miraloma Park 2 Rooms Available in a 3B2B House Looking for"
+    },
+    {
+      "listing_id": "2022722095086029",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1250,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "laundry",
+        "street_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2022722095086029",
+      "posted_at": "Saturday 3 October 2026 at 17:08",
+      "first_scraped_at": "2026-10-04T01:00:06.053176+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "bathroom in Southern Hills. Laundry in house and plenty",
+      "search_snippet_long": "bathroom in Southern Hills. Laundry in house and plenty of street parking $1250. No pets No couples No drugs"
     }
   ]
 }
