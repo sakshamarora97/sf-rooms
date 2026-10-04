@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T14:18:28.738234",
-  "count": 2893,
+  "updated_at": "2026-10-04T15:17:31.340363",
+  "count": 2894,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86706,6 +86706,34 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "in moving into a new apartment or room in",
       "search_snippet_long": "in moving into a new apartment or room in January 2027. I am neat, quiet, and have a full time"
+    },
+    {
+      "listing_id": "2023501855008053",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A senior Biology major at the University of San Francisco in her final semester, responsible, clean, quiet, and study-focused; ready to move in and sign a lease immediately.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023501855008053",
+      "posted_at": "Sunday 4 October 2026 at 13:51",
+      "first_scraped_at": "2026-10-04T22:00:04.825647+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a Studio Near USF \u2014 Ready to Sign TODAY",
+      "search_snippet_long": "a Studio Near USF \u2014 Ready to Sign TODAY Hi everyone! My name is Leah, and I\u2019m urgently looking for"
     }
   ]
 }

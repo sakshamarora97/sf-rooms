@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T14:18:28.738234",
-  "count": 2186,
+  "updated_at": "2026-10-04T15:17:31.340363",
+  "count": 2187,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68352,6 +68352,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "have a room available in a beautiful 3 bed",
       "search_snippet_long": "have a room available in a beautiful 3 bed 1 bath Victorian at the heart of Hayes Valley next to"
+    },
+    {
+      "listing_id": "1379303473969896",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1080,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_kitchen",
+        "laundry",
+        "house_manager"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1379303473969896",
+      "posted_at": "Sunday 4 October 2026 at 14:18",
+      "first_scraped_at": "2026-10-04T22:00:04.825647+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Single \u2014 Spring + Summer Sublease | Jan\u2013July 2027",
+      "search_snippet_long": "Single \u2014 Spring + Summer Sublease | Jan\u2013July 2027 | $1,080/month ALL utilities included Hi everyone! I\u2019m a UC Berkeley"
     }
   ]
 }
