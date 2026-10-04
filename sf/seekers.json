@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T20:16:25.671564",
-  "count": 2877,
+  "updated_at": "2026-10-03T21:16:21.454698",
+  "count": 2878,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86196,6 +86196,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a private bedroom in a shared apartment",
       "search_snippet_long": "looking for a private bedroom in a shared apartment or house in the Marina, San Francisco. My budget is $1,700\u2013$2,000/month."
+    },
+    {
+      "listing_id": "4734726446762358",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-01-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Cow Hollow",
+        "Pacific Heights",
+        "Nob Hill",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4734726446762358",
+      "posted_at": "Saturday 3 October 2026 at 19:34",
+      "first_scraped_at": "2026-10-04T03:00:03.103934+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "bed Sublet | January 2027 Hi! I\u2019m looking for",
+      "search_snippet_long": "bed Sublet | January 2027 Hi! I\u2019m looking for a furnished studio/1 bed sublet in SF (Cow Hollow, Pacific Heights,"
     },
     {
       "listing_id": "2022760048415567",

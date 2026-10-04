@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T20:16:25.671564",
-  "count": 2175,
+  "updated_at": "2026-10-03T21:16:21.454698",
+  "count": 2176,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67998,6 +67998,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "bathroom in Southern Hills. Laundry in house and plenty",
       "search_snippet_long": "bathroom in Southern Hills. Laundry in house and plenty of street parking $1250. No pets No couples No drugs"
+    },
+    {
+      "listing_id": "2022788201746085",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2022788201746085",
+      "posted_at": "Saturday 3 October 2026 at 19:10",
+      "first_scraped_at": "2026-10-04T03:00:03.103934+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for anybody to takeover a private unit move",
+      "search_snippet_long": "looking for anybody to takeover a private unit move in ready,renewable. Utilities and parking included 1400\u201d. Feel free to reach"
     }
   ]
 }
