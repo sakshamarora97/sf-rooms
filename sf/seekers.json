@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T11:18:42.300967",
-  "count": 2890,
+  "updated_at": "2026-10-04T12:17:25.289133",
+  "count": 2891,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86622,6 +86622,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for Immediate Move in! Hello! My name is Izzy,",
       "search_snippet_long": "for Immediate Move in! Hello! My name is Izzy, and I\u2019m looking for apartments ( preferably Southside and short walking"
+    },
+    {
+      "listing_id": "2023423778349194",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private_room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A Biology student finishing her last semester at the University of San Francisco seeking a private room or studio close to USF. She describes herself as clean, responsible, and respectful, has a budget around $1,500/month, and is ready to move in ASAP.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023423778349194",
+      "posted_at": "Sunday 4 October 2026 at 11:26",
+      "first_scraped_at": "2026-10-04T19:00:04.213837+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Leah, and I\u2019m a Biology student finishing",
+      "search_snippet_long": "name is Leah, and I\u2019m a Biology student finishing my last semester at the University of San Francisco. I urgently"
     }
   ]
 }
