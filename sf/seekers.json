@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T19:16:20.860488",
-  "count": 2876,
+  "updated_at": "2026-10-03T20:16:25.671564",
+  "count": 2877,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86196,6 +86196,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a private bedroom in a shared apartment",
       "search_snippet_long": "looking for a private bedroom in a shared apartment or house in the Marina, San Francisco. My budget is $1,700\u2013$2,000/month."
+    },
+    {
+      "listing_id": "2022760048415567",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "private_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a furnished private room or short sublet in San Francisco starting ASAP for 1\u20133 months, with a budget up to ~$2,000/month. They are comfortable with roommates and prioritize parking availability.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2022760048415567",
+      "posted_at": "Saturday 3 October 2026 at 18:21",
+      "first_scraped_at": "2026-10-04T03:00:03.103934+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "furnished room/sublet in SF \u2014 ASAP Hey everyone! I\u2019m",
+      "search_snippet_long": "furnished room/sublet in SF \u2014 ASAP Hey everyone! I\u2019m looking for a furnished room/sublet in San Francisco starting ASAP, ideally"
     }
   ]
 }
