@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-03T17:16:06.034837",
-  "count": 2172,
+  "updated_at": "2026-10-03T18:15:53.979278",
+  "count": 2174,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -67903,6 +67903,72 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "+ Parking Included Hi I am studying abroad in",
       "search_snippet_long": "+ Parking Included Hi I am studying abroad in the spring and subleasing my spot in the sunny shared double."
+    },
+    {
+      "listing_id": "2022662395091999",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 875,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "4B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "private_bathroom",
+        "near_public_transit",
+        "all_women_home"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2022662395091999",
+      "posted_at": "Saturday 3 October 2026 at 15:09",
+      "first_scraped_at": "2026-10-04T00:00:03.763127+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Private Bathroom in an All-Women Home | South San",
+      "search_snippet_long": "Private Bathroom in an All-Women Home | South San Francisco If you\u2019re looking for a place that feels like home"
+    },
+    {
+      "listing_id": "4734629526772050",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2700,
+      "neighborhood": "Miraloma Park",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2026-12-31",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "bay_views",
+        "deck",
+        "bbq",
+        "private_yard",
+        "skylit_kitchen",
+        "hardwood_floors",
+        "radiant_heating",
+        "work_from_home_space"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4734629526772050",
+      "posted_at": "Saturday 3 October 2026 at 17:18",
+      "first_scraped_at": "2026-10-04T01:00:06.053176+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "3-bed / 3-floor stunning house in Miraloma \ud83c\udfe1 SF",
+      "search_snippet_long": "3-bed / 3-floor stunning house in Miraloma \ud83c\udfe1 SF Miraloma Park 2 Rooms Available in a 3B2B House Looking for"
     }
   ]
 }
