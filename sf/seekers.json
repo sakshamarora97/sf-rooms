@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T07:17:26.496467",
-  "count": 2885,
+  "updated_at": "2026-10-04T08:16:50.491423",
+  "count": 2886,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86466,6 +86466,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "room in SF - November move-in Hey all! I'm",
       "search_snippet_long": "room in SF - November move-in Hey all! I'm Jayanth (25M), a software engineer working in FiDi(new job), moving to"
+    },
+    {
+      "listing_id": "2023236278367944",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pacific Heights",
+        "Russian Hill",
+        "Nob Hill",
+        "Presidio Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "She is a 24-year-old relocating to San Francisco for a new private equity job starting in November. She is social, enjoys trying new restaurants and workout classes, exploring the city, and has a well-behaved dachshund.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023236278367944",
+      "posted_at": "Sunday 4 October 2026 at 07:03",
+      "first_scraped_at": "2026-10-04T15:00:04.411186+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a female roommate to either find a",
+      "search_snippet_long": "looking for a female roommate to either find a lease together or join an existing 2B/3B apartment in SF, with"
     }
   ]
 }
