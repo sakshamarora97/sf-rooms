@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T06:19:06.520125",
-  "count": 2182,
+  "updated_at": "2026-10-04T07:17:26.496467",
+  "count": 2184,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68222,6 +68222,70 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "in Berkeley\u2019s Elmwood Neighborhood \u2013 Available January 1, 2027",
       "search_snippet_long": "in Berkeley\u2019s Elmwood Neighborhood \u2013 Available January 1, 2027 Three furnished private rooms available in a Victorian home at 2596"
+    },
+    {
+      "listing_id": "28544444371879513",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-11-30",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Pinnacle at Nob Hill",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28544444371879513",
+      "posted_at": "Sunday 4 October 2026 at 05:37",
+      "first_scraped_at": "2026-10-04T14:00:05.449268+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Sublease | The Pinnacle at Nob Hill Elevate your",
+      "search_snippet_long": "Sublease | The Pinnacle at Nob Hill Elevate your San Francisco lifestyle with this exceptional offering at 899 Pine St."
+    },
+    {
+      "listing_id": "28550601851263765",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": 900,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "water",
+        "trash_removal",
+        "air_conditioning",
+        "wifi",
+        "laundry_facilities",
+        "refrigerator",
+        "kitchen",
+        "heating",
+        "modern_appliances"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Lark Landing",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28550601851263765",
+      "posted_at": "Sunday 4 October 2026 at 05:37",
+      "first_scraped_at": "2026-10-04T14:00:05.449268+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "\u2013 San Francisco, CA ($900\u2013$1,000/month) Hello everyone! We\u2019re looking",
+      "search_snippet_long": "\u2013 San Francisco, CA ($900\u2013$1,000/month) Hello everyone! We\u2019re looking for someone to rent a furnished private apartment in San Francisco,"
     }
   ]
 }
