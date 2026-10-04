@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T12:17:25.289133",
-  "count": 2184,
+  "updated_at": "2026-10-04T13:17:50.653811",
+  "count": 2185,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68286,6 +68286,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "\u2013 San Francisco, CA ($900\u2013$1,000/month) Hello everyone! We\u2019re looking",
       "search_snippet_long": "\u2013 San Francisco, CA ($900\u2013$1,000/month) Hello everyone! We\u2019re looking for someone to rent a furnished private apartment in San Francisco,"
+    },
+    {
+      "listing_id": "2023444785013760",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1500,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_balcony",
+        "dishwasher",
+        "wifi_included",
+        "weekly_cleaning",
+        "bike_racks_outside"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023444785013760",
+      "posted_at": "Sunday 4 October 2026 at 12:00",
+      "first_scraped_at": "2026-10-04T20:00:04.603613+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in Nob Hill ! All girls apartment. There\u2019s two",
+      "search_snippet_long": "in Nob Hill ! All girls apartment. There\u2019s two cats in the unit so no more pers allowed. There\u2019s in"
     }
   ]
 }

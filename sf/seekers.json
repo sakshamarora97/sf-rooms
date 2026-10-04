@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T12:17:25.289133",
-  "count": 2891,
+  "updated_at": "2026-10-04T13:17:50.653811",
+  "count": 2892,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86651,6 +86651,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Leah, and I\u2019m a Biology student finishing",
       "search_snippet_long": "name is Leah, and I\u2019m a Biology student finishing my last semester at the University of San Francisco. I urgently"
+    },
+    {
+      "listing_id": "1379266477306929",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-02-28",
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "PhD student in Economics visiting Berkeley Haas from Nov 2026\u2013Feb 2027; quiet, tidy, non-smoker who spends most days working on campus.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1379266477306929",
+      "posted_at": "Sunday 4 October 2026 at 13:02",
+      "first_scraped_at": "2026-10-04T20:00:04.603613+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "room in Berkeley, Nov 2026 \u2013 Feb 2027 Hi",
+      "search_snippet_long": "room in Berkeley, Nov 2026 \u2013 Feb 2027 Hi everyone! I'm Marlene, a PhD student in Economics at the European"
     }
   ]
 }
