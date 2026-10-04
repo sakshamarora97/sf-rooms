@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T08:16:50.491423",
-  "count": 2886,
+  "updated_at": "2026-10-04T09:17:44.262719",
+  "count": 2887,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86498,6 +86498,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a female roommate to either find a",
       "search_snippet_long": "looking for a female roommate to either find a lease together or join an existing 2B/3B apartment in SF, with"
+    },
+    {
+      "listing_id": "2023254981699407",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B3B",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "North San Jose",
+        "Sunnyvale",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a 2B2B unit or to join an existing 2B2B/3B3B lease and looking for the other private room. They plan to sign by 2026-10-15 and prefer North San Jose, Sunnyvale, or Santa Clara (open to complexes like Epic or North Park).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023254981699407",
+      "posted_at": "Sunday 4 October 2026 at 07:29",
+      "first_scraped_at": "2026-10-04T16:00:07.110866+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Apartment Hello everyone, Me and my boyfriend, we are",
+      "search_snippet_long": "Apartment Hello everyone, Me and my boyfriend, we are planning to sign a new lease for 2b2b or open to"
     }
   ]
 }
