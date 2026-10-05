@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T16:17:56.592693",
-  "count": 2189,
+  "updated_at": "2026-10-04T17:18:52.206498",
+  "count": 2190,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68448,6 +68448,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Alamo Square \u2013 Unfurnished top floor studio \u2013 $3200/month",
       "search_snippet_long": "Alamo Square \u2013 Unfurnished top floor studio \u2013 $3200/month \u2013 Now to Jan 2 2027 Subletting my studio at Fillmore"
+    },
+    {
+      "listing_id": "4735746166660386",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "North San Jose",
+      "area": "South Bay",
+      "available_from": "2026-10-01",
+      "available_until": "2026-11-17",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Crescent Village Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4735746166660386",
+      "posted_at": "Sunday 4 October 2026 at 16:46",
+      "first_scraped_at": "2026-10-05T00:00:02.983763+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in north San jose area - Crescent village apartments",
+      "search_snippet_long": "in north San jose area - Crescent village apartments from Oct 1st to Nov 17th. I am female working professional"
     }
   ]
 }
