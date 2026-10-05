@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T15:17:37.439674",
-  "count": 2211,
+  "updated_at": "2026-10-05T16:18:00.193191",
+  "count": 2212,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69127,6 +69127,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "sublease Oct 14-Jan 2nd (dates flexible) in Nob Hill.",
       "search_snippet_long": "sublease Oct 14-Jan 2nd (dates flexible) in Nob Hill. Female preferred. $4K/month. Willing to rent car for additional fee. About"
+    },
+    {
+      "listing_id": "2024436328247939",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1371,
+      "neighborhood": "Inner Richmond",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "shared_kitchen",
+        "shared_living_room",
+        "natural_light",
+        "close_to_Golden_Gate_Park"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2024436328247939",
+      "posted_at": "Monday 5 October 2026 at 15:45",
+      "first_scraped_at": "2026-10-05T23:00:05.480048+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "ROOMMATE SF - INNER RICHMOND 3 bed / 1.5",
+      "search_snippet_long": "ROOMMATE SF - INNER RICHMOND 3 bed / 1.5 bath house | $1,371/month + utilities | November 1st move-in We\u2019re"
     }
   ]
 }
