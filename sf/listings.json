@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T11:17:44.987446",
-  "count": 2205,
+  "updated_at": "2026-10-05T12:18:20.785209",
+  "count": 2207,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68937,6 +68937,69 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "K Street Flats, Downtown Berkeley Mid-October to beginning of",
       "search_snippet_long": "K Street Flats, Downtown Berkeley Mid-October to beginning of January Hi! I'm a Berkeley grad student subletting my room for"
+    },
+    {
+      "listing_id": "4736667556568247",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1540,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "secure_mail_area",
+        "elevator",
+        "near_bus_lines",
+        "natural_light",
+        "peloton",
+        "furnished_common_areas"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female or gay male",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4736667556568247",
+      "posted_at": "Monday 5 October 2026 at 11:41",
+      "first_scraped_at": "2026-10-05T19:00:04.154039+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking to give up my office room as a",
+      "search_snippet_long": "looking to give up my office room as a $1540/month second bedroom in my 2-bed, 1-bath unit in Pac Heights."
+    },
+    {
+      "listing_id": "2024301471594758",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 960,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "walk_in_closet",
+        "shared_bathroom",
+        "sunny"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2024301471594758",
+      "posted_at": "Monday 5 October 2026 at 11:23",
+      "first_scraped_at": "2026-10-05T19:00:04.154039+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Mission with walk in closet- $960/mo (under $1K!) \u2014",
+      "search_snippet_long": "Mission with walk in closet- $960/mo (under $1K!) \u2014 Available now. Flexible Move In. Super close to 24th St BART"
     }
   ]
 }
