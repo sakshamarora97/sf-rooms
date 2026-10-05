@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T08:18:14.456662",
-  "count": 2201,
+  "updated_at": "2026-10-05T09:18:31.938110",
+  "count": 2203,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68815,6 +68815,70 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "to takeover my lease at standard, double for 1250.",
       "search_snippet_long": "to takeover my lease at standard, double for 1250. Lease is till July 31 2027, place is right next to"
+    },
+    {
+      "listing_id": "28559171820406768",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2550,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_kitchen",
+        "shared_backyard",
+        "shared_sunroom",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28559171820406768",
+      "posted_at": "Monday 5 October 2026 at 05:23",
+      "first_scraped_at": "2026-10-05T16:00:07.638706+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Rooms Available in Potrero/Mission \u2013 $2,550/month + security deposit",
+      "search_snippet_long": "Rooms Available in Potrero/Mission \u2013 $2,550/month + security deposit (only looking for one person to fill both) Looking for one"
+    },
+    {
+      "listing_id": "28557307990593151",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-01-07",
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "sauna",
+        "parking",
+        "rooftop",
+        "rooftop_bbq",
+        "trash_pickup"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28557307990593151",
+      "posted_at": "Monday 5 October 2026 at 05:23",
+      "first_scraped_at": "2026-10-05T16:00:07.638706+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Hill High-Rise 2B2B Sublease | ~$1,000 Below Current Market",
+      "search_snippet_long": "Hill High-Rise 2B2B Sublease | ~$1,000 Below Current Market Rate | Great Views Subleasing a 2B2B apartment near Rincon Hill"
     }
   ]
 }
