@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T18:17:59.756891",
-  "count": 2191,
+  "updated_at": "2026-10-04T19:18:32.809467",
+  "count": 2192,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68502,6 +68502,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in 2BR/1BR the Central Richmond | $1,700 + utilities",
       "search_snippet_long": "in 2BR/1BR the Central Richmond | $1,700 + utilities | November 2nd move-in Hello! My roommate is moving out and"
+    },
+    {
+      "listing_id": "1379433747290202",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "in_unit_laundry",
+        "private_bath"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "male only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1379433747290202",
+      "posted_at": "Sunday 4 October 2026 at 19:01",
+      "first_scraped_at": "2026-10-05T02:00:03.737450+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "rooms available asap. North Berkeley Master/private bath \u2014 $1,900",
+      "search_snippet_long": "rooms available asap. North Berkeley Master/private bath \u2014 $1,900 Standard bedroom \u2014 $1,400 10-15 minute drive to campus, shuttle 65."
     }
   ]
 }
