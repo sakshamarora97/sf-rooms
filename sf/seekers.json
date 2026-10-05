@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T13:18:21.472781",
-  "count": 2915,
+  "updated_at": "2026-10-05T14:17:34.208006",
+  "count": 2916,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87348,6 +87348,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "moving into SF for work (in the Richmond district).",
       "search_snippet_long": "moving into SF for work (in the Richmond district). I'll be moving by myself and happy to move ASAP. Currently"
+    },
+    {
+      "listing_id": "4736762149892121",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "North San Jose",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Moving to San Jose for a full-time software engineering role and seeking a private room (long-term) with rent up to $1,500/month including utilities. Clean, responsible, respectful of shared spaces; enjoys soccer, music, and cooking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4736762149892121",
+      "posted_at": "Monday 5 October 2026 at 13:40",
+      "first_scraped_at": "2026-10-05T21:00:05.129430+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Private Room | North San Jose | Budget: $1,500/month",
+      "search_snippet_long": "Private Room | North San Jose | Budget: $1,500/month Hi everyone! I\u2019m Abhishek, moving to San Jose for a full-time"
     }
   ]
 }
