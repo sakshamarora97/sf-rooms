@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T06:19:25.101125",
-  "count": 2907,
+  "updated_at": "2026-10-05T07:17:45.232172",
+  "count": 2909,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87065,6 +87065,34 @@
       "search_snippet_long": "or rooms in late Oct / early Nov (< $3K budget) Hey folks, I'm moving to SF later this month"
     },
     {
+      "listing_id": "2023864038305168",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "She works full-time in San Jose and is seeking housing for herself and her 5-year-old child. She describes herself as clean, respectful, a non-smoker/non-drinker, and needs something available quickly with a budget of $800\u2013$1,100.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023864038305168",
+      "posted_at": "Monday 5 October 2026 at 00:49",
+      "first_scraped_at": "2026-10-05T13:00:07.451656+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a room to rent asap, or a spacious",
+      "search_snippet_long": "for a room to rent asap, or a spacious studio my budget is 800-1100 if a one bedroom then yes"
+    },
+    {
       "listing_id": "1378529900713920",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -87117,6 +87145,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "a Berkeley alum whose currently looking for a month-to-month",
       "search_snippet_long": "a Berkeley alum whose currently looking for a month-to-month lease starting in November. Ideally around northwest side of campus, but"
+    },
+    {
+      "listing_id": "4736162203285449",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "apartment",
+        "studio",
+        "sublet",
+        "co-living"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a full-time tech worker moving to downtown San Francisco and seeking housing starting 2026-12-01 for about four months. They describe themselves as clean, responsible, and respectful and have a budget up to $1,700/month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4736162203285449",
+      "posted_at": "Monday 5 October 2026 at 02:02",
+      "first_scraped_at": "2026-10-05T14:00:03.896547+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Room / Apartment / Sublet in San Francisco \u2013",
+      "search_snippet_long": "Room / Apartment / Sublet in San Francisco \u2013 Dec 1 Move-In | Budget up to $1,700 Hi, I\u2019m Sehaj!"
     }
   ]
 }
