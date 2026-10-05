@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T20:19:21.221420",
-  "count": 2192,
+  "updated_at": "2026-10-04T21:18:23.498775",
+  "count": 2194,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68532,6 +68532,69 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "rooms available asap. North Berkeley Master/private bath \u2014 $1,900",
       "search_snippet_long": "rooms available asap. North Berkeley Master/private bath \u2014 $1,900 Standard bedroom \u2014 $1,400 10-15 minute drive to campus, shuttle 65."
+    },
+    {
+      "listing_id": "4735910753310594",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Richmond District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "street_parking",
+        "internet",
+        "rent_controlled"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4735910753310594",
+      "posted_at": "Sunday 4 October 2026 at 20:33",
+      "first_scraped_at": "2026-10-05T04:00:03.586803+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "poster here I\u2019m getting a head start on finding",
+      "search_snippet_long": "poster here I\u2019m getting a head start on finding a great roommate for our Richmond District home! The space: A"
+    },
+    {
+      "listing_id": "2023704308321141",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2456,
+      "neighborhood": "Redwood City",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": "2027-08-31",
+      "unit_config": "4B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "wifi",
+        "central_heating_cooling",
+        "furnished_common_areas",
+        "backyard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023704308321141",
+      "posted_at": "Sunday 4 October 2026 at 20:19",
+      "first_scraped_at": "2026-10-05T04:00:03.586803+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "RWC Hi all, I'm looking to fill a lovely",
+      "search_snippet_long": "RWC Hi all, I'm looking to fill a lovely master bedroom in a shared 4BD/3BA home in Redwood City! Located"
     }
   ]
 }

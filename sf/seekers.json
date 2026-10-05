@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T20:19:21.221420",
-  "count": 2901,
+  "updated_at": "2026-10-04T21:18:23.498775",
+  "count": 2903,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86936,6 +86936,66 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "26 F looking for accommodation starting Mid October, I",
       "search_snippet_long": "26 F looking for accommodation starting Mid October, I am open for taking on a sublease or for being on"
+    },
+    {
+      "listing_id": "2023704261654479",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-12",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "sublease",
+        "apartment",
+        "house"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 29,
+      "bio": "29-year-old moving to San Francisco seeking a 1\u20133 month sublease starting around Oct 12; open to apartments or houses and flexible on location.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023704261654479",
+      "posted_at": "Sunday 4 October 2026 at 20:19",
+      "first_scraped_at": "2026-10-05T04:00:03.586803+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "month Sublease Starting 10/12 or sooner! Hi all! I'm",
+      "search_snippet_long": "month Sublease Starting 10/12 or sooner! Hi all! I'm Jeffrey, 29, moving to SF and looking for a short-term sublease."
+    },
+    {
+      "listing_id": "2023689574989281",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Mission District",
+        "Bernal Heights",
+        "Noe Valley",
+        "Dolores Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old engineer moving from Chicago for a new job in San Francisco; works in the energy/solar industry and will be WFH 1\u20132 days per week. She is social, clean, pet-friendly, and enjoys cooking, concerts, hiking, vintage fashion, and tabletop gaming.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023689574989281",
+      "posted_at": "Sunday 4 October 2026 at 19:54",
+      "first_scraped_at": "2026-10-05T04:00:03.586803+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a room! Hello! My name is Halie (25 she/her)",
+      "search_snippet_long": "a room! Hello! My name is Halie (25 she/her) and I\u2019m looking to fill a room starting Nov 1st. I"
     }
   ]
 }
