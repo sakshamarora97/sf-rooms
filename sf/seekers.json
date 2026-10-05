@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T09:18:31.938110",
-  "count": 2910,
+  "updated_at": "2026-10-05T10:17:45.091308",
+  "count": 2912,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87204,6 +87204,63 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "room or to apply with people! Wondering if there",
       "search_snippet_long": "room or to apply with people! Wondering if there would be a few people interested in applying to a place"
+    },
+    {
+      "listing_id": "28559928850331065",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": 31,
+      "bio": "She is a 31-year-old in-person high school biology and chemistry tutor who enjoys hiking, beach combing, cooking vegetarian meals, and playing chess. She keeps a shy indoor cat, values quiet, chill evenings but is open to hosting and seeks considerate housemates.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28559928850331065",
+      "posted_at": "Monday 5 October 2026 at 05:22",
+      "first_scraped_at": "2026-10-05T17:00:04.774297+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "ROOM IN SAN FRANCISCO Maddie, 31, she/her Seeking cat-friendly",
+      "search_snippet_long": "ROOM IN SAN FRANCISCO Maddie, 31, she/her Seeking cat-friendly household Rent <$1400 Flexible move-in date Non-furnished room OK Hello! I"
+    },
+    {
+      "listing_id": "28555860667404550",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-10",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Potrero Hill",
+        "Dogpatch",
+        "Noe Valley",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "Recently moved to San Francisco for a new job. Independent, clean, social but also values personal space; enjoys live events, movies, and trying new restaurants.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28555860667404550",
+      "posted_at": "Monday 5 October 2026 at 05:22",
+      "first_scraped_at": "2026-10-05T17:00:04.774297+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "28F. Recently moved to the city for a new",
+      "search_snippet_long": "28F. Recently moved to the city for a new job :)) I\u2019m looking for a 1B1B spot in an existing"
     }
   ]
 }
