@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T22:19:56.038540",
-  "count": 2905,
+  "updated_at": "2026-10-05T06:19:25.101125",
+  "count": 2907,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87063,6 +87063,60 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "or rooms in late Oct / early Nov (<",
       "search_snippet_long": "or rooms in late Oct / early Nov (< $3K budget) Hey folks, I'm moving to SF later this month"
+    },
+    {
+      "listing_id": "1378529900713920",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a female subletter for a private room in Berkeley from January\u2013May 2027. They invite interested people to message for details and photos.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1378529900713920",
+      "posted_at": "Monday 5 October 2026 at 01:58",
+      "first_scraped_at": "2026-10-05T13:00:07.451656+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for a female subletter for January 2027\u2013May 2027. Private",
+      "search_snippet_long": "for a female subletter for January 2027\u2013May 2027. Private room in Berkeley. Feel free to message me for more details/photos"
+    },
+    {
+      "listing_id": "1379596350607275",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "North Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is a Berkeley alum seeking a month-to-month lease starting in November; prefers the northwest side of campus but is open to other options.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1379596350607275",
+      "posted_at": "Monday 5 October 2026 at 00:06",
+      "first_scraped_at": "2026-10-05T13:00:07.451656+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "a Berkeley alum whose currently looking for a month-to-month",
+      "search_snippet_long": "a Berkeley alum whose currently looking for a month-to-month lease starting in November. Ideally around northwest side of campus, but"
     }
   ]
 }
