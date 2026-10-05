@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T17:18:52.206498",
-  "count": 2190,
+  "updated_at": "2026-10-04T18:17:59.756891",
+  "count": 2191,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68476,6 +68476,32 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "in north San jose area - Crescent village apartments",
       "search_snippet_long": "in north San jose area - Crescent village apartments from Oct 1st to Nov 17th. I am female working professional"
+    },
+    {
+      "listing_id": "2023577905000448",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1700,
+      "neighborhood": "Richmond District",
+      "area": "San Francisco",
+      "available_from": "2026-11-02",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023577905000448",
+      "posted_at": "Sunday 4 October 2026 at 16:35",
+      "first_scraped_at": "2026-10-05T00:00:02.983763+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in 2BR/1BR the Central Richmond | $1,700 + utilities",
+      "search_snippet_long": "in 2BR/1BR the Central Richmond | $1,700 + utilities | November 2nd move-in Hello! My roommate is moving out and"
     }
   ]
 }

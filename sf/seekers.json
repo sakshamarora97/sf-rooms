@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T17:18:52.206498",
-  "count": 2899,
+  "updated_at": "2026-10-04T18:17:59.756891",
+  "count": 2900,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86875,6 +86875,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Francisco to start a job 12/7 looking to sign",
       "search_snippet_long": "Francisco to start a job 12/7 looking to sign a lease the week of 11/4-11/7 while I am in town"
+    },
+    {
+      "listing_id": "4735761766658826",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "He is a 26-year-old working in tech after grad school, seeking a 2\u20133 month sublease. He is tidy and quiet, in-office 4\u20135 days/week, enjoys coffee shops, reading/writing, and prefers a 1BR or studio with parking but is open to a roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4735761766658826",
+      "posted_at": "Sunday 4 October 2026 at 17:10",
+      "first_scraped_at": "2026-10-05T01:00:02.746078+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Month Sublease Hi y'all! I'm looking for a temporary",
+      "search_snippet_long": "Month Sublease Hi y'all! I'm looking for a temporary place in San Francisco but also open to downtown San Mateo."
     }
   ]
 }
