@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T07:17:45.232172",
-  "count": 2909,
+  "updated_at": "2026-10-05T08:18:14.456662",
+  "count": 2910,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87175,6 +87175,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Room / Apartment / Sublet in San Francisco \u2013",
       "search_snippet_long": "Room / Apartment / Sublet in San Francisco \u2013 Dec 1 Move-In | Budget up to $1,700 Hi, I\u2019m Sehaj!"
+    },
+    {
+      "listing_id": "4736450126589990",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Presidio",
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 25,
+      "bio": "They are a 25-year-old who works at USF and is looking for a room in a 3\u20134BR near the Presidio or close to USF. They have a friendly 5-year-old dog, are fairly clean, enjoy shared activities (cooking, game/movie nights, walks), and don\u2019t host big parties.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4736450126589990",
+      "posted_at": "Monday 5 October 2026 at 07:34",
+      "first_scraped_at": "2026-10-05T15:00:05.893787+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room or to apply with people! Wondering if there",
+      "search_snippet_long": "room or to apply with people! Wondering if there would be a few people interested in applying to a place"
     }
   ]
 }
