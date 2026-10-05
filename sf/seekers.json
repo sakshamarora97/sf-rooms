@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T12:18:20.785209",
-  "count": 2913,
+  "updated_at": "2026-10-05T13:18:21.472781",
+  "count": 2915,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87291,6 +87291,63 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "female roommate | FiDi & SoMa/ 1st\u20133rd St area",
       "search_snippet_long": "female roommate | FiDi & SoMa/ 1st\u20133rd St area I\u2019m looking for a female roommate to team up with and"
+    },
+    {
+      "listing_id": "4736696146565388",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto",
+        "Mountain View",
+        "Redwood City",
+        "San Carlos"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "She is a 28-year-old marketing professional at a tech company looking for a female roommate to share a luxury 2B2B apartment. Clean, considerate, occasionally hosts small gatherings, enjoys hiking, coffee, and making videos.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4736696146565388",
+      "posted_at": "Monday 5 October 2026 at 12:15",
+      "first_scraped_at": "2026-10-05T20:00:04.962962+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a 28-year-old woman working in marketing at a tech",
+      "search_snippet_long": "a 28-year-old woman working in marketing at a tech company. I\u2019ve lived in Palo Alto for the past two years"
+    },
+    {
+      "listing_id": "2024343024923936",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Richmond District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 30,
+      "bio": "30-year-old hospitality worker moving to San Francisco for a new job, seeking housing in the Richmond District with parking. Non-smoker, LGBTQIA-friendly, works evenings, enjoys running and lifting, and is very social.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2024343024923936",
+      "posted_at": "Monday 5 October 2026 at 12:34",
+      "first_scraped_at": "2026-10-05T20:00:04.962962+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "moving into SF for work (in the Richmond district).",
+      "search_snippet_long": "moving into SF for work (in the Richmond district). I'll be moving by myself and happy to move ASAP. Currently"
     }
   ]
 }

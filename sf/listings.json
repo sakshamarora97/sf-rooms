@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T12:18:20.785209",
-  "count": 2207,
+  "updated_at": "2026-10-05T13:18:21.472781",
+  "count": 2208,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69000,6 +69000,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Mission with walk in closet- $960/mo (under $1K!) \u2014",
       "search_snippet_long": "Mission with walk in closet- $960/mo (under $1K!) \u2014 Available now. Flexible Move In. Super close to 24th St BART"
+    },
+    {
+      "listing_id": "2024314014926837",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Adams Point",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2026-10-22",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "yard",
+        "fiber_internet",
+        "high_ceilings",
+        "storage"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2024314014926837",
+      "posted_at": "Monday 5 October 2026 at 11:42",
+      "first_scraped_at": "2026-10-05T20:00:04.962962+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "or 2 week sublet in Adams Point in Oakland!",
+      "search_snippet_long": "or 2 week sublet in Adams Point in Oakland! Could move- in ASAP. Move out by 22nd of October as"
     }
   ]
 }
