@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T10:17:45.091308",
-  "count": 2203,
+  "updated_at": "2026-10-05T11:17:44.987446",
+  "count": 2205,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68879,6 +68879,64 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Hill High-Rise 2B2B Sublease | ~$1,000 Below Current Market",
       "search_snippet_long": "Hill High-Rise 2B2B Sublease | ~$1,000 Below Current Market Rate | Great Views Subleasing a 2B2B apartment near Rincon Hill"
+    },
+    {
+      "listing_id": "1379994117234165",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2050,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "on_site_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1379994117234165",
+      "posted_at": "Monday 5 October 2026 at 10:30",
+      "first_scraped_at": "2026-10-05T18:00:07.741576+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "- OPEN TO 6 or 9 MONTH LEASE! If",
+      "search_snippet_long": "- OPEN TO 6 or 9 MONTH LEASE! If your housing plan is not working out, or you are looking"
+    },
+    {
+      "listing_id": "1379978727235704",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "laundry",
+        "gym"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "K Street Flats",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1379978727235704",
+      "posted_at": "Monday 5 October 2026 at 10:07",
+      "first_scraped_at": "2026-10-05T18:00:07.741576+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "K Street Flats, Downtown Berkeley Mid-October to beginning of",
+      "search_snippet_long": "K Street Flats, Downtown Berkeley Mid-October to beginning of January Hi! I'm a Berkeley grad student subletting my room for"
     }
   ]
 }
