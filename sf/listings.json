@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T21:18:23.498775",
-  "count": 2194,
+  "updated_at": "2026-10-04T22:19:56.038540",
+  "count": 2196,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -68562,6 +68562,65 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "poster here I\u2019m getting a head start on finding",
       "search_snippet_long": "poster here I\u2019m getting a head start on finding a great roommate for our Richmond District home! The space: A"
+    },
+    {
+      "listing_id": "2023713161653589",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Richmond District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "rent_controlled",
+        "no_neighbors_above_or_below"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023713161653589",
+      "posted_at": "Sunday 4 October 2026 at 20:32",
+      "first_scraped_at": "2026-10-05T04:00:03.586803+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "poster here I\u2019m getting a head start on finding",
+      "search_snippet_long": "poster here I\u2019m getting a head start on finding a great roommate for our Richmond District home! The space: A"
+    },
+    {
+      "listing_id": "2023712991653606",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Bayview",
+      "area": "San Francisco",
+      "available_from": "2026-10-19",
+      "available_until": "2026-11-10",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023712991653606",
+      "posted_at": "Sunday 4 October 2026 at 20:32",
+      "first_scraped_at": "2026-10-05T04:00:03.586803+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and bathroom available while I\u2019m traveling Oct 19-Nov 10",
+      "search_snippet_long": "and bathroom available while I\u2019m traveling Oct 19-Nov 10 I\u2019m renting out the guest bedroom and bathroom in my 2bd/2ba"
     },
     {
       "listing_id": "2023704308321141",

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-04T21:18:23.498775",
-  "count": 2903,
+  "updated_at": "2026-10-04T22:19:56.038540",
+  "count": 2905,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -86996,6 +86996,73 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a room! Hello! My name is Halie (25 she/her)",
       "search_snippet_long": "a room! Hello! My name is Halie (25 she/her) and I\u2019m looking to fill a room starting Nov 1st. I"
+    },
+    {
+      "listing_id": "4735969556638047",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "NoPa",
+        "North Beach",
+        "Pacific Heights",
+        "Noe Valley",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "They are a 28-year-old software engineer who commutes to the South Bay twice a week and works from the San Francisco office on other days. They enjoy traveling, play volleyball, run, bike, and ski, occasionally DJ, are social, enjoy cooking, and keep their space clean and tidy.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4735969556638047",
+      "posted_at": "Sunday 4 October 2026 at 21:53",
+      "first_scraped_at": "2026-10-05T05:00:03.355726+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Room - Move in last week of October I\u2019m",
+      "search_snippet_long": "Room - Move in last week of October I\u2019m looking for a long-term lease for a private room, ideally with"
+    },
+    {
+      "listing_id": "2023761338315438",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "Mission District",
+        "Hayes Valley",
+        "Haight-Ashbury",
+        "Pacific Heights",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old working in big tech who is clean, easygoing, keeps to themselves, will be in the office 3-5 days/week, and enjoys video games and the gym.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2023761338315438",
+      "posted_at": "Sunday 4 October 2026 at 21:55",
+      "first_scraped_at": "2026-10-05T05:00:03.355726+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "or rooms in late Oct / early Nov (<",
+      "search_snippet_long": "or rooms in late Oct / early Nov (< $3K budget) Hey folks, I'm moving to SF later this month"
     }
   ]
 }
