@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T21:19:36.356628",
-  "count": 2221,
+  "updated_at": "2026-10-05T22:18:46.814626",
+  "count": 2223,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69440,6 +69440,77 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for someone to take my single room from January\u2013May!",
       "search_snippet_long": "for someone to take my single room from January\u2013May! Location: About a 5-minute walk from campus Room: Private bedroom in"
+    },
+    {
+      "listing_id": "4737063916528611",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 850,
+      "neighborhood": "Ingleside",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "5B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "microwave",
+        "outdoor_patio",
+        "wifi",
+        "storage",
+        "furnished_shared_spaces"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4737063916528611",
+      "posted_at": "Monday 5 October 2026 at 21:02",
+      "first_scraped_at": "2026-10-06T05:00:03.506272+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "this for my housemates Gaby (she/her, 29), Athena (she/her,",
+      "search_snippet_long": "this for my housemates Gaby (she/her, 29), Athena (she/her, 24), Lauryn (she/her, 21), and I (she/they, 26) as we search"
+    },
+    {
+      "listing_id": "4736908919877444",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1500,
+      "neighborhood": "Parkmerced",
+      "area": "San Francisco",
+      "available_from": "2026-10-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "fitness_center",
+        "resident_lounge",
+        "laundry_facilities",
+        "bike_storage",
+        "parking",
+        "package_lockers",
+        "walking_trails",
+        "outdoor_spaces",
+        "grilling_areas",
+        "community_garden"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "any",
+      "building_name": "Parkmerced",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4736908919877444",
+      "posted_at": "Monday 5 October 2026 at 17:23",
+      "first_scraped_at": "2026-10-06T05:00:03.506272+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "PRIVATE BATH AVAILABLE \u2014 PARKMERCED, SF \u2014 $1,500/MONTH Hi",
+      "search_snippet_long": "PRIVATE BATH AVAILABLE \u2014 PARKMERCED, SF \u2014 $1,500/MONTH Hi everyone! My name is Jinesh. I\u2019m a working professional moving to"
     }
   ]
 }
