@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T17:17:35.175889",
-  "count": 2212,
+  "updated_at": "2026-10-05T18:18:44.803740",
+  "count": 2213,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69158,6 +69158,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "ROOMMATE SF - INNER RICHMOND 3 bed / 1.5",
       "search_snippet_long": "ROOMMATE SF - INNER RICHMOND 3 bed / 1.5 bath house | $1,371/month + utilities | November 1st move-in We\u2019re"
+    },
+    {
+      "listing_id": "1380197437213833",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "water_included",
+        "garbage_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1380197437213833",
+      "posted_at": "Monday 5 October 2026 at 17:26",
+      "first_scraped_at": "2026-10-06T01:00:05.486884+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "THIS ONE\u2019S WORTH A LOOK! 1 Bed | 1",
+      "search_snippet_long": "THIS ONE\u2019S WORTH A LOOK! 1 Bed | 1 Bath | Water & garbage included Comment \u201cINFO\u201d for pricing and"
     }
   ]
 }

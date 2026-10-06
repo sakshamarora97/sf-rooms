@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T17:17:35.175889",
-  "count": 2917,
+  "updated_at": "2026-10-05T18:18:44.803740",
+  "count": 2920,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87406,6 +87406,101 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "(25). i'm looking for housing in sf starting november",
       "search_snippet_long": "(25). i'm looking for housing in sf starting november 1-- i grew up in the bay area and am moving"
+    },
+    {
+      "listing_id": "4736895043212165",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Mission District",
+        "Nob Hill",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "Works in sales and will be in the office five days a week. Active and social\u2014runs, climbs, races sailboats on weekends, cooks and keeps shared spaces tidy.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4736895043212165",
+      "posted_at": "Monday 5 October 2026 at 17:03",
+      "first_scraped_at": "2026-10-06T01:00:05.486884+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room to rent! Hi! My name is Casey and",
+      "search_snippet_long": "room to rent! Hi! My name is Casey and I just moved back to the Bay Area for a new"
+    },
+    {
+      "listing_id": "2024484878243084",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 700,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "North San Jose",
+        "Milpitas",
+        "Santa Clara",
+        "Sunnyvale",
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "She is a student moving for an internship and is usually busy.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2024484878243084",
+      "posted_at": "Monday 5 October 2026 at 17:27",
+      "first_scraped_at": "2026-10-06T01:00:05.486884+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a private or shared Room Hi everyone! I\u2019m",
+      "search_snippet_long": "for a private or shared Room Hi everyone! I\u2019m looking for a room to rent starting end of October or"
+    },
+    {
+      "listing_id": "2024443704913868",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "NoPa",
+        "Mission District",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Mid-30s and currently between jobs, they are clean, quiet, and keep shared spaces tidy. They enjoy walking, music, and low-key evenings, have two well-behaved indoor cats, and prefer a female roommate but are open depending on the household vibe.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2024443704913868",
+      "posted_at": "Monday 5 October 2026 at 16:00",
+      "first_scraped_at": "2026-10-06T01:00:05.486884+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Jesse, mid-30s, and looking for a room in a",
+      "search_snippet_long": "Jesse, mid-30s, and looking for a room in a walkable SF spot like NoPa, the Mission, North Beach, or something"
     }
   ]
 }
