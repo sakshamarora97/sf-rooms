@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T09:18:17.747582",
-  "count": 2228,
+  "updated_at": "2026-10-06T10:19:37.090247",
+  "count": 2229,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69665,6 +69665,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "at One Powell St A rare sublease opportunity is",
       "search_snippet_long": "at One Powell St A rare sublease opportunity is available now at the historic The Lofts at One Powell! Experience"
+    },
+    {
+      "listing_id": "4737662053135464",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 300,
+      "neighborhood": "South Beach",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-08-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "indoor_parking",
+        "secure_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4737662053135464",
+      "posted_at": "Tuesday 6 October 2026 at 09:23",
+      "first_scraped_at": "2026-10-06T17:00:03.655827+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Available \u2013 King & 4th / Caltrain Designated parking",
+      "search_snippet_long": "Available \u2013 King & 4th / Caltrain Designated parking spot available in a secure indoor condo building garage, directly across"
     }
   ]
 }
