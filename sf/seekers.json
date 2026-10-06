@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T19:18:07.477916",
-  "count": 2920,
+  "updated_at": "2026-10-05T20:19:18.820033",
+  "count": 2921,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87501,6 +87501,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Jesse, mid-30s, and looking for a room in a",
       "search_snippet_long": "Jesse, mid-30s, and looking for a room in a walkable SF spot like NoPa, the Mission, North Beach, or something"
+    },
+    {
+      "listing_id": "4736979836537019",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a working professional seeking a private room in San Jose.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4736979836537019",
+      "posted_at": "Monday 5 October 2026 at 19:03",
+      "first_scraped_at": "2026-10-06T03:00:05.023552+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Hello Everyone, I am a working professional looking for",
+      "search_snippet_long": "Hello Everyone, I am a working professional looking for a private room to rent in San Jose. Please let me"
     }
   ]
 }

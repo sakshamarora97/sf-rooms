@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-05T19:18:07.477916",
-  "count": 2216,
+  "updated_at": "2026-10-05T20:19:18.820033",
+  "count": 2218,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69285,6 +69285,60 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Mission Bay | Starting November 1 I\u2019m looking for",
       "search_snippet_long": "Mission Bay | Starting November 1 I\u2019m looking for someone to sublet my beautiful 1-bedroom apartment at Mission Bay The"
+    },
+    {
+      "listing_id": "2024562708235301",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1000,
+      "neighborhood": "Fremont",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2027-09-30",
+      "unit_config": "2B2B",
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "vegetarian male only",
+      "building_name": "Embark Apartments",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2024562708235301",
+      "posted_at": "Monday 5 October 2026 at 19:40",
+      "first_scraped_at": "2026-10-06T03:00:05.023552+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "\u2013 EMBARK APARTMENTS, FREMONT Looking for a vegetarian male",
+      "search_snippet_long": "\u2013 EMBARK APARTMENTS, FREMONT Looking for a vegetarian male to occupy a large, spacious hall space in a luxurious 2B2B"
+    },
+    {
+      "listing_id": "2024554804902758",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Marina",
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": "2026-10-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2024554804902758",
+      "posted_at": "Monday 5 October 2026 at 19:27",
+      "first_scraped_at": "2026-10-06T03:00:05.023552+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "have a 1 bed, 1 bath sublet available in",
+      "search_snippet_long": "have a 1 bed, 1 bath sublet available in the Marina on Fillmore from October 15-31st. Utilities are included! DM"
     }
   ]
 }
