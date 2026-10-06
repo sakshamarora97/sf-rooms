@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T11:18:42.050483",
-  "count": 2233,
+  "updated_at": "2026-10-06T12:18:47.271370",
+  "count": 2234,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69826,6 +69826,32 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "1 bath private home 6Blks to UC Berkeley, 1",
       "search_snippet_long": "1 bath private home 6Blks to UC Berkeley, 1 parking spot, fully furnished, Washer dryer, Living rm, Dining rm, big"
+    },
+    {
+      "listing_id": "1380825703817673",
+      "post_type": "listing",
+      "listing_type": null,
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1380825703817673",
+      "posted_at": "Tuesday 6 October 2026 at 11:20",
+      "first_scraped_at": "2026-10-06T19:00:07.501991+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "APT B, Berkeley, CA 94708 | Zillow",
+      "search_snippet_long": "APT B, Berkeley, CA 94708 | Zillow"
     }
   ]
 }
