@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T06:18:10.567997",
-  "count": 2923,
+  "updated_at": "2026-10-06T07:17:36.350115",
+  "count": 2924,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87583,6 +87583,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "4th Roommate for Rare Spot in SF Hey everyone!",
       "search_snippet_long": "4th Roommate for Rare Spot in SF Hey everyone! My name is Itbaan. My friends Carson, Rohan, and I (Stanford"
+    },
+    {
+      "listing_id": "28572340539089896",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "in-law",
+        "ADU"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 32,
+      "bio": "She is a 32-year-old full-time administrative/scheduling worker commuting to Burlingame, clean, respectful, easygoing, and independent; enjoys cooking/baking, motorcycle riding, fishing, gold panning, and outdoors activities.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28572340539089896",
+      "posted_at": "Tuesday 6 October 2026 at 06:23",
+      "first_scraped_at": "2026-10-06T14:00:03.112686+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "a 32-year-old woman looking for a room, studio, in-law",
+      "search_snippet_long": "a 32-year-old woman looking for a room, studio, in-law unit, or other housing situation in San Francisco or nearby. My"
     }
   ]
 }
