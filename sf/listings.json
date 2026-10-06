@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T07:17:36.350115",
-  "count": 2226,
+  "updated_at": "2026-10-06T08:17:24.902853",
+  "count": 2228,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69611,6 +69611,60 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "3 blocks from the UC Berkeley campus 4-bedroom 2-bathroom",
       "search_snippet_long": "3 blocks from the UC Berkeley campus 4-bedroom 2-bathroom unit | 7 occupants | MALE ONLY UNIT Shared Rooms starting"
+    },
+    {
+      "listing_id": "4737576339810702",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Inner Sunset",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-02-28",
+      "unit_config": "4B1.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4737576339810702",
+      "posted_at": "Tuesday 6 October 2026 at 07:47",
+      "first_scraped_at": "2026-10-06T15:00:04.844625+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "FRIEND*** Looking for someone to take over my lease",
+      "search_snippet_long": "FRIEND*** Looking for someone to take over my lease starting ASAP until the end of February. It\u2019s a furnished room"
+    },
+    {
+      "listing_id": "28571035485887068",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Union Square",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-01-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Lofts at One Powell",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28571035485887068",
+      "posted_at": "Tuesday 6 October 2026 at 06:23",
+      "first_scraped_at": "2026-10-06T15:00:04.844625+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "at One Powell St A rare sublease opportunity is",
+      "search_snippet_long": "at One Powell St A rare sublease opportunity is available now at the historic The Lofts at One Powell! Experience"
     }
   ]
 }
