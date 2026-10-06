@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T12:18:47.271370",
-  "count": 2234,
+  "updated_at": "2026-10-06T13:17:40.569435",
+  "count": 2235,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69852,6 +69852,41 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "APT B, Berkeley, CA 94708 | Zillow",
       "search_snippet_long": "APT B, Berkeley, CA 94708 | Zillow"
+    },
+    {
+      "listing_id": "4737830873118582",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 800,
+      "neighborhood": "Visitacion Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_bath",
+        "dishwasher",
+        "stove",
+        "oven",
+        "microwave",
+        "professional_kitchen",
+        "views"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4737830873118582",
+      "posted_at": "Tuesday 6 October 2026 at 12:40",
+      "first_scraped_at": "2026-10-06T20:00:05.108211+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "from every room of this beautiful 1906 Victorian! Cozy",
+      "search_snippet_long": "from every room of this beautiful 1906 Victorian! Cozy petite minimalist bedroom awaits you in Visitacion Valley. * Just enough"
     }
   ]
 }
