@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T13:17:40.569435",
-  "count": 2235,
+  "updated_at": "2026-10-06T14:17:53.412187",
+  "count": 2236,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -69887,6 +69887,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "from every room of this beautiful 1906 Victorian! Cozy",
       "search_snippet_long": "from every room of this beautiful 1906 Victorian! Cozy petite minimalist bedroom awaits you in Visitacion Valley. * Just enough"
+    },
+    {
+      "listing_id": "4737880566446946",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2200,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": "2027-09-30",
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "top_floor",
+        "golden_gate_view",
+        "common_living_room",
+        "balcony",
+        "rooftop"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "male only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4737880566446946",
+      "posted_at": "Tuesday 6 October 2026 at 13:49",
+      "first_scraped_at": "2026-10-06T21:00:02.875941+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Room in 3bd/1.5ba - Nob Hill - $2200/mo -",
+      "search_snippet_long": "Room in 3bd/1.5ba - Nob Hill - $2200/mo - Available Now Looking for a male roommate to fill a room"
     }
   ]
 }

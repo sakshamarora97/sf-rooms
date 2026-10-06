@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T13:17:40.569435",
-  "count": 2929,
+  "updated_at": "2026-10-06T14:17:53.412187",
+  "count": 2930,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87759,6 +87759,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "- December Hello! I\u2019m Michael, a writer and a",
       "search_snippet_long": "- December Hello! I\u2019m Michael, a writer and a political organizer working on grassroots AI campaigning. I\u2019m looking for housing"
+    },
+    {
+      "listing_id": "2025229364835302",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-18",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 29,
+      "bio": "She is a 29-year-old clean and respectful person seeking a spare room, flexible on move-in date around October 18\u201319.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2025229364835302",
+      "posted_at": "Tuesday 6 October 2026 at 13:08",
+      "first_scraped_at": "2026-10-06T21:00:02.875941+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a spare room for an ideal move in",
+      "search_snippet_long": "for a spare room for an ideal move in of Oct 18th/19th but i am flexible I am a 29F,"
     }
   ]
 }
