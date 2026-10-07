@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T07:18:41.918590",
-  "count": 2250,
+  "updated_at": "2026-10-07T08:17:41.045075",
+  "count": 2251,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70362,6 +70362,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "to take over my Bowles Hall lease for the",
       "search_snippet_long": "to take over my Bowles Hall lease for the rest of the academic year. Bowles has a great community, lots"
+    },
+    {
+      "listing_id": "2025566778134894",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1890,
+      "neighborhood": "NoPa",
+      "area": "San Francisco",
+      "available_from": "2026-10-12",
+      "available_until": null,
+      "unit_config": "4B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "dishwasher",
+        "bay_windows",
+        "hardwood_floors",
+        "high_ceilings",
+        "storage_closet",
+        "natural_light",
+        "eat-in_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2025566778134894",
+      "posted_at": "Tuesday 6 October 2026 at 23:50",
+      "first_scraped_at": "2026-10-07T14:00:04.767840+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "4-bed 1.5 ba Victorian | NoPa Looking for a",
+      "search_snippet_long": "4-bed 1.5 ba Victorian | NoPa Looking for a fourth roommate to join us in a full-floor rent controlled Victorian"
     }
   ]
 }
