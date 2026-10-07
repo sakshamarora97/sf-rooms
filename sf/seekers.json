@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T22:18:49.845948",
-  "count": 2941,
+  "updated_at": "2026-10-07T06:19:03.901581",
+  "count": 2944,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -88109,6 +88109,86 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "room URGENTLY Hello everyone URGENT looking for a room",
       "search_snippet_long": "room URGENTLY Hello everyone URGENT looking for a room availability now in October looking for a longer stay possibly and"
+    },
+    {
+      "listing_id": "4738233093078360",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are recent graduates seeking two female roommates to apply for a house in the Mission. They want a clean, friendly, homey environment and hope to be friends with their roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738233093078360",
+      "posted_at": "Tuesday 6 October 2026 at 22:12",
+      "first_scraped_at": "2026-10-07T13:00:03.677333+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "friend and I are looking for two other girls",
+      "search_snippet_long": "friend and I are looking for two other girls to apply for a beautiful house in the Mission with us"
+    },
+    {
+      "listing_id": "28569920882665195",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-31",
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": 24,
+      "bio": "They are a 24-year-old Swedish tourist who is clean, easygoing, social, and a non-smoker seeking a furnished room to sublet.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28569920882665195",
+      "posted_at": "Wednesday 7 October 2026 at 05:11",
+      "first_scraped_at": "2026-10-07T13:00:03.677333+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "looking for a room to sublet in San Francisco,",
+      "search_snippet_long": "looking for a room to sublet in San Francisco, starting ASAP until December, with the possibility of extending through the"
+    },
+    {
+      "listing_id": "2025527608138811",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 29,
+      "bio": "She is a 29-year-old non-smoker who works from home, is clean, and is seeking a short-term sublet for November\u2013December in the San Francisco area.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2025527608138811",
+      "posted_at": "Tuesday 6 October 2026 at 22:39",
+      "first_scraped_at": "2026-10-07T13:00:03.677333+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "anyone subleasing their room for November\u2013December, perhaps while traveling",
+      "search_snippet_long": "anyone subleasing their room for November\u2013December, perhaps while traveling or away? I need temporary accommodation in the Bay Area, preferably"
     }
   ]
 }
