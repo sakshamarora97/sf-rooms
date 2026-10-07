@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T15:19:07.294163",
-  "count": 2956,
+  "updated_at": "2026-10-07T16:18:29.519232",
+  "count": 2958,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -88525,6 +88525,62 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a room or apartment to sublet in",
       "search_snippet_long": "looking for a room or apartment to sublet in San Francisco, starting January 9 until April 24th. I\u2019m 28 and"
+    },
+    {
+      "listing_id": "2026142384744000",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 28,
+      "bio": "She is a 28-year-old software engineer relocating to San Francisco and working downtown. She is clean, responsible, easygoing, respectful of personal space, and social\u2014enjoys hanging out, grabbing food/coffee, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026142384744000",
+      "posted_at": "Wednesday 7 October 2026 at 15:22",
+      "first_scraped_at": "2026-10-07T23:00:04.298668+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Private Room \u2013 SoMa / Downtown SF | Immediate",
+      "search_snippet_long": "Private Room \u2013 SoMa / Downtown SF | Immediate Move-In Hi everyone! I\u2019m a 28F Software Engineer relocating to San"
+    },
+    {
+      "listing_id": "1381768163723427",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-20",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1050,
+      "unit_type_wanted": [
+        "any"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is a friendly, easygoing person who enjoys dancing and cooking, often cooks for others, and keeps shared spaces clean.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1381768163723427",
+      "posted_at": "Wednesday 7 October 2026 at 15:59",
+      "first_scraped_at": "2026-10-07T23:00:04.298668+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for roommates/housing Looking to move out of my current",
+      "search_snippet_long": "for roommates/housing Looking to move out of my current place ASAP if anyone needs a roommate or has a single"
     }
   ]
 }

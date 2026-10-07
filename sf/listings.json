@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T15:19:07.294163",
-  "count": 2263,
+  "updated_at": "2026-10-07T16:18:29.519232",
+  "count": 2265,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70756,6 +70756,65 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "and a shared shower (apartment is 2 bedroom /",
       "search_snippet_long": "and a shared shower (apartment is 2 bedroom / 1.5 bath) in pac heights right by Alta plaza park and"
+    },
+    {
+      "listing_id": "1381746587058918",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1237,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "balcony",
+        "natural_light",
+        "living_room"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1381746587058918",
+      "posted_at": "Wednesday 7 October 2026 at 15:09",
+      "first_scraped_at": "2026-10-07T23:00:04.298668+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "room in a 3 bedroom all-girls apartment available for",
+      "search_snippet_long": "room in a 3 bedroom all-girls apartment available for SPRING semester starting mid-December or January! Rent is $1237/month. Super cute"
+    },
+    {
+      "listing_id": "1381744993725744",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 950,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "2B1B",
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "balcony",
+        "on_site_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female-identifying",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1381744993725744",
+      "posted_at": "Wednesday 7 October 2026 at 15:06",
+      "first_scraped_at": "2026-10-07T23:00:04.298668+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Shared Double, Southside \u2013 $950/mo + Utilities, Female-identifying Hello",
+      "search_snippet_long": "Shared Double, Southside \u2013 $950/mo + Utilities, Female-identifying Hello everyone! I\u2019m studying abroad for the Spring \u201827 semester and am"
     }
   ]
 }
