@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T19:17:38.093121",
-  "count": 2937,
+  "updated_at": "2026-10-06T20:19:04.495393",
+  "count": 2938,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87985,6 +87985,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "in San Francisco and my former roommate hasn\u2019t returned",
       "search_snippet_long": "in San Francisco and my former roommate hasn\u2019t returned my $1,195 deposit. We have a signed roommate agreement that mentions"
+    },
+    {
+      "listing_id": "1380375180529392",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-11",
+      "move_out_date": "2027-05-17",
+      "budget_min": 1000,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 23,
+      "bio": "A 23-year-old Korean exchange student from Yonsei University attending UC Berkeley Haas for Spring 2027. Clean, quiet, and respectful.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1380375180529392",
+      "posted_at": "Tuesday 6 October 2026 at 19:39",
+      "first_scraped_at": "2026-10-07T03:00:03.968361+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "2027 Housing/Sublease Hi everyone! I\u2019m a 23M Korean exchange",
+      "search_snippet_long": "2027 Housing/Sublease Hi everyone! I\u2019m a 23M Korean exchange student from Yonsei University, coming to UC Berkeley Haas for Spring"
     }
   ]
 }

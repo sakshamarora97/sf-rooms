@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T19:17:38.093121",
-  "count": 2245,
+  "updated_at": "2026-10-06T20:19:04.495393",
+  "count": 2247,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70211,6 +70211,67 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "someone to sublet my room (the room with the",
       "search_snippet_long": "someone to sublet my room (the room with the green couch) from November 15 to December 31 in South Mission"
+    },
+    {
+      "listing_id": "4738111849757151",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4990,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2026-12-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738111849757151",
+      "posted_at": "Tuesday 6 October 2026 at 19:27",
+      "first_scraped_at": "2026-10-07T03:00:03.968361+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "San Francisco Mission Bay I\u2019m going out of town",
+      "search_snippet_long": "San Francisco Mission Bay I\u2019m going out of town for a couple of months and looking for someone responsible, clean,"
+    },
+    {
+      "listing_id": "4738093293092340",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2900,
+      "neighborhood": "Japantown",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_laundry",
+        "ensuite_bathroom",
+        "walk_in_closet",
+        "rent_controlled"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738093293092340",
+      "posted_at": "Tuesday 6 October 2026 at 19:00",
+      "first_scraped_at": "2026-10-07T03:00:03.968361+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for 2b2b around Japantown on Webster St, San Francisco",
+      "search_snippet_long": "for 2b2b around Japantown on Webster St, San Francisco | You would pay $2900/month in rent controlled apartment. * private"
     }
   ]
 }
