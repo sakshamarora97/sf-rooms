@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T20:19:04.495393",
-  "count": 2938,
+  "updated_at": "2026-10-06T21:17:54.524602",
+  "count": 2939,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -88015,6 +88015,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "2027 Housing/Sublease Hi everyone! I\u2019m a 23M Korean exchange",
       "search_snippet_long": "2027 Housing/Sublease Hi everyone! I\u2019m a 23M Korean exchange student from Yonsei University, coming to UC Berkeley Haas for Spring"
+    },
+    {
+      "listing_id": "4738147119753624",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "in-law studio"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 33,
+      "bio": "He is a 33-year-old creative professional (graphic designer, music producer, video editor, and apparel designer) starting a garment brand and beginning a full-time logistics job on Polk Street. He is quiet, routine-oriented, non-smoking, and respectful of communal living.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738147119753624",
+      "posted_at": "Tuesday 6 October 2026 at 20:13",
+      "first_scraped_at": "2026-10-07T04:00:06.868293+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Spencer, and I am actively looking to",
+      "search_snippet_long": "name is Spencer, and I am actively looking to secure a quiet, long-term, or flexible room within San Francisco. Ideally,"
     }
   ]
 }
