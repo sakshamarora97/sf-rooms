@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T06:19:03.901581",
-  "count": 2944,
+  "updated_at": "2026-10-07T07:18:41.918590",
+  "count": 2946,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -88189,6 +88189,62 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "anyone subleasing their room for November\u2013December, perhaps while traveling",
       "search_snippet_long": "anyone subleasing their room for November\u2013December, perhaps while traveling or away? I need temporary accommodation in the Bay Area, preferably"
+    },
+    {
+      "listing_id": "1381445150422395",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1381445150422395",
+      "posted_at": "Wednesday 7 October 2026 at 06:44",
+      "first_scraped_at": "2026-10-07T14:00:04.767840+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for a room sublease or lease takeover for a",
+      "search_snippet_long": "for a room sublease or lease takeover for a friend. If you have a space available, pls text her number"
+    },
+    {
+      "listing_id": "1380966500470260",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1380966500470260",
+      "posted_at": "Tuesday 6 October 2026 at 16:06",
+      "first_scraped_at": "2026-10-07T14:00:04.767840+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "MOVE-IN ASAP Looking for someone to take over a",
+      "search_snippet_long": "MOVE-IN ASAP Looking for someone to take over a furnished room in a 2 bed 1 bath! Located Southside, a"
     }
   ]
 }
