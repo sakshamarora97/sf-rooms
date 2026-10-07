@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T13:17:54.004086",
-  "count": 2257,
+  "updated_at": "2026-10-07T14:18:45.607424",
+  "count": 2259,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70582,6 +70582,65 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "lovely little place in Mission Terrace is opening up",
       "search_snippet_long": "lovely little place in Mission Terrace is opening up a room Dec 1st! Area is safe (yes packages get delivered,"
+    },
+    {
+      "listing_id": "2026085731416332",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2700,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "parking",
+        "heater"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026085731416332",
+      "posted_at": "Wednesday 7 October 2026 at 13:22",
+      "first_scraped_at": "2026-10-07T21:00:04.885947+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "View in Hayes Valley Bedroom in a modern 2",
+      "search_snippet_long": "View in Hayes Valley Bedroom in a modern 2 story, 2 bed, 1.5 bath apartment in Hayes. Approx 1,000 sqft."
+    },
+    {
+      "listing_id": "1381693770397533",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female preferred",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1381693770397533",
+      "posted_at": "Wednesday 7 October 2026 at 13:16",
+      "first_scraped_at": "2026-10-07T21:00:04.885947+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "(girl preferably) Hi! Im urgently looking for a girl",
+      "search_snippet_long": "(girl preferably) Hi! Im urgently looking for a girl to sublease my spot in an apt for spring 2027 in"
     }
   ]
 }
