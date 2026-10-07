@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T12:18:46.938539",
-  "count": 2256,
+  "updated_at": "2026-10-07T13:17:54.004086",
+  "count": 2257,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70549,6 +70549,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "bed/2 bath apartment in Dogpatch at The Landing, available",
       "search_snippet_long": "bed/2 bath apartment in Dogpatch at The Landing, available Oct 8-Dec 28. $6,000/month including utilities and Wi-Fi, partial months prorated"
+    },
+    {
+      "listing_id": "2026068601418045",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1316,
+      "neighborhood": "Mission Terrace",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "kitchen_supplies",
+        "streaming_services",
+        "living_room",
+        "co_working_space"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026068601418045",
+      "posted_at": "Wednesday 7 October 2026 at 12:49",
+      "first_scraped_at": "2026-10-07T20:00:06.617263+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "lovely little place in Mission Terrace is opening up",
+      "search_snippet_long": "lovely little place in Mission Terrace is opening up a room Dec 1st! Area is safe (yes packages get delivered,"
     }
   ]
 }
