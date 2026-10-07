@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T11:19:07.481159",
-  "count": 2253,
+  "updated_at": "2026-10-07T12:18:46.938539",
+  "count": 2256,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70459,6 +70459,96 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "SF: Private Bed + Bath in a 2B2B |",
       "search_snippet_long": "SF: Private Bed + Bath in a 2B2B | $2,800/mo + utilities | Available Nov 1 Hi everyone! I'm moving"
+    },
+    {
+      "listing_id": "4738881376346865",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1450,
+      "neighborhood": "Castro",
+      "area": "San Francisco",
+      "available_from": "2026-10-09",
+      "available_until": "2026-10-19",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "balcony",
+        "garden"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738881376346865",
+      "posted_at": "Wednesday 7 October 2026 at 11:19",
+      "first_scraped_at": "2026-10-07T19:00:03.635736+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1450$/month in Castro/Ashbury Height I am looking to sublet",
+      "search_snippet_long": "1450$/month in Castro/Ashbury Height I am looking to sublet my room in Castro/Ashbury Heights (444X 17th street), for 1450$/month, all"
+    },
+    {
+      "listing_id": "4738880519680284",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 4320,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "lounge",
+        "package_lockers"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Avalon Mission Bay",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738880519680284",
+      "posted_at": "Wednesday 7 October 2026 at 11:17",
+      "first_scraped_at": "2026-10-07T19:00:03.635736+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "\u2013 $4,077 Effective Rent Hi! Posting my old studio",
+      "search_snippet_long": "\u2013 $4,077 Effective Rent Hi! Posting my old studio at Avalon Mission Bay in case anyone is looking for a"
+    },
+    {
+      "listing_id": "4738813389686997",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": 6000,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": "2026-10-08",
+      "available_until": "2026-12-28",
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": "The Landing",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738813389686997",
+      "posted_at": "Wednesday 7 October 2026 at 10:01",
+      "first_scraped_at": "2026-10-07T19:00:03.635736+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "bed/2 bath apartment in Dogpatch at The Landing, available",
+      "search_snippet_long": "bed/2 bath apartment in Dogpatch at The Landing, available Oct 8-Dec 28. $6,000/month including utilities and Wi-Fi, partial months prorated"
     }
   ]
 }
