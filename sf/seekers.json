@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T17:18:40.878735",
-  "count": 2933,
+  "updated_at": "2026-10-06T18:17:57.885896",
+  "count": 2936,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -87881,6 +87881,86 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Arushi and I\u2019m looking to move to San Francisco",
       "search_snippet_long": "Arushi and I\u2019m looking to move to San Francisco this month or in November. I am looking for a room"
+    },
+    {
+      "listing_id": "4738033753098294",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a studio or one-bedroom (1B1B), preferably an entire unit or a 1B1B in a shared apartment in San Francisco. They prefer modern, well-maintained places with good public transit and a reasonable commute to central SF, and plan to move in November.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738033753098294",
+      "posted_at": "Tuesday 6 October 2026 at 17:35",
+      "first_scraped_at": "2026-10-07T01:00:05.364444+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Studio / 1B1B in SF - Moving in November",
+      "search_snippet_long": "Studio / 1B1B in SF - Moving in November Hi everyone! I\u2019m looking for a studio or 1 bed /"
+    },
+    {
+      "listing_id": "4738013226433680",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-12",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are looking for a short-term sublet starting 2026-10-12 for one to three weeks while apartment hunting. Flexible and seeking inexpensive options (room or apartment).",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738013226433680",
+      "posted_at": "Tuesday 6 October 2026 at 17:09",
+      "first_scraped_at": "2026-10-07T01:00:05.364444+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for a sublet starting 10/12 for a week, two",
+      "search_snippet_long": "for a sublet starting 10/12 for a week, two or three! I'm flexible bc I'm just looking for something inexpensive"
+    },
+    {
+      "listing_id": "2025359418155630",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "She works about 30\u201335 hours per week at approximately $25/hour and is paid weekly. She describes herself as very clean and respectful and is seeking a room that accommodates her service dog (7-year-old German Shepherd).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2025359418155630",
+      "posted_at": "Tuesday 6 October 2026 at 17:40",
+      "first_scraped_at": "2026-10-07T01:00:05.364444+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room to rent for me and my service dog.",
+      "search_snippet_long": "room to rent for me and my service dog. I make about 25$ an hour. Work about 30-35 hours a"
     }
   ]
 }

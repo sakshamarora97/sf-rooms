@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-06T17:18:40.878735",
-  "count": 2244,
+  "updated_at": "2026-10-06T18:17:57.885896",
+  "count": 2245,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70185,6 +70185,32 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for Rent near UC Berkeley \u2014 Female Tenant Only",
       "search_snippet_long": "for Rent near UC Berkeley \u2014 Female Tenant Only I am looking for a female to take over my lease"
+    },
+    {
+      "listing_id": "2025339551490950",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2550,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": "2026-12-31",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2025339551490950",
+      "posted_at": "Tuesday 6 October 2026 at 17:00",
+      "first_scraped_at": "2026-10-07T01:00:05.364444+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "someone to sublet my room (the room with the",
+      "search_snippet_long": "someone to sublet my room (the room with the green couch) from November 15 to December 31 in South Mission"
     }
   ]
 }
