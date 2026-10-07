@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T10:18:17.544261",
-  "count": 2252,
+  "updated_at": "2026-10-07T11:19:07.481159",
+  "count": 2253,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70425,6 +70425,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "1BR sublet, $4,500/month, October 15 to end of January",
       "search_snippet_long": "1BR sublet, $4,500/month, October 15 to end of January (flexible) I'm subletting my fully furnished one-bedroom apartment in Nob Hill"
+    },
+    {
+      "listing_id": "4738851783016491",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2800,
+      "neighborhood": "Civic Center",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "resident_lounge",
+        "rooftop_party_space",
+        "fitness_center",
+        "dog_park",
+        "courtyard",
+        "shared_living_room",
+        "shared_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738851783016491",
+      "posted_at": "Wednesday 7 October 2026 at 10:42",
+      "first_scraped_at": "2026-10-07T18:00:06.937168+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "SF: Private Bed + Bath in a 2B2B |",
+      "search_snippet_long": "SF: Private Bed + Bath in a 2B2B | $2,800/mo + utilities | Available Nov 1 Hi everyone! I'm moving"
     }
   ]
 }

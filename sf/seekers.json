@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T10:18:17.544261",
-  "count": 2947,
+  "updated_at": "2026-10-07T11:19:07.481159",
+  "count": 2949,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -88271,6 +88271,62 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Mariono, I recently graduated from Columbia University",
       "search_snippet_long": "name is Mariono, I recently graduated from Columbia University this past May and I will be working full-time in SF"
+    },
+    {
+      "listing_id": "2025911611433744",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She is a flight attendant, born and raised in California and currently based in Chicago for work. She describes herself as clean, respectful, easygoing, will be away frequently for work, and is looking for female roommates to move in together starting in November.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2025911611433744",
+      "posted_at": "Wednesday 7 October 2026 at 08:42",
+      "first_scraped_at": "2026-10-07T18:00:06.937168+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "moving to the San Francisco area at the end",
+      "search_snippet_long": "moving to the San Francisco area at the end of October for work and looking for other girls who would"
+    },
+    {
+      "listing_id": "1381600317073545",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-06",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "2B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old male relocating to Berkeley for work in finance. He is organized, clean, LGBTQ+ friendly, prefers a friendly roommate, and enjoys board games and trying restaurants and coffee shops.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1381600317073545",
+      "posted_at": "Wednesday 7 October 2026 at 10:30",
+      "first_scraped_at": "2026-10-07T18:00:06.937168+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a roommate (female or male) to find",
+      "search_snippet_long": "looking for a roommate (female or male) to find a place together or join an existing lease in Berkeley. I\u2019m"
     }
   ]
 }
