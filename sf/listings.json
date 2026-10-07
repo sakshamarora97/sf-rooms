@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T09:17:43.412743",
-  "count": 2251,
+  "updated_at": "2026-10-07T10:18:17.544261",
+  "count": 2252,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70396,6 +70396,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "4-bed 1.5 ba Victorian | NoPa Looking for a",
       "search_snippet_long": "4-bed 1.5 ba Victorian | NoPa Looking for a fourth roommate to join us in a full-floor rent controlled Victorian"
+    },
+    {
+      "listing_id": "4738790399689296",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 4500,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": "2027-01-31",
+      "unit_config": "1BR",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "building_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4738790399689296",
+      "posted_at": "Wednesday 7 October 2026 at 09:36",
+      "first_scraped_at": "2026-10-07T17:00:04.328870+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1BR sublet, $4,500/month, October 15 to end of January",
+      "search_snippet_long": "1BR sublet, $4,500/month, October 15 to end of January (flexible) I'm subletting my fully furnished one-bedroom apartment in Nob Hill"
     }
   ]
 }
