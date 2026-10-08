@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T16:18:29.519232",
-  "count": 2958,
+  "updated_at": "2026-10-07T18:19:26.354583",
+  "count": 2959,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -88581,6 +88581,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for roommates/housing Looking to move out of my current",
       "search_snippet_long": "for roommates/housing Looking to move out of my current place ASAP if anyone needs a roommate or has a single"
+    },
+    {
+      "listing_id": "4739090892992580",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 5500,
+      "unit_type_wanted": [
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "South Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "She is a 28-year-old Cal alum working at a tech startup about to start a brand marketing role. No pets; clean, chill, and prefers a communicative roommate; plans to be in office about five days a week and enjoys live music, hiking, and dining out on weekends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4739090892992580",
+      "posted_at": "Wednesday 7 October 2026 at 16:14",
+      "first_scraped_at": "2026-10-08T00:00:04.934989+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for a female roommate to team up on a",
+      "search_snippet_long": "for a female roommate to team up on a 2B2B in SF - my budget for the two of us"
     }
   ]
 }
