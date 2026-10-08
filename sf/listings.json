@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T18:19:26.354583",
-  "count": 2269,
+  "updated_at": "2026-10-07T19:18:51.322792",
+  "count": 2270,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70933,6 +70933,41 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Up to 3 rooms are available for a Spring",
       "search_snippet_long": "Up to 3 rooms are available for a Spring semester sublease (January \u2013 May 2027) in a highly desirable, pristine,"
+    },
+    {
+      "listing_id": "1381852097048367",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 936,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "7B3B",
+      "room_type": null,
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "furnished",
+        "in_unit_laundry",
+        "in_unit_washer_dryer",
+        "security_cameras",
+        "controlled_access",
+        "online_maintenance",
+        "live_in_community_manager",
+        "kitchen_appliances"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "male only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1381852097048367",
+      "posted_at": "Wednesday 7 October 2026 at 18:58",
+      "first_scraped_at": "2026-10-08T02:00:04.646052+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Penthouse Suite | Just 4 blocks from the UC",
+      "search_snippet_long": "Penthouse Suite | Just 4 blocks from the UC Berkeley campus 7-bedroom 3-bathroom unit | 12 occupants | MALE ONLY"
     }
   ]
 }

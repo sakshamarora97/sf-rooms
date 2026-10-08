@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T18:19:26.354583",
-  "count": 2959,
+  "updated_at": "2026-10-07T19:18:51.322792",
+  "count": 2963,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -88610,6 +88610,121 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "for a female roommate to team up on a",
       "search_snippet_long": "for a female roommate to team up on a 2B2B in SF - my budget for the two of us"
+    },
+    {
+      "listing_id": "4739159319652404",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": "2026-11-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a short-term furnished sublet in the San Francisco area from October 15 to mid-November, preferably a private room with a private bathroom. They are open to chatting details over DM.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4739159319652404",
+      "posted_at": "Wednesday 7 October 2026 at 17:59",
+      "first_scraped_at": "2026-10-08T02:00:04.646052+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a short-term furnished sublet starting October 15th",
+      "search_snippet_long": "looking for a short-term furnished sublet starting October 15th (about a month, through mid-November). Private room with private bath preferred."
+    },
+    {
+      "listing_id": "2026211661403739",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": "2026-11-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026211661403739",
+      "posted_at": "Wednesday 7 October 2026 at 17:45",
+      "first_scraped_at": "2026-10-08T02:00:04.646052+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "furnished sublet. Start date: October 15. End date: November",
+      "search_snippet_long": "furnished sublet. Start date: October 15. End date: November 15. Location: Open to the SF Bay Area. Size: private room"
+    },
+    {
+      "listing_id": "2026208068070765",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "NoPa",
+        "Lower Haight",
+        "Duboce Triangle",
+        "Hayes Valley",
+        "Mission District",
+        "Noe Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old male who enjoys nature, live music, travel, basketball, and games. Social and outgoing but values solo time; keeps the home clean, cooks, and works on-site in biosciences in Redwood City five days a week.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026208068070765",
+      "posted_at": "Wednesday 7 October 2026 at 17:38",
+      "first_scraped_at": "2026-10-08T02:00:04.646052+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "am looking to join an existing lease or rent",
+      "search_snippet_long": "am looking to join an existing lease or rent with a group. My budget is roughly $2100 (or lower), and"
+    },
+    {
+      "listing_id": "1381848440382066",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1450,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Berkeley",
+        "Elmwood",
+        "Southside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "An incoming UC Berkeley student seeking a spring 2027 sublease, looking for a private bedroom with a budget of $1450/month including utilities. Prefers North Berkeley but is open to Elmwood or Southside and hopes to be friends with future roommates.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1381848440382066",
+      "posted_at": "Wednesday 7 October 2026 at 18:51",
+      "first_scraped_at": "2026-10-08T02:00:04.646052+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "spring 2027 sublease! Hello everyone! I\u2019m an incoming UC",
+      "search_snippet_long": "spring 2027 sublease! Hello everyone! I\u2019m an incoming UC Berkeley student and I\u2019m looking for housing preferably in North Berkeley"
     }
   ]
 }
