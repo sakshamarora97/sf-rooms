@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T13:06:26.967262",
-  "count": 2284,
+  "updated_at": "2026-10-08T14:06:08.209216",
+  "count": 2285,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -71437,6 +71437,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Another Female \u2013 Sunset District, SF Looking for a",
       "search_snippet_long": "Another Female \u2013 Sunset District, SF Looking for a FEMALE roommate to share a spacious bedroom with me in the"
+    },
+    {
+      "listing_id": "2026967127994859",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-02-29",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "AVA 55 Ninth",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026967127994859",
+      "posted_at": "Thursday 8 October 2026 at 13:12",
+      "first_scraped_at": "2026-10-08T21:00:07.341369+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "AVA 55 Ninth Step into contemporary city living right",
+      "search_snippet_long": "AVA 55 Ninth Step into contemporary city living right in the heart of San Francisco's dynamic SoMa neighborhood. This stylish"
     }
   ]
 }

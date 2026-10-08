@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T13:06:26.967262",
-  "count": 2979,
+  "updated_at": "2026-10-08T14:06:08.209216",
+  "count": 2981,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89192,6 +89192,59 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "an apartment (ideally 1 bedroom), Jan-April. Ideally near Mission",
       "search_snippet_long": "an apartment (ideally 1 bedroom), Jan-April. Ideally near Mission District, but open. Job will be in San Mateo."
+    },
+    {
+      "listing_id": "4740123189556017",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1040,
+      "budget_max": 1040,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Menlo Park",
+        "Berkeley"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a place to rent near Menlo Park or near UC Berkeley; looking for a shared room with rent around $1,040/month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4740123189556017",
+      "posted_at": "Thursday 8 October 2026 at 13:37",
+      "first_scraped_at": "2026-10-08T21:00:07.341369+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "am looking for a place to rent near Menlo",
+      "search_snippet_long": "am looking for a place to rent near Menlo park. please ping me if you are looking for roommates. And"
+    },
+    {
+      "listing_id": "1382528903647353",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-02",
+      "move_out_date": "2027-03-05",
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Is a chemistry PhD student at the University of Illinois Chicago who was accepted into a fellowship at Lawrence Berkeley National Lab; seeking temporary housing from 2026-11-02 to 2027-03-05 with a budget near $1000.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1382528903647353",
+      "posted_at": "Thursday 8 October 2026 at 13:27",
+      "first_scraped_at": "2026-10-08T21:00:07.341369+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "am currently a chemistry PhD student at UIC in",
+      "search_snippet_long": "am currently a chemistry PhD student at UIC in Chicago and was recently accepted into a fellowship program at LBNL."
     }
   ]
 }
