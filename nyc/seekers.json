@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T13:12:44.364985",
-  "count": 28,
+  "updated_at": "2026-10-08T14:12:05.248332",
+  "count": 31,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -825,6 +825,86 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Bushwick $1,200 /month total budget. Hi! I'm an economics",
       "search_snippet_long": "Bushwick $1,200 /month total budget. Hi! I'm an economics major at Baruch College. I just got to the city in"
+    },
+    {
+      "listing_id": "2241211966443598",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4200,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a 2-bedroom apartment in Manhattan as a two-person household; open to various neighborhoods and especially interested in direct landlord/sublet opportunities or lease takeovers.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241211966443598",
+      "posted_at": "Thursday 8 October 2026 at 13:18",
+      "first_scraped_at": "2026-10-08T21:06:13.621781+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "2-BEDROOM NYC APARTMENT Hi everyone! Chloe and I are",
+      "search_snippet_long": "2-BEDROOM NYC APARTMENT Hi everyone! Chloe and I are looking for a 2-bedroom apartment in Manhattan and would love to"
+    },
+    {
+      "listing_id": "2241174739780654",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": 24,
+      "bio": "He is a 24-year-old relocating from Nashville to pursue a career in music; enjoys concerts, Broadway, movie nights, and low-key evenings. He has two affectionate cats, is LGBTQ+ and 420-friendly, and is seeking a cat-friendly room with a roughly $1,200 budget.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241174739780654",
+      "posted_at": "Thursday 8 October 2026 at 12:14",
+      "first_scraped_at": "2026-10-08T21:06:13.621781+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "AVAILABLE Hey there! My name is Bryan and I",
+      "search_snippet_long": "AVAILABLE Hey there! My name is Bryan and I am relocating from Nashville, TN to pursue a different career in"
+    },
+    {
+      "listing_id": "28449807111355438",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a roommate to lease a 2BR/2BA in North Jersey; prefers newer or well-maintained communities and aims to start lease on 2026-11-15.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28449807111355438",
+      "posted_at": "Thursday 8 October 2026 at 13:42",
+      "first_scraped_at": "2026-10-08T21:06:13.621781+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Roommate / Lease-Sharing Partner \u2013 North Jersey Hi everyone!",
+      "search_snippet_long": "Roommate / Lease-Sharing Partner \u2013 North Jersey Hi everyone! I\u2019m looking for someone interested in sharing a 2 Bed /"
     }
   ]
 }
