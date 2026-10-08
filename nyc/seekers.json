@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T09:13:07.452563",
-  "count": 24,
+  "updated_at": "2026-10-08T10:14:30.893166",
+  "count": 25,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -706,6 +706,34 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "30 year old actor from the UK looking for",
       "search_snippet_long": "30 year old actor from the UK looking for roommates to join a lease starting November 1. I have a"
+    },
+    {
+      "listing_id": "2241045823126879",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Greenpoint"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two Columbia-affiliated roommates seeking a third occupant: one is a Columbia senior who will start a full-time job in December and the other is a recent Columbia graduate working in finance. Both describe themselves as clean, easygoing, and low-key on weekdays while social on weekends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241045823126879",
+      "posted_at": "Thursday 8 October 2026 at 09:05",
+      "first_scraped_at": "2026-10-08T17:07:26.340639+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for a Nov 1 lease in Greenpoint Hi! Two",
+      "search_snippet_long": "for a Nov 1 lease in Greenpoint Hi! Two of us are about to close on a 3-bed, 1-bath in"
     }
   ]
 }
