@@ -3,22 +3,22 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Unlisted Rooms — San Francisco Housing, Sublets & Roommates</title>
-<meta name="description" content="Browse real-time San Francisco housing listings scraped from Facebook groups. Find subleases, room rentals, lease takeovers, and roommates in SF neighborhoods updated hourly.">
-<meta name="keywords" content="San Francisco housing, SF room for rent, SF sublease, San Francisco roommate, SF sublet, Bay Area housing listings">
-<link rel="canonical" href="https://unlistedrooms.com/sf/">
+<title>Unlisted Rooms — NYC Housing, Sublets & Roommates</title>
+<meta name="description" content="Browse real-time NYC housing listings scraped from Facebook groups. Find subleases, room rentals, lease takeovers, and roommates in Manhattan, Brooklyn, Queens, Jersey City and Hoboken, updated hourly.">
+<meta name="keywords" content="NYC housing, New York room for rent, NYC sublease, Manhattan roommate, Brooklyn sublet, Jersey City apartments, NYC housing listings">
+<link rel="canonical" href="https://unlistedrooms.com/nyc/">
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://unlistedrooms.com/sf/">
-<meta property="og:title" content="Unlisted Rooms — San Francisco Housing, Sublets & Roommates">
-<meta property="og:description" content="Real-time SF housing listings scraped from Facebook groups. Subleases, room rentals, lease takeovers, and roommates — updated hourly.">
+<meta property="og:url" content="https://unlistedrooms.com/nyc/">
+<meta property="og:title" content="Unlisted Rooms — NYC Housing, Sublets & Roommates">
+<meta property="og:description" content="Real-time NYC housing listings scraped from Facebook groups. Subleases, room rentals, lease takeovers, and roommates — updated hourly.">
 <meta property="og:site_name" content="Unlisted Rooms">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Unlisted Rooms — San Francisco Housing, Sublets & Roommates">
-<meta name="twitter:description" content="Real-time SF housing listings scraped from Facebook groups. Updated hourly.">
+<meta name="twitter:title" content="Unlisted Rooms — NYC Housing, Sublets & Roommates">
+<meta name="twitter:description" content="Real-time NYC housing listings scraped from Facebook groups. Updated hourly.">
 <meta name="google-site-verification" content="pAtc5vYt9xrlUB2TRrlCaBdwJyTpOFX-O9HHWVsBdGI">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1GZ9FS6ZKP"></script>
@@ -826,16 +826,16 @@
 <header>
   <div style="position:relative;z-index:2">
     <h1>Unlisted Rooms</h1>
-    <div class="header-tagline" style="font-size:12px;color:#7a4a1a;margin-top:2px;font-weight:600">SF Bay Area housing posts from Facebook groups — organized, searchable, updated hourly.</div>
+    <div class="header-tagline" style="font-size:12px;color:#7a4a1a;margin-top:2px;font-weight:600">NYC metro housing posts from Facebook groups — organized, searchable, updated hourly.</div>
     <div class="header-tagline-sub" style="font-size:12px;color:#8a5a20;margin-top:1px;font-weight:400">Not a listing host — every result links back to the original Facebook post.</div>
   </div>
   <div class="spacer"></div>
   <nav class="city-switcher" aria-label="City">
-    <a href="/sf/" aria-current="page">SF</a>
-    <a href="/nyc/">NYC</a>
+    <a href="/sf/">SF</a>
+    <a href="/nyc/" aria-current="page">NYC</a>
   </nav>
   <button id="theme-btn" onclick="toggleTheme()" title="Toggle dark mode" class="theme-btn-el">🌙</button>
-  <!-- Golden Gate Bridge illustration -->
+  <!-- NYC skyline illustration -->
   <svg class="header-bridge" viewBox="0 0 560 80" preserveAspectRatio="xMidYMax meet" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <mask id="crescent-mask">
@@ -882,36 +882,55 @@
       <line x1="330" y1="67" x2="390" y2="67" stroke="#1e4a6a" stroke-width="1" opacity="0.6"/>
     </g>
 
-    <!-- ── Bridge structure (shared, colors shift in dark via CSS) ── -->
-    <path d="M 80 8 Q 230 54 380 8" fill="none" stroke="#9b3a2a" stroke-width="2.2"/>
-    <line x1="110" y1="16" x2="110" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="135" y1="22" x2="135" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="160" y1="30" x2="160" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="185" y1="37" x2="185" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="210" y1="43" x2="210" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="250" y1="49" x2="250" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="275" y1="51" x2="275" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="300" y1="49" x2="300" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="325" y1="44" x2="325" y2="62" stroke="#9b3a2a" stroke-width="1"/>
-    <line x1="350" y1="37" x2="350" y2="62" stroke="#9b3a2a" stroke-width="1"/>
+    <!-- ── Skyline ─────────────────────────────────────────────── -->
     <rect x="0" y="61" width="560" height="3" fill="#9b3a2a"/>
-    <rect x="74" y="4" width="12" height="58" rx="1" fill="#9b3a2a"/>
-    <rect x="70" y="12" width="20" height="4" rx="1" fill="#7a2d1e"/>
-    <rect x="70" y="24" width="20" height="4" rx="1" fill="#7a2d1e"/>
-    <rect x="70" y="36" width="20" height="4" rx="1" fill="#7a2d1e"/>
-    <rect x="374" y="4" width="12" height="58" rx="1" fill="#9b3a2a"/>
-    <rect x="370" y="12" width="20" height="4" rx="1" fill="#7a2d1e"/>
-    <rect x="370" y="24" width="20" height="4" rx="1" fill="#7a2d1e"/>
-    <rect x="370" y="36" width="20" height="4" rx="1" fill="#7a2d1e"/>
-    <line x1="80" y1="8" x2="0" y2="52" stroke="#9b3a2a" stroke-width="2.2"/>
-    <line x1="380" y1="8" x2="460" y2="52" stroke="#9b3a2a" stroke-width="2.2"/>
-
-    <!-- Tower lights (night only) -->
+    <rect x="40" y="36" width="22" height="26" fill="#9b3a2a"/>
+    <rect x="66" y="28" width="16" height="34" fill="#9b3a2a"/>
+    <rect x="86" y="40" width="26" height="22" fill="#9b3a2a"/>
+    <rect x="116" y="22" width="18" height="40" fill="#9b3a2a"/>
+    <rect x="138" y="34" width="30" height="28" fill="#9b3a2a"/>
+    <rect x="172" y="18" width="20" height="44" fill="#9b3a2a"/>
+    <rect x="196" y="38" width="24" height="24" fill="#9b3a2a"/>
+    <rect x="232" y="30" width="40" height="32" fill="#9b3a2a"/>
+    <rect x="276" y="40" width="22" height="22" fill="#9b3a2a"/>
+    <rect x="302" y="26" width="18" height="36" fill="#9b3a2a"/>
+    <rect x="328" y="22" width="18" height="40" fill="#9b3a2a"/>
+    <rect x="352" y="36" width="24" height="26" fill="#9b3a2a"/>
+    <rect x="380" y="30" width="16" height="32" fill="#9b3a2a"/>
+    <rect x="400" y="42" width="28" height="20" fill="#9b3a2a"/>
+    <rect x="428" y="48" width="16" height="14" fill="#9b3a2a"/>
+    <rect x="448" y="44" width="14" height="18" fill="#9b3a2a"/>
+    <rect x="240" y="20" width="24" height="10" fill="#9b3a2a"/>
+    <rect x="247" y="12" width="10" height="8" fill="#7a2d1e"/>
+    <line x1="252" y1="12" x2="252" y2="2" stroke="#9b3a2a" stroke-width="1.4"/>
+    <polygon points="328,22 337,3 346,22" fill="#7a2d1e"/>
+    <!-- Lit windows and beacons (night only) -->
     <g class="night-only">
-      <circle cx="80"  cy="5"  r="2.5" fill="#fbbf24" opacity="0.9"/>
-      <circle cx="380" cy="5"  r="2.5" fill="#fbbf24" opacity="0.9"/>
-      <circle cx="80"  cy="5"  r="5"   fill="#fbbf24" opacity="0.2"/>
-      <circle cx="380" cy="5"  r="5"   fill="#fbbf24" opacity="0.2"/>
+      <rect x="45" y="42" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="51" y="50" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="70" y="34" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="92" y="46" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="120" y="28" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="126" y="40" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="144" y="40" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="150" y="50" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="178" y="26" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="178" y="40" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="200" y="44" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="238" y="36" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="252" y="36" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="258" y="48" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="282" y="46" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="308" y="32" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="334" y="30" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="334" y="44" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="358" y="42" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="384" y="36" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="406" y="48" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <rect x="412" y="54" width="2" height="2" fill="#fbbf24" opacity="0.85"/>
+      <circle cx="252" cy="2" r="2.2" fill="#fbbf24" opacity="0.9"/>
+      <circle cx="252" cy="2" r="4.5" fill="#fbbf24" opacity="0.2"/>
+      <circle cx="337" cy="3" r="2.2" fill="#fbbf24" opacity="0.9"/>
     </g>
   </svg>
   <button id="report-issue-btn" onclick="openFeedbackModal('site_down')" title="Report the site being down or not updated">⚠ Report issue</button>
@@ -923,9 +942,9 @@
 
 
 <div class="tabs">
-  <div class="tab active" data-tab="listings">Listings <span class="badge" id="badge-listings">2274</span></div>
-  <div class="tab" data-tab="seekers">Room Seekers <span class="badge" id="badge-seekers">2967</span></div>
-  <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">462</span></div>
+  <div class="tab active" data-tab="listings">Listings <span class="badge" id="badge-listings">43</span></div>
+  <div class="tab" data-tab="seekers">Room Seekers <span class="badge" id="badge-seekers">18</span></div>
+  <div class="tab" data-tab="spam">Spam <span class="badge" id="badge-spam">18</span></div>
   <div class="spacer"></div>
   <div id="table-caption-tab"><span class="live-dot"></span><span id="table-caption" title="&#39;Updated&#39; means Unlisted Rooms checked for new posts at this time — it doesn&#39;t mean every listing has been reconfirmed by the poster."></span></div>
 </div>
@@ -934,18 +953,17 @@
 
 <!-- Listing filters -->
 <div class="filters" id="listing-filters">
-  <label title="Broader Bay Area region — San Francisco, East Bay, Peninsula, South Bay, or North Bay">Region
+  <label title="Broader NYC metro region — Manhattan, Brooklyn, Queens, or Jersey City & Hoboken">Region
     <select id="f-area">
       <option value="">Any</option>
-      <option value="San Francisco">San Francisco</option>
-      <option value="East Bay">East Bay</option>
-      <option value="The Peninsula">The Peninsula</option>
-      <option value="South Bay">South Bay</option>
-      <option value="North Bay">North Bay</option>
+      <option value="Manhattan">Manhattan</option>
+      <option value="Brooklyn">Brooklyn</option>
+      <option value="Queens">Queens</option>
+      <option value="Jersey City & Hoboken">Jersey City & Hoboken</option>
     </select>
   </label>
   <label>Neighborhood
-    <input type="text" id="f-neighborhood" placeholder="e.g. Mission">
+    <input type="text" id="f-neighborhood" placeholder="e.g. Astoria">
   </label>
   <label>Max Rent ($)
     <input type="number" id="f-rent" placeholder="e.g. 2500" min="0" step="100">
@@ -1003,14 +1021,13 @@
 
 <!-- Seeker filters -->
 <div class="filters" id="seeker-filters" style="display:none">
-  <label title="Broader Bay Area region — San Francisco, East Bay, Peninsula, South Bay, or North Bay">Region
+  <label title="Broader NYC metro region — Manhattan, Brooklyn, Queens, or Jersey City & Hoboken">Region
     <select id="sf-area">
       <option value="">Any</option>
-      <option value="San Francisco">San Francisco</option>
-      <option value="East Bay">East Bay</option>
-      <option value="The Peninsula">The Peninsula</option>
-      <option value="South Bay">South Bay</option>
-      <option value="North Bay">North Bay</option>
+      <option value="Manhattan">Manhattan</option>
+      <option value="Brooklyn">Brooklyn</option>
+      <option value="Queens">Queens</option>
+      <option value="Jersey City & Hoboken">Jersey City & Hoboken</option>
     </select>
   </label>
   <label>Max Budget ($)
@@ -1137,61 +1154,54 @@
 
 <!-- SEO_CONTENT_START -->
 <section id="static-preview" style="max-width:900px;margin:0 auto;padding:16px 20px">
-<h2 style="font-size:16px;margin:0 0 6px">Recent San Francisco Housing Listings — Updated 2026-10-08</h2>
-<p style="font-size:13px;color:#666;margin:0 0 10px">Showing 50 of 2274 San Francisco room rentals, subleases, lease takeovers, and roommates from Facebook groups — updated hourly. <noscript>Enable JavaScript for the full searchable, filterable view.</noscript></p>
+<h2 style="font-size:16px;margin:0 0 6px">Recent NYC Housing Listings — Updated 2026-10-08</h2>
+<p style="font-size:13px;color:#666;margin:0 0 10px">Showing 43 of 43 NYC room rentals, subleases, lease takeovers, and roommates from Facebook groups — updated hourly. <noscript>Enable JavaScript for the full searchable, filterable view.</noscript></p>
 <ul style="font-size:13px;line-height:1.7;padding-left:20px;margin:0">
-    <li>$2,300/month, North Beach, San Francisco, sublease, long term, 2B1B</li>
-    <li>$2,500/month, Richmond District, San Francisco, room rental, long term, available 2026-10-14, 4B2B</li>
-    <li>$4,050/month, Financial District, San Francisco, sublease, short term, available 2026-10-15, studio</li>
-    <li>lease takeover, long term, available 2026-10-11, studio</li>
-    <li>$936/month, Downtown Berkeley, East Bay, room rental, long term, 7B3B</li>
-    <li>$900/month, Bernal Heights, San Francisco, sublease, short term, available 2026-10-09</li>
-    <li>$800/month, Inner Richmond, San Francisco, room rental, long term, available 2026-10-18</li>
-    <li>Berkeley, East Bay, sublease, long term, available 2027-01-01</li>
-    <li>$1,400/month, Mission Bay, San Francisco, sublease, short term, available 2026-10-15, 2B</li>
-    <li>$1,237/month, Southside Berkeley, East Bay, room rental, long term, 3B</li>
-    <li>$950/month, Southside Berkeley, East Bay, sublease, long term, available 2027-01-01, 2B1B</li>
-    <li>$2,000/month, SoMa, San Francisco, sublease, long term</li>
-    <li>$2,000/month, SoMa, San Francisco, sublease, long term</li>
-    <li>$1,650/month, Noe Valley, San Francisco, sublease, short term, available 2026-11-01, 3B1B</li>
-    <li>$3,175/month, Pacific Heights, San Francisco, room rental, long term, 2B1.5B</li>
-    <li>$2,700/month, Hayes Valley, San Francisco, room rental, 2B1.5B</li>
-    <li>Downtown Berkeley, East Bay, sublease, long term</li>
-    <li>$1,316/month, Mission Terrace, San Francisco, sublease, short term, available 2026-12-01</li>
-    <li>$1,450/month, Castro, San Francisco, sublease, short term, available 2026-10-09</li>
-    <li>$4,320/month, Mission Bay, San Francisco, entire unit, long term, studio</li>
-    <li>$6,000/month, Dogpatch, San Francisco, entire unit, short term, available 2026-10-08, 2B2B</li>
-    <li>$2,800/month, Civic Center, San Francisco, sublease, long term, available 2026-11-01, 2B2B</li>
-    <li>$4,500/month, Nob Hill, San Francisco, sublease, long term, available 2026-10-15, 1BR</li>
-    <li>$1,890/month, NoPa, San Francisco, room rental, long term, available 2026-10-12, 4B1.5B</li>
-    <li>East Cut, San Francisco, sublease, short term, available 2026-11-23, 1B1B</li>
-    <li>$1,800/month, Redwood City, The Peninsula, room rental, long term</li>
-    <li>Berkeley, East Bay, lease takeover, long term</li>
-    <li>$4,990/month, Mission Bay, San Francisco, sublease, short term, available 2026-11-01, 1B1B</li>
-    <li>$2,900/month, Japantown, San Francisco, room rental, long term, 2B2B</li>
-    <li>$2,550/month, Mission District, San Francisco, sublease, short term, available 2026-11-15, 3B2B</li>
-    <li>Lower Pacific Heights, San Francisco, room rental, long term, available 2026-11-01, 7B4B</li>
-    <li>$900/month, Redwood City, The Peninsula, room rental</li>
-    <li>$1,350/month, Southside Berkeley, East Bay, room rental, available 2027-01-01</li>
-    <li>$900/month, Downtown Berkeley, East Bay, lease takeover, long term, 2B2B</li>
-    <li>$2,356/month, Civic Center, San Francisco, room rental, long term, 2B2B</li>
-    <li>$1,200/month, room rental, studio</li>
-    <li>$1,385/month, South Berkeley, East Bay, room rental</li>
-    <li>$2,200/month, Nob Hill, San Francisco, room rental, long term, available 2026-10-15, 3B1.5B</li>
-    <li>$2,200/month, Nob Hill, San Francisco, room rental, long term, available 2026-10-15, 3B1.5B</li>
-    <li>$800/month, Visitacion Valley, San Francisco, room rental, long term</li>
-    <li>Berkeley, East Bay</li>
-    <li>$5,504/month, Burlingame, The Peninsula, room rental, long term, available 2026-11-01, 2B2B</li>
-    <li>$1,250/month, Berkeley, East Bay, sublease, long term</li>
-    <li>$1,300/month, Berkeley, East Bay, sublease, long term, available 2027-01-01</li>
-    <li>entire unit, 2B1B</li>
-    <li>$300/month, South Beach, San Francisco, entire unit, long term</li>
-    <li>$1,800/month, Inner Sunset, San Francisco, lease takeover, long term, 4B1.5B</li>
-    <li>$2,000/month, Union Square, San Francisco, sublease, long term</li>
-    <li>Rincon Hill, San Francisco, entire unit, short term, available 2026-10-08, studio</li>
-    <li>$2,045/month, SoMa, San Francisco, room rental, long term, available 2026-12-01</li>
+    <li>Newport, Jersey City &amp; Hoboken, room rental, short term, available 2026-11-01, 3B2B</li>
+    <li>$1,830/month, Newport, Jersey City &amp; Hoboken, lease takeover, short term, available 2026-10-15, 3B2B</li>
+    <li>Newport, Jersey City &amp; Hoboken, room rental, long term</li>
+    <li>$3,800/month, Newport, Jersey City &amp; Hoboken, lease takeover, long term, available 2026-11-11, 1B1B</li>
+    <li>$1,175/month, Bed-Stuy, Brooklyn, room rental, long term, available 2026-11-01, 3B2B</li>
+    <li>$2,400/month, East Village, Manhattan, sublease, long term, 3B1B</li>
+    <li>$1,085/month, Bed-Stuy, Brooklyn, room rental, long term, available 2026-11-01, 3B1B</li>
+    <li>$2,900/month, Midtown East, Manhattan, room rental, long term, 2B2B</li>
+    <li>$2,550/month, Williamsburg, Brooklyn, sublease, long term, 3B1B</li>
+    <li>$1,200/month, Bushwick, Brooklyn, room rental, long term, 3B1.5B</li>
+    <li>$1,700/month, Upper East Side, Manhattan, room rental, 3B</li>
+    <li>$1,500/month, Williamsburg, Brooklyn, lease takeover, long term, 3B1B</li>
+    <li>$1,900/month, Williamsburg, Brooklyn, lease takeover, long term, 3B1B</li>
+    <li>Bushwick, Brooklyn, entire unit, long term, studio</li>
+    <li>$2,500/month, East Village, Manhattan, room rental, long term, 2B1B</li>
+    <li>$2,000/month, Morningside Heights, Manhattan, room rental, 3B1B</li>
+    <li>$2,600/month, Harlem, Manhattan, entire unit, long term, studio</li>
+    <li>$500/month, room rental</li>
+    <li>$1,700/month, Brooklyn, Brooklyn, sublease, available 2026-11-01</li>
+    <li>$1,900/month, Bed-Stuy, Brooklyn, room rental, long term, available 2026-11-01, 3B1B</li>
+    <li>$1,647/month, Downtown Jersey City, Jersey City &amp; Hoboken, room rental, long term, available 2026-12-01, 2B1B</li>
+    <li>Washington Heights, Manhattan, room rental, long term</li>
+    <li>$6,300/month, NoHo, Manhattan, sublease, long term, 1B1B</li>
+    <li>Brooklyn, Brooklyn, lease takeover</li>
+    <li>$1,000/month, Bushwick, Brooklyn, room rental, long term, available 2026-11-01</li>
+    <li>$2,403/month, Newport, Jersey City &amp; Hoboken, room rental, long term, available 2026-11-01, 2B2B</li>
+    <li>$1,200/month, Journal Square, Jersey City &amp; Hoboken, room rental, long term, available 2026-10-01</li>
+    <li>$2,200/month, Union City, Jersey City &amp; Hoboken, room rental, long term</li>
+    <li>Journal Square, Jersey City &amp; Hoboken, room rental, 2B1B</li>
+    <li>$1,100/month, Newport, Jersey City &amp; Hoboken, room rental, 2B1B</li>
+    <li>The Heights, Jersey City &amp; Hoboken, entire unit, 3B2B</li>
+    <li>$990/month, Journal Square, Jersey City &amp; Hoboken, room rental</li>
+    <li>$1,300/month, The Heights, Jersey City &amp; Hoboken, room rental, long term, available 2026-11-01</li>
+    <li>$1,150/month, The Heights, Jersey City &amp; Hoboken, room rental, long term, available 2026-10-15</li>
+    <li>$1,425/month, Journal Square, Jersey City &amp; Hoboken, room rental, long term, available 2026-11-01</li>
+    <li>$825/month, Journal Square, Jersey City &amp; Hoboken, room rental, long term, 4B3B</li>
+    <li>$900/month, The Heights, Jersey City &amp; Hoboken, room rental, available 2026-11-01, 3B2B</li>
+    <li>$1,650/month, Journal Square, Jersey City &amp; Hoboken, room rental, long term, available 2026-11-01, 2B2B</li>
+    <li>$950/month, The Heights, Jersey City &amp; Hoboken, room rental, long term, available 2026-11-01, 2B1B</li>
+    <li>Jersey City, Jersey City &amp; Hoboken, room rental, long term</li>
+    <li>$2,450/month, Newport, Jersey City &amp; Hoboken, room rental, long term, 2B2B</li>
+    <li>$350/month, Harrison, Jersey City &amp; Hoboken, room rental, long term, available 2026-10-01, 3B1B</li>
+    <li>Jersey City, Jersey City &amp; Hoboken, room rental, available 2026-11-01</li>
 </ul>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "name": "Recent San Francisco Housing Listings — 2026-10-08", "numberOfItems": 2274, "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "Thing", "name": "$2,300/month, North Beach, San Francisco, sublease, long term, 2B1B"}}, {"@type": "ListItem", "position": 2, "item": {"@type": "Thing", "name": "$2,500/month, Richmond District, San Francisco, room rental, long term, available 2026-10-14, 4B2B"}}, {"@type": "ListItem", "position": 3, "item": {"@type": "Thing", "name": "$4,050/month, Financial District, San Francisco, sublease, short term, available 2026-10-15, studio"}}, {"@type": "ListItem", "position": 4, "item": {"@type": "Thing", "name": "lease takeover, long term, available 2026-10-11, studio"}}, {"@type": "ListItem", "position": 5, "item": {"@type": "Thing", "name": "$936/month, Downtown Berkeley, East Bay, room rental, long term, 7B3B"}}, {"@type": "ListItem", "position": 6, "item": {"@type": "Thing", "name": "$900/month, Bernal Heights, San Francisco, sublease, short term, available 2026-10-09"}}, {"@type": "ListItem", "position": 7, "item": {"@type": "Thing", "name": "$800/month, Inner Richmond, San Francisco, room rental, long term, available 2026-10-18"}}, {"@type": "ListItem", "position": 8, "item": {"@type": "Thing", "name": "Berkeley, East Bay, sublease, long term, available 2027-01-01"}}, {"@type": "ListItem", "position": 9, "item": {"@type": "Thing", "name": "$1,400/month, Mission Bay, San Francisco, sublease, short term, available 2026-10-15, 2B"}}, {"@type": "ListItem", "position": 10, "item": {"@type": "Thing", "name": "$1,237/month, Southside Berkeley, East Bay, room rental, long term, 3B"}}, {"@type": "ListItem", "position": 11, "item": {"@type": "Thing", "name": "$950/month, Southside Berkeley, East Bay, sublease, long term, available 2027-01-01, 2B1B"}}, {"@type": "ListItem", "position": 12, "item": {"@type": "Thing", "name": "$2,000/month, SoMa, San Francisco, sublease, long term"}}, {"@type": "ListItem", "position": 13, "item": {"@type": "Thing", "name": "$2,000/month, SoMa, San Francisco, sublease, long term"}}, {"@type": "ListItem", "position": 14, "item": {"@type": "Thing", "name": "$1,650/month, Noe Valley, San Francisco, sublease, short term, available 2026-11-01, 3B1B"}}, {"@type": "ListItem", "position": 15, "item": {"@type": "Thing", "name": "$3,175/month, Pacific Heights, San Francisco, room rental, long term, 2B1.5B"}}, {"@type": "ListItem", "position": 16, "item": {"@type": "Thing", "name": "$2,700/month, Hayes Valley, San Francisco, room rental, 2B1.5B"}}, {"@type": "ListItem", "position": 17, "item": {"@type": "Thing", "name": "Downtown Berkeley, East Bay, sublease, long term"}}, {"@type": "ListItem", "position": 18, "item": {"@type": "Thing", "name": "$1,316/month, Mission Terrace, San Francisco, sublease, short term, available 2026-12-01"}}, {"@type": "ListItem", "position": 19, "item": {"@type": "Thing", "name": "$1,450/month, Castro, San Francisco, sublease, short term, available 2026-10-09"}}, {"@type": "ListItem", "position": 20, "item": {"@type": "Thing", "name": "$4,320/month, Mission Bay, San Francisco, entire unit, long term, studio"}}, {"@type": "ListItem", "position": 21, "item": {"@type": "Thing", "name": "$6,000/month, Dogpatch, San Francisco, entire unit, short term, available 2026-10-08, 2B2B"}}, {"@type": "ListItem", "position": 22, "item": {"@type": "Thing", "name": "$2,800/month, Civic Center, San Francisco, sublease, long term, available 2026-11-01, 2B2B"}}, {"@type": "ListItem", "position": 23, "item": {"@type": "Thing", "name": "$4,500/month, Nob Hill, San Francisco, sublease, long term, available 2026-10-15, 1BR"}}, {"@type": "ListItem", "position": 24, "item": {"@type": "Thing", "name": "$1,890/month, NoPa, San Francisco, room rental, long term, available 2026-10-12, 4B1.5B"}}, {"@type": "ListItem", "position": 25, "item": {"@type": "Thing", "name": "East Cut, San Francisco, sublease, short term, available 2026-11-23, 1B1B"}}, {"@type": "ListItem", "position": 26, "item": {"@type": "Thing", "name": "$1,800/month, Redwood City, The Peninsula, room rental, long term"}}, {"@type": "ListItem", "position": 27, "item": {"@type": "Thing", "name": "Berkeley, East Bay, lease takeover, long term"}}, {"@type": "ListItem", "position": 28, "item": {"@type": "Thing", "name": "$4,990/month, Mission Bay, San Francisco, sublease, short term, available 2026-11-01, 1B1B"}}, {"@type": "ListItem", "position": 29, "item": {"@type": "Thing", "name": "$2,900/month, Japantown, San Francisco, room rental, long term, 2B2B"}}, {"@type": "ListItem", "position": 30, "item": {"@type": "Thing", "name": "$2,550/month, Mission District, San Francisco, sublease, short term, available 2026-11-15, 3B2B"}}, {"@type": "ListItem", "position": 31, "item": {"@type": "Thing", "name": "Lower Pacific Heights, San Francisco, room rental, long term, available 2026-11-01, 7B4B"}}, {"@type": "ListItem", "position": 32, "item": {"@type": "Thing", "name": "$900/month, Redwood City, The Peninsula, room rental"}}, {"@type": "ListItem", "position": 33, "item": {"@type": "Thing", "name": "$1,350/month, Southside Berkeley, East Bay, room rental, available 2027-01-01"}}, {"@type": "ListItem", "position": 34, "item": {"@type": "Thing", "name": "$900/month, Downtown Berkeley, East Bay, lease takeover, long term, 2B2B"}}, {"@type": "ListItem", "position": 35, "item": {"@type": "Thing", "name": "$2,356/month, Civic Center, San Francisco, room rental, long term, 2B2B"}}, {"@type": "ListItem", "position": 36, "item": {"@type": "Thing", "name": "$1,200/month, room rental, studio"}}, {"@type": "ListItem", "position": 37, "item": {"@type": "Thing", "name": "$1,385/month, South Berkeley, East Bay, room rental"}}, {"@type": "ListItem", "position": 38, "item": {"@type": "Thing", "name": "$2,200/month, Nob Hill, San Francisco, room rental, long term, available 2026-10-15, 3B1.5B"}}, {"@type": "ListItem", "position": 39, "item": {"@type": "Thing", "name": "$2,200/month, Nob Hill, San Francisco, room rental, long term, available 2026-10-15, 3B1.5B"}}, {"@type": "ListItem", "position": 40, "item": {"@type": "Thing", "name": "$800/month, Visitacion Valley, San Francisco, room rental, long term"}}, {"@type": "ListItem", "position": 41, "item": {"@type": "Thing", "name": "Berkeley, East Bay"}}, {"@type": "ListItem", "position": 42, "item": {"@type": "Thing", "name": "$5,504/month, Burlingame, The Peninsula, room rental, long term, available 2026-11-01, 2B2B"}}, {"@type": "ListItem", "position": 43, "item": {"@type": "Thing", "name": "$1,250/month, Berkeley, East Bay, sublease, long term"}}, {"@type": "ListItem", "position": 44, "item": {"@type": "Thing", "name": "$1,300/month, Berkeley, East Bay, sublease, long term, available 2027-01-01"}}, {"@type": "ListItem", "position": 45, "item": {"@type": "Thing", "name": "entire unit, 2B1B"}}, {"@type": "ListItem", "position": 46, "item": {"@type": "Thing", "name": "$300/month, South Beach, San Francisco, entire unit, long term"}}, {"@type": "ListItem", "position": 47, "item": {"@type": "Thing", "name": "$1,800/month, Inner Sunset, San Francisco, lease takeover, long term, 4B1.5B"}}, {"@type": "ListItem", "position": 48, "item": {"@type": "Thing", "name": "$2,000/month, Union Square, San Francisco, sublease, long term"}}, {"@type": "ListItem", "position": 49, "item": {"@type": "Thing", "name": "Rincon Hill, San Francisco, entire unit, short term, available 2026-10-08, studio"}}, {"@type": "ListItem", "position": 50, "item": {"@type": "Thing", "name": "$2,045/month, SoMa, San Francisco, room rental, long term, available 2026-12-01"}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "name": "Recent NYC Housing Listings — 2026-10-08", "numberOfItems": 43, "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "Thing", "name": "Newport, Jersey City & Hoboken, room rental, short term, available 2026-11-01, 3B2B"}}, {"@type": "ListItem", "position": 2, "item": {"@type": "Thing", "name": "$1,830/month, Newport, Jersey City & Hoboken, lease takeover, short term, available 2026-10-15, 3B2B"}}, {"@type": "ListItem", "position": 3, "item": {"@type": "Thing", "name": "Newport, Jersey City & Hoboken, room rental, long term"}}, {"@type": "ListItem", "position": 4, "item": {"@type": "Thing", "name": "$3,800/month, Newport, Jersey City & Hoboken, lease takeover, long term, available 2026-11-11, 1B1B"}}, {"@type": "ListItem", "position": 5, "item": {"@type": "Thing", "name": "$1,175/month, Bed-Stuy, Brooklyn, room rental, long term, available 2026-11-01, 3B2B"}}, {"@type": "ListItem", "position": 6, "item": {"@type": "Thing", "name": "$2,400/month, East Village, Manhattan, sublease, long term, 3B1B"}}, {"@type": "ListItem", "position": 7, "item": {"@type": "Thing", "name": "$1,085/month, Bed-Stuy, Brooklyn, room rental, long term, available 2026-11-01, 3B1B"}}, {"@type": "ListItem", "position": 8, "item": {"@type": "Thing", "name": "$2,900/month, Midtown East, Manhattan, room rental, long term, 2B2B"}}, {"@type": "ListItem", "position": 9, "item": {"@type": "Thing", "name": "$2,550/month, Williamsburg, Brooklyn, sublease, long term, 3B1B"}}, {"@type": "ListItem", "position": 10, "item": {"@type": "Thing", "name": "$1,200/month, Bushwick, Brooklyn, room rental, long term, 3B1.5B"}}, {"@type": "ListItem", "position": 11, "item": {"@type": "Thing", "name": "$1,700/month, Upper East Side, Manhattan, room rental, 3B"}}, {"@type": "ListItem", "position": 12, "item": {"@type": "Thing", "name": "$1,500/month, Williamsburg, Brooklyn, lease takeover, long term, 3B1B"}}, {"@type": "ListItem", "position": 13, "item": {"@type": "Thing", "name": "$1,900/month, Williamsburg, Brooklyn, lease takeover, long term, 3B1B"}}, {"@type": "ListItem", "position": 14, "item": {"@type": "Thing", "name": "Bushwick, Brooklyn, entire unit, long term, studio"}}, {"@type": "ListItem", "position": 15, "item": {"@type": "Thing", "name": "$2,500/month, East Village, Manhattan, room rental, long term, 2B1B"}}, {"@type": "ListItem", "position": 16, "item": {"@type": "Thing", "name": "$2,000/month, Morningside Heights, Manhattan, room rental, 3B1B"}}, {"@type": "ListItem", "position": 17, "item": {"@type": "Thing", "name": "$2,600/month, Harlem, Manhattan, entire unit, long term, studio"}}, {"@type": "ListItem", "position": 18, "item": {"@type": "Thing", "name": "$500/month, room rental"}}, {"@type": "ListItem", "position": 19, "item": {"@type": "Thing", "name": "$1,700/month, Brooklyn, Brooklyn, sublease, available 2026-11-01"}}, {"@type": "ListItem", "position": 20, "item": {"@type": "Thing", "name": "$1,900/month, Bed-Stuy, Brooklyn, room rental, long term, available 2026-11-01, 3B1B"}}, {"@type": "ListItem", "position": 21, "item": {"@type": "Thing", "name": "$1,647/month, Downtown Jersey City, Jersey City & Hoboken, room rental, long term, available 2026-12-01, 2B1B"}}, {"@type": "ListItem", "position": 22, "item": {"@type": "Thing", "name": "Washington Heights, Manhattan, room rental, long term"}}, {"@type": "ListItem", "position": 23, "item": {"@type": "Thing", "name": "$6,300/month, NoHo, Manhattan, sublease, long term, 1B1B"}}, {"@type": "ListItem", "position": 24, "item": {"@type": "Thing", "name": "Brooklyn, Brooklyn, lease takeover"}}, {"@type": "ListItem", "position": 25, "item": {"@type": "Thing", "name": "$1,000/month, Bushwick, Brooklyn, room rental, long term, available 2026-11-01"}}, {"@type": "ListItem", "position": 26, "item": {"@type": "Thing", "name": "$2,403/month, Newport, Jersey City & Hoboken, room rental, long term, available 2026-11-01, 2B2B"}}, {"@type": "ListItem", "position": 27, "item": {"@type": "Thing", "name": "$1,200/month, Journal Square, Jersey City & Hoboken, room rental, long term, available 2026-10-01"}}, {"@type": "ListItem", "position": 28, "item": {"@type": "Thing", "name": "$2,200/month, Union City, Jersey City & Hoboken, room rental, long term"}}, {"@type": "ListItem", "position": 29, "item": {"@type": "Thing", "name": "Journal Square, Jersey City & Hoboken, room rental, 2B1B"}}, {"@type": "ListItem", "position": 30, "item": {"@type": "Thing", "name": "$1,100/month, Newport, Jersey City & Hoboken, room rental, 2B1B"}}, {"@type": "ListItem", "position": 31, "item": {"@type": "Thing", "name": "The Heights, Jersey City & Hoboken, entire unit, 3B2B"}}, {"@type": "ListItem", "position": 32, "item": {"@type": "Thing", "name": "$990/month, Journal Square, Jersey City & Hoboken, room rental"}}, {"@type": "ListItem", "position": 33, "item": {"@type": "Thing", "name": "$1,300/month, The Heights, Jersey City & Hoboken, room rental, long term, available 2026-11-01"}}, {"@type": "ListItem", "position": 34, "item": {"@type": "Thing", "name": "$1,150/month, The Heights, Jersey City & Hoboken, room rental, long term, available 2026-10-15"}}, {"@type": "ListItem", "position": 35, "item": {"@type": "Thing", "name": "$1,425/month, Journal Square, Jersey City & Hoboken, room rental, long term, available 2026-11-01"}}, {"@type": "ListItem", "position": 36, "item": {"@type": "Thing", "name": "$825/month, Journal Square, Jersey City & Hoboken, room rental, long term, 4B3B"}}, {"@type": "ListItem", "position": 37, "item": {"@type": "Thing", "name": "$900/month, The Heights, Jersey City & Hoboken, room rental, available 2026-11-01, 3B2B"}}, {"@type": "ListItem", "position": 38, "item": {"@type": "Thing", "name": "$1,650/month, Journal Square, Jersey City & Hoboken, room rental, long term, available 2026-11-01, 2B2B"}}, {"@type": "ListItem", "position": 39, "item": {"@type": "Thing", "name": "$950/month, The Heights, Jersey City & Hoboken, room rental, long term, available 2026-11-01, 2B1B"}}, {"@type": "ListItem", "position": 40, "item": {"@type": "Thing", "name": "Jersey City, Jersey City & Hoboken, room rental, long term"}}, {"@type": "ListItem", "position": 41, "item": {"@type": "Thing", "name": "$2,450/month, Newport, Jersey City & Hoboken, room rental, long term, 2B2B"}}, {"@type": "ListItem", "position": 42, "item": {"@type": "Thing", "name": "$350/month, Harrison, Jersey City & Hoboken, room rental, long term, available 2026-10-01, 3B1B"}}, {"@type": "ListItem", "position": 43, "item": {"@type": "Thing", "name": "Jersey City, Jersey City & Hoboken, room rental, available 2026-11-01"}}]}</script>
 </section>
 <!-- SEO_CONTENT_END -->
 
@@ -1313,7 +1323,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = '1b2c3ccaebf6';
+const SITE_VERSION = 'b9ce08b4ffbd';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -1907,7 +1917,7 @@ window.toggleMapPane = function() {
 
 function initMapIfNeeded() {
   if (leafletMap) { leafletMap.invalidateSize(); renderMap(); return; }
-  leafletMap = L.map('map-canvas').setView([37.7749, -122.4194], 10);
+  leafletMap = L.map('map-canvas').setView([40.7306, -73.9866], 11);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     maxZoom: 18,
@@ -2425,8 +2435,8 @@ let _pendingData = null;
 let _newSiteVersion = null;
 let _checking = false;
 const UPDATE_CHECK_MS = 10 * 60 * 1000;
-const VIEW_STATE_KEY = 'sfrooms.viewState';
-const RELOADED_FOR_KEY = 'sfrooms.reloadedFor';
+const VIEW_STATE_KEY = 'nycrooms.viewState';
+const RELOADED_FOR_KEY = 'nycrooms.reloadedFor';
 
 const fetchFresh = name => fetch(DATA_BASE + name + '?t=' + Date.now(), { cache: 'no-store' }).then(r => {
   if (!r.ok) throw new Error(`${name}: HTTP ${r.status}`);
