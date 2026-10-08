@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T07:14:00.730485",
-  "count": 61,
+  "updated_at": "2026-10-08T08:10:20.184609",
+  "count": 63,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -1911,6 +1911,64 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Bed / 1 Bath \u2013 Liberty Avenue, Jersey City",
       "search_snippet_long": "Bed / 1 Bath \u2013 Liberty Avenue, Jersey City Fully furnished 2-bedroom, 1-bathroom temporary accommodation available in Jersey City. Flexible"
+    },
+    {
+      "listing_id": "2240988929799235",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2240988929799235",
+      "posted_at": "Thursday 8 October 2026 at 07:56",
+      "first_scraped_at": "2026-10-08T15:05:46.783378+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "3rd roommate to live together at https://www.liveat295j.com/floorplans/3--bedroom?gadid=&device=c&network=x&keyword=&adgroup=&campaign=23559633586&gclid=Cj0KCQjw5bjVBhCiARIsAJzMVnT-YIpn1Zn9Au01rlbLhZgByQRCpgW9HaifI0YYfbHOlZ7_b0-mUykaAmvfEALw_wcB We are",
+      "search_snippet_long": "3rd roommate to live together at https://www.liveat295j.com/floorplans/3--bedroom?gadid=&device=c&network=x&keyword=&adgroup=&campaign=23559633586&gclid=Cj0KCQjw5bjVBhCiARIsAJzMVnT-YIpn1Zn9Au01rlbLhZgByQRCpgW9HaifI0YYfbHOlZ7_b0-mUykaAmvfEALw_wcB We are two girls in our 20s - working in healthcare + fashion."
+    },
+    {
+      "listing_id": "28446121538390662",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 750,
+      "neighborhood": null,
+      "area": null,
+      "available_from": "2026-10-15",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "refrigerator",
+        "oven",
+        "microwave",
+        "air_conditioning"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "any",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28446121538390662",
+      "posted_at": "Thursday 8 October 2026 at 08:07",
+      "first_scraped_at": "2026-10-08T15:05:46.783378+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "\u2013 HARRISON, NJ | IMMEDIATE MOVE-IN Accommodation available for",
+      "search_snippet_long": "\u2013 HARRISON, NJ | IMMEDIATE MOVE-IN Accommodation available for a male/female from October 15th, 2026. I\u2019m moving out by October"
     }
   ]
 }
