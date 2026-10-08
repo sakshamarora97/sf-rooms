@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T11:12:51.351168",
-  "count": 27,
+  "updated_at": "2026-10-08T12:11:23.835358",
+  "count": 28,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -799,6 +799,32 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Shagun, and I'm looking for a roommate in Jersey",
       "search_snippet_long": "Shagun, and I'm looking for a roommate in Jersey City to move in by mid-October. Avalon Cove in Newport is"
+    },
+    {
+      "listing_id": "2241138773117584",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Bushwick"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 25,
+      "bio": "Is an economics major at Baruch College who recently moved to the city in August. Seeking housing with a total monthly budget of $1,200 and open to neighborhoods including Bushwick.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241138773117584",
+      "posted_at": "Thursday 8 October 2026 at 11:17",
+      "first_scraped_at": "2026-10-08T19:06:08.381614+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Bushwick $1,200 /month total budget. Hi! I'm an economics",
+      "search_snippet_long": "Bushwick $1,200 /month total budget. Hi! I'm an economics major at Baruch College. I just got to the city in"
     }
   ]
 }
