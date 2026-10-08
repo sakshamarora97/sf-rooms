@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T14:06:08.209216",
-  "count": 2285,
+  "updated_at": "2026-10-08T15:05:30.618119",
+  "count": 2286,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -71465,6 +71465,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "AVA 55 Ninth Step into contemporary city living right",
       "search_snippet_long": "AVA 55 Ninth Step into contemporary city living right in the heart of San Francisco's dynamic SoMa neighborhood. This stylish"
+    },
+    {
+      "listing_id": "1382562556977321",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": "2026-05-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "on_site_pay_laundry",
+        "rent_controlled"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1382562556977321",
+      "posted_at": "Thursday 8 October 2026 at 14:37",
+      "first_scraped_at": "2026-10-08T22:00:05.707516+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "apartment Seeking someone to take over my lease through",
+      "search_snippet_long": "apartment Seeking someone to take over my lease through Domingo Property Management, ideally starting on or around December 1st. Lease"
     }
   ]
 }
