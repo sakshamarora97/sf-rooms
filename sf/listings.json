@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T08:05:41.940272",
-  "count": 2280,
+  "updated_at": "2026-10-08T09:06:00.637161",
+  "count": 2281,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -71292,6 +71292,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "happy Wednesday! I'm looking for a pet-free (I already",
       "search_snippet_long": "happy Wednesday! I'm looking for a pet-free (I already have a cat + dog, and the lanlord won't accept more)"
+    },
+    {
+      "listing_id": "2026777778013794",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1700,
+      "neighborhood": "Albany",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "secure_gated_entrance",
+        "parking",
+        "swimming_pool",
+        "gym",
+        "sauna",
+        "view"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026777778013794",
+      "posted_at": "Thursday 8 October 2026 at 08:25",
+      "first_scraped_at": "2026-10-08T16:00:05.517774+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "ATTACHED BATHROOM FOR RENT Albany, CA Beautiful Bay Area",
+      "search_snippet_long": "ATTACHED BATHROOM FOR RENT Albany, CA Beautiful Bay Area & Golden Gate Bridge views Plenty of natural sunlight Spacious 1,235"
     }
   ]
 }
