@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T11:06:27.294406",
-  "count": 2283,
+  "updated_at": "2026-10-08T12:06:04.055569",
+  "count": 2284,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -71407,6 +71407,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "my furnished one bedroom, one bathroom apartment at 39",
       "search_snippet_long": "my furnished one bedroom, one bathroom apartment at 39 Tehama St, San Francisco. I've been living here for almost a"
+    },
+    {
+      "listing_id": "4740027082898961",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 900,
+      "neighborhood": "Sunset District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_bathroom",
+        "shared_kitchen",
+        "shared_living_room"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4740027082898961",
+      "posted_at": "Thursday 8 October 2026 at 11:36",
+      "first_scraped_at": "2026-10-08T19:00:04.099329+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Another Female \u2013 Sunset District, SF Looking for a",
+      "search_snippet_long": "Another Female \u2013 Sunset District, SF Looking for a FEMALE roommate to share a spacious bedroom with me in the"
     }
   ]
 }

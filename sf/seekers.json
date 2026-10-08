@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T11:06:27.294406",
-  "count": 2977,
+  "updated_at": "2026-10-08T12:06:04.055569",
+  "count": 2979,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89129,6 +89129,69 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "am looking for a room to rent. Location in",
       "search_snippet_long": "am looking for a room to rent. Location in SC doesn't matter. Budget around 900-1200ish. I am looking for roommates"
+    },
+    {
+      "listing_id": "4739999089568427",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Russian Hill",
+        "Nob Hill",
+        "Hayes Valley",
+        "Pacific Heights",
+        "Haight-Ashbury",
+        "NoPa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "She is a 24-year-old starting a job at a startup in San Francisco and will be in the office five days a week. She is clean, a non-smoker, has no pets, and spends weekends outdoors, traveling, or at live music shows.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4739999089568427",
+      "posted_at": "Thursday 8 October 2026 at 11:03",
+      "first_scraped_at": "2026-10-08T19:00:04.099329+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "sublet / month to month : Now - December",
+      "search_snippet_long": "sublet / month to month : Now - December / January (1-3 months) Hi everyone! I\u2019m Sarah (24F) moving to"
+    },
+    {
+      "listing_id": "2026878528003719",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Seeks a January\u2013April sublet, ideally a one-bedroom near the Mission District; job will be in San Mateo.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026878528003719",
+      "posted_at": "Thursday 8 October 2026 at 10:46",
+      "first_scraped_at": "2026-10-08T19:00:04.099329+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "an apartment (ideally 1 bedroom), Jan-April. Ideally near Mission",
+      "search_snippet_long": "an apartment (ideally 1 bedroom), Jan-April. Ideally near Mission District, but open. Job will be in San Mateo."
     }
   ]
 }
