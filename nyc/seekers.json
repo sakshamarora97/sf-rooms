@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T08:10:20.184609",
-  "count": 22,
+  "updated_at": "2026-10-08T09:13:07.452563",
+  "count": 24,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -649,6 +649,63 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "<33! I\u2019m Erica, 26, and I\u2019m a dental assistant",
       "search_snippet_long": "<33! I\u2019m Erica, 26, and I\u2019m a dental assistant in Brooklyn. I\u2019m originally from New York and planning to move"
+    },
+    {
+      "listing_id": "2241018779796250",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "East Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Is a full-time hotel bartender based in the East Village who plays in a band, paints, and enjoys board and tabletop games. Seeks a peaceful, clean room and has a cat; prefers to live with queer/nonbinary/trans roommates but is open to any peaceful arrangement.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241018779796250",
+      "posted_at": "Thursday 8 October 2026 at 08:30",
+      "first_scraped_at": "2026-10-08T16:06:05.795947+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room for myself and my lovely kitty cat. Ideally",
+      "search_snippet_long": "room for myself and my lovely kitty cat. Ideally move in on the 31st of October or potentially sooner. Im"
+    },
+    {
+      "listing_id": "2241008496463945",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Prospect Lefferts Gardens",
+        "Crown Heights"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 30,
+      "bio": "A 30-year-old actor from the UK who works full-time as a nanny in Prospect Lefferts Gardens. Clean, sociable, queer and 420-friendly, enjoys soccer, working out, and cooking big winter dinners; comes with no pets.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241008496463945",
+      "posted_at": "Thursday 8 October 2026 at 08:18",
+      "first_scraped_at": "2026-10-08T16:06:05.795947+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "30 year old actor from the UK looking for",
+      "search_snippet_long": "30 year old actor from the UK looking for roommates to join a lease starting November 1. I have a"
     }
   ]
 }
