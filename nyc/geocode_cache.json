@@ -1,4 +1,8 @@
 {
+  "Astoria, Queens": {
+    "lat": 40.7643574,
+    "lon": -73.92346189999999
+  },
   "Bed-Stuy, Brooklyn": {
     "lat": 40.6872176,
     "lon": -73.9417735
@@ -15,9 +19,17 @@
     "lat": 40.6957755,
     "lon": -73.9170604
   },
+  "Chelsea, Manhattan": {
+    "lat": 40.7465004,
+    "lon": -74.00137370000002
+  },
   "Clinton Hill, Manhattan": {
     "lat": 40.6896834,
     "lon": -73.9661144
+  },
+  "Cobble Hill, Brooklyn": {
+    "lat": 40.686536,
+    "lon": -73.9962255
   },
   "Downtown Brooklyn, Brooklyn": {
     "lat": 40.6960679,
@@ -47,6 +59,10 @@
     "lat": 40.6920638,
     "lon": -73.97418739999999
   },
+  "Gramercy, Manhattan": {
+    "lat": 40.7367783,
+    "lon": -73.9844722
+  },
   "Greenpoint, Brooklyn": {
     "lat": 40.7304701,
     "lon": -73.95150319999999
@@ -59,9 +75,17 @@
     "lat": 40.7465572,
     "lon": -74.15619459999999
   },
+  "Hell's Kitchen, Manhattan": {
+    "lat": 40.7637581,
+    "lon": -73.9918181
+  },
   "Hoboken, Jersey City & Hoboken": {
     "lat": 40.7371004,
     "lon": -74.03130469999999
+  },
+  "Jackson Heights, Queens": {
+    "lat": 40.7556818,
+    "lon": -73.8830701
   },
   "Jersey City, Jersey City & Hoboken": {
     "lat": 40.7195342,
@@ -70,6 +94,10 @@
   "Journal Square, Jersey City & Hoboken": {
     "lat": 40.7345715,
     "lon": -74.0631544
+  },
+  "Kips Bay, Manhattan": {
+    "lat": 40.74232920000001,
+    "lon": -73.9800645
   },
   "Long Island City, Manhattan": {
     "lat": 40.744679,
@@ -99,6 +127,10 @@
     "lat": 40.751106,
     "lon": -74.05401359999999
   },
+  "Tribeca, Manhattan": {
+    "lat": 40.7162692,
+    "lon": -74.0086323
+  },
   "Union City, Jersey City & Hoboken": {
     "lat": 40.7744557,
     "lon": -74.0312075
@@ -107,9 +139,17 @@
     "lat": 40.7735649,
     "lon": -73.9565551
   },
+  "Upper West Side, Manhattan": {
+    "lat": 40.7870106,
+    "lon": -73.9753676
+  },
   "Washington Heights, Manhattan": {
     "lat": 40.8417082,
     "lon": -73.9393554
+  },
+  "West Village, Manhattan": {
+    "lat": 40.73468,
+    "lon": -74.0047554
   },
   "Williamsburg, Brooklyn": {
     "lat": 40.7081156,
