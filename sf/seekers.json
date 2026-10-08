@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T15:05:30.618119",
-  "count": 2981,
+  "updated_at": "2026-10-08T16:05:50.097948",
+  "count": 2983,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89245,6 +89245,62 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "am currently a chemistry PhD student at UIC in",
       "search_snippet_long": "am currently a chemistry PhD student at UIC in Chicago and was recently accepted into a fellowship program at LBNL."
+    },
+    {
+      "listing_id": "2753368368392301",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "They are a PhD student from Brazil doing a research exchange at UC Berkeley from March to November 2027 and are looking for a private room near campus.",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2753368368392301",
+      "posted_at": "Thursday 8 October 2026 at 15:59",
+      "first_scraped_at": "2026-10-08T23:00:07.460869+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "a PhD student from Brazil, and I'll be doing",
+      "search_snippet_long": "a PhD student from Brazil, and I'll be doing a research exchange at UC Berkeley from March to November 2027."
+    },
+    {
+      "listing_id": "1382575620309348",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "They are two students returning from study abroad seeking a Spring 2027 sublease near campus, preferably in Southside Berkeley.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1382575620309348",
+      "posted_at": "Thursday 8 October 2026 at 15:07",
+      "first_scraped_at": "2026-10-08T23:00:07.460869+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "27 Sublease 2 girls Hello! Me and my friend",
+      "search_snippet_long": "27 Sublease 2 girls Hello! Me and my friend whose coming back from study aboard are looking for housing for"
     }
   ]
 }

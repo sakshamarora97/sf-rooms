@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T15:05:30.618119",
-  "count": 2286,
+  "updated_at": "2026-10-08T16:05:50.097948",
+  "count": 2287,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -71495,6 +71495,32 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "apartment Seeking someone to take over my lease through",
       "search_snippet_long": "apartment Seeking someone to take over my lease through Domingo Property Management, ideally starting on or around December 1st. Lease"
+    },
+    {
+      "listing_id": "1382574530309457",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1382574530309457",
+      "posted_at": "Thursday 8 October 2026 at 15:05",
+      "first_scraped_at": "2026-10-08T23:00:07.460869+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Available for Lease Near Campus Hi everyone! I\u2019m sharing",
+      "search_snippet_long": "Available for Lease Near Campus Hi everyone! I\u2019m sharing this listing on behalf of a friend who has a beautiful"
     }
   ]
 }
