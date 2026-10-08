@@ -820,28 +820,34 @@
   }
   #update-banner .ub-close:hover { opacity: 1; }
 
-  /* NYC header: overcast gray-blue by day, navy by night (the shared default is SF gold) */
-  header { background: linear-gradient(135deg, #a3b5c5 0%, #bccbd8 50%, #d3dfe9 100%); }
-  header h1 { color: #14202e; }
-  header .header-tagline { color: #26394d !important; }
-  header .header-tagline-sub { color: #3b5068 !important; }
-  .city-switcher a { color: #14202e; background: rgba(255,255,255,0.55); border-color: rgba(20,32,46,0.2); }
-  .city-switcher a:hover { background: rgba(255,255,255,0.8); }
-  .city-switcher a[aria-current="page"] { background: #14202e; color: #ffffff; border-color: #14202e; }
-  #auth-btn { color: #14202e; }
+  /* NYC header: sunny-morning blue by day, navy by night (the shared default is SF gold) */
+  header { background: linear-gradient(135deg, #5aaee9 0%, #8ccbf3 48%, #cfeafb 100%); }
+  header h1 { color: #0b2238; }
+  header .header-tagline { color: #0f2f4d !important; }
+  header .header-tagline-sub { color: #1d4468 !important; }
+  .city-switcher a { color: #0b2238; background: rgba(255,255,255,0.6); border-color: rgba(11,34,56,0.2); }
+  .city-switcher a:hover { background: rgba(255,255,255,0.85); }
+  .city-switcher a[aria-current="page"] { background: #0b2238; color: #ffffff; border-color: #0b2238; }
+  .theme-btn-el { background: rgba(255,255,255,0.5); border-color: rgba(11,34,56,0.25); }
+  .theme-btn-el:hover { background: rgba(255,255,255,0.75); }
+  #auth-btn { color: #0b2238; }
+  #report-issue-btn { background: rgba(255,255,255,0.6); border-color: rgba(153,27,27,0.35); color: #991b1b; }
+  #report-issue-btn:hover { background: rgba(255,255,255,0.85); }
   html.dark header { background: linear-gradient(135deg, #04070d 0%, #0a111d 50%, #111b2d 100%); }
   html.dark header h1 { color: #eef3fa; }
   html.dark header .header-tagline { color: #a9bdd6 !important; }
   html.dark header .header-tagline-sub { color: #8197b2 !important; }
+  html.dark .theme-btn-el { background: rgba(255,255,255,0.12); border-color: rgba(255,255,255,0.2); }
   html.dark .city-switcher a { color: #eef3fa; background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.2); }
   html.dark .city-switcher a[aria-current="page"] { background: #eef3fa; color: #0a111d; border-color: #eef3fa; }
+  html.dark #report-issue-btn { background: rgba(248,113,113,0.16); border-color: rgba(248,113,113,0.4); color: #fecaca; }
 
   /* skyline art (site/art/nyc.html) */
-  .nyc-bld { fill: #3a4a5c; }
-  .nyc-brick { fill: #5a4a47; }
-  .nyc-glass { fill: #25384a; }
-  .nyc-glass2 { fill: #3d566e; }
-  .nyc-water { fill: #7b8fa0; }
+  .nyc-bld { fill: #46698c; }
+  .nyc-brick { fill: #a8604a; }
+  .nyc-glass { fill: #3f74a6; }
+  .nyc-glass2 { fill: #285179; }
+  .nyc-water { fill: #3f8fd0; }
   html.dark .nyc-bld { fill: #0d1522; }
   html.dark .nyc-brick { fill: #121926; }
   html.dark .nyc-glass { fill: #0f1a2b; }
@@ -873,18 +879,20 @@
       <radialGradient id="nycmoon"><stop offset="0" stop-color="#ffe0a3"/><stop offset="1" stop-color="#f29a33"/></radialGradient>
       <radialGradient id="nycglow"><stop offset="0" stop-color="#f5a03c" stop-opacity="0.5"/><stop offset="1" stop-color="#f5a03c" stop-opacity="0"/></radialGradient>
       <linearGradient id="nychaze" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffa45a" stop-opacity="0"/><stop offset="1" stop-color="#ffb46e" stop-opacity="0.34"/></linearGradient>
-      <linearGradient id="nycdayhaze" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.22"/></linearGradient>
+      <linearGradient id="nycdayhaze" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6dc" stop-opacity="0"/><stop offset="1" stop-color="#ffe9b8" stop-opacity="0.55"/></linearGradient>
+      <radialGradient id="nycsun"><stop offset="0" stop-color="#fffdea"/><stop offset="1" stop-color="#ffd24a"/></radialGradient>
+      <radialGradient id="nycsunglow"><stop offset="0" stop-color="#fff3b0" stop-opacity="0.75"/><stop offset="1" stop-color="#fff3b0" stop-opacity="0"/></radialGradient>
       <linearGradient id="nycfade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.2" stop-color="#fff" stop-opacity="1"/><stop offset="0.9" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
       <mask id="nycmask"><rect x="0" y="0" width="560" height="80" fill="url(#nycfade)"/></mask>
     </defs>
     <g mask="url(#nycmask)">
     <g class="day-only">
       <rect x="0" y="30" width="560" height="32" fill="url(#nycdayhaze)"/>
-      <g transform="translate(50 14) scale(1.0)" opacity="0.7"><ellipse cx="0" cy="3" rx="19" ry="4.2" fill="#aebdca"/><circle cx="-9" cy="0" r="6" fill="#ffffff"/><circle cx="-1" cy="-3" r="8" fill="#ffffff"/><circle cx="9" cy="-1" r="6.5" fill="#f3f7fa"/><circle cx="16" cy="2" r="4.5" fill="#f3f7fa"/></g>
-      <g transform="translate(150 9) scale(0.8)" opacity="0.7"><ellipse cx="0" cy="3" rx="19" ry="4.2" fill="#aebdca"/><circle cx="-9" cy="0" r="6" fill="#ffffff"/><circle cx="-1" cy="-3" r="8" fill="#ffffff"/><circle cx="9" cy="-1" r="6.5" fill="#f3f7fa"/><circle cx="16" cy="2" r="4.5" fill="#f3f7fa"/></g>
-      <g transform="translate(255 15) scale(1.1)" opacity="0.7"><ellipse cx="0" cy="3" rx="19" ry="4.2" fill="#aebdca"/><circle cx="-9" cy="0" r="6" fill="#ffffff"/><circle cx="-1" cy="-3" r="8" fill="#ffffff"/><circle cx="9" cy="-1" r="6.5" fill="#f3f7fa"/><circle cx="16" cy="2" r="4.5" fill="#f3f7fa"/></g>
-      <g transform="translate(385 8) scale(0.9)" opacity="0.7"><ellipse cx="0" cy="3" rx="19" ry="4.2" fill="#aebdca"/><circle cx="-9" cy="0" r="6" fill="#ffffff"/><circle cx="-1" cy="-3" r="8" fill="#ffffff"/><circle cx="9" cy="-1" r="6.5" fill="#f3f7fa"/><circle cx="16" cy="2" r="4.5" fill="#f3f7fa"/></g>
-      <g transform="translate(470 17) scale(0.75)" opacity="0.7"><ellipse cx="0" cy="3" rx="19" ry="4.2" fill="#aebdca"/><circle cx="-9" cy="0" r="6" fill="#ffffff"/><circle cx="-1" cy="-3" r="8" fill="#ffffff"/><circle cx="9" cy="-1" r="6.5" fill="#f3f7fa"/><circle cx="16" cy="2" r="4.5" fill="#f3f7fa"/></g>
+      <circle cx="185" cy="36" r="26" fill="url(#nycsunglow)"/>
+      <circle cx="185" cy="36" r="6.6" fill="url(#nycsun)"/>
+      <ellipse cx="95" cy="12" rx="44" ry="2.2" fill="#ffffff" opacity="0.6"/>
+      <ellipse cx="390" cy="8" rx="58" ry="2.6" fill="#ffffff" opacity="0.5"/>
+      <ellipse cx="478" cy="21" rx="30" ry="1.8" fill="#ffffff" opacity="0.45"/>
     </g>
     <g class="night-only">
       <rect x="0" y="30" width="560" height="32" fill="url(#nychaze)"/>
@@ -959,6 +967,41 @@
     <polygon class="nyc-glass" points="204,62.6 204,23 211,15 219,15 226,23 226,62.6"/>
     <polygon class="nyc-glass2" points="215.0,15 219,15 226,23 226,62.6 215.0,62.6"/>
     <rect class="nyc-glass" x="214.2" y="1" width="1.6" height="14.5"/>
+    <g class="day-only">
+      <rect x="-8.6" y="43" width="3.1" height="19.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="9.4" y="36" width="2.0" height="26.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="31.4" y="47" width="2.7" height="15.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="47.4" y="41" width="2.0" height="21.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="59.4" y="45" width="3.4" height="17.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="81.4" y="41" width="2.7" height="21.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="97.4" y="47" width="2.0" height="15.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="109.4" y="37" width="2.4" height="25.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="125.4" y="30" width="1.9" height="32.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="138.4" y="37" width="4.4" height="25.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="166.4" y="41" width="2.4" height="21.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="235.4" y="24" width="2.7" height="38.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="253.4" y="37" width="2.4" height="25.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="269.4" y="41" width="2.7" height="21.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="286.4" y="35" width="2.0" height="27.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="299.4" y="43" width="3.1" height="19.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="318.4" y="39" width="2.4" height="23.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="333.4" y="45" width="2.7" height="17.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="350.4" y="49" width="2.0" height="13.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="363.4" y="47" width="2.4" height="15.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="378.4" y="51" width="3.1" height="11.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="399.4" y="55" width="1.7" height="7.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="410.4" y="57" width="2.4" height="5.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="425.4" y="53" width="2.0" height="9.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="438.4" y="57" width="2.7" height="5.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="455.4" y="55" width="2.0" height="7.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="468.4" y="58" width="2.0" height="4.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="481.4" y="56" width="2.4" height="6.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="496.4" y="59" width="1.7" height="3.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="507.4" y="57" width="2.7" height="5.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="524.4" y="60" width="2.0" height="2.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="537.4" y="58" width="2.4" height="4.6" fill="#ffecbd" opacity="0.34"/>
+      <rect x="552.4" y="60" width="2.0" height="2.6" fill="#ffecbd" opacity="0.34"/>
+    </g>
     <g class="night-only">
       <rect x="-8.3" y="44.2" width="16.6" height="17.6" fill="url(#nycwin-a)"/>
       <rect x="9.7" y="37.2" width="10.6" height="24.6" fill="url(#nycwin-b)"/>
@@ -1000,14 +1043,15 @@
     </g>
     <g class="day-only">
       <rect x="0" y="62" width="560" height="18" class="nyc-water"/>
-      <rect x="0" y="62" width="560" height="1.6" fill="#44586a"/>
-      <line x1="20" y1="67" x2="90" y2="67" stroke="#92a8ba" stroke-width="0.8" opacity="0.6"/>
-      <line x1="130" y1="70" x2="190" y2="70" stroke="#92a8ba" stroke-width="0.8" opacity="0.6"/>
-      <line x1="240" y1="66" x2="320" y2="66" stroke="#92a8ba" stroke-width="0.8" opacity="0.6"/>
-      <line x1="360" y1="71" x2="430" y2="71" stroke="#92a8ba" stroke-width="0.8" opacity="0.6"/>
-      <line x1="460" y1="68" x2="520" y2="68" stroke="#92a8ba" stroke-width="0.8" opacity="0.6"/>
-      <line x1="90" y1="74" x2="140" y2="74" stroke="#92a8ba" stroke-width="0.8" opacity="0.6"/>
-      <line x1="300" y1="75" x2="370" y2="75" stroke="#92a8ba" stroke-width="0.8" opacity="0.6"/>
+      <rect x="0" y="62" width="560" height="1.6" fill="#2f6b9e"/>
+      <line x1="20" y1="67" x2="90" y2="67" stroke="#d9f0ff" stroke-width="0.8" opacity="0.75"/>
+      <line x1="130" y1="70" x2="190" y2="70" stroke="#d9f0ff" stroke-width="0.8" opacity="0.75"/>
+      <line x1="240" y1="66" x2="320" y2="66" stroke="#d9f0ff" stroke-width="0.8" opacity="0.75"/>
+      <line x1="360" y1="71" x2="430" y2="71" stroke="#d9f0ff" stroke-width="0.8" opacity="0.75"/>
+      <line x1="460" y1="68" x2="520" y2="68" stroke="#d9f0ff" stroke-width="0.8" opacity="0.75"/>
+      <line x1="90" y1="74" x2="140" y2="74" stroke="#d9f0ff" stroke-width="0.8" opacity="0.75"/>
+      <line x1="300" y1="75" x2="370" y2="75" stroke="#d9f0ff" stroke-width="0.8" opacity="0.75"/>
+      <line x1="185" y1="64" x2="185" y2="79" stroke="#fff6c8" stroke-width="2" stroke-dasharray="2 1.5" opacity="0.8"/>
     </g>
     <g class="night-only">
       <rect x="0" y="62" width="560" height="18" fill="#060b13"/>
@@ -1436,7 +1480,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = 'a61ffbbf2b5f';
+const SITE_VERSION = '205489959634';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
