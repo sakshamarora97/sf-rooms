@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T20:17:47.306014",
-  "count": 2271,
+  "updated_at": "2026-10-07T21:18:59.537205",
+  "count": 2272,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -71003,6 +71003,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "studio, starting Oct 15 Moving date is flexible anytime",
       "search_snippet_long": "studio, starting Oct 15 Moving date is flexible anytime after Oct 15 Duration min. 1 month Located in FIDI. No"
+    },
+    {
+      "listing_id": "2026245784733660",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-10-11",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "high_ceilings",
+        "large_windows",
+        "closet",
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026245784733660",
+      "posted_at": "Wednesday 7 October 2026 at 18:48",
+      "first_scraped_at": "2026-10-08T03:00:04.819257+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Studio at Sutter St/Polk St** Hey everyone, I am",
+      "search_snippet_long": "Studio at Sutter St/Polk St** Hey everyone, I am moving out of city to Mountain View, and looking for someone"
     }
   ]
 }

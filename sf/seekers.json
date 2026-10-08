@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T20:17:47.306014",
-  "count": 2963,
+  "updated_at": "2026-10-07T21:18:59.537205",
+  "count": 2964,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -88725,6 +88725,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "spring 2027 sublease! Hello everyone! I\u2019m an incoming UC",
       "search_snippet_long": "spring 2027 sublease! Hello everyone! I\u2019m an incoming UC Berkeley student and I\u2019m looking for housing preferably in North Berkeley"
+    },
+    {
+      "listing_id": "2026296288061943",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-07",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Nob Hill",
+        "Russian Hill",
+        "Pacific Heights",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UC Berkeley graduate working in crisis PR. Clean, easy-going, and respectful of shared spaces; enjoys spending free time outdoors with friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2026296288061943",
+      "posted_at": "Wednesday 7 October 2026 at 20:13",
+      "first_scraped_at": "2026-10-08T04:00:05.128235+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a room ASAP, now through Nov 30 Move-in: ASAP,",
+      "search_snippet_long": "a room ASAP, now through Nov 30 Move-in: ASAP, can move in right away! Term: Sublease through November 30, happy"
     }
   ]
 }
