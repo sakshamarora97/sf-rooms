@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-07T19:18:51.322792",
-  "count": 2270,
+  "updated_at": "2026-10-07T20:17:47.306014",
+  "count": 2271,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -70968,6 +70968,41 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Penthouse Suite | Just 4 blocks from the UC",
       "search_snippet_long": "Penthouse Suite | Just 4 blocks from the UC Berkeley campus 7-bedroom 3-bathroom unit | 12 occupants | MALE ONLY"
+    },
+    {
+      "listing_id": "4739193332982336",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4050,
+      "neighborhood": "Financial District",
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "balcony",
+        "bay_view",
+        "secured_building",
+        "near_transit",
+        "wifi_included",
+        "utilities_included",
+        "450_sq_ft",
+        "no_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4739193332982336",
+      "posted_at": "Wednesday 7 October 2026 at 18:49",
+      "first_scraped_at": "2026-10-08T03:00:04.819257+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "studio, starting Oct 15 Moving date is flexible anytime",
+      "search_snippet_long": "studio, starting Oct 15 Moving date is flexible anytime after Oct 15 Duration min. 1 month Located in FIDI. No"
     }
   ]
 }
