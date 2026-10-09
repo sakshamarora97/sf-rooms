@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T12:09:22.413772",
-  "count": 2316,
+  "updated_at": "2026-10-09T13:09:36.419649",
+  "count": 2317,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -72447,6 +72447,35 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "The Asher, Fremont's first luxury apartment community, professionally managed by Greystar. Cherry layout, approx 1,100 sq ft. Available: Oct 20,",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2027792257912346",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2027-02-28",
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "roof"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2027792257912346",
+      "posted_at": "Friday 9 October 2026 at 11:46",
+      "first_scraped_at": "2026-10-09T20:00:04.074660+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "traveling this winter and subleasing my room in North Beach for late November through February (dates flexible) The room: Furnished",
+      "group_id": "242765489748374"
     }
   ]
 }
