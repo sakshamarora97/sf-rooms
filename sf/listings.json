@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T13:09:36.419649",
-  "count": 2317,
+  "updated_at": "2026-10-09T14:09:20.344077",
+  "count": 2318,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -72447,6 +72447,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "The Asher, Fremont's first luxury apartment community, professionally managed by Greystar. Cherry layout, approx 1,100 sq ft. Available: Oct 20,",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2027833584574880",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1735,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "6B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2027833584574880",
+      "posted_at": "Friday 9 October 2026 at 12:50",
+      "first_scraped_at": "2026-10-09T20:00:04.074660+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate and I got new jobs and unfortunately have to leave our gorgeous aparment in Parnassus Heights. We are looking",
+      "group_id": "242765489748374"
     },
     {
       "listing_id": "2027792257912346",
