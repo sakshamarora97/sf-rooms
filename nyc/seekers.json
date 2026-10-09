@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T20:13:51.982990",
-  "count": 38,
+  "updated_at": "2026-10-08T21:16:31.528551",
+  "count": 40,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1111,6 +1111,63 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "in the process of relocating to NYC. November or",
       "search_snippet_long": "in the process of relocating to NYC. November or December Preferred areas: Harlem, UWS, UES, Mid/Lower Manhattan, Brooklyn (Any place"
+    },
+    {
+      "listing_id": "2241422889755839",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "He is a 26-year-old recent graduate starting a full-time job near Times Square in Manhattan. He is seeking a private bedroom in a shared apartment, planning to move in on 2026-10-15 with a budget under $1,500/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241422889755839",
+      "posted_at": "Thursday 8 October 2026 at 19:49",
+      "first_scraped_at": "2026-10-09T03:07:29.136603+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Haziq, 26, and I\u2019ve recently graduated. I\u2019m moving to",
+      "search_snippet_long": "Haziq, 26, and I\u2019ve recently graduated. I\u2019m moving to NYC to start my full-time job in Manhattan, near Times Square,"
+    },
+    {
+      "listing_id": "2241451423086319",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a furnished short-term sublet (studio or private room) with in-unit laundry from around Nov 1 through January, flexible, with a budget of $3000/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241451423086319",
+      "posted_at": "Thursday 8 October 2026 at 20:35",
+      "first_scraped_at": "2026-10-09T04:09:40.089367+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet Nov to Jan Hi!!! I\u2019m searching for a",
+      "search_snippet_long": "sublet Nov to Jan Hi!!! I\u2019m searching for a furnished sublet either studio or room in apartment for Nov 1"
     }
   ]
 }
