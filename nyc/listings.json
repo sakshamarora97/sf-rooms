@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T06:47:17.139783",
-  "count": 122,
+  "updated_at": "2026-10-09T07:48:07.323172",
+  "count": 124,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -3810,6 +3810,73 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "**Private Master Bedroom in Luxury High-Rise Jersey City (Journal Square)** 425 Summit Ave, Jersey City, NJ 07306 Move-in: Nov 4,",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2241861109712017",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "Gowanus",
+      "area": "Brooklyn",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "5B5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "in_unit_laundry",
+        "dishwasher",
+        "central_ac",
+        "hardwood_floors",
+        "roof_deck",
+        "backyard_garden",
+        "open_kitchen",
+        "shared_living_area"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241861109712017",
+      "posted_at": "Friday 9 October 2026 at 07:15",
+      "first_scraped_at": "2026-10-09T14:40:08.383230+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "GOWANUS $1,550/MONTH ASAP OR 11/1 Room available in a spacious 5 bed 5 bath apartment at 557 Union St, Brooklyn,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2241626206402174",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "East Harlem",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "private_terrace",
+        "private_building",
+        "near_public_transportation"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241626206402174",
+      "posted_at": "Friday 9 October 2026 at 01:43",
+      "first_scraped_at": "2026-10-09T14:40:08.383230+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "East Harlem $3,500/month If you\u2019re looking for a modern, private apartment in a convenient NYC location, this 1-bedroom, 1-bathroom apartment",
+      "group_id": "149460102285472"
     }
   ]
 }

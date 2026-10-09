@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T06:47:17.139783",
-  "count": 46,
+  "updated_at": "2026-10-09T07:48:07.323172",
+  "count": 48,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1337,6 +1337,63 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "I am an Italian journalist and also work full-time as an assistant manager at a store in New York. I",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2241879089710219",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Flatiron",
+        "Little Italy"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two young professionals (25 and 24) working in healthcare and finance who are laid-back and social. They enjoy traveling, music festivals, and chill nights in, and are seeking a clean, considerate roommate to join their lease.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241879089710219",
+      "posted_at": "Friday 9 October 2026 at 07:39",
+      "first_scraped_at": "2026-10-09T14:40:08.383230+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for a 3rd roommate to join us on a lease! Move-in: Potentially late October to the first week of November",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2241742829723845",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hell's Kitchen"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a skincare specialist at Est\u00e9e Lauder who is also auditioning for Broadway shows and is seeking a room in Hell's Kitchen with a budget of $2,000\u2013$2,500/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241742829723845",
+      "posted_at": "Friday 9 October 2026 at 04:34",
+      "first_scraped_at": "2026-10-09T14:40:08.383230+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "is Jerald, I am looking for a room preferably in hell\u2019s kitchen for around 2000-2500 I am a skincare specialist",
+      "group_id": "149460102285472"
     }
   ]
 }
