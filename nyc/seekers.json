@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T11:18:13.596385",
-  "count": 54,
+  "updated_at": "2026-10-09T12:35:21.442258",
+  "count": 55,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1567,6 +1567,37 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Private room Preferred Location: Jersey City Heights Budget (including utilities): $700-$800/month Move-in Date: November 1 Please DM me if you",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2242060326358762",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": 950,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Crown Heights",
+        "Harlem",
+        "East Harlem"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is a general manager at a kids' sports training and fitness facility with steady income. He keeps shared spaces tidy, is respectful and low-key, and is a big R&B fan who is comfortable with roommates and rehearsing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242060326358762",
+      "posted_at": "Friday 9 October 2026 at 11:47",
+      "first_scraped_at": "2026-10-09T19:09:27.454887+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "and I\u2019m looking for a room in Bedstuy/Crown Heights (open to Harlem/Spanish Harlem) with a move in ASAP or by",
+      "group_id": "149460102285472"
     }
   ]
 }
