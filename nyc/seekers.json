@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T12:35:21.442258",
-  "count": 55,
+  "updated_at": "2026-10-09T13:19:05.712761",
+  "count": 58,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1597,6 +1597,105 @@
       "first_scraped_at": "2026-10-09T19:09:27.454887+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "and I\u2019m looking for a room in Bedstuy/Crown Heights (open to Harlem/Spanish Harlem) with a move in ASAP or by",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242080639690064",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 500,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Astoria",
+        "Woodside",
+        "Sunnyside",
+        "Long Island City",
+        "Jackson Heights",
+        "Elmhurst",
+        "Williamsburg",
+        "Bushwick",
+        "Queens",
+        "Jersey City"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old moving to NYC for a full-time job. Active, sporty and easygoing; enjoys soccer, basketball, the gym and exploring the city, and describes himself as clean, responsible and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242080639690064",
+      "posted_at": "Friday 9 October 2026 at 12:18",
+      "first_scraped_at": "2026-10-09T20:09:41.118530+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Abhinav, I\u2019m 22 years old, and I\u2019m moving to the NYC area for a full-time job. I\u2019m currently",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242066043024857",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Bushwick",
+        "Bed-Stuy"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old civil engineer from Elmsford with a stable income and 800+ credit score, seeking to join a 3\u20134 room apartment in Williamsburg, Bushwick, or Bed-Stuy. He enjoys outdoor activities (biking, running, hiking, climbing, gardening), is social, and prefers a mixed-gender apartment.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242066043024857",
+      "posted_at": "Friday 9 October 2026 at 11:55",
+      "first_scraped_at": "2026-10-09T20:09:41.118530+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for ASAP Move-In or Lease Takeover Hey! I'm Chris, a 24-year old New Yorker looking for a change of scenery",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2241928373038624",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Bed-Stuy",
+        "Crown Heights",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a recent graduate from Chicago moving to NYC to work in advertising. They are chill, value cleanliness and open communication, DJ in their spare time, and enjoy thrifting, cafes, and museums; LGBTQ+ and 420 friendly.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241928373038624",
+      "posted_at": "Friday 9 October 2026 at 08:44",
+      "first_scraped_at": "2026-10-09T20:09:41.118530+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "i\u2019m moving to NYC for a job and am looking for a late OCT/ early NOV sublet!!! feel free to",
       "group_id": "149460102285472"
     }
   ]

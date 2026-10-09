@@ -31,6 +31,10 @@
     "lat": 40.6957755,
     "lon": -73.9170604
   },
+  "Bushwick, Queens": {
+    "lat": 40.6957755,
+    "lon": -73.9170604
+  },
   "Chelsea, Manhattan": {
     "lat": 40.7465004,
     "lon": -74.00137370000002
@@ -70,6 +74,10 @@
   "East Village, Manhattan": {
     "lat": 40.7264773,
     "lon": -73.98153370000001
+  },
+  "Elmhurst, Queens": {
+    "lat": 40.73940350000001,
+    "lon": -73.8779431
   },
   "Exchange Place, Jersey City & Hoboken": {
     "lat": 40.7161048,
@@ -148,6 +156,10 @@
     "lon": -73.7991953
   },
   "Jersey City, Jersey City & Hoboken": {
+    "lat": 40.7195342,
+    "lon": -74.0430133
+  },
+  "Jersey City, Queens": {
     "lat": 40.7195342,
     "lon": -74.0430133
   },
@@ -243,6 +255,10 @@
     "lat": 40.5953955,
     "lon": -73.94575379999999
   },
+  "Sunnyside, Queens": {
+    "lat": 40.7432759,
+    "lon": -73.9196324
+  },
   "Sunset Park, Brooklyn": {
     "lat": 40.6526345,
     "lon": -74.0091872
@@ -287,8 +303,16 @@
     "lat": 40.7085742,
     "lon": -73.9701826
   },
+  "Williamsburg, Queens": {
+    "lat": 40.7081156,
+    "lon": -73.9570696
+  },
   "Woodhaven, Queens": {
     "lat": 40.6901366,
     "lon": -73.8566087
+  },
+  "Woodside, Queens": {
+    "lat": 40.7532704,
+    "lon": -73.9068858
   }
 }
