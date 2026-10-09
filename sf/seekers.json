@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T10:08:45.854094",
-  "count": 2994,
+  "updated_at": "2026-10-09T11:09:30.371756",
+  "count": 2995,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89645,6 +89645,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a room in San Francisco with a budget of around $1,600\u2013$2,000/month. Ideally, I\u2019d like a private bedroom and",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4741098169458519",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old Cal alum who works in tech and is in the office most weekdays near SoMa/FiDi. Clean, quiet, no pets, respectful of shared space; low-key on weeknights and usually out at events on weekends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4741098169458519",
+      "posted_at": "Friday 9 October 2026 at 10:30",
+      "first_scraped_at": "2026-10-09T18:00:03.756507+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a female roommate to team up on a 2B2B in SF, move-in ASAP (ideally before end of October).",
+      "group_id": "2176716625896699"
     }
   ]
 }
