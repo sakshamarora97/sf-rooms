@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T13:19:05.712761",
-  "count": 144,
+  "updated_at": "2026-10-09T14:17:58.412236",
+  "count": 145,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -4524,6 +4524,38 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Roommate NOV 1st I have private room in a 3 bed 1 bath apartment in Indian street, journal square, jersey",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2242114416353353",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1800,
+      "neighborhood": "East Williamsburg",
+      "area": "Brooklyn",
+      "available_from": "2026-11-01",
+      "available_until": "2026-12-20",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "private_patio",
+        "full_kitchen",
+        "shared_living_space",
+        "2_bathrooms"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242114416353353",
+      "posted_at": "Friday 9 October 2026 at 13:15",
+      "first_scraped_at": "2026-10-09T21:09:24.341539+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Williamsburg) Sublease NOV-DEC Hey everyone, I'm looking for someone to sublease my room (Nov 1 Dec 20) while I'm out",
+      "group_id": "149460102285472"
     }
   ]
 }
