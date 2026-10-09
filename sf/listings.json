@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T16:05:50.097948",
-  "count": 2287,
+  "updated_at": "2026-10-08T17:06:14.043783",
+  "count": 2288,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -71521,6 +71521,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Available for Lease Near Campus Hi everyone! I\u2019m sharing",
       "search_snippet_long": "Available for Lease Near Campus Hi everyone! I\u2019m sharing this listing on behalf of a friend who has a beautiful"
+    },
+    {
+      "listing_id": "2027068924651346",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 5000,
+      "neighborhood": "San Jose",
+      "area": "South Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "appliances",
+        "central_hvac",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2027068924651346",
+      "posted_at": "Thursday 8 October 2026 at 16:43",
+      "first_scraped_at": "2026-10-09T00:00:05.319229+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "\u6b65\u884c\u53ef\u8fbe\uff5cSFH\u6574\u79df\uff5c\u53ef\u77ed\u79df\u3011 \u5750\u6807: West San Jose 95129 \u7d27\u90bb Lynbrook High",
+      "search_snippet_long": "\u6b65\u884c\u53ef\u8fbe\uff5cSFH\u6574\u79df\uff5c\u53ef\u77ed\u79df\u3011 \u5750\u6807: West San Jose 95129 \u7d27\u90bb Lynbrook High School \u5b66\u533a\uff1aDilworth Elementary / Miller Middle / Lynbrook High \u623f\u5c4b\u4fe1\u606f -3\u623f2\u536b"
     }
   ]
 }

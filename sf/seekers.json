@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T16:05:50.097948",
-  "count": 2983,
+  "updated_at": "2026-10-08T17:06:14.043783",
+  "count": 2984,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89301,6 +89301,41 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "27 Sublease 2 girls Hello! Me and my friend",
       "search_snippet_long": "27 Sublease 2 girls Hello! Me and my friend whose coming back from study aboard are looking for housing for"
+    },
+    {
+      "listing_id": "4740256182876051",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2400,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "Potrero Hill",
+        "Mission District",
+        "Mission Bay",
+        "Rincon Hill",
+        "Hayes Valley",
+        "Nob Hill",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old male who works in tech. He is social and easygoing, keeps the house clean, cooks at home a couple times a week, works from the office four days a week, enjoys outdoor activities on weekends, has no pets and does not need parking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4740256182876051",
+      "posted_at": "Thursday 8 October 2026 at 16:58",
+      "first_scraped_at": "2026-10-09T00:00:05.319229+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to start a new lease starting first week of",
+      "search_snippet_long": "to start a new lease starting first week of November. My name is Danush, and I\u2019m looking for a new"
     }
   ]
 }
