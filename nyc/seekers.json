@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T14:17:58.412236",
-  "count": 61,
+  "updated_at": "2026-10-09T15:19:22.301392",
+  "count": 63,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1783,6 +1783,69 @@
       "first_scraped_at": "2026-10-09T21:09:24.341539+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "FURNISHED ROOM to SUBLEASE till Dec 31 ASAP. I\u2019m looking for something in UPPER EAST SIDE A little about me:",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242149743016487",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1350,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Williamsburg",
+        "East New York",
+        "Greenpoint",
+        "Crown Heights",
+        "Canarsie"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They work full-time as a high school history teacher in East New York and take night classes twice weekly. They are LGB T+, do not smoke, are often out on weekends, enjoy playing guitar, cooking, hiking, journaling, thrifting, and checking out cafes and museums, and prefer a peaceful, tidy home.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242149743016487",
+      "posted_at": "Friday 9 October 2026 at 14:19",
+      "first_scraped_at": "2026-10-09T22:09:22.266966+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "lease takeover/sublet/or even roomates to find an apartment with. Starting November hopefully but am open till Dec if nothing comes",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242143456350449",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-02-01",
+      "budget_min": 3000,
+      "budget_max": 3800,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "They are two 23-year-old employed, tidy roommates seeking a short-term 2-bedroom sublease in Manhattan.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242143456350449",
+      "posted_at": "Friday 9 October 2026 at 14:07",
+      "first_scraped_at": "2026-10-09T22:09:22.266966+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "is Sammy and I\u2019m looking for a 2 bedroom sublease starting on December 1 and ending on February 1 (ending",
       "group_id": "149460102285472"
     }
   ]
