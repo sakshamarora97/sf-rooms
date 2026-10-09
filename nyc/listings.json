@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T19:14:27.407860",
-  "count": 112,
+  "updated_at": "2026-10-08T20:13:51.982990",
+  "count": 113,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -3486,6 +3486,44 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Squared \u2013 Journal Square, Jersey City $2,000/month | November",
       "search_snippet_long": "Squared \u2013 Journal Square, Jersey City $2,000/month | November Month-to-Month or till March Looking for a roommate for a 1"
+    },
+    {
+      "listing_id": "2241404613091000",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2500,
+      "neighborhood": "Midtown West",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "doorman",
+        "concierge",
+        "gym",
+        "on_site_laundry",
+        "elevator",
+        "dishwasher",
+        "hardwood_floors",
+        "air_conditioning",
+        "oven",
+        "microwave",
+        "city_views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241404613091000",
+      "posted_at": "Thursday 8 October 2026 at 19:18",
+      "first_scraped_at": "2026-10-09T03:07:29.136603+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Columbus Circle with Midtown views Hey everyone, I\u2019m Rishika,",
+      "search_snippet_long": "Columbus Circle with Midtown views Hey everyone, I\u2019m Rishika, a recent Columbia grad and started working in NYC and looking"
     }
   ]
 }
