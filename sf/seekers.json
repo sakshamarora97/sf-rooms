@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T18:06:34.370263",
-  "count": 2984,
+  "updated_at": "2026-10-08T19:07:50.412459",
+  "count": 2985,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89336,6 +89336,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "to start a new lease starting first week of",
       "search_snippet_long": "to start a new lease starting first week of November. My name is Danush, and I\u2019m looking for a new"
+    },
+    {
+      "listing_id": "1382685773631666",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-15",
+      "move_out_date": "2027-03-31",
+      "budget_min": 900,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "South Berkeley",
+        "North Berkeley",
+        "West Berkeley",
+        "Rockridge"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are a PhD candidate in Computer Science at the University of Michigan visiting the Simons Institute at UC Berkeley for a research program starting mid-January 2027, looking for a private room in Berkeley or nearby and are quiet and clean.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1382685773631666",
+      "posted_at": "Thursday 8 October 2026 at 19:01",
+      "first_scraped_at": "2026-10-09T02:00:04.712729+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "PhD candidate in Computer Science at the University of",
+      "search_snippet_long": "PhD candidate in Computer Science at the University of Michigan and will be visiting the Simons Institute at UC Berkeley"
     }
   ]
 }
