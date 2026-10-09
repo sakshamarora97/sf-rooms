@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T16:11:41.679896",
-  "count": 31,
+  "updated_at": "2026-10-08T17:26:58.361793",
+  "count": 34,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -905,6 +905,91 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Roommate / Lease-Sharing Partner \u2013 North Jersey Hi everyone!",
       "search_snippet_long": "Roommate / Lease-Sharing Partner \u2013 North Jersey Hi everyone! I\u2019m looking for someone interested in sharing a 2 Bed /"
+    },
+    {
+      "listing_id": "2241307806434014",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "NoMad"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two recent college graduates seeking a third roommate for a flex 3-bedroom in NoMad. One works in finance in the Financial District, enjoys the gym, raves, and hiking; the other works in Jersey City, likes cooking, playing guitar, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241307806434014",
+      "posted_at": "Thursday 8 October 2026 at 16:20",
+      "first_scraped_at": "2026-10-09T00:06:18.162016+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "NoMad apartment Hi! We are currently looking for a",
+      "search_snippet_long": "NoMad apartment Hi! We are currently looking for a third roommate to join us in this NoMad apartment! Please let"
+    },
+    {
+      "listing_id": "2241301316434663",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-12",
+      "move_out_date": "2026-11-07",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are visiting New York City for a few weeks and looking for a short-term sublet from October 12/13 to November 7, open to listings in Manhattan or Brooklyn.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241301316434663",
+      "posted_at": "Thursday 8 October 2026 at 16:07",
+      "first_scraped_at": "2026-10-09T00:06:18.162016+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for a short-term sublet in NYC from October 12/13",
+      "search_snippet_long": "for a short-term sublet in NYC from October 12/13 to November 7, preferably in Manhattan or Brooklyn. I\u2019ll be visiting"
+    },
+    {
+      "listing_id": "28451379661198183",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 500,
+      "budget_max": 600,
+      "unit_type_wanted": [
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a responsible, clean, organized, and easy-going woman seeking a shared room with a female roommate in Jersey City with a move-in date of 2026-11-01 and a budget of $500\u2013$600/month.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28451379661198183",
+      "posted_at": "Thursday 8 October 2026 at 16:52",
+      "first_scraped_at": "2026-10-09T00:06:18.162016+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "am looking for a shared room with a female",
+      "search_snippet_long": "am looking for a shared room with a female roommate in Jersey City, with a move-in date of November 1st."
     }
   ]
 }
