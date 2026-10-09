@@ -1416,7 +1416,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = 'b6d7ba84ce03';
+const SITE_VERSION = 'a8a00c64994b';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -1522,8 +1522,11 @@ function amenitiesHtml(list) {
 function isMobileViewport() {
   return window.matchMedia('(max-width: 767px)').matches;
 }
+// Groups whose posts group-scoped search can't find (Facebook-wide search does).
+const GLOBAL_SEARCH_GROUPS = [];
 function fbGroupSearchUrl(p) {
   if (!p.post_url || !p.search_snippet) return null;
+  if (GLOBAL_SEARCH_GROUPS.includes(p.group_id)) return `https://www.facebook.com/search/top/?q=${encodeURIComponent(p.search_snippet)}`;
   const seg = (p.post_url.match(/\/groups\/([^/?#]+)/) || [])[1];
   if (!seg) return null;
   const q = encodeURIComponent(p.search_snippet);
