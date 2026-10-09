@@ -1487,7 +1487,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = '95836e48be84';
+const SITE_VERSION = '77f2876a695d';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -1595,21 +1595,16 @@ function isMobileViewport() {
 }
 function fbGroupSearchUrl(p) {
   if (!p.post_url || !p.search_snippet) return null;
-  // The group-scoped search page (/groups/<id>/search/) only works on desktop web —
-  // on mobile web it silently redirects to the plain group page, dropping the query.
-  // Global search (/search/top/) isn't group-scoped, but it survives the mobile
-  // redirect. Since that search is FB-wide (not narrowed to the group), it uses a
-  // longer ~20-word snippet instead of the 9-word one, to cut down false-positive
-  // matches — falls back to the short snippet if a long one wasn't generated (e.g.
-  // it would have contained PII).
-  if (isMobileViewport()) {
-    const longSnippet = p.search_snippet_long || p.search_snippet;
-    return `https://www.facebook.com/search/top/?q=${encodeURIComponent(longSnippet)}`;
-  }
+  const seg = (p.post_url.match(/\/groups\/([^/?#]+)/) || [])[1];
+  if (!seg) return null;
   const q = encodeURIComponent(p.search_snippet);
-  const m = p.post_url.match(/\/groups\/([^/?#]+)/);
-  if (!m) return null;
-  return `https://www.facebook.com/groups/${m[1]}/search/?q=${q}`;
+  if (isMobileViewport()) {
+    // Mobile web redirects /groups/<id>/search/ to the group page and drops the query; this results
+    // URL keeps both the query and the group scope, but it needs the numeric group id.
+    const gid = p.group_id || (/^\d+$/.test(seg) ? seg : null);
+    return gid ? `https://www.facebook.com/search_results/?q=${q}&scope=group&scoped_entity_id=${gid}` : null;
+  }
+  return `https://www.facebook.com/groups/${seg}/search/?q=${q}`;
 }
 function searchFallbackHtml(p) {
   const url = fbGroupSearchUrl(p);
