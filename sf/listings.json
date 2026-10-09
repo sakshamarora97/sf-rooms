@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T09:07:39.951396",
-  "count": 2311,
+  "updated_at": "2026-10-09T10:08:45.854094",
+  "count": 2312,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -72277,6 +72277,36 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Rent: Mission Bernal Co-Living House, $2,200/mo, Newly Renovated Roof Deck We've been living the co-living lifestyle in this house since",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4741045842797085",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Hayward",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "street_parking",
+        "playground"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4741045842797085",
+      "posted_at": "Friday 9 October 2026 at 09:29",
+      "first_scraped_at": "2026-10-09T17:00:03.839631+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking to fill 2 bedroom/shared bath in my 4bd 3.5ba townhouse NOW in Hayward! Move in NOW! The home is",
+      "group_id": "2176716625896699"
     }
   ]
 }
