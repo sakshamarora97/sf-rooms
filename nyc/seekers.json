@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T22:25:34.558120",
-  "count": 40,
+  "updated_at": "2026-10-09T06:47:17.139783",
+  "count": 46,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1168,6 +1168,175 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "sublet Nov to Jan Hi!!! I\u2019m searching for a furnished sublet either studio or room in apartment for Nov 1",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2894993047533627",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Mid-20s professional working in NYC seeking a flatmate or sublease in Newport or Hoboken. Easygoing, friendly, and clean; enjoys exploring the city.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2894993047533627",
+      "posted_at": "Thursday 8 October 2026 at 22:36",
+      "first_scraped_at": "2026-10-09T13:40:08.401199+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Flatmate Sublease Newport or Hoboken Nov 1st Move-In Hi everyone! I'm looking for either a flatmate to house hunt with",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2241810566383738",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-09",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1750,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent Pace University marketing graduate starting a career in NYC; works as a bartender, is quiet, clean, usually out of the house for work, and is taking classes to become a licensed yogi.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241810566383738",
+      "posted_at": "Friday 9 October 2026 at 06:10",
+      "first_scraped_at": "2026-10-09T13:40:08.401199+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "LOOKING FOR A RENTAL! Whether it be a private room/ a studio/1 bedroom rental, or even if anyone needs a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2241750013056460",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 26,
+      "bio": "26-year-old technical product manager and part-time master's student in cybersecurity. Quiet at home, works in-office 2\u20133 days a week and WFH the rest; looking to join an existing apartment or team up to find a new lease.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241750013056460",
+      "posted_at": "Friday 9 October 2026 at 04:46",
+      "first_scraped_at": "2026-10-09T13:40:08.401199+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Brandon, 26, and I'm looking for a room starting on or before November 1 (either lease takeover or new lease).",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2241547696410025",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-25",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Hoboken"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is a design professional seeking a room in Manhattan or Hoboken. Describes themself as clean, considerate, and easy to live with and can provide references; open to shared apartments.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241547696410025",
+      "posted_at": "Thursday 8 October 2026 at 23:22",
+      "first_scraped_at": "2026-10-09T13:40:08.401199+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for a room in downtown- midtown Manhattan or Hoboken by October 25th November 1st, open to shared apartments. I\u2019m a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2241394676425327",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "She is a 25-year-old full-time tech worker from Dallas who commutes to the office most days and is clean and considerate of common spaces.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241394676425327",
+      "posted_at": "Thursday 8 October 2026 at 19:01",
+      "first_scraped_at": "2026-10-09T13:40:08.401199+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Manhattan for Early Nov! Hey everyone! I\u2019m Rishika (25F, originally from Dallas), looking to take over a lease or join",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28457907990545350",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Is an Italian journalist who also works full-time as an assistant manager at a store in New York. Looking for a large room or small studio and will be moving with a cat.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28457907990545350",
+      "posted_at": "Friday 9 October 2026 at 04:33",
+      "first_scraped_at": "2026-10-09T13:40:08.401199+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "I am an Italian journalist and also work full-time as an assistant manager at a store in New York. I",
+      "group_id": "765841576845364"
     }
   ]
 }
