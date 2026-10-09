@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T19:07:50.412459",
-  "count": 2294,
+  "updated_at": "2026-10-08T20:07:24.331164",
+  "count": 2295,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -71751,6 +71751,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "BR / 1 BA Single-Level End Unit Townhome in",
       "search_snippet_long": "BR / 1 BA Single-Level End Unit Townhome in Willow Glen Details: Rent: $4,500/month (Utilities included up to $300/mo cap)"
+    },
+    {
+      "listing_id": "2027087951316110",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3400,
+      "neighborhood": "San Jose",
+      "area": "South Bay",
+      "available_from": "2026-10-22",
+      "available_until": "2027-02-28",
+      "unit_config": "2B2.5B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "2_car_garage",
+        "walk_in_closet",
+        "storage",
+        "bbq_area",
+        "playground"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2027087951316110",
+      "posted_at": "Thursday 8 October 2026 at 17:21",
+      "first_scraped_at": "2026-10-09T03:00:07.883608+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Jose Apartment | 2-Car Garage Spacious 2-bedroom, 2.5-bathroom apartment",
+      "search_snippet_long": "Jose Apartment | 2-Car Garage Spacious 2-bedroom, 2.5-bathroom apartment available in a safe, quiet, and well-maintained community in San Jose,"
     }
   ]
 }
