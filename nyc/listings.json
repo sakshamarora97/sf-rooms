@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T09:16:36.192964",
-  "count": 132,
+  "updated_at": "2026-10-09T10:16:35.117316",
+  "count": 134,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -4138,6 +4138,68 @@
       "first_scraped_at": "2026-10-09T16:07:44.173229+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "BASEMENT ROOM ALONG WITH SHARED SPACES Jersey City Owner Occupied) DETAILS: Fully Furnished Basement Bedroom-$1200 per month *Security Deposit -$300",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2241981969699931",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Prospect Lefferts Gardens",
+      "area": "Brooklyn",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 4,
+      "amenities": [
+        "laundry_in_building",
+        "private_bathroom",
+        "wifi",
+        "monthly_cleaning_service"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241981969699931",
+      "posted_at": "Friday 9 October 2026 at 09:56",
+      "first_scraped_at": "2026-10-09T17:08:50.584057+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "louer FURNISHED ROOM PRIVATE BATH AVAILABLE ASAP BROOKLYN South of Prospect Lefferts Garden, near Prospect Park International students/young professionals only,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28461267010209448",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-01",
+      "available_until": "2027-01-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "parking",
+        "gym",
+        "concierge",
+        "building_shuttle"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28461267010209448",
+      "posted_at": "Friday 9 October 2026 at 09:20",
+      "first_scraped_at": "2026-10-09T17:08:50.584057+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "one bedroom apartment in Jersey City. Looking for $2000 monthly. Fully furnished. Brand new building, located 1 minute walk from",
       "group_id": "765841576845364"
     }
   ]

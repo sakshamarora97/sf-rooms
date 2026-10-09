@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T09:16:36.192964",
-  "count": 52,
+  "updated_at": "2026-10-09T10:16:35.117316",
+  "count": 53,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1511,6 +1511,33 @@
       "first_scraped_at": "2026-10-09T16:07:44.173229+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Lease Looking for an open room ideally in BK (Bedstuy/Bushwick) and can move in anytime from asap to Nov 1",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2241955709702557",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1100,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "He is a 24-year-old Brooklyn native and working professional with a stable five-days-in-office job. He describes himself as calm, tidy, and respectful, good with cats, LGBTQ/420 friendly, and enjoys photography, gaming, anime, film, and music.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241955709702557",
+      "posted_at": "Friday 9 October 2026 at 09:18",
+      "first_scraped_at": "2026-10-09T17:08:50.584057+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "place starting November or December 1st Hi everyone! My name is Kamara (Tyler is my middle name)! Im a 24M",
       "group_id": "149460102285472"
     }
   ]
