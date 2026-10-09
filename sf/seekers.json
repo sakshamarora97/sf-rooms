@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T21:53:54.695010",
-  "count": 2986,
+  "updated_at": "2026-10-08T22:08:27.694912",
+  "count": 2987,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89403,6 +89403,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Brett. I've accepted a new clinical pharmacist position and will be relocating to SF from east coast at",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4740463769521959",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a roommate opportunity and wants a private bathroom; enjoys traveling, hiking, concerts, reading, and plays piano and ukulele. Prefers a social household that isn\u2019t too loud on weeknights and needs a dishwasher plus laundry in-unit or in-building; looking to move as soon as possible.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4740463769521959",
+      "posted_at": "Thursday 8 October 2026 at 21:51",
+      "first_scraped_at": "2026-10-09T05:00:02.227951+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for people to apply to places with! I\u2019ve enjoyed traveling, hiking, concerts, reading, and playing the piano and ukulele.",
+      "group_id": "2176716625896699"
     }
   ]
 }
