@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T17:26:58.361793",
-  "count": 34,
+  "updated_at": "2026-10-08T18:41:41.670654",
+  "count": 37,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -990,6 +990,96 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "am looking for a shared room with a female",
       "search_snippet_long": "am looking for a shared room with a female roommate in Jersey City, with a move-in date of November 1st."
+    },
+    {
+      "listing_id": "2241341919763936",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "He is a 24-year-old moving from Westchester to NYC for a finance role, social, clean, and easygoing. He enjoys working out, watching sports, going out, and is looking for roommates around his age and plans to work in the office.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241341919763936",
+      "posted_at": "Thursday 8 October 2026 at 17:30",
+      "first_scraped_at": "2026-10-09T01:06:38.389948+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "24, moving from Westchester to NYC for a new",
+      "search_snippet_long": "24, moving from Westchester to NYC for a new finance role and looking for a roommate or two for a"
+    },
+    {
+      "listing_id": "2241337429764385",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2BR",
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Downtown Brooklyn",
+        "Brooklyn Heights",
+        "Fort Greene",
+        "Williamsburg",
+        "Long Island City",
+        "Hoboken"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "Young professional in tech working near Bryant Park seeking a December 1 move-in for a room or a 2\u20133BR to split; prefers female roommates and a 12-month lease (6+ months with renewal acceptable), and needs in-unit/building laundry and a dishwasher.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241337429764385",
+      "posted_at": "Thursday 8 October 2026 at 17:21",
+      "first_scraped_at": "2026-10-09T01:06:38.389948+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Gitika, 25F, a young professional working in tech in",
+      "search_snippet_long": "Gitika, 25F, a young professional working in tech in Midtown (near Bryant Park). I'm looking for a **December 1 move-in**"
+    },
+    {
+      "listing_id": "28452020207800795",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is a working professional looking for a private room near Journal Square.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28452020207800795",
+      "posted_at": "Thursday 8 October 2026 at 18:04",
+      "first_scraped_at": "2026-10-09T01:06:38.389948+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "looking for a private room near Journal square. I",
+      "search_snippet_long": "looking for a private room near Journal square. I am a working professional. Thank you."
     }
   ]
 }

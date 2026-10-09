@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T17:26:58.361793",
-  "count": 105,
+  "updated_at": "2026-10-08T18:41:41.670654",
+  "count": 107,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -3275,6 +3275,70 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "\ud835\udc13\ud835\udc11\ud835\udc00\ud835\udc0d\ud835\udc12\ud835\udc05\ud835\udc04\ud835\udc11 | \ud835\udfcf \ud835\udc01\ud835\udc03 \ud835\udc0d\ud835\udc04\ud835\udc16\ud835\udc0f\ud835\udc0e\ud835\udc11\ud835\udc13, \ud835\udc09\ud835\udc04\ud835\udc11\ud835\udc12\ud835\udc04\ud835\udc18 \ud835\udc02\ud835\udc08\ud835\udc13\ud835\udc18 | \ud835\udc03\ud835\udc08\ud835\udc12\ud835\udc02\ud835\udc0e\ud835\udc14\ud835\udc0d\ud835\udc13\ud835\udc04\ud835\udc03",
       "search_snippet_long": "\ud835\udc13\ud835\udc11\ud835\udc00\ud835\udc0d\ud835\udc12\ud835\udc05\ud835\udc04\ud835\udc11 | \ud835\udfcf \ud835\udc01\ud835\udc03 \ud835\udc0d\ud835\udc04\ud835\udc16\ud835\udc0f\ud835\udc0e\ud835\udc11\ud835\udc13, \ud835\udc09\ud835\udc04\ud835\udc11\ud835\udc12\ud835\udc04\ud835\udc18 \ud835\udc02\ud835\udc08\ud835\udc13\ud835\udc18 | \ud835\udc03\ud835\udc08\ud835\udc12\ud835\udc02\ud835\udc0e\ud835\udc14\ud835\udc0d\ud835\udc13\ud835\udc04\ud835\udc03 \ud835\udc11\ud835\udc04\ud835\udc0d\ud835\udc13 | $\ud835\udfd1\ud835\udfce\ud835\udfce\ud835\udfce | \ud835\udc02\ud835\udc07\ud835\udc04\ud835\udc00\ud835\udc0f\ud835\udc04\ud835\udc12\ud835\udc13 \ud835\udc11\ud835\udc04\ud835\udc0d\ud835\udc13 * 55 River Dr S,"
+    },
+    {
+      "listing_id": "2241315199766608",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1025,
+      "neighborhood": "Washington Heights",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "dishwasher",
+        "microwave",
+        "closets",
+        "high_ceilings",
+        "laundry_room",
+        "elevator",
+        "live_in_super",
+        "heat_and_hot_water_included"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241315199766608",
+      "posted_at": "Thursday 8 October 2026 at 16:36",
+      "first_scraped_at": "2026-10-09T01:06:38.389948+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommates in their 20s (no pets) Beautiful Large 4",
+      "search_snippet_long": "roommates in their 20s (no pets) Beautiful Large 4 Bedroom Apt in Manhattan Fort Washington Ave between 171st Street and"
+    },
+    {
+      "listing_id": "28451541281182021",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "free_shuttle",
+        "gym"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female preferred",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28451541281182021",
+      "posted_at": "Thursday 8 October 2026 at 17:10",
+      "first_scraped_at": "2026-10-09T01:06:38.389948+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "$1,550 - Female Roommate Needed - Secaucus - November",
+      "search_snippet_long": "$1,550 - Female Roommate Needed - Secaucus - November Move In I am looking for a roommate, preferably female, to"
     }
   ]
 }

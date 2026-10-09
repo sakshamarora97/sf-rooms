@@ -19,6 +19,10 @@
     "lat": 40.6959294,
     "lon": -73.9955523
   },
+  "Brooklyn Heights, Manhattan": {
+    "lat": 40.6959294,
+    "lon": -73.9955523
+  },
   "Bushwick, Brooklyn": {
     "lat": 40.6957755,
     "lon": -73.9170604
@@ -96,6 +100,10 @@
     "lon": -73.9918181
   },
   "Hoboken, Jersey City & Hoboken": {
+    "lat": 40.7371004,
+    "lon": -74.03130469999999
+  },
+  "Hoboken, Manhattan": {
     "lat": 40.7371004,
     "lon": -74.03130469999999
   },
@@ -214,5 +222,9 @@
   "Williamsburg, Brooklyn": {
     "lat": 40.7081156,
     "lon": -73.9570696
+  },
+  "Williamsburg, Manhattan": {
+    "lat": 40.7085742,
+    "lon": -73.9701826
   }
 }
