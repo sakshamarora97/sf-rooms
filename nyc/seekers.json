@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T07:48:07.323172",
-  "count": 48,
+  "updated_at": "2026-10-09T08:18:42.965024",
+  "count": 49,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1394,6 +1394,35 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "is Jerald, I am looking for a room preferably in hell\u2019s kitchen for around 2000-2500 I am a skincare specialist",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28460374373632045",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 999,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "The Heights",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a working professional who is clean, tidy, and responsible, prefers a peaceful living environment, and is vegetarian (eats eggs).",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28460374373632045",
+      "posted_at": "Friday 9 October 2026 at 08:05",
+      "first_scraped_at": "2026-10-09T15:10:29.094179+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Room for Rent in Jersey City (The Heights Near Journal Square) Hi everyone! I\u2019m looking for a room for rent",
+      "group_id": "765841576845364"
     }
   ]
 }
