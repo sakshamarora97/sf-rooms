@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T08:18:42.965024",
-  "count": 49,
+  "updated_at": "2026-10-09T09:16:36.192964",
+  "count": 52,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1423,6 +1423,95 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Room for Rent in Jersey City (The Heights Near Journal Square) Hi everyone! I\u2019m looking for a room for rent",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2895457417487190",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-25",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is a mid-20s male, non-vegetarian, seeking a private room in Newport for a long-term stay and is okay with a shared bathroom.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2895457417487190",
+      "posted_at": "Friday 9 October 2026 at 08:34",
+      "first_scraped_at": "2026-10-09T16:07:44.173229+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "room in Newport Hi All, I am looking for a private room in Newport. Budget $1800 Move in around Nov",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2895384057494526",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Newport",
+        "Journal Square",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a working professional who is vegetarian, clean, respectful, and easygoing. She keeps shared spaces tidy and is looking for a private bedroom or a 1B/1B in the Jersey City area.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2895384057494526",
+      "posted_at": "Friday 9 October 2026 at 07:12",
+      "first_scraped_at": "2026-10-09T16:07:44.173229+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "apartment Posting for a friend(Female, Late 20s): Hi everyone! I\u2019m looking for an apartment/room in Jersey City or nearby areas.",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2241946229703505",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Bushwick"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old who works full-time in Manhattan, spends free time painting, and describes themself as a low-maintenance roommate.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241946229703505",
+      "posted_at": "Friday 9 October 2026 at 09:08",
+      "first_scraped_at": "2026-10-09T16:07:44.173229+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Lease Looking for an open room ideally in BK (Bedstuy/Bushwick) and can move in anytime from asap to Nov 1",
+      "group_id": "149460102285472"
     }
   ]
 }
