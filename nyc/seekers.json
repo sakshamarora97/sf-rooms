@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T10:16:35.117316",
-  "count": 53,
+  "updated_at": "2026-10-09T11:18:13.596385",
+  "count": 54,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1539,6 +1539,34 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "place starting November or December 1st Hi everyone! My name is Kamara (Tyler is my middle name)! Im a 24M",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28462344376768378",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 700,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "The Heights"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a private room in Jersey City (The Heights) with a $700\u2013$800 monthly budget including utilities and a November 1, 2026 move-in.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28462344376768378",
+      "posted_at": "Friday 9 October 2026 at 10:52",
+      "first_scraped_at": "2026-10-09T18:09:35.117542+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Private room Preferred Location: Jersey City Heights Budget (including utilities): $700-$800/month Move-in Date: November 1 Please DM me if you",
+      "group_id": "765841576845364"
     }
   ]
 }
