@@ -1487,7 +1487,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = '205489959634';
+const SITE_VERSION = '95836e48be84';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -1607,7 +1607,7 @@ function fbGroupSearchUrl(p) {
     return `https://www.facebook.com/search/top/?q=${encodeURIComponent(longSnippet)}`;
   }
   const q = encodeURIComponent(p.search_snippet);
-  const m = p.post_url.match(/\/groups\/(\d+)/);
+  const m = p.post_url.match(/\/groups\/([^/?#]+)/);
   if (!m) return null;
   return `https://www.facebook.com/groups/${m[1]}/search/?q=${q}`;
 }
