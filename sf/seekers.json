@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-08T20:07:24.331164",
-  "count": 2985,
+  "updated_at": "2026-10-08T21:09:34.890014",
+  "count": 2986,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89367,6 +89367,42 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "PhD candidate in Computer Science at the University of",
       "search_snippet_long": "PhD candidate in Computer Science at the University of Michigan and will be visiting the Simons Institute at UC Berkeley"
+    },
+    {
+      "listing_id": "2027194974638741",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1750,
+      "budget_max": 2750,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "Castro",
+        "Duboce Triangle",
+        "NoPa",
+        "Noe Valley",
+        "Cole Valley",
+        "Mission District",
+        "Inner Sunset",
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 30,
+      "bio": "He is a 30-year-old clinical pharmacist relocating from the East Coast to San Francisco in early November for a new job. He is social but values autonomy, enjoys hot yoga, cooking, beach volleyball, and art-making, and prioritizes cleanliness and clear communication.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2027194974638741",
+      "posted_at": "Thursday 8 October 2026 at 20:36",
+      "first_scraped_at": "2026-10-09T04:00:04.023857+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Brett. I've accepted a new clinical pharmacist",
+      "search_snippet_long": "name is Brett. I've accepted a new clinical pharmacist position and will be relocating to SF from east coast at"
     }
   ]
 }
