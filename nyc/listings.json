@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-08T21:53:55.690471",
-  "count": 118,
+  "updated_at": "2026-10-08T22:15:11.860291",
+  "count": 120,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -3673,6 +3673,71 @@
       "first_scraped_at": "2026-10-09T04:09:40.089367+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Patterson Street, Jersey City Looking for a female roommate to share a bedroom in a fully furnished 2BR/1BA apartment on",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2241498133081648",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2400,
+      "neighborhood": "Bay Ridge",
+      "area": "Brooklyn",
+      "available_from": "2026-10-15",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "furnished",
+        "modern_kitchen",
+        "natural_light",
+        "storage",
+        "quiet_building",
+        "no_broker_fee"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2241498133081648",
+      "posted_at": "Thursday 8 October 2026 at 21:55",
+      "first_scraped_at": "2026-10-09T05:08:31.668726+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Bath Apartment 4th Ave 77th St, Brooklyn, NY 11209, United States Looking for someone to take over a bright, spacious",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28454007817602034",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "garden",
+        "beach_access"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28454007817602034",
+      "posted_at": "Thursday 8 October 2026 at 21:27",
+      "first_scraped_at": "2026-10-09T05:08:31.668726+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "FURNISHED APARTMENT FOR RENT $2,000 STATEN ISLAND 10305 Peaceful home low rise Easy commute Beach boardwalk nearby Garden space! We",
       "group_id": "765841576845364"
     }
   ]
