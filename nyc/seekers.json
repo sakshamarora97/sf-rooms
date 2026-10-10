@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T00:06:36.026289",
-  "count": 72,
+  "updated_at": "2026-10-10T06:15:32.513639",
+  "count": 76,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2093,6 +2093,125 @@
       "first_scraped_at": "2026-10-10T05:23:26.141980+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "is Tales and I'm a student from Brazil. I'll be in NYC for a hospital rotation from November 7 to",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2242710966293698",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-02",
+      "move_out_date": "2026-11-09",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Chelsea",
+        "Greenwich Village",
+        "West Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a short-term one-week sublet; tidy and responsible, primarily there to sleep.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242710966293698",
+      "posted_at": "Saturday 10 October 2026 at 05:54",
+      "first_scraped_at": "2026-10-10T13:07:59.995762+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a short-term sublet for a week starting November 2nd. Preferred location: Manhattan, Chelsea, Greenwich, West Village Budget: max.",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242537092977752",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Bushwick",
+        "Upper East Side"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are a couple relocating to New York looking for housing. Seeking a 1-bedroom (up to $3,000) or a room for two (~$1,500), ideally in Williamsburg, Bushwick, or the Upper East Side, available from Nov 1.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242537092977752",
+      "posted_at": "Saturday 10 October 2026 at 01:44",
+      "first_scraped_at": "2026-10-10T13:07:59.995762+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "ONWARDS Hi everyone, My girlfriend and I are relocation to New York. We\u2019re looking for a 1 bed apartment (max",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28469316396071176",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A working professional who is respectful of shared spaces, seeking a shared room within walking distance of Journal Square. Available from 2026-10-17 with a budget under $400/month.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28469316396071176",
+      "posted_at": "Friday 9 October 2026 at 22:59",
+      "first_scraped_at": "2026-10-10T13:07:59.995762+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for shared accommodation within walking distance of Journal Square PATH station. Budget: under $400/month. Hi all! Looking for shared accommodation",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "982469654223711",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-23",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "They are moving to New York for college and seeking a studio or one-bedroom starting 2026-10-23. They are open to lease takeovers or regular leases in Manhattan, Brooklyn, or Queens.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/982469654223711",
+      "posted_at": "Saturday 10 October 2026 at 00:49",
+      "first_scraped_at": "2026-10-10T13:07:59.995762+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "for a studio/1bedroom apartment from the 23rd October. I am moving to New York for College. I am open to",
       "group_id": "312692887868061"
     }
   ]
