@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T15:09:18.064854",
-  "count": 3000,
+  "updated_at": "2026-10-09T20:11:42.034903",
+  "count": 3001,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89818,6 +89818,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "A TRAVEL NURSE BOOKED TO WORK AT KAISER SOUTH SAN FRAN. Im looking for housing one person only. I would",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4378225142488237",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-26",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Redwood City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 31,
+      "bio": "He is a 31-year-old software engineer who is quiet, clean, and easy to live with.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4378225142488237",
+      "posted_at": "Friday 9 October 2026 at 20:06",
+      "first_scraped_at": "2026-10-10T03:00:03.333662+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "am looking for a place in or around San Mateo Redwood City or anything nearby in 10 mile radius. I\u2019m",
+      "group_id": "1511607562483357"
     }
   ]
 }
