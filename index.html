@@ -4,28 +4,46 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Unlisted Rooms — Off-market room rentals, sublets & roommates</title>
-<meta name="description" content="Real-time room rentals, subleases, lease takeovers and roommate posts from Facebook housing groups, organized and searchable. Pick your city: San Francisco Bay Area or New York City.">
+<meta name="description" content="Search room rentals, subleases and roommate posts from Facebook housing groups in San Francisco and New York City, updated hourly.">
 <link rel="canonical" href="https://unlistedrooms.com/">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://unlistedrooms.com/">
 <meta property="og:title" content="Unlisted Rooms — Off-market room rentals, sublets & roommates">
-<meta property="og:description" content="Real-time room rentals, subleases and roommate posts from Facebook housing groups. San Francisco Bay Area and New York City.">
+<meta property="og:description" content="Room rentals, subleases and roommate posts from Facebook housing groups, organized and searchable. San Francisco Bay Area and New York City.">
 <meta property="og:site_name" content="Unlisted Rooms">
+<meta property="og:image" content="https://unlistedrooms.com/og/unlisted-rooms.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Unlisted Rooms — Off-market room rentals, sublets & roommates">
+<meta name="twitter:description" content="Room rentals, subleases and roommate posts from Facebook housing groups in SF and NYC, updated hourly.">
+<meta name="twitter:image" content="https://unlistedrooms.com/og/unlisted-rooms.png">
 <meta name="google-site-verification" content="pAtc5vYt9xrlUB2TRrlCaBdwJyTpOFX-O9HHWVsBdGI">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Unlisted Rooms","url":"https://unlistedrooms.com/","description":"Room rentals, subleases and roommate posts from Facebook housing groups in San Francisco and New York City, organized and searchable, updated hourly."}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"What is Unlisted Rooms?","acceptedAnswer":{"@type":"Answer","text":"Unlisted Rooms organizes room rentals, subleases, lease takeovers and roommate searches that people post in public Facebook housing groups, so you can filter them by neighborhood, rent, dates and more. We don't host listings; every result links back to the original Facebook post."}},
+{"@type":"Question","name":"Where do the listings come from?","acceptedAnswer":{"@type":"Answer","text":"From public Facebook housing groups for San Francisco, the East Bay including Berkeley, and the New York City area including Jersey City and Hoboken. An AI model reads each post and pulls out the rent, neighborhood, room type and dates."}},
+{"@type":"Question","name":"How often is it updated?","acceptedAnswer":{"@type":"Answer","text":"The data refreshes hourly between 6 AM and 10 PM Pacific time. Each page shows when it was last updated."}},
+{"@type":"Question","name":"Do I need an account?","acceptedAnswer":{"@type":"Answer","text":"No. You can browse and filter without signing in. An optional account lets you save listings and keep private notes and tags."}},
+{"@type":"Question","name":"Are the posts verified?","acceptedAnswer":{"@type":"Answer","text":"No. Posts come straight from Facebook groups and are not verified. Always confirm details with the poster and be careful with deposits and payments."}}
+]}</script>
 <script>
   // Old bookmarks/shared links used unlistedrooms.com/?filters#state, which belonged to San Francisco.
   if (location.search || location.hash) location.replace('sf/' + location.search + location.hash);
 </script>
 <style>
-  :root { --bg:#f7f6f3; --surface:#ffffff; --text:#1a1a1a; --muted:#6b6b6b; --border:#e0e0e0; --accent:#4f46e5; --warm:#c8922a; }
+  :root { --bg:#f7f6f3; --surface:#ffffff; --text:#1a1a1a; --muted:#5f5f5f; --border:#e0e0e0; --accent:#4f46e5; --warm:#c8922a; }
   @media (prefers-color-scheme: dark) {
     :root { --bg:#111111; --surface:#1c1c1e; --text:#f2f2f7; --muted:#a1a1a8; --border:#38383a; --accent:#818cf8; --warm:#e8a830; }
   }
   * { box-sizing: border-box; }
-  body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; line-height:1.5; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; line-height:1.55; }
   main { max-width:720px; margin:0 auto; padding:56px 16px 40px; }
   h1 { font-size:30px; letter-spacing:-0.5px; margin:0 0 8px; border-bottom:4px solid var(--warm); display:inline-block; padding-bottom:6px; }
+  h2 { font-size:21px; margin:40px 0 10px; letter-spacing:-0.2px; }
+  h3 { font-size:16px; margin:20px 0 4px; }
+  p { margin:0 0 12px; }
   p.lede { font-size:17px; color:var(--muted); margin:14px 0 28px; }
   .cities { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:14px; }
   a.city { display:block; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:20px; text-decoration:none; color:inherit; transition:border-color .15s, transform .15s; }
@@ -33,6 +51,8 @@
   a.city strong { display:block; font-size:19px; margin-bottom:4px; }
   a.city span { color:var(--muted); font-size:14px; }
   a.city em { display:inline-block; margin-top:12px; font-style:normal; font-weight:600; color:var(--accent); }
+  ul.how { padding-left:20px; margin:0 0 8px; }
+  ul.how li { margin-bottom:6px; }
   footer { margin-top:36px; font-size:13px; color:var(--muted); }
 </style>
 </head>
@@ -52,6 +72,26 @@
       <em>Browse NYC listings →</em>
     </a>
   </div>
+
+  <h2>How it works</h2>
+  <ul class="how">
+    <li><strong>We read the groups.</strong> Every hour we collect new posts from public Facebook housing groups in each city.</li>
+    <li><strong>We organize them.</strong> An AI model pulls out the rent, neighborhood, room type, dates and amenities, and sorts posts into listings, room seekers and spam.</li>
+    <li><strong>You filter and click through.</strong> Search by neighborhood, rent and dates, see results on a map, and open the original Facebook post to contact the poster.</li>
+  </ul>
+
+  <h2>Frequently asked questions</h2>
+  <h3>What is Unlisted Rooms?</h3>
+  <p>A way to search the room rentals, subleases, lease takeovers and roommate searches people post in Facebook groups. We don't host listings; every result links back to the original post.</p>
+  <h3>Where do the listings come from?</h3>
+  <p>Public Facebook housing groups for San Francisco, the East Bay including Berkeley, and the New York City area including Jersey City and Hoboken.</p>
+  <h3>How often is it updated?</h3>
+  <p>Hourly between 6 AM and 10 PM Pacific time. Each page shows when it was last updated.</p>
+  <h3>Do I need an account?</h3>
+  <p>No. You can browse and filter freely. An optional account lets you save listings and keep private notes and tags.</p>
+  <h3>Are the posts verified?</h3>
+  <p>No. Posts come straight from Facebook groups. Always confirm details with the poster, and be careful with deposits and payments.</p>
+
   <footer>Not a listing host — every result links back to the original Facebook post.</footer>
 </main>
 </body>

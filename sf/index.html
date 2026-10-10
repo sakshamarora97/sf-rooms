@@ -14,11 +14,15 @@
 <meta property="og:title" content="Unlisted Rooms — San Francisco Housing, Sublets & Roommates">
 <meta property="og:description" content="Real-time SF housing listings scraped from Facebook groups. Subleases, room rentals, lease takeovers, and roommates — updated hourly.">
 <meta property="og:site_name" content="Unlisted Rooms">
+<meta property="og:image" content="https://unlistedrooms.com/og/sf.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Unlisted Rooms — San Francisco Housing, Sublets & Roommates">
 <meta name="twitter:description" content="Real-time SF housing listings scraped from Facebook groups. Updated hourly.">
+<meta name="twitter:image" content="https://unlistedrooms.com/og/sf.png">
 <meta name="google-site-verification" content="pAtc5vYt9xrlUB2TRrlCaBdwJyTpOFX-O9HHWVsBdGI">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1GZ9FS6ZKP"></script>
@@ -1416,7 +1420,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = '1d33ce0c25d9';
+const SITE_VERSION = 'dd6c9d69cfea';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
