@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T11:06:56.224631",
-  "count": 3009,
+  "updated_at": "2026-10-10T12:07:05.863287",
+  "count": 3010,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90077,6 +90077,32 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Savannah, and my friend Kenzie and I are looking for an apartment in San Francisco! We\u2019re open to",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4742241362677533",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent UT Austin graduate working full-time in an office; social and active (pickleball, hiking), clean, respectful, and easygoing; seeking a short-term room in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4742241362677533",
+      "posted_at": "Saturday 10 October 2026 at 11:01",
+      "first_scraped_at": "2026-10-10T19:00:03.582574+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Tanish, and I\u2019m looking for roommates and/or a room in SF starting late October or early November. What I\u2019m looking",
+      "group_id": "2176716625896699"
     }
   ]
 }

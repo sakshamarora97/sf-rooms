@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T11:06:56.224631",
-  "count": 2340,
+  "updated_at": "2026-10-10T12:07:05.863287",
+  "count": 2341,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73186,6 +73186,36 @@
       "first_scraped_at": "2026-10-10T18:00:02.706083+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "have an available room in our beautiful South Berkeley home beginning January 1st. We have rented to many great UCB",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1384125510154359",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "study_rooms",
+        "rooftop"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Valiant",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1384125510154359",
+      "posted_at": "Saturday 10 October 2026 at 11:50",
+      "first_scraped_at": "2026-10-10T19:00:03.582574+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Valiant Private Bedroom in 2B1B Official Reletting Hi everyone! I\u2019m looking for someone to take over my spot in a",
       "group_id": "558742412692677"
     }
   ]
