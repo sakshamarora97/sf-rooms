@@ -226,6 +226,9 @@
   }
   .site-footer a { color: var(--accent); text-decoration: none; }
   .site-footer a:hover { text-decoration: underline; }
+  .nb-links { margin-bottom: 8px; line-height: 1.9; }
+  .nb-links:empty { display: none; }
+  .nb-links-title { font-weight: 600; color: var(--text); }
 
   #user-menu { position: relative; display: flex; align-items: center; gap: 10px; }
   #user-email { font-size: 12px; color: var(--text-3); }
@@ -827,6 +830,7 @@
   /* NYC header: sunny-morning blue by day, navy by night (the shared default is SF gold) */
   header { background: linear-gradient(135deg, #5aaee9 0%, #8ccbf3 48%, #cfeafb 100%); }
   header h1 { color: #0b2238; }
+  header .brand { color: #0b2238; }
   header .header-tagline { color: #0f2f4d !important; }
   header .header-tagline-sub { color: #1d4468 !important; }
   .city-switcher a { color: #0b2238; background: rgba(255,255,255,0.6); border-color: rgba(11,34,56,0.2); }
@@ -839,6 +843,7 @@
   #report-issue-btn:hover { background: rgba(255,255,255,0.85); }
   html.dark header { background: linear-gradient(135deg, #04070d 0%, #0a111d 50%, #111b2d 100%); }
   html.dark header h1 { color: #eef3fa; }
+  html.dark header .brand { color: #eef3fa; }
   html.dark header .header-tagline { color: #a9bdd6 !important; }
   html.dark header .header-tagline-sub { color: #8197b2 !important; }
   html.dark .theme-btn-el { background: rgba(255,255,255,0.12); border-color: rgba(255,255,255,0.2); }
@@ -1374,6 +1379,7 @@
 <!-- SEO_CONTENT_END -->
 
 <footer class="site-footer">
+  <div id="nb-links" class="nb-links"></div>
   <a href="#" onclick="showHowItWorksModal();return false;">How it works</a> ·
   Have feedback or a feature request? <a href="#" onclick="openFeedbackModal('feedback');return false;">Contact us</a>
 </footer>
@@ -1491,7 +1497,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = '3a433dd726a1';
+const SITE_VERSION = '3815265a0659';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -2768,6 +2774,15 @@ document.addEventListener('visibilitychange', () => {
 
 restoreViewState();
 load().catch(err => console.error('Failed to load data:', err));
+// Links to the generated neighborhood pages (gen_neighborhoods.py writes neighborhoods.json); silently absent when a city has none.
+fetch(DATA_BASE + 'neighborhoods.json').then(r => r.ok ? r.json() : null).then(reg => {
+  if (!reg) return;
+  const items = Object.entries(reg.pages).filter(([, e]) => e.status === 'indexable')
+    .sort((a, b) => (b[1].count - a[1].count) || a[1].name.localeCompare(b[1].name)).slice(0, 24);
+  if (!items.length) return;
+  document.getElementById('nb-links').innerHTML = '<span class="nb-links-title">Browse by neighborhood:</span> ' +
+    items.map(([slug, e]) => '<a href="' + slug + '/">' + esc(e.name) + '</a>').join(' · ') + ' · <a href="neighborhoods/">All neighborhoods →</a>';
+}).catch(() => {});
 
 // ── Dark mode ──────────────────────────────────────────────────────────────────
 function applyTheme(dark) {
