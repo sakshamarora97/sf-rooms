@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T13:06:45.611019",
-  "count": 2341,
+  "updated_at": "2026-10-10T14:05:20.718244",
+  "count": 2342,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73216,6 +73216,32 @@
       "first_scraped_at": "2026-10-10T19:00:03.582574+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Valiant Private Bedroom in 2B1B Official Reletting Hi everyone! I\u2019m looking for someone to take over my spot in a",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1384175443482699",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "South Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1384175443482699",
+      "posted_at": "Saturday 10 October 2026 at 13:25",
+      "first_scraped_at": "2026-10-10T21:00:06.437235+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "to take over my room for November/December through July 2027! In Southwest Berkeley, 25-min bus or 13-min bike ride to",
       "group_id": "558742412692677"
     }
   ]
