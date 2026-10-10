@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T20:11:42.034903",
-  "count": 3001,
+  "updated_at": "2026-10-09T21:10:43.642853",
+  "count": 3003,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89847,6 +89847,72 @@
       "first_scraped_at": "2026-10-10T03:00:03.333662+00:00",
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "am looking for a place in or around San Mateo Redwood City or anything nearby in 10 mile radius. I\u2019m",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2027897274568511",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-02",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "Inner Richmond",
+        "Lower Haight",
+        "NoPa",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Babson College graduate moving to San Francisco to start a full-time tech sales role at an AI startup. Active (skiing, golf, training for the LA Marathon), clean, and respectful of shared spaces; seeking a room or short sublet.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2027897274568511",
+      "posted_at": "Friday 9 October 2026 at 14:42",
+      "first_scraped_at": "2026-10-10T04:00:03.240640+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Max, and I'm moving to San Francisco in early November to start a new job in tech sales at an",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4378207492490002",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Russian Hill",
+        "NoPa",
+        "Nob Hill",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent University of Oregon graduate in advertising and entrepreneurship starting a new job in late October in North Beach. Social and active, enjoys the gym, pickleball and tennis, nightlife, writing, and photography; neat and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4378207492490002",
+      "posted_at": "Friday 9 October 2026 at 20:04",
+      "first_scraped_at": "2026-10-10T04:00:03.240640+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "everybody! Looking for a shared space in SF, preferably North Beach, but open to nearby neighborhoods too. I recently graduated",
       "group_id": "1511607562483357"
     }
   ]
