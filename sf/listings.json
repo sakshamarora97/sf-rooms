@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T21:45:33.498777",
-  "count": 2332,
+  "updated_at": "2026-10-09T22:07:52.903215",
+  "count": 2333,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -72943,6 +72943,40 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "a 2B2B at Solstice Apartments Downtown Sunnyvale! Looking for a place in the heart of Sunnyvale? I'm looking for someone",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2028083861216519",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1700,
+      "neighborhood": "Milpitas",
+      "area": "South Bay",
+      "available_from": "2026-10-19",
+      "available_until": null,
+      "unit_config": "3B3.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "attached_bath",
+        "balcony",
+        "in_unit_laundry",
+        "central_ac",
+        "dishwasher",
+        "ceiling_fan",
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028083861216519",
+      "posted_at": "Friday 9 October 2026 at 20:24",
+      "first_scraped_at": "2026-10-10T05:00:06.229198+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Attached Bath Available Milpitas Female Only Location: Wildrose Way, Milpitas Rent: $1,700/month Available: October 19, 2026 Female Only Room House",
+      "group_id": "242765489748374"
     }
   ]
 }

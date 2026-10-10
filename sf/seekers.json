@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T21:45:33.498777",
-  "count": 3003,
+  "updated_at": "2026-10-09T22:07:52.903215",
+  "count": 3004,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89914,6 +89914,32 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "everybody! Looking for a shared space in SF, preferably North Beach, but open to nearby neighborhoods too. I recently graduated",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1383597450207165",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-10-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 28,
+      "bio": "A 28-year-old non-smoking female, former teacher and holistic chronic-illness recovery coach in training; artsy, musical, quiet but social, currently recovering from an illness and needing rest. Traveling with a sweet, trained golden retriever.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1383597450207165",
+      "posted_at": "Friday 9 October 2026 at 21:57",
+      "first_scraped_at": "2026-10-10T05:00:06.229198+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "short term room asap Hi all! I\u2019m in need of a room for the month of October only while I",
+      "group_id": "558742412692677"
     }
   ]
 }
