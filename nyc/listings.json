@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T12:12:58.505156",
-  "count": 215,
+  "updated_at": "2026-10-10T13:12:57.994071",
+  "count": 218,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -6740,6 +6740,98 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "and cheap 1-5 bedrooms Apartments and Houses in a quiet and conducive neighborhoods for your convenience,short and long term lease",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2896711564028442",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3114,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": "2027-03-28",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "doorman",
+        "walk_in_closet",
+        "river_view"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Waterside Square North",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2896711564028442",
+      "posted_at": "Saturday 10 October 2026 at 12:42",
+      "first_scraped_at": "2026-10-10T20:06:50.261017+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "~$3,114/mo effective rent NEWPORT, JERSEY CITY Looking for someone to take over my lease starting last week of October! Waterside",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "28477642438571905",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1900,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-10-25",
+      "available_until": "2027-01-31",
+      "unit_config": "1B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "pool",
+        "sky_lounge",
+        "rooftop",
+        "luxury_common_areas"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28477642438571905",
+      "posted_at": "Saturday 10 October 2026 at 12:44",
+      "first_scraped_at": "2026-10-10T20:06:50.261017+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "in Newport, Jersey City $1,900/mo Looking for a roommate to take over the spacious private master bedroom in our 1",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "27884952437849616",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "lake_rights",
+        "large_lot"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/27884952437849616",
+      "posted_at": "Saturday 10 October 2026 at 13:02",
+      "first_scraped_at": "2026-10-10T20:06:50.261017+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "first time! Welcome to 161 Highland Avenue, an original-owner home in the Town of Chester with a Monroe address. Set",
+      "group_id": "812568135514746"
     }
   ]
 }
