@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T11:14:02.889468",
-  "count": 89,
+  "updated_at": "2026-10-10T12:12:58.505156",
+  "count": 90,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2597,6 +2597,36 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "name is Jacob (27M) and I\u2019m moving to NYC for new job I just accepted. I\u2019m ideally looking for a",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2896685154031083",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Exchange Place"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "A working professional commuting to NYC for a Wall Street job, clean, respectful, easygoing, values personal space and a clean home; enjoys exploring restaurants and socializing.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2896685154031083",
+      "posted_at": "Saturday 10 October 2026 at 12:04",
+      "first_scraped_at": "2026-10-10T19:07:10.296346+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Samyak, a working professional commuting to NYC (Wall Street area) 5 days a week. I\u2019m looking for a private room",
+      "group_id": "1138638939835722"
     }
   ]
 }

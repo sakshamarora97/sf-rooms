@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T11:14:02.889468",
-  "count": 213,
+  "updated_at": "2026-10-10T12:12:58.505156",
+  "count": 215,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -6686,6 +6686,60 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": null,
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28477108651958617",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-25",
+      "available_until": "2027-01-02",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28477108651958617",
+      "posted_at": "Saturday 10 October 2026 at 11:46",
+      "first_scraped_at": "2026-10-10T19:07:10.296346+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "JSQ for sublease from 25th November through 2nd January. Please call/message me on 5513583618 for more details.",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "982892407514769",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "pet_friendly"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/982892407514769",
+      "posted_at": "Saturday 10 October 2026 at 11:49",
+      "first_scraped_at": "2026-10-10T19:07:10.296346+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "and cheap 1-5 bedrooms Apartments and Houses in a quiet and conducive neighborhoods for your convenience,short and long term lease",
+      "group_id": "312692887868061"
     }
   ]
 }
