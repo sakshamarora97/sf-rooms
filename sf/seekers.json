@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-09T23:58:25.901596",
-  "count": 3004,
+  "updated_at": "2026-10-10T06:07:55.121865",
+  "count": 3005,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89940,6 +89940,32 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "short term room asap Hi all! I\u2019m in need of a room for the month of October only while I",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2755065788222559",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A UC Berkeley senior returning from a semester abroad seeking a single private room to sublease for Spring 2027 (Jan\u2013May). Prefers no male housemates, in-unit or in-building laundry, social/friendly housemates, and a location close to campus.",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2755065788222559",
+      "posted_at": "Saturday 10 October 2026 at 04:14",
+      "first_scraped_at": "2026-10-10T13:00:06.743347+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "2027 Housing Hi! I'm a senior at Berkeley coming back from a semester abroad, and I'm looking to sublease from",
+      "group_id": "128476910881473"
     }
   ]
 }
