@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T22:13:45.208576",
-  "count": 71,
+  "updated_at": "2026-10-09T23:00:52.996646",
+  "count": 72,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2066,6 +2066,34 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "trying to find a room for a few months starting around November. I\u2019m pretty open on location: Jersey City, North",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "982007290936614",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-07",
+      "move_out_date": "2026-11-14",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "rotation",
+      "age": null,
+      "bio": "They are a student from Brazil coming to NYC for a hospital rotation from 2026-11-07 to 2026-11-14 and seeking a private room to rent, primarily for sleeping during the day.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/982007290936614",
+      "posted_at": "Friday 9 October 2026 at 10:29",
+      "first_scraped_at": "2026-10-10T05:23:26.141980+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "is Tales and I'm a student from Brazil. I'll be in NYC for a hospital rotation from November 7 to",
+      "group_id": "312692887868061"
     }
   ]
 }
