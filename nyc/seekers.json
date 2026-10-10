@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T13:12:57.994071",
-  "count": 90,
+  "updated_at": "2026-10-10T14:11:55.324326",
+  "count": 92,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2627,6 +2627,61 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "Samyak, a working professional commuting to NYC (Wall Street area) 5 days a week. I\u2019m looking for a private room",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2243052296259565",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a female seeking a private room for under $1000 and prefers female flatmates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243052296259565",
+      "posted_at": "Saturday 10 October 2026 at 14:03",
+      "first_scraped_at": "2026-10-10T21:05:25.704864+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a private room for under 1000$. Please lmk. I\u2019m a female so Female flatmates preferably",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28477927015210114",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bayonne",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a room in Bayonne or Jersey City, prefers a female-only apartment with easy parking. Moving on 2026-10-31.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28477927015210114",
+      "posted_at": "Saturday 10 October 2026 at 13:17",
+      "first_scraped_at": "2026-10-10T21:05:25.704864+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "looking for a room in Bayonne or Jersey City, preferably in a female only apartment with easy parking Moving date",
+      "group_id": "765841576845364"
     }
   ]
 }
