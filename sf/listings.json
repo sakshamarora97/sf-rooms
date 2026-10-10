@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T08:07:17.449721",
-  "count": 2337,
+  "updated_at": "2026-10-10T09:07:36.313056",
+  "count": 2338,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73092,6 +73092,39 @@
       "first_scraped_at": "2026-10-10T15:00:07.099168+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for Rent All Utilities Included Move-In Ready! Hi everyone! I\u2019m renting out my private 1 bedroom 1 bathroom apartment, available",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2028519394506299",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "fully_equipped_kitchen",
+        "spacious_living_room",
+        "modern_bathroom",
+        "hardwood_style_flooring",
+        "ceiling_fans",
+        "updated_interiors"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028519394506299",
+      "posted_at": "Saturday 10 October 2026 at 07:58",
+      "first_scraped_at": "2026-10-10T16:00:05.075944+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Apartments Available Close to Campus! Looking for a clean, comfortable, and convenient place near campus? We have 1-bedroom and 2-bedroom",
       "group_id": "242765489748374"
     }
   ]
