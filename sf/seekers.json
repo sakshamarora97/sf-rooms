@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T07:06:49.255023",
-  "count": 3005,
+  "updated_at": "2026-10-10T08:07:17.449721",
+  "count": 3006,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -89966,6 +89966,32 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "2027 Housing Hi! I'm a senior at Berkeley coming back from a semester abroad, and I'm looking to sublease from",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "2028482267843345",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-11",
+      "move_out_date": "2026-10-19",
+      "budget_min": null,
+      "budget_max": 600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 21,
+      "bio": "He is a 21-year-old working as a golf caddie with four years of roommate experience, seeking an 8-day short-term room in San Francisco from 2026-10-11 to 2026-10-19.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028482267843345",
+      "posted_at": "Saturday 10 October 2026 at 07:08",
+      "first_scraped_at": "2026-10-10T15:00:07.099168+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "10/11-10/19 Hey Everyone, I\u2019m looking for a room from 10/11 10/19. I have spent the last 5 months in SF,",
+      "group_id": "242765489748374"
     }
   ]
 }

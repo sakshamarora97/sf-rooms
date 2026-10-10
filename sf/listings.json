@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T07:06:49.255023",
-  "count": 2336,
+  "updated_at": "2026-10-10T08:07:17.449721",
+  "count": 2337,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73063,6 +73063,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Near UC Berkeley $900/Month A room is available for immediate move-in, about a 13-minute scooter ride from UC Berkeley. Female",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2028408751184030",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "assigned_parking",
+        "furnished_option"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028408751184030",
+      "posted_at": "Saturday 10 October 2026 at 05:25",
+      "first_scraped_at": "2026-10-10T15:00:07.099168+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for Rent All Utilities Included Move-In Ready! Hi everyone! I\u2019m renting out my private 1 bedroom 1 bathroom apartment, available",
+      "group_id": "242765489748374"
     }
   ]
 }
