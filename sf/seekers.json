@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T10:07:10.377579",
-  "count": 3007,
+  "updated_at": "2026-10-10T11:06:56.224631",
+  "count": 3009,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90018,6 +90018,65 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "just wanted to introduce myself and share a photo I took while living abroad in Costa Rica. Looking for a",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2028625497829022",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 21,
+      "bio": "She is a 21-year-old non-smoking female who is responsible, clean, and respectful of shared spaces, seeking a private bedroom in San Francisco on a month-to-month basis.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028625497829022",
+      "posted_at": "Saturday 10 October 2026 at 10:29",
+      "first_scraped_at": "2026-10-10T18:00:02.706083+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Private Bedroom in San Francisco Month-to-Month Hi everyone! I\u2019m looking for a private bedroom in San Francisco for a 21-year-old",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2028609504497288",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pacific Heights",
+        "North Beach",
+        "Nob Hill",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "They are two 22-year-old recent Boise State University graduates who work in the city and are social, friendly, and easygoing; they enjoy exploring the city, trying new restaurants and coffee shops, attending concerts, staying active, traveling, and quiet nights in.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028609504497288",
+      "posted_at": "Saturday 10 October 2026 at 10:06",
+      "first_scraped_at": "2026-10-10T18:00:02.706083+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Savannah, and my friend Kenzie and I are looking for an apartment in San Francisco! We\u2019re open to",
+      "group_id": "242765489748374"
     }
   ]
 }

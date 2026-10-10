@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T10:07:10.377579",
-  "count": 2338,
+  "updated_at": "2026-10-10T11:06:56.224631",
+  "count": 2340,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73126,6 +73126,67 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Apartments Available Close to Campus! Looking for a clean, comfortable, and convenient place near campus? We have 1-bedroom and 2-bedroom",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2028621804496058",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-28",
+      "available_until": "2026-12-07",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "pool",
+        "business_lounge",
+        "rooftop",
+        "pet_friendly",
+        "e_scooter",
+        "bike_storage"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028621804496058",
+      "posted_at": "Saturday 10 October 2026 at 10:24",
+      "first_scraped_at": "2026-10-10T18:00:02.706083+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "square foot studio in a luxury high rise in SoMa Yerba Buena from Nov 28 Dec 7 Includes: Comfortable queen",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1384086840158226",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "South Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-01-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1384086840158226",
+      "posted_at": "Saturday 10 October 2026 at 10:47",
+      "first_scraped_at": "2026-10-10T18:00:02.706083+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "have an available room in our beautiful South Berkeley home beginning January 1st. We have rented to many great UCB",
+      "group_id": "558742412692677"
     }
   ]
 }
