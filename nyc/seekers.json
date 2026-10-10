@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T08:13:37.433620",
-  "count": 83,
+  "updated_at": "2026-10-10T09:13:47.877639",
+  "count": 85,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2417,6 +2417,66 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "rent a room for three mothns, from mid-November or late November or early December until mid-January or late January or",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2242832262948235",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Flatbush",
+        "East Flatbush",
+        "Crown Heights",
+        "Prospect Lefferts Gardens"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a studio or one-bedroom apartment in Brooklyn with a $1,800\u2013$2,000/month budget, aiming to move between November and December 2026. They prefer a clean, well-maintained unit with a responsive landlord or management and are open to private landlords or brokers.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242832262948235",
+      "posted_at": "Saturday 10 October 2026 at 08:32",
+      "first_scraped_at": "2026-10-10T16:07:40.572672+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a studio or 1bdr apartment in Brooklyn and would appreciate any leads! What I'm looking for: Budget: $1,800\u2013$2,000/month",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242776379620490",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-12-01",
+      "budget_min": 2700,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hell's Kitchen"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "She is a 24-year-old with a hybrid tech job who is tidy and quiet; she enjoys working out, going to concerts, and relaxing with self-care nights.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242776379620490",
+      "posted_at": "Saturday 10 October 2026 at 07:18",
+      "first_scraped_at": "2026-10-10T16:07:40.572672+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Hell\u2019s Kitchen 2B Hi! I\u2019m Kendra looking for 1 female roommate to move-in 12/1 for a 12 month lease. I\u2019m",
+      "group_id": "149460102285472"
     }
   ]
 }
