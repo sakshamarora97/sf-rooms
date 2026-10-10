@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-09T15:19:22.301392",
-  "count": 63,
+  "updated_at": "2026-10-09T19:13:55.017534",
+  "count": 68,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -1847,6 +1847,140 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "is Sammy and I\u2019m looking for a 2 bedroom sublease starting on December 1 and ending on February 1 (ending",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242254483006013",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-14",
+      "move_out_date": "2026-10-17",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Filmmaker from Minneapolis visiting NYC for a film screening, looking to sublet a one-bedroom solo place from October 14\u201317. Can provide local references.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242254483006013",
+      "posted_at": "Friday 9 October 2026 at 17:44",
+      "first_scraped_at": "2026-10-10T01:40:11.376677+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a 1 bedroom solo place October 14-17. NY is a home away from home and I\u2019m willing to provide local",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242186033012858",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-24",
+      "move_out_date": "2026-11-22",
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking to sublet a room from 2026-10-24 to 2026-11-22 with a budget of $3000. They are requesting leads.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242186033012858",
+      "posted_at": "Friday 9 October 2026 at 15:30",
+      "first_scraped_at": "2026-10-10T01:40:11.376677+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "24 Nov 22 Hi I would like to sublet a room for Oct 24- Nov 22! Budget is $3000!!! Please",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2242184103013051",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-07",
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 23,
+      "bio": "Recent college graduate working in the DMV, moving to the DC/Northern Virginia area in early November and seeking a room with a budget of $1,300\u2013$1,500. Social and tidy, enjoys trying new restaurants, dancing, music, traveling, hosting, and values a clean, peaceful home and communicative roommates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242184103013051",
+      "posted_at": "Friday 9 October 2026 at 15:25",
+      "first_scraped_at": "2026-10-10T01:40:11.376677+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Emilah, 23, moving to DC/DMV area early November! I graduated from UCONN last year and moved down in Stafford, Virginia",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28466914509644698",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a month-to-month rental in Newport and only need the place up to eight days per month for occasional office visits.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28466914509644698",
+      "posted_at": "Friday 9 October 2026 at 18:45",
+      "first_scraped_at": "2026-10-10T01:40:11.376677+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "looking for a month-to-month rental in Newport. My commute is long, so I only need a place for up to",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28465904793079003",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2300,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Exchange Place"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "She is a 26-year-old finance professional who goes into the office four days a week. She is organized, clean, enjoys traveling, trying new restaurants, baking, and quiet nights in.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28465904793079003",
+      "posted_at": "Friday 9 October 2026 at 16:59",
+      "first_scraped_at": "2026-10-10T01:40:11.376677+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "looking for a female roommate in her mid-20s to apartment hunt with in the Newport/Exchange Place area for a lease",
+      "group_id": "765841576845364"
     }
   ]
 }
