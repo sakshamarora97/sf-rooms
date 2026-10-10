@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T07:14:52.881924",
-  "count": 81,
+  "updated_at": "2026-10-10T08:13:37.433620",
+  "count": 83,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2358,6 +2358,64 @@
       "first_scraped_at": "2026-10-10T14:06:53.524846+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "husband and I are looking for a 1-bedroom apartment for two people in Queens, Brooklyn, or Astoria. Budget: up to",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2242743189623809",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Bushwick",
+        "Crown Heights"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old Howard University alum working full-time in consumer marketing strategy. Clean, respectful, and easygoing; seeking a comfortable room with good roommates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242743189623809",
+      "posted_at": "Saturday 10 October 2026 at 06:36",
+      "first_scraped_at": "2026-10-10T15:07:21.974104+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a room in Brooklyn with a November 1st move-in. Ideally looking in Bed-Stuy, Bushwick, Crown Heights, or surrounding",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "982710707532939",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/982710707532939",
+      "posted_at": "Saturday 10 October 2026 at 07:27",
+      "first_scraped_at": "2026-10-10T15:07:21.974104+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "rent a room for three mothns, from mid-November or late November or early December until mid-January or late January or",
       "group_id": "312692887868061"
     }
   ]

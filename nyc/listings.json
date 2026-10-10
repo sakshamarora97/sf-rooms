@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T07:14:52.881924",
-  "count": 200,
+  "updated_at": "2026-10-10T08:13:37.433620",
+  "count": 201,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -6293,6 +6293,37 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": null,
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "27881613158183544",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 4000,
+      "neighborhood": "Ridgewood",
+      "area": "Queens",
+      "available_from": "2026-01-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "renovated",
+        "near_transportation",
+        "near_shopping",
+        "over_1500_sqft"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/27881613158183544",
+      "posted_at": "Saturday 10 October 2026 at 07:36",
+      "first_scraped_at": "2026-10-10T15:07:21.974104+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": null,
+      "group_id": "812568135514746"
     }
   ]
 }
