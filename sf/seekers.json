@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T14:05:20.718244",
-  "count": 3011,
+  "updated_at": "2026-10-10T15:05:09.760435",
+  "count": 3012,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90128,6 +90128,32 @@
       "first_scraped_at": "2026-10-10T21:00:06.437235+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "am looking for a weekly rental while I get on my feet in SF. I can afford $250-$400 a week",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2028734134484825",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent graduate who finished a master's at UCLA and started a full-time role in the Financial District; enjoys exploring nature, listening to music, and crocheting.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028734134484825",
+      "posted_at": "Saturday 10 October 2026 at 13:13",
+      "first_scraped_at": "2026-10-10T22:00:06.366562+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for potential roommates or an available room to take over as I plan to move to the city soon",
       "group_id": "242765489748374"
     }
   ]

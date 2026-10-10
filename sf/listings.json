@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T14:05:20.718244",
-  "count": 2342,
+  "updated_at": "2026-10-10T15:05:09.760435",
+  "count": 2343,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73243,6 +73243,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "to take over my room for November/December through July 2027! In Southwest Berkeley, 25-min bus or 13-min bike ride to",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2755586798170458",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Adams Point",
+      "area": "East Bay",
+      "available_from": "2026-11-01",
+      "available_until": "2026-11-15",
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "clawfoot_tub",
+        "fully_stocked_kitchen",
+        "coin_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2755586798170458",
+      "posted_at": "Saturday 10 October 2026 at 14:28",
+      "first_scraped_at": "2026-10-10T22:00:06.366562+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Nov 1-15 in Adam's Point, Oakland. 2 bed, 1 bath with clawfoot tub Fully stocked kitchen Coin laundry in building",
+      "group_id": "128476910881473"
     }
   ]
 }
