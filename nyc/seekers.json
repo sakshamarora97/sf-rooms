@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T06:15:32.513639",
-  "count": 76,
+  "updated_at": "2026-10-10T07:14:52.881924",
+  "count": 81,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2212,6 +2212,152 @@
       "first_scraped_at": "2026-10-10T13:07:59.995762+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for a studio/1bedroom apartment from the 23rd October. I am moving to New York for College. I am open to",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2242463186318476",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 29,
+      "bio": "29-year-old classical singer and piano instructor who also works as a barback, seeking a room to sublet or rent ASAP. He is tidy, considerate of shared spaces, has a cat, and can pay in full.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2242463186318476",
+      "posted_at": "Friday 9 October 2026 at 23:42",
+      "first_scraped_at": "2026-10-10T14:06:53.524846+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room to sublet/rent ASAP. Budget up to ~1400. I\u2019m Damien (29M), a classical singer/ piano instructor and barback with the",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28473779388958210",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "4B2.5B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two working professionals who are responsible, clean, and respectful, seeking compatible male roommates to sign a new lease in Newport/Jersey City. They are open to joining an existing roommate group or forming a new one.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28473779388958210",
+      "posted_at": "Saturday 10 October 2026 at 06:39",
+      "first_scraped_at": "2026-10-10T14:06:53.524846+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Newport Jersey City, NJ Hi everyone! We are two working professionals looking to team up with male roommate(s) to find",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "982362920901051",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Tribeca",
+        "SoHo",
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking to sublease a room or apartment in Tribeca, SoHo, or Lower Manhattan and are ready to move in ASAP.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/982362920901051",
+      "posted_at": "Friday 9 October 2026 at 21:23",
+      "first_scraped_at": "2026-10-10T14:06:53.524846+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "looking to sublease a room or apartment in Tribeca, SoHo, or anywhere in Lower Manhattan. Ready to move in ASAP!",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "982281707575839",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-28",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a couple seeking a fully furnished short-term sublet (studio or 1B1B) in Manhattan from 2026-10-28 to 2026-11-30 with an option to extend to 2026-12-15; they are not looking to take over a lease.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/982281707575839",
+      "posted_at": "Friday 9 October 2026 at 19:02",
+      "first_scraped_at": "2026-10-10T14:06:53.524846+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "SUBLET in Manhattan!** Couple looking for sublet fully furnished **studio or 1-bedroom apartment from October 28 until end of November**",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "982170227586987",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Queens",
+        "Brooklyn",
+        "Astoria"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A married couple seeking a 1-bedroom apartment for two in Queens, Brooklyn, or Astoria. They describe themselves as responsible tenants looking for a clean apartment in a safe neighborhood and prefer no broker fee.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/982170227586987",
+      "posted_at": "Friday 9 October 2026 at 15:20",
+      "first_scraped_at": "2026-10-10T14:06:53.524846+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "husband and I are looking for a 1-bedroom apartment for two people in Queens, Brooklyn, or Astoria. Budget: up to",
       "group_id": "312692887868061"
     }
   ]
