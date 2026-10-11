@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T14:06:33.341666",
-  "count": 3031,
+  "updated_at": "2026-10-11T15:06:20.764353",
+  "count": 3035,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90723,6 +90723,120 @@
       "first_scraped_at": "2026-10-11T21:00:08.089672+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "for a place to sublet through December! I an taking over a job interim in the area so I need",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4743611542540515",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 3500,
+      "budget_max": 4200,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Cow Hollow",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Moved to San Francisco this summer for an engineering job downtown; seeking a studio or one-bedroom starting 2026-11-01 with flexibility on lease length or a lease takeover. No pets, no car, non-smoker; describes themself as clean and quiet and available to see places any day.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743611542540515",
+      "posted_at": "Sunday 11 October 2026 at 14:50",
+      "first_scraped_at": "2026-10-11T22:00:05.485109+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "moved to SF this summer for an engineering job downtown, and I\u2019m looking for a studio or 1 bedroom of",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4743547662546903",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "He is a 26-year-old from Sacramento who studied anthropology at UCSB and recently returned from a year in Spain. He is a foodie, film enthusiast, runner and cyclist seeking a room in San Francisco starting November 1.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743547662546903",
+      "posted_at": "Sunday 11 October 2026 at 13:24",
+      "first_scraped_at": "2026-10-11T22:00:05.485109+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "SF starting Nov 1st, $1700 budget Hi! I\u2019m Owen, looking for a room starting November 1st, $1700 budget. I\u2019m 26,",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2029708971054008",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Telegraph Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": null,
+      "bio": "A Canadian national moving to San Francisco for work. Enjoys repairing cameras and typewriters and sketching; does not smoke and has no pets.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029708971054008",
+      "posted_at": "Sunday 11 October 2026 at 14:50",
+      "first_scraped_at": "2026-10-11T22:00:05.485109+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "place in North Beach Telegraph Hill-ish! Hoping for a studio but open to single room. Budget ~3Kish for a studio",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1385105720056338",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent UC Berkeley graduate seeking a room to move into immediately or ASAP with a budget of $1400.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1385105720056338",
+      "posted_at": "Sunday 11 October 2026 at 14:34",
+      "first_scraped_at": "2026-10-11T22:00:05.485109+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "recent berkeley grad looking for a room to move into TODAY OR ASAP BUDGET $1400. MESSAGE ME FIRST TO UNLOCK",
       "group_id": "558742412692677"
     }
   ]

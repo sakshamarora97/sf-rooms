@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T14:06:33.341666",
-  "count": 2359,
+  "updated_at": "2026-10-11T15:06:20.764353",
+  "count": 2360,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73778,6 +73778,32 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Room Southside 10min walk to campus Safe and quiet area Dates: December 18, 2026 to January 18th, 2027 (flexible) Rent:",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2029709831053922",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1150,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029709831053922",
+      "posted_at": "Sunday 11 October 2026 at 14:51",
+      "first_scraped_at": "2026-10-11T22:00:05.485109+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hi all We have two rooms available in an all girls nearby daily city Bart station from $1150-$1330 We are",
+      "group_id": "242765489748374"
     }
   ]
 }
