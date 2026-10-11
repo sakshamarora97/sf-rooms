@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T17:06:15.234186",
-  "count": 2345,
+  "updated_at": "2026-10-10T18:05:13.352217",
+  "count": 2346,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73334,6 +73334,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for a one-semester subletter for Spring 2027! Feel free to message if you are interested. Rent negotiable.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4742525972649072",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2400,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-10-24",
+      "available_until": "2026-02-14",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "swimming_pool",
+        "library"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Soma Square Apartments",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4742525972649072",
+      "posted_at": "Saturday 10 October 2026 at 17:36",
+      "first_scraped_at": "2026-10-11T01:00:03.529405+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "subletting my furnished room with private bathroom in a 2B2B at soma square apartments in sf, for a indian female",
+      "group_id": "2176716625896699"
     }
   ]
 }
