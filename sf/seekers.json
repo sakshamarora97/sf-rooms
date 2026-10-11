@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T13:05:50.881912",
-  "count": 3028,
+  "updated_at": "2026-10-11T14:06:33.341666",
+  "count": 3031,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90638,6 +90638,92 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a recent UCLA grad and just got a job in FiDi in SF. My job starts Nov 2nd so I\u2019m",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029663737725198",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old Cal Poly SLO graduate working hybrid in a creative role at a Palo Alto-based tech startup. Laid-back and very clean, social but values downtime; enjoys wellness, restaurants, walks, ocean hikes, and building community with roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029663737725198",
+      "posted_at": "Sunday 11 October 2026 at 13:22",
+      "first_scraped_at": "2026-10-11T21:00:08.089672+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate in SF! Hi everyone! I'm looking for a girl in their mid-20s who\u2019s interested in finding a place together",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029656451059260",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "in-law"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District",
+        "Richmond District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "She and her husband recently moved from Pennsylvania; she completed a Master of International Affairs (East Asian Studies) this year and works with human rights nonprofits while her husband works in San Francisco and plans to continue his education. She speaks Mandarin and worked in Taiwan last year.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029656451059260",
+      "posted_at": "Sunday 11 October 2026 at 13:10",
+      "first_scraped_at": "2026-10-11T21:00:08.089672+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and I just moved to SF, and we are looking for a studio or one bedroom (ideally in Sunset or",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1385081690058741",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-31",
+      "budget_min": 1600,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "shared_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are seeking a short-term sublet through December for an interim job in the area and are willing to share a room. Their ideal monthly budget is $1,600 but they are open to slightly higher-priced options.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1385081690058741",
+      "posted_at": "Sunday 11 October 2026 at 13:48",
+      "first_scraped_at": "2026-10-11T21:00:08.089672+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for a place to sublet through December! I an taking over a job interim in the area so I need",
+      "group_id": "558742412692677"
     }
   ]
 }
