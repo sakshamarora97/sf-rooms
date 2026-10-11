@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T15:06:20.764353",
-  "count": 2360,
+  "updated_at": "2026-10-11T16:06:42.962531",
+  "count": 2362,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73804,6 +73804,70 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Hi all We have two rooms available in an all girls nearby daily city Bart station from $1150-$1330 We are",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4743633319205004",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2700,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2026-12-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "co-working floors",
+        "rooftop indoor lounge",
+        "rooftop outdoor lounge",
+        "valet parking",
+        "bikes for daily use"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Quincy",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743633319205004",
+      "posted_at": "Sunday 11 October 2026 at 15:23",
+      "first_scraped_at": "2026-10-11T23:00:04.448393+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1-2 people) Building: Quincy (555 Bryant Street), https://www.quincysf.com/ 1BR/1BA, includes kitchen and studio, 522 Square Feet, Floor 14 (16 total",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1385125823387661",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1159,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-06-15",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "large_living_room",
+        "remodeled_interior",
+        "water_included"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1385125823387661",
+      "posted_at": "Sunday 11 October 2026 at 15:13",
+      "first_scraped_at": "2026-10-11T23:00:04.448393+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Available! Hello everyone! I'm subletting my apartment from January to mid-June 2027 (flexible) because I'll be studying abroad for the",
+      "group_id": "558742412692677"
     }
   ]
 }
