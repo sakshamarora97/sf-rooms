@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T16:11:20.300709",
-  "count": 231,
+  "updated_at": "2026-10-10T18:12:38.051016",
+  "count": 233,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -7235,6 +7235,71 @@
       "first_scraped_at": "2026-10-10T23:04:41.670917+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "ON THE YUCAT\u00c1N COAST A SMART WAY TO INVEST IN THE COAST OF MEXICO Chicxulub Puerto, Yucat\u00e1n Only 300 m",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28479532941716188",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 800,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_bathroom",
+        "near_Journal_Square_PATH",
+        "walking_distance_to_grocery_and_restaurants"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28479532941716188",
+      "posted_at": "Saturday 10 October 2026 at 16:48",
+      "first_scraped_at": "2026-10-11T01:05:17.378282+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "RENT $800/MONTH Location: 40 Wallis Ave, Jersey City, NJ Move in November 1st Rent: $800/month utilities Room Type: Private Bedroom",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "983018630835480",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_terrace",
+        "driveway_parking",
+        "hardwood_floors",
+        "renovated_kitchen",
+        "renovated_bathrooms",
+        "primary_suite",
+        "private_bath",
+        "commuter_friendly"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/983018630835480",
+      "posted_at": "Saturday 10 October 2026 at 16:11",
+      "first_scraped_at": "2026-10-11T01:05:17.378282+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "NJ Beautifully renovated 3BR 2BA apartment with 1,300+ sq. ft., a private terrace 1 driveway parking space! Brand-new kitchen appliances",
       "group_id": "312692887868061"
     }
   ]

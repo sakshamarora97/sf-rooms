@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T16:11:20.300709",
-  "count": 93,
+  "updated_at": "2026-10-10T18:12:38.051016",
+  "count": 95,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2711,6 +2711,66 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "to apt. hunt with in Greenpoint/Williamsburg! My name is Victoria, and I am a 26 y/o music teacher from Long",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2243154112916050",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-29",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Jersey City",
+        "Hoboken",
+        "Manhattan"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "He is a 23-year-old tech professional starting a full-time role at Accenture in October. He is clean, respectful, easygoing, commutes to Midtown regularly, and enjoys sports, working out, and exploring restaurants and coffee spots.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243154112916050",
+      "posted_at": "Saturday 10 October 2026 at 17:26",
+      "first_scraped_at": "2026-10-11T01:05:17.378282+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Private Bathroom in NYC/Jersey City Late October! Hey everyone! I\u2019m Shravan (23M), relocating to the NYC area for a full-time",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28479605491708933",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-20",
+      "move_out_date": "2026-11-03",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a short-term apartment for two weeks starting October 20 in the Newport/Downtown Jersey City area.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28479605491708933",
+      "posted_at": "Saturday 10 October 2026 at 16:58",
+      "first_scraped_at": "2026-10-11T01:05:17.378282+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "apartment for 2 weeks starting October 20th for 2 weeks in Newport/Grove Street.",
+      "group_id": "765841576845364"
     }
   ]
 }
