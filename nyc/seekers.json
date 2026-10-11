@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T08:11:10.438357",
-  "count": 103,
+  "updated_at": "2026-10-11T09:12:35.254105",
+  "count": 105,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3007,6 +3007,66 @@
       "first_scraped_at": "2026-10-11T15:05:37.486011+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "looking for an apartment in NYC for 4 people for October 19, 20, and 21, preferably in a convenient Manhattan",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2897597740606491",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-28",
+      "move_out_date": "2026-11-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Downtown Jersey City",
+        "Exchange Place",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are traveling from India and seeking a short-term room from Oct 28 through Nov 1 near Newport, Grove Street/Exchange Place, or Hoboken.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2897597740606491",
+      "posted_at": "Sunday 11 October 2026 at 08:31",
+      "first_scraped_at": "2026-10-11T16:05:47.339445+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "is traveling from India and needs a room from 28th Oct through 1st Nov. If anyone has a room available",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2243785929519535",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-19",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A professional relocating to New York who is quiet, clean, and respectful of shared spaces. Seeking a furnished room or short sublet (around 3 months), can pay upfront, provide references, and requests a live walkthrough and written sublet agreement.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243785929519535",
+      "posted_at": "Sunday 11 October 2026 at 08:53",
+      "first_scraped_at": "2026-10-11T16:05:47.339445+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Brooklyn (Move-In by October 19, Flexible) I'm a professional relocating to New York and looking for a furnished room or",
       "group_id": "149460102285472"
     }
   ]
