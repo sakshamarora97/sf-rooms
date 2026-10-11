@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T22:05:37.725338",
-  "count": 3016,
+  "updated_at": "2026-10-11T06:07:20.178726",
+  "count": 3021,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90281,6 +90281,156 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "room Hi everyone, I\u2019m looking for an accomodation in Berkeley near 2121 Center Street or in Oakland near 300 Lakeside",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "28620899944233955",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 900,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Recent arrival from the East Coast who is an esthetician student awaiting licensing. She is easygoing, values cleanliness and respectful roommates, and enjoys art, exploring the city, trying new restaurants, and going to concerts.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28620899944233955",
+      "posted_at": "Sunday 11 October 2026 at 04:27",
+      "first_scraped_at": "2026-10-11T13:00:03.844776+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "ASAP Ok trying again because its been tough and really would love help or anything possible!! Hi!! Im Natalie I",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "28626088047048478",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": 1900,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Castro"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 29,
+      "bio": "They are 29 and moving from Boston to the Bay Area for a hybrid HR role in Menlo Park, seeking a February 1 move-in. They are clean, considerate, active, enjoy exploring neighborhoods, working out, reading, cooking, occasionally hosting friends, and will have a ~55 lb dog.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28626088047048478",
+      "posted_at": "Sunday 11 October 2026 at 04:27",
+      "first_scraped_at": "2026-10-11T13:00:03.844776+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "planning a move from Boston to SF in late Jan/early Feb 2027 and wanted to start putting out feelers for",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "28623926477264635",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-20",
+      "move_out_date": "2027-01-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "They are coming to San Francisco for a winter internship from December 20, 2026 to the end of January 2027. They will be working in SoMa and are looking for a short-term sublet (studio or room), preferably near a BART station.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28623926477264635",
+      "posted_at": "Sunday 11 October 2026 at 04:26",
+      "first_scraped_at": "2026-10-11T13:00:03.844776+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "a doing a winternship in SF from December 20th to the end of January and looking for a sublet for",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2029144424443796",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill",
+        "Haight-Ashbury",
+        "Pacific Heights",
+        "Sunnyvale",
+        "San Jose",
+        "Milpitas"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old recent UCSD graduate who moved to San Francisco for a tech job. She describes herself as super clean, respectful, easygoing, and enjoys matcha, Pilates, music, and exploring new places.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029144424443796",
+      "posted_at": "Sunday 11 October 2026 at 01:17",
+      "first_scraped_at": "2026-10-11T13:00:03.844776+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "ROOM SHORT-TERM SUBLEASE IN SF/ SUNNYVALE/ SAN JOSE** Hi everyone! Looking for: A **furnished** studio/1B or a private room in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029019827789589",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two roommates seeking a female roommate to join them in applying for a newly renovated 3BR in the North Mission. They prefer someone employed, in their early 20s or a recent grad, who is social and enjoys exploring the city and going out.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029019827789589",
+      "posted_at": "Saturday 10 October 2026 at 22:07",
+      "first_scraped_at": "2026-10-11T13:00:03.844776+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Roommate for a 3BR in the Mission Hiii! My friend Sabine Laurence and I are looking for one more female",
+      "group_id": "242765489748374"
     }
   ]
 }
