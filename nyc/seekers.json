@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T11:34:45.455921",
-  "count": 108,
+  "updated_at": "2026-10-11T12:13:22.164523",
+  "count": 111,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3151,6 +3151,91 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "for a place to stay December 3-7 or 10-14. This is a long shot but if anyone has an extra",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2243901326174662",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2800,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Kips Bay"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old sales professional who has lived in Kips Bay for two years; clean, respectful, and seeking a friendly roommate to move in mid-October.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243901326174662",
+      "posted_at": "Sunday 11 October 2026 at 11:22",
+      "first_scraped_at": "2026-10-11T19:06:27.452039+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "ROOMATE!!! Hi everyone! I am looking for someone to apartment hunt with for a mid-October move-in. My budget is around",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2243816826183112",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 32,
+      "bio": "32-year-old remote college admissions professional and part-time comedian/content creator who recently moved to New York from Shanghai; seeks a Manhattan roommate, prefers a separate bathroom, and can pay up to $4,200/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243816826183112",
+      "posted_at": "Sunday 11 October 2026 at 09:34",
+      "first_scraped_at": "2026-10-11T19:06:27.452039+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "potentially looking for a roommate in Manhattan, ideally around early December but I can be flexible. About me: 32, gay,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "983740584096618",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "A mid-20s couple (25 and 24) seeking a sublet or roommates in NYC. One will be doing mechanical engineering and the other works in transportation/public space; they describe themselves as clean, quiet, friendly, often out, and looking for a queer-friendly, chill home.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/983740584096618",
+      "posted_at": "Sunday 11 October 2026 at 11:19",
+      "first_scraped_at": "2026-10-11T19:06:27.452039+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Sam and I (25 and 24) are looking for a sublet/roommates in nyc. Ideally in Brooklyn but truly open to",
+      "group_id": "312692887868061"
     }
   ]
 }

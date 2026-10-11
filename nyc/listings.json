@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T11:34:45.455921",
-  "count": 263,
+  "updated_at": "2026-10-11T12:13:22.164523",
+  "count": 265,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -8242,6 +8242,63 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "you're all doing well. I currently have a bedroom (freshly painted) for rent in an apartment located in the Hamilton",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28489902334012582",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 700,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28489902334012582",
+      "posted_at": "Sunday 11 October 2026 at 11:20",
+      "first_scraped_at": "2026-10-11T19:06:27.452039+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "in jersey city with shared bathroom.2BED ,1 bath address,:113 North st movin available immediately rent 700 utilities No lease ,No",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "27897218603289666",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "Bushwick",
+      "area": "Brooklyn",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "private_bathroom",
+        "new_finishes"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/27897218603289666",
+      "posted_at": "Sunday 11 October 2026 at 11:56",
+      "first_scraped_at": "2026-10-11T19:06:27.452039+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "82 Stockholm St, Bushwick 3 bed 3 bath, all rooms have private bathrooms, brand new Two amazing girls are looking",
+      "group_id": "812568135514746"
     }
   ]
 }
