@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T11:06:10.661902",
-  "count": 3025,
+  "updated_at": "2026-10-11T12:06:22.998148",
+  "count": 3027,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90548,6 +90548,67 @@
       "first_scraped_at": "2026-10-11T18:00:05.101118+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommates a room with private bath in SF Hi all! I'm 24F moving into a founding engineer role at a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4743459845889018",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Palo Alto"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old supply chain professional moving to the Bay Area for a new job in November. Enjoys working out, traveling, and hanging out with friends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743459845889018",
+      "posted_at": "Sunday 11 October 2026 at 11:39",
+      "first_scraped_at": "2026-10-11T19:00:03.898951+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "am Nam, 25M, and I will be moving to SF/ Palo Alto for a new job in November. I'm looking",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2029573254400913",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Belmont",
+        "Redwood City",
+        "Palo Alto",
+        "Mountain View",
+        "Menlo Park",
+        "Sunnyvale",
+        "Santa Clara"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "They are a 22-year-old new graduate from Georgia Tech working as a lab tech at a Menlo Park startup. They cook regularly, make espresso, enjoy sports, are clean and respectful, and prefer a decently social roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029573254400913",
+      "posted_at": "Sunday 11 October 2026 at 11:02",
+      "first_scraped_at": "2026-10-11T19:00:03.898951+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for 2/3B apartment in peninsula/South Bay Hey all I\u2019m looking for a roommate to rent out a 2/3 bedroom apartment",
       "group_id": "242765489748374"
     }
   ]
