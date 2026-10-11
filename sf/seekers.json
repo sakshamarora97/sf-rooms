@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T09:05:42.249608",
-  "count": 3022,
+  "updated_at": "2026-10-11T10:05:54.448758",
+  "count": 3024,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90458,6 +90458,66 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "partner and I are moving to the city over thanksgiving and need a place to live starting December 1st! Would",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029503424407896",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bernal Heights",
+        "Potrero Hill",
+        "Mission District",
+        "Noe Valley",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old female who works full-time in person, enjoys spending time outside and hanging out with friends; prefers friendly roommates but is often out of the house and busy.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029503424407896",
+      "posted_at": "Sunday 11 October 2026 at 09:28",
+      "first_scraped_at": "2026-10-11T17:00:03.126440+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "to join an existing lease! I\u2019m 25 F work full time in person! Need to have my car but street",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1384926353407608",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-01-14",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "They are a quiet, respectful, clean, and active student transferring to UC Berkeley, seeking temporary housing or a room from 2026-12-01 to 2027-01-14 while they wait to move into campus housing.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1384926353407608",
+      "posted_at": "Sunday 11 October 2026 at 09:46",
+      "first_scraped_at": "2026-10-11T17:00:03.126440+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "name is Braulio. I\u2019m looking for temporary housing or a room to rent in Berkeley from December 1 to January",
+      "group_id": "558742412692677"
     }
   ]
 }
