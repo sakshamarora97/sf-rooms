@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T16:04:37.454807",
-  "count": 3012,
+  "updated_at": "2026-10-10T17:06:15.234186",
+  "count": 3014,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90154,6 +90154,70 @@
       "first_scraped_at": "2026-10-10T22:00:06.366562+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for potential roommates or an available room to take over as I plan to move to the city soon",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2028814934476745",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Nob Hill",
+        "Russian Hill",
+        "Marina",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 21,
+      "bio": "Recent college graduate working full-time in FiDi who is social and enjoys hiking, sports, music, dancing, and traveling. She keeps shared spaces very clean, is respectful and communicative, and wants roommates she can vibe with.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028814934476745",
+      "posted_at": "Saturday 10 October 2026 at 16:07",
+      "first_scraped_at": "2026-10-11T00:00:04.970940+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Yana! I'm a recent grad working full-time in person in FiDi, and I'm looking to join a lease or find",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2028757747815797",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Lone Mountain",
+        "Inner Richmond",
+        "Panhandle",
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Senior Biology student at the University of San Francisco graduating in December; clean, quiet, responsible, non-smoker who can provide ID, proof of enrollment, and references, available to tour and sign immediately.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2028757747815797",
+      "posted_at": "Saturday 10 October 2026 at 14:00",
+      "first_scraped_at": "2026-10-11T00:00:04.970940+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "urgently looking for housing near the University of San Francisco. I have to move out of my current housing in",
       "group_id": "242765489748374"
     }
   ]

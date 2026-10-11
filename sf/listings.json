@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T16:04:37.454807",
-  "count": 2343,
+  "updated_at": "2026-10-10T17:06:15.234186",
+  "count": 2345,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73273,6 +73273,67 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Nov 1-15 in Adam's Point, Oakland. 2 bed, 1 bath with clawfoot tub Fully stocked kitchen Coin laundry in building",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "4742487345986268",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2355,
+      "neighborhood": "Duboce Triangle",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "electric_stove",
+        "refrigerator",
+        "hardwood_floors",
+        "cable_ready",
+        "smoke_free",
+        "walk_in_closet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4742487345986268",
+      "posted_at": "Saturday 10 October 2026 at 16:38",
+      "first_scraped_at": "2026-10-11T00:00:04.970940+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Hill Private bedroom in 2BR/1BA w/ walk-in closet $2,355/mo utilities Nov 1 Hi all! My roommate is moving to New",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1384273683472875",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1384273683472875",
+      "posted_at": "Saturday 10 October 2026 at 16:43",
+      "first_scraped_at": "2026-10-11T00:00:04.970940+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for a one-semester subletter for Spring 2027! Feel free to message if you are interested. Rent negotiable.",
+      "group_id": "558742412692677"
     }
   ]
 }
