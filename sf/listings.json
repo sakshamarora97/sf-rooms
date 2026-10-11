@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T20:05:11.762188",
-  "count": 2346,
+  "updated_at": "2026-10-10T22:05:37.725338",
+  "count": 2347,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73364,6 +73364,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "subletting my furnished room with private bathroom in a 2B2B at soma square apartments in sf, for a indian female",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1384428000124110",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 850,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "tv",
+        "storage_space",
+        "large_window",
+        "bus_stop_nearby"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1384428000124110",
+      "posted_at": "Saturday 10 October 2026 at 21:36",
+      "first_scraped_at": "2026-10-11T05:00:01.806799+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "subletter Sp27 Hey everyone! Looking to sublet my double for $850 at 2636 Warring St., Berkeley, CA 94704 for Spring",
+      "group_id": "558742412692677"
     }
   ]
 }
