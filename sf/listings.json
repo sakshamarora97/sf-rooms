@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T06:07:20.178726",
-  "count": 2353,
+  "updated_at": "2026-10-11T07:05:33.553985",
+  "count": 2354,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73587,6 +73587,41 @@
       "first_scraped_at": "2026-10-11T13:00:03.844776+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a new roommates to fill our master bedroom, in our home in Glen Park by November 7th. About the",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029384927753079",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1330,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "household_essentials_included",
+        "near_trader_joes",
+        "near_cvs",
+        "near_laundromat",
+        "near_restaurants",
+        "near_gyms",
+        "public_transport_access",
+        "cable_car_access"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029384927753079",
+      "posted_at": "Sunday 11 October 2026 at 06:52",
+      "first_scraped_at": "2026-10-11T14:00:05.703419+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "RENT IN NOB HILL, SAN FRANCISCO! $1,330/month Utilities included! Available November 1, 2026 Private, unfurnished bedroom in a shared 3B1B",
       "group_id": "242765489748374"
     }
   ]
