@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T12:06:22.998148",
-  "count": 3027,
+  "updated_at": "2026-10-11T13:05:50.881912",
+  "count": 3028,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90609,6 +90609,34 @@
       "first_scraped_at": "2026-10-11T19:00:03.898951+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for 2/3B apartment in peninsula/South Bay Hey all I\u2019m looking for a roommate to rent out a 2/3 bedroom apartment",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029646397726932",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-02",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She is a recent UCLA graduate starting a job in the Financial District on 2026-11-02 and is looking to join or form a female roommate group in a safe neighborhood near work with a budget up to $1700/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029646397726932",
+      "posted_at": "Sunday 11 October 2026 at 12:53",
+      "first_scraped_at": "2026-10-11T20:00:05.741341+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a recent UCLA grad and just got a job in FiDi in SF. My job starts Nov 2nd so I\u2019m",
       "group_id": "242765489748374"
     }
   ]
