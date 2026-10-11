@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-10T19:05:14.961755",
-  "count": 3015,
+  "updated_at": "2026-10-10T20:05:11.762188",
+  "count": 3016,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90252,6 +90252,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Room Accommodation San Mateo Foster City Redwood City San Carlos Belmont Burlingame** Hi Everyone! I'm moving to California for my",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1384344770132433",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": 900,
+      "budget_max": 900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Berkeley",
+        "Downtown Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a room in Downtown Berkeley or Downtown Oakland with a move-in date of 2026-10-15 and a budget of $900/month; hoping to find a place within the week.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1384344770132433",
+      "posted_at": "Saturday 10 October 2026 at 19:06",
+      "first_scraped_at": "2026-10-11T03:00:05.456432+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "room Hi everyone, I\u2019m looking for an accomodation in Berkeley near 2121 Center Street or in Oakland near 300 Lakeside",
+      "group_id": "558742412692677"
     }
   ]
 }
