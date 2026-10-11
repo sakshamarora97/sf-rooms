@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T10:05:54.448758",
-  "count": 3024,
+  "updated_at": "2026-10-11T11:06:10.661902",
+  "count": 3025,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90518,6 +90518,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "name is Braulio. I\u2019m looking for temporary housing or a room to rent in Berkeley from December 1 to January",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2029572004401038",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Hayes Valley",
+        "Mission District",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "She is a 24-year-old incoming founding engineer at a startup near downtown San Francisco who is easygoing, respectful of shared spaces, and enjoys reading, painting, and board games. She is open to living with roommates and is pet-friendly.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029572004401038",
+      "posted_at": "Sunday 11 October 2026 at 11:00",
+      "first_scraped_at": "2026-10-11T18:00:05.101118+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommates a room with private bath in SF Hi all! I'm 24F moving into a founding engineer role at a",
+      "group_id": "242765489748374"
     }
   ]
 }

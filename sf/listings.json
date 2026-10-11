@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T10:05:54.448758",
-  "count": 2355,
+  "updated_at": "2026-10-11T11:06:10.661902",
+  "count": 2356,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73652,6 +73652,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "new roommate to fill a room in a 5-bedroom, 2.5-bathroom apartment in Lower Pac Heights! Rent: $1,400/month Move-in: November 1",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4743371012564568",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1240,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "dishwasher",
+        "in_unit_laundry",
+        "shared_living_room",
+        "tv"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "femme-identifying",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743371012564568",
+      "posted_at": "Sunday 11 October 2026 at 10:07",
+      "first_scraped_at": "2026-10-11T18:00:05.101118+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "SoMa for $1240 Room available: Nov 1, or pro-rated October 24th for an extra $340 Location: SoMa. Close to shops,",
+      "group_id": "2176716625896699"
     }
   ]
 }
