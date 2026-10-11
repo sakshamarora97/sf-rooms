@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T06:15:09.618492",
-  "count": 100,
+  "updated_at": "2026-10-11T07:10:56.127587",
+  "count": 101,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2913,6 +2913,36 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "looking for a furnished one bedroom or studio for the month of November. Flexible on location. I'm in my 30s,",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "983186310818712",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3250,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "Lower East Side",
+        "East Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old transitioning into a finance role in NYC who enjoys working out, going out on weekends, and playing tennis. Quiet and studying for licensing exams, spending most days in their room or at coffee shops.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/983186310818712",
+      "posted_at": "Saturday 10 October 2026 at 21:32",
+      "first_scraped_at": "2026-10-11T14:05:37.922702+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Joe, 24, and looking for a sublet mainly in Lower Manhattan, primarily FIDI, LES, and East Village (can be flexible).",
+      "group_id": "312692887868061"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T06:15:09.618492",
-  "count": 242,
+  "updated_at": "2026-10-11T07:10:56.127587",
+  "count": 244,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -7590,6 +7590,68 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "APPLICATION REQUIREMENTS 1-year lease minimum Good credit Income: 40x the monthly rent ($102,000/year) Guarantors accepted (U.S.-based, 700+ credit score, 80x",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2243682929529835",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1750,
+      "neighborhood": "Morningside Heights",
+      "area": "Manhattan",
+      "available_from": "2026-11-15",
+      "available_until": "2027-07-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "exposed_brick",
+        "modern_kitchen",
+        "renovated_bathroom",
+        "in_unit_laundry",
+        "walk_up"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243682929529835",
+      "posted_at": "Sunday 11 October 2026 at 06:51",
+      "first_scraped_at": "2026-10-11T14:05:37.922702+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to take over my lease! It\u2019s one room for $1750/month in a two-bedroom on Manhattan Avenue between 116th and 117th",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "983476457456364",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2020,
+      "neighborhood": "Williamsburg",
+      "area": "Brooklyn",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "dishwasher",
+        "modern_kitchen",
+        "flex_wall"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/983476457456364",
+      "posted_at": "Sunday 11 October 2026 at 05:16",
+      "first_scraped_at": "2026-10-11T14:05:37.922702+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Heart of Williamsburg for Only $2,020/Month! November 1 Move-In 12-Month Lease 2 Months Free Monthly Room Pricing Master Bedroom W/",
+      "group_id": "312692887868061"
     }
   ]
 }
