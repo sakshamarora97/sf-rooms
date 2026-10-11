@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T08:05:33.340636",
-  "count": 2354,
+  "updated_at": "2026-10-11T09:05:42.249608",
+  "count": 2355,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73622,6 +73622,35 @@
       "first_scraped_at": "2026-10-11T14:00:05.703419+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "RENT IN NOB HILL, SAN FRANCISCO! $1,330/month Utilities included! Available November 1, 2026 Private, unfurnished bedroom in a shared 3B1B",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029476037743968",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "5B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029476037743968",
+      "posted_at": "Sunday 11 October 2026 at 08:51",
+      "first_scraped_at": "2026-10-11T16:00:07.432216+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "new roommate to fill a room in a 5-bedroom, 2.5-bathroom apartment in Lower Pac Heights! Rent: $1,400/month Move-in: November 1",
       "group_id": "242765489748374"
     }
   ]
