@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T07:10:56.127587",
-  "count": 101,
+  "updated_at": "2026-10-11T08:11:10.438357",
+  "count": 103,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2943,6 +2943,71 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Joe, 24, and looking for a sublet mainly in Lower Manhattan, primarily FIDI, LES, and East Village (can be flexible).",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2243712962860165",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Tribeca",
+        "West Village",
+        "Chelsea",
+        "Flatiron",
+        "Gramercy",
+        "Turtle Bay",
+        "Upper East Side",
+        "Upper West Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "He is a 25-year-old about to start at a law firm in Midtown and is seeking a studio or one-bedroom sublet starting October 17/18, preferably longer-term. His budget is flexible for the right apartment.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243712962860165",
+      "posted_at": "Sunday 11 October 2026 at 07:28",
+      "first_scraped_at": "2026-10-11T15:05:37.486011+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Justin and I\u2019m a 25 year old who is about to start at a law firm in Midtown.",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2243702019527926",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-19",
+      "move_out_date": "2026-10-21",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Theater District",
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 4,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a group of four seeking a short-term apartment in Manhattan for October 19\u201321, preferring convenient locations such as near Times Square (Theater District) or the Financial District.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243702019527926",
+      "posted_at": "Sunday 11 October 2026 at 07:16",
+      "first_scraped_at": "2026-10-11T15:05:37.486011+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for an apartment in NYC for 4 people for October 19, 20, and 21, preferably in a convenient Manhattan",
+      "group_id": "149460102285472"
     }
   ]
 }
