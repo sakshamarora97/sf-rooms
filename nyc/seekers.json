@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T19:11:33.330955",
-  "count": 95,
+  "updated_at": "2026-10-10T20:12:14.310825",
+  "count": 97,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -2771,6 +2771,58 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "apartment for 2 weeks starting October 20th for 2 weeks in Newport/Grove Street.",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2243233522908109",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks an economical room. Describes themself as calm, clean, responsible, educated, and respectful. Prefers near the J or M train and can move in on 2026-11-01.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243233522908109",
+      "posted_at": "Saturday 10 October 2026 at 19:51",
+      "first_scraped_at": "2026-10-11T03:05:15.740773+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "A ROOM FOR AN ECONOMICAL PERSON, I'M CALM, NO VICES, CLEAN, RESPONSIBLE, EDUCATED, RESPECTFUL, TRAIN AREA J or M, FOR",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2243228239575304",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1750,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 25,
+      "bio": "He is a 25-year-old software engineer who is active (soccer, running, gym), easygoing, tidy, and respectful of shared space. He has a quiet, well-behaved 10-lb hypoallergenic dog and is seeking a dog-friendly room on a one-year lease.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243228239575304",
+      "posted_at": "Saturday 10 October 2026 at 19:43",
+      "first_scraped_at": "2026-10-11T03:05:15.740773+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in NYC, Nov 1 move-in Hi! I'm Kendrick, a 25-year-old software engineer looking for a room starting November 1 (flexible",
+      "group_id": "149460102285472"
     }
   ]
 }

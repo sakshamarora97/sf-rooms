@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-10T19:11:33.330955",
-  "count": 234,
+  "updated_at": "2026-10-10T20:12:14.310825",
+  "count": 235,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -7329,6 +7329,38 @@
       "first_scraped_at": "2026-10-11T02:05:19.291340+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Woodside, Queens: $950/month, utilities included. I\u2019ve moved in with my partner, so I\u2019m subletting my old room. It\u2019s the living",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2243112596253535",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1475,
+      "neighborhood": "Washington Heights",
+      "area": "Manhattan",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "elevator",
+        "shared_living_room",
+        "shared_kitchen",
+        "shared_bathroom",
+        "prewar_building"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2243112596253535",
+      "posted_at": "Saturday 10 October 2026 at 16:06",
+      "first_scraped_at": "2026-10-11T03:05:15.740773+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "have a room available for Nov 1st move in in Washington Heights- $1475! Looking for a female roommate to take",
       "group_id": "149460102285472"
     }
   ]
