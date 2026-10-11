@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T12:13:22.164523",
-  "count": 111,
+  "updated_at": "2026-10-11T13:13:47.628257",
+  "count": 112,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3236,6 +3236,34 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Sam and I (25 and 24) are looking for a sublet/roommates in nyc. Ideally in Brooklyn but truly open to",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28490427210626761",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "He is a 26-year-old video editor who works in the Financial District and is quiet and respectful of shared spaces. He keeps a clean home, enjoys watching movies, and is open to sharing his Letterboxd.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28490427210626761",
+      "posted_at": "Sunday 11 October 2026 at 12:15",
+      "first_scraped_at": "2026-10-11T20:05:55.166044+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Nolan! I\u2019m 26 and looking for a lease takeover! My budget is $1300 a month with utilities. A bit about",
+      "group_id": "765841576845364"
     }
   ]
 }
