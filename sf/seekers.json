@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T07:05:33.553985",
-  "count": 3021,
+  "updated_at": "2026-10-11T08:05:33.340636",
+  "count": 3022,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90430,6 +90430,33 @@
       "first_scraped_at": "2026-10-11T13:00:03.844776+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Roommate for a 3BR in the Mission Hiii! My friend Sabine Laurence and I are looking for one more female",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029420657749506",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4200,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": null,
+      "bio": "A couple moving to San Francisco who will arrive over Thanksgiving, seeking to take over a 1\u20132 bedroom lease starting December 1. They have a dog and a cat, will have one car, and their monthly budget is $4,200.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029420657749506",
+      "posted_at": "Sunday 11 October 2026 at 07:39",
+      "first_scraped_at": "2026-10-11T15:00:06.725215+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "partner and I are moving to the city over thanksgiving and need a place to live starting December 1st! Would",
       "group_id": "242765489748374"
     }
   ]
