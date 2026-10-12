@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T11:06:45.472430",
-  "count": 3047,
+  "updated_at": "2026-10-12T12:06:51.481501",
+  "count": 3050,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91204,6 +91204,98 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "everyone! I'm looking for a vegetarian female roommate to share a 2B/2B apartment in the Sunnyvale/Mountain View/Santa Clara/ Palo Alto/Menlo",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4744678159100520",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-25",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private_room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Mountain View",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old tech professional relocating from Dallas for a tech role. Clean, social, active (regular gym-goer) and sports fan; needs a private room (willing to share bathroom for the right place) and a reliable parking spot; requests kitchen access on weekends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4744678159100520",
+      "posted_at": "Monday 12 October 2026 at 11:38",
+      "first_scraped_at": "2026-10-12T19:00:03.320225+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a short term room or sublet starting October 25. Ideally I\u2019d like to keep my commute under 30",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4744620519106284",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City",
+        "South San Francisco",
+        "San Bruno",
+        "Millbrae",
+        "Burlingame"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 22,
+      "bio": "Recent UC Davis graduate starting a Master's in Sport Management at USF in January 2027. She enjoys basketball, hiking, concerts, and traveling; describes herself as friendly, clean, respectful, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4744620519106284",
+      "posted_at": "Monday 12 October 2026 at 10:38",
+      "first_scraped_at": "2026-10-12T19:00:03.320225+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Abbie, I\u2019m 22, and I just graduated from UC Davis in June 2026! I grew up in Macau",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2030532834304955",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 3500,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are starting a job in San Francisco's Financial District and seeking a one-bedroom for a December move within a $3500\u2013$4000 monthly budget.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2030532834304955",
+      "posted_at": "Monday 12 October 2026 at 11:23",
+      "first_scraped_at": "2026-10-12T19:00:03.320225+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "soon in SF! my office is financial district, looking for a one bed for Dec move in! $3500-4000 budget (Ideal",
+      "group_id": "242765489748374"
     }
   ]
 }
