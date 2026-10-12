@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T20:06:51.113215",
-  "count": 3039,
+  "updated_at": "2026-10-11T21:06:57.790268",
+  "count": 3040,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90959,6 +90959,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "sublease Hey everyone! I\u2019m Akshad, and I moved to SF for work a couple weeks ago from Chicago. I\u2019m looking",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4743879599180376",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-02",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto",
+        "Menlo Park",
+        "Mountain View",
+        "Redwood City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "They are 25, work in supply chain, and are moving to start a new role in Palo Alto. They describe themselves as clean, respectful, social, and active, and enjoy going to the gym, cooking, traveling, and hiking; seeking roommates of a similar age.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743879599180376",
+      "posted_at": "Sunday 11 October 2026 at 20:45",
+      "first_scraped_at": "2026-10-12T04:00:06.689177+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "near Palo Alto November move-in** Hi everyone! I am moving to the Bay Area to start a new role in",
+      "group_id": "2176716625896699"
     }
   ]
 }
