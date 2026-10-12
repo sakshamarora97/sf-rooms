@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T21:06:57.790268",
-  "count": 3040,
+  "updated_at": "2026-10-11T22:08:31.039130",
+  "count": 3044,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90990,6 +90990,126 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "near Palo Alto November move-in** Hi everyone! I am moving to the Bay Area to start a new role in",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4379290202381731",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-07",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2B2B",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks an apartment in Santa Clara or San Jose with a preferred move-in of 2026-11-07 and a monthly budget up to $3,000. Prefers a 2B2B first, then a 1B1B, and is open to subleases or lease takeovers.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4379290202381731",
+      "posted_at": "Sunday 11 October 2026 at 21:23",
+      "first_scraped_at": "2026-10-12T05:00:07.629917+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Apartment in Santa Clara San Jose Move-in November 7 Hi everyone! I\u2019m looking for an apartment in the Santa Clara",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4380680335576051",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "North San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4380680335576051",
+      "posted_at": "Sunday 11 October 2026 at 21:13",
+      "first_scraped_at": "2026-10-12T05:00:07.629917+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "for a private room in a 2B or 3B apartment, ideally in North San Jose. Budget around $1,500\u20131,800/month, planning to",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4380596932251058",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View",
+        "Santa Clara",
+        "Sunnyvale"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room in a 2B2B in Mountain View, Santa Clara, or Sunnyvale with a budget up to $4000 and has two cats.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4380596932251058",
+      "posted_at": "Sunday 11 October 2026 at 21:13",
+      "first_scraped_at": "2026-10-12T05:00:07.629917+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "room in a 2b2b, preferably with attached bath. Mountain View Santa Clara or Sunnyvale 2b2b within $4000. I have two",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4379274762383275",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-22",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "San Carlos",
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a private room with an attached bathroom in a 2B2B in Redwood City, San Carlos, or San Mateo. Willing to sign a new lease or take over an existing one; seeking move-in on 2026-10-22.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4379274762383275",
+      "posted_at": "Sunday 11 October 2026 at 21:13",
+      "first_scraped_at": "2026-10-12T05:00:07.629917+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for a flatmate to team up with to find a private room with attached bathroom in a 2b/2b in",
+      "group_id": "1511607562483357"
     }
   ]
 }
