@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T16:06:42.962531",
-  "count": 3035,
+  "updated_at": "2026-10-11T17:06:30.928762",
+  "count": 3036,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90838,6 +90838,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "recent berkeley grad looking for a room to move into TODAY OR ASAP BUDGET $1400. MESSAGE ME FIRST TO UNLOCK",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2029755194382719",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Dogpatch",
+        "Potrero Hill",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old from NYC working near Mission Bay in San Francisco. Social and enjoys exploring the city, but is clean, respectful, and generally quiet at home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029755194382719",
+      "posted_at": "Sunday 11 October 2026 at 16:19",
+      "first_scraped_at": "2026-10-12T00:00:07.417960+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate or lease takeover for January move in! Hi! I\u2019m Rahi (22F), originally from NYC and now working near Mission",
+      "group_id": "242765489748374"
     }
   ]
 }

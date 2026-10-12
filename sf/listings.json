@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T16:06:42.962531",
-  "count": 2362,
+  "updated_at": "2026-10-11T17:06:30.928762",
+  "count": 2363,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73868,6 +73868,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Available! Hello everyone! I'm subletting my apartment from January to mid-June 2027 (flexible) because I'll be studying abroad for the",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2029775617714010",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2100,
+      "neighborhood": "Glen Park",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "walk_in_closet",
+        "kitchen",
+        "central_heating",
+        "street_parking",
+        "storage"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029775617714010",
+      "posted_at": "Sunday 11 October 2026 at 17:01",
+      "first_scraped_at": "2026-10-12T00:00:07.417960+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in 2BR/1BA Apartment Hi everyone! I recently moved into a 2-bedroom, 1-bathroom apartment in Glen Park and am looking for",
+      "group_id": "242765489748374"
     }
   ]
 }
