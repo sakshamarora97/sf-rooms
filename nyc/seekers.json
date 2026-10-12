@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-12T06:17:19.454003",
-  "count": 128,
+  "updated_at": "2026-10-12T07:14:44.778260",
+  "count": 131,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3728,6 +3728,96 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "are travelling to NY from Australia, Looking for apartment for family of 4 from 1 Dec to 5 Jan.",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2244655289432599",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Bed-Stuy",
+        "Harlem",
+        "Washington Heights"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old music artist and actor working as a case manager for adults with disabilities, seeking a sublet in NYC. Clean, adaptable and respectful roommate who is social but values alone time; allergic to cats.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244655289432599",
+      "posted_at": "Monday 12 October 2026 at 06:51",
+      "first_scraped_at": "2026-10-12T14:05:47.508098+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Rayven! I\u2019m a 26 year old music artist/actor and right now i am a case manager for with",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2244644729433655",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-25",
+      "move_out_date": null,
+      "budget_min": 1100,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "They work in education and sign language while pursuing art and theatre, keep a roughly 8-5 schedule with some weekend work, are queer and active in the community, and have a friendly ESA dog.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244644729433655",
+      "posted_at": "Monday 12 October 2026 at 06:39",
+      "first_scraped_at": "2026-10-12T14:05:47.508098+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Hi! I\u2019m August (they/them) and looking for roommates for an asap move in (or before October 25th) I have a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28500084946327654",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Union City",
+        "West New York"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a female seeking a private room in Jersey City, Union City, or West New York, looking to move in ASAP. She prefers short-term/month-to-month leases or subleases and is seeking a clean, safe, peaceful place with easy access to public transit.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28500084946327654",
+      "posted_at": "Monday 12 October 2026 at 06:55",
+      "first_scraped_at": "2026-10-12T14:05:47.508098+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a female looking for a private room in Jersey City, Union City, or West New York, preferably with easy access",
+      "group_id": "765841576845364"
     }
   ]
 }
