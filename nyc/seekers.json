@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-12T12:17:23.500934",
-  "count": 139,
+  "updated_at": "2026-10-12T13:17:08.521358",
+  "count": 143,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -4045,6 +4045,117 @@
       "first_scraped_at": "2026-10-12T19:06:56.681629+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "single roomate to find a room together from nov 1 Flexible with the area Budget 800-1000 USD",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2244912969406831",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": null,
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a one-bedroom and have a CityFHEPS voucher.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244912969406831",
+      "posted_at": "Monday 12 October 2026 at 12:17",
+      "first_scraped_at": "2026-10-12T20:06:29.298432+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "one bedroom and have a cityfheps voucher please and thank you",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2244880249410103",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-24",
+      "move_out_date": "2026-11-04",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Greenpoint",
+        "Williamsburg"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking short-term accommodation for two people from 2026-10-24 to 2026-11-04, preferring Manhattan or Greenpoint/Williamsburg in Brooklyn.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244880249410103",
+      "posted_at": "Monday 12 October 2026 at 11:32",
+      "first_scraped_at": "2026-10-12T20:06:29.298432+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for accommodation for two people in NYC, preferably in Manhattan or in Greenpoint/Williamsburg Brooklyn, but I\u2019m also open to other",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28504399902562825",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "He is a 25-year-old software developer relocating to NYC for a new job. He is clean, easygoing, enjoys cats, gaming, and exploring restaurants; seeking a sublet or lease and a male roommate with a reasonable commute to Manhattan.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28504399902562825",
+      "posted_at": "Monday 12 October 2026 at 12:35",
+      "first_scraped_at": "2026-10-12T20:06:29.298432+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a Room/Apartment in New Jersey Hey everyone! I\u2019m 25 and moving to New York City for a new job as",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28504251105911038",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-20",
+      "move_out_date": "2026-11-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Newport",
+        "Downtown Jersey City",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28504251105911038",
+      "posted_at": "Monday 12 October 2026 at 12:21",
+      "first_scraped_at": "2026-10-12T20:06:29.298432+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "friend! She is looking for a place to stay from Oct 20 to Nov 1 (around 10\u201312 days) before signing",
       "group_id": "765841576845364"
     }
   ]
