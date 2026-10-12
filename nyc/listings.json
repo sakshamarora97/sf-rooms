@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T21:17:17.399014",
-  "count": 308,
+  "updated_at": "2026-10-11T22:19:33.243661",
+  "count": 309,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -9657,6 +9657,36 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "from $1,000 in Flatbush NO FEE 150 Martense St, Brooklyn 4 Bed 2 Bath duplex W/D Balconies No group? No",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2244152876149507",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 950,
+      "neighborhood": "Washington Heights",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": "2027-01-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "elevator",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244152876149507",
+      "posted_at": "Sunday 11 October 2026 at 18:26",
+      "first_scraped_at": "2026-10-12T05:08:36.262962+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to sublet my bedroom in Washington heights New York starting as soon as possible through January. Located in Washington heights,",
+      "group_id": "149460102285472"
     }
   ]
 }

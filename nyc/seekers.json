@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T21:17:17.399014",
-  "count": 123,
+  "updated_at": "2026-10-11T22:19:33.243661",
+  "count": 124,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3587,6 +3587,36 @@
       "first_scraped_at": "2026-10-12T04:07:03.119584+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Private Room in Queens ASAP Hi everyone! I\u2019m looking for a private room with a November 1 move-in date and",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2244163046148490",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 999,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Astoria",
+        "Woodside",
+        "Manhattan"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244163046148490",
+      "posted_at": "Sunday 11 October 2026 at 18:41",
+      "first_scraped_at": "2026-10-12T05:08:36.262962+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a room in Astoria, Woodside or nearby areas. Can be in Manhattan and Bronx too. My budget is",
       "group_id": "149460102285472"
     }
   ]
