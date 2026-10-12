@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T13:06:24.989188",
-  "count": 3051,
+  "updated_at": "2026-10-12T14:06:34.287488",
+  "count": 3052,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91328,6 +91328,37 @@
       "first_scraped_at": "2026-10-12T20:00:03.184455+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "and I are looking for a studio or 1 bed for long-term in SF (ideally sunset, richmond, pacific heights, or",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2030598354298403",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2800,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Marina",
+        "Cow Hollow"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 33,
+      "bio": "33-year-old engineering professional who recently moved from San Diego, seeking a roommate in Pacific Heights, Marina, or Cow Hollow with tours lined up for 2-bedroom places; budget $2800\u2013$4000 per person.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2030598354298403",
+      "posted_at": "Monday 12 October 2026 at 13:06",
+      "first_scraped_at": "2026-10-12T21:00:03.203543+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a potential roommate for my current house/apartment hunt in San Francisco. 33 yo professional (engineering) male, just moved here",
       "group_id": "242765489748374"
     }
   ]
