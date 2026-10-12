@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T18:06:04.303326",
-  "count": 3036,
+  "updated_at": "2026-10-11T19:06:42.597957",
+  "count": 3038,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90869,6 +90869,65 @@
       "first_scraped_at": "2026-10-12T00:00:07.417960+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommate or lease takeover for January move in! Hi! I\u2019m Rahi (22F), originally from NYC and now working near Mission",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029847327706839",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "parking_spot"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Lower Haight",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a monthly parking spot near Hayes Valley, Lower Haight, or the Mission District.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029847327706839",
+      "posted_at": "Sunday 11 October 2026 at 18:57",
+      "first_scraped_at": "2026-10-12T02:00:06.859110+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "parking spot near Hayes, Lower Haight, Mission ish area! Dm me if you have an open parking spot you can",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029823927709179",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "They are 27 and moving to San Francisco for work. They enjoy traveling, cooking, photography, exploring the city, and have a cat; looking for a roommate to find a 2-bedroom or an available room with a November 1 move-in.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029823927709179",
+      "posted_at": "Sunday 11 October 2026 at 18:19",
+      "first_scraped_at": "2026-10-12T02:00:06.859110+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "moving to SF for work and looking for a roommate to find a 2-bedroom apartment together, preferably in SoMa near",
       "group_id": "242765489748374"
     }
   ]

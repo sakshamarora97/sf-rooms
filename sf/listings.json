@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T18:06:04.303326",
-  "count": 2364,
+  "updated_at": "2026-10-11T19:06:42.597957",
+  "count": 2365,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73934,6 +73934,44 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for spring semester? I am subletting my single room in a sunny, beautiful, female-identifying house. The place has in-unit laundry,",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4743738695861133",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Marina",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "private_bathroom",
+        "private_balcony",
+        "dishwasher",
+        "electric_stovetop",
+        "hardwood_floors",
+        "remodeled_kitchen",
+        "secure_building",
+        "elevator_access",
+        "secured_package_room",
+        "quiet_building"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743738695861133",
+      "posted_at": "Sunday 11 October 2026 at 18:03",
+      "first_scraped_at": "2026-10-12T02:00:06.859110+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Sublease WiFi all utilities included Hi everyone! I\u2019m looking for someone who needs a place in SF only one or",
+      "group_id": "2176716625896699"
     }
   ]
 }
