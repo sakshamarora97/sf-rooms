@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T16:14:23.942829",
-  "count": 116,
+  "updated_at": "2026-10-11T17:15:46.968858",
+  "count": 117,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3378,6 +3378,38 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "looking for accommodation in Jersey City, NJ, for my female friend, who is a working professional, starting from November 1st.",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2244082492823212",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Crown Heights",
+        "Williamsburg",
+        "Park Slope"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two Bengali roommates seeking a studio or one-bedroom with a $1,500 monthly budget.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244082492823212",
+      "posted_at": "Sunday 11 October 2026 at 16:26",
+      "first_scraped_at": "2026-10-12T00:06:35.526911+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "and I are Bengali, and we\u2019re looking for a studio or one-bedroom apartment. Our budget is $1,500. We\u2019re interested in",
+      "group_id": "149460102285472"
     }
   ]
 }
