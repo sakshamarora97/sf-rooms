@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T20:17:41.649644",
-  "count": 122,
+  "updated_at": "2026-10-11T21:17:17.399014",
+  "count": 123,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3558,6 +3558,36 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "looking to move to Jersey City soon. Looking for a 1B/1Ba myself or a 2B/1Ba shared with someone likeminded. The",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2244150246149770",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bayside",
+        "Flushing",
+        "Kew Gardens"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "She is a 28-year-old teacher who works with adults with disabilities in Bayside. She describes herself as clean, respectful, considerate, and communicative, and enjoys photography, Bollywood dancing, journaling, exploring new places, and creative activities.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244150246149770",
+      "posted_at": "Sunday 11 October 2026 at 18:22",
+      "first_scraped_at": "2026-10-12T04:07:03.119584+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Private Room in Queens ASAP Hi everyone! I\u2019m looking for a private room with a November 1 move-in date and",
+      "group_id": "149460102285472"
     }
   ]
 }
