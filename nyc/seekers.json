@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-12T10:14:45.762910",
-  "count": 137,
+  "updated_at": "2026-10-12T12:17:23.500934",
+  "count": 139,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3989,6 +3989,63 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "para una pareja con ba\u00f1o privado, no compartir el ba\u00f1o con otras personas. O en tal caso un estudio. URGENTE",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2244900432741418",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 700,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Jackson Heights",
+        "Astoria",
+        "Manhattan"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room in Jackson Heights or Astoria (Queens) and is open to sharing a room in Manhattan. Budget is $700/month with a move-in date of January 1, 2027.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244900432741418",
+      "posted_at": "Monday 12 October 2026 at 12:00",
+      "first_scraped_at": "2026-10-12T19:06:56.681629+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "or Shared Room in NYC Hi everyone! I\u2019m looking for a private room in Jackson Heights or Astoria, Queens, with",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28504113049258177",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a roommate to find a room starting 2026-11-01; flexible on neighborhood with a monthly budget of $800\u2013$1,000.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28504113049258177",
+      "posted_at": "Monday 12 October 2026 at 12:09",
+      "first_scraped_at": "2026-10-12T19:06:56.681629+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "single roomate to find a room together from nov 1 Flexible with the area Budget 800-1000 USD",
+      "group_id": "765841576845364"
     }
   ]
 }
