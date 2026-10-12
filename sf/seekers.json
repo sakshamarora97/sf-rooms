@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T19:06:42.597957",
-  "count": 3038,
+  "updated_at": "2026-10-11T20:06:51.113215",
+  "count": 3039,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -90928,6 +90928,36 @@
       "first_scraped_at": "2026-10-12T02:00:06.859110+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "moving to SF for work and looking for a roommate to find a 2-bedroom apartment together, preferably in SoMa near",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2029856841039221",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Lower Haight",
+        "Polk Gulch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "He is a 24-year-old who recently moved to San Francisco for work. He enjoys weightlifting, gaming, and going out with friends to try new restaurants and bars.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2029856841039221",
+      "posted_at": "Sunday 11 October 2026 at 19:13",
+      "first_scraped_at": "2026-10-12T03:00:04.157699+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "sublease Hey everyone! I\u2019m Akshad, and I moved to SF for work a couple weeks ago from Chicago. I\u2019m looking",
       "group_id": "242765489748374"
     }
   ]

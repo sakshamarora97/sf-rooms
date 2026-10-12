@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T19:06:42.597957",
-  "count": 2365,
+  "updated_at": "2026-10-11T20:06:51.113215",
+  "count": 2366,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73971,6 +73971,45 @@
       "first_scraped_at": "2026-10-12T02:00:06.859110+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Sublease WiFi all utilities included Hi everyone! I\u2019m looking for someone who needs a place in SF only one or",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4743835875851415",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2086,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2026-12-15",
+      "unit_config": "2B2.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "stainless_appliances",
+        "hardwood_style_flooring",
+        "package_reception",
+        "heated_pool",
+        "hot_tub",
+        "fitness_center",
+        "courtyard",
+        "resident_lounges",
+        "secure_building",
+        "high_speed_internet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "SoMa Square",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743835875851415",
+      "posted_at": "Sunday 11 October 2026 at 19:50",
+      "first_scraped_at": "2026-10-12T03:00:04.157699+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Room Bath in SoMa Square (1 St Francis Pl, SF 94107) Looking for a long term lease takeover. Available: From",
       "group_id": "2176716625896699"
     }
   ]
