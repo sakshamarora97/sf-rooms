@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T15:06:02.841359",
-  "count": 3053,
+  "updated_at": "2026-10-12T16:06:54.691722",
+  "count": 3054,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91387,6 +91387,40 @@
       "first_scraped_at": "2026-10-12T22:00:08.784143+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "am planning to relocate to Freemont, CA by 30th Oct 2026 and I am looking for an individual private room",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4744874935747509",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-24",
+      "move_out_date": "2026-11-24",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Embarcadero",
+        "Rincon Hill",
+        "South Beach",
+        "Hayes Valley",
+        "SoMa",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term studio or one-bedroom in San Francisco from 2026-10-24 to 2026-11-24; prefers Embarcadero, Rincon Hill, South Beach, Hayes Valley, SoMa, or Pacific Heights. ",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4744874935747509",
+      "posted_at": "Monday 12 October 2026 at 15:40",
+      "first_scraped_at": "2026-10-12T23:00:06.573973+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "studio or 1BR October 24 November 24 Preferred neighborhoods Embracadero, Rincon Hill, South Beach, Hates Valley, SoMa, Pacific Heights Please",
       "group_id": "2176716625896699"
     }
   ]
