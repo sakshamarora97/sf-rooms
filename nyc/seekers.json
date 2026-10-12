@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-11T17:15:46.968858",
-  "count": 117,
+  "updated_at": "2026-10-11T18:15:45.192066",
+  "count": 118,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3410,6 +3410,33 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "and I are Bengali, and we\u2019re looking for a studio or one-bedroom apartment. Our budget is $1,500. We\u2019re interested in",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2898006057232326",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-20",
+      "move_out_date": "2026-11-03",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a short-term apartment or master bedroom rental for a two-week stay starting 2026-10-20.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2898006057232326",
+      "posted_at": "Sunday 11 October 2026 at 17:47",
+      "first_scraped_at": "2026-10-12T01:06:08.862414+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "an apartment or master bedroom for short term lease for 2 weeks starting October 20th.",
+      "group_id": "1138638939835722"
     }
   ]
 }
