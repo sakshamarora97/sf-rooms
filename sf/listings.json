@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T08:05:29.706164",
-  "count": 2379,
+  "updated_at": "2026-10-12T09:05:40.534024",
+  "count": 2380,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -74420,6 +74420,38 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Rent in San Jose $1,100/Month Utilities Included Looking for a clean, comfortable place to call home? A private bedroom is",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2030393290985576",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-02-29",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "reserved_parking",
+        "utilities_included",
+        "building_amenities",
+        "natural_light",
+        "contemporary_finishes"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "AVA 55 Ninth",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2030393290985576",
+      "posted_at": "Monday 12 October 2026 at 08:20",
+      "first_scraped_at": "2026-10-12T16:00:07.642300+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Sublease at AVA 55 Ninth Discover sophisticated city living in one of San Francisco's most dynamic neighborhoods. AVA 55 Ninth",
+      "group_id": "242765489748374"
     }
   ]
 }
