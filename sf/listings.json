@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T17:06:30.928762",
-  "count": 2363,
+  "updated_at": "2026-10-11T18:06:04.303326",
+  "count": 2364,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -73901,6 +73901,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in 2BR/1BA Apartment Hi everyone! I recently moved into a 2-bedroom, 1-bathroom apartment in Glen Park and am looking for",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1385200646713512",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 5,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "back_porch",
+        "basketball_court",
+        "shared_living_room",
+        "shared_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1385200646713512",
+      "posted_at": "Sunday 11 October 2026 at 17:46",
+      "first_scraped_at": "2026-10-12T01:00:06.105904+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for spring semester? I am subletting my single room in a sunny, beautiful, female-identifying house. The place has in-unit laundry,",
+      "group_id": "558742412692677"
     }
   ]
 }
