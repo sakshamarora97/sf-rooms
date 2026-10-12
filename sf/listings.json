@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T09:05:40.534024",
-  "count": 2380,
+  "updated_at": "2026-10-12T10:05:49.301840",
+  "count": 2381,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -74452,6 +74452,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Sublease at AVA 55 Ninth Discover sophisticated city living in one of San Francisco's most dynamic neighborhoods. AVA 55 Ninth",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1385841689982741",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2345,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "rooftop",
+        "study_rooms",
+        "resident_lounge",
+        "outdoor_bbq"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Standard at Berkeley",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1385841689982741",
+      "posted_at": "Monday 12 October 2026 at 10:02",
+      "first_scraped_at": "2026-10-12T17:00:07.674331+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Bedroom Bathroom at The Standard Berkeley Jan\u2013July 2027 Hi everyone! I'm looking for someone to take over my lease at",
+      "group_id": "558742412692677"
     }
   ]
 }
