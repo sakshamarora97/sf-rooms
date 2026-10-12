@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T12:06:51.481501",
-  "count": 3050,
+  "updated_at": "2026-10-12T13:06:24.989188",
+  "count": 3051,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91295,6 +91295,39 @@
       "first_scraped_at": "2026-10-12T19:00:03.320225+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "soon in SF! my office is financial district, looking for a one bed for Dec move in! $3500-4000 budget (Ideal",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2030558837635688",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District",
+        "Richmond District",
+        "Pacific Heights",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They recently moved from central Pennsylvania; one completed a Master of International Affairs (East Asian Studies) and works with human rights NGOs/nonprofits, and the other works and plans to continue studies in music/arts. They enjoy the outdoors, studying Chinese, cooking, and playing Nintendo.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2030558837635688",
+      "posted_at": "Monday 12 October 2026 at 12:01",
+      "first_scraped_at": "2026-10-12T20:00:03.184455+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and I are looking for a studio or 1 bed for long-term in SF (ideally sunset, richmond, pacific heights, or",
       "group_id": "242765489748374"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T12:06:51.481501",
-  "count": 2387,
+  "updated_at": "2026-10-12T13:06:24.989188",
+  "count": 2389,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -74679,6 +74679,73 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "to takeover a private unit through late Jan, renewable. It's a 1 bed and 1 bath. Utilities and parking included.",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4744741785760824",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2595,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-11-02",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "hardwood_floors",
+        "granite_countertops",
+        "dishwasher",
+        "gas_stove",
+        "walk_in_closet",
+        "shared_laundry",
+        "elevator",
+        "resident_manager",
+        "street_parking",
+        "nearby_garage",
+        "water_included",
+        "garbage_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4744741785760824",
+      "posted_at": "Monday 12 October 2026 at 12:49",
+      "first_scraped_at": "2026-10-12T20:00:03.184455+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Studio in Hayes Valley I'm moving in with my partner and helping the property manager find the next tenant. You\u2019ll",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1385943579972552",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 975,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-22",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1385943579972552",
+      "posted_at": "Monday 12 October 2026 at 12:31",
+      "first_scraped_at": "2026-10-12T20:00:03.184455+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Hi! I\u2019m looking for someone female-identifying to sublease my room in UC Berkeley for Spring Semester 2027 after December 22nd.",
+      "group_id": "558742412692677"
     }
   ]
 }
