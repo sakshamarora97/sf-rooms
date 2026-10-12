@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-11T22:08:31.039130",
-  "count": 3044,
+  "updated_at": "2026-10-12T06:07:22.623185",
+  "count": 3047,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91109,6 +91109,100 @@
       "first_scraped_at": "2026-10-12T05:00:07.629917+00:00",
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking for a flatmate to team up with to find a private room with attached bathroom in a 2b/2b in",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4743969739171362",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-05",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "South Beach",
+        "Dogpatch",
+        "Potrero Hill",
+        "San Mateo",
+        "Redwood City",
+        "Palo Alto"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a product designer at an AI startup based in Austin and are easygoing, clean, social, and respectful of shared spaces. They enjoy dancing, photography, running, playing cricket, and exploring new places.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4743969739171362",
+      "posted_at": "Sunday 11 October 2026 at 22:38",
+      "first_scraped_at": "2026-10-12T13:00:11.141167+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room in SF Move-in Nov 5 Hey y\u2019all! I\u2019m moving to SF on November 5 and looking for a private",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1385535600013350",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Male seeking a shared room in Berkeley or nearby, with a move-in date of 2026-11-01.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1385535600013350",
+      "posted_at": "Monday 12 October 2026 at 03:12",
+      "first_scraped_at": "2026-10-12T13:00:11.141167+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for shared accommodation in Berkley CA or nearby areas for 1 male, move-in date will be NOVEMBER 1ST, 2026. If",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4380970158880402",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Mountain View",
+        "Santa Clara",
+        "Palo Alto",
+        "Menlo Park"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a vegetarian female roommate to share a 2B2B apartment on a sublease/month-to-month/6-month basis, looking to move in at the end of December or in January.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4380970158880402",
+      "posted_at": "Monday 12 October 2026 at 04:05",
+      "first_scraped_at": "2026-10-12T13:00:11.141167+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "everyone! I'm looking for a vegetarian female roommate to share a 2B/2B apartment in the Sunnyvale/Mountain View/Santa Clara/ Palo Alto/Menlo",
       "group_id": "1511607562483357"
     }
   ]
