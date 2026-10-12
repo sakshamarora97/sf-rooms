@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T14:06:34.287488",
-  "count": 3052,
+  "updated_at": "2026-10-12T15:06:02.841359",
+  "count": 3053,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91360,6 +91360,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a potential roommate for my current house/apartment hunt in San Francisco. 33 yo professional (engineering) male, just moved here",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4744810339087302",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-30",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Fremont"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Seeking an individual private room with an attached (non-shared) bathroom in Fremont by 2026-10-30; prefers Wi\u2011Fi included, shared kitchen, clean and safe accommodation, near the Indian community, budget $800\u2013$1200.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4744810339087302",
+      "posted_at": "Monday 12 October 2026 at 14:13",
+      "first_scraped_at": "2026-10-12T22:00:08.784143+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "am planning to relocate to Freemont, CA by 30th Oct 2026 and I am looking for an individual private room",
+      "group_id": "2176716625896699"
     }
   ]
 }

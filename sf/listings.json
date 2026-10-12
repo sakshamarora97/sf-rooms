@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T14:06:34.287488",
-  "count": 2389,
+  "updated_at": "2026-10-12T15:06:02.841359",
+  "count": 2391,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -74746,6 +74746,72 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Hi! I\u2019m looking for someone female-identifying to sublease my room in UC Berkeley for Spring Semester 2027 after December 22nd.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4744804072421262",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3100,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-10-15",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard",
+        "permit_street_parking",
+        "near_public_transport"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4744804072421262",
+      "posted_at": "Monday 12 October 2026 at 14:05",
+      "first_scraped_at": "2026-10-12T22:00:08.784143+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Russian Nob Hill 2 bed 2 bath Reposting because final applicant didn't pass background check Hi Yall! Title kinda already",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2030650304293208",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3900,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-06-30",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "monkeybrains_internet",
+        "trash_included",
+        "water_included",
+        "ground_floor",
+        "near_park",
+        "near_public_transit",
+        "laundromats_nearby",
+        "no_on-site_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2030650304293208",
+      "posted_at": "Monday 12 October 2026 at 14:31",
+      "first_scraped_at": "2026-10-12T22:00:08.784143+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "to take over a lease for a 1 bedroom in SF Nob Hill/Russian Hill which will end in June 2027.",
+      "group_id": "242765489748374"
     }
   ]
 }
