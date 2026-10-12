@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-12T08:12:57.074000",
-  "count": 131,
+  "updated_at": "2026-10-12T09:14:32.030483",
+  "count": 133,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -3817,6 +3817,63 @@
       "first_scraped_at": "2026-10-12T14:05:47.508098+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "a female looking for a private room in Jersey City, Union City, or West New York, preferably with easy access",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2244726466092148",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Brooklyn",
+        "Queens"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They have a CityFHEPS voucher and are seeking a 1-bedroom, 1-bathroom apartment (kitchen included) in Downtown Brooklyn or Queens close to Manhattan with a budget of $2,500\u2013$2,700/month. They ask landlords or brokers who accept CityFHEPS to message them.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244726466092148",
+      "posted_at": "Monday 12 October 2026 at 08:18",
+      "first_scraped_at": "2026-10-12T16:05:45.959086+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1 bedroom apartment 1 bedroom, 1 bathroom, kitchen Have a CityFHEPS voucher Budget: $2,500 to $2,700 a month Area: Brooklyn",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28501411456195003",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a working professional currently working from home, clean and organized, and respectful of shared spaces. Chill and easygoing; enjoys exploring new places, trying food spots, and going out on weekends.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28501411456195003",
+      "posted_at": "Monday 12 October 2026 at 08:35",
+      "first_scraped_at": "2026-10-12T16:05:45.959086+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "private room in Jersey City from Dec 1st! Preferably a private bedroom with an attached bathroom. Working professional, currently WFH.",
       "group_id": "765841576845364"
     }
   ]
