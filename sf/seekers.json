@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T12:06:33.074150",
-  "count": 3066,
+  "updated_at": "2026-10-13T13:06:31.126417",
+  "count": 3068,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91783,6 +91783,65 @@
       "first_scraped_at": "2026-10-13T18:00:03.774975+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "or Room Hi! My name is Michelle, 26F, and I'm looking to move to Berkeley! Hoping to split a 2",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2759387054457099",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-12",
+      "move_out_date": "2027-05-01",
+      "budget_min": 1200,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": 21,
+      "bio": "A 21-year-old male math major from San Jose seeking housing for a spring research internship; tidy, quiet, and prefers to sleep before midnight. Needs a place with a kitchen and is open to sublets or studio rentals within a 15-minute walk of UC Berkeley.",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2759387054457099",
+      "posted_at": "Tuesday 13 October 2026 at 12:42",
+      "first_scraped_at": "2026-10-13T20:00:03.506619+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "is Neil (male, 21 years old, from San Jose, CA). I'm currently looking for housing for the upcoming spring semester",
+      "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1386839673216276",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "Emeryville",
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": null,
+      "bio": "She is an esthetician working in Emeryville who has lived in the Bay Area her whole life. She enjoys cooking, watching movies and shopping, is looking for friendly roommates, and has an ESA cat.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1386839673216276",
+      "posted_at": "Tuesday 13 October 2026 at 12:37",
+      "first_scraped_at": "2026-10-13T20:00:03.506619+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "am looking for some roomies/an open room in Oakland/Emeryville/Berkeley! A bit about me- I am an Esthetician working in Emeryville.",
       "group_id": "558742412692677"
     }
   ]

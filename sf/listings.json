@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T12:06:33.074150",
-  "count": 2426,
+  "updated_at": "2026-10-13T13:06:31.126417",
+  "count": 2427,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -75892,6 +75892,38 @@
       "first_scraped_at": "2026-10-13T19:00:03.800783+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Jan-May 2027 2020 Bancroft Way, Berkeley $2,595/mo (furniture available to buy) Lease takeover available starting January 1, 2027 at 2020",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1386841073216136",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1080,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "wifi",
+        "laundry_on_site",
+        "shared_kitchen",
+        "shared_bathroom",
+        "reserved_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1386841073216136",
+      "posted_at": "Tuesday 13 October 2026 at 12:40",
+      "first_scraped_at": "2026-10-13T20:00:03.506619+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Spring Hi! I'm an alumna and help manage an all-women's home in Berkeley, and I have TWO furnished singles opening",
       "group_id": "558742412692677"
     }
   ]
