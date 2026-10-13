@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T09:07:32.603073",
-  "count": 2422,
+  "updated_at": "2026-10-13T10:07:12.452684",
+  "count": 2423,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -75769,6 +75769,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "to take over my lease. Private bedroom in Nob Hill apartment (California Stockton). Details below: Rent $2,385 Utilities ~$120 Apartment:",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1386040893296154",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1083,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "living_room_furnished"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "male only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1386040893296154",
+      "posted_at": "Tuesday 13 October 2026 at 09:07",
+      "first_scraped_at": "2026-10-13T17:00:04.846606+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for someone to take over my lease in Berkeley for the Spring 2027 semester! The available room is a",
+      "group_id": "558742412692677"
     }
   ]
 }

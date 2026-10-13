@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T09:07:32.603073",
-  "count": 3062,
+  "updated_at": "2026-10-13T10:07:12.452684",
+  "count": 3065,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91667,6 +91667,92 @@
       "first_scraped_at": "2026-10-13T13:00:06.556406+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Private Room Flatmate in SF or East Bay Jan 1, 2027 Hey everyone! I'm Mayur, a software engineer working in",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4745737665661236",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "They are a full-time worker and a student at USF, looking for a long-term room near USF or Muni; they have strong rental history, great references, and are clean and respectful. They have a vaccinated, neutered cat who gets along with other pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4745737665661236",
+      "posted_at": "Tuesday 13 October 2026 at 09:14",
+      "first_scraped_at": "2026-10-13T17:00:04.846606+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "and my cat Sushi are looking for a room to rent asap! Our budget is $1800 and we\u2019re looking for",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2031417294216509",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": "2026-11-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a recent graduate starting a job in San Francisco and seeking a short-term sublease available immediately through Nov 1. Prefers a place with a manageable commute to the Financial District.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2031417294216509",
+      "posted_at": "Tuesday 13 October 2026 at 09:48",
+      "first_scraped_at": "2026-10-13T17:00:04.846606+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "grad here moving to SF this Thursday to start work, currently in search of short term subleases that run anytime",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1386474199919490",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-07-31",
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A medical doctor and PhD student from the University of Padova, visiting student researcher at UC Berkeley School of Public Health from November 2026 to July 2027. She will be on campus most days, can provide references, and is looking for a private room or studio near campus.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1386474199919490",
+      "posted_at": "Tuesday 13 October 2026 at 09:07",
+      "first_scraped_at": "2026-10-13T17:00:04.846606+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "room or studio in Berkeley: November 2026 to July 2027 Hi everyone! I\u2019m Gloria, a medical doctor and PhD student",
       "group_id": "558742412692677"
     }
   ]
