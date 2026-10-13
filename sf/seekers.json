@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T19:08:22.564271",
-  "count": 3058,
+  "updated_at": "2026-10-12T20:09:01.914197",
+  "count": 3059,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91539,6 +91539,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "is Katriana, and I am looking for a private room to rent in San Francisco! I\u2019m currently living with a",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2030836064274632",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "North Beach",
+        "Richmond District",
+        "Sunset District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is an easygoing, clean, and respectful person who enjoys exploring the city, hanging out with friends, hiking, and running.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2030836064274632",
+      "posted_at": "Monday 12 October 2026 at 19:42",
+      "first_scraped_at": "2026-10-13T03:00:07.076876+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Gerardo, and currently on the hunt to find a place in SF. A little about myself, im easygoing,",
+      "group_id": "242765489748374"
     }
   ]
 }
