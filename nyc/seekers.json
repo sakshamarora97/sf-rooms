@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T07:16:24.861618",
-  "count": 161,
+  "updated_at": "2026-10-13T08:16:44.593915",
+  "count": 163,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -4682,6 +4682,66 @@
       "first_scraped_at": "2026-10-13T14:08:28.810435+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "a short-term sublet for Nov-Dec. My dates are pretty flexible, and I'm down for either a furnished or unfurnished spot.",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2245702855994509",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Astoria"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a spacious, bright private room in Astoria, preferably in a 2-bedroom apartment with a single roommate. Describes themself as clean, respectful, friendly, and easygoing; flexible move-in date of Nov 1 or Dec 1, 2026.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2245702855994509",
+      "posted_at": "Tuesday 13 October 2026 at 08:00",
+      "first_scraped_at": "2026-10-13T15:08:07.278488+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a spacious, bright private room in Astoria, preferably in a 2-bedroom apartment with only one roommate. I\u2019m clean,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "985017860635557",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-26",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2850,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Lower East Side",
+        "East Village"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "They are an Australian founder living in the city seeking a lease takeover for a 1BR or studio starting 2026-10-26. They have a cat and a budget of $2,500\u2013$2,850, preferring Williamsburg, the Lower East Side, or the East Village.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/985017860635557",
+      "posted_at": "Monday 12 October 2026 at 22:05",
+      "first_scraped_at": "2026-10-13T15:08:07.278488+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "an Aussie founder living in the city and looking for a lease takeover for me and my cat. ISO a",
       "group_id": "312692887868061"
     }
   ]
