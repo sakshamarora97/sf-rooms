@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T06:17:58.628230",
-  "count": 160,
+  "updated_at": "2026-10-13T07:16:24.861618",
+  "count": 161,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -4653,6 +4653,36 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "1 Bedroom or Studio apartment in manhattan to sublet from Oct 20-24. Budget $750 for the 4 nights. Message if",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "985238927280117",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Chelsea",
+        "Downtown Brooklyn",
+        "Long Island City",
+        "Williamsburg"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Based in Greenpoint and working full-time at the UN; reliable, clean, and low-key.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/985238927280117",
+      "posted_at": "Tuesday 13 October 2026 at 04:19",
+      "first_scraped_at": "2026-10-13T14:08:28.810435+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "a short-term sublet for Nov-Dec. My dates are pretty flexible, and I'm down for either a furnished or unfurnished spot.",
+      "group_id": "312692887868061"
     }
   ]
 }
