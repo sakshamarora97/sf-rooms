@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T15:06:39.687028",
-  "count": 2428,
+  "updated_at": "2026-10-13T16:06:59.788301",
+  "count": 2430,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -75957,6 +75957,69 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "3b/2ba apartment located in Japantown! Available starting November 1. Cross street is Geary and Laguna. Move-in date and lease length",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4746046165630386",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 5000,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-08",
+      "available_until": "2027-02-28",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop",
+        "private_bathroom",
+        "private_entrance"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4746046165630386",
+      "posted_at": "Tuesday 13 October 2026 at 15:42",
+      "first_scraped_at": "2026-10-13T23:00:07.604093+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "short-term subletter for a Russian Hill apartment! $5000 month, November 8 February 28 (flexible) Large bedroom suite, private bathroom, private",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4746026002299069",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1450,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-11-30",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "shared_bathroom",
+        "storage_room",
+        "furnished_common_area",
+        "natural_light",
+        "near_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4746026002299069",
+      "posted_at": "Tuesday 13 October 2026 at 15:12",
+      "first_scraped_at": "2026-10-13T23:00:07.604093+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in SOMA! Hi there! Reposting as roommate plans fell through!! We\u2019re renewing our lease ongoing to Nov. 2027. You will",
+      "group_id": "2176716625896699"
     }
   ]
 }

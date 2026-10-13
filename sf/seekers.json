@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T15:06:39.687028",
-  "count": 3071,
+  "updated_at": "2026-10-13T16:06:59.788301",
+  "count": 3072,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91923,6 +91923,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for an accommodation for two people temporary/permanant starting immediately near Milpitas, north san jose, closer to the airport. Please",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2759505631111908",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room",
+        "double"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Oakland",
+        "San Leandro",
+        "Hayward",
+        "Castro Valley",
+        "El Sobrante",
+        "Dublin"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Recent Berkeley graduate seeking housing starting Nov 1. She is looking for month-to-month or 6-month options, has an ESA cat (letter available), prefers a female-identifying only apartment, is tidy, and works 4\u20135 days per week.",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2759505631111908",
+      "posted_at": "Tuesday 13 October 2026 at 15:35",
+      "first_scraped_at": "2026-10-13T23:00:07.604093+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "place to live! My name is Melody and I am a recent Berkeley graduate looking for a place to live",
+      "group_id": "128476910881473"
     }
   ]
 }
