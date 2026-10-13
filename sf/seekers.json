@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T10:07:12.452684",
-  "count": 3065,
+  "updated_at": "2026-10-13T11:07:05.531453",
+  "count": 3066,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91753,6 +91753,36 @@
       "first_scraped_at": "2026-10-13T17:00:04.846606+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "room or studio in Berkeley: November 2026 to July 2027 Hi everyone! I\u2019m Gloria, a medical doctor and PhD student",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1386764483223795",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "North Berkeley",
+        "Northside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "She is a 26-year-old tech worker who goes into the office two days a week and is looking to split a 2-bedroom in Berkeley. She enjoys climbing and outdoor trips, art, techno/house music, thrifting, coffee shops, and cooking, and describes herself as independent, tidy, and sociable.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1386764483223795",
+      "posted_at": "Tuesday 13 October 2026 at 10:32",
+      "first_scraped_at": "2026-10-13T18:00:03.774975+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "or Room Hi! My name is Michelle, 26F, and I'm looking to move to Berkeley! Hoping to split a 2",
       "group_id": "558742412692677"
     }
   ]
