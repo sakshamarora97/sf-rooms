@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-12T17:16:48.291368",
-  "count": 152,
+  "updated_at": "2026-10-12T18:16:49.385737",
+  "count": 155,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -4417,6 +4417,96 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "UNDER $3.2K Looking for a 1 bedroom under $3.2k in Manhattan. looking for a lease takeover or a new lease.",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2245068199391308",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Queens",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works full-time for a healthcare company in Manhattan, graduated from the University of South Carolina in 2025, enjoys running, concerts, and going out on weekends; seeks friendly, respectful roommates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2245068199391308",
+      "posted_at": "Monday 12 October 2026 at 16:29",
+      "first_scraped_at": "2026-10-13T01:07:11.975562+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Nathan and I\u2019m looking for a roommate. I graduated from the University of South Carolina in 2025 and",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2245052722726189",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-25",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 30,
+      "bio": "They are an artist and designer who recently moved to NYC for a new job, enjoys arts and crafts, yoga, and hiking; they describe themselves as very clean and easygoing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2245052722726189",
+      "posted_at": "Monday 12 October 2026 at 16:03",
+      "first_scraped_at": "2026-10-13T01:07:11.975562+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a room to sublet in NYC, location is flexible either in Brooklyn or Manhattan, with a budget of",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2245000036064791",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a two-bedroom apartment in Brooklyn or Manhattan with a maximum budget of $2,500/month and asks to be contacted with leads.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2245000036064791",
+      "posted_at": "Monday 12 October 2026 at 14:32",
+      "first_scraped_at": "2026-10-13T01:07:11.975562+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a 2 bedroom apartment Brooklyn/Manhattan max 2500!! PLS!! Hit me up if you know of anything!!",
+      "group_id": "149460102285472"
     }
   ]
 }
