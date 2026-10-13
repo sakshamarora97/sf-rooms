@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T13:16:33.252814",
-  "count": 176,
+  "updated_at": "2026-10-13T14:26:40.475819",
+  "count": 178,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -5116,6 +5116,71 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "looking for a room in Manhattan starting January 15, ideally for around 1 year. Budget: up to $2,000/month Must-haves: A",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2245949209303207",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit",
+        "sublease",
+        "lease_takeover",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Harlem"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": 21,
+      "bio": "They are a 21-year-old from New Jersey working three jobs (one full-time, one part-time, and an overnight PRN shift). They are tidy, respectful, mostly out during the day, and have a 2-year-old cat.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2245949209303207",
+      "posted_at": "Tuesday 13 October 2026 at 13:56",
+      "first_scraped_at": "2026-10-13T21:06:33.716361+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Kay and I\u2019m looking to sublet an apartment, room, or do a short term lease take over in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28519566671046148",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-02",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "private_room",
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Exchange Place",
+        "Hoboken",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": 27,
+      "bio": "27-year-old corporate worker who commutes to Jersey City five days a week. Clean, respectful, easygoing, social, values personal space and a tidy home.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28519566671046148",
+      "posted_at": "Tuesday 13 October 2026 at 13:16",
+      "first_scraped_at": "2026-10-13T21:06:33.716361+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Soorya, a 27 yr old corporate girlie in Jersey City 5 days a week. I\u2019m looking for a private room",
+      "group_id": "765841576845364"
     }
   ]
 }
