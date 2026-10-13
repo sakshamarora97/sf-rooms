@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T14:06:28.924700",
-  "count": 2427,
+  "updated_at": "2026-10-13T15:06:39.687028",
+  "count": 2428,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -75925,6 +75925,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Spring Hi! I'm an alumna and help manage an all-women's home in Berkeley, and I have TWO furnished singles opening",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2031579037533668",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Japantown",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "laundry_in_building",
+        "furnished_common_areas",
+        "shared_bathroom",
+        "near_public_transit",
+        "grocery_nearby"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2031579037533668",
+      "posted_at": "Tuesday 13 October 2026 at 14:05",
+      "first_scraped_at": "2026-10-13T22:00:08.928148+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "3b/2ba apartment located in Japantown! Available starting November 1. Cross street is Geary and Laguna. Move-in date and lease length",
+      "group_id": "242765489748374"
     }
   ]
 }

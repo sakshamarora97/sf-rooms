@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T14:06:28.924700",
-  "count": 3069,
+  "updated_at": "2026-10-13T15:06:39.687028",
+  "count": 3071,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91870,6 +91870,59 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "San Francisco sublet November 1 1\u20133 months Hi everyone! I\u2019m Harrison, 27, and I\u2019m moving from Chicago to San Francisco",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4746011185633884",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": "2026-11-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Is a working professional visiting for work for about a month; quiet and clean. Seeks a furnished private room, preferably with a private bathroom.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4746011185633884",
+      "posted_at": "Tuesday 13 October 2026 at 14:50",
+      "first_scraped_at": "2026-10-13T22:00:08.928148+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a furnished private room starting Thursday, October 15, for about a month (through November 15). I'm a working",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2031599440864961",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Milpitas",
+        "North San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two people seeking housing near Milpitas and North San Jose (near the airport), available immediately and open to temporary or permanent arrangements.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2031599440864961",
+      "posted_at": "Tuesday 13 October 2026 at 14:43",
+      "first_scraped_at": "2026-10-13T22:00:08.928148+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for an accommodation for two people temporary/permanant starting immediately near Milpitas, north san jose, closer to the airport. Please",
+      "group_id": "242765489748374"
     }
   ]
 }
