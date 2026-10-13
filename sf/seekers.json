@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T20:09:01.914197",
-  "count": 3059,
+  "updated_at": "2026-10-12T21:07:48.980616",
+  "count": 3060,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91569,6 +91569,35 @@
       "first_scraped_at": "2026-10-13T03:00:07.076876+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Gerardo, and currently on the hunt to find a place in SF. A little about myself, im easygoing,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2030857857605786",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-18",
+      "move_out_date": "2026-11-18",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Walnut Creek",
+        "Antioch"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a private room with a private bathroom for one month starting 2026-10-18 in Walnut Creek, Clayton, or Antioch. Asks to be contacted via DM.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2030857857605786",
+      "posted_at": "Monday 12 October 2026 at 20:18",
+      "first_scraped_at": "2026-10-13T04:00:06.671614+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "private room with a private bath in Walnut Creek, Clayton, or Antioch from October 18 for one month. Please DM",
       "group_id": "242765489748374"
     }
   ]
