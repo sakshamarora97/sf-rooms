@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T10:18:26.300704",
-  "count": 170,
+  "updated_at": "2026-10-13T11:17:01.705044",
+  "count": 171,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -4939,6 +4939,34 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "looking for a room lease takeover Late Oct or Nov 1 Mainly looking in Manhattan, ideally Midtown or anywhere with",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28517743304561818",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 600,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is a male currently working from home and seeking a private room in shared accommodation near Jersey City with a budget of $600\u2013$800.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28517743304561818",
+      "posted_at": "Tuesday 13 October 2026 at 10:24",
+      "first_scraped_at": "2026-10-13T18:07:11.229156+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "private room for male in a shared accomodation. I am working from home for now, appreciate any leads. Preference near",
+      "group_id": "765841576845364"
     }
   ]
 }
