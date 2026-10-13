@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T12:16:37.317015",
-  "count": 175,
+  "updated_at": "2026-10-13T13:16:33.252814",
+  "count": 176,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -5087,6 +5087,34 @@
       "first_scraped_at": "2026-10-13T19:06:38.400343+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "are 3 friends travelling to NYC post Christmas, 27th-29th December. We are looking for accommodation near Manhattan, central park, times",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "985598390577504",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-01-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a private bedroom in Manhattan starting January 15 for about one year, requiring an in-unit washer/dryer and an elevator building, and are open to teaming up to apartment hunt.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/985598390577504",
+      "posted_at": "Tuesday 13 October 2026 at 12:40",
+      "first_scraped_at": "2026-10-13T20:06:36.300119+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "looking for a room in Manhattan starting January 15, ideally for around 1 year. Budget: up to $2,000/month Must-haves: A",
       "group_id": "312692887868061"
     }
   ]
