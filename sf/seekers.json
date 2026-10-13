@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T13:06:31.126417",
-  "count": 3068,
+  "updated_at": "2026-10-13T14:06:28.924700",
+  "count": 3069,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91843,6 +91843,33 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "am looking for some roomies/an open room in Oakland/Emeryville/Berkeley! A bit about me- I am an Esthetician working in Emeryville.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4745968838971452",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": 27,
+      "bio": "Is a 27-year-old startup founder who is clean, considerate, enjoys cooking and traveling, and will be bringing an emotional support cat.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4745968838971452",
+      "posted_at": "Tuesday 13 October 2026 at 13:56",
+      "first_scraped_at": "2026-10-13T21:00:05.360176+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "San Francisco sublet November 1 1\u20133 months Hi everyone! I\u2019m Harrison, 27, and I\u2019m moving from Chicago to San Francisco",
+      "group_id": "2176716625896699"
     }
   ]
 }
