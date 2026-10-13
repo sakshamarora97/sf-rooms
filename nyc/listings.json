@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T11:17:01.705044",
-  "count": 437,
+  "updated_at": "2026-10-13T12:16:37.317015",
+  "count": 438,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -13675,6 +13675,34 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "with a private backyard!** **NO FEE** Pictures shown are of the actual unit. The building has an elevator for the",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2245870052644456",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2540,
+      "neighborhood": "Stuyvesant Town",
+      "area": "Manhattan",
+      "available_from": "2026-10-13",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "air_conditioning"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "StuyTown",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2245870052644456",
+      "posted_at": "Tuesday 13 October 2026 at 11:46",
+      "first_scraped_at": "2026-10-13T19:06:38.400343+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "more girl to sign a lease with us in StuyTown TODAY! It\u2019s a 3 bed, 1 bath apartment, and we\u2019re",
+      "group_id": "149460102285472"
     }
   ]
 }

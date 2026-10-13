@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T11:17:01.705044",
-  "count": 171,
+  "updated_at": "2026-10-13T12:16:37.317015",
+  "count": 175,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -4967,6 +4967,127 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "private room for male in a shared accomodation. I am working from home for now, appreciate any leads. Preference near",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2899948663704732",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-23",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a working professional who commutes to NYC five days a week and is seeking a private bedroom with an attached private bathroom in Newport, Jersey City. They prefer non-vegetarian roommates and are flexible on move-in date (Dec 23, 2026).",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2899948663704732",
+      "posted_at": "Tuesday 13 October 2026 at 11:01",
+      "first_scraped_at": "2026-10-13T19:06:38.400343+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Private Room in Newport, Jersey City! Hey everyone! I\u2019m a working professional commuting to NYC five days a week and",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2245862962645165",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Bed-Stuy",
+        "Crown Heights",
+        "Ridgewood",
+        "Flatbush",
+        "Queens"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "She is a 28-year-old culture reporter who also works full-time as a shift leader at Blank Street. She is social, enjoys going out and fitness, and is quiet and tidy in shared spaces.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2245862962645165",
+      "posted_at": "Tuesday 13 October 2026 at 11:35",
+      "first_scraped_at": "2026-10-13T19:06:38.400343+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Sublet for Immediate Move-In Hi! My name is Tamica and I\u2019m currently looking for a room sublet! I\u2019m also open",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28518465251156290",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Exchange Place",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a pet-friendly 1BR/1BA private apartment in Newport, Exchange Place, or Grove Street (Downtown Jersey City). Their current lease is ending and they are ready to sign a lease, transfer, or sublet.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28518465251156290",
+      "posted_at": "Tuesday 13 October 2026 at 11:29",
+      "first_scraped_at": "2026-10-13T19:06:38.400343+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "friendly apt in Newport, exchange place or Grove st. Looking for 1bed 1 bath private apartment in, Exchange place, Grove",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "985442283926448",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-27",
+      "move_out_date": "2026-12-29",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Midtown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are three friends traveling to NYC for a short trip after Christmas (Dec 27\u201329) looking for budget accommodation near Manhattan/Times Square.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/985442283926448",
+      "posted_at": "Tuesday 13 October 2026 at 08:40",
+      "first_scraped_at": "2026-10-13T19:06:38.400343+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "are 3 friends travelling to NYC post Christmas, 27th-29th December. We are looking for accommodation near Manhattan, central park, times",
+      "group_id": "312692887868061"
     }
   ]
 }
