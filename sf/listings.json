@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T11:07:05.531453",
-  "count": 2424,
+  "updated_at": "2026-10-13T12:06:33.074150",
+  "count": 2426,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -75828,6 +75828,70 @@
       "first_scraped_at": "2026-10-13T18:00:03.774975+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "rent in a beautiful 3 bed, 2 bath plus Sun Room in Richmond, near the Alvarado Wild Canyon area by",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4745873882314281",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2400,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2027-01-15",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "balcony",
+        "new_appliances"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4745873882314281",
+      "posted_at": "Tuesday 13 October 2026 at 11:54",
+      "first_scraped_at": "2026-10-13T19:00:03.800783+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "rooms in my huge 1,100 sq ft, 2 bed 2 bath apartment at 345 8th St in SoMa! The apartment",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1386812199885690",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2595,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "pool",
+        "gym",
+        "study_room",
+        "on_site_shared_laundry",
+        "private_balcony",
+        "hardwood_floors",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1386812199885690",
+      "posted_at": "Tuesday 13 October 2026 at 11:49",
+      "first_scraped_at": "2026-10-13T19:00:03.800783+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Jan-May 2027 2020 Bancroft Way, Berkeley $2,595/mo (furniture available to buy) Lease takeover available starting January 1, 2027 at 2020",
       "group_id": "558742412692677"
     }
   ]
