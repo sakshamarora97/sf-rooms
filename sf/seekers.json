@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-12T22:07:19.165506",
-  "count": 3060,
+  "updated_at": "2026-10-13T06:08:48.808216",
+  "count": 3062,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91599,6 +91599,75 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "private room with a private bath in Walnut Creek, Clayton, or Antioch from October 18 for one month. Please DM",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2031040397587532",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Castro",
+        "Richmond District",
+        "North Beach",
+        "Excelsior",
+        "Glen Park",
+        "Ingleside"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 27,
+      "bio": "27-year-old full-time barista and former technical support worker studying for licenses and pursuing roles in Finance/FinTech. Organized, clean, mindful of noise, and enjoys music, reading, cooking, fitness, and social activities.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2031040397587532",
+      "posted_at": "Tuesday 13 October 2026 at 01:28",
+      "first_scraped_at": "2026-10-13T13:00:06.556406+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "27 years old, and I'm looking for the perfect place in SF to call home. BUDGET LOGISTICS Monthly Budget: $1,200",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1386275216606055",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco",
+        "Berkeley",
+        "Oakland",
+        "Richmond",
+        "Daly City",
+        "Hayward"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Software engineer based in San Francisco seeking a private room or flatmate arrangement starting Jan 1, 2027. Prefers quiet, clean long-term housing close to BART with up to ~1 hour commute to downtown SF; open to teaming up to rent a 2B2B/2B1B.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1386275216606055",
+      "posted_at": "Monday 12 October 2026 at 22:28",
+      "first_scraped_at": "2026-10-13T13:00:06.556406+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Private Room Flatmate in SF or East Bay Jan 1, 2027 Hey everyone! I'm Mayur, a software engineer working in",
+      "group_id": "558742412692677"
     }
   ]
 }
