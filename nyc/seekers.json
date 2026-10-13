@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-12T22:18:09.767589",
-  "count": 159,
+  "updated_at": "2026-10-13T06:17:58.628230",
+  "count": 160,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -4624,6 +4624,35 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Private Room 1 Male Jersey City Nearby Hey everyone! I'm looking for a private room in a shared apartment in",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2245610609337067",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-20",
+      "move_out_date": "2026-10-24",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a 1-bedroom or studio sublet in Manhattan from 2026-10-20 to 2026-10-24 with a budget of $750 for the four-night stay.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2245610609337067",
+      "posted_at": "Tuesday 13 October 2026 at 06:06",
+      "first_scraped_at": "2026-10-13T13:08:54.769786+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1 Bedroom or Studio apartment in manhattan to sublet from Oct 20-24. Budget $750 for the 4 nights. Message if",
+      "group_id": "149460102285472"
     }
   ]
 }
