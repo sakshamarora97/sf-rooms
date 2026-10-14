@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T16:06:59.788301",
-  "count": 2430,
+  "updated_at": "2026-10-13T17:06:50.160667",
+  "count": 2431,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76020,6 +76020,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "in SOMA! Hi there! Reposting as roommate plans fell through!! We\u2019re renewing our lease ongoing to Nov. 2027. You will",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2031660417525530",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1840,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2026-12-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "central_heat_ac",
+        "rooftop",
+        "gym",
+        "workspace",
+        "club_room"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2031660417525530",
+      "posted_at": "Tuesday 13 October 2026 at 16:44",
+      "first_scraped_at": "2026-10-14T00:00:03.701291+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in 2B/2B 975 Bryant St, SF Leasing out my private bedroom private bathroom in a 2 bed 2 bath at",
+      "group_id": "242765489748374"
     }
   ]
 }

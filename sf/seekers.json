@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T16:06:59.788301",
-  "count": 3072,
+  "updated_at": "2026-10-13T17:06:50.160667",
+  "count": 3075,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -91958,6 +91958,99 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "place to live! My name is Melody and I am a recent Berkeley graduate looking for a place to live",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "4746077152293954",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-26",
+      "move_out_date": "2026-11-02",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Mission Bay",
+        "Hayes Valley",
+        "Lower Haight"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are an MBA graduate (Harvard and Booth) visiting San Francisco to connect with the tech/startup community; clean, respectful, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4746077152293954",
+      "posted_at": "Tuesday 13 October 2026 at 16:29",
+      "first_scraped_at": "2026-10-14T00:00:03.701291+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Housing in San Francisco (Oct 26 Nov 2) Hey everyone! I\u2019ll be visiting San Francisco and am looking for a",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2031660394192199",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Hayes Valley",
+        "NoPa",
+        "Haight-Ashbury",
+        "Cole Valley",
+        "Marina",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Santa Clara University graduate working in-person full-time; enjoys running, hiking, biking, exploring the city, and spending time with friends and family.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2031660394192199",
+      "posted_at": "Tuesday 13 October 2026 at 16:44",
+      "first_scraped_at": "2026-10-14T00:00:03.701291+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "find an available room in an existing long-term lease in SF starting ASAP. Neighborhoods: Very Flexible. Top picks are North",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2031647747526797",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "She works at a tech startup and graduated from UCLA in 2022. She has two small dogs, enjoys hiking, concerts, and sports, and is looking for a clean, comfortable room under $2500 with friendly roommates, flexible to move in in Oct/Nov.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2031647747526797",
+      "posted_at": "Tuesday 13 October 2026 at 16:21",
+      "first_scraped_at": "2026-10-14T00:00:03.701291+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "SF in Oct/Nov Hi everyone! I\u2019m Zara, and I (and my 2 small dogs, pics attached) are looking to fill",
+      "group_id": "242765489748374"
     }
   ]
 }
