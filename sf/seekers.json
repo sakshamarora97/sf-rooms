@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T15:09:54.586781",
-  "count": 3092,
+  "updated_at": "2026-10-14T16:08:21.001181",
+  "count": 3094,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92567,6 +92567,67 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "am currently looking for a studio/1B in Southwest Berkeley, West Berkeley, and Emeryville with a start-date of now or November!",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4747262142175455",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-30",
+      "move_out_date": "2027-02-28",
+      "budget_min": 2700,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Hayes Valley",
+        "Pacific Heights",
+        "Richmond District",
+        "Sunset District",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private, furnished short-term sublet (studio or 1BR) in central/northern San Francisco from late November through February. Travels with a cat and has a budget of about $2,700\u2013$3,200/month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4747262142175455",
+      "posted_at": "Wednesday 14 October 2026 at 15:52",
+      "first_scraped_at": "2026-10-14T23:00:01.759496+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Furnished Apartment (Short-Term Sublet) Hi everyone! I\u2019m looking for a private, furnished sublet (entire apartment/unit no shared spaces) in San",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2032572264101012",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 22,
+      "bio": "22-year-old college student taking online courses who likes to cook and draw. They recently moved in with a parent, have savings to cover expenses, and receive VA education payments.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032572264101012",
+      "posted_at": "Wednesday 14 October 2026 at 15:09",
+      "first_scraped_at": "2026-10-14T23:00:01.759496+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a private room in SF. My budget is 1300 including utilities. About me: I am a 22yr old",
+      "group_id": "242765489748374"
     }
   ]
 }

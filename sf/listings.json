@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T15:09:54.586781",
-  "count": 2460,
+  "updated_at": "2026-10-14T16:08:21.001181",
+  "count": 2461,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76957,6 +76957,32 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "a month (Spring semester only) very close to campus 2438 warring street, Berkeley CA I love this room however I",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2032542937437278",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Duboce Triangle",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3BR",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032542937437278",
+      "posted_at": "Wednesday 14 October 2026 at 14:11",
+      "first_scraped_at": "2026-10-14T22:00:14.366777+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Duboce Triangle Looking for someone to take over my lease starting November 1st. One bedroom open in our 3BR apartment.",
+      "group_id": "242765489748374"
     }
   ]
 }
