@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T19:06:47.186183",
-  "count": 3077,
+  "updated_at": "2026-10-13T20:07:18.663788",
+  "count": 3080,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92113,6 +92113,101 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "in SF (Oct 15 23) Looking for a furnished room or crash pad in San Francisco (open to Northside, Mission,",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2031761577515414",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-26",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Telegraph Hill",
+        "Polk Gulch",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "They are a 24-year-old moving to San Francisco for a new job in the Financial District starting Nov 2. They are active, social, tidy, enjoy cooking and baking, and are looking for 1-2 roommates and to be friends with roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2031761577515414",
+      "posted_at": "Tuesday 13 October 2026 at 19:41",
+      "first_scraped_at": "2026-10-14T03:00:03.378578+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "moving for a new job in FiDi that starts Nov 2 and am looking for 1-2 roommates to find a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4382668122043939",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-16",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "2B2B",
+        "3B3B"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "North San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "She is a female moving to the Bay Area for an internship, seeking a private bedroom with a private bathroom in a 2B2B or 3B3B in Santa Clara/North San Jose with move-in around 2026-10-16 and an approximately six-month lease.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4382668122043939",
+      "posted_at": "Tuesday 13 October 2026 at 19:50",
+      "first_scraped_at": "2026-10-14T03:00:03.378578+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "a female moving for an internship, looking for a private bedroom with a private bathroom in a 2 bed/2 bath",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4383074358669982",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-04-30",
+      "budget_min": 3000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto",
+        "Menlo Park",
+        "Mountain View"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "Recent college graduate moving to the Bay Area for an internship; seeking a furnished studio or 1BR in Palo Alto, Menlo Park, or Mountain View from Dec 2026 through April 2027.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4383074358669982",
+      "posted_at": "Tuesday 13 October 2026 at 19:49",
+      "first_scraped_at": "2026-10-14T03:00:03.378578+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Studio 1BR Sublease in Palo Alto Dec 2026 April 2027 Hi everyone! I\u2019m looking for a furnished studio or 1-bedroom",
+      "group_id": "1511607562483357"
     }
   ]
 }
