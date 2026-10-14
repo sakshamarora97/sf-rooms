@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T17:19:27.404023",
-  "count": 179,
+  "updated_at": "2026-10-13T18:18:52.284709",
+  "count": 181,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -5211,6 +5211,64 @@
       "first_scraped_at": "2026-10-14T00:06:55.389307+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "room/ roommates in Jersey City Move-in: December 1** Interested in either joining an existing lease or signing a new lease",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2246070935957701",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-10-22",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are Spanish and work in the healthcare industry.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2246070935957701",
+      "posted_at": "Tuesday 13 October 2026 at 17:49",
+      "first_scraped_at": "2026-10-14T01:07:01.449497+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Spanish and work in the healthcare industry. I\u2019m looking for a private apartment or studio in Manhattan, below 90th Street,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28522132040789611",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "He is a 22-year-old recent graduate working in the city who enjoys playing and watching soccer, exploring the city, and playing Catan. He keeps living spaces clean, is mellow, and spends most nights in.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28522132040789611",
+      "posted_at": "Tuesday 13 October 2026 at 18:09",
+      "first_scraped_at": "2026-10-14T01:07:01.449497+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for one roommate to start a lease by the end of October. Locations: Journal square or Downtown Jersey city I\u2019m",
       "group_id": "765841576845364"
     }
   ]
