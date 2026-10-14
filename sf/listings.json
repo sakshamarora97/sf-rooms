@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T13:09:10.398806",
-  "count": 2458,
+  "updated_at": "2026-10-14T14:09:23.767404",
+  "count": 2460,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76897,6 +76897,66 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Mission Bay Studio for Sublet in the SF Mission Bay Looking for a cozy place to call home? Subletting a",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1387774123122831",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Bowles Hall",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1387774123122831",
+      "posted_at": "Wednesday 14 October 2026 at 13:50",
+      "first_scraped_at": "2026-10-14T21:00:03.713785+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for someone interested in taking over my Bowles Hall housing agreement for the spring semester, subject to Bowles Hall\u2019s",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1387767619790148",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 20,
+      "amenities": [
+        "in_house_laundry",
+        "parking",
+        "professional_cleaning",
+        "walk_in_closet",
+        "large_kitchen",
+        "multiple_bathrooms",
+        "landlord_on_site"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1387767619790148",
+      "posted_at": "Wednesday 14 October 2026 at 13:39",
+      "first_scraped_at": "2026-10-14T21:00:03.713785+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "a month (Spring semester only) very close to campus 2438 warring street, Berkeley CA I love this room however I",
+      "group_id": "558742412692677"
     }
   ]
 }
