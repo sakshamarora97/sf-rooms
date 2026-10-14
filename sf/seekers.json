@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T09:08:41.192122",
-  "count": 3085,
+  "updated_at": "2026-10-14T10:08:57.497708",
+  "count": 3087,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92357,6 +92357,66 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Studio in Hayward! Hi everyone! I\u2019m looking for a studio, in-law unit, or ADU in Hayward or nearby (San Leandro),",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2032378034120435",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Pacific Heights",
+        "Duboce Triangle",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "She is a 23-year-old recent university graduate from the East Coast moving to San Francisco to work in the Financial District. She is social, enjoys exploring restaurants and cafes, plays tennis and takes barre classes, and keeps a clean home where she occasionally hosts friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032378034120435",
+      "posted_at": "Wednesday 14 October 2026 at 09:56",
+      "first_scraped_at": "2026-10-14T17:00:07.436847+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate or a studio ASAP! Hey! My name is Archana, I'm 23 and just graduated from university! I am originally",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2032375657454006",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-29",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "She is a 26-year-old starting a new job in San Francisco and will work hybrid three days per week. She is seeking short-term housing from late November to mid-January, describes herself as clean and quiet, and will be away for the last two weeks of December.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032375657454006",
+      "posted_at": "Wednesday 14 October 2026 at 09:54",
+      "first_scraped_at": "2026-10-14T17:00:07.436847+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "January short-term housing*** Hi! I'll be starting a new job in SF after Thanksgiving and am hoping to find short-term",
+      "group_id": "242765489748374"
     }
   ]
 }

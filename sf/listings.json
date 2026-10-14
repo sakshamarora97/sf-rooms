@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T09:08:41.192122",
-  "count": 2453,
+  "updated_at": "2026-10-14T10:08:57.497708",
+  "count": 2454,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76747,6 +76747,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Nob Hill! $1320/month Hi everyone! We\u2019re looking for a roommate for a 4 bed 2 bath apartment in Nob Hill",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2760356014360203",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2190,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "on_site_laundry",
+        "gated_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2760356014360203",
+      "posted_at": "Wednesday 14 October 2026 at 09:33",
+      "first_scraped_at": "2026-10-14T17:00:07.436847+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Spacious, Sunlit Private Room in a 1 Bedroom Apartment (1 bedroom 1 living room 1 bathroom) Prime UC Berkeley, Downtown",
+      "group_id": "128476910881473"
     }
   ]
 }
