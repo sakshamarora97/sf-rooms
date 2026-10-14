@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-14T13:19:13.883739",
-  "count": 207,
+  "updated_at": "2026-10-14T14:18:02.219806",
+  "count": 208,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -6026,6 +6026,34 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "to sublet in November( short, or even longer term), if you have a place please send me a message",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28533982072937941",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 500,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "She is a 24-year-old working professional from Newark who has five years of experience living with roommates. She describes herself as clean, considerate, and easygoing, and is open to finding roommates and apartment hunting together.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28533982072937941",
+      "posted_at": "Wednesday 14 October 2026 at 13:22",
+      "first_scraped_at": "2026-10-14T21:09:28.313595+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "room in Jersey City Dec 2026 Hi everyone! I\u2019m 24F, a working professional currently living in the Newark area, and",
+      "group_id": "765841576845364"
     }
   ]
 }
