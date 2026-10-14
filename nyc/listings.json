@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-14T06:21:57.318175",
-  "count": 487,
+  "updated_at": "2026-10-14T07:15:51.713517",
+  "count": 488,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -15276,6 +15276,37 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "1-bathroom apartment on the 2nd floor. Features a modern updated kitchen and bathroom, spacious living area, and comfortable bedrooms. Great",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2246092392622222",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3750,
+      "neighborhood": "Flushing",
+      "area": "Queens",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_balcony",
+        "renovated",
+        "high_end_finishes",
+        "bright_natural_light"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2246092392622222",
+      "posted_at": "Tuesday 13 October 2026 at 18:25",
+      "first_scraped_at": "2026-10-14T14:08:28.876368+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "BATHROOMS, a BALCONY EXTRA-LARGE SPACE in Queens?! This one is a SHOWSTOPPER! Looking for a spacious, beautifully renovated apartment in",
+      "group_id": "149460102285472"
     }
   ]
 }
