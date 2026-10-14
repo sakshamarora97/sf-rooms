@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T12:08:50.646710",
-  "count": 3089,
+  "updated_at": "2026-10-14T13:09:10.398806",
+  "count": 3092,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92483,6 +92483,90 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "month-to-month sublet for November! Hey everyone! I'm Sanjana: moved to SF two months ago, and the person I was subletting",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4747104002191269",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They work full-time at a yoga studio and are an artist (painting and ceramics). They enjoy surfing and yoga and describe themselves as clean, respectful, and easy to live with.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4747104002191269",
+      "posted_at": "Wednesday 14 October 2026 at 12:23",
+      "first_scraped_at": "2026-10-14T20:00:06.730935+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Xio, in my 20s, looking for a private room in San Francisco. My budget is up to $1,000/month base rent,",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2032468620778043",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1850,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent mechanical engineering graduate working as a Project Engineer at Build Group in San Francisco. Quiet, clean, and responsible professional seeking 1\u20132 roommates for a stable shared apartment.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032468620778043",
+      "posted_at": "Wednesday 14 October 2026 at 12:08",
+      "first_scraped_at": "2026-10-14T20:00:06.730935+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "23, a mechanical engineer who just graduated (July 2026) from Tecnol\u00f3gico de Monterrey. I just relocated to San Francisco to",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1387150876518489",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "South Berkeley",
+        "West Berkeley",
+        "Emeryville"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She recently graduated from UC Berkeley with a degree in molecular and cell biology and will be working in clinical research at UCSF in Berkeley. She enjoys trying new restaurants, staying active, outdoor adventures, and concerts, and describes herself as clean, organized, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1387150876518489",
+      "posted_at": "Tuesday 13 October 2026 at 22:25",
+      "first_scraped_at": "2026-10-14T20:00:06.730935+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "am currently looking for a studio/1B in Southwest Berkeley, West Berkeley, and Emeryville with a start-date of now or November!",
+      "group_id": "558742412692677"
     }
   ]
 }
