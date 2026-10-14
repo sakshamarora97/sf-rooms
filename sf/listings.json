@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T06:11:23.205704",
-  "count": 2452,
+  "updated_at": "2026-10-14T07:08:23.697030",
+  "count": 2453,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76719,6 +76719,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Private Baths Hi everyone! I'm looking for a female roommate to share a 2 bed 2 bath apartment at The",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "28684341547889794",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1320,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28684341547889794",
+      "posted_at": "Wednesday 14 October 2026 at 05:12",
+      "first_scraped_at": "2026-10-14T14:00:03.674673+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Nob Hill! $1320/month Hi everyone! We\u2019re looking for a roommate for a 4 bed 2 bath apartment in Nob Hill",
+      "group_id": "843764532374203"
     }
   ]
 }
