@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T18:06:55.333897",
-  "count": 3076,
+  "updated_at": "2026-10-13T19:06:47.186183",
+  "count": 3077,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92082,6 +92082,36 @@
       "first_scraped_at": "2026-10-14T01:00:05.550056+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking for a sublease or short-term lease takeover in the South Bay, ideally a 1-bedroom, 1-bathroom apartment, or a private",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4746174578950878",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-15",
+      "move_out_date": "2026-10-23",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "crash_pad"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A clean, quiet, respectful student in town for classes who is out most of the day.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4746174578950878",
+      "posted_at": "Tuesday 13 October 2026 at 18:51",
+      "first_scraped_at": "2026-10-14T02:00:04.660265+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in SF (Oct 15 23) Looking for a furnished room or crash pad in San Francisco (open to Northside, Mission,",
       "group_id": "2176716625896699"
     }
   ]

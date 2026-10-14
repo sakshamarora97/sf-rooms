@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T18:06:55.333897",
-  "count": 2432,
+  "updated_at": "2026-10-13T19:06:47.186183",
+  "count": 2433,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76087,6 +76087,42 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "and my roommates are looking for subletters for our apartment for spring and/or summer 2027 (late december/january late july)! perfect",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4746163258952010",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3300,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "hardwood_floors",
+        "private_rooftop",
+        "deck",
+        "new_appliances",
+        "soundproof_windows",
+        "open_kitchen",
+        "natural_light",
+        "walkable"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4746163258952010",
+      "posted_at": "Tuesday 13 October 2026 at 18:37",
+      "first_scraped_at": "2026-10-14T02:00:04.660265+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "3RD ROOMMATE w/ 3.3-3.5k BUDGET FOR GREAT SPOT IN PAC HEIGHTS Hey everyone! We've got a great apartment in Pac",
+      "group_id": "2176716625896699"
     }
   ]
 }
