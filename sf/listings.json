@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T10:08:57.497708",
-  "count": 2454,
+  "updated_at": "2026-10-14T11:08:52.549524",
+  "count": 2456,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76776,6 +76776,66 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Spacious, Sunlit Private Room in a 1 Bedroom Apartment (1 bedroom 1 living room 1 bathroom) Prime UC Berkeley, Downtown",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "4747010348867301",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3BR",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "central_heat",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4747010348867301",
+      "posted_at": "Wednesday 14 October 2026 at 10:43",
+      "first_scraped_at": "2026-10-14T18:00:07.243915+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Nob Hill, available Nov 1: One bedroom open in our 3BR in Nob Hill. We're two guys in our early-to-mid",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4746994575535545",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2825,
+      "neighborhood": "Cow Hollow",
+      "area": "San Francisco",
+      "available_from": "2026-10-19",
+      "available_until": "2027-07-31",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "street_parking",
+        "garage_available",
+        "laundry_in_building"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "male only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4746994575535545",
+      "posted_at": "Wednesday 14 October 2026 at 10:25",
+      "first_scraped_at": "2026-10-14T18:00:07.243915+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a 2-bedroom apartment at 3255 Broderick St #4 in the Marina Cow Hollow. I am relocating to NYC for work",
+      "group_id": "2176716625896699"
     }
   ]
 }

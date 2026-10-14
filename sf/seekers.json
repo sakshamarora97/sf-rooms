@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T10:08:57.497708",
-  "count": 3087,
+  "updated_at": "2026-10-14T11:08:52.549524",
+  "count": 3088,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92416,6 +92416,39 @@
       "first_scraped_at": "2026-10-14T17:00:07.436847+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "January short-term housing*** Hi! I'll be starting a new job in SF after Thanksgiving and am hoping to find short-term",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2032401600784745",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Nob Hill",
+        "Russian Hill",
+        "Parkmerced",
+        "San Mateo",
+        "Millbrae"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are relocating from the East Coast to South San Francisco for work and seeking a private room starting November 1. They describe themselves as clean, responsible, and respectful of shared spaces and prefer a vegetarian household.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032401600784745",
+      "posted_at": "Wednesday 14 October 2026 at 10:28",
+      "first_scraped_at": "2026-10-14T18:00:07.243915+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "vegetarian Roommate in mission, nob, Russian hill, parkmercered, San Mateo,millbrae Hi everyone! My name is Yashvi Hemani and I'm relocating",
       "group_id": "242765489748374"
     }
   ]
