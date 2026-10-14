@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T16:18:17.184722",
-  "count": 178,
+  "updated_at": "2026-10-13T17:19:27.404023",
+  "count": 179,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -5180,6 +5180,37 @@
       "first_scraped_at": "2026-10-13T21:06:33.716361+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Soorya, a 27 yr old corporate girlie in Jersey City 5 days a week. I\u2019m looking for a private room",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28521383557531126",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "master_bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Downtown Jersey City",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works in tech; clean, responsible, and respectful of shared spaces. Easygoing, friendly, social, and interested in exploring new spots.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28521383557531126",
+      "posted_at": "Tuesday 13 October 2026 at 16:44",
+      "first_scraped_at": "2026-10-14T00:06:55.389307+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "room/ roommates in Jersey City Move-in: December 1** Interested in either joining an existing lease or signing a new lease",
       "group_id": "765841576845364"
     }
   ]
