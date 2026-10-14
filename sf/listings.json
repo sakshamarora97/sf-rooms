@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T17:06:50.160667",
-  "count": 2431,
+  "updated_at": "2026-10-13T18:06:55.333897",
+  "count": 2432,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76054,6 +76054,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in 2B/2B 975 Bryant St, SF Leasing out my private bedroom private bathroom in a 2 bed 2 bath at",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1386993676534209",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1050,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "balcony",
+        "laundry_in_building",
+        "parking_garage",
+        "storage",
+        "water_included",
+        "garbage_included"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1386993676534209",
+      "posted_at": "Tuesday 13 October 2026 at 17:56",
+      "first_scraped_at": "2026-10-14T01:00:05.550056+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "and my roommates are looking for subletters for our apartment for spring and/or summer 2027 (late december/january late july)! perfect",
+      "group_id": "558742412692677"
     }
   ]
 }

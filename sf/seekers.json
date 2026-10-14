@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-13T17:06:50.160667",
-  "count": 3075,
+  "updated_at": "2026-10-13T18:06:55.333897",
+  "count": 3076,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92051,6 +92051,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "SF in Oct/Nov Hi everyone! I\u2019m Zara, and I (and my 2 small dogs, pics attached) are looking to fill",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4746115708956765",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Santa Clara",
+        "San Jose",
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They work in tech and will be in the office most of the week. They are seeking a 6-month lease or a month-to-month sublease in the South Bay and need parking and a reasonable commute.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4746115708956765",
+      "posted_at": "Tuesday 13 October 2026 at 17:28",
+      "first_scraped_at": "2026-10-14T01:00:05.550056+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a sublease or short-term lease takeover in the South Bay, ideally a 1-bedroom, 1-bathroom apartment, or a private",
+      "group_id": "2176716625896699"
     }
   ]
 }
