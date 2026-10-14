@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-13T19:39:38.592965",
-  "count": 184,
+  "updated_at": "2026-10-14T06:21:57.318175",
+  "count": 190,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -5357,6 +5357,180 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "I\u2019m an engineer, and I\u2019m looking to move to Jersey City around December 1. I am open to taking over",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2900337540332511",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "A 28-year-old female working professional and vegetarian seeking a private room in Newport for a long-term lease starting mid-November 2026 with a budget up to $2,000/month.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2900337540332511",
+      "posted_at": "Tuesday 13 October 2026 at 20:32",
+      "first_scraped_at": "2026-10-14T13:11:29.918260+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "lease in Newport Hi everyone! I\u2019m looking for a private room in Newport, NJ, for a long-term lease starting in",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2246459305918864",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-04",
+      "move_out_date": "2026-11-10",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are visiting New York and looking for a short-term room near public transit from 2026-11-04 to 2026-11-10.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2246459305918864",
+      "posted_at": "Wednesday 14 October 2026 at 03:49",
+      "first_scraped_at": "2026-10-14T13:11:29.918260+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "are visiting New York from 4th Nov to 10 nov looking for short term room near to subway or local",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28528709626798519",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private_room",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Downtown Jersey City",
+        "Exchange Place"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is in her mid-20s seeking a private room near a PATH station in Jersey City, preferably Newport, Downtown Jersey City, or Exchange Place. She is looking to join existing roommates or connect with other women to find a place together.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28528709626798519",
+      "posted_at": "Wednesday 14 October 2026 at 05:38",
+      "first_scraped_at": "2026-10-14T13:11:29.918260+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "near path station I\u2019m looking for a room or potential roommates in Jersey City! I\u2019m in my mid 20s and",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28525718517097630",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Jersey City",
+        "Paulus Hook",
+        "Exchange Place",
+        "Newport",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "Software engineer who works in-office five days a week. Non-smoker with no pets, a gym regular who enjoys cooking at home.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28525718517097630",
+      "posted_at": "Wednesday 14 October 2026 at 00:36",
+      "first_scraped_at": "2026-10-14T13:11:29.918260+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "1 Bed in Jersey City, mid-Nov move-in Hi everyone! I'm looking for a studio or 1 bedroom. Areas: Grove St",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28522999820702833",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are clean, responsible, and friendly, respectful of others' privacy, seeking a peaceful private room near Journal Square. Prefers a vegetarian household and female roommates or couples.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28522999820702833",
+      "posted_at": "Tuesday 13 October 2026 at 19:42",
+      "first_scraped_at": "2026-10-14T13:11:29.918260+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Room Journal Square, Jersey City, NJ Hi everyone! I\u2019m looking for a **private room near Journal Square, Jersey City. Location:",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "985809253889751",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit",
+        "2B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two friends seeking an apartment together, open to renting an entire unit for the two of them or a furnished 2-bedroom; looking to start in December.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/985809253889751",
+      "posted_at": "Tuesday 13 October 2026 at 19:30",
+      "first_scraped_at": "2026-10-14T13:11:29.918260+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "my friend, and we\u2019re looking for a place to move to in New York together. We\u2019re open to either renting",
+      "group_id": "312692887868061"
     }
   ]
 }
