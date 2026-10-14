@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T11:08:52.549524",
-  "count": 3088,
+  "updated_at": "2026-10-14T12:08:50.646710",
+  "count": 3089,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92449,6 +92449,39 @@
       "first_scraped_at": "2026-10-14T18:00:07.243915+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "vegetarian Roommate in mission, nob, Russian hill, parkmercered, San Mateo,millbrae Hi everyone! My name is Yashvi Hemani and I'm relocating",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2032430194115219",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Telegraph Hill",
+        "Marina",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recently moved to San Francisco, previously worked at Microsoft and is currently interviewing. Super clean and respectful of shared spaces; seeking a month-to-month furnished sublet for November.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032430194115219",
+      "posted_at": "Wednesday 14 October 2026 at 11:10",
+      "first_scraped_at": "2026-10-14T19:00:06.876382+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "month-to-month sublet for November! Hey everyone! I'm Sanjana: moved to SF two months ago, and the person I was subletting",
       "group_id": "242765489748374"
     }
   ]

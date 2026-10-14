@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T11:08:52.549524",
-  "count": 2456,
+  "updated_at": "2026-10-14T12:08:50.646710",
+  "count": 2458,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -76836,6 +76836,67 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "a 2-bedroom apartment at 3255 Broderick St #4 in the Marina Cow Hollow. I am relocating to NYC for work",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4747075775527425",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1465,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "5B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "gas_stove",
+        "hardwood_floors"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4747075775527425",
+      "posted_at": "Wednesday 14 October 2026 at 11:51",
+      "first_scraped_at": "2026-10-14T19:00:06.876382+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a 5B/3B House in the Mission $1,465.98/month Looking for a new housemate to join our home in the Mission! The",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2032434317448140",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3540,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": false,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "kitchen",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032434317448140",
+      "posted_at": "Wednesday 14 October 2026 at 11:18",
+      "first_scraped_at": "2026-10-14T19:00:06.876382+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Mission Bay Studio for Sublet in the SF Mission Bay Looking for a cozy place to call home? Subletting a",
+      "group_id": "242765489748374"
     }
   ]
 }
