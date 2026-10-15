@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T12:07:27.672860",
-  "count": 2488,
+  "updated_at": "2026-10-15T13:06:41.978071",
+  "count": 2489,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -77874,6 +77874,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "2618 HILLEGASS AVE! Looking for a house that actually feels like a home? We already have 4 amazing subleasers lined",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4748274518740884",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Lake Merritt",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_parking",
+        "fireplace",
+        "enclosed_balcony",
+        "large_windows",
+        "secure_building",
+        "balcony"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4748274518740884",
+      "posted_at": "Thursday 15 October 2026 at 12:09",
+      "first_scraped_at": "2026-10-15T20:00:02.889601+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "by living on the lake in the city. This beautiful 2 bedroom, 2 bathroom unit is located in a secure",
+      "group_id": "2176716625896699"
     }
   ]
 }
