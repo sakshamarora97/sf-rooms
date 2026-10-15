@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T16:08:21.001181",
-  "count": 3094,
+  "updated_at": "2026-10-14T17:07:56.767698",
+  "count": 3096,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92627,6 +92627,65 @@
       "first_scraped_at": "2026-10-14T23:00:01.759496+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a private room in SF. My budget is 1300 including utilities. About me: I am a 22yr old",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2032620294096209",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Foster City",
+        "Daly City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": 36,
+      "bio": "He is a 36-year-old professional photographer and videographer preparing to start college in Daly City this winter. In his free time he enjoys riding his motorcycle, shooting street photography, and exploring the Bay Area and Sierra Nevada mountains.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032620294096209",
+      "posted_at": "Wednesday 14 October 2026 at 16:44",
+      "first_scraped_at": "2026-10-15T00:00:02.345624+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Boris, and I\u2019m 36. I\u2019m a professional photographer and videographer, and I\u2019m preparing to start college in Daly",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2032618210763084",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are new to San Francisco, seeking a studio or a room in a 2-bedroom (preferably with a private bathroom) with a monthly budget of $2000\u2013$2300. Sociable and active, they enjoy walks, coffee, exploring the city, and weekend activities.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032618210763084",
+      "posted_at": "Wednesday 14 October 2026 at 16:40",
+      "first_scraped_at": "2026-10-15T00:00:02.345624+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "new to San Francisco and looking for a place to stay near Union Square. Housing: Ideally, I\u2019m looking for a",
       "group_id": "242765489748374"
     }
   ]
