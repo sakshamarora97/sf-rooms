@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-14T15:18:38.373885",
-  "count": 211,
+  "updated_at": "2026-10-14T17:19:09.377280",
+  "count": 213,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -6138,6 +6138,63 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "looking for a private room for myself in Manhattan or Jersey City, with a budget of up to $1,300 per",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2901239396908992",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": "2027-06-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a room or existing sublease in or near Newport, ideally within walking distance of the PATH, for mid-December or January through June with flexible dates. Open to a year-long lease if able to sublet starting in June; budget is flexible.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2901239396908992",
+      "posted_at": "Wednesday 14 October 2026 at 15:20",
+      "first_scraped_at": "2026-10-15T00:08:00.820530+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for a room or an existing sublease starting in mid-December or January through June, with flexible dates! I\u2019d also",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "27940332242311635",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1100,
+      "budget_max": 1550,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "They work in film/TV production, are originally from Seattle, and are outgoing, clean, respectful, and non-smoking. They have no pets, are LGBTQ friendly, and seek a calm, tidy household for a 6\u201312 month stay.",
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/27940332242311635",
+      "posted_at": "Wednesday 14 October 2026 at 13:21",
+      "first_scraped_at": "2026-10-15T00:08:00.820530+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "am looking for an available room now-or soonish -Budget is $1,100-$1550 which includes rent+utilities -Ideally 6-12mo, but open to other",
+      "group_id": "812568135514746"
     }
   ]
 }
