@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T14:06:48.836644",
-  "count": 3113,
+  "updated_at": "2026-10-15T15:07:46.211077",
+  "count": 3114,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93188,6 +93188,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "room to rent near San Bruno Hi my name is Ashley and I am 24 yrs old, graduating online this",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "28705560982434517",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-25",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Lower Haight"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 25,
+      "bio": "They are 25 and recently moved to San Francisco from Chicago and work full-time in person in banking. They describe themselves as clean, respectful, and prefer a home that is a mix of quiet and social; they travel occasionally and are out most days.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28705560982434517",
+      "posted_at": "Thursday 15 October 2026 at 14:16",
+      "first_scraped_at": "2026-10-15T22:00:05.054105+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "for a sublease I can sign and finalize before October 25th! I'm 25, just moved to SF from Chicago, and",
+      "group_id": "843764532374203"
     }
   ]
 }
