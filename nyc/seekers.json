@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-15T15:18:22.643957",
-  "count": 241,
+  "updated_at": "2026-10-15T16:16:49.326159",
+  "count": 244,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -6997,6 +6997,101 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "a 25-year-old female moving to NYC at the end of December for three months (until the end of March) for",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2247960955768699",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown East",
+        "East Village",
+        "Williamsburg",
+        "Fort Greene",
+        "Upper East Side",
+        "West Village",
+        "Chelsea"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "Is a content creator and singer-songwriter who works mostly from home, is chill and clean, and seeks 1\u20132 roommates to apartment hunt and sign a lease. Has two cats and wants a unit with a dishwasher and laundry in-unit or nearby, plus enough space for a desk.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2247960955768699",
+      "posted_at": "Thursday 15 October 2026 at 16:04",
+      "first_scraped_at": "2026-10-15T23:07:07.532154+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "ROOMMATE 11/1 move in (flexible) I tried to find a roommate back in October but I failed so I\u2019m trying",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2247914022440059",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lower East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Poster seeks a female roommate in her 20s to sign a lease immediately for a 2-bedroom, 1-bath on Broome Street in the Lower East Side. Prefers someone very clean, respectful, responsible, and with a guarantor.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2247914022440059",
+      "posted_at": "Thursday 15 October 2026 at 14:31",
+      "first_scraped_at": "2026-10-15T23:07:07.532154+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "ROOMMATE ASAP Looking for a girl in her 20s to sign a lease ASAP for a 2-bedroom, 1-bathroom apartment on",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "987511183719558",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "3B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Upper East Side",
+        "Upper West Side",
+        "Midtown",
+        "Turtle Bay",
+        "Hell's Kitchen",
+        "Roosevelt Island"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "They are three responsible, clean, and calm roommates looking for a true 3-bedroom, 1-bath apartment with in-building or in-unit laundry.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/987511183719558",
+      "posted_at": "Thursday 15 October 2026 at 16:01",
+      "first_scraped_at": "2026-10-15T23:07:07.532154+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "3beds 1bath Hi! My name is Morjane and I'm currently looking for a 3 bedroom apartment to move in with",
+      "group_id": "312692887868061"
     }
   ]
 }
