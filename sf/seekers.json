@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T10:07:40.923373",
-  "count": 3111,
+  "updated_at": "2026-10-15T11:07:16.897100",
+  "count": 3112,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93133,6 +93133,32 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "3-month home swap: NYC San Francisco or Oakland (Jan 1 Mar 31, 2027) Hi everyone! I'm Vincent, I live in",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2033366490688256",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "She is a 23-year-old recent graduate from San Diego State who enjoys traveling, concerts, trying new restaurants, hiking, sailing, and spending time outdoors. She is seeking a female roommate situation (1\u20133 roommates) near her age and with a similar social lifestyle in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2033366490688256",
+      "posted_at": "Thursday 15 October 2026 at 10:58",
+      "first_scraped_at": "2026-10-15T18:00:06.165267+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Molly, I\u2019m 23 and looking to move to SF in the beginning of December. A little about me!",
+      "group_id": "242765489748374"
     }
   ]
 }
