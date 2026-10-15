@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-15T11:16:49.047586",
-  "count": 232,
+  "updated_at": "2026-10-15T12:17:13.009931",
+  "count": 234,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -6748,6 +6748,62 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Room by Dec 1 Hi! My name is Emily and I'm 33-year-old former agency/ entertainment. currently pivoting careers and getting",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2247792152452246",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old beauty industry professional working weekdays, has lived in NYC four years. Non-smoker, tidy and easygoing who enjoys hot yoga, the beach, and trying restaurants and coffee shops.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2247792152452246",
+      "posted_at": "Thursday 15 October 2026 at 11:21",
+      "first_scraped_at": "2026-10-15T19:07:31.995523+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a sublet Nov 1st (flexible start date). My name is Bruna, I\u2019m 23 and looking for short-term or long-term sublet",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28548096524859829",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-19",
+      "move_out_date": null,
+      "budget_min": 600,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a monthly room rental (no deposit) with a budget of $600\u2013$800 and can move in on 2026-10-19; asks to be contacted via DM if a place is available.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28548096524859829",
+      "posted_at": "Thursday 15 October 2026 at 12:03",
+      "first_scraped_at": "2026-10-15T19:07:31.995523+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for rent (monthly, no deposit) near NYC. Budget: $600 $800 Move-in: Next Monday Please DM me if you have a",
+      "group_id": "765841576845364"
     }
   ]
 }
