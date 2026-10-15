@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T07:07:42.975733",
-  "count": 3108,
+  "updated_at": "2026-10-15T08:07:17.375502",
+  "count": 3109,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93047,6 +93047,35 @@
       "first_scraped_at": "2026-10-15T14:00:02.967197+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "private room under $2600 near Union square. I will move to SF for work and I am looking to move",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4747948942106775",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Incoming visiting scholar at UCSF seeking a ~1-year rental starting in late November 2026 near the Parnassus campus. Wants access to a bathroom and kitchen, a safe neighborhood, and convenient access to grocery stores and public transit.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4747948942106775",
+      "posted_at": "Thursday 15 October 2026 at 06:23",
+      "first_scraped_at": "2026-10-15T15:00:05.558458+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "UCSF PARNASSUS LATE NOVEMBER 2026 Hi everyone! I'm an incoming visiting scholar at UCSF, and I'm looking for a place",
       "group_id": "2176716625896699"
     }
   ]
