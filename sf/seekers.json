@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T13:06:41.978071",
-  "count": 3112,
+  "updated_at": "2026-10-15T14:06:48.836644",
+  "count": 3113,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93159,6 +93159,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Molly, I\u2019m 23 and looking to move to SF in the beginning of December. A little about me!",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4748290102072659",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": "2027-08-01",
+      "budget_min": 1000,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "San Bruno"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "student",
+      "age": 24,
+      "bio": "She is a 24-year-old UCSD student finishing online this winter and works full-time at a law firm in San Bruno. She has a 4-year-old cat, is usually home on weekday evenings and Sundays, and enjoys hiking, sewing, painting, and watching TV.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4748290102072659",
+      "posted_at": "Thursday 15 October 2026 at 12:30",
+      "first_scraped_at": "2026-10-15T21:00:03.720205+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room to rent near San Bruno Hi my name is Ashley and I am 24 yrs old, graduating online this",
+      "group_id": "2176716625896699"
     }
   ]
 }
