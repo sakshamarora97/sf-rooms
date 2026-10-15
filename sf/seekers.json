@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T21:09:57.401793",
-  "count": 3103,
+  "updated_at": "2026-10-14T22:08:20.815738",
+  "count": 3105,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92898,6 +92898,69 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Roommate 2B/2B Apartment February 2027 Bay Area Hey everyone! I\u2019m a 24-year-old male moving to the Bay Area in February",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2032663747425197",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "private_room",
+        "3B3B",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "North San Jose",
+        "Milpitas",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two working professionals seeking temporary sublets or permanent housing starting immediately. They are clean, quiet, non-smoking, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032663747425197",
+      "posted_at": "Wednesday 14 October 2026 at 18:05",
+      "first_scraped_at": "2026-10-15T05:00:04.241895+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "are two working professionals looking for temporary (sublet) or permanent accommodation starting immediately. Here are a few details about what",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1388019049765005",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Emeryville",
+        "Temescal"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "She is looking for female housing or a female roommate for the Spring Semester (late January through the end of May) in Berkeley, Emeryville, or Temescal.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1388019049765005",
+      "posted_at": "Wednesday 14 October 2026 at 21:22",
+      "first_scraped_at": "2026-10-15T05:00:04.241895+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "female housing or a female roommate for the Spring Semester, from late January through the end of May. Berkeley Emeryville",
+      "group_id": "558742412692677"
     }
   ]
 }
