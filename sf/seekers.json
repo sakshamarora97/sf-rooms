@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T08:07:17.375502",
-  "count": 3109,
+  "updated_at": "2026-10-15T09:07:24.662013",
+  "count": 3110,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93077,6 +93077,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "UCSF PARNASSUS LATE NOVEMBER 2026 Hi everyone! I'm an incoming visiting scholar at UCSF, and I'm looking for a place",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "28700332219624060",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-25",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "They are 23, grew up in India and Singapore, and have been in the U.S. for a few years. They are easygoing, clean, respectful of shared spaces, and would enjoy roommates who are down to hang out.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28700332219624060",
+      "posted_at": "Thursday 15 October 2026 at 05:07",
+      "first_scraped_at": "2026-10-15T16:00:07.426728+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "moving to SF to start a new job and looking for housing starting around October 25. My immediate priority is",
+      "group_id": "843764532374203"
     }
   ]
 }
