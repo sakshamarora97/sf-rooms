@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T06:08:22.924313",
-  "count": 3107,
+  "updated_at": "2026-10-15T07:07:42.975733",
+  "count": 3108,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93020,6 +93020,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a furnished accommodation for Jan and Feb 2027, preferably in Potrero Hill Dogpatch (close to 22nd St Caltrain Station).",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4747569485478054",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-11",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are relocating to San Francisco for work and seeking a private room available in early November (ideally before November 11). Budget is under $2600; they can sublet or take over a lease and are comfortable with units up to four bedrooms/housemates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4747569485478054",
+      "posted_at": "Wednesday 14 October 2026 at 22:47",
+      "first_scraped_at": "2026-10-15T14:00:02.967197+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "private room under $2600 near Union square. I will move to SF for work and I am looking to move",
+      "group_id": "2176716625896699"
     }
   ]
 }
