@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-14T22:08:20.815738",
-  "count": 3105,
+  "updated_at": "2026-10-15T06:08:22.924313",
+  "count": 3107,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -92961,6 +92961,65 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "female housing or a female roommate for the Spring Semester, from late January through the end of May. Berkeley Emeryville",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "28692836233706992",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A City College student working two jobs in North Beach who plays collegiate soccer. Responsible, keeps a clean space, has references available and is seeking a ~2-month room (early Nov\u2013late Dec).",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28692836233706992",
+      "posted_at": "Wednesday 14 October 2026 at 18:20",
+      "first_scraped_at": "2026-10-15T13:00:03.060590+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "am looking for a room to rent for about 2 months (early November to late December). I am currently working",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2032832450741660",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-02-28",
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Potrero Hill",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker looking for a furnished studio, 1B1B, or a bedroom with a private bath in Potrero Hill or Dogpatch for Jan\u2013Feb 2027; budget about $3,000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2032832450741660",
+      "posted_at": "Wednesday 14 October 2026 at 22:26",
+      "first_scraped_at": "2026-10-15T13:00:03.060590+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a furnished accommodation for Jan and Feb 2027, preferably in Potrero Hill Dogpatch (close to 22nd St Caltrain Station).",
+      "group_id": "242765489748374"
     }
   ]
 }
