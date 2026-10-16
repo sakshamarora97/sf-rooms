@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-16T13:15:20.035149",
-  "count": 275,
+  "updated_at": "2026-10-16T15:38:03.528318",
+  "count": 276,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -7980,6 +7980,34 @@
       "first_scraped_at": "2026-10-16T20:07:38.639347+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Roommate NYC/NJ Area (End of December/Beginning of January Move-In) I'm looking for someone to apartment hunt with and share a",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28565356466467168",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": 1300,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a small private room in Newport for November and December; prefers an all-female apartment and is requesting leads.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28565356466467168",
+      "posted_at": "Friday 16 October 2026 at 15:26",
+      "first_scraped_at": "2026-10-16T22:07:42.513338+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a small (pvt) room in Newport for the month of Nov Dec. All females apartment preferred. Budget: $1300-$1500 Would appreciate",
       "group_id": "765841576845364"
     }
   ]
