@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-16T11:17:33.444592",
-  "count": 271,
+  "updated_at": "2026-10-16T12:17:02.771205",
+  "count": 272,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -7872,6 +7872,32 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Katie and I\u2019m looking for a room in NYC! I just moved back to the east coast after",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28563129080023240",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a clean, quiet working professional who can move in immediately, prefers a private room and is open to month-to-month arrangements; she commutes into the city.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28563129080023240",
+      "posted_at": "Friday 16 October 2026 at 11:37",
+      "first_scraped_at": "2026-10-16T19:08:09.860991+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "friend of mine is looking for a private room in NJ, and she can move in right away. She\u2019s a",
+      "group_id": "765841576845364"
     }
   ]
 }
