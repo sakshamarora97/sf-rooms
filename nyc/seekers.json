@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-16T12:17:02.771205",
-  "count": 272,
+  "updated_at": "2026-10-16T13:15:20.035149",
+  "count": 275,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -7897,6 +7897,89 @@
       "first_scraped_at": "2026-10-16T19:08:09.860991+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "friend of mine is looking for a private room in NJ, and she can move in right away. She\u2019s a",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2248794355685359",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-19",
+      "move_out_date": "2026-10-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recently moved to Brooklyn and currently staying with a brother; urgently seeking short-term housing from 2026-10-19 to 2026-10-31 (may extend). Willing to pay.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2248794355685359",
+      "posted_at": "Friday 16 October 2026 at 12:38",
+      "first_scraped_at": "2026-10-16T20:07:38.639347+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to Brooklyn. I\u2019m staying with my brother until this coming Sunday and need a place to stay from the 19th-31st",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2248793682352093",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-23",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent 23-year-old graduate who moved to NYC for a new job in the EV automotive industry. Quiet, clean, respectful roommate who enjoys weightlifting, photography, and exploring cafes.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2248793682352093",
+      "posted_at": "Friday 16 October 2026 at 12:38",
+      "first_scraped_at": "2026-10-16T20:07:38.639347+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "FOR RENT Hi my name is Yota I am a 23 year old recent grad that recently moved to NY",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28563944053275076",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 650,
+      "unit_type_wanted": [
+        "shared_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "Recent graduate starting a full-time job in Manhattan who works long hours; seeks a quiet, clean, and respectful shared living situation. Describes themself as responsible, easygoing, active, and enjoys exploring new places and meeting people.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28563944053275076",
+      "posted_at": "Friday 16 October 2026 at 12:52",
+      "first_scraped_at": "2026-10-16T20:07:38.639347+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Roommate NYC/NJ Area (End of December/Beginning of January Move-In) I'm looking for someone to apartment hunt with and share a",
       "group_id": "765841576845364"
     }
   ]
