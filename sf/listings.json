@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T09:07:55.210621",
-  "count": 2515,
+  "updated_at": "2026-10-16T10:08:05.809882",
+  "count": 2516,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -78756,6 +78756,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "APARTMENT FOR RENT $1,200/MONTH I\u2019m making my fully furnished 1-bedroom, 1-bathroom apartment available for rent in a quiet, safe, and",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2033778557313716",
+      "post_type": "listing",
+      "listing_type": null,
+      "duration_type": "long_term",
+      "rent": 300,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "secure_garage",
+        "covered_parking",
+        "full_size_parking_spot"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Palms",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2033778557313716",
+      "posted_at": "Thursday 15 October 2026 at 22:51",
+      "first_scraped_at": "2026-10-16T17:00:07.585789+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Rent 555 4th St, SF $300/month Renting out a full-size parking space in the secure garage at 555 4th Street",
+      "group_id": "242765489748374"
     }
   ]
 }

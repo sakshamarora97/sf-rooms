@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T09:07:55.210621",
-  "count": 3124,
+  "updated_at": "2026-10-16T10:08:05.809882",
+  "count": 3125,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93507,6 +93507,37 @@
       "first_scraped_at": "2026-10-16T15:00:02.890269+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a place to live in San Francisco and would love to hear about any available sublets or housing",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2034144690610436",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2300,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Union Square",
+        "North Beach",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old woman who works remotely as a chief of staff/COO at a tech startup, travels frequently, and is active (gym, swim, horseback riding). She has a well-trained certified therapy/service dog.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2034144690610436",
+      "posted_at": "Friday 16 October 2026 at 07:30",
+      "first_scraped_at": "2026-10-16T17:00:07.585789+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "friendly sublease (3-6mo, possibly up to 1yr). I'm considering moving to SF so wanted to try it out for a",
       "group_id": "242765489748374"
     }
   ]
