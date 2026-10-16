@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T12:08:05.529796",
-  "count": 2517,
+  "updated_at": "2026-10-16T13:07:34.346592",
+  "count": 2519,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -78818,6 +78818,74 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "NEAR EMERYVILLE Room Rent starts at $1155 Utilities and Service Please read listing description This is a newly available co-living",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2034326190592286",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2700,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2026-12-17",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "walk_in_closet",
+        "modern_appliances",
+        "natural_light",
+        "gym",
+        "swimming_pool",
+        "secure_package_room",
+        "downtown_skyline_view"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2034326190592286",
+      "posted_at": "Friday 16 October 2026 at 11:24",
+      "first_scraped_at": "2026-10-16T20:00:03.016252+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Furnished 1BR/1BA Sublease Mission Bay, SF $2,700/month Utilities included 725 sq ft apartment with unobstructed views of SF\u2019s downtown skyline,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1389470382953205",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1120,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "stainless_steel_appliances",
+        "keyless_entry",
+        "security_cameras",
+        "controlled_access",
+        "online_maintenance"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1389470382953205",
+      "posted_at": "Friday 16 October 2026 at 12:04",
+      "first_scraped_at": "2026-10-16T20:00:03.016252+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Block from the UC Berkeley campus Private Rooms starting at $1900 Shared Rooms starting at $1120 Immediate access to UC",
+      "group_id": "558742412692677"
     }
   ]
 }
