@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-16T08:18:07.877372",
-  "count": 267,
+  "updated_at": "2026-10-16T09:24:43.848203",
+  "count": 268,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -7761,6 +7761,34 @@
       "first_scraped_at": "2026-10-16T15:09:14.606443+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "ROOMMATE NYC LONG ISLAND What I\u2019m Looking For a Female roommate in her early 20\u2019s Someone to apartment hunt with",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2248603159037812",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "He is a 23-year-old UBS employee who graduated from Binghamton University in 2025 and will be in the office 3\u20134 times a week. He's laid-back, enjoys watching sports and watching a movie daily, and is seeking a roommate in Manhattan.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2248603159037812",
+      "posted_at": "Friday 16 October 2026 at 08:25",
+      "first_scraped_at": "2026-10-16T16:07:59.821303+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommate in NYC! Hi everyone! My name is Dan, I\u2019m 23 and looking to find a roommate to move into",
       "group_id": "149460102285472"
     }
   ]
