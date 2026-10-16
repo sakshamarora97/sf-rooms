@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T10:08:05.809882",
-  "count": 2516,
+  "updated_at": "2026-10-16T11:06:46.055761",
+  "count": 2517,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -78786,6 +78786,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Rent 555 4th St, SF $300/month Renting out a full-size parking space in the secure garage at 555 4th Street",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4385430355101049",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1155,
+      "neighborhood": "Emeryville",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "co-living",
+        "utilities_bundled",
+        "professional_cleaning",
+        "household_supplies",
+        "tours_Mon-Fri_10-14"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4385430355101049",
+      "posted_at": "Thursday 15 October 2026 at 22:07",
+      "first_scraped_at": "2026-10-16T18:00:05.380083+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "NEAR EMERYVILLE Room Rent starts at $1155 Utilities and Service Please read listing description This is a newly available co-living",
+      "group_id": "1511607562483357"
     }
   ]
 }
