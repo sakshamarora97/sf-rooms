@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T16:07:03.571452",
-  "count": 2492,
+  "updated_at": "2026-10-15T17:07:21.933318",
+  "count": 2494,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -78001,6 +78001,77 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "have a furnished bedroom for $1500 with utilities included in a 2bed/1bath apartment in the Outer Sunset/Parkside area of San",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1388748376358739",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2595,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "swimming_pool",
+        "gym",
+        "study_room",
+        "on_site_laundry",
+        "private_balcony",
+        "walk_in_closet",
+        "hardwood_flooring",
+        "parking_available"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1388748376358739",
+      "posted_at": "Thursday 15 October 2026 at 16:47",
+      "first_scraped_at": "2026-10-16T00:00:07.100660+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "DOWNTOWN BERKELEY JAN\u2013MAY 2027 $2,595/MONTH Hey everyone! I'm looking for someone to take over my lease starting January 1, 2027",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4384611571849594",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1650,
+      "neighborhood": "San Jose",
+      "area": "South Bay",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "4B4B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "private_bathroom",
+        "yard",
+        "security_cameras",
+        "smart_home_integration",
+        "garden",
+        "natural_light",
+        "automated_irrigation"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4384611571849594",
+      "posted_at": "Thursday 15 October 2026 at 03:47",
+      "first_scraped_at": "2026-10-16T00:00:07.100660+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Private Bathroom Available Nov 1, 2026! I\u2019m looking to fill a room with private bathroom in a 4-bedroom, 4-bathroom house",
+      "group_id": "1511607562483357"
     }
   ]
 }
