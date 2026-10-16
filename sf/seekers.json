@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T11:06:46.055761",
-  "count": 3125,
+  "updated_at": "2026-10-16T12:08:05.529796",
+  "count": 3128,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93538,6 +93538,110 @@
       "first_scraped_at": "2026-10-16T17:00:07.585789+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "friendly sublease (3-6mo, possibly up to 1yr). I'm considering moving to SF so wanted to try it out for a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4749394278628908",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Yerba Buena",
+        "South Beach",
+        "Rincon Hill",
+        "East Cut",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Moving to San Francisco and seeking a female roommate to share a 2B2B apartment. Prefers a furnished unit with a private bedroom (ideally a private bathroom) and is looking for a clean, responsible, considerate roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4749394278628908",
+      "posted_at": "Friday 16 October 2026 at 11:05",
+      "first_scraped_at": "2026-10-16T19:00:04.325372+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Female Roommate in San Francisco November 2026 Hi everyone! I\u2019m moving to San Francisco and looking for a female roommate",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4748826775352325",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Burlingame",
+        "Millbrae",
+        "San Mateo",
+        "San Bruno",
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old working in tech in Burlingame who enjoys basketball and football, going to the gym, concerts, snowboarding, and exploring restaurants and new places.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4748826775352325",
+      "posted_at": "Friday 16 October 2026 at 01:06",
+      "first_scraped_at": "2026-10-16T19:00:04.325372+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "roommates Peninsula January move-in Hey everyone! I\u2019m 22, working in tech in Burlingame, and looking for 1\u20132 roommates around my",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2034257870599118",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco",
+        "San Bruno",
+        "Brisbane",
+        "Millbrae",
+        "Burlingame",
+        "San Mateo",
+        "Dogpatch",
+        "Potrero Hill",
+        "Mission Bay"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "She is a full-time biotech employee relocating from Maryland for a new job, and is clean, quiet, and respectful of shared spaces. She is vegetarian and seeking a private room (or to split a 2BR/2BA) near Caltrain/BART or a shuttle, with move-in around Nov 1.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2034257870599118",
+      "posted_at": "Friday 16 October 2026 at 09:50",
+      "first_scraped_at": "2026-10-16T19:00:04.325372+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room from November 1 near caltrain stops. Hi all! I\u2019m Yashvi, moving from Maryland to start a job at a",
       "group_id": "242765489748374"
     }
   ]
