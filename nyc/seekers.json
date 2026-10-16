@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-15T17:18:04.284517",
-  "count": 246,
+  "updated_at": "2026-10-15T18:19:19.558178",
+  "count": 249,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -7148,6 +7148,99 @@
       "first_scraped_at": "2026-10-16T00:07:26.234762+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Nov. 1 lease or sublet! Hi!! We\u2019re Hannah Allen, and we are looking for a large studio or 1 bd",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2902390736793858",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-05",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two male tech professionals seeking a third roommate for a private den room in a 3B2B at Newport, starting around November 5, 2026, on a fresh 12-month lease. Rent is about $1,200 plus utilities.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2902390736793858",
+      "posted_at": "Thursday 15 October 2026 at 17:35",
+      "first_scraped_at": "2026-10-16T01:08:04.277858+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "two male tech professionals looking for a third roommate in a 3B2B for a private den room at Newport, starting",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2247967812434680",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Lower East Side",
+        "Chinatown",
+        "Williamsburg",
+        "Greenpoint",
+        "Bushwick"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old professional who works for a Japanese corporation in Midtown most weekdays; enjoys cooking, dining out, staying active and creative pursuits, is social and likes hosting while remaining neat, responsible, and communicative.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2247967812434680",
+      "posted_at": "Thursday 15 October 2026 at 16:17",
+      "first_scraped_at": "2026-10-16T01:08:04.277858+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublease, lease takeover, or even roomies to apartment hunt with Hello everyone! My name is Aiya, I\u2019m a 26 year",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "987558850381458",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Upper East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "reason": null,
+      "age": null,
+      "bio": "A married couple seeking a short-term sublet in Midtown or the Upper East Side, available ASAP through around December 15. They have no kids or pets and are flexible on dates.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/987558850381458",
+      "posted_at": "Thursday 15 October 2026 at 17:43",
+      "first_scraped_at": "2026-10-16T01:08:04.277858+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "and I are seeking a sublet in midtown or UES ASAP until around December 15ish. We can be very flexible",
       "group_id": "312692887868061"
     }
   ]
