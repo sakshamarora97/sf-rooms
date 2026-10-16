@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-16T07:17:21.960269",
-  "count": 656,
+  "updated_at": "2026-10-16T08:18:07.877372",
+  "count": 659,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -20541,6 +20541,95 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "WEST VILLAGE 207 West 11th Street #1D $5,075 Dreaming of living on a quiet, tree-lined street in one of NYC\u2019s",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2248582522373209",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3600,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1.5B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_house",
+        "heat_included",
+        "water_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2248582522373209",
+      "posted_at": "Friday 16 October 2026 at 08:00",
+      "first_scraped_at": "2026-10-16T15:09:14.606443+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Ave, Bronx, NY 10466 3 Bedrooms 1.5 Bathrooms Private House, 2nd Floor $3,600/month Heat Included Water Included Call or Text",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2248563475708447",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 600,
+      "neighborhood": "East Village",
+      "area": "Manhattan",
+      "available_from": "2026-10-20",
+      "available_until": "2026-10-28",
+      "unit_config": "4B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "doorman",
+        "gym",
+        "laundry_room",
+        "private_balcony"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2248563475708447",
+      "posted_at": "Friday 16 October 2026 at 07:39",
+      "first_scraped_at": "2026-10-16T15:09:14.606443+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "my room in the East Village (NYC) from Oct 20 to Oct 28 for $600. The room comes fully furnished.",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2248507425714052",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Sunset Park",
+      "area": "Brooklyn",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "near_subway"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2248507425714052",
+      "posted_at": "Friday 16 October 2026 at 06:30",
+      "first_scraped_at": "2026-10-16T15:09:14.606443+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Sunset Park, 5 mins from Subway express train and 20 mins from Union Square.",
+      "group_id": "149460102285472"
     }
   ]
 }
