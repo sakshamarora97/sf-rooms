@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T17:07:21.933318",
-  "count": 3114,
+  "updated_at": "2026-10-15T18:07:59.612178",
+  "count": 3115,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93218,6 +93218,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "for a sublease I can sign and finalize before October 25th! I'm 25, just moved to SF from Chicago, and",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1388767566356820",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "private room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a private/single room in Berkeley with move-in ASAP or early November (preferred), budget $1200/month including utilities. Prefers clean common spaces, mostly non-male roommates, a living room (not converted), free laundry, and month-to-month or a 6\u20138 month lease (will stay at least 7 months).",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1388767566356820",
+      "posted_at": "Thursday 15 October 2026 at 17:26",
+      "first_scraped_at": "2026-10-16T01:00:03.045083+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "place in berkeley looking for move in asap or beginning of nov (can move in beginning of dec but not",
+      "group_id": "558742412692677"
     }
   ]
 }

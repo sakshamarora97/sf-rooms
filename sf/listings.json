@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T17:07:21.933318",
-  "count": 2494,
+  "updated_at": "2026-10-15T18:07:59.612178",
+  "count": 2496,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -78072,6 +78072,77 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Private Bathroom Available Nov 1, 2026! I\u2019m looking to fill a room with private bathroom in a 4-bedroom, 4-bathroom house",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2033570027334569",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2100,
+      "neighborhood": "San Bruno",
+      "area": "The Peninsula",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female vegetarian",
+      "building_name": "Avalon San Bruno",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2033570027334569",
+      "posted_at": "Thursday 15 October 2026 at 17:06",
+      "first_scraped_at": "2026-10-16T01:00:03.045083+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "at Avalon San Bruno** Looking for a female vegetarian roommate to start a new lease on a 2bed/2bath at Avalon",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1388778329689077",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1430,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "6B6B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 8,
+      "amenities": [
+        "indoor_fitness_center",
+        "outdoor_fitness_area",
+        "sauna",
+        "yoga_room",
+        "rooftop_decks",
+        "study_spaces",
+        "common_lounges",
+        "bike_storage",
+        "balcony",
+        "personal_vanity",
+        "fully_furnished_bedroom",
+        "brand_new_kitchen",
+        "2_refrigerators",
+        "3_washers_dryers",
+        "plenty_of_storage"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Pique Berkeley",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1388778329689077",
+      "posted_at": "Thursday 15 October 2026 at 17:47",
+      "first_scraped_at": "2026-10-16T01:00:03.045083+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Spring Summer 2027 Lease Takeover!!!! I\u2019m looking for someone to take over my lease at Pique Berkeley (2587 Telegraph Ave)",
+      "group_id": "558742412692677"
     }
   ]
 }
