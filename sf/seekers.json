@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T07:07:02.647337",
-  "count": 3122,
+  "updated_at": "2026-10-16T08:09:10.048241",
+  "count": 3124,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93451,6 +93451,63 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking for private room private bath (preferably 2-bed) Mountain View Sunnyvale Santa Clara, move-in Nov 1\u201315 **Mainly looking to team",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "28711263375197611",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-06",
+      "move_out_date": "2026-11-17",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Mid-30s gay man working in AI policy for the Canadian government, tidy, considerate, and easy-going. Visiting San Francisco to scout a potential move and seeking a centrally located private room for a short stay from Nov 6\u201317.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28711263375197611",
+      "posted_at": "Friday 16 October 2026 at 07:33",
+      "first_scraped_at": "2026-10-16T15:00:02.890269+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "SF Nov 6-17, looking for room for short stay I\u2019m visiting SF to scout a potential move to the city,",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2034059317285640",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Civic Center"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent college graduate moving to San Francisco for a software engineering role. They are clean, respectful, responsible, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2034059317285640",
+      "posted_at": "Friday 16 October 2026 at 05:39",
+      "first_scraped_at": "2026-10-16T15:00:02.890269+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a place to live in San Francisco and would love to hear about any available sublets or housing",
+      "group_id": "242765489748374"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T07:07:02.647337",
-  "count": 2514,
+  "updated_at": "2026-10-16T08:09:10.048241",
+  "count": 2515,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -78724,6 +78724,38 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Furnished Rental 1B1B 1024 Sq. Ft. ($3,200/mo) including utility, 1 assigned covered parking. Entire private unit with private outdoor space.",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "28710453295278619",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": 1200,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "wifi",
+        "heating",
+        "air_conditioning"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28710453295278619",
+      "posted_at": "Friday 16 October 2026 at 07:33",
+      "first_scraped_at": "2026-10-16T15:00:02.890269+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "APARTMENT FOR RENT $1,200/MONTH I\u2019m making my fully furnished 1-bedroom, 1-bathroom apartment available for rent in a quiet, safe, and",
+      "group_id": "843764532374203"
     }
   ]
 }
