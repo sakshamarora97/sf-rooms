@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-16T06:20:49.696983",
-  "count": 262,
+  "updated_at": "2026-10-16T07:17:21.960269",
+  "count": 264,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -7616,6 +7616,69 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "IN MANHATTAN, GREENPOINT, OR WILLIAMSBURG AREA! Hi everyone, my name is Annie!!! I\u2019m 22, recently graduated from Fordham, and looking",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2248509555713839",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2100,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Lower East Side",
+        "Murray Hill",
+        "Gramercy",
+        "West Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent 22-year-old graduate seeking a short- or long-term sublease in Manhattan, ideally moving around Nov 1. Social, tidy, enjoys restaurants, fashion, thrifting, going out, and relaxed nights in.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2248509555713839",
+      "posted_at": "Friday 16 October 2026 at 06:33",
+      "first_scraped_at": "2026-10-16T14:07:07.201411+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "SUBLEASE Hi everyone!! I\u2019m Peri, 22, just graduated looking to move to NYC ASAP. Searching for a short or long",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "988023063668370",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Astoria",
+        "Bushwick"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "She is moving back to NYC in January/February and is seeking a long-term room or roommate in Astoria or Bushwick. She prefers a walk-up/building with a friendly roommate community and is asking for tips on finding roommates and avoiding scams.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/988023063668370",
+      "posted_at": "Friday 16 October 2026 at 06:40",
+      "first_scraped_at": "2026-10-16T14:07:07.201411+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "moving back to NYC in January/February and looking at Astoria and Bushwick. Last time I lived in a walk-up in",
+      "group_id": "312692887868061"
     }
   ]
 }
