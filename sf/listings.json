@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-15T21:07:33.976557",
-  "count": 2500,
+  "updated_at": "2026-10-15T22:07:45.278559",
+  "count": 2503,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -78277,6 +78277,96 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "in a cozy two-story townhome within walking distance of vibrant downtown Livermore featuring great restaurants, wineries, breweries, and local events",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4748588452042824",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2300,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-12-10",
+      "available_until": "2027-01-15",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Soma Square",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4748588452042824",
+      "posted_at": "Thursday 15 October 2026 at 19:41",
+      "first_scraped_at": "2026-10-16T05:00:07.438132+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking to sublet my furnished room with private bathroom in a 2B2B at Soma Square, Mission Bay, SF (for a",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2033709803987258",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "North Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "fireplace",
+        "updated_kitchen",
+        "updated_bathroom",
+        "new_flooring",
+        "dining_room",
+        "original_features"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2033709803987258",
+      "posted_at": "Thursday 15 October 2026 at 20:59",
+      "first_scraped_at": "2026-10-16T05:00:07.438132+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "A HOME COST YOU JUST A LITTLE MORE THAN RENTING?! LISTED UNDER $475,000 MOVE-IN READY FULL OF CHARM! First-time homebuyers,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1388897356343841",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "outdoor_space"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1388897356343841",
+      "posted_at": "Thursday 15 October 2026 at 21:23",
+      "first_scraped_at": "2026-10-16T05:00:07.438132+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "2027 June 2027. There is the option to rent the room (with the shared living spaces shown in the photos",
+      "group_id": "558742412692677"
     }
   ]
 }
