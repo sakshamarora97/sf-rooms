@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T13:07:34.346592",
-  "count": 2519,
+  "updated_at": "2026-10-16T14:07:49.674467",
+  "count": 2521,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -78886,6 +78886,72 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Block from the UC Berkeley campus Private Rooms starting at $1900 Shared Rooms starting at $1120 Immediate access to UC",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4749507391950930",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2600,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "6B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 5,
+      "amenities": [
+        "private_rooftop",
+        "in_unit_laundry",
+        "dishwasher",
+        "garbage_disposal",
+        "fridge",
+        "parking",
+        "shared_living_room",
+        "shared_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4749507391950930",
+      "posted_at": "Friday 16 October 2026 at 13:21",
+      "first_scraped_at": "2026-10-16T21:00:04.997252+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Russian Hill, across from the Alice Marble tennis courts. Details below: Rent: $2,600 $62.50 utilities Move-in: November 1st Apartment: 6",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2034372860587619",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 5020,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-03-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "floor_to_ceiling_windows",
+        "natural_light",
+        "views",
+        "corner_unit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2034372860587619",
+      "posted_at": "Friday 16 October 2026 at 12:43",
+      "first_scraped_at": "2026-10-16T21:00:04.997252+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "my apt. Details here: 399 Fremont Street, San Francisco 29th floor, 1-bedroom corner unit Floor-to-ceiling windows with abundant natural light",
+      "group_id": "242765489748374"
     }
   ]
 }
