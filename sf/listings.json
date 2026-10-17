@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-17T15:07:08.518773",
-  "count": 2545,
+  "updated_at": "2026-10-17T16:06:34.855537",
+  "count": 2547,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -79660,6 +79660,36 @@
       "group_id": "843764532374203"
     },
     {
+      "listing_id": "2035357480489157",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1600,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "large_kitchen",
+        "shared_living_room",
+        "separate_bathroom_toilet"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female preferably",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2035357480489157",
+      "posted_at": "Saturday 17 October 2026 at 14:38",
+      "first_scraped_at": "2026-10-17T22:00:03.001587+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "(female preferably) roommate for a large room in a large 4b1b 3 other roommates in their late 20es mixed genders.",
+      "group_id": "242765489748374"
+    },
+    {
       "listing_id": "1390426329524277",
       "post_type": "listing",
       "listing_type": "lease_takeover",
@@ -79718,6 +79748,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "wanted in downtown Berkeley I\u2019m offering 1 month rent free! Looking for Male Roommate at Identity Logan Park 2050 Durant",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2763967457332392",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 860,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "shared_kitchen",
+        "patio",
+        "shared_laundry",
+        "street_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2763967457332392",
+      "posted_at": "Saturday 17 October 2026 at 16:01",
+      "first_scraped_at": "2026-10-17T23:00:06.855424+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "for a $860/month private room to sublease until early/mid January in 3bd/2ba apartment in North Berkeley, available now now! The",
+      "group_id": "128476910881473"
     }
   ]
 }
