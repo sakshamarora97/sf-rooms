@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T21:07:44.246737",
-  "count": 3134,
+  "updated_at": "2026-10-16T22:07:34.403598",
+  "count": 3136,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93817,6 +93817,73 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "is Amaris, 22F. Looking for a room in SF! My budget is 1.7k or lower. Looking to join a clean",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4749832065251796",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bernal Heights",
+        "Noe Valley",
+        "Dogpatch",
+        "Mission Bay",
+        "Potrero Hill",
+        "Inner Sunset",
+        "Cole Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are relocating to San Francisco for work and seeking a tidy, respectful roommate situation. Open to a studio/1BR lease takeover or a room in a shared apartment; prefers in-unit laundry and parking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4749832065251796",
+      "posted_at": "Friday 16 October 2026 at 21:05",
+      "first_scraped_at": "2026-10-17T05:00:03.668325+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Place in SF! Relocating to SF for work. Preferred neighborhoods: Bernal Heights, Noe Valley, Dogpatch, Mission Bay, Potrero Hill, Inner",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4386549651655786",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "San Jose",
+        "Campbell",
+        "Cupertino"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are urgently seeking to move in ASAP and are open to shared spaces or a private room, looking in Santa Clara, San Jose, Campbell, and Cupertino.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4386549651655786",
+      "posted_at": "Friday 16 October 2026 at 20:11",
+      "first_scraped_at": "2026-10-17T05:00:03.668325+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking to move in ASAP and am open to a shared space, private room. Preferred areas: Santa Clara Santana Row",
+      "group_id": "1511607562483357"
     }
   ]
 }
