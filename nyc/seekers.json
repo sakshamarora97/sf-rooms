@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T09:13:35.062888",
-  "count": 289,
+  "updated_at": "2026-10-17T10:14:24.489052",
+  "count": 294,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -8400,6 +8400,146 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "1BR or Room ASAP Hi! Relocating from Denver to NYC for work and looking for a place (solo or with",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2249603768937751",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 19,
+      "bio": "Recent 19-year-old newcomer to New York City who is friendly, respectful, clean, responsible, and easygoing. Bilingual in English and Spanish; enjoys music, exploring the city, photography, and meeting new people; seeking a roommate or a room with a good vibe, reasonable price, and convenient transportation.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2249603768937751",
+      "posted_at": "Saturday 17 October 2026 at 09:20",
+      "first_scraped_at": "2026-10-17T17:06:11.281391+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Roommate in NYC! Hi everyone! I\u2019m 19 years old and recently moved to New York City. I\u2019m currently looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2249603128937815",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Jersey City"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 29,
+      "bio": "She is a 29-year-old startup tech sales professional working in the Financial District, in-office Monday\u2013Wednesday and remote Thursday\u2013Friday, seeking LGBTQ+ friendly roommates or a sublet in Brooklyn or Jersey City with a gym and in-unit/in-building laundry. Budget up to $2,200/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2249603128937815",
+      "posted_at": "Saturday 17 October 2026 at 09:19",
+      "first_scraped_at": "2026-10-17T17:06:11.281391+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a 29 year old (she/her) working in startup tech sales in the Financial District. I\u2019m in the office Monday to",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2244143349483793",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bayside"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Columbia graduate working in neonatal research in New Hyde Park seeking a roommate or two to sign a lease in December/January; prefers Oakland Gardens and Bayside in Queens.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2244143349483793",
+      "posted_at": "Saturday 17 October 2026 at 09:16",
+      "first_scraped_at": "2026-10-17T17:06:11.281391+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "I'm a recent Columbia graduate working in neonatal research in New Hyde Park. I'm looking for a roommate (or two)",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2249593238938804",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "2B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 39,
+      "bio": "A 39-year-old visual artist and therapist seeking a roommate for a 2BR in Stuyvesant Heights/Ocean Hill. Prefers a friendly but independent living situation, values outdoor space and a bathtub, and has no pets.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2249593238938804",
+      "posted_at": "Saturday 17 October 2026 at 09:07",
+      "first_scraped_at": "2026-10-17T17:06:11.281391+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a roommate to go in on a 2br apartment in Stuyvesant Heights/Ocean Hill area. My budget is $1500-2200",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28575949255407889",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is a working professional with a regular schedule who is easygoing, independent, and respectful of shared spaces. He enjoys exploring new places, grabbing coffee, and occasionally hanging out with roommates while valuing his own downtime.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28575949255407889",
+      "posted_at": "Saturday 17 October 2026 at 09:40",
+      "first_scraped_at": "2026-10-17T17:06:11.281391+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a room opening up in North Jersey over the next few weeks? A little about me: I'm a guy, working",
+      "group_id": "765841576845364"
     }
   ]
 }
