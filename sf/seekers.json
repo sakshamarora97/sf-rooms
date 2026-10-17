@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T16:06:16.872236",
-  "count": 3129,
+  "updated_at": "2026-10-16T17:07:15.532250",
+  "count": 3132,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93667,6 +93667,101 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "moving to San Francisco in January 2027 for a long-term stay to study Business English. I'd like to find a",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4749602785274724",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4749602785274724",
+      "posted_at": "Friday 16 October 2026 at 15:36",
+      "first_scraped_at": "2026-10-17T00:00:03.534120+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "good for living for 1 year duration Aldea San Miguel \u200bAvenue Houses \u200bMission Bay \u200bThe Tidelands \u200bMount Zion \u200bAcademe at",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2034480410576864",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "sublet",
+        "lease_takeover",
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach",
+        "Pacific Heights",
+        "Hayes Valley",
+        "Haight-Ashbury",
+        "Noe Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is seeking a sublet, lease takeover, room, or studio and is ready to sign ASAP. In her free time she enjoys trying new cafes, staying active, traveling, and hanging out with friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2034480410576864",
+      "posted_at": "Friday 16 October 2026 at 16:09",
+      "first_scraped_at": "2026-10-17T00:00:03.534120+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room! Hi! I\u2019m looking for a sublet/lease takeover/studio and ready to sign ASAP! Would love to live with other girls",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2762900657439072",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2B1B",
+        "2 bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "El Cerrito",
+        "Berkeley",
+        "Albany"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks wheelchair-accessible 2-bedroom housing for a February move-in; prefers Oakland/El Cerrito/Berkeley/Albany, close to BART, budget under $3,000; prefers a condo/townhome/small complex, good natural light, and bathtub but flexible.",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2762900657439072",
+      "posted_at": "Friday 16 October 2026 at 16:52",
+      "first_scraped_at": "2026-10-17T00:00:03.534120+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "bedroom for Feb move-in I know it\u2019s early to be posting this, but it\u2019s pretty difficult to find good wheelchair-accessible",
+      "group_id": "128476910881473"
     }
   ]
 }
