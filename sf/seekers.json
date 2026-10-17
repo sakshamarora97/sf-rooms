@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-17T14:07:36.804333",
-  "count": 3147,
+  "updated_at": "2026-10-17T15:07:08.518773",
+  "count": 3149,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94205,6 +94205,75 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "1B1B Apartment in the Peninsula $3,000\u2013$3,300 Budget Hi everyone! I'm relocating to the Bay Area for a new job in",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4750683465166656",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-24",
+      "move_out_date": "2026-11-24",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "South Beach",
+        "Mission Bay",
+        "Embarcadero",
+        "North Beach",
+        "SoMa",
+        "Hayes Valley",
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Solo professional in their 40s, recently relocated to San Francisco; chill, clean, and responsible. Seeking a furnished short-term studio or 1BR sublet (Oct 24\u2013Nov 24), preferably in a building with a gym.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4750683465166656",
+      "posted_at": "Saturday 17 October 2026 at 13:30",
+      "first_scraped_at": "2026-10-17T22:00:03.001587+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "furnished sublet October 24 November 24 MUST: Studio or 1BR (full apartment) NICE TO HAVE: Gym in building Just me,",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "28735816806075601",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "private room",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "SoMa",
+        "Potrero Hill",
+        "Castro",
+        "Duboce Triangle",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Full-time working professional seeking an unfurnished or furnished private room starting in fall. Keeps shared spaces clean, pays bills promptly, and prefers a calm, respectful household; friendly and communicative.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28735816806075601",
+      "posted_at": "Saturday 17 October 2026 at 14:17",
+      "first_scraped_at": "2026-10-17T22:00:03.001587+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Looking for Fall Move-In $1,500 utilities) Hey everyone, I\u2019m a full-time working professional looking for an unfurnished (or furnished) private",
+      "group_id": "843764532374203"
     }
   ]
 }
