@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T06:15:13.524210",
-  "count": 286,
+  "updated_at": "2026-10-17T07:13:17.916808",
+  "count": 287,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -8303,6 +8303,41 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "a lease! Studio or 1 Bed Hey! I\u2019m looking to take over someones lease. Unfurnished is perfect. A studio or",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "988915590245784",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Midtown",
+        "Financial District",
+        "Upper East Side",
+        "Lower East Side",
+        "East Village",
+        "West Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old from Ireland currently living in Williamsburg. Clean, tidy, easy-going and respectful of shared spaces; can provide references from current and past landlords.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/988915590245784",
+      "posted_at": "Saturday 17 October 2026 at 06:57",
+      "first_scraped_at": "2026-10-17T14:05:56.093502+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "or lease takeover Hi all! Looking for a 1 or 2 bed sublease or lease takeover for November 1st, budget",
+      "group_id": "312692887868061"
     }
   ]
 }

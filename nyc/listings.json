@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T06:15:13.524210",
-  "count": 733,
+  "updated_at": "2026-10-17T07:13:17.916808",
+  "count": 735,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -22989,6 +22989,73 @@
       "first_scraped_at": "2026-10-17T13:07:16.615864+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for a second person to fill in a furnished room in a 2 bed/2 bath apartment with a female student!",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2249141232317338",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": "Long Island City",
+      "area": "Queens",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "attended_lobby",
+        "fitness_center",
+        "rooftop",
+        "resident_lounges",
+        "sports_courts",
+        "parking",
+        "pet_friendly",
+        "in_unit_appliances"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2249141232317338",
+      "posted_at": "Friday 16 October 2026 at 22:36",
+      "first_scraped_at": "2026-10-17T14:05:56.093502+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Ave Crescent St, Queens, NY 11101 Studio 2507 No Broker Fee 12-month lease PRICING Entire unit: Net $3,500 Gross $3,596",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "988827880254555",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "skylight",
+        "high_ceilings",
+        "wood_floors",
+        "no_fee",
+        "top_floor"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/988827880254555",
+      "posted_at": "Saturday 17 October 2026 at 05:00",
+      "first_scraped_at": "2026-10-17T14:05:56.093502+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "heart of Historic St .George Staten Island just 2 short blocks to the free 20- minute ferry into NYC's financial",
       "group_id": "312692887868061"
     }
   ]
