@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-16T17:07:15.532250",
-  "count": 3132,
+  "updated_at": "2026-10-16T18:06:53.500665",
+  "count": 3133,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -93762,6 +93762,35 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "bedroom for Feb move-in I know it\u2019s early to be posting this, but it\u2019s pretty difficult to find good wheelchair-accessible",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "2034521330572772",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1250,
+      "budget_max": 1250,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Inner Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She works in sales, is often out for work or exercise, and values a comfortable place to come home to. She is respectful and considerate of shared spaces and is open to male or female roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2034521330572772",
+      "posted_at": "Friday 16 October 2026 at 17:28",
+      "first_scraped_at": "2026-10-17T01:00:03.277799+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Kelly, and I\u2019m looking for a room in the Inner Richmond or Inner Sunset with a budget of $1,250/month. I",
+      "group_id": "242765489748374"
     }
   ]
 }
