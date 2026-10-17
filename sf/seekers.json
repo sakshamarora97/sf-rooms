@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-17T11:06:21.096930",
-  "count": 3143,
+  "updated_at": "2026-10-17T12:07:23.285372",
+  "count": 3144,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94092,6 +94092,32 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "name is Colton, I\u2019m 22, and I\u2019m looking for housing in SF. I currently live in Glen Park but am",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2035247427166829",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": null,
+      "age": 30,
+      "bio": "A 30-year-old female professional who is clean, tidy, responsible, and well-organized. She works six days a week and will spend most of her time outside the home, has no pets, and seeks a comfortable room in a friendly, peaceful household.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2035247427166829",
+      "posted_at": "Saturday 17 October 2026 at 11:27",
+      "first_scraped_at": "2026-10-17T19:00:06.994704+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "San Francisco We are looking for a room in San Francisco for a 30-year-old female friend. She is clean, tidy,",
+      "group_id": "242765489748374"
     }
   ]
 }
