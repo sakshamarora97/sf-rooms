@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T13:15:58.416297",
-  "count": 299,
+  "updated_at": "2026-10-17T14:17:34.813553",
+  "count": 301,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -8695,6 +8695,69 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "for a 1 or 2 bed sublease or lease takeover for November 1st, budget $2k. Looking at Williamsburg, Midtown, FiDi,",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2249791288918999",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "Recent Hamptons seasonal worker who now works in the Lower East Side. Seeks a long-term room sublet, is clean, responsible, respectful, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2249791288918999",
+      "posted_at": "Saturday 17 October 2026 at 13:51",
+      "first_scraped_at": "2026-10-17T21:07:40.972330+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Room to Sublet in NYC! Hi everyone! I\u2019m looking for a room to sublet in Manhattan or Brooklyn, with a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "989075630229780",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "West Village",
+        "Financial District",
+        "SoHo",
+        "Chelsea",
+        "NoLita"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are relocating from Austin to NYC for work and seeking a Manhattan studio or 1-bedroom with move-in by 2026-11-01; ideally a one-year lease or a lease takeover with renewal potential.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/989075630229780",
+      "posted_at": "Saturday 17 October 2026 at 10:30",
+      "first_scraped_at": "2026-10-17T21:07:40.972330+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "or 1BR ASAP 11/1 Move In Hi! Relocating from Austin to NYC for work and looking for a place that",
+      "group_id": "312692887868061"
     }
   ]
 }
