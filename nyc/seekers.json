@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-16T20:19:28.967906",
-  "count": 285,
+  "updated_at": "2026-10-16T21:18:08.313201",
+  "count": 286,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -8275,6 +8275,33 @@
       "first_scraped_at": "2026-10-17T03:07:22.227496+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Sam (28). I'm relocating from Charleston to New York for a new role in tech and am looking for a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2248997792331682",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is seeking to take over a studio or one-bedroom lease; prefers unfurnished units under $2300/month and ideally to move in on 2026-11-01. Prefers locations in Upper Manhattan or the West Bronx near CUNY BCC.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2248997792331682",
+      "posted_at": "Friday 16 October 2026 at 18:35",
+      "first_scraped_at": "2026-10-17T04:07:48.420317+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a lease! Studio or 1 Bed Hey! I\u2019m looking to take over someones lease. Unfurnished is perfect. A studio or",
       "group_id": "149460102285472"
     }
   ]
