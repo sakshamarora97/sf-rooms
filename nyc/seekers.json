@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T10:14:24.489052",
-  "count": 294,
+  "updated_at": "2026-10-17T12:15:47.968613",
+  "count": 296,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -8540,6 +8540,67 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "a room opening up in North Jersey over the next few weeks? A little about me: I'm a guy, working",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2249678628930265",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "NoMad",
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old architect who moved to NYC for work in June; works in-office five days a week, is tidy and easygoing, and enjoys caf\u00e9 hopping, thrifting, restaurants, and Pilates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2249678628930265",
+      "posted_at": "Saturday 17 October 2026 at 10:59",
+      "first_scraped_at": "2026-10-17T19:07:27.441829+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "NOV 1 Hi! I\u2019m Sabrina, 26, originally from Toronto, but spent the last five years on the West Coast. I",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2249642552267206",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lower East Side",
+        "East Village",
+        "Gramercy Park",
+        "Chinatown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old male artist and Army Ranger veteran working full-time as a tattooer and starting a job in downtown Manhattan while attending Parsons. Has a Golden Retriever service dog and is seeking a room with 1\u20132 roommates in Lower East Side, East Village, Gramercy Park, or Chinatown with a budget around $2,500/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2249642552267206",
+      "posted_at": "Saturday 17 October 2026 at 10:09",
+      "first_scraped_at": "2026-10-17T19:07:27.441829+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "people! I\u2019m Jason I just recently got a job tattooing in downtown Manhattan. I\u2019m stoked and coming with a lot",
+      "group_id": "149460102285472"
     }
   ]
 }
