@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T12:15:47.968613",
-  "count": 758,
+  "updated_at": "2026-10-17T13:15:58.416297",
+  "count": 760,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -23763,6 +23763,69 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "husband and I are moving out of state and are looking for someone to live in our luxury apartment for",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2904281239938141",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-15",
+      "available_until": "2027-12-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "waterfront_view",
+        "privacy_divider",
+        "additional_storage",
+        "large_closet",
+        "semi_furnished"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2904281239938141",
+      "posted_at": "Saturday 17 October 2026 at 10:50",
+      "first_scraped_at": "2026-10-17T20:07:12.798295+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "in Newport mid-Nov move-in Looking for a female to occupy a comfortable semi-furnished flex room with a gorgeous waterfront view",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2249749275589867",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "Park Slope",
+      "area": "Brooklyn",
+      "available_from": "2026-11-15",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "dishwasher",
+        "in_unit_washer",
+        "updated_appliances",
+        "monthly_cleaning_service"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2249749275589867",
+      "posted_at": "Saturday 17 October 2026 at 12:43",
+      "first_scraped_at": "2026-10-17T20:07:12.798295+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "prime North Park Slope 3BD/2BA $1,550 Nov 15 Looking for a new roommate to join our 3 bed 2 bath",
+      "group_id": "149460102285472"
     }
   ]
 }
