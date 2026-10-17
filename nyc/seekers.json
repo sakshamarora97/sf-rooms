@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T07:13:17.916808",
-  "count": 287,
+  "updated_at": "2026-10-17T08:14:45.386836",
+  "count": 288,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -8338,6 +8338,34 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "or lease takeover Hi all! Looking for a 1 or 2 bed sublease or lease takeover for November 1st, budget",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28574642005538614",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are two people seeking a budget-friendly, clean, and safe room in Journal Square, Jersey City with kitchen access, looking to move in soon.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28574642005538614",
+      "posted_at": "Saturday 17 October 2026 at 07:46",
+      "first_scraped_at": "2026-10-17T15:06:41.940479+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Room for 2 People in Journal Square, Jersey City, NJ Hi everyone! We are two people looking for a room",
+      "group_id": "765841576845364"
     }
   ]
 }
