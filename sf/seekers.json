@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-17T10:06:06.939880",
-  "count": 3142,
+  "updated_at": "2026-10-17T11:06:21.096930",
+  "count": 3143,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94063,6 +94063,34 @@
       "first_scraped_at": "2026-10-17T15:00:07.281695+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "am looking for a private room or apartment to sublet from 11/1 to end of January. I\u2019m originally based in",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4750486181853051",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Glen Park"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "He is a 22-year-old project engineer who commutes to the Peninsula. He is laid-back, friendly, clean, and respectful; enjoys playing guitar, staying active, and socializing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4750486181853051",
+      "posted_at": "Saturday 17 October 2026 at 09:50",
+      "first_scraped_at": "2026-10-17T18:00:05.773602+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Colton, I\u2019m 22, and I\u2019m looking for housing in SF. I currently live in Glen Park but am",
       "group_id": "2176716625896699"
     }
   ]
