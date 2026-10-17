@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-16T21:18:08.313201",
-  "count": 727,
+  "updated_at": "2026-10-16T22:17:55.945886",
+  "count": 728,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -22792,6 +22792,44 @@
       "first_scraped_at": "2026-10-17T04:07:48.420317+00:00",
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "with Full-Width Private Terrace and Southern Exposure This fully renovated one-bedroom, one-bath apartment has a modern alcove kitchen, a spacious",
+      "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "27971944145817111",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Lower East Side",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "wine_cooler",
+        "stainless_steel_appliances",
+        "granite_countertops",
+        "exposed_brick",
+        "hardwood_floors",
+        "high_ceilings",
+        "elevator",
+        "virtual_doorman",
+        "outdoor_space"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/27971944145817111",
+      "posted_at": "Friday 16 October 2026 at 18:40",
+      "first_scraped_at": "2026-10-17T05:07:39.215825+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "Laundry on Stanton Street, Lower East Side Stanton Street (between Ridge Attorney), #4A No Fee. Available for rent, this beautifully",
       "group_id": "812568135514746"
     }
   ]
