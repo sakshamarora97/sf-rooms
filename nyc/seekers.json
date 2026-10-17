@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T14:17:34.813553",
-  "count": 301,
+  "updated_at": "2026-10-17T16:16:36.661552",
+  "count": 303,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -8758,6 +8758,67 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "or 1BR ASAP 11/1 Move In Hi! Relocating from Austin to NYC for work and looking for a place that",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2904450876587844",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-29",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a furnished 1B1B sublet in Newport (Grove St area) or Hoboken for the month of November, preferring to move in around Oct 29; asks to be DM'd with leads.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2904450876587844",
+      "posted_at": "Saturday 17 October 2026 at 14:38",
+      "first_scraped_at": "2026-10-17T23:06:39.334074+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "November Sublet Heyy all, I'm looking for a 1B1B furnished apartment in Newport/Grove St for./ Hoboken for the month of",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2904068779959387",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Journal Square",
+        "Downtown Jersey City",
+        "Hoboken",
+        "The Heights"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a working professional who is clean, respectful, and easygoing, looking for a private bedroom in a shared apartment with considerate roommates.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2904068779959387",
+      "posted_at": "Saturday 17 October 2026 at 13:29",
+      "first_scraped_at": "2026-10-17T23:06:39.334074+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Private Room Jersey City Newport Hoboken Move-in ASAP or Nov Looking for a Private Room Jersey City Newport Hoboken Move-in",
+      "group_id": "1138638939835722"
     }
   ]
 }
