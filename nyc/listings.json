@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T13:13:43.035902",
-  "count": 803,
+  "updated_at": "2026-10-18T14:15:46.727012",
+  "count": 805,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -25182,6 +25182,71 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for rent close to sudan street ;Dokki Shooting club area close to behos metro 4 bedrooms 2 bathrooms kitchen reception",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2250768922154569",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "Bushwick",
+      "area": "Brooklyn",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "laundry_in_building",
+        "central_air",
+        "dishwasher",
+        "private_patio",
+        "private_half_bath"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female/non-binary only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250768922154569",
+      "posted_at": "Sunday 18 October 2026 at 13:52",
+      "first_scraped_at": "2026-10-18T21:07:06.345796+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "FOR BUSHWICK ASAP, READY TO SIGN LEASE NOW!!! Hi! We\u2019re looking for a third roommate to join a lease in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2250758772155584",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Williamsburg",
+      "area": "Brooklyn",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "central_air",
+        "dishwasher",
+        "gym",
+        "coworking_space",
+        "rooftop"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250758772155584",
+      "posted_at": "Sunday 18 October 2026 at 13:33",
+      "first_scraped_at": "2026-10-18T21:07:06.345796+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Williamsburg 3k mo starting Nov 1st My roommate Jackson and I just signed on a 3BR at 130 Hope St",
+      "group_id": "149460102285472"
     }
   ]
 }

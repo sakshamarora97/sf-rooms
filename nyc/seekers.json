@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T13:13:43.035902",
-  "count": 319,
+  "updated_at": "2026-10-18T14:15:46.727012",
+  "count": 322,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -9275,6 +9275,96 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Room in NYC Hey everyone! I\u2019m a working professional in my late 20s, currently working in Midtown Manhattan, and looking",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2905362203163378",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a 1B1B lease transfer in Newport with a flexible move-in date and a preference for a waterfront view.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2905362203163378",
+      "posted_at": "Sunday 18 October 2026 at 11:06",
+      "first_scraped_at": "2026-10-18T21:07:06.345796+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "an 1B1B lease transfer in Newport! Move in flexible! Waterfront view preferred!",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2250765825488212",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-28",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Chelsea",
+        "Flatiron",
+        "Gramercy",
+        "NoMad",
+        "Union Square"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": 25,
+      "bio": "He is a 25-year-old who moved to New York last summer. He enjoys going to the gym, tries new restaurants weekly, goes out on weekends, and is clean and respectful of roommates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250765825488212",
+      "posted_at": "Sunday 18 October 2026 at 13:46",
+      "first_scraped_at": "2026-10-18T21:07:06.345796+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Alec and I\u2019m 25. I\u2019m looking for a roommate or to jump onto a lease for start date",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2250751938822934",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "They are a 26-year-old sports media professional at Bleacher Report, mostly working remotely. They enjoy working out, sports, movies, and go out 1\u20132 times per week.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250751938822934",
+      "posted_at": "Sunday 18 October 2026 at 13:22",
+      "first_scraped_at": "2026-10-18T21:07:06.345796+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for roommates for a 2-3 bed apartment in Manhattan or Brooklyn, really open to most places as long as",
+      "group_id": "149460102285472"
     }
   ]
 }
