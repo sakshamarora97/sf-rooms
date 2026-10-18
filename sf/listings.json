@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T11:47:45.116780",
-  "count": 2557,
+  "updated_at": "2026-10-18T12:07:13.379059",
+  "count": 2559,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -80090,6 +80090,71 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "room in a two story house, one block from Ashby bart. Available now. Showing the room today, Sunday Message below",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1391166732783570",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1580,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": "2027-07-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_room_wifi",
+        "shared_kitchen",
+        "study_rooms",
+        "common_lounges",
+        "washer_dryer_on_each_floor",
+        "keycard_access"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Telegraph Commons",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1391166732783570",
+      "posted_at": "Sunday 18 October 2026 at 10:55",
+      "first_scraped_at": "2026-10-18T19:00:07.417150+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "3 Min Walk to UC Berkeley! Utilities Included Looking for someone to take over my private room at Telegraph Commons",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1391145916118985",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "West Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_laundry",
+        "bike_shed",
+        "street_parking",
+        "dishwasher",
+        "patio"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1391145916118985",
+      "posted_at": "Sunday 18 October 2026 at 10:27",
+      "first_scraped_at": "2026-10-18T19:00:07.417150+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "West Berkeley Near North Berkeley BART, Whole Foods, and Acme Bread! Available: ~December 1st Hi everyone! Looking for a roommate",
+      "group_id": "558742412692677"
     }
   ]
 }
