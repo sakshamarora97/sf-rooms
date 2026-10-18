@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T07:07:37.690065",
-  "count": 2556,
+  "updated_at": "2026-10-18T08:07:01.762620",
+  "count": 2557,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -80055,6 +80055,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in Nopa walks from Haight Ashbury in shared 2 bed. Shared kitchen n bath. Three bay windows. Comfy bed. $2800",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2764723720590099",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1450,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "hardwood_floors",
+        "shared_living_room",
+        "shared_dining_room",
+        "deck",
+        "central_heat",
+        "air_conditioning",
+        "bi_monthly_housecleaning"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2764723720590099",
+      "posted_at": "Sunday 18 October 2026 at 07:17",
+      "first_scraped_at": "2026-10-18T15:00:03.669847+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "room in a two story house, one block from Ashby bart. Available now. Showing the room today, Sunday Message below",
+      "group_id": "128476910881473"
     }
   ]
 }
