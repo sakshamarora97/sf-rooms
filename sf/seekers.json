@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T14:07:02.176336",
-  "count": 3165,
+  "updated_at": "2026-10-18T15:08:12.021504",
+  "count": 3166,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94729,6 +94729,32 @@
       "first_scraped_at": "2026-10-18T21:00:05.732926+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Radik. I'm planning to move from Colorado to the Bay Area in November and am looking for a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2036288910396014",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "They work and study in the city and are seeking a room in San Francisco, preferring roommates in their 20s and open to a short-term lease.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2036288910396014",
+      "posted_at": "Sunday 18 October 2026 at 14:45",
+      "first_scraped_at": "2026-10-18T22:00:03.830308+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a place in SF!! Need to move by Nov. 1st!! Looking for roommates preferably in there 20s\u2026 I currently",
       "group_id": "242765489748374"
     }
   ]
