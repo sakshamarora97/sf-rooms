@@ -377,11 +377,11 @@
   /* Column min-widths so content doesn't crush before scrolling kicks in */
   #listings-table td:nth-child(1), #seekers-table td:nth-child(1) { min-width: 72px; }   /* Posted */
   #listings-table td:nth-child(2), #seekers-table td:nth-child(3) { min-width: 80px; }   /* Rent/Budget */
-  #listings-table td:nth-child(3)  { min-width: 120px; }  /* Location */
-  #listings-table td:nth-child(4)  { min-width: 90px; }   /* Available */
-  #listings-table td:nth-child(8)  { max-width: 200px; }  /* Amenities */
-  #seekers-table td:nth-child(6)   { min-width: 120px; }  /* Neighborhoods */
-  #seekers-table td:nth-child(8)   { min-width: 180px; max-width: 240px; }  /* Bio */
+  #listings-table td:nth-child(4)  { min-width: 120px; }  /* Location */
+  #listings-table td:nth-child(5)  { min-width: 90px; }   /* Available */
+  #listings-table td:nth-child(9)  { max-width: 200px; }  /* Amenities */
+  #seekers-table td:nth-child(7)   { min-width: 90px; }  /* Neighborhoods */
+  #seekers-table td:nth-child(9)   { min-width: 130px; max-width: 200px; }  /* Bio */
 
   .rent { font-weight: 700; font-size: 17px; letter-spacing: -0.5px; color: var(--rent); font-variant-numeric: tabular-nums; }
   .rent-null { color: var(--rent-null); font-weight: normal; font-size: 13px; }
@@ -448,7 +448,14 @@
 
   .chip { display: inline-block; background: var(--row-bm); color: var(--accent); border-radius: 20px; padding: 2px 9px; font-size: 12px; font-weight: 500; margin: 1px 2px 1px 0; }
   .chip-type { display: inline-block; background: var(--surface-3); color: var(--text-4); border-radius: 20px; padding: 2px 9px; font-size: 12px; margin: 1px 2px 1px 0; }
-  .bio-cell { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; max-width: 280px; }
+  .bio-cell { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; max-width: 200px; }
+  .bio-cell.bio-long { cursor: pointer; }
+  .bio-cell .bio-full, .bio-cell.bio-open .bio-short { display: none; }
+  .bio-cell.bio-open .bio-full { display: inline; }
+  .bio-toggle { background: none; border: none; padding: 0; margin-left: 3px; font: inherit; font-style: normal; font-weight: 600; color: var(--accent, #4f46e5); cursor: pointer; }
+  .bio-toggle:hover { text-decoration: underline; }
+  .bio-toggle .t-less, .bio-cell.bio-open .bio-toggle .t-more { display: none; }
+  .bio-cell.bio-open .bio-toggle .t-less { display: inline; }
 
   /* User status column */
   .status-cell { display: flex; align-items: center; gap: 6px; white-space: nowrap; }
@@ -773,6 +780,7 @@
     .m-card-avail { font-size: 12px; color: var(--text-2); }
     .m-card-hoods { display: flex; flex-wrap: wrap; gap: 4px; }
     .m-card-bio { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .m-card-bio.m-open { display: block; -webkit-line-clamp: unset; overflow: visible; }
     .m-card-amenities { font-size: 12px; color: var(--text-4); }
     .m-card-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 2px; padding-top: 8px; border-top: 0.5px solid var(--border-4); }
   }
@@ -1421,7 +1429,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = 'ad712217d79c';
+const SITE_VERSION = '3c656f044b54';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -1505,7 +1513,7 @@ function listingFreshnessBadge(p) {
   }
   return '';
 }
-function fmtPostedAt(raw) {
+function fmtPostedAt(raw, stacked = false) {   // stacked: time/“3d ago” above the date (table cells); otherwise one line
   if (!raw) return '—';
   const date = parsePostedAt(raw);
   if (!date) return esc(raw);
@@ -1521,6 +1529,7 @@ function fmtPostedAt(raw) {
   else                  ago = `${Math.floor(calDays/7)}w ago`;
 
   const dateStr = date.toLocaleDateString('en-US', { month:'short', day:'numeric' });
+  if (stacked) return `<div style="color:var(--text)">${ago}</div><div style="font-size:12px;color:var(--text-4)">${dateStr}</div>`;
   return `<span style="color:var(--text)">${ago}</span> <span style="font-size:12px;color:var(--text-4)">${dateStr}</span>`;
 }
 function fmtRent(r) {
@@ -1663,7 +1672,7 @@ function renderListings() {
       : '—';
     return `
     <tr id="lrow-${p.listing_id}" class="${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" onclick="rowClickToMap(event, '${p.listing_id}')">
-      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</td>
+      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at, true)}${listingFreshnessBadge(p)}</td>
       <td>${fmtRent(p.rent)}</td>
       <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
       <td>
@@ -1752,6 +1761,23 @@ function seekerSortVal(p, col) {
   if (Array.isArray(v)) return v.join(', ');
   return v;
 }
+
+// Bios: first BIO_PREVIEW_CHARS characters (cut at a word) with a "more" toggle; click the bio or the toggle to expand/collapse.
+const BIO_PREVIEW_CHARS = 90;
+function bioHtml(bio) {
+  if (!bio) return '<div class="bio-cell">—</div>';
+  if (bio.length <= BIO_PREVIEW_CHARS + 15) return `<div class="bio-cell">${esc(bio)}</div>`;
+  const cut = bio.lastIndexOf(' ', BIO_PREVIEW_CHARS);
+  const short = bio.slice(0, cut > 40 ? cut : BIO_PREVIEW_CHARS).replace(/[\s,.;:–-]+$/, '');
+  return `<div class="bio-cell bio-long"><span class="bio-short">${esc(short)}…</span><span class="bio-full">${esc(bio)}</span>` +
+    `<button type="button" class="bio-toggle" aria-label="Show full bio"><span class="t-more">more</span><span class="t-less">less</span></button></div>`;
+}
+document.addEventListener('click', e => {
+  const cell = e.target.closest('.bio-cell.bio-long');
+  if (cell) { cell.classList.toggle('bio-open'); return; }
+  const card = e.target.closest('.m-card-bio');
+  if (card) card.classList.toggle('m-open');
+});
 
 function renderSeekers() {
   const sfArea    = $('sf-area').value;
@@ -1851,7 +1877,7 @@ function renderSeekers() {
     const unitTypes = (p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')||'—';
     const groupStr = p.group_size>1?`${p.group_size} ppl`:p.group_size===1?'Solo':'—';
     return `<tr id="lrow-${p.listing_id}" class="${userBookmarks.has(p.listing_id)?'bookmarked':''}" onclick="rowClickToMap(event, '${p.listing_id}')">
-      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at)}</td>
+      <td style="white-space:nowrap">${fmtPostedAt(p.posted_at, true)}</td>
       <td style="white-space:nowrap;font-size:12px">${moveinStr}</td>
       <td style="font-weight:700;font-size:16px;letter-spacing:-0.5px">${esc(budgetStr)}</td>
       <td>${p.duration_type?tagHtml(p.duration_type,DURATION_MAP):'—'}</td>
@@ -1859,7 +1885,7 @@ function renderSeekers() {
       <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
       <td>${hoods}</td>
       <td>${unitTypes}</td>
-      <td><div class="bio-cell">${esc(p.bio||'—')}</div></td>
+      <td>${bioHtml(p.bio)}</td>
       <td style="text-align:center;color:#666">${p.age??'—'}</td>
       <td style="text-align:center;color:#666">${esc(groupStr)}</td>
       ${postLinkHtml(p)}
