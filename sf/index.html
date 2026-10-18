@@ -449,6 +449,7 @@
   .chip { display: inline-block; background: var(--row-bm); color: var(--accent); border-radius: 20px; padding: 2px 9px; font-size: 12px; font-weight: 500; margin: 1px 2px 1px 0; }
   .chip-type { display: inline-block; background: var(--surface-3); color: var(--text-4); border-radius: 20px; padding: 2px 9px; font-size: 12px; margin: 1px 2px 1px 0; }
   .bio-cell { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; max-width: 200px; }
+  .amen-cell { font-style: normal; color: #9ca3af; line-height: 1.4; }
   .bio-cell.bio-long { cursor: pointer; }
   .bio-cell .bio-full, .bio-cell.bio-open .bio-short { display: none; }
   .bio-cell.bio-open .bio-full { display: inline; }
@@ -1429,7 +1430,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = '3c656f044b54';
+const SITE_VERSION = '8ea086da20fb';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -1545,9 +1546,15 @@ function fmtGroup(g) {
   const m = g.match(/\((\d+\.?\d*[KM])\)/);
   return m ? m[1] : g.slice(0, 20);
 }
+// Amenities: first AMENITY_PREVIEW shown, the rest behind a "+N more" toggle (same click handling as bios).
+const AMENITY_PREVIEW = 3;
 function amenitiesHtml(list) {
   if (!list || !list.length) return '—';
-  return `<span style="font-size:12px;color:#9ca3af;line-height:1.4">${list.map(a => esc(a.replace(/_/g,' '))).join(', ')}</span>`;
+  const items = list.map(a => esc(a.replace(/_/g,' ')));
+  if (items.length <= AMENITY_PREVIEW + 1) return `<span style="font-size:12px;color:#9ca3af;line-height:1.4">${items.join(', ')}</span>`;
+  const extra = items.length - AMENITY_PREVIEW;
+  return `<div class="bio-cell bio-long amen-cell"><span class="bio-short">${items.slice(0, AMENITY_PREVIEW).join(', ')}…</span><span class="bio-full">${items.join(', ')}</span>` +
+    `<button type="button" class="bio-toggle" aria-label="Show all amenities"><span class="t-more">+${extra} more</span><span class="t-less">less</span></button></div>`;
 }
 function isMobileViewport() {
   return window.matchMedia('(max-width: 767px)').matches;
