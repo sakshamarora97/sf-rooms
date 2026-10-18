@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T11:47:45.763224",
-  "count": 317,
+  "updated_at": "2026-10-18T12:13:35.247580",
+  "count": 319,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -9220,6 +9220,61 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "LES 21 Oct 19 November. The place I had booked got cancelled on me last minute. If anyone knows of",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2250697408828387",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "She is a 22-year-old recent Bucknell graduate working at a law firm in Midtown. She enjoys exploring restaurants and bars and balances social outings with quiet nights in; she's looking for roommates to apartment-hunt with and become friends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250697408828387",
+      "posted_at": "Sunday 18 October 2026 at 11:59",
+      "first_scraped_at": "2026-10-18T19:07:18.656491+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Hayley, I\u2019m 22 and I\u2019m looking for roommates to apartment hunt with in NYC! Budget: Around $2,500 max,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "989856133485063",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hell's Kitchen",
+        "Williamsburg"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a working professional in her late 20s employed in Midtown Manhattan. She describes herself as clean, easygoing, and respectful of personal space; she enjoys movies, caf\u00e9s, long walks, and going out occasionally, and prefers female roommates.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/989856133485063",
+      "posted_at": "Sunday 18 October 2026 at 08:20",
+      "first_scraped_at": "2026-10-18T19:07:18.656491+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Room in NYC Hey everyone! I\u2019m a working professional in my late 20s, currently working in Midtown Manhattan, and looking",
+      "group_id": "312692887868061"
     }
   ]
 }

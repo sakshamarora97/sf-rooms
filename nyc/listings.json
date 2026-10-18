@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T11:47:45.763224",
-  "count": 800,
+  "updated_at": "2026-10-18T12:13:35.247580",
+  "count": 801,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -25092,6 +25092,35 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "RENT IBRAHIM TERRACE FRERE TOWN FULLY RENOVATED WEST OPEN PRIME LOCATION Experience comfortable family living in Ibrahim Terrace, Frere Town,",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2250682245496570",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Astoria",
+      "area": "Queens",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "laundry",
+        "grocery_24_7"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250682245496570",
+      "posted_at": "Sunday 18 October 2026 at 11:38",
+      "first_scraped_at": "2026-10-18T19:07:18.656491+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in Astoria Looking for Roommate for One bedroom in Astoria Ditmars $1,350+ utilities 60/70 Perfect for a person who works/study",
+      "group_id": "149460102285472"
     }
   ]
 }
