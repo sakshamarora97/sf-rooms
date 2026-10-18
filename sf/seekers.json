@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T08:07:01.762620",
-  "count": 3157,
+  "updated_at": "2026-10-18T09:07:19.658993",
+  "count": 3158,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94494,6 +94494,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Oscar, a U.S. Army veteran and home sales professional currently based in Texas. I\u2019m planning a move to San Francisco",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1391073902792853",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "He is starting the MFE program in January and is currently working on a derivatives desk in NYC. He enjoys outdoor activities such as running, biking, tennis, and hiking.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1391073902792853",
+      "posted_at": "Sunday 18 October 2026 at 08:48",
+      "first_scraped_at": "2026-10-18T16:00:03.858691+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "name is Philip Szkudlarski, and i\u2019ll be starting the MFE program in January. I\u2019m originally from Montgomery, New Jersey but",
+      "group_id": "558742412692677"
     }
   ]
 }
