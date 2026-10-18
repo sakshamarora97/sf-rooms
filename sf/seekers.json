@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-17T22:07:42.747104",
-  "count": 3155,
+  "updated_at": "2026-10-18T06:09:40.196165",
+  "count": 3157,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94442,6 +94442,58 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommates to apply ASAP: 3 bed 2 bath in the Outer Richmond (near Geary 41st Ave) Hi everyone! I just",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28725400380450577",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-12",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Travel nurse starting a new assignment at UCSF Parnassus in November seeking a room for short-term (3-month) stays. Clean, respectful, social, enjoys exploring the city and cooking; prefers furnished and utilities-included options near UCSF.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28725400380450577",
+      "posted_at": "Sunday 18 October 2026 at 05:52",
+      "first_scraped_at": "2026-10-18T13:00:02.889138+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "RENT Hi! I\u2019m a travel nurse starting a new assignment at UCSF Parnassus in November, and I\u2019m looking for a",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "28738936582430290",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-03-31",
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "reason": "student",
+      "age": null,
+      "bio": "He is a U.S. Army veteran and a home sales professional currently based in Texas and studying business management. He enjoys MMA, coffee, cars, festivals, and exploring new places, and is looking for a respectful, easygoing household; he has a cat but can arrange for the cat to stay with his parents if needed.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28738936582430290",
+      "posted_at": "Sunday 18 October 2026 at 05:51",
+      "first_scraped_at": "2026-10-18T13:00:02.889138+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Oscar, a U.S. Army veteran and home sales professional currently based in Texas. I\u2019m planning a move to San Francisco",
+      "group_id": "843764532374203"
     }
   ]
 }
