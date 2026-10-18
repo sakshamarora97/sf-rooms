@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T17:17:45.015273",
-  "count": 306,
+  "updated_at": "2026-10-17T18:17:34.069213",
+  "count": 307,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -8903,6 +8903,38 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for a room for my girlfriend and I to move into starting November 1st. My girlfriend (Naomi, 31) is a",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28580427904960024",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B",
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "Hoboken",
+        "Newport",
+        "Exchange Place",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "relocation",
+      "age": 26,
+      "bio": "He is a 26-year-old tech professional working in NYC on a hybrid schedule. He is active, non-smoking, and pet-free, seeking 1\u20132 roommates to sign a 2- or 3-bedroom apartment near PATH stations.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28580427904960024",
+      "posted_at": "Saturday 17 October 2026 at 17:59",
+      "first_scraped_at": "2026-10-18T01:06:44.874585+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Looking for Roommate(s) near PATH Stations (Hoboken Newport Exchange Pl Grove St) Dec 1 Move-In Hey everyone! I\u2019m looking for",
+      "group_id": "765841576845364"
     }
   ]
 }
