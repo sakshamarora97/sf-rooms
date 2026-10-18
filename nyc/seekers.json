@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T06:52:10.445809",
-  "count": 314,
+  "updated_at": "2026-10-18T08:16:19.833644",
+  "count": 315,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -9134,6 +9134,35 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "way to live in Manhattan within $800 only a Month",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2250109392220522",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are two responsible, tidy, non-smoking women coming to New York for a work project who will focus on their jobs, keep the space clean, and can provide references.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250109392220522",
+      "posted_at": "Saturday 17 October 2026 at 22:57",
+      "first_scraped_at": "2026-10-18T15:07:06.184828+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "(minimum 2 bedrooms) in New York for January/ early February Hi everyone! A friend and I are heading to New",
+      "group_id": "149460102285472"
     }
   ]
 }
