@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-17T19:08:09.131530",
-  "count": 3153,
+  "updated_at": "2026-10-17T20:07:59.024949",
+  "count": 3155,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94304,6 +94304,36 @@
       "group_id": "242765489748374"
     },
     {
+      "listing_id": "2035450573813181",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are a clean, quiet, employed individual with good credit and references, artsy, seeking a short-term sublet while exploring San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2035450573813181",
+      "posted_at": "Saturday 17 October 2026 at 17:47",
+      "first_scraped_at": "2026-10-18T01:00:06.571461+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a sublet for ASAP for a month or more (depending on the situation). Would prefer a solo apartment, but slight",
+      "group_id": "242765489748374"
+    },
+    {
       "listing_id": "1390502809516629",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -94384,6 +94414,34 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Berkeley (Nov start!) Hi all! My name is Audrey and I'm a new grad/young professional who's working in Berkeley. I'm",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "2035475723810666",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Outer Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Poster is in her early 20s and works at a free clinic. She describes herself as laid-back, respectful, and a good communicator who wants to make the place a home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2035475723810666",
+      "posted_at": "Saturday 17 October 2026 at 18:30",
+      "first_scraped_at": "2026-10-18T03:00:02.977613+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommates to apply ASAP: 3 bed 2 bath in the Outer Richmond (near Geary 41st Ave) Hi everyone! I just",
+      "group_id": "242765489748374"
     }
   ]
 }
