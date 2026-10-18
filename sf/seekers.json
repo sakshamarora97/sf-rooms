@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T15:08:12.021504",
-  "count": 3166,
+  "updated_at": "2026-10-18T16:06:31.633157",
+  "count": 3168,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94756,6 +94756,58 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a place in SF!! Need to move by Nov. 1st!! Looking for roommates preferably in there 20s\u2026 I currently",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4751931765041826",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": 29,
+      "bio": "29-year-old female from Belgium who has been living in San Francisco for a year. She is easygoing and active\u2014enjoys exploring new places, hiking, trying new restaurants, and chill nights at home.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4751931765041826",
+      "posted_at": "Sunday 18 October 2026 at 14:48",
+      "first_scraped_at": "2026-10-18T23:00:03.773028+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a room in San Francisco, ideally in a shared apartment, or someone who\u2019d like to find a place",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1391326969434213",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A female junior at UC Berkeley seeking a private room with available parking. She can move as soon as possible (Nov 1 is acceptable) and is looking for a lease that does not require credit or pay stubs.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1391326969434213",
+      "posted_at": "Sunday 18 October 2026 at 15:46",
+      "first_scraped_at": "2026-10-18T23:00:03.773028+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Berkeley student looking for a private room with available parking (street, garage, anything). I am hoping to move in as",
+      "group_id": "558742412692677"
     }
   ]
 }
