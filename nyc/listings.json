@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-17T16:16:36.661552",
-  "count": 770,
+  "updated_at": "2026-10-17T17:17:45.015273",
+  "count": 771,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -24160,6 +24160,42 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Rent near Ditmars, Astoria Move-In November 1 Ditmars, Astoria, Queens Rent utilities Looking for a roommate to share an apartment",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28580027791666702",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3300,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": "2027-08-20",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "yoga_room",
+        "rooftop",
+        "golf_simulator",
+        "mini_bowling",
+        "game_room",
+        "party_room",
+        "coworking_space",
+        "free_coffee"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28580027791666702",
+      "posted_at": "Saturday 17 October 2026 at 17:09",
+      "first_scraped_at": "2026-10-18T00:07:03.623924+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Alcove Journal Square Available December 1 Bed 1 Bath Alcove\uff5c714 sq ft\uff5cHigh floor $3,3xx/month Available December\uff5cLease through 8/20/2027 Walking distance",
+      "group_id": "765841576845364"
     }
   ]
 }
