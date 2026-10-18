@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T13:07:26.865311",
-  "count": 3162,
+  "updated_at": "2026-10-18T14:07:02.176336",
+  "count": 3165,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94638,6 +94638,97 @@
       "first_scraped_at": "2026-10-18T19:00:07.417150+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommate ASAP! Hey! My name is Archana, I'm 23 and just graduated from university! I am originally from the east",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4751814025053600",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1667,
+      "budget_max": 1667,
+      "unit_type_wanted": [
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose",
+        "Sunnyvale",
+        "Santa Clara",
+        "Palo Alto"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two tidy, vegetarian, easygoing male roommates seeking a third roommate to sign a new lease in November; respectful of shared spaces and open to apartment hunting together.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4751814025053600",
+      "posted_at": "Sunday 18 October 2026 at 12:17",
+      "first_scraped_at": "2026-10-18T21:00:05.732926+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "3rd roommate 3B/2B near San Jose Sunnyvale Santa Clara Palo Alto Hi everyone! We're two guys looking for a 3rd",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2036255403732698",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Pacific Heights",
+        "Russian Hill",
+        "Nob Hill",
+        "North Beach",
+        "Telegraph Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "reason": "student",
+      "age": null,
+      "bio": "She is a female graduate student at UPenn, quiet, clean, and easygoing. She studies remotely, is a non-smoker, has no pets, and prefers a quiet, safe place with kitchen access.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2036255403732698",
+      "posted_at": "Sunday 18 October 2026 at 13:44",
+      "first_scraped_at": "2026-10-18T21:00:05.732926+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a ROOM to rent in San Francisco Move-in: mid-December, or January February (a bit earlier or later is",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2036252610399644",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "He is relocating from Colorado to the Bay Area in November and is seeking a long-term room with a budget around $1,000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2036252610399644",
+      "posted_at": "Sunday 18 October 2026 at 13:39",
+      "first_scraped_at": "2026-10-18T21:00:05.732926+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Radik. I'm planning to move from Colorado to the Bay Area in November and am looking for a",
       "group_id": "242765489748374"
     }
   ]
