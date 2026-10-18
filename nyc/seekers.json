@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T08:16:19.833644",
-  "count": 315,
+  "updated_at": "2026-10-18T11:39:57.006771",
+  "count": 317,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -9162,6 +9162,63 @@
       "first_scraped_at": "2026-10-18T15:07:06.184828+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "(minimum 2 bedrooms) in New York for January/ early February Hi everyone! A friend and I are heading to New",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2905316306501301",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": 1600,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a private furnished room to sublet for November and December in the Newport/Journal Square area of Jersey City. They prefer female roommates and a location close to the PATH station.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2905316306501301",
+      "posted_at": "Sunday 18 October 2026 at 10:10",
+      "first_scraped_at": "2026-10-18T18:31:09.020481+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "private room to sublet for Nov Dec in Grove St/Newport/JSQ area. Budget: $1600 (flexible). I\u2019d prefer female roommates, furnished room,",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2250612625503532",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-21",
+      "move_out_date": "2026-11-19",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Lower East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a short-term apartment in the Lower East Side from 2026-10-21 to 2026-11-19 after a previously booked place was canceled.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250612625503532",
+      "posted_at": "Sunday 18 October 2026 at 10:03",
+      "first_scraped_at": "2026-10-18T18:31:09.020481+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "LES 21 Oct 19 November. The place I had booked got cancelled on me last minute. If anyone knows of",
       "group_id": "149460102285472"
     }
   ]
