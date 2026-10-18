@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-17T17:06:59.361592",
-  "count": 3150,
+  "updated_at": "2026-10-17T18:06:40.684178",
+  "count": 3151,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94302,6 +94302,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for Inner Richmond 3BR Hi everyone! I'm Yana. My original roommate plans fell through, and I have a pretty good",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1390502809516629",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-27",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They recently graduated from massage therapy school and work as a massage therapist in San Francisco. They describe themselves as responsible, clean, quiet, and respectful of shared spaces, and prefer low-key, relaxing free time.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1390502809516629",
+      "posted_at": "Saturday 17 October 2026 at 17:28",
+      "first_scraped_at": "2026-10-18T01:00:06.571461+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a room/housing in Berkeley, ideally within a 10\u201315 minute walk to a BART station. A little bit about",
+      "group_id": "558742412692677"
     }
   ]
 }
