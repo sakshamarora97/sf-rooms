@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-17T16:06:34.855537",
-  "count": 3149,
+  "updated_at": "2026-10-17T17:06:59.361592",
+  "count": 3150,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -94274,6 +94274,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Looking for Fall Move-In $1,500 utilities) Hey everyone, I\u2019m a full-time working professional looking for an unfurnished (or furnished) private",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2035386000486305",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1870,
+      "budget_max": 1885,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a recent college graduate working full-time in the Financial District, social and active (enjoys sports, dancing, traveling, and going out) but also likes staying in and watching movies. She keeps shared spaces very clean, communicates well, and is looking for responsible, friendly roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2035386000486305",
+      "posted_at": "Saturday 17 October 2026 at 15:39",
+      "first_scraped_at": "2026-10-18T00:00:03.796789+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for Inner Richmond 3BR Hi everyone! I'm Yana. My original roommate plans fell through, and I have a pretty good",
+      "group_id": "242765489748374"
     }
   ]
 }
