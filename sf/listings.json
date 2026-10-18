@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T06:09:40.196165",
-  "count": 2555,
+  "updated_at": "2026-10-18T07:07:37.690065",
+  "count": 2556,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -80027,6 +80027,34 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Valiant 2BR near UC Berkeley Shared $1,799 Private $2,199 Lease transfer at The Valiant (2538 Durant Ave) about a minute's",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2035731153785123",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2800,
+      "neighborhood": "NoPa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "bay_windows"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2035731153785123",
+      "posted_at": "Sunday 18 October 2026 at 01:17",
+      "first_scraped_at": "2026-10-18T14:00:02.828842+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in Nopa walks from Haight Ashbury in shared 2 bed. Shared kitchen n bath. Three bay windows. Comfy bed. $2800",
+      "group_id": "242765489748374"
     }
   ]
 }
