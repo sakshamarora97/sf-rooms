@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T19:07:02.760144",
-  "count": 2570,
+  "updated_at": "2026-10-18T20:07:27.937967",
+  "count": 2571,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -85652,6 +85652,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "blocks from UC Berkeley campus Private Rooms starting at $1238 Spring Semester 12-month leases available DM for more information Perfectly",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2765336747195463",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-08-22",
+      "available_until": "2027-07-31",
+      "unit_config": "4B3B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "study_rooms",
+        "lounge_areas"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Standard at Berkeley",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2765336747195463",
+      "posted_at": "Sunday 18 October 2026 at 19:59",
+      "first_scraped_at": "2026-10-19T03:00:03.017378+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "$1915/MONTH TO $1,600/MONTH! Looking for someone to take over my lease at The Standard at Berkeley. Private bedroom in a",
+      "group_id": "128476910881473"
     }
   ]
 }

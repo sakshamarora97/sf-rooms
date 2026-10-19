@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T19:07:02.760144",
-  "count": 3175,
+  "updated_at": "2026-10-18T20:07:27.937967",
+  "count": 3176,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98191,6 +98191,33 @@
       "first_scraped_at": "2026-10-19T02:00:03.155153+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "to move to San Francisco and am looking for a potential roommate/2 roommates to go apt hunting with. I'd prefer",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4752067381694931",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a private room in an all-female apartment for November and December. Is a working professional.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4752067381694931",
+      "posted_at": "Sunday 18 October 2026 at 18:09",
+      "first_scraped_at": "2026-10-19T03:00:03.017378+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "private room in an all females apartment for November and December. I\u2019m working professional. Please DM me with any leads",
       "group_id": "2176716625896699"
     }
   ]
