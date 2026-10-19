@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T15:07:36.505537",
-  "count": 2602,
+  "updated_at": "2026-10-19T16:06:16.542289",
+  "count": 2603,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86701,6 +86701,34 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Rent 5 Minutes Walk to UC Berkeley! 2516 Ellsworth St, Berkeley, CA Monthly Rent: $1,050 Only 1 Room Left Perfect",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "2037225133635725",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1790,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037225133635725",
+      "posted_at": "Monday 19 October 2026 at 14:34",
+      "first_scraped_at": "2026-10-19T23:00:04.939123+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Prime San Francisco Location Russian Hill Park) Hi everyone! I\u2019m looking to sublet my cozy studio apartment located at 2355",
+      "group_id": "242765489748374"
     }
   ]
 }
