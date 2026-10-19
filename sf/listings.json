@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T11:09:02.821870",
-  "count": 2596,
+  "updated_at": "2026-10-19T12:08:21.989235",
+  "count": 2598,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86501,6 +86501,70 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "ASAP Lakefront in Adams Point, Oakland Hi! One room is available (Nov 1 or sooner) in our lovely home along",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2037092410315664",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 3300,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2027-01-31",
+      "unit_config": "1BR",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "bedroom closet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037092410315664",
+      "posted_at": "Monday 19 October 2026 at 10:48",
+      "first_scraped_at": "2026-10-19T19:00:03.348523+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hayes Valley Nov 1 Jan 31 (flexible) Open to other dates but longer stays preferred Awesome location with Hayes, Haight",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2037033693654869",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 750,
+      "neighborhood": "Balboa Park",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "laundry",
+        "furnished",
+        "kitchen",
+        "internet",
+        "street_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037033693654869",
+      "posted_at": "Monday 19 October 2026 at 09:31",
+      "first_scraped_at": "2026-10-19T19:00:03.348523+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "SAN FRANCISCO $250/SEMANA O $800/MES SIN DEP\u00d3SITO Hay camas disponibles en cuartos compartidos en una casa limpia, organizada y reci\u00e9n",
+      "group_id": "242765489748374"
     }
   ]
 }
