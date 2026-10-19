@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-19T12:17:50.316145",
-  "count": 345,
+  "updated_at": "2026-10-19T13:20:10.806980",
+  "count": 346,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -10368,6 +10368,37 @@
       "first_scraped_at": "2026-10-19T19:08:26.361951+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "room in NYC November\u2013March Hi everyone! I\u2019m Riccardo, 25, originally from Italy, and currently living in New York for a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251646382066823",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hoboken",
+        "Journal Square",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private bedroom in a shared apartment or house in New Jersey; flexible on location and available immediately or from 2026-11-01. Needs a dedicated car parking spot and is open to teaming up with a roommate to apartment-hunt.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251646382066823",
+      "posted_at": "Monday 19 October 2026 at 11:52",
+      "first_scraped_at": "2026-10-19T20:09:13.925328+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "private bedroom with car parking Hey everyone I\u2019m currently looking for a private room in a shared apartment/house anywhere in",
       "group_id": "149460102285472"
     }
   ]
