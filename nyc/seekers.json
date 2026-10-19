@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T21:19:52.250751",
-  "count": 330,
+  "updated_at": "2026-10-18T22:17:31.001742",
+  "count": 332,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -9923,6 +9923,65 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Jersey City My Female Friend is looking for roommate I am open to search apartments together near Edison area. Flexible",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2251052785459516",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is an actor, writer, and director seeking a furnished sublet for February through the end of April 2027. She is clean, an ambivert, and enjoys film photography, thrifting, pilates, and acting/improv classes.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251052785459516",
+      "posted_at": "Sunday 18 October 2026 at 22:07",
+      "first_scraped_at": "2026-10-19T05:09:39.016073+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room sublet Hello I'm Liliana! I'm looking for: -a furnished bedroom (good to share a bathroom) -February through the end",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251047722126689",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "shared_room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Kips Bay",
+        "Murray Hill",
+        "East Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent University of Virginia graduate (class of 2025) looking to move to New York in November; seeking a place near Kips Bay, Murray Hill, or East Village with a budget of about $2000/month, open to sharing a room or taking over a lease.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251047722126689",
+      "posted_at": "Sunday 18 October 2026 at 21:59",
+      "first_scraped_at": "2026-10-19T05:09:39.016073+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Arnav and I\u2019m a 2025 university of Virginia graduate looking to move to New York some time in",
+      "group_id": "149460102285472"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T21:19:52.250751",
-  "count": 832,
+  "updated_at": "2026-10-18T22:17:31.001742",
+  "count": 833,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -27778,6 +27778,38 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "in a 2BR/2BA apartment from November 24th to Dec 8th! 2200$ for the entire duration. My roommate is mostly out,",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2905785086454423",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1240,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "manhattan_skyline_view",
+        "waterfront_view",
+        "high_floor"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female preferred",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2905785086454423",
+      "posted_at": "Sunday 18 October 2026 at 21:31",
+      "first_scraped_at": "2026-10-19T05:09:39.016073+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "in Newport $1245/month Female preferred Hi everyone! I\u2019m looking to transfer lease for my Den room in a 3bedroom apartment",
+      "group_id": "1138638939835722"
     }
   ]
 }
