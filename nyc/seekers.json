@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-19T06:19:24.400874",
-  "count": 333,
+  "updated_at": "2026-10-19T07:15:55.213461",
+  "count": 336,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -10010,6 +10010,97 @@
       "first_scraped_at": "2026-10-19T13:11:48.753648+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "roommate in Williamsburg! 11/1- cute apartment next to Kellogg! Hiii!! I have an apartment that I found an apartment that",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251413912090070",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Boerum Hill",
+        "Bed-Stuy"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 27,
+      "bio": "27-year-old professional relocating to NYC for work with a hybrid schedule. Social, non-drinker/non-smoker who enjoys concerts, rock climbing, fitness, cooking, gaming and playing piano; keeps shared spaces relaxed and clean.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251413912090070",
+      "posted_at": "Monday 19 October 2026 at 06:57",
+      "first_scraped_at": "2026-10-19T14:07:53.648196+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "apt roommates in lower Manhattan/Brooklyn (flexible as long as I can get to work! Williamsburg, Boerum Hill, Bed-Stuy, Lower Manhattan,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251379438760184",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "sublet",
+        "lease_takeover",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old who is clean, easygoing, and social. Enjoys music (plays guitar), movies, bars and restaurants, museums, concerts, sports, gym, hiking, fishing, and traveling.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251379438760184",
+      "posted_at": "Monday 19 October 2026 at 06:12",
+      "first_scraped_at": "2026-10-19T14:07:53.648196+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "lease takeover sublet ASAP Hi everyone I moved to New York City a few days ago and I\u2019m looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251176008780527",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Registered nurse with stable income and strong rental history. Clean, neat, and tidy; has allergies so no pets.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251176008780527",
+      "posted_at": "Monday 19 October 2026 at 01:20",
+      "first_scraped_at": "2026-10-19T14:07:53.648196+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1bath/studio move in mid Jan Might be a bit early to post (looking to possibly move in mid Jan 2027",
       "group_id": "149460102285472"
     }
   ]
