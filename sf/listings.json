@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T12:08:21.989235",
-  "count": 2598,
+  "updated_at": "2026-10-19T13:09:08.748779",
+  "count": 2599,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86565,6 +86565,43 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "SAN FRANCISCO $250/SEMANA O $800/MES SIN DEP\u00d3SITO Hay camas disponibles en cuartos compartidos en una casa limpia, organizada y reci\u00e9n",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1392094716024105",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1295,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "on_site_laundry",
+        "parking",
+        "updated_appliances",
+        "hardwood_floors",
+        "fully_furnished",
+        "water_included",
+        "trash_included",
+        "walking_distance_to_uc_berkeley"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female identifying",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1392094716024105",
+      "posted_at": "Monday 19 October 2026 at 12:14",
+      "first_scraped_at": "2026-10-19T20:00:03.545112+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Lease Transfer Available in Berkeley Spring 2027 Hi everyone, I\u2019m looking for someone to take over my lease for the",
+      "group_id": "558742412692677"
     }
   ]
 }

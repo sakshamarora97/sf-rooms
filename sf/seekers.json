@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T12:08:21.989235",
-  "count": 3190,
+  "updated_at": "2026-10-19T13:09:08.748779",
+  "count": 3192,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98651,6 +98651,68 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Female Roommate in Emeryville/South west Berkeley, CA! Hi everyone! I\u2019m planning to sign a new lease for a 2B/2B or",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4753022884932714",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 32,
+      "bio": "32-year-old returning to San Francisco after hiking the Pacific Crest Trail. Enjoys meeting new people, being outdoors, and making art; prefers roommates in their late 20s to mid-30s.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4753022884932714",
+      "posted_at": "Monday 19 October 2026 at 12:58",
+      "first_scraped_at": "2026-10-19T20:00:03.545112+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a private room starting December 1st (flexible but ideally no more than 1,600 plus utilities). I\u2019ll be moving",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4752985061603163",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond District",
+        "Inner Sunset",
+        "NoPa",
+        "Cole Valley",
+        "Mission District",
+        "Alamo Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "Works remotely as a website designer; enjoys skateboarding, music, and outdoor activities. Seeking a respectful short-term sublet (1\u20132 months) starting Nov 1.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4752985061603163",
+      "posted_at": "Monday 19 October 2026 at 12:13",
+      "first_scraped_at": "2026-10-19T20:00:03.545112+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "is Danny I\u2019m 25yo looking for sublet short-term rental for 1-2 months starting Nov 1st or sooner. About Me -Chill",
+      "group_id": "2176716625896699"
     }
   ]
 }
