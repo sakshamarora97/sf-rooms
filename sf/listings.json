@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T14:07:30.739636",
-  "count": 2601,
+  "updated_at": "2026-10-19T15:07:36.505537",
+  "count": 2602,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86666,6 +86666,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "ALUGAR EM DALY CITY $1.250/M\u00caS Dispon\u00edvel para entrada imediata! Quarto privativo e mobiliado, com banheiro compartilhado com apenas 1 mulher,",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2766255677103570",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1050,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "kitchen",
+        "shared_bathroom",
+        "backyard",
+        "living_room",
+        "near_campus"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female preferred",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2766255677103570",
+      "posted_at": "Monday 19 October 2026 at 14:42",
+      "first_scraped_at": "2026-10-19T22:00:06.221896+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Rent 5 Minutes Walk to UC Berkeley! 2516 Ellsworth St, Berkeley, CA Monthly Rent: $1,050 Only 1 Room Left Perfect",
+      "group_id": "128476910881473"
     }
   ]
 }
