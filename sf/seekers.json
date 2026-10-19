@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T21:11:01.235111",
-  "count": 3180,
+  "updated_at": "2026-10-18T22:09:35.028167",
+  "count": 3181,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98346,6 +98346,35 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "just graduated, and I'm moving to the area for a full-time engineering job. Looking for a few people to go",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4752119155023087",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1100,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two 25-year-old SF natives seeking two roommates. One is a data scientist and the other works at a biotech startup; they enjoy music, outdoor activities, and social nights.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4752119155023087",
+      "posted_at": "Sunday 18 October 2026 at 19:16",
+      "first_scraped_at": "2026-10-19T05:00:04.771882+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Hi everyone! My friend and I are looking 2 roommates! We have a lead in Daly City, but would to",
+      "group_id": "2176716625896699"
     }
   ]
 }

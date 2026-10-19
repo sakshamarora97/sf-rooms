@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T21:11:01.235111",
-  "count": 2576,
+  "updated_at": "2026-10-18T22:09:35.028167",
+  "count": 2577,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -85846,6 +85846,41 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "right on Valencia Street...with one dedicated parking space and all utilities included. November1st January 1st. DM if interested!",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4752210931680576",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1850,
+      "neighborhood": "Belmont",
+      "area": "The Peninsula",
+      "available_from": "2026-11-01",
+      "available_until": "2027-10-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "walk_to_caltrain",
+        "laundry_on_same_floor",
+        "street_parking",
+        "private_parking_available",
+        "near_safeway",
+        "natural_light"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Madison Belmont Apartments",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4752210931680576",
+      "posted_at": "Sunday 18 October 2026 at 21:17",
+      "first_scraped_at": "2026-10-19T05:00:04.771882+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in Belmont, a short walk from Caltrain Hi! I\u2019m looking for someone to take over my room in a 2-bed,",
+      "group_id": "2176716625896699"
     }
   ]
 }
