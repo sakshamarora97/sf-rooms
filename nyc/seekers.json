@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-19T11:18:03.058313",
-  "count": 342,
+  "updated_at": "2026-10-19T12:17:50.316145",
+  "count": 345,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -10279,6 +10279,96 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "SQUARE, JERSEY CITY Hi everyone! My friend and I are looking for a spacious master bedroom with an attached private",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2251644948733633",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Washington Heights"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 30,
+      "bio": "He works in maintenance at a Times Square theater and is quiet, clean, and low-key. Enjoys video games, basketball, cards, and movies, and has guinea pigs kept in a cage in his room.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251644948733633",
+      "posted_at": "Monday 19 October 2026 at 11:50",
+      "first_scraped_at": "2026-10-19T19:08:26.361951+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "30M looking for for someone to search for apartments with in the Washington Heights area.(Or if you have a room",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251644225400372",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-11-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Harlem",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term sublease until November 1st, currently located in Brooklyn and hoping to move closer to Manhattan. Also has a room available for sublease in Bushwick and can coordinate subleases.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251644225400372",
+      "posted_at": "Monday 19 October 2026 at 11:48",
+      "first_scraped_at": "2026-10-19T19:08:26.361951+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "A ROOM IN MANHATTAN SUBLEASING MY ROOM IN BROOKLYN Hi everyone! I\u2019m urgently looking for a room to sublease ASAP",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251620862069375",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-03-31",
+      "budget_min": 1500,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Upper West Side",
+        "Midtown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "internship",
+      "age": 25,
+      "bio": "He is a 25-year-old architect in New York for a six-month internship at OMA New York. Clean, respectful and easygoing, he enjoys architecture and design and is comfortable sharing an apartment with people from different backgrounds.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251620862069375",
+      "posted_at": "Monday 19 October 2026 at 11:14",
+      "first_scraped_at": "2026-10-19T19:08:26.361951+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room in NYC November\u2013March Hi everyone! I\u2019m Riccardo, 25, originally from Italy, and currently living in New York for a",
+      "group_id": "149460102285472"
     }
   ]
 }
