@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T16:14:02.722839",
-  "count": 814,
+  "updated_at": "2026-10-18T17:15:41.731537",
+  "count": 816,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -25540,6 +25540,68 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "SEMIBASEMENT 5 Cuartos Sala Cocina 3 Ba\u00f1os 4,900 DIRECCION 340 58th street Llamar al 3473287374 See less See translation",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28593087847027363",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1700,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-01",
+      "available_until": "2026-11-30",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "pool",
+        "gym",
+        "rooftop",
+        "sky_lounge"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female preferred",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28593087847027363",
+      "posted_at": "Sunday 18 October 2026 at 16:57",
+      "first_scraped_at": "2026-10-19T00:08:46.029015+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "in Newport, Jersey City November Only $1,700/mo Private flex room in our 1 bed 1 bath flex apartment (2-bedroom setup)",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28593076837028464",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": null,
+      "area": null,
+      "available_from": "2026-11-18",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "private_bathroom",
+        "in_unit_laundry",
+        "closet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28593076837028464",
+      "posted_at": "Sunday 18 October 2026 at 16:56",
+      "first_scraped_at": "2026-10-19T00:08:46.029015+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "in Carlstadt, NJ $1,300/month (Girls Only) Hi everyone! I'm moving out and looking for a girl to take over my",
+      "group_id": "765841576845364"
     }
   ]
 }
