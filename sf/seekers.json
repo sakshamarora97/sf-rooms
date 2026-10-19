@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T08:07:03.121561",
-  "count": 3189,
+  "updated_at": "2026-10-19T09:07:17.831121",
+  "count": 3190,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98619,6 +98619,37 @@
       "first_scraped_at": "2026-10-19T13:00:03.697647+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "daughter is junior at UC Berkeley studying CogSci. I am urgently looking for a private room and need to move",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1391934052706838",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "2B2B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Emeryville",
+        "South Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "The author is looking for a female roommate to sign a new lease for a 2BR (2B/2B or 2B/1B) in Emeryville/South Berkeley, with move-in on 2026-11-01 and a budget under $4000 for the whole unit. They prefer someone who is clean, considerate, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1391934052706838",
+      "posted_at": "Monday 19 October 2026 at 08:18",
+      "first_scraped_at": "2026-10-19T16:00:03.627914+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Female Roommate in Emeryville/South west Berkeley, CA! Hi everyone! I\u2019m planning to sign a new lease for a 2B/2B or",
       "group_id": "558742412692677"
     }
   ]
