@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-18T18:08:17.436027",
-  "count": 3174,
+  "updated_at": "2026-10-18T19:07:02.760144",
+  "count": 3175,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98163,6 +98163,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommate: mid 20s Hi all! I'm looking for a female roommate to apply with me for a 2bd/2ba at Hanover",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4752065845028418",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "3B2B",
+        "2B2B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works from home, is fairly clean and introverted, enjoys working out and playing sports, and is open to occasionally hosting events.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4752065845028418",
+      "posted_at": "Sunday 18 October 2026 at 18:07",
+      "first_scraped_at": "2026-10-19T02:00:03.155153+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to move to San Francisco and am looking for a potential roommate/2 roommates to go apt hunting with. I'd prefer",
+      "group_id": "2176716625896699"
     }
   ]
 }
