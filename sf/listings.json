@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T06:11:43.709677",
-  "count": 2587,
+  "updated_at": "2026-10-19T07:07:49.070831",
+  "count": 2589,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -85883,6 +85883,34 @@
       "group_id": "2176716625896699"
     },
     {
+      "listing_id": "4752326198335716",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2450,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Brady",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4752326198335716",
+      "posted_at": "Sunday 18 October 2026 at 23:50",
+      "first_scraped_at": "2026-10-19T13:00:03.697647+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Mark! I\u2019m 25 and working as a swe at a tech company and am looking for a roommate to join",
+      "group_id": "2176716625896699"
+    },
+    {
       "listing_id": "28756791360644812",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -86213,6 +86241,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "IN EMERYVILLE $1,110/MONTH Hi everyone! I'm graduating this Fall and am looking for someone to take over my portion of",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2036634260361479",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1750,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2025-11-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop",
+        "gym",
+        "courtyard"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": "Avalon Apartments",
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2036634260361479",
+      "posted_at": "Monday 19 October 2026 at 00:22",
+      "first_scraped_at": "2026-10-19T14:00:05.905781+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "FEMALE flatmate to join our shared 3b2b townhouse in Avalon Hayes Valley, SF! Hi everyone! We\u2019re a group of recent",
+      "group_id": "242765489748374"
     }
   ]
 }
