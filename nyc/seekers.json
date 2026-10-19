@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-19T08:14:42.228396",
-  "count": 339,
+  "updated_at": "2026-10-19T09:16:13.050523",
+  "count": 340,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -10193,6 +10193,35 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "(22F), and I\u2019m looking for 1-2 roommates to apartment hunt with in the JC area! I\u2019m ideally looking for a",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2251496035415191",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-12-01",
+      "budget_min": 2300,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Stuyvesant Town"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent 22-year-old graduate working in tech who is tidy, pet-free, social, enjoys exploring food, matcha, concerts, and works from her office 3-4 days a week.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251496035415191",
+      "posted_at": "Monday 19 October 2026 at 08:33",
+      "first_scraped_at": "2026-10-19T16:07:22.256363+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "dec 1! Hi I\u2019m Impana! I\u2019m looking for 2 female roommates to sign a year-long lease for a 3b1b in",
+      "group_id": "149460102285472"
     }
   ]
 }
