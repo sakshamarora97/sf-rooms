@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T22:17:31.001742",
-  "count": 332,
+  "updated_at": "2026-10-19T06:19:24.400874",
+  "count": 333,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -9981,6 +9981,35 @@
       "first_scraped_at": "2026-10-19T05:09:39.016073+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Arnav and I\u2019m a 2025 university of Virginia graduate looking to move to New York some time in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251324235432371",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2100,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "She is 28 and works in HR for a luxury fashion brand. She is bubbly, outgoing, active (run club, volleyball), enjoys yoga and the nightlife.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251324235432371",
+      "posted_at": "Monday 19 October 2026 at 04:57",
+      "first_scraped_at": "2026-10-19T13:11:48.753648+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommate in Williamsburg! 11/1- cute apartment next to Kellogg! Hiii!! I have an apartment that I found an apartment that",
       "group_id": "149460102285472"
     }
   ]
