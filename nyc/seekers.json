@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-18T18:15:46.271690",
-  "count": 327,
+  "updated_at": "2026-10-18T19:16:26.616458",
+  "count": 329,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -9832,6 +9832,65 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "looking for a place to move to in the middle of November. I would like to live close to a",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2250911338806994",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bayside"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent Columbia graduate working in neonatal research in a hybrid role in New Hyde Park. Prefers a clean, early-rising household, enjoys reading, thrifting, coffee, and exploring the city; hopes for a social apartment on weekends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250911338806994",
+      "posted_at": "Sunday 18 October 2026 at 18:17",
+      "first_scraped_at": "2026-10-19T02:07:06.698718+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in Queens Hi! I'm Maryum. I'm a recent Columbia graduate working in New Hyde Park. I'm looking for a roommate",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2250908225473972",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": 19,
+      "bio": "19-year-old student seeking a room or roommates; prefers Brooklyn or Queens near transit, budget $1,300/month, available to move by 2026-11-01. Gay and 420-friendly.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2250908225473972",
+      "posted_at": "Sunday 18 October 2026 at 18:12",
+      "first_scraped_at": "2026-10-19T02:07:06.698718+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "currently looking for either a room to rent or roommates to find a place with. I am 19 and currently",
+      "group_id": "149460102285472"
     }
   ]
 }
