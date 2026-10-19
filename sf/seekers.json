@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T13:09:08.748779",
-  "count": 3192,
+  "updated_at": "2026-10-19T14:07:30.739636",
+  "count": 3193,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98713,6 +98713,33 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "is Danny I\u2019m 25yo looking for sublet short-term rental for 1-2 months starting Nov 1st or sooner. About Me -Chill",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2037201886971383",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 999,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are visually impaired and a federal medical marijuana patient. Seeking an affordable apartment (<$1000) that accepts Section 8, is medical-marijuana friendly, has lights, and is close to transit.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037201886971383",
+      "posted_at": "Monday 19 October 2026 at 13:48",
+      "first_scraped_at": "2026-10-19T21:00:03.087512+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for an affordable apartment for less than $1000 in the East Bay or SF. The owner must be amenable",
+      "group_id": "242765489748374"
     }
   ]
 }

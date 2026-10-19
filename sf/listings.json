@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T13:09:08.748779",
-  "count": 2599,
+  "updated_at": "2026-10-19T14:07:30.739636",
+  "count": 2601,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86602,6 +86602,70 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Lease Transfer Available in Berkeley Spring 2027 Hi everyone, I\u2019m looking for someone to take over my lease for the",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2037198540305051",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1500,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-05",
+      "available_until": "2026-11-30",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "furnished_kitchen",
+        "sofa_in_living_room"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037198540305051",
+      "posted_at": "Monday 19 October 2026 at 13:42",
+      "first_scraped_at": "2026-10-19T21:00:03.087512+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "2b1b Nov 5 to 30 Hey I am subleasing a bedroom in SOMA between 6/7th street kitchen is furnished along",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2037195100305395",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "parking",
+        "kitchen_equipped",
+        "weekly_cleaning",
+        "internet"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037195100305395",
+      "posted_at": "Monday 19 October 2026 at 13:35",
+      "first_scraped_at": "2026-10-19T21:00:03.087512+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "ALUGAR EM DALY CITY $1.250/M\u00caS Dispon\u00edvel para entrada imediata! Quarto privativo e mobiliado, com banheiro compartilhado com apenas 1 mulher,",
+      "group_id": "242765489748374"
     }
   ]
 }
