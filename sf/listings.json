@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T20:07:25.404674",
-  "count": 2606,
+  "updated_at": "2026-10-19T21:07:40.018798",
+  "count": 2607,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86829,6 +86829,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "1 bath for rent- near shattuck ave and changing way 8 min walk to downtown Berkeley BART and \u00dc\u00c7 Berkeley",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2037396963618542",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2400,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "dishwasher",
+        "laundry_on_same_floor",
+        "parking",
+        "garage_parking",
+        "corner_unit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037396963618542",
+      "posted_at": "Monday 19 October 2026 at 19:56",
+      "first_scraped_at": "2026-10-20T04:00:04.107938+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for someone to join my roommate in a 2 bed/2 bath in Rincon Hill/South Beach Area. I\u2019ll be leaving and",
+      "group_id": "242765489748374"
     }
   ]
 }

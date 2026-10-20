@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T20:07:25.404674",
-  "count": 3194,
+  "updated_at": "2026-10-19T21:07:40.018798",
+  "count": 3195,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98767,6 +98767,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "who\u2019s a junior in college will be starting an internship with Lawrence Berkeley National Lab and looking for a private",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2037415573616681",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Mission Bay",
+        "SoMa",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent University of Chicago graduate starting a job in Palo Alto. Enjoys reading, running, exploring the city, and trying new restaurants; looking for friendly, clean roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037415573616681",
+      "posted_at": "Monday 19 October 2026 at 20:25",
+      "first_scraped_at": "2026-10-20T04:00:04.107938+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate in SF! Hi everyone! I'm looking for a female roommate (or roommates) to find an apartment together in San",
+      "group_id": "242765489748374"
     }
   ]
 }
