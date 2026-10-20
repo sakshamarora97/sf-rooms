@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T08:05:42.074703",
-  "count": 2614,
+  "updated_at": "2026-10-20T09:05:25.192332",
+  "count": 2615,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86930,6 +86930,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Lower Pac Heights! $1,350/mo GIRLS ONLY Hi!! We\u2019re looking for a new roomie to join our 4-bedroom apartment in Lower",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2037566850268220",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "rent_controlled"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037566850268220",
+      "posted_at": "Tuesday 20 October 2026 at 00:33",
+      "first_scraped_at": "2026-10-20T13:00:07.045210+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Lower Pac Heights! $1,350/mo GIRLS ONLY Hi!! We\u2019re looking for a new roomie to join our 4-bedroom apartment in Lower",
+      "group_id": "242765489748374"
     },
     {
       "listing_id": "2037527603605478",
