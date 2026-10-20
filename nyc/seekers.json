@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-19T19:18:33.865793",
-  "count": 352,
+  "updated_at": "2026-10-19T21:21:59.708851",
+  "count": 359,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -10576,6 +10576,225 @@
       "first_scraped_at": "2026-10-20T00:06:09.864296+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "BAY RIDGE AREA Hello everyone, I am currently looking to rent a small, cozy apartment for my family in the",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2906795136353418",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room in Newport for double occupancy. Needs to move in by 2026-10-31 with a budget under $2000 and asks to be contacted via DM for leads.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2906795136353418",
+      "posted_at": "Monday 19 October 2026 at 20:11",
+      "first_scraped_at": "2026-10-20T04:07:44.447556+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "a private room in Newport (double occupancy) Move in date: Oct 31st or before Budget: Under $2000. If any leads,",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2906746799691585",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-08",
+      "move_out_date": "2026-11-11",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a short-term sublet in Newport for their parents visiting November 8\u201311.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2906746799691585",
+      "posted_at": "Monday 19 October 2026 at 19:00",
+      "first_scraped_at": "2026-10-20T04:07:44.447556+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "sublet from 8-11 November Hello everyone, I am looking for a 1b1b or studio from 8th to 11th November in",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2251930558705072",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-11-25",
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Flatiron",
+        "Gramercy",
+        "Chelsea",
+        "Kips Bay",
+        "Murray Hill",
+        "Chinatown",
+        "Greenwich Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "other",
+      "age": 23,
+      "bio": "They are a 23-year-old product manager from San Francisco at a design software company. They are tidy and enjoy sewing, hiking, hot yoga, hosting home cafes, and dancing at a studio.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251930558705072",
+      "posted_at": "Monday 19 October 2026 at 20:05",
+      "first_scraped_at": "2026-10-20T04:07:44.447556+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "am looking for a short term sublease Nov 1 Nov 25th for work. My budget is 2k and I work",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251894138708714",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2 bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Gramercy",
+        "Lower East Side",
+        "Flatiron"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "He graduated from UT Austin and works in big tech. He is generally quiet, out at the office on weekdays, keeps shared spaces tidy, and enjoys soccer, tennis, clothes, and going out sometimes.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251894138708714",
+      "posted_at": "Monday 19 October 2026 at 19:08",
+      "first_scraped_at": "2026-10-20T04:07:44.447556+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommate for November lease Hi! My name is Fayed, I'm 23 and moving to nyc in November, I'm looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251827772048684",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Williamsburg",
+        "DUMBO",
+        "Vinegar Hill"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "She works in experiential marketing and as a fitness instructor, recently moved from Los Angeles and is searching for a roommate or available room. She describes herself as clean, tidy, communicative and considerate of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251827772048684",
+      "posted_at": "Monday 19 October 2026 at 17:12",
+      "first_scraped_at": "2026-10-20T04:07:44.447556+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "ROOMMATES AVAILABLE ROOM IN A 2\u20133 BED APARTMENT ASAP NOV 1 MOVE-IN! Hii everyone! I'm Hope, 24, and looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28608399915496156",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-03",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a short-term 1B1B rental for 1.5 months with immediate move-in.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28608399915496156",
+      "posted_at": "Monday 19 October 2026 at 19:57",
+      "first_scraped_at": "2026-10-20T04:07:44.447556+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "need to rent a 1B1B apartment for rent for 1.5 months. Move in is immediately and the rent is $2600",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "991125246691485",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "room",
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Williamsburg",
+        "Downtown Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a studio or true room takeover with flexible 11/1\u201311/16 move-in and $2,000\u2013$3,000 budget. Has 760+ credit score, no pets, and responds quickly.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/991125246691485",
+      "posted_at": "Monday 19 October 2026 at 19:06",
+      "first_scraped_at": "2026-10-20T04:07:44.447556+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "true room takeover!! $2000-3000 budget; anywhere below Central Park in Manhattan, Williamsburg, Downtown Brooklyn/ surrounding areas:) flexible movein date of",
       "group_id": "312692887868061"
     }
   ]
