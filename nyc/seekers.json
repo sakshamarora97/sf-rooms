@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-20T14:14:25.837586",
-  "count": 378,
+  "updated_at": "2026-10-20T15:15:56.590787",
+  "count": 379,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -11360,6 +11360,35 @@
       "first_scraped_at": "2026-10-20T21:06:00.844777+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "furnished private room in NYC starting November 1st. Queens Brooklyn Budget: Up to $1,400/month Utilities included DM me with photos,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2252690645295730",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Greenpoint"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Freelance TV and digital producer who enjoys exploring NYC, trying new restaurants, and attending events. Seeking friendly, considerate, tidy roommates who are social but respect personal space.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2252690645295730",
+      "posted_at": "Tuesday 20 October 2026 at 14:26",
+      "first_scraped_at": "2026-10-20T22:07:05.040279+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommates for a 3BR in Greenpoint! Move-in Nov 1 I'm looking for two roommates to apply for a 3-bedroom apartment",
       "group_id": "149460102285472"
     }
   ]
