@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T14:05:56.313564",
-  "count": 3205,
+  "updated_at": "2026-10-20T15:07:00.285238",
+  "count": 3208,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99105,6 +99105,94 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "TERM HOUSING NEAR BERKELEY NOV 1ST MOVE IN Hi there, I'm a 20 year old student and barista moving up",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4754222254812777",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "private room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Works full-time in tech with frequent client visits, freelances in film/video production, fitness enthusiast, early riser, clean and respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4754222254812777",
+      "posted_at": "Tuesday 20 October 2026 at 12:59",
+      "first_scraped_at": "2026-10-20T22:00:05.485639+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "My name is Chris, and I'm currently looking for a new place to call home in the Bay Area! A",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2038134930211412",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "They work in medical device sales, are 24, enjoy music, coffee, wine, spontaneous activities and game nights. Moving to the city to surf, hike and join the startup scene.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2038134930211412",
+      "posted_at": "Tuesday 20 October 2026 at 14:16",
+      "first_scraped_at": "2026-10-20T22:00:05.485639+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommates! Howdy! Im looking for apartments roommates (2 to 3 of them, M or F) I\u2019m from Kansas City, and",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2038023783555860",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private room",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recent master's graduate in Data Science from Vanderbilt, friendly, easygoing, clean, and respectful of shared spaces, enjoys coffee shops and tech projects.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2038023783555860",
+      "posted_at": "Tuesday 20 October 2026 at 11:09",
+      "first_scraped_at": "2026-10-20T22:00:05.485639+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room in SF Move-in Before December Hi everyone! I\u2019m looking for a private room in a shared apartment in San",
+      "group_id": "242765489748374"
     }
   ]
 }

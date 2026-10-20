@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T14:05:56.313564",
-  "count": 2625,
+  "updated_at": "2026-10-20T15:07:00.285238",
+  "count": 2626,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -87445,6 +87445,44 @@
       "first_scraped_at": "2026-10-20T20:00:03.785057+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Hi!! I am going abroad and looking for a subletter for the upcoming Spring semester from Jan-May! I have a",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1393050919261818",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Emeryville",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "parking",
+        "outdoor_heated_pools",
+        "indoor_hot_tubs",
+        "outdoor_hot_tubs",
+        "sauna",
+        "fitness_center",
+        "tennis_courts",
+        "racquetball_courts",
+        "ping_pong_tables"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Watergate",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1393050919261818",
+      "posted_at": "Tuesday 20 October 2026 at 14:49",
+      "first_scraped_at": "2026-10-20T22:00:05.485639+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Rent at Watergate Available December 2026 $1,900/month Hi everyone! (Posting on behalf of my friend) My friend is offering a",
       "group_id": "558742412692677"
     }
   ]
