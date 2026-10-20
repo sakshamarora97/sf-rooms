@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T17:06:05.600424",
-  "count": 3193,
+  "updated_at": "2026-10-19T18:06:02.817517",
+  "count": 3194,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98740,6 +98740,33 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for an affordable apartment for less than $1000 in the East Bay or SF. The owner must be amenable",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1392247592675484",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "He is a college junior starting an internship at Lawrence Berkeley National Lab and seeks a private room sublease January\u2013April/May 2027. Prefers placements within the UC Berkeley student community within walking distance to the lab or near BART.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1392247592675484",
+      "posted_at": "Monday 19 October 2026 at 17:16",
+      "first_scraped_at": "2026-10-20T01:00:05.510950+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "who\u2019s a junior in college will be starting an internship with Lawrence Berkeley National Lab and looking for a private",
+      "group_id": "558742412692677"
     }
   ]
 }
