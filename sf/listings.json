@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T19:05:48.657732",
-  "count": 2604,
+  "updated_at": "2026-10-19T20:07:25.404674",
+  "count": 2606,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86765,6 +86765,69 @@
       "first_scraped_at": "2026-10-20T00:00:03.593861+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "blocks from the UC Berkeley campus Private Rooms starting at $1695 Shared Rooms starting at $970 Spring Semester 12-month leases",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4753240241577645",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2200,
+      "neighborhood": "Potrero Hill",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2027-03-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "laundry_in_building"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4753240241577645",
+      "posted_at": "Monday 19 October 2026 at 18:06",
+      "first_scraped_at": "2026-10-20T02:00:06.785146+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in Potrero Hill, SF December\u2013March Hi everyone! I\u2019m looking to sublease my room in a fully furnished 2 bed, 2",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1392337215999855",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "washer_and_dryer",
+        "parking",
+        "furnished",
+        "newly_renovated"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1392337215999855",
+      "posted_at": "Monday 19 October 2026 at 20:01",
+      "first_scraped_at": "2026-10-20T03:00:03.329387+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "1 bath for rent- near shattuck ave and changing way 8 min walk to downtown Berkeley BART and \u00dc\u00c7 Berkeley",
       "group_id": "558742412692677"
     }
   ]
