@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T10:07:33.378418",
-  "count": 2618,
+  "updated_at": "2026-10-20T11:07:29.579796",
+  "count": 2620,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -87220,6 +87220,72 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "available in Daly City With parking space, utilities included will be available on Nov 1 For $1300/ month",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2037985906892981",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 990,
+      "neighborhood": "Outer Sunset",
+      "area": "San Francisco",
+      "available_from": "2026-10-31",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_bathroom",
+        "shared_kitchen",
+        "shared_living_room",
+        "near_ocean_beach",
+        "near_public_transit",
+        "near_stores"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037985906892981",
+      "posted_at": "Tuesday 20 October 2026 at 10:11",
+      "first_scraped_at": "2026-10-20T18:00:02.749657+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Female Roommate Shared Bedroom Sunset District, SF Hey everyone! I\u2019m looking for a friendly female roommate to share a spacious",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2037979200226985",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2600,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2027-01-01",
+      "unit_config": "2B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "parking",
+        "in_unit_wifi"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037979200226985",
+      "posted_at": "Tuesday 20 October 2026 at 10:02",
+      "first_scraped_at": "2026-10-20T18:00:02.749657+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in Dogpatch: Private Bedroom Bath Parking** I'm looking for a late 20s/early 30s roommate to share my 2BR/2.5BA condo in",
+      "group_id": "242765489748374"
     }
   ]
 }
