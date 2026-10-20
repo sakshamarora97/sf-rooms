@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-20T08:15:34.197927",
-  "count": 364,
+  "updated_at": "2026-10-20T09:16:30.228971",
+  "count": 367,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -10942,6 +10942,94 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "in between leases and am looking for a 1 bedroom apartment practically anywhere in manhattan, preferably downtown. Flexible on rent.",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2252427835322011",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-06-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are entering banking and seeking 2\u20133 roommates to split an apartment in Brooklyn or Manhattan starting next summer (June/July).",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2252427835322011",
+      "posted_at": "Tuesday 20 October 2026 at 08:13",
+      "first_scraped_at": "2026-10-20T16:05:29.392360+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in Brooklyn, Manhattan, or the Bronx starting next summer June/July. I'm going into banking, ideally looking for 2-3 people with",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2252420248656103",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-11-24",
+      "budget_min": 2500,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Midtown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Seeking a short-term rental Nov 1\u201324 while starting a new job on Nov 2; flexible budget around $2,500 and prefers Midtown or Downtown Manhattan.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2252420248656103",
+      "posted_at": "Tuesday 20 October 2026 at 08:04",
+      "first_scraped_at": "2026-10-20T16:05:29.392360+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "term NYC rental Nov 1-24 Hi guys! I am in search of a short term rental Nov 1-24!! My budget",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28616137261389088",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a female renter seeking a private bedroom with a private bathroom in a 2B2B or 3B2B shared with female roommates in Jersey City or Harrison. She is comfortable with non-vegetarian cooking at home.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28616137261389088",
+      "posted_at": "Tuesday 20 October 2026 at 09:08",
+      "first_scraped_at": "2026-10-20T16:05:29.392360+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "am looking for a private bedroom with a private bath (attached or non attached) preferably in 2b2b or 3b2b shared",
+      "group_id": "765841576845364"
     }
   ]
 }
