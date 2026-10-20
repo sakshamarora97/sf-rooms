@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-19T16:16:03.439581",
-  "count": 347,
+  "updated_at": "2026-10-19T17:19:10.465793",
+  "count": 352,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -10426,6 +10426,156 @@
       "first_scraped_at": "2026-10-19T23:06:20.666482+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "24-year-old female moving to White Plains, NY, for a new job in November. I\u2019m looking for a private bedroom in",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2251820238716104",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover",
+        "sublet",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "She is a 22-year-old recent fashion design graduate moving to NYC for full-time work. She values cleanliness and privacy but is social, and enjoys reading, art, cooking, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251820238716104",
+      "posted_at": "Monday 19 October 2026 at 17:00",
+      "first_scraped_at": "2026-10-20T00:06:09.864296+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "TAKEOVER, LONG-TERM SUBLET, and/or FEMALE ROOMMATES Hi!! My names Alexandra, I\u2019m 22 years old and moving to NYC for work",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251794618718666",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old nonprofit employee working hybrid in Manhattan. Lived in the city a little over a year; easygoing, tidy, social, enjoys crafting, reading, and volunteering, and has a friendly cat.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251794618718666",
+      "posted_at": "Monday 19 October 2026 at 16:09",
+      "first_scraped_at": "2026-10-20T00:06:09.864296+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Hey everyone! I\u2019m Zoe, 26, and I\u2019m looking to take over an existing lease with 1-2 roommates, but I\u2019m also",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251790018719126",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are three post-grads in their early 20s who are social, easygoing, and enjoy going out. They are looking for one roommate to find an apartment in Lower Manhattan with a target move-in of 2026-12-01.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251790018719126",
+      "posted_at": "Monday 19 October 2026 at 16:01",
+      "first_scraped_at": "2026-10-20T00:06:09.864296+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "4th Roommate in Lower Manhattan. Hey everyone, we\u2019re three guys post-grad in our early 20s looking for a one more",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2251732685391526",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": "2026-07-01",
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Washington Heights"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a furnished 1-bedroom or studio in Washington Heights or Bronx areas, needs the spot until July 1st, budget up to $2100/month, not looking for a roommate.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2251732685391526",
+      "posted_at": "Monday 19 October 2026 at 14:13",
+      "first_scraped_at": "2026-10-20T00:06:09.864296+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for a 1bed or studio apartment in the South Bronx/Fordham/Riverdale or Washington Heights area. I would prefer for it to",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "991040020033341",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Bay Ridge",
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking to rent a small, cozy 2-bedroom apartment for their family in Brooklyn, specifically Bay Ridge, near St. George Coptic Orthodox Church.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/991040020033341",
+      "posted_at": "Monday 19 October 2026 at 16:22",
+      "first_scraped_at": "2026-10-20T00:06:09.864296+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "BAY RIDGE AREA Hello everyone, I am currently looking to rent a small, cozy apartment for my family in the",
       "group_id": "312692887868061"
     }
   ]
