@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-20T10:19:03.495642",
-  "count": 369,
+  "updated_at": "2026-10-20T11:17:17.245855",
+  "count": 371,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -11089,6 +11089,71 @@
       "first_scraped_at": "2026-10-20T17:07:37.766133+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Apartment or Roommates in NYC! Hi everyone! I\u2019m Marie, I\u2019m French and I\u2019m 24 years old and I\u2019m looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2252546985310096",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-31",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Astoria"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": null,
+      "age": 30,
+      "bio": "She is a 30-year-old full-time server from Spain who is tidy, social, and usually works evenings. She has a friendly cat, brings bedroom furniture, and likes music, TV, and food.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2252546985310096",
+      "posted_at": "Tuesday 20 October 2026 at 10:47",
+      "first_scraped_at": "2026-10-20T18:07:34.083628+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "share 2bed Hi! I\u2019m a 30F full time server with a very cute cat (Mayo) looking for a room in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2252525441978917",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Williamsburg",
+        "Chelsea",
+        "Upper West Side",
+        "Upper East Side",
+        "Kips Bay"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "She is moving from San Diego to New York for an internship starting in January and is looking to move a bit early. She seeks a furnished sublet and can provide a guarantor if needed.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2252525441978917",
+      "posted_at": "Tuesday 20 October 2026 at 10:16",
+      "first_scraped_at": "2026-10-20T18:07:34.083628+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Dec 1st Mar/April/May Hi! I'm moving to NY from San Diego, CA, for an internship in Jan, and I'm hoping",
       "group_id": "149460102285472"
     }
   ]
