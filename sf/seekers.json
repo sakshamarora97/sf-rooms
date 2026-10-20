@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T15:07:00.285238",
-  "count": 3208,
+  "updated_at": "2026-10-20T16:07:18.733408",
+  "count": 3209,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99193,6 +99193,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room in SF Move-in Before December Hi everyone! I\u2019m looking for a private room in a shared apartment in San",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4754300178138318",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Civic Center"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old middle school engineering/robotics teacher at a tech-focused private school transitioning into technical communication. Active and social, enjoys volleyball, concerts, hiking, dancing, roller skating, hosts board game nights, and practices guitar and voice.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4754300178138318",
+      "posted_at": "Tuesday 20 October 2026 at 14:46",
+      "first_scraped_at": "2026-10-20T23:00:05.294601+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Wade, I'm 27 and working as a middle school teacher. I'm looking for a roommate to join in on a",
+      "group_id": "2176716625896699"
     }
   ]
 }
