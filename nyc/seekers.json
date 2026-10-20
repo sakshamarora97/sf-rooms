@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-20T09:16:30.228971",
-  "count": 367,
+  "updated_at": "2026-10-20T10:19:03.495642",
+  "count": 369,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -11030,6 +11030,66 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "am looking for a private bedroom with a private bath (attached or non attached) preferably in 2b2b or 3b2b shared",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2252470345317760",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": 1700,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "She is a 25-year-old working in the fashion industry in an in-office role five days a week. She describes herself as very clean, responsible, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2252470345317760",
+      "posted_at": "Tuesday 20 October 2026 at 09:04",
+      "first_scraped_at": "2026-10-20T17:07:37.766133+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Hi i'm Hailee! Im looking to sublease a place in Brooklyn/Manhattan for the months of November and December with some",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2252442345320560",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "She is a 24-year-old from France seeking an apartment or shared apartment in Manhattan; responsible, clean, respectful, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2252442345320560",
+      "posted_at": "Tuesday 20 October 2026 at 08:29",
+      "first_scraped_at": "2026-10-20T17:07:37.766133+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Apartment or Roommates in NYC! Hi everyone! I\u2019m Marie, I\u2019m French and I\u2019m 24 years old and I\u2019m looking for",
+      "group_id": "149460102285472"
     }
   ]
 }
