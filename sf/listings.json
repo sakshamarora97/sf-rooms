@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T16:06:16.542289",
-  "count": 2603,
+  "updated_at": "2026-10-19T17:06:05.600424",
+  "count": 2604,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86729,6 +86729,43 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Prime San Francisco Location Russian Hill Park) Hi everyone! I\u2019m looking to sublet my cozy studio apartment located at 2355",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1392106816022895",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 970,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "furnished",
+        "balcony",
+        "keyless_entry",
+        "security_cameras",
+        "online_maintenance",
+        "parking",
+        "modern_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1392106816022895",
+      "posted_at": "Monday 19 October 2026 at 12:33",
+      "first_scraped_at": "2026-10-20T00:00:03.593861+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "blocks from the UC Berkeley campus Private Rooms starting at $1695 Shared Rooms starting at $970 Spring Semester 12-month leases",
+      "group_id": "558742412692677"
     }
   ]
 }
