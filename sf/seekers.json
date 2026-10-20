@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T12:05:57.355607",
-  "count": 3203,
+  "updated_at": "2026-10-20T13:08:16.087036",
+  "count": 3205,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99044,6 +99044,67 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "TWO OPEN ROOMS Hi everyone We are urgently looking for housing to start a lease with some girls. Preferably starting",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28766073126383302",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-24",
+      "move_out_date": "2026-11-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28766073126383302",
+      "posted_at": "Tuesday 20 October 2026 at 09:35",
+      "first_scraped_at": "2026-10-20T20:00:03.785057+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "subletting their place in SF for the period Oct 24 Nov 1? DM me if so.",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1392971602603083",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "month-to-month"
+      ],
+      "preferred_neighborhoods": [
+        "Albany",
+        "Berkeley",
+        "Emeryville",
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": 20,
+      "bio": "A 20-year-old student and barista moving to the East Bay for school, seeking a short-term sublet or room from Nov 1 to mid-January.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1392971602603083",
+      "posted_at": "Tuesday 20 October 2026 at 12:22",
+      "first_scraped_at": "2026-10-20T20:00:03.785057+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "TERM HOUSING NEAR BERKELEY NOV 1ST MOVE IN Hi there, I'm a 20 year old student and barista moving up",
+      "group_id": "558742412692677"
     }
   ]
 }
