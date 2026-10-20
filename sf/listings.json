@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T21:07:40.018798",
-  "count": 2607,
+  "updated_at": "2026-10-19T22:06:04.441948",
+  "count": 2608,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -86863,6 +86863,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for someone to join my roommate in a 2 bed/2 bath in Rincon Hill/South Beach Area. I\u2019ll be leaving and",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1392405269326383",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-08-21",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "private_kitchen",
+        "living_room",
+        "furnished"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "The Standard at Berkeley",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1392405269326383",
+      "posted_at": "Monday 19 October 2026 at 21:58",
+      "first_scraped_at": "2026-10-20T05:00:04.847899+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "BERKELEY HOUSING Anyone starting to look for housing for the 2027\u20132028 school year? Looking for someone interested in taking over",
+      "group_id": "558742412692677"
     }
   ]
 }
