@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-19T22:06:04.441948",
-  "count": 3195,
+  "updated_at": "2026-10-20T06:08:01.735852",
+  "count": 3196,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -98798,6 +98798,38 @@
       "first_scraped_at": "2026-10-20T04:00:04.107938+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommate in SF! Hi everyone! I'm looking for a female roommate (or roommates) to find an apartment together in San",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2037436856947886",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "North Beach",
+        "Nob Hill",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old software company employee at Yardi from Santa Barbara who enjoys watching sports, hanging out with friends, playing golf, and going to the gym.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2037436856947886",
+      "posted_at": "Monday 19 October 2026 at 20:58",
+      "first_scraped_at": "2026-10-20T13:00:07.045210+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate in SF! Hi everyone! My name is Jimmy Wimbish and I'm looking for a male roommate (or roommates) to",
       "group_id": "242765489748374"
     }
   ]
