@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T15:10:39.567432",
-  "count": 3225,
+  "updated_at": "2026-10-21T16:08:14.908956",
+  "count": 3226,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99703,6 +99703,33 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "term furnished sublet Hi all! I\u2019ll be moving to the Bay for work next month and am looking for a",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2039076183450620",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "New graduate starting a job in San Francisco in January 2027, seeking a room in a shared apartment.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2039076183450620",
+      "posted_at": "Wednesday 21 October 2026 at 14:50",
+      "first_scraped_at": "2026-10-21T23:00:03.277651+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "shared apartment in San Francisco for son who will be joining starting Jan 2027 as new grad for a firm",
+      "group_id": "242765489748374"
     }
   ]
 }
