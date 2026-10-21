@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T14:07:40.444376",
-  "count": 3224,
+  "updated_at": "2026-10-21T15:10:39.567432",
+  "count": 3225,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99675,6 +99675,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Isabel, I\u2019m 24, and I\u2019m looking to move to San Francisco in November! I recently earned my multiple subject teaching",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28775977832059498",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-13",
+      "move_out_date": "2027-01-31",
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent college graduate starting a software engineering job in the South Bay. Quiet weekday evenings, active (gym/runs), values cleanliness and likes exploring restaurants and coffee shops.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28775977832059498",
+      "posted_at": "Wednesday 21 October 2026 at 14:01",
+      "first_scraped_at": "2026-10-21T22:00:03.440000+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "term furnished sublet Hi all! I\u2019ll be moving to the Bay for work next month and am looking for a",
+      "group_id": "843764532374203"
     }
   ]
 }
