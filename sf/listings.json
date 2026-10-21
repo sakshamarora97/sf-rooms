@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T18:06:24.522735",
-  "count": 2629,
+  "updated_at": "2026-10-20T19:06:45.524095",
+  "count": 2630,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -87581,6 +87581,43 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "up again. I had an agreement with someone who canceled. It's available now, more or less.) $1100, includes utilities and",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1393156735917903",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 1316,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "fully_equipped_kitchen",
+        "air_conditioning",
+        "gym",
+        "bike_storage",
+        "trash_chutes",
+        "study_rooms",
+        "valet_trash"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1393156735917903",
+      "posted_at": "Tuesday 20 October 2026 at 18:24",
+      "first_scraped_at": "2026-10-21T02:00:03.669649+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "ASAP IN BERKELEY! Rent: $1,316.96/month Hi everyone! I\u2019m looking for someone to take over my room as I\u2019ll be moving",
+      "group_id": "558742412692677"
     }
   ]
 }
