@@ -749,7 +749,44 @@
 
 
   /* ── Mobile card layout ───────────────────────────────────────────────────── */
+  /* Card styles apply on every screen size: phones always use them, and the desktop list switches to them while the map is open
+     (the half-width list pane can't fit the table, which hid the View button and cut off columns). */
+  .m-card {
+    background: var(--surface);
+    border-radius: 10px;
+    box-shadow: 0 1px 4px var(--shadow);
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    scroll-margin-top: 12px;
+  }
+  .m-card.bookmarked { background: var(--row-bm); }
+  .m-card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+  .m-card-rent { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; color: var(--rent); font-variant-numeric: tabular-nums; }
+  .m-card-budget { font-size: 20px; font-weight: 800; letter-spacing: -0.5px; color: var(--rent); }
+  .m-card-posted { font-size: 12px; color: var(--text-4); text-align: right; flex-shrink: 0; }
+  .m-card-location { font-size: 15px; font-weight: 600; color: var(--text); }
+  .m-card-sub { font-size: 12px; color: var(--text-3); margin-top: 1px; }
+  .m-card-meta { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
+  .m-card-avail { font-size: 12px; color: var(--text-2); }
+  .m-card-hoods { display: flex; flex-wrap: wrap; gap: 4px; }
+  .m-card-bio { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .m-card-bio.m-open { display: block; -webkit-line-clamp: unset; overflow: visible; }
+  .m-card-amenities { font-size: 12px; color: var(--text-4); }
+  .m-card-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 2px; padding-top: 8px; border-top: 0.5px solid var(--border-4); }
   .mobile-list { display: none; }
+  #main-area.map-open .table-wrap { display: none !important; }
+  #main-area.map-open .mobile-list { display: flex; flex-direction: column; gap: 10px; }
+
+  /* Pin popup */
+  .map-pop { min-width: 190px; font-family: inherit; }
+  .map-pop-top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin-bottom: 3px; }
+  .map-pop-rent { font-weight: 800; font-size: 17px; color: #111; letter-spacing: -0.3px; }
+  .map-pop-time { font-size: 11px; color: #777; white-space: nowrap; }
+  .map-pop-loc { font-weight: 600; font-size: 13px; color: #222; }
+  .map-pop-sub { font-size: 12px; color: #666; margin-top: 1px; }
+  .map-pop a.btn-post { display: inline-block; margin-top: 8px; color: #fff !important; text-decoration: none; }
 
   @media (max-width: 767px) {
     .header-bridge { display: none; }
@@ -760,30 +797,6 @@
       flex-direction: column;
       gap: 10px;
     }
-    .m-card {
-      background: var(--surface);
-      border-radius: 10px;
-      box-shadow: 0 1px 4px var(--shadow);
-      padding: 14px;
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-      scroll-margin-top: 12px;
-    }
-    .m-card.bookmarked { background: var(--row-bm); }
-    .m-card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
-    .m-card-rent { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; color: var(--rent); font-variant-numeric: tabular-nums; }
-    .m-card-budget { font-size: 20px; font-weight: 800; letter-spacing: -0.5px; color: var(--rent); }
-    .m-card-posted { font-size: 12px; color: var(--text-4); text-align: right; flex-shrink: 0; }
-    .m-card-location { font-size: 15px; font-weight: 600; color: var(--text); }
-    .m-card-sub { font-size: 12px; color: var(--text-3); margin-top: 1px; }
-    .m-card-meta { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
-    .m-card-avail { font-size: 12px; color: var(--text-2); }
-    .m-card-hoods { display: flex; flex-wrap: wrap; gap: 4px; }
-    .m-card-bio { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-    .m-card-bio.m-open { display: block; -webkit-line-clamp: unset; overflow: visible; }
-    .m-card-amenities { font-size: 12px; color: var(--text-4); }
-    .m-card-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 2px; padding-top: 8px; border-top: 0.5px solid var(--border-4); }
   }
 
   @media (max-width: 600px) {
@@ -1502,7 +1515,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = 'a61d5890046f';
+const SITE_VERSION = 'e40c5bd88c70';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -1777,7 +1790,7 @@ function renderListings() {
       ? 'From ' + fmtDate(p.available_from) + (p.available_until ? ' → ' + fmtDate(p.available_until) : '')
       : '';
     const furnStr = p.is_furnished === true ? '<span class="tag tag-long" style="font-size:12px">Furnished</span>' : '';
-    const amenStr = p.amenities?.length ? `<div class="m-card-amenities">${p.amenities.map(a=>esc(a.replace(/_/g,' '))).join(', ')}</div>` : '';
+    const amenStr = p.amenities?.length ? `<div class="m-card-amenities">${amenitiesHtml(p.amenities)}</div>` : '';
     const viewUrl = p.post_url || '';
     const isProfile = viewUrl.includes('/user/');
     return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">
@@ -2144,6 +2157,21 @@ function initMapIfNeeded() {
   renderMap();
 }
 
+function pinPopupHtml(p, type) {
+  const url = p.post_url || '';
+  const isProfile = url.includes('/user/');
+  const link = url ? `<a class="btn-post${isProfile ? ' btn-post-profile' : ''}" href="${esc(url)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View post →'}</a>` : '';
+  const posted = fmtPostedAt(p.posted_at);
+  if (type === 'listings') {
+    const sub = [p.unit_config, (p.room_type || '').replace(/_/g, ' ')].filter(Boolean).join(' · ');
+    return `<div class="map-pop"><div class="map-pop-top"><span class="map-pop-rent">${p.rent != null ? '$' + p.rent.toLocaleString() + '/mo' : 'Rent not listed'}</span><span class="map-pop-time">${posted}</span></div>` +
+      `<div class="map-pop-loc">${esc(p.neighborhood || '')}</div>${sub ? `<div class="map-pop-sub">${esc(sub)}</div>` : ''}${link}</div>`;
+  }
+  const hoods = (p.preferred_neighborhoods || []).filter(Boolean).slice(0, 3).map(esc).join(' · ');
+  return `<div class="map-pop"><div class="map-pop-top"><span class="map-pop-rent">${esc(budgetRangeStr(p) || 'Budget not listed')}</span><span class="map-pop-time">${posted}</span></div>` +
+    `${hoods ? `<div class="map-pop-loc">${hoods}</div>` : ''}${link}</div>`;
+}
+
 function renderMap() {
   if (!leafletMap || !mapPaneOpen) return;
   const type = currentTabName();
@@ -2174,6 +2202,7 @@ function renderMap() {
         ? (p.rent != null ? `$${p.rent.toLocaleString()}/mo` : 'Rent not listed')
         : (budgetRangeStr(p) || 'Budget not listed');
       marker.bindTooltip(tooltipText, { className: 'map-rent-tooltip' });
+      marker.bindPopup(pinPopupHtml(p, type), { maxWidth: 260 });   // click a pin: key facts and a link to the original post
       marker.on('click', () => selectFromPin(p.listing_id));
       markerCluster.addLayer(marker);
       (mapMarkersByListingId[p.listing_id] ||= []).push(marker);
