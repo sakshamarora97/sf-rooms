@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-21T14:15:48.310656",
-  "count": 404,
+  "updated_at": "2026-10-21T15:19:52.141021",
+  "count": 406,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -12158,6 +12158,70 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "Accommodation in NYC Jersey City* Hi everyone, Looking for a clean, comfortable, entire studio or 1-bedroom apartment for a couple.",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2908428682856730",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-06-30",
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "A Parsons master's student who keeps a clean, peaceful, and tidy home and prefers friendly roommates.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2908428682856730",
+      "posted_at": "Wednesday 21 October 2026 at 13:04",
+      "first_scraped_at": "2026-10-21T22:10:43.708626+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for a master bedroom with a private bathroom or a private bedroom in a shared apartment in Newport starting",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "992758546528155",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": 2300,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room",
+        "2B1B",
+        "3B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Hell's Kitchen",
+        "West Village",
+        "Lower East Side",
+        "Williamsburg"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old software engineer moving to NYC from Arlington, VA for work. Clean, communicates well, cooks, goes to the gym, social on weekends.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/992758546528155",
+      "posted_at": "Wednesday 21 October 2026 at 15:10",
+      "first_scraped_at": "2026-10-21T22:10:43.708626+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "in Manhattan/Williamsburg (moving mid-Nov to Dec) Hey everyone! I'm Abhinav, 24, a software engineer moving to NYC from Arlington, VA",
+      "group_id": "312692887868061"
     }
   ]
 }
