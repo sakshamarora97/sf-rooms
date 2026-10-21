@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T12:07:59.787060",
-  "count": 3221,
+  "updated_at": "2026-10-21T13:08:27.266659",
+  "count": 3222,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99589,6 +99589,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "roommates for Nov. 15- Dec 1 move in! Hi everyone! I am looking for housing in San Francisco, Oakland, or",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2039003020124603",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "private unit",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old SDSU graduate working in big-tech marketing (4 years). Tidy, low-key weekday schedule and active on weekends; seeks a private room or shared house near Caltrain or highway access.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2039003020124603",
+      "posted_at": "Wednesday 21 October 2026 at 12:41",
+      "first_scraped_at": "2026-10-21T20:00:03.015899+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Redwood City San Mateo SF ($2k\u2013$2.5k+, up to $3k) in early December Hi everyone! I\u2019m a 27-year-old SDSU grad working",
+      "group_id": "242765489748374"
     }
   ]
 }
