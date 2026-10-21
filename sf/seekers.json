@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T11:08:06.315600",
-  "count": 3220,
+  "updated_at": "2026-10-21T12:07:59.787060",
+  "count": 3221,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99559,6 +99559,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "sublet lease takeover Spring 2027 (Jan\u2013May) Hi everyone! We're 3 exchange students from France coming to UC Berkeley for the",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4755159804719022",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "Berkeley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "They are 23, from Wisconsin, recently lived in Chicago where they studied and worked. They enjoy the outdoors, hiking, backpacking, fashion, film photography, food and wine, and value open communication and cleanliness as a roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4755159804719022",
+      "posted_at": "Wednesday 21 October 2026 at 08:41",
+      "first_scraped_at": "2026-10-21T19:00:07.914061+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "roommates for Nov. 15- Dec 1 move in! Hi everyone! I am looking for housing in San Francisco, Oakland, or",
+      "group_id": "2176716625896699"
     }
   ]
 }
