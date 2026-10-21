@@ -1502,7 +1502,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = 'd5c14e73059e';
+const SITE_VERSION = 'a61d5890046f';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
@@ -2189,6 +2189,20 @@ function renderMap() {
 
 let highlightedMarkerEls = [];
 
+// Bring a highlighted row into view by scrolling ONLY the list pane. (scrollIntoView on the row also dragged the whole page down
+// whenever the page was taller than the window, which pushed the header away and shifted the map on every pin click.)
+function scrollRowIntoPane(el) {
+  const pane = $('content-pane');
+  if (pane && pane.contains(el) && pane.scrollHeight > pane.clientHeight + 2) {
+    const head = pane.querySelector('thead');                       // the table header is sticky over the top of the pane
+    const offset = (head && head.offsetParent !== null ? head.offsetHeight : 0) + 6;
+    const top = el.getBoundingClientRect().top - pane.getBoundingClientRect().top + pane.scrollTop - offset;
+    pane.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+  } else {
+    el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });    // no inner scroller: move the page as little as possible
+  }
+}
+
 function highlightRowForPost(lid, scroll) {
   // Both the table row and mobile card exist in the DOM at all times (CSS
   // decides which is visible per viewport) — try both; scrolling/styling a
@@ -2200,7 +2214,7 @@ function highlightRowForPost(lid, scroll) {
     if (!el) return;
     el.classList.add('map-highlighted');
     highlightedMapEls.push(el);
-    if (scroll && el.offsetParent !== null) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (scroll && el.offsetParent !== null) scrollRowIntoPane(el);
   });
 }
 
