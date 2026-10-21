@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T17:06:19.158992",
-  "count": 3209,
+  "updated_at": "2026-10-20T18:06:24.522735",
+  "count": 3210,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99221,6 +99221,35 @@
       "first_scraped_at": "2026-10-20T23:00:05.294601+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Wade, I'm 27 and working as a middle school teacher. I'm looking for a roommate to join in on a",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4754354674799535",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Outer Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a third housemate to occupy the master bedroom in a large 3BR/2BA flat in Outer Sunset.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4754354674799535",
+      "posted_at": "Tuesday 20 October 2026 at 16:05",
+      "first_scraped_at": "2026-10-21T01:00:04.128398+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "housemate for master bedroom in large 3 bedroom 2 bathroom flat in Outer Sunset!",
       "group_id": "2176716625896699"
     }
   ]
