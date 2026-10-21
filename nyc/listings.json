@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-20T22:21:59.231288",
-  "count": 994,
+  "updated_at": "2026-10-21T06:18:10.640043",
+  "count": 996,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -33208,6 +33208,67 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "JC HEIGHTS APT. URGENT: Private Room Available ASAP Jersey City Heights 6-month Lease Take Over Option to Renew Lease Description",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2253276258570502",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2253276258570502",
+      "posted_at": "Wednesday 21 October 2026 at 05:53",
+      "first_scraped_at": "2026-10-21T13:09:35.504003+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "going out of town for thanksgiving and i\u2019m wondering if anyone would want to stay at my apartment and watch",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2253199441911517",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Woodside",
+      "area": "Queens",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "near_metro_station",
+        "near_restaurants_cafes",
+        "near_grocery_stores",
+        "easy_access_public_transportation"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2253199441911517",
+      "posted_at": "Wednesday 21 October 2026 at 04:10",
+      "first_scraped_at": "2026-10-21T13:09:35.504003+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Bath Apartment 39-23 64th St, Woodside, NY 11377, United States ROOM FOR RENT SINGLE OCCUPANCY Looking for a safe, comfortable",
+      "group_id": "149460102285472"
     }
   ]
 }
