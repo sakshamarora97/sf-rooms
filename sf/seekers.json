@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T09:07:36.552202",
-  "count": 3219,
+  "updated_at": "2026-10-21T10:07:44.086968",
+  "count": 3220,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99525,6 +99525,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Hi everyone, my name is Annabella. I\u2019m 23 and I\u2019m looking for a roommate to go apartment hunting with or",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1392551662645077",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": 5000,
+      "unit_type_wanted": [
+        "3-bedroom",
+        "sublet",
+        "lease_takeover",
+        "semester_lease"
+      ],
+      "preferred_neighborhoods": [
+        "South Berkeley",
+        "North Berkeley",
+        "Downtown Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Three exchange students from France attending UC Berkeley for Spring 2027. They are clean, respectful, non-smokers and can provide references and a video call.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1392551662645077",
+      "posted_at": "Wednesday 21 October 2026 at 09:40",
+      "first_scraped_at": "2026-10-21T17:00:05.191992+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "sublet lease takeover Spring 2027 (Jan\u2013May) Hi everyone! We're 3 exchange students from France coming to UC Berkeley for the",
+      "group_id": "558742412692677"
     }
   ]
 }
