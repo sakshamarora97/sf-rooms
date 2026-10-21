@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-21T10:16:42.250342",
-  "count": 399,
+  "updated_at": "2026-10-21T11:18:18.499378",
+  "count": 400,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -11999,6 +11999,36 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "looking for a place during Thanksgiving. Both females, clean and respectful. Our budget is 500 for the entire stay, preferably",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2908417332857865",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a clean, respectful, and easygoing professional who values a peaceful, tidy living space and seeks roommates with similar vibes.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2908417332857865",
+      "posted_at": "Wednesday 21 October 2026 at 08:11",
+      "first_scraped_at": "2026-10-21T18:08:11.068429+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "actively looking for a master bedroom with a private bathroom in a shared apartment in Newport or Hoboken NJ, starting",
+      "group_id": "1138638939835722"
     }
   ]
 }
