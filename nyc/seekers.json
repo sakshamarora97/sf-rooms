@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-21T15:19:52.141021",
-  "count": 406,
+  "updated_at": "2026-10-21T16:18:44.274875",
+  "count": 407,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -12222,6 +12222,36 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "in Manhattan/Williamsburg (moving mid-Nov to Dec) Hey everyone! I'm Abhinav, 24, a software engineer moving to NYC from Arlington, VA",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2253675928530535",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Bed-Stuy"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "Recent college graduate with a degree in Art History working in food/customer service. Creative, social, and flexible roommate who writes fiction and plays guitar.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2253675928530535",
+      "posted_at": "Wednesday 21 October 2026 at 15:43",
+      "first_scraped_at": "2026-10-21T23:08:19.362835+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Sublease/Lease Takeover Hey! I\u2019m Conor!. I am looking for a room to move into by the first or second week",
+      "group_id": "149460102285472"
     }
   ]
 }
