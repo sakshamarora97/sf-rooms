@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T08:06:58.649751",
-  "count": 2647,
+  "updated_at": "2026-10-21T09:07:36.552202",
+  "count": 2649,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -88182,6 +88182,70 @@
       "first_scraped_at": "2026-10-21T14:00:05.266657+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "UC Berkeley Available November 1 $200/Month One off-street parking space available November 1, 2026 at Haste House, 2728 Haste St.,",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4754629554772047",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4754629554772047",
+      "posted_at": "Tuesday 20 October 2026 at 22:31",
+      "first_scraped_at": "2026-10-21T16:00:04.409305+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "offer my house for rent. You can have your own suite/room within this brand new house at the border of",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1393660939200816",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": null,
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "washing_machine",
+        "dryer",
+        "wifi",
+        "dishwasher",
+        "fully_equipped_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1393660939200816",
+      "posted_at": "Wednesday 21 October 2026 at 08:07",
+      "first_scraped_at": "2026-10-21T16:00:04.409305+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Home Swap Spring 2027 Hi everyone! I am coming to Berekely to study for the spring semester (Jan-May/June 27). Therefore,",
       "group_id": "558742412692677"
     }
   ]
