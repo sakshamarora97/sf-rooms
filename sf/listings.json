@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T10:07:44.086968",
-  "count": 2651,
+  "updated_at": "2026-10-21T11:08:06.315600",
+  "count": 2652,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -88319,6 +88319,37 @@
       "first_scraped_at": "2026-10-21T17:00:05.191992+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "BERKELEY SUBLEASE IDENTITY LOGAN PARK PHASE 2 $1,168/MONTH (NEGOTIABLE) Hi everyone! I'm looking for a female-identifying student to take over",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1393766232523620",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 195,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "underground_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1393766232523620",
+      "posted_at": "Wednesday 21 October 2026 at 10:36",
+      "first_scraped_at": "2026-10-21T18:00:03.164485+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "lease for underground parking spot. Located on Channing. $195/mo. Feel free to reach out with any questions. (480) 651-5164",
       "group_id": "558742412692677"
     }
   ]
