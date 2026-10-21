@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T20:38:59.529575",
-  "count": 2631,
+  "updated_at": "2026-10-20T21:07:07.501968",
+  "count": 2632,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -87665,6 +87665,38 @@
       "first_scraped_at": "2026-10-21T03:00:04.703501+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Hi my name is Dayler Galindo, currently a student at Cal. I\u2019m looking for someone (male or identifying male) to",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1393234155910161",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "South Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-11-11",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_storage",
+        "laundry",
+        "street_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "BIPOC woman/femme",
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1393234155910161",
+      "posted_at": "Tuesday 20 October 2026 at 20:45",
+      "first_scraped_at": "2026-10-21T04:00:03.408738+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "am looking for a new housemate in South Berkeley to replace my current housemate who is moving out of the",
       "group_id": "558742412692677"
     }
   ]
