@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T16:07:18.733408",
-  "count": 2627,
+  "updated_at": "2026-10-20T17:06:19.158992",
+  "count": 2629,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -87486,6 +87486,34 @@
       "group_id": "558742412692677"
     },
     {
+      "listing_id": "4754311404803862",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1068,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4754311404803862",
+      "posted_at": "Tuesday 20 October 2026 at 15:01",
+      "first_scraped_at": "2026-10-20T23:00:05.294601+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "rooms are opening up in my house/apartment in the mission by 22nd and Bryant. Looking for two people to enter",
+      "group_id": "2176716625896699"
+    },
+    {
       "listing_id": "4754311221470547",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -87514,6 +87542,45 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "rooms are opening up in my house/apartment in the mission by 22nd and Bryant. Looking for two people to enter",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2767633180299153",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1100,
+      "neighborhood": "Albany",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "ethernet",
+        "fiber_internet",
+        "in_unit_laundry",
+        "backyard",
+        "outbuilding",
+        "heat_pump_heating_and_cooling",
+        "semi_pro_electric_stove",
+        "shared_living_room",
+        "shared_kitchen",
+        "pottery_wheel"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2767633180299153",
+      "posted_at": "Tuesday 20 October 2026 at 16:56",
+      "first_scraped_at": "2026-10-21T00:00:05.168140+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "up again. I had an agreement with someone who canceled. It's available now, more or less.) $1100, includes utilities and",
+      "group_id": "128476910881473"
     }
   ]
 }
