@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T13:08:27.266659",
-  "count": 2654,
+  "updated_at": "2026-10-21T14:07:40.444376",
+  "count": 2656,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -88353,6 +88353,39 @@
       "group_id": "558742412692677"
     },
     {
+      "listing_id": "2038949043463334",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1650,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "water_included",
+        "garbage_included",
+        "near_trader_joes",
+        "near_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2038949043463334",
+      "posted_at": "Wednesday 21 October 2026 at 11:15",
+      "first_scraped_at": "2026-10-21T19:00:07.914061+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "female roommate to join apartment in North Beach Hello, my name is Anya I\u2019m looking for one female roommate to",
+      "group_id": "242765489748374"
+    },
+    {
       "listing_id": "2038933863464852",
       "post_type": "listing",
       "listing_type": "entire_unit",
@@ -88423,6 +88456,41 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking for a new housemate (or two, we're open to couples) starting January 1st to join our beautiful home in",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4755351054699897",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1201,
+      "neighborhood": "Inner Sunset",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "full_size_fridge",
+        "dishwasher",
+        "coin_operated_laundry",
+        "garage_parking",
+        "street_parking",
+        "shared_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4755351054699897",
+      "posted_at": "Wednesday 21 October 2026 at 12:13",
+      "first_scraped_at": "2026-10-21T21:00:05.884745+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "at $1200/mo each in 3b1.5b in the Inner Sunset, SF. Move-in Oct 31 or Nov 1 Room 1: 11x12' unfurnished",
+      "group_id": "2176716625896699"
     }
   ]
 }
