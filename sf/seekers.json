@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T07:07:43.952752",
-  "count": 3218,
+  "updated_at": "2026-10-21T08:06:58.649751",
+  "count": 3219,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99496,6 +99496,34 @@
       "first_scraped_at": "2026-10-21T13:00:04.143114+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a $1800 or less (utilities included) 1 bed/1 bath from December 2026 to June 2027 Hopefully with available",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2038728076818764",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "She is a 23-year-old computer engineering graduate currently pursuing an MBA. She is social and outgoing, enjoys exploring the city, coffee shops, pop-ups, wine nights, and EDM shows.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2038728076818764",
+      "posted_at": "Wednesday 21 October 2026 at 06:15",
+      "first_scraped_at": "2026-10-21T15:00:04.927729+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hi everyone, my name is Annabella. I\u2019m 23 and I\u2019m looking for a roommate to go apartment hunting with or",
       "group_id": "242765489748374"
     }
   ]
