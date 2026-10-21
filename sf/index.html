@@ -787,6 +787,7 @@
   .map-pop-loc { font-weight: 600; font-size: 13px; color: #222; }
   .map-pop-sub { font-size: 12px; color: #666; margin-top: 1px; }
   .map-pop a.btn-post { display: inline-block; margin-top: 8px; color: #fff !important; text-decoration: none; }
+  .map-pop a.btn-post-search { margin-top: 8px; color: #666 !important; }
 
   @media (max-width: 767px) {
     .header-bridge { display: none; }
@@ -2093,11 +2094,11 @@ function pinPopupHtml(p, type) {
   if (type === 'listings') {
     const sub = [p.unit_config, (p.room_type || '').replace(/_/g, ' ')].filter(Boolean).join(' · ');
     return `<div class="map-pop"><div class="map-pop-top"><span class="map-pop-rent">${p.rent != null ? '$' + p.rent.toLocaleString() + '/mo' : 'Rent not listed'}</span><span class="map-pop-time">${posted}</span></div>` +
-      `<div class="map-pop-loc">${esc(p.neighborhood || '')}</div>${sub ? `<div class="map-pop-sub">${esc(sub)}</div>` : ''}${link}</div>`;
+      `<div class="map-pop-loc">${esc(p.neighborhood || '')}</div>${sub ? `<div class="map-pop-sub">${esc(sub)}</div>` : ''}${link}${searchFallbackHtml(p)}</div>`;
   }
   const hoods = (p.preferred_neighborhoods || []).filter(Boolean).slice(0, 3).map(esc).join(' · ');
   return `<div class="map-pop"><div class="map-pop-top"><span class="map-pop-rent">${esc(budgetRangeStr(p) || 'Budget not listed')}</span><span class="map-pop-time">${posted}</span></div>` +
-    `${hoods ? `<div class="map-pop-loc">${hoods}</div>` : ''}${link}</div>`;
+    `${hoods ? `<div class="map-pop-loc">${hoods}</div>` : ''}${link}${searchFallbackHtml(p)}</div>`;
 }
 
 function renderMap() {
