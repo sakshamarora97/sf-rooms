@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T06:09:30.923915",
-  "count": 2645,
+  "updated_at": "2026-10-21T07:07:43.952752",
+  "count": 2647,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -88118,6 +88118,71 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Bedroom Private Bath Balcony Monte Vista Villas East Oakland Unfurnished private bedroom and bathroom on the 2nd floor with its",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2038428203515418",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4195,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-11-11",
+      "available_until": "2027-01-03",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "pool",
+        "jacuzzi",
+        "sauna",
+        "gym",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2038428203515418",
+      "posted_at": "Tuesday 20 October 2026 at 22:46",
+      "first_scraped_at": "2026-10-21T14:00:05.266657+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "furnished 1 bed 1 bath apartment (880 sq ft) in Mission Bay, available for sublease. Comfortably fits two (king bed).",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1393612415872335",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 200,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "off-street_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Haste House",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1393612415872335",
+      "posted_at": "Wednesday 21 October 2026 at 07:01",
+      "first_scraped_at": "2026-10-21T14:00:05.266657+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "UC Berkeley Available November 1 $200/Month One off-street parking space available November 1, 2026 at Haste House, 2728 Haste St.,",
+      "group_id": "558742412692677"
     }
   ]
 }
