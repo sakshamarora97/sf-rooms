@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-20T21:07:07.501968",
-  "count": 3213,
+  "updated_at": "2026-10-20T22:10:19.940226",
+  "count": 3215,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99339,6 +99339,67 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a 27-year-old looking for a room to rent or someone interested in finding a place together in San Francisco! A",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4754569451444724",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 4000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Civic Center",
+        "Mid-Market",
+        "Hayes Valley",
+        "Japantown",
+        "Duboce Triangle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Currently lives in Oakland and is seeking a 1-bedroom, 1-bath apartment in San Francisco for an ASAP move to be closer to work. Prefers a lease takeover and amenities like a gym and in-unit washer/dryer.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4754569451444724",
+      "posted_at": "Tuesday 20 October 2026 at 21:13",
+      "first_scraped_at": "2026-10-21T05:00:04.533561+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1BR/1BA in SF Lease takeover preferred ASAP move-in Hey everyone! I\u2019m looking for a 1-bedroom, 1-bath apartment in SF, ideally",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4754407378127598",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Castro",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": "other",
+      "age": 35,
+      "bio": "35-year-old who works in bar/nightlife and keeps late hours, seeking a long-term, cat-friendly place near Market (ideally Castro or SoMa); open to lease takeovers or apartment searching with another.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4754407378127598",
+      "posted_at": "Tuesday 20 October 2026 at 17:28",
+      "first_scraped_at": "2026-10-21T05:00:04.533561+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "male) and my 2 cats are still looking for a place! Mostly hoping that it is easy access to muni",
+      "group_id": "2176716625896699"
     }
   ]
 }
