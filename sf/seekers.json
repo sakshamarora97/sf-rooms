@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T10:07:21.638215",
-  "count": 3246,
+  "updated_at": "2026-10-22T11:08:53.758777",
+  "count": 3247,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -100365,6 +100365,42 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "am Axel, 24, from France, and I will be moving to San Francisco for three months (November 1 January 31)",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4756413937926942",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": "2027-08-31",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "Pacific Heights",
+        "NoPa",
+        "Haight-Ashbury",
+        "North Beach",
+        "Marina",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "He is a business and finance graduate from Finland currently doing a one-year internship in San Francisco's Financial District. He is clean, responsible, a non-smoker, and seeks a shared apartment with friendly young-professional roommates, available mid-November 2026 through August 2027.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4756413937926942",
+      "posted_at": "Thursday 22 October 2026 at 10:25",
+      "first_scraped_at": "2026-10-22T18:00:02.698881+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Ilmari, originally from Helsinki, Finland, but I spent the last three years living in Sweden, where I studied business and",
+      "group_id": "2176716625896699"
     }
   ]
 }
