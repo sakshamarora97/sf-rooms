@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T07:09:57.071292",
-  "count": 2690,
+  "updated_at": "2026-10-22T08:08:26.736337",
+  "count": 2691,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -89665,6 +89665,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "room/ huge closet/ great roommate/ beach access PACIFICA Pacifica Manor Neighborhood (North end by the beach) **About theApartment**: large 2",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2039730970051808",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": "2026-11-01",
+      "available_until": "2027-09-30",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "ocean_view",
+        "renovated_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2039730970051808",
+      "posted_at": "Thursday 22 October 2026 at 07:44",
+      "first_scraped_at": "2026-10-22T15:00:03.445544+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Daly City! Hi everyone! I have a room available November 1st in an all-girls, 3 bed/2 bath in Daly City.",
+      "group_id": "242765489748374"
     }
   ]
 }
