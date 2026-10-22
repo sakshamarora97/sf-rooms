@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T15:09:26.109360",
-  "count": 3252,
+  "updated_at": "2026-10-22T16:08:43.350568",
+  "count": 3256,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -100567,6 +100567,123 @@
       "first_scraped_at": "2026-10-22T20:00:05.424592+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "near San Mateo/Redwood/Belmont Hello, I\u2019m moving to Belmont for a job so I\u2019m looking for a place near Belmont/ San",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4756666097901726",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 41,
+      "bio": "A 41-year-old professional arborist relocating to the South San Francisco area, seeking a clean, comfortable 1-bedroom 1-bath for about $1,500/month. Describes self as mature, responsible, tidy, and respectful, looking for a peaceful long-term home.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4756666097901726",
+      "posted_at": "Thursday 22 October 2026 at 15:43",
+      "first_scraped_at": "2026-10-22T23:00:04.922165+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "41-year-old professional arborist relocating to the South San Francisco Bay Area and looking for a clean, comfortable 1-bedroom, 1-bathroom place",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4756642431237426",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a nonsmoking female professional in her mid/late 40s who travels to the Bay Area regularly for short visits (3\u201310 days every ~2 months) and is seeking a spare bedroom in San Francisco or Palo Alto.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4756642431237426",
+      "posted_at": "Thursday 22 October 2026 at 15:15",
+      "first_scraped_at": "2026-10-22T23:00:04.922165+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "SF area (SF, Peninsula, SV) and has a spare BR? I travel to SF for around 3-10 days around every",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2040039093354329",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 31,
+      "bio": "31-year-old product manager recently returned from living abroad; formerly worked at a social media app from early days through IPO. Tidy and easygoing, played college soccer, currently in founder mode and open to advisor roles.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040039093354329",
+      "posted_at": "Thursday 22 October 2026 at 15:55",
+      "first_scraped_at": "2026-10-22T23:00:04.922165+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "31F looking for a room/sublet ASAP: Location: North Mission/Mission Dolores/close to BART. Price: ideally under $1700/mo but can inc for",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2040024733355765",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-26",
+      "move_out_date": "2026-10-29",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040024733355765",
+      "posted_at": "Thursday 22 October 2026 at 15:25",
+      "first_scraped_at": "2026-10-22T23:00:04.922165+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a room for 26\u201329 October 2026 (3 nights), ideally within walking distance of the Financial District",
       "group_id": "242765489748374"
     }
   ]

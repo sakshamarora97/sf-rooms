@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T15:09:26.109360",
-  "count": 2706,
+  "updated_at": "2026-10-22T16:08:43.350568",
+  "count": 2708,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -90221,6 +90221,68 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "$1,900 I am still seeking someone to take over my lease through Domingo Property Management, ideally starting around mid December,",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4756630841238585",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1750,
+      "neighborhood": "Glen Park",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_building_laundry",
+        "street_parking",
+        "near_bart",
+        "close_to_public_transit",
+        "walking_distance_to_shops"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": "female only",
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4756630841238585",
+      "posted_at": "Thursday 22 October 2026 at 14:59",
+      "first_scraped_at": "2026-10-22T23:00:04.922165+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Glen Park, SF $1,750/month 3-Min Walk to BART Female Roommate Wanted 2BR/1BA in Glen Park, San Francisco! Hi everyone! I\u2019m",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2039925433365695",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1840,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": "Astella Apartments",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2039925433365695",
+      "posted_at": "Thursday 22 October 2026 at 12:17",
+      "first_scraped_at": "2026-10-22T23:00:04.922165+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Bathroom Available in 2B2B Astella Apartments, SoMa, SF Location: Astella Apartments, 975 Bryant Street, San Francisco, CA Rent: $1,840/month Available",
+      "group_id": "242765489748374"
     }
   ]
 }
