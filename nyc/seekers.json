@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-21T21:20:13.385558",
-  "count": 410,
+  "updated_at": "2026-10-21T22:17:55.061225",
+  "count": 411,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -12338,6 +12338,39 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "private bedroom near journal square/ Indian square. Move in November 1st. Budget: Up to $850 Preferred Amenities: In unit laundry",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2253891818508946",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Flushing",
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "Works remotely and sometimes works from cafes. Clean, easygoing, respectful roommate who enjoys exploring cafes, museums, good food and playing sports.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2253891818508946",
+      "posted_at": "Wednesday 21 October 2026 at 21:44",
+      "first_scraped_at": "2026-10-22T05:09:22.815530+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Sublease Lease Takeover hi i'm anna (24), looking for a room for nov 1! i'm eyeing queens, preferably somewhere in",
+      "group_id": "149460102285472"
     }
   ]
 }
