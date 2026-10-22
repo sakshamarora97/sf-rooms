@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-22T12:18:11.937108",
-  "count": 420,
+  "updated_at": "2026-10-22T13:17:49.404739",
+  "count": 421,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -12636,6 +12636,37 @@
       "first_scraped_at": "2026-10-22T18:08:59.608696+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Nov 1st Hi, My name is David! I'm looking for an open room or roommates for a November 1st move",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2254507161780745",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 700,
+      "budget_max": 850,
+      "unit_type_wanted": [
+        "room",
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "DUMBO"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Solo renter seeking a room in DUMBO. Clean, respectful, responsible, and easy to live with.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2254507161780745",
+      "posted_at": "Thursday 22 October 2026 at 12:15",
+      "first_scraped_at": "2026-10-22T20:08:48.210755+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Room or Roommate in DUMBO, Brooklyn Hi everyone! I\u2019m looking for a room to rent or a shared room with",
       "group_id": "149460102285472"
     }
   ]
