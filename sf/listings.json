@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T13:08:43.847124",
-  "count": 2701,
+  "updated_at": "2026-10-22T14:07:43.613114",
+  "count": 2702,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -90058,6 +90058,34 @@
       "first_scraped_at": "2026-10-22T20:00:05.424592+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Bay in Richmond, California 1 Bed 1 Bath Available $1600 Shared dining room, living room and kitchen Fully furnished Must",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1394734199093490",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1607,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-10",
+      "available_until": "2027-01-17",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1394734199093490",
+      "posted_at": "Thursday 22 October 2026 at 13:43",
+      "first_scraped_at": "2026-10-22T21:00:02.084637+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a short term subletter for my furnished 2 bed 2 bath apartment in North Berkeley from December 10th",
       "group_id": "558742412692677"
     }
   ]
