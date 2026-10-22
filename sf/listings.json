@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T18:08:10.392747",
-  "count": 2669,
+  "updated_at": "2026-10-21T19:07:14.324443",
+  "count": 2670,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -88944,6 +88944,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "2027 HOUSING AVAILABLE! Posting for a friend! Sublease for a single room in a newly built 3 bed, 2 bath",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4755553314679671",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 5000,
+      "neighborhood": "Potrero Hill",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2027-03-31",
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "private_balcony",
+        "in_unit_laundry",
+        "garage_parking",
+        "storage"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4755553314679671",
+      "posted_at": "Wednesday 21 October 2026 at 17:01",
+      "first_scraped_at": "2026-10-22T02:00:05.028183+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Condo in Potrero Hill for Sublease Dec 1 Mar 31 $5,000/month Looking for a beautiful place to call home this",
+      "group_id": "2176716625896699"
     }
   ]
 }
