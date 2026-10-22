@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T21:10:10.540597",
-  "count": 2678,
+  "updated_at": "2026-10-21T22:09:18.826346",
+  "count": 2679,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -89167,6 +89167,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Walnut Creek Late December 2026 January 2027 Hi everyone! I\u2019m looking for a female roommate to share an apartment starting",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2039269760097929",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2027-07-02",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2039269760097929",
+      "posted_at": "Wednesday 21 October 2026 at 20:15",
+      "first_scraped_at": "2026-10-22T04:00:03.857584+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Square Furnished Studio Sublet Jackson Square, SF Nov 1 July 2 Subletting my fully furnished studio in Jackson Square from",
+      "group_id": "242765489748374"
     },
     {
       "listing_id": "2039177053440533",
