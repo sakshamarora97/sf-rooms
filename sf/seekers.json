@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T11:08:53.758777",
-  "count": 3247,
+  "updated_at": "2026-10-22T12:09:50.320810",
+  "count": 3250,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -100401,6 +100401,102 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Ilmari, originally from Helsinki, Finland, but I spent the last three years living in Sweden, where I studied business and",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4756463754588627",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco",
+        "San Bruno",
+        "Millbrae",
+        "Burlingame",
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a friendly, clean, responsible renter who loves exploring new places.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4756463754588627",
+      "posted_at": "Thursday 22 October 2026 at 11:21",
+      "first_scraped_at": "2026-10-22T19:00:05.302343+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "SUBLEASE SF TO SAN MATEO $2,500 MAX DEC 1 Hey Bay Area friends! I'm on the hunt for a cozy",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2039887470036158",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "Recently offered a job and looking to relocate to San Francisco. Will commute to an office in Berkeley and is seeking a studio or 1BR.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2039887470036158",
+      "posted_at": "Thursday 22 October 2026 at 11:17",
+      "first_scraped_at": "2026-10-22T19:00:05.302343+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a studio or 1 BR in SF as I was recently offered a job and may be relocating. The",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1394659762434267",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Berkeley",
+        "Elmwood"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Cal Poly SLO graduate moving to Berkeley for a research job at UC Berkeley. Seeking a studio or one-bedroom, or a private room in a quiet location with convenient campus commute.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1394659762434267",
+      "posted_at": "Thursday 22 October 2026 at 11:38",
+      "first_scraped_at": "2026-10-22T19:00:05.302343+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "is Lauren and I just graduated from Cal Poly SLO. I\u2019m native to Seattle but moving to Berkeley for a",
+      "group_id": "558742412692677"
     }
   ]
 }
