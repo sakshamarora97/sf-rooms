@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-21T18:18:25.883392",
-  "count": 409,
+  "updated_at": "2026-10-21T19:16:49.445442",
+  "count": 410,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -12308,6 +12308,35 @@
       "first_scraped_at": "2026-10-22T01:08:14.676542+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "boyfriend and i are moving from chicago to jersey city for my new job. we\u2019re interested in a 1 bed,",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28635022562833891",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 850,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a private bedroom near Journal Square/India Square with in-unit laundry; plans to move in on November 1st.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28635022562833891",
+      "posted_at": "Wednesday 21 October 2026 at 18:28",
+      "first_scraped_at": "2026-10-22T02:07:18.687546+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "private bedroom near journal square/ Indian square. Move in November 1st. Budget: Up to $850 Preferred Amenities: In unit laundry",
       "group_id": "765841576845364"
     }
   ]
