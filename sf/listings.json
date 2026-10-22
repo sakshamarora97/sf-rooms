@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T16:08:14.908956",
-  "count": 2668,
+  "updated_at": "2026-10-21T17:09:47.002392",
+  "count": 2669,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -88913,6 +88913,36 @@
       "first_scraped_at": "2026-10-21T23:00:03.277651+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Rooms starting at $1,680 Shared Rooms starting at $1,090 Spring Semester 12-month leases available DM for more information Just 4",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1393954462504797",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": "female-identifying only",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1393954462504797",
+      "posted_at": "Wednesday 21 October 2026 at 16:30",
+      "first_scraped_at": "2026-10-22T00:00:03.972258+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "2027 HOUSING AVAILABLE! Posting for a friend! Sublease for a single room in a newly built 3 bed, 2 bath",
       "group_id": "558742412692677"
     }
   ]
