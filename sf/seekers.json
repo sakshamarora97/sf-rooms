@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T06:12:39.706966",
-  "count": 3241,
+  "updated_at": "2026-10-22T07:09:57.071292",
+  "count": 3242,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -100209,6 +100209,35 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking for a private room or shared room starting November 1st in Foster City, San Mateo, Redwood City, or nearby",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1394433895790187",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "He is a UC Berkeley student seeking housing for the spring semester starting January; prefers a private single room.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1394433895790187",
+      "posted_at": "Thursday 22 October 2026 at 06:20",
+      "first_scraped_at": "2026-10-22T14:00:03.271151+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "is a UC Berkeley student and looking for housing for the spring semester, starting Jan, preferably private/ single room. Let",
+      "group_id": "558742412692677"
     }
   ]
 }
