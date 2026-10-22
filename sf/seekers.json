@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-21T20:11:51.818886",
-  "count": 3233,
+  "updated_at": "2026-10-21T21:10:10.540597",
+  "count": 3234,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -99947,6 +99947,37 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "View, Palo Alto, Redwood City, San Carlos, Belmont, San Mateo, Foster City, Burlingame, Hillsborough, San Bruno, South San Francisco\u90fd\u53ef\u4ee5\uff5e \u6211\u7684\u9884\u7b97\uff1a$1500\u4ee5\u4e0b",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2039257446765827",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond District",
+        "Sunset District",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old elementary school teacher starting a career in the Bay Area. Social, enjoys restaurants, bars, and outdoor activities, and values clean shared spaces and building community.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2039257446765827",
+      "posted_at": "Wednesday 21 October 2026 at 19:57",
+      "first_scraped_at": "2026-10-22T04:00:03.857584+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for 2\u20133 roommates or hoping to join an existing lease in San Francisco, ideally in the Richmond District, Sunset,",
+      "group_id": "242765489748374"
     }
   ]
 }
