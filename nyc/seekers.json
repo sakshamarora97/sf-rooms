@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-22T15:19:40.646403",
-  "count": 427,
+  "updated_at": "2026-10-22T16:18:35.808713",
+  "count": 429,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -12840,6 +12840,71 @@
       "first_scraped_at": "2026-10-22T22:09:30.625402+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "looking for a room near path 15min walk from JSQ/Grove path). Move in after 11/15 I would need parking My",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2254639205100874",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-23",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hell's Kitchen",
+        "Kips Bay",
+        "Midtown East",
+        "Lincoln Square",
+        "Chelsea"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent hire relocating from Washington, DC to New York City for a new job. Enjoys watching and playing sports, going out, thrifting, and eating good food.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2254639205100874",
+      "posted_at": "Thursday 22 October 2026 at 16:06",
+      "first_scraped_at": "2026-10-22T23:08:47.754730+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommate need to be moved in by 11/23 Hey guys, my name is Leo, I\u2019m 23, and I recently accepted",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28647208584948622",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "2B2B",
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent college graduate starting a job near the WTC in Feb 2027. Works from home three days a week, likes to cook, is clean and tidy, and seeks a quiet, respectful living situation.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28647208584948622",
+      "posted_at": "Thursday 22 October 2026 at 15:04",
+      "first_scraped_at": "2026-10-22T23:08:47.754730+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "lease takeover or roommate in JSQ Grove St (Jan-Feb move-in) Hi everyone! My name is Corrine, I'm a recent grad",
       "group_id": "765841576845364"
     }
   ]
