@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-22T19:18:22.047188",
-  "count": 432,
+  "updated_at": "2026-10-22T20:20:15.784906",
+  "count": 433,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -12997,6 +12997,37 @@
       "first_scraped_at": "2026-10-23T02:07:53.699441+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "apartment hunt with/lease takeover 12/1 hi! my name is nina iv\u010devi\u0107 and i\u2019m looking for roommates to apartment hunt with",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2254742371757224",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-25",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a month-long private-room sublet from Nov 25 to Dec 31, prefers spacious units and a female household; open to 1B1B.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2254742371757224",
+      "posted_at": "Thursday 22 October 2026 at 19:08",
+      "first_scraped_at": "2026-10-23T03:09:06.240387+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "am looking for a month long sublet (private room) from Nov 25 to Dec 31st in Manhattan or Brooklyn in",
       "group_id": "149460102285472"
     }
   ]
