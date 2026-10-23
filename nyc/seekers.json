@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-23T11:19:15.731758",
-  "count": 446,
+  "updated_at": "2026-10-23T12:17:22.661267",
+  "count": 450,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13415,6 +13415,130 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "January! Heyy, my name is Casen, I'm 20, and am looking to move early in the new year! I do",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255423241689137",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-01",
+      "budget_min": null,
+      "budget_max": 4500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Clean, respectful tenant in town for work for a few weeks, seeking a furnished studio or one-bedroom from now until about Dec 1. Non-smoker, no parties, and has no pets.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255423241689137",
+      "posted_at": "Friday 23 October 2026 at 11:26",
+      "first_scraped_at": "2026-10-23T19:06:40.311379+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Studio/1b start now end of Nov Posting for my husband who got his sublease cancelled last minute. He\u2019s clean respectful",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255388481692613",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Bushwick"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a lease takeover starting Nov 1 for a 2-bedroom in Bed-Stuy or Bushwick with a budget of $2600.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255388481692613",
+      "posted_at": "Friday 23 October 2026 at 10:39",
+      "first_scraped_at": "2026-10-23T19:06:40.311379+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "NOV 1 Hello, I\u2019m looking for a lease takeover starting Nov 1st. We are in searching for a 2 bedroom",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28658110640525083",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": "relocation",
+      "age": null,
+      "bio": "She is a working professional in her early 30s completing a master's degree and relocating from Arizona to New Jersey. She is clean, respectful, not a big partier, and enjoys thrifting, the beach, coffee, and a peaceful home environment.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28658110640525083",
+      "posted_at": "Friday 23 October 2026 at 09:38",
+      "first_scraped_at": "2026-10-23T19:06:40.311379+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "relocating from AZ back to NJ this December and looking to connect with female-only roommates. I\u2019m a working professional in",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "994388636365146",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Bed-Stuy",
+        "Crown Heights",
+        "Flatbush",
+        "Prospect Heights",
+        "Williamsburg",
+        "Harlem",
+        "Long Island City",
+        "Astoria",
+        "Sunnyside",
+        "Greenpoint"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": 24,
+      "bio": "Graduate student who works remotely as a social media coordinator and is also a media/TV producer building a production career. Easy to communicate with and willing to chat on a video call.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/994388636365146",
+      "posted_at": "Friday 23 October 2026 at 11:45",
+      "first_scraped_at": "2026-10-23T19:06:40.311379+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "place for November Hi! I'm Emmanuel, 24, a graduate student at Mercy University's Manhattan campus. Looking for a sublet for",
+      "group_id": "312692887868061"
     }
   ]
 }
