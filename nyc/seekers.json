@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-23T14:16:13.664731",
-  "count": 453,
+  "updated_at": "2026-10-23T15:17:17.598216",
+  "count": 454,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13630,6 +13630,38 @@
       "first_scraped_at": "2026-10-23T21:07:20.486066+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "1 lease or sublet ASAP Hi Everyone! I will be starting a new job in NYC beginning of November so",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255521151679346",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hell's Kitchen",
+        "Chelsea",
+        "Murray Hill",
+        "Kips Bay"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two young male professionals\u2014one in medical device sales and one in finance\u2014clean, active, and social; they enjoy working out, sports, restaurants, and travel.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255521151679346",
+      "posted_at": "Friday 23 October 2026 at 14:01",
+      "first_scraped_at": "2026-10-23T22:07:26.153086+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a third roommate to join us in search of an apartment in/near the midtown Manhattan area (Hells Kitchen,",
       "group_id": "149460102285472"
     }
   ]
