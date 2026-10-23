@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T09:06:14.636806",
-  "count": 3271,
+  "updated_at": "2026-10-23T10:06:24.067501",
+  "count": 3272,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101139,6 +101139,50 @@
       "first_scraped_at": "2026-10-23T14:00:03.419815+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room in San Francisco Move-in November 1st Hi everyone! My name is Simone, I'm 33 years old and originally from",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2040618246629747",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-01-03",
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "Outer Sunset",
+        "West Portal",
+        "Glen Park",
+        "Noe Valley",
+        "Inner Richmond",
+        "Bernal Heights",
+        "Merced Heights",
+        "Parkmerced",
+        "Westwood Park",
+        "Miraloma Park",
+        "Daly City",
+        "South San Francisco",
+        "San Bruno",
+        "Pacifica"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are a professional couple relocating from Copenhagen for work seeking a furnished short-term (about 1 month) studio or 1BR. They are clean, quiet, non-smoking, pet-free and can provide references.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040618246629747",
+      "posted_at": "Friday 23 October 2026 at 07:01",
+      "first_scraped_at": "2026-10-23T17:00:05.135308+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "from 1st Dec Hi everyone! We are a couple relocating from Copenhagen for work We are looking for a temporary",
       "group_id": "242765489748374"
     }
   ]
