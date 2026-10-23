@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-22T21:18:57.487585",
-  "count": 1151,
+  "updated_at": "2026-10-22T22:17:35.967757",
+  "count": 1153,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -38392,6 +38392,65 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "in Greenwood South Slope, Brooklyn! Gross price 2,800 per month One month free on 12 months lease Net price 2,560",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28650613491274798",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1650,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28650613491274798",
+      "posted_at": "Thursday 22 October 2026 at 21:16",
+      "first_scraped_at": "2026-10-23T05:06:58.539984+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "am looking for a female roommate to take the private bedroom with private bathroom (not attached) for $1650/month in a",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28648335704835910",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1125,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "attached_bathroom",
+        "easy_access_to_transportation"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28648335704835910",
+      "posted_at": "Thursday 22 October 2026 at 17:16",
+      "first_scraped_at": "2026-10-23T05:06:58.539984+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "attached washroom is available Location: Beacon Avenue, jersey city Rent: $1125 Deposit: 1.5 month Easy access to transportation 12 minute",
+      "group_id": "765841576845364"
     }
   ]
 }
