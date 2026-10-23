@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T17:08:25.086162",
-  "count": 3257,
+  "updated_at": "2026-10-22T18:07:56.167633",
+  "count": 3258,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -100712,6 +100712,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a spot for the rest of the month in the city! Thanks- under 2k ideally.",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1394855239081386",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "rotation",
+      "age": null,
+      "bio": "They are a physical therapy student who will be in Berkeley for a rotation from January to April 2027 and is looking for a furnished single bedroom near campus.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1394855239081386",
+      "posted_at": "Thursday 22 October 2026 at 17:41",
+      "first_scraped_at": "2026-10-23T01:00:06.218870+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "furnished sublease Hi! I\u2019m currently a physical therapy student who will be in Berkeley for a rotation from Jan-April 2027.",
+      "group_id": "558742412692677"
     }
   ]
 }
