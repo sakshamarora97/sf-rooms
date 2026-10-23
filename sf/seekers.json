@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T18:07:56.167633",
-  "count": 3258,
+  "updated_at": "2026-10-22T19:07:49.455622",
+  "count": 3259,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -100740,6 +100740,33 @@
       "first_scraped_at": "2026-10-23T01:00:06.218870+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "furnished sublease Hi! I\u2019m currently a physical therapy student who will be in Berkeley for a rotation from Jan-April 2027.",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1394886955744881",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-22",
+      "move_out_date": "2026-11-29",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a one-week sublet (Nov 22\u201329). They can reliably take care of plants.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1394886955744881",
+      "posted_at": "Thursday 22 October 2026 at 18:41",
+      "first_scraped_at": "2026-10-23T02:00:03.536353+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "(or open to subletting) for the week of Thanksgiving (Nov 22-29)? Full apartments only (and I can take care of",
       "group_id": "558742412692677"
     }
   ]

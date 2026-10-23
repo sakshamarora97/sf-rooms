@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T18:07:56.167633",
-  "count": 2709,
+  "updated_at": "2026-10-22T19:07:49.455622",
+  "count": 2710,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -90313,6 +90313,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Nobhill Hey everyone! I\u2019m looking for someone to take over the lease on my 2BR apartment in Nob Hill. Super",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1394881585745418",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1283,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-11-01",
+      "available_until": "2027-05-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "furnished",
+        "furniture_included",
+        "near_bart",
+        "near_uc_berkeley"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1394881585745418",
+      "posted_at": "Thursday 22 October 2026 at 18:30",
+      "first_scraped_at": "2026-10-23T02:00:03.536353+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "private room PRIVATE bathroom in North Berkeley (1773 Oxford St, Gourmet Ghetto). $1,283/mo, all utilities included. Available Nov 1, 2026",
+      "group_id": "558742412692677"
     }
   ]
 }
