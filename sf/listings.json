@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T16:08:43.350568",
-  "count": 2708,
+  "updated_at": "2026-10-22T17:08:25.086162",
+  "count": 2709,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -90282,6 +90282,36 @@
       "first_scraped_at": "2026-10-22T23:00:04.922165+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Bathroom Available in 2B2B Astella Apartments, SoMa, SF Location: Astella Apartments, 975 Bryant Street, San Francisco, CA Rent: $1,840/month Available",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2040050860019819",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 5000,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040050860019819",
+      "posted_at": "Thursday 22 October 2026 at 16:18",
+      "first_scraped_at": "2026-10-23T00:00:05.659520+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Nobhill Hey everyone! I\u2019m looking for someone to take over the lease on my 2BR apartment in Nob Hill. Super",
       "group_id": "242765489748374"
     }
   ]

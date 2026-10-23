@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T16:08:43.350568",
-  "count": 3256,
+  "updated_at": "2026-10-22T17:08:25.086162",
+  "count": 3257,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -100684,6 +100684,33 @@
       "first_scraped_at": "2026-10-22T23:00:04.922165+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a room for 26\u201329 October 2026 (3 nights), ideally within walking distance of the Financial District",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2040052420019663",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-10-31",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term room in San Francisco for the remainder of the month; budget under $2,000.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040052420019663",
+      "posted_at": "Thursday 22 October 2026 at 16:21",
+      "first_scraped_at": "2026-10-23T00:00:05.659520+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a spot for the rest of the month in the city! Thanks- under 2k ideally.",
       "group_id": "242765489748374"
     }
   ]
