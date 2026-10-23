@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-22T20:20:15.784906",
-  "count": 433,
+  "updated_at": "2026-10-22T21:18:57.487585",
+  "count": 436,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13028,6 +13028,94 @@
       "first_scraped_at": "2026-10-23T03:09:06.240387+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "am looking for a month long sublet (private room) from Nov 25 to Dec 31st in Manhattan or Brooklyn in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2909992049367060",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working professional seeking a middle room who values a clean, peaceful living environment and good communication.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2909992049367060",
+      "posted_at": "Thursday 22 October 2026 at 20:32",
+      "first_scraped_at": "2026-10-23T04:07:16.063252+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "working professional looking for a middle room in Newport/Jersey City. I value a clean, peaceful living environment and good communication.",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2254807585084036",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Originally from Kiev, they studied film at Boston University and now work as a marketing assistant at a film production company in New York. They work in the office four days a week, enjoy going out to bars and restaurants, and describe themselves as chill and easygoing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2254807585084036",
+      "posted_at": "Thursday 22 October 2026 at 20:55",
+      "first_scraped_at": "2026-10-23T04:07:16.063252+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "New York ASAP Hey guys I'm looking for a room in NYC for November 1 (or earlier) move in! I'm",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2254788558419272",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a one-bedroom or studio near a subway; has a cityphesps voucher (Section 8).",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2254788558419272",
+      "posted_at": "Thursday 22 October 2026 at 20:21",
+      "first_scraped_at": "2026-10-23T04:07:16.063252+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1 bedroom apartment or a studio near subway. Budget $1900 And cityphesps voucher,section 8.",
       "group_id": "149460102285472"
     }
   ]
