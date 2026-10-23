@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-22T22:17:35.967757",
-  "count": 436,
+  "updated_at": "2026-10-23T06:16:39.092873",
+  "count": 438,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13116,6 +13116,68 @@
       "first_scraped_at": "2026-10-23T04:07:16.063252+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "1 bedroom apartment or a studio near subway. Budget $1900 And cityphesps voucher,section 8.",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255108778387250",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Harlem",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker looking for a studio or room available ASAP for a short sublet (1\u20132 months), willing to stay until early November.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255108778387250",
+      "posted_at": "Friday 23 October 2026 at 04:58",
+      "first_scraped_at": "2026-10-23T13:08:46.799536+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "A SUBLET IN NYC Hi everyone! I\u2019m looking for a studio or room in Manhattan, Harlem, Brooklyn, or Long Island,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2254949335069861",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-27",
+      "move_out_date": "2026-11-17",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Short-term visitor seeking a 1-bedroom or studio in Manhattan for a flexible stay. Describes themself as very clean, respectful, responsible, and communicative.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2254949335069861",
+      "posted_at": "Friday 23 October 2026 at 00:57",
+      "first_scraped_at": "2026-10-23T13:08:46.799536+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Seeking 1bed or Studio in Manhattan Hi guys! Looking for a place to rent for my next visit. Dates are",
       "group_id": "149460102285472"
     }
   ]
