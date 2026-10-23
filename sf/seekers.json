@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T06:08:38.948705",
-  "count": 3270,
+  "updated_at": "2026-10-23T07:07:07.084188",
+  "count": 3271,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101108,6 +101108,38 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking for a studio or 1B1B apartment in the Bay Area. Location: Redwood City, Menlo Park, Mountain View, or nearby",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2040368903321348",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Russian Hill",
+        "Chinatown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 33,
+      "bio": "33-year-old waiter originally from Italy, quiet, clean, respectful, and responsible. Seeking a private room long-term in San Francisco with good transit access.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040368903321348",
+      "posted_at": "Friday 23 October 2026 at 01:06",
+      "first_scraped_at": "2026-10-23T14:00:03.419815+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room in San Francisco Move-in November 1st Hi everyone! My name is Simone, I'm 33 years old and originally from",
+      "group_id": "242765489748374"
     }
   ]
 }
