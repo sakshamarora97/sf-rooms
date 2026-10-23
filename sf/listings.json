@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T15:07:22.100473",
-  "count": 2729,
+  "updated_at": "2026-10-23T16:06:48.097951",
+  "count": 2731,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -90986,6 +90986,76 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "1.5 Bath Townhouse in Mountain View $4,050/month Available December 1 Hi everyone! My roommate and I are looking for someone",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2040969483261290",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1625,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "roof_access",
+        "walk_in_closet",
+        "shared_bathroom",
+        "laundromat_with_tap_to_pay",
+        "top_floor",
+        "golden_gate_view"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040969483261290",
+      "posted_at": "Friday 23 October 2026 at 15:54",
+      "first_scraped_at": "2026-10-23T23:00:07.124945+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "housemate, private room for rent, $1625 Nob Hill Hi everyone! I\u2019m Megan, and my roommate is moving out end of",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2770893413306463",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1249,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-01-01",
+      "available_until": "2026-08-01",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "shared_kitchen",
+        "shared_living_room",
+        "balcony",
+        "secure_entry",
+        "parking",
+        "shared_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female preferred",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2770893413306463",
+      "posted_at": "Friday 23 October 2026 at 15:48",
+      "first_scraped_at": "2026-10-23T23:00:07.124945+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "is Stephania and I will be studying abroad this spring. I am looking for someone to sublease my wonderful, corner,",
+      "group_id": "128476910881473"
     }
   ]
 }
