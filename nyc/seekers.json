@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-22T16:18:35.808713",
-  "count": 429,
+  "updated_at": "2026-10-22T17:18:42.120314",
+  "count": 430,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -12906,6 +12906,36 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "lease takeover or roommate in JSQ Grove St (Jan-Feb move-in) Hi everyone! My name is Corrine, I'm a recent grad",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2254667148431413",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is in the military seeking a room in Manhattan or Brooklyn with a budget up to $1,600/month, available ASAP. Will be rarely present due to working upstate.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2254667148431413",
+      "posted_at": "Thursday 22 October 2026 at 16:59",
+      "first_scraped_at": "2026-10-23T00:08:29.630026+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room up to $1600 asap Military looking for a room in nyc Bronx Brookyln or manhattan. To move in asap",
+      "group_id": "149460102285472"
     }
   ]
 }
