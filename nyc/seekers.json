@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-23T15:17:17.598216",
-  "count": 454,
+  "updated_at": "2026-10-23T16:15:49.752608",
+  "count": 456,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13663,6 +13663,64 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "looking for a third roommate to join us in search of an apartment in/near the midtown Manhattan area (Hells Kitchen,",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255585158339612",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "23-year-old moving to Manhattan to start a new job in Midtown. Clean and organized, enjoys cooking, dancing, and social nights or quiet nights in.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255585158339612",
+      "posted_at": "Friday 23 October 2026 at 16:00",
+      "first_scraped_at": "2026-10-23T23:06:52.417063+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet in November! Hi! I'm a 23 year old who is moving to Manhattan to start a new job in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "994519476352062",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a furnished studio or one-bedroom below 100th Street for 1\u20134 months or month-to-month, budget $3,000/month. Prefers buildings with laundry in-unit or in-building and an elevator if above the fourth floor; open to sublets and lease takeovers.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/994519476352062",
+      "posted_at": "Friday 23 October 2026 at 15:57",
+      "first_scraped_at": "2026-10-23T23:06:52.417063+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "a furnished studio or 1 bedroom to move in right away anywhere below 100th street with at least a bed",
+      "group_id": "312692887868061"
     }
   ]
 }
