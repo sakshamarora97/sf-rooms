@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-23T12:17:22.661267",
-  "count": 450,
+  "updated_at": "2026-10-23T13:15:24.740410",
+  "count": 452,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13539,6 +13539,68 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "place for November Hi! I'm Emmanuel, 24, a graduate student at Mercy University's Manhattan campus. Looking for a sublet for",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2255486681682793",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Ridgewood"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are a professional couple\u2014one works in the legal field and the other is a licensed social worker\u2014seeking stable year-long housing. They describe themselves as neat, social yet quiet when needed; one is a part-time musician who needs space for instruments and a studio setup.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255486681682793",
+      "posted_at": "Friday 23 October 2026 at 13:04",
+      "first_scraped_at": "2026-10-23T20:06:04.024031+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for a room or two starting January or February My girlfriend (24) and I (25) are currently living together in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255451825019612",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 23,
+      "bio": "They are a 23-year-old software engineer from Ireland, described as clean, tidy, and easy to live with.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255451825019612",
+      "posted_at": "Friday 23 October 2026 at 12:09",
+      "first_scraped_at": "2026-10-23T20:06:04.024031+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking to sublet a room starting between now and the 1st Nov for a few months. I'm a 23 year",
+      "group_id": "149460102285472"
     }
   ]
 }
