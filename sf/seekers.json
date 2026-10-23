@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-22T22:06:54.125225",
-  "count": 3265,
+  "updated_at": "2026-10-23T06:08:38.948705",
+  "count": 3270,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -100949,6 +100949,164 @@
       "first_scraped_at": "2026-10-23T03:00:05.126791+00:00",
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "studio and or roommate. Preferably in the east bay or north Bay Area\u2019s. I am a 27 year old woman",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2040315013326737",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1625,
+      "budget_max": 1625,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyside"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks roommates to apply to a 4B2B in Sunnyside and would take the primary room with a private bath. Prefers a social household that isn\u2019t loud late on weeknights and notes a ~25\u201330 minute public-transit commute to FiDi.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040315013326737",
+      "posted_at": "Thursday 22 October 2026 at 23:41",
+      "first_scraped_at": "2026-10-23T13:00:03.840956+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for people to apply to a 4b2b with me asap! I would be taking the primary room with attached",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2040304793327759",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3800,
+      "unit_type_wanted": [
+        "1B1B",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Mission District",
+        "Inner Richmond",
+        "Cow Hollow",
+        "Marina",
+        "Potrero Hill",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recently moved from Los Angeles to San Francisco to start work at a tech company; seeking a long-term one-bedroom apartment and bringing a small Cavapoo dog.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040304793327759",
+      "posted_at": "Thursday 22 October 2026 at 23:22",
+      "first_scraped_at": "2026-10-23T13:00:03.840956+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "1-bedroom apartment in San Francisco! I recently moved to SF from LA to work for a tech company, and I'm",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4393594730951278",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "He is a 23-year-old seeking a room or studio in the East Bay or North Bay with a budget up to $1,000/month and is open to living with roommates.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4393594730951278",
+      "posted_at": "Friday 23 October 2026 at 03:41",
+      "first_scraped_at": "2026-10-23T13:00:03.840956+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "a 23-year-old guy looking for a room to rent or a studio in the East Bay or North Bay Area.",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4392650091045742",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "2B2B",
+        "3-bedroom apartment",
+        "townhouse"
+      ],
+      "preferred_neighborhoods": [
+        "Milpitas",
+        "North San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room (preferably with a private bathroom) in Milpitas or North San Jose. Ready to sign a lease or sublease immediately.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4392650091045742",
+      "posted_at": "Friday 23 October 2026 at 03:40",
+      "first_scraped_at": "2026-10-23T13:00:03.840956+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for accommodation in Milpitas or North San Jose, preferably a private room with a private bathroom in a 2B2B,",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4393685647608853",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "Menlo Park",
+        "Mountain View"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a studio or 1B1B apartment in Redwood City, Menlo Park, Mountain View, or nearby, preferably close to Google. They prefer long-term leases, need parking, and have a budget of $3,000\u2013$3,500/month.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4393685647608853",
+      "posted_at": "Friday 23 October 2026 at 03:40",
+      "first_scraped_at": "2026-10-23T13:00:03.840956+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for a studio or 1B1B apartment in the Bay Area. Location: Redwood City, Menlo Park, Mountain View, or nearby",
       "group_id": "1511607562483357"
     }
   ]
