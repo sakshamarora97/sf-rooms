@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T11:06:58.372885",
-  "count": 3272,
+  "updated_at": "2026-10-23T12:06:32.914087",
+  "count": 3275,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101183,6 +101183,93 @@
       "first_scraped_at": "2026-10-23T17:00:05.135308+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "from 1st Dec Hi everyone! We are a couple relocating from Copenhagen for work We are looking for a temporary",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4757588167809519",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2400,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District",
+        "Richmond District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Cal Poly graduate moving to San Francisco in December to start a Field Engineer job in January. Has three years' experience as a metal fabricator doing installations in and around San Francisco.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4757588167809519",
+      "posted_at": "Friday 23 October 2026 at 10:53",
+      "first_scraped_at": "2026-10-23T19:00:03.780937+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room or roommates in San Francisco December move-in Hi everyone! I\u2019m moving to San Francisco in December and starting a",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2040827606608811",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040827606608811",
+      "posted_at": "Friday 23 October 2026 at 11:33",
+      "first_scraped_at": "2026-10-23T19:00:03.780937+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in North Beach or Nob Hill for 3 months",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2040807256610846",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040807256610846",
+      "posted_at": "Friday 23 October 2026 at 11:10",
+      "first_scraped_at": "2026-10-23T19:00:03.780937+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room in San Francisco (Female) Hi everyone! I\u2019m looking for a room for a female in San Francisco. Preferably looking",
       "group_id": "242765489748374"
     }
   ]
