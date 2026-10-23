@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-23T08:15:34.253702",
-  "count": 442,
+  "updated_at": "2026-10-23T09:14:39.750448",
+  "count": 445,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13299,6 +13299,95 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Roommate Lease-Sharing Partner North Jersey* Hi everyone! I\u2019m looking for someone interested in *sharing a 2 Bed 2 Bath apartment*",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2255308095033985",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-30",
+      "move_out_date": "2026-11-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "SoHo"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "A couple from the Hudson Valley visiting for a show, seeking a short sublet near SoHo from Oct 30 to Nov 1.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255308095033985",
+      "posted_at": "Friday 23 October 2026 at 08:58",
+      "first_scraped_at": "2026-10-23T16:06:19.059982+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet Oct. 30-Nov 1. My husband and I live in the HV and are coming down for a show. Ideally",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255275705037224",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "sublet",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255275705037224",
+      "posted_at": "Friday 23 October 2026 at 08:19",
+      "first_scraped_at": "2026-10-23T16:06:19.059982+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for a month to month sublet up to 15 min from Manhattan for $1000 or in Manhattan for $1500 Please",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255269851704476",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Queens",
+        "Brooklyn"
+      ],
+      "area": "Queens",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a furnished private room sublease in Queens or Brooklyn starting Nov 1 for a few months, budget up to $1,500/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255269851704476",
+      "posted_at": "Friday 23 October 2026 at 08:11",
+      "first_scraped_at": "2026-10-23T16:06:19.059982+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room needed Nov 1 under $1500 Looking for a furnished private room sublease in NYC starting November 1st for a",
+      "group_id": "149460102285472"
     }
   ]
 }
