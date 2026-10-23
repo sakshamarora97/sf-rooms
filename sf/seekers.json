@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T13:05:59.591023",
-  "count": 3275,
+  "updated_at": "2026-10-23T14:07:16.003900",
+  "count": 3277,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101270,6 +101270,68 @@
       "first_scraped_at": "2026-10-23T19:00:03.780937+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room in San Francisco (Female) Hi everyone! I\u2019m looking for a room for a female in San Francisco. Preferably looking",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4757729551128714",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "SoMa",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old who recently moved from Washington for a tech job and works onsite in the South Bay. Social, enjoys golf, poker, and basketball; cooks at home sometimes, neat and clean, non-smoker, no pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4757729551128714",
+      "posted_at": "Friday 23 October 2026 at 13:44",
+      "first_scraped_at": "2026-10-23T21:00:05.423952+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "SoMa Looking for sublease or roommates to sign up a place in mission bay or SoMa district with walking distance",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2040874393270799",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent Master's graduate starting work as a Robotics Engineer in San Francisco with a hybrid schedule. Enjoys cooking, playing badminton, and movies; clean and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040874393270799",
+      "posted_at": "Friday 23 October 2026 at 12:50",
+      "first_scraped_at": "2026-10-23T21:00:05.423952+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "ROOM/ROOMMATE IN SF EARLY MOVE IN Hi everyone! My name is Madhav. I\u2019m moving to San Francisco next week and",
       "group_id": "242765489748374"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T13:05:59.591023",
-  "count": 2724,
+  "updated_at": "2026-10-23T14:07:16.003900",
+  "count": 2726,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -90821,6 +90821,69 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Bathroom Available in SoMa, San Francisco! Looking for a roommate for a spacious 2 Bed 2 Bath apartment in the",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4757595191142150",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Bayview",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "top_floor",
+        "condo"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4757595191142150",
+      "posted_at": "Friday 23 October 2026 at 11:02",
+      "first_scraped_at": "2026-10-23T21:00:05.423952+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "my 2 bedroom 2 bathroom top floor condo apartment in Bayview District. For more details, please refer to the Zillow",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1395592672340976",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "bike_storage",
+        "coin_op_laundry",
+        "fire_escape"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": "female identifying preferred",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1395592672340976",
+      "posted_at": "Friday 23 October 2026 at 13:28",
+      "first_scraped_at": "2026-10-23T21:00:05.423952+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for Spring 2027* Hi, my name is Sam, and I am looking for someone to sublet my single bedroom in",
+      "group_id": "558742412692677"
     }
   ]
 }
