@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T06:08:14.688547",
-  "count": 3288,
+  "updated_at": "2026-10-24T07:06:27.443179",
+  "count": 3289,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101668,6 +101668,36 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "to this group. I recently joined because I wish to search housing for one person inSan Francisco area",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2041217569903148",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old Berkeley graduate who works in tech and is active outdoors; enjoys running, spending time in parks, camping, and playing soccer, tennis, and volleyball.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041217569903148",
+      "posted_at": "Friday 23 October 2026 at 22:49",
+      "first_scraped_at": "2026-10-24T14:00:08.142050+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and I\u2019m looking to join a lease in marina cow hollow hi hi!! a little about me! I\u2019m 24, grew",
+      "group_id": "242765489748374"
     }
   ]
 }
