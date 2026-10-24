@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T21:07:30.987095",
-  "count": 3283,
+  "updated_at": "2026-10-23T22:09:14.420231",
+  "count": 3285,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101512,6 +101512,76 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "room in Oakland starting November Hello! I am searching for a room for me and my dog in Oakland starting",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4758057581095911",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-21",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "2+ bedroom",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Potrero Hill",
+        "Mission District",
+        "Rincon Hill",
+        "South Beach",
+        "Hayes Valley",
+        "NoPa",
+        "Lower Haight",
+        "North Beach",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "They are a 25-year-old working at a tech startup in San Francisco. They are tidy, cook often, play tennis (played in college), and enjoy trying restaurants and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4758057581095911",
+      "posted_at": "Friday 23 October 2026 at 21:29",
+      "first_scraped_at": "2026-10-24T05:00:03.246123+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "roommate for a 2+ bed apt, OR open to joining an existing long-term lease or taking one over Hey everyone!",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2041148379910067",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old who works in Belmont and commutes to the office daily. Tidy, easygoing, non-smoker who doesn't drink and prefers not to have guests regularly.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041148379910067",
+      "posted_at": "Friday 23 October 2026 at 20:57",
+      "first_scraped_at": "2026-10-24T05:00:03.246123+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate to sign a 2B/2B lease with Hello! I\u2019ve found a pretty nice 2B2B in a nice apartment community in",
+      "group_id": "242765489748374"
     }
   ]
 }
