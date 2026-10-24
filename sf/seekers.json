@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T13:05:55.342826",
-  "count": 3293,
+  "updated_at": "2026-10-24T14:06:48.396267",
+  "count": 3294,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101815,6 +101815,39 @@
       "first_scraped_at": "2026-10-24T18:00:03.150036+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a spot for until December Flexible on talking through pricing and location anywhere commutable to downtown in 10-20 min be",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2041773493180889",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-10-24",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Mountain View",
+        "Redwood City",
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old master's graduate who recently moved to the Bay Area and is starting at a robotics startup in Palo Alto. Tidy, easygoing, enjoys cafes, working out, badminton, and meal prepping.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041773493180889",
+      "posted_at": "Saturday 24 October 2026 at 12:15",
+      "first_scraped_at": "2026-10-24T21:00:06.760997+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate for a 2-bed, 2-bath apartment in Sunnyvale, Mountain View, Redwood City or Palo Alto (near Caltrain station) Hey everyone!",
       "group_id": "242765489748374"
     }
   ]
