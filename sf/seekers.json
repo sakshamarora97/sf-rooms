@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T09:06:11.617756",
-  "count": 3290,
+  "updated_at": "2026-10-24T10:06:22.232206",
+  "count": 3292,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101726,6 +101726,69 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "am looking for a female-friendly short-term sublet. Dates: November 1\u201320, Rent preferably under $1,000 (for 20 days) If you have",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2041662546525317",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-11",
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent Berkeley graduate and tech startup employee seeking a roommate in San Francisco. Enjoys chess, poker, and driving around the Bay.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041662546525317",
+      "posted_at": "Saturday 24 October 2026 at 09:32",
+      "first_scraped_at": "2026-10-24T17:00:07.469370+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hi! Looking for a roommate in SF (ideally near FiDi, but happy to look around the area) with an individual",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2041610119863893",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2-bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "NoPa",
+        "Haight-Ashbury",
+        "Cole Valley",
+        "Inner Richmond",
+        "Inner Sunset",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks an unfurnished two-bedroom apartment in San Francisco starting in December or January. Prefers a 1-year lease (open to lease takeovers) and neighborhoods like NoPa, Haight-Ashbury, Cole Valley, Inner Richmond, Inner Sunset, and Hayes Valley.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041610119863893",
+      "posted_at": "Saturday 24 October 2026 at 08:24",
+      "first_scraped_at": "2026-10-24T17:00:07.469370+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in SF Hi everyone! I\u2019m on the hunt for an unfurnished 2-bedroom apartment in SF, ideally starting in December or",
+      "group_id": "242765489748374"
     }
   ]
 }
