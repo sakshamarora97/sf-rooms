@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T17:06:38.857849",
-  "count": 3278,
+  "updated_at": "2026-10-23T18:07:44.380409",
+  "count": 3280,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101362,6 +101362,65 @@
       "first_scraped_at": "2026-10-24T00:00:05.944994+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in SF Hi everyone, I'm 21F. Recently graduated and moved from London to SF to start my new Tech job",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4757870301114639",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 4200,
+      "unit_type_wanted": [
+        "private room",
+        "2B",
+        "3B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 27,
+      "bio": "27-year-old moving back to San Francisco after time in Berkeley; laid-back, easygoing, and values good communication.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4757870301114639",
+      "posted_at": "Friday 23 October 2026 at 17:14",
+      "first_scraped_at": "2026-10-24T01:00:06.723210+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Kashyap and I\u2019ve been in the Bay Area since 2022. I spent some time in Berkeley and am",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2041014679923437",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Young professional training to be a pharmacy technician with a background in lifeguarding and swim instruction; creative\u2014makes music, sketch comedy, and filmmaking; respectful and easygoing roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041014679923437",
+      "posted_at": "Friday 23 October 2026 at 17:15",
+      "first_scraped_at": "2026-10-24T01:00:06.723210+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Tony, I\u2019m 22, and I\u2019m looking for roommates or an available room somewhere in the East Bay! A",
       "group_id": "242765489748374"
     }
   ]

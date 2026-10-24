@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T17:06:38.857849",
-  "count": 2733,
+  "updated_at": "2026-10-23T18:07:44.380409",
+  "count": 2734,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -91130,6 +91130,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Private Bathroom Available in 2BR/2BA apartment Civic Center/Hayes Valley/SOMA Hello! I am looking for one roommate (student/professional) to share my",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1395700425663534",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 965,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "full_kitchen",
+        "laundry_in_building",
+        "decks",
+        "bay_view",
+        "top_floor"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female-identifying",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1395700425663534",
+      "posted_at": "Friday 23 October 2026 at 17:14",
+      "first_scraped_at": "2026-10-24T01:00:06.723210+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Hi! I am subleasing my double and am looking for a female-identifying subleaser! It\u2019s located on south side near Clark",
+      "group_id": "558742412692677"
     }
   ]
 }
