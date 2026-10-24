@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-24T10:16:49.919989",
-  "count": 466,
+  "updated_at": "2026-10-24T11:16:20.535802",
+  "count": 467,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14005,6 +14005,38 @@
       "first_scraped_at": "2026-10-24T17:06:26.362761+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Looking for a 1 bedroom apartment/studio to rent for 1 month March to April (dates flexible). Budget ideally between \u00a31,500",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2256319998266128",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Crown Heights",
+        "Bushwick"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": 23,
+      "bio": "Graduate student at Parsons in a design history/curatorial studies MA who works at a vintage shop. Creative, clean, friendly roommate who enjoys making art, reading, movies, galleries/museums, and nature.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2256319998266128",
+      "posted_at": "Saturday 24 October 2026 at 10:29",
+      "first_scraped_at": "2026-10-24T18:07:45.277640+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "is selah (23yrs old) I am URGENTLY looking for a sublet starting Nov 1st in Brooklyn open to Bedstuy, Crown",
       "group_id": "149460102285472"
     }
   ]
