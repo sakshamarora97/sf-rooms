@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T19:08:42.433064",
-  "count": 3281,
+  "updated_at": "2026-10-23T20:09:13.884162",
+  "count": 3282,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101449,6 +101449,39 @@
       "first_scraped_at": "2026-10-24T02:00:06.746341+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in sf 1b/1ba budget around $1200 dm",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2041073009917604",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Cow Hollow",
+        "Marina",
+        "Russian Hill",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 25,
+      "bio": "25-year-old moving to San Francisco from Chicago. Active (cycling, running, surfing, swimming), social, enjoys cooking and keeps shared spaces very clean.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041073009917604",
+      "posted_at": "Friday 23 October 2026 at 18:58",
+      "first_scraped_at": "2026-10-24T03:00:06.504271+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a room/roommates in the city for a January move in. I\u2019m 25 years old and am moving to",
       "group_id": "242765489748374"
     }
   ]
