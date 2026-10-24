@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T22:09:14.420231",
-  "count": 3285,
+  "updated_at": "2026-10-24T06:08:14.688547",
+  "count": 3288,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101582,6 +101582,92 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommate to sign a 2B/2B lease with Hello! I\u2019ve found a pretty nice 2B2B in a nice apartment community in",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1396156465617930",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond",
+        "El Cerrito"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recent arrival to the Bay Area seeking a studio or private room within a $1,800 budget. Clean, responsible, respectful, and a non-smoker.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1396156465617930",
+      "posted_at": "Saturday 24 October 2026 at 06:01",
+      "first_scraped_at": "2026-10-24T13:00:03.917546+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "name is Arda, and I recently moved to the Bay Area. I\u2019m currently looking for a place to rent, preferably",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4394795610831190",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 41,
+      "bio": "41-year-old seeking a room in Berkeley or Oakland after being asked to move by the end of November; currently looking for work and has family paying rent. Non-smoker, no pets, prefers no parties or drama.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4394795610831190",
+      "posted_at": "Saturday 24 October 2026 at 03:25",
+      "first_scraped_at": "2026-10-24T13:00:03.917546+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "in Berkeley or Oakland Hello I am Dzi Dahzi) I am 41 years old living in Alcatraz and my landlord",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4394806527496765",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "New to the group and searching for housing in San Francisco for one person.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4394806527496765",
+      "posted_at": "Saturday 24 October 2026 at 03:25",
+      "first_scraped_at": "2026-10-24T13:00:03.917546+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "to this group. I recently joined because I wish to search housing for one person inSan Francisco area",
+      "group_id": "1511607562483357"
     }
   ]
 }
