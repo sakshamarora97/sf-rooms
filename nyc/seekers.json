@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-23T20:17:56.296822",
-  "count": 459,
+  "updated_at": "2026-10-23T21:16:50.896757",
+  "count": 460,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13803,6 +13803,36 @@
       "first_scraped_at": "2026-10-24T01:07:48.731253+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Brooklyn Nov 1st Hey guyss I\u2019m urgently ISO a room in brooklyn for Nov 1st. I have 1 cat named",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2255731344991660",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-29",
+      "move_out_date": "2026-11-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lower East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "She is a solo female entrepreneur who owns a boutique luxury property management company in Los Angeles. Clean, quiet, responsible, and respectful; visiting friends in NYC for a short stay.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2255731344991660",
+      "posted_at": "Friday 23 October 2026 at 20:15",
+      "first_scraped_at": "2026-10-24T04:07:35.178668+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Apartment Venice Blvd, Los Angeles, CA, United States SEEKING: Lower Manhattan, NYC Oct 27/28/29 Nov 1/2 (Flexible Dates) Ideally looking",
       "group_id": "149460102285472"
     }
   ]

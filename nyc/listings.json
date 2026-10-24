@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-23T20:17:56.296822",
-  "count": 1218,
+  "updated_at": "2026-10-23T21:16:50.896757",
+  "count": 1219,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -40636,6 +40636,39 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "RENT* Newark Ave, Jersey city, NJ 07306(INDIAN SQUARE) *Permanent or Temporary accommodation $900/month utilities Move-in: Anytime One private room available",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28067008766310648",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Whitestone",
+      "area": "Queens",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "utilities_included",
+        "parking",
+        "near_transportation",
+        "supermarket"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/28067008766310648",
+      "posted_at": "Friday 23 October 2026 at 20:59",
+      "first_scraped_at": "2026-10-24T04:07:35.178668+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "bedroom apartment all utilities included residential neighborhood Whitestone easy to park near transportation supermarket and more",
+      "group_id": "812568135514746"
     }
   ]
 }
