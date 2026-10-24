@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T08:05:58.299266",
-  "count": 3289,
+  "updated_at": "2026-10-24T09:06:11.617756",
+  "count": 3290,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101698,6 +101698,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "and I\u2019m looking to join a lease in marina cow hollow hi hi!! a little about me! I\u2019m 24, grew",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1396250918941818",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-11-20",
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker seeking a female-friendly short-term sublet from 2026-11-01 to 2026-11-20 with a budget under $1,000 for the 20-day stay.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1396250918941818",
+      "posted_at": "Saturday 24 October 2026 at 08:09",
+      "first_scraped_at": "2026-10-24T16:00:03.720254+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "am looking for a female-friendly short-term sublet. Dates: November 1\u201320, Rent preferably under $1,000 (for 20 days) If you have",
+      "group_id": "558742412692677"
     }
   ]
 }
