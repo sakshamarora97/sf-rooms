@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T18:07:44.380409",
-  "count": 3280,
+  "updated_at": "2026-10-23T19:08:42.433064",
+  "count": 3281,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101421,6 +101421,34 @@
       "first_scraped_at": "2026-10-24T01:00:06.723210+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Tony, I\u2019m 22, and I\u2019m looking for roommates or an available room somewhere in the East Bay! A",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2041047193253519",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a room or 1B1B in San Francisco with a budget around $1200.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041047193253519",
+      "posted_at": "Friday 23 October 2026 at 18:14",
+      "first_scraped_at": "2026-10-24T02:00:06.746341+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in sf 1b/1ba budget around $1200 dm",
       "group_id": "242765489748374"
     }
   ]
