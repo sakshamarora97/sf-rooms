@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-23T22:18:32.620142",
-  "count": 460,
+  "updated_at": "2026-10-24T06:17:42.452831",
+  "count": 462,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -13834,6 +13834,60 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Apartment Venice Blvd, Los Angeles, CA, United States SEEKING: Lower Manhattan, NYC Oct 27/28/29 Nov 1/2 (Flexible Dates) Ideally looking",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28665236283145852",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-06",
+      "move_out_date": "2026-11-14",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Two people traveling to NY/NJ from November 6\u201314 seeking short-term accommodation; they will be out most days exploring the city.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28665236283145852",
+      "posted_at": "Friday 23 October 2026 at 22:22",
+      "first_scraped_at": "2026-10-24T13:08:20.040739+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "travelling to NY/NJ on November 6 thru November 14th. I\u2019m looking for an accommodation for two people. We would mostly",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "994855212985155",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-10-30",
+      "move_out_date": null,
+      "budget_min": 750,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "28-year-old male server moving to NYC, easygoing, respectful, and adaptable; seeking an affordable shared room with convenient transit access to Manhattan.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/994855212985155",
+      "posted_at": "Saturday 24 October 2026 at 02:01",
+      "first_scraped_at": "2026-10-24T13:08:20.040739+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "I\u2019ll be moving to New York City on October 30th and am looking for a shared room with a budget",
+      "group_id": "312692887868061"
     }
   ]
 }
