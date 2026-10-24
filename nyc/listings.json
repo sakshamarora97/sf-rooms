@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-24T08:15:22.966055",
-  "count": 1244,
+  "updated_at": "2026-10-24T09:15:12.152319",
+  "count": 1245,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -41513,6 +41513,36 @@
       "first_scraped_at": "2026-10-24T15:06:02.819717+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "IN YONKERS! Looking for your next home? Come explore this beautiful property at 138 Morsemere Avenue, Yonkers, NY! Offered at",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "995136612957015",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/995136612957015",
+      "posted_at": "Saturday 24 October 2026 at 08:49",
+      "first_scraped_at": "2026-10-24T16:06:16.152701+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "room with private bathroom! You can write to me for more information! thanks See original Rate this translation",
       "group_id": "312692887868061"
     }
   ]
