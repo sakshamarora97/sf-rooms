@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T15:05:57.620480",
-  "count": 3295,
+  "updated_at": "2026-10-24T16:05:59.841554",
+  "count": 3296,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101878,6 +101878,42 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "moving to San Francisco for a new job in December and was curious if anyone has any subletting accommodations or",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2041818189843086",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "San Mateo",
+        "Foster City",
+        "Sunnyvale",
+        "Mountain View",
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 28,
+      "bio": "A 28-year-old tech worker who recently relocated to the Bay Area and works in Redwood City. They are chill, easygoing, mindful of shared spaces, enjoy traveling, and seek a long-term studio/1B1B/2B2B within a $2300/month budget.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041818189843086",
+      "posted_at": "Saturday 24 October 2026 at 13:34",
+      "first_scraped_at": "2026-10-24T23:00:03.445006+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "am looking for a room roommates for December move in, in and around Redwood City San Mateo Foster City, and",
+      "group_id": "242765489748374"
     }
   ]
 }
