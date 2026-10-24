@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T20:09:13.884162",
-  "count": 3282,
+  "updated_at": "2026-10-23T21:07:30.987095",
+  "count": 3283,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101483,6 +101483,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a room/roommates in the city for a January move in. I\u2019m 25 years old and am moving to",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4394362797541138",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1999,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": null,
+      "age": 28,
+      "bio": "A 28-year-old architectural designer originally from Houston who lived in Barcelona for two years. Clean, respectful, seeks a peaceful home and enjoys pottery, hiking, board games, and crafts.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4394362797541138",
+      "posted_at": "Friday 23 October 2026 at 19:39",
+      "first_scraped_at": "2026-10-24T04:00:07.562104+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "room in Oakland starting November Hello! I am searching for a room for me and my dog in Oakland starting",
+      "group_id": "1511607562483357"
     }
   ]
 }
