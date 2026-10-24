@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T14:06:48.396267",
-  "count": 3294,
+  "updated_at": "2026-10-24T15:05:57.620480",
+  "count": 3295,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101849,6 +101849,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "roommate for a 2-bed, 2-bath apartment in Sunnyvale, Mountain View, Redwood City or Palo Alto (near Caltrain station) Hey everyone!",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4758893434345659",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet",
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Moving to San Francisco for a new job in December; prioritizes affordability and is open to roommates. Recently finished a stint living in the Cayman Islands.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4758893434345659",
+      "posted_at": "Saturday 24 October 2026 at 13:36",
+      "first_scraped_at": "2026-10-24T22:00:05.649365+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "moving to San Francisco for a new job in December and was curious if anyone has any subletting accommodations or",
+      "group_id": "2176716625896699"
     }
   ]
 }
