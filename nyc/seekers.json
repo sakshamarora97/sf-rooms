@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-24T13:15:19.877685",
-  "count": 469,
+  "updated_at": "2026-10-24T14:16:27.073657",
+  "count": 472,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14103,6 +14103,94 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for a place starting Nov 1. I'm 24M, doing research at NYU, and willing to sign a long term lease.",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2256450688253059",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-29",
+      "move_out_date": "2026-11-02",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Long Island City"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "They are two visitors seeking short-term accommodation from 2026-10-29 to 2026-11-02, open to Manhattan, Brooklyn, or Long Island City.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2256450688253059",
+      "posted_at": "Saturday 24 October 2026 at 13:49",
+      "first_scraped_at": "2026-10-24T21:06:52.765842+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "29 Nov. 2 Hi all! I\u2019m looking for a place to stay during the above dates for a friend and",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2256432918254836",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a 1BR or studio on Manhattan's west side with flexible move-in (could be 2026-11-01 or early next year).",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2256432918254836",
+      "posted_at": "Saturday 24 October 2026 at 13:18",
+      "first_scraped_at": "2026-10-24T21:06:52.765842+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1BR or studio lease takeover on the west side of Manhattan, move-in can be super flexible! Could be Nov 1",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2256431334921661",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "East Williamsburg",
+        "Bushwick"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 28,
+      "bio": "He is a 28-year-old senior graphic designer working in Manhattan, social and easygoing, enjoys bouldering, watching sports, and exploring the city. Values cleanliness, open communication, a quiet home during the week, and occasional small get-togethers.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2256431334921661",
+      "posted_at": "Saturday 24 October 2026 at 13:15",
+      "first_scraped_at": "2026-10-24T21:06:52.765842+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommates early to mid November A little about me: Names Akachi but everyone just calls me Ash. Mainly looking in",
+      "group_id": "149460102285472"
     }
   ]
 }
