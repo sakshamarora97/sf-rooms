@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-23T16:06:48.097951",
-  "count": 3277,
+  "updated_at": "2026-10-23T17:06:38.857849",
+  "count": 3278,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101332,6 +101332,36 @@
       "first_scraped_at": "2026-10-23T21:00:05.423952+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "ROOM/ROOMMATE IN SF EARLY MOVE IN Hi everyone! My name is Madhav. I\u2019m moving to San Francisco next week and",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2040720486619523",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room",
+        "3B3B",
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 21,
+      "bio": "Recent graduate from London starting a tech job in Cupertino. Hybrid schedule (3 days office / 2 days home); social and active, enjoys pilates, exploring restaurants, and weekend outings; seeking clean, respectful female roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2040720486619523",
+      "posted_at": "Friday 23 October 2026 at 16:35",
+      "first_scraped_at": "2026-10-24T00:00:05.944994+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in SF Hi everyone, I'm 21F. Recently graduated and moved from London to SF to start my new Tech job",
       "group_id": "242765489748374"
     }
   ]
