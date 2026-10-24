@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-24T11:16:20.535802",
-  "count": 467,
+  "updated_at": "2026-10-24T12:16:11.007654",
+  "count": 469,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14038,6 +14038,71 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "is selah (23yrs old) I am URGENTLY looking for a sublet starting Nov 1st in Brooklyn open to Bedstuy, Crown",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2256384414926353",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "sublet",
+        "lease_takeover",
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 29,
+      "bio": "29-year-old who is organized, easygoing and outgoing; works long hours and is often out. Enjoys going out to bars and restaurants, playing sports, playing guitar, movies and traveling.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2256384414926353",
+      "posted_at": "Saturday 24 October 2026 at 12:04",
+      "first_scraped_at": "2026-10-24T19:06:27.153094+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet/lease takeover I moved to New York City a few days ago and I\u2019m looking for a sublet sub-lease or",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "995226729614670",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan",
+        "Queens"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": 24,
+      "bio": "24-year-old doing research at NYU seeking long-term housing. Open to joining a place or finding one with someone; budget up to $1,500.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/995226729614670",
+      "posted_at": "Saturday 24 October 2026 at 10:58",
+      "first_scraped_at": "2026-10-24T19:06:27.153094+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "for a place starting Nov 1. I'm 24M, doing research at NYU, and willing to sign a long term lease.",
+      "group_id": "312692887868061"
     }
   ]
 }
