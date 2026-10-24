@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T10:06:22.232206",
-  "count": 3292,
+  "updated_at": "2026-10-24T11:07:41.053378",
+  "count": 3293,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101788,6 +101788,33 @@
       "first_scraped_at": "2026-10-24T17:00:07.469370+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in SF Hi everyone! I\u2019m on the hunt for an unfurnished 2-bedroom apartment in SF, ideally starting in December or",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2041699006521671",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They recently moved to San Francisco for work and are looking for a short sublease through December. Flexible on price and location; needs a bed and prefers places commutable to downtown within 10\u201320 minutes.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041699006521671",
+      "posted_at": "Saturday 24 October 2026 at 10:22",
+      "first_scraped_at": "2026-10-24T18:00:03.150036+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a spot for until December Flexible on talking through pricing and location anywhere commutable to downtown in 10-20 min be",
       "group_id": "242765489748374"
     }
   ]
