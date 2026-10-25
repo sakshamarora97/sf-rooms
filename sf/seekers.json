@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T19:05:44.978951",
-  "count": 3299,
+  "updated_at": "2026-10-24T20:05:56.443471",
+  "count": 3300,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102014,6 +102014,36 @@
       "first_scraped_at": "2026-10-25T01:00:03.191928+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for rent!** (furnished/unfurnished) Also open to any flexible monthly arrangement. Budget: up to ~$1200/mo **About me:** My name is Dez,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2041961616495410",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Originally from Bangalore and new to the Bay Area, they work in tech with a regular 9-5 schedule. They're clean, friendly, non-vegetarian, pet-free, and seeking an easygoing female flatmate to share a house or apartment.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041961616495410",
+      "posted_at": "Saturday 24 October 2026 at 18:09",
+      "first_scraped_at": "2026-10-25T03:00:06.939996+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a female flatmate to share a house/apartment with in San Jose or Santa Clara. A little about me:",
       "group_id": "242765489748374"
     }
   ]
