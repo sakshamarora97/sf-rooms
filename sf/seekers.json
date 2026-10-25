@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T09:05:29.914704",
-  "count": 3304,
+  "updated_at": "2026-10-25T10:05:39.858334",
+  "count": 3306,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102160,6 +102160,61 @@
       "first_scraped_at": "2026-10-25T14:00:06.657925+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a sublet opportunity for early next year, roughly from January 10-Feb 8 but flexible on both ends! Looking for",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2042570486434523",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-23",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 27,
+      "bio": "She is a 27-year-old working professional seeking a private room with a private bathroom in San Francisco, looking for a clean, comfortable, and peaceful home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042570486434523",
+      "posted_at": "Sunday 25 October 2026 at 09:20",
+      "first_scraped_at": "2026-10-25T17:00:04.411131+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Female Roommate in San Francisco! Hi everyone! I\u2019m a 27F working professional looking for a private room with a private",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2042453586446213",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": "2026-12-21",
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old male visiting family for Thanksgiving and the holidays, and will be working in the area during the stay.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042453586446213",
+      "posted_at": "Sunday 25 October 2026 at 06:53",
+      "first_scraped_at": "2026-10-25T17:00:04.411131+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room Nov 15 Dec 21st. Looking for temporary housing from November 15 Dec 21st as I was hoping to visit",
       "group_id": "242765489748374"
     }
   ]

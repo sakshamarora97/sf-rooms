@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T09:05:29.914704",
-  "count": 2767,
+  "updated_at": "2026-10-25T10:05:39.858334",
+  "count": 2768,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92275,6 +92275,40 @@
       "first_scraped_at": "2026-10-25T14:00:06.657925+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for someone to take over my lease at 388 Beale St in Rincon Hill. It\u2019s an awesome spot in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2042574653100773",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2800,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "heater",
+        "parking",
+        "garage"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042574653100773",
+      "posted_at": "Sunday 25 October 2026 at 09:25",
+      "first_scraped_at": "2026-10-25T17:00:04.411131+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "View in Hayes Valley Bedroom in a modern 2 story, 2 bed, 1.5 bath apartment in Hayes. Approx 1,000 sqft.",
       "group_id": "242765489748374"
     }
   ]
