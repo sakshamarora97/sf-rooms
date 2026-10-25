@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T20:05:56.443471",
-  "count": 3300,
+  "updated_at": "2026-10-24T21:05:04.526863",
+  "count": 3301,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102045,6 +102045,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a female flatmate to share a house/apartment with in San Jose or Santa Clara. A little about me:",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4759050434329959",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-10",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Union Square",
+        "Sunnyvale"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is looking for a short-term sublet (4\u20136 months) starting around 2026-11-10, budget up to $2,000/month. Prefers a studio or private room with an attached bathroom in Downtown San Francisco or Sunnyvale, in-unit laundry, and an all-male apartment of working professionals.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4759050434329959",
+      "posted_at": "Saturday 24 October 2026 at 17:22",
+      "first_scraped_at": "2026-10-25T04:00:03.576779+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "male friend Looking for short-term accommodation (preferably a sublet for 4\u20136 months) in Downtown San Francisco or Sunnyvale. Preference: Studio",
+      "group_id": "2176716625896699"
     }
   ]
 }
