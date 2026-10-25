@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T18:06:09.159272",
-  "count": 2762,
+  "updated_at": "2026-10-24T19:05:44.978951",
+  "count": 2763,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92111,6 +92111,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "North Beach, SF available until November 15 Subletting my private furnished room on Vallejo Street from October 25 to November",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2041926693165569",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1150,
+      "neighborhood": "Fremont",
+      "area": "East Bay",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "pool"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041926693165569",
+      "posted_at": "Saturday 24 October 2026 at 17:04",
+      "first_scraped_at": "2026-10-25T02:00:05.050795+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room Private Bath in Fremont! Looking for a roommate to share a 2B/2B apartment in Fremont. Private room with private",
+      "group_id": "242765489748374"
     }
   ]
 }
