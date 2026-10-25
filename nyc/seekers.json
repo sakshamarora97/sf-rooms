@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-24T18:15:58.321568",
-  "count": 476,
+  "updated_at": "2026-10-24T19:15:42.144020",
+  "count": 477,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14308,6 +14308,35 @@
       "first_scraped_at": "2026-10-25T01:06:13.307434+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Housing Move-in Nov 15 Dec 1 I'm looking for a private room in an all-female apartment/house with a potential move-in",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28676381425364671",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two friends searching for a 2B2B apartment in Jersey City, willing to commute up to one hour to Manhattan.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28676381425364671",
+      "posted_at": "Saturday 24 October 2026 at 18:59",
+      "first_scraped_at": "2026-10-25T02:05:48.826076+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Jersey City, New Jersey Hi, Me and my friend are looking for a 2bk/2bhk apartment around Jersey City,NJ. We are",
       "group_id": "765841576845364"
     }
   ]
