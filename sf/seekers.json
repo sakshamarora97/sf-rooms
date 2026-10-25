@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T06:06:48.274216",
-  "count": 3303,
+  "updated_at": "2026-10-25T07:06:01.026869",
+  "count": 3304,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102133,6 +102133,34 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "recommendations Hi all\u2014if anyone here has any neighborhood or building recommendations near UC Berkeley, an available apartment, or knows someone",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2042027919822113",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-10",
+      "move_out_date": "2027-02-08",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a short-term sublet from 2027-01-10 to 2027-02-08 and are looking for a one-bedroom or an entire apartment. They currently live in NYC, are originally from Marin, and are open to an apartment swap.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042027919822113",
+      "posted_at": "Saturday 24 October 2026 at 19:58",
+      "first_scraped_at": "2026-10-25T14:00:06.657925+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a sublet opportunity for early next year, roughly from January 10-Feb 8 but flexible on both ends! Looking for",
+      "group_id": "242765489748374"
     }
   ]
 }

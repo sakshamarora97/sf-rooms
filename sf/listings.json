@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T06:06:48.274216",
-  "count": 2766,
+  "updated_at": "2026-10-25T07:06:01.026869",
+  "count": 2767,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92239,6 +92239,43 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "TAKEOVER $1,650/MONTH Just across the street from campus! Looking for a great place to live near UC Berkeley? A spot",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2042387283119510",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-02-29",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "indoor_lap_pool",
+        "sauna",
+        "hot_tub",
+        "rooftop_terrace",
+        "24/7_concierge",
+        "secure_package_handling",
+        "reserved_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042387283119510",
+      "posted_at": "Sunday 25 October 2026 at 05:26",
+      "first_scraped_at": "2026-10-25T14:00:06.657925+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for someone to take over my lease at 388 Beale St in Rincon Hill. It\u2019s an awesome spot in",
+      "group_id": "242765489748374"
     }
   ]
 }
