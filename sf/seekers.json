@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T17:06:43.736679",
-  "count": 3297,
+  "updated_at": "2026-10-24T18:06:09.159272",
+  "count": 3299,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101951,6 +101951,69 @@
       "first_scraped_at": "2026-10-25T00:00:03.190607+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "SF apartment hunt with ASAP! Hi! I\u2019m Matthew and I\u2019m looking for ideally 1-3 roomies to apartment hunt with! About",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4759008381000831",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 3500,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond District",
+        "Richmond District",
+        "Sunset District",
+        "Bernal Heights",
+        "Noe Valley",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 34,
+      "bio": "Solo renter, 34, working individual with a well-behaved 40 lb Goldendoodle seeking a studio/1BR/room with occasional need for parking and small outdoor space.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4759008381000831",
+      "posted_at": "Saturday 24 October 2026 at 16:19",
+      "first_scraped_at": "2026-10-25T01:00:03.191928+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a studio, 1 bedroom or room for myself (34) my 40 lb goldendoodle (5 yr old, non shedding",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2041925349832370",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "He is a quiet, clean tech worker in his 30s who has lived in San Francisco since 2014 and is focused on career advancement. He keeps to himself, enjoys history, science, engineering and video games, is handy around the house, and works Sat\u2013Wed 8am\u20134pm often from cafes.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041925349832370",
+      "posted_at": "Saturday 24 October 2026 at 17:01",
+      "first_scraped_at": "2026-10-25T01:00:03.191928+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for rent!** (furnished/unfurnished) Also open to any flexible monthly arrangement. Budget: up to ~$1200/mo **About me:** My name is Dez,",
       "group_id": "242765489748374"
     }
   ]
