@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T07:13:48.271880",
-  "count": 480,
+  "updated_at": "2026-10-25T08:12:10.978725",
+  "count": 482,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14436,6 +14436,66 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "for 1-2 roommates to apartment hunt with in Manhattan! Timeline: November/December move-in I\u2019m flexible but hoping for sooner than later.",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257121231519338",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "Greenwich Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old private equity professional moving to NYC for work in January; quiet, tidy, enjoys baseball, surfing, and chess.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257121231519338",
+      "posted_at": "Sunday 25 October 2026 at 07:16",
+      "first_scraped_at": "2026-10-25T15:05:24.679329+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in January need room takeover Hi Guys. Moving to the city for work in Jan and am looking for a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28678493125153501",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-31",
+      "move_out_date": "2026-11-06",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is seeking short-term accommodation (6\u201310 days) starting Oct 31 near Journal Square.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28678493125153501",
+      "posted_at": "Saturday 24 October 2026 at 23:07",
+      "first_scraped_at": "2026-10-25T15:05:24.679329+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "current lease ends on Oct 31st, and I\u2019m looking for accommodation for 6\u201310 days from that near Journal Square PATH",
+      "group_id": "765841576845364"
     }
   ]
 }
