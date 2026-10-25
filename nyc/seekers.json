@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T11:12:00.391193",
-  "count": 486,
+  "updated_at": "2026-10-25T12:13:48.244467",
+  "count": 488,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14622,6 +14622,64 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "12/1 Move In Hey everyone! I\u2019m Brandon, I\u2019m 25, and looking for a roommate to apartment hunt with. Budget: ~max",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257315944833200",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-04",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "other",
+      "age": 23,
+      "bio": "Recent SCAD graduate in fashion design freelancing as a knitwear designer; neat, friendly, easygoing, looking for a long-term private room and needs space for a knitting machine.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257315944833200",
+      "posted_at": "Sunday 25 October 2026 at 11:33",
+      "first_scraped_at": "2026-10-25T19:07:16.371786+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to move to NYC and am searching for a long-term room sublet in an existing apartment with roommates. Ideally looking",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "996079916196018",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-22",
+      "move_out_date": "2027-01-05",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit",
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 4,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Four clean, respectful young professionals from Europe visiting NYC for the holidays; non-smokers seeking a short-term sublet with at least three beds.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/996079916196018",
+      "posted_at": "Sunday 25 October 2026 at 10:21",
+      "first_scraped_at": "2026-10-25T19:07:16.371786+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "in NYC (Dec 22/26 Jan 5) I\u2019m visiting NYC over the holidays with friends (Dec 22/26 Jan 5) and looking",
+      "group_id": "312692887868061"
     }
   ]
 }
