@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T22:06:01.035707",
-  "count": 3301,
+  "updated_at": "2026-10-25T06:06:48.274216",
+  "count": 3303,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102076,6 +102076,63 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "male friend Looking for short-term accommodation (preferably a sublet for 4\u20136 months) in Downtown San Francisco or Sunnyvale. Preference: Studio",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2041868759838029",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two queer women in their twenties seeking two rooms to join or start a lease. They want a community-minded, chill, drama-free household and have a budget cap of $1500.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041868759838029",
+      "posted_at": "Saturday 24 October 2026 at 15:09",
+      "first_scraped_at": "2026-10-25T13:00:03.236512+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for two open rooms available for myself and my bestie! we\u2019re two queer girlies in our twenties looking to join",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1397013935532183",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "apartment",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Quiet, considerate renter who keeps shared spaces tidy, communicates well, and prefers a calm home after work.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1397013935532183",
+      "posted_at": "Sunday 25 October 2026 at 05:30",
+      "first_scraped_at": "2026-10-25T13:00:03.236512+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "recommendations Hi all\u2014if anyone here has any neighborhood or building recommendations near UC Berkeley, an available apartment, or knows someone",
+      "group_id": "558742412692677"
     }
   ]
 }

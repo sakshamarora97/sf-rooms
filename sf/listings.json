@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T22:06:01.035707",
-  "count": 2764,
+  "updated_at": "2026-10-25T06:06:48.274216",
+  "count": 2766,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92169,6 +92169,76 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": null,
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2772612943134510",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "shared_kitchen",
+        "shared_living_room",
+        "shared_laundry",
+        "garage",
+        "street_parking",
+        "near_transit",
+        "near_shopping"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2772612943134510",
+      "posted_at": "Sunday 25 October 2026 at 05:43",
+      "first_scraped_at": "2026-10-25T13:00:03.236512+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "private bathroom in shared house for rent for single occupant. House is in a quiet residential Hercules neighborhood near Bayside",
+      "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1396852538881656",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1650,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "elevator",
+        "full_kitchen",
+        "living_room",
+        "two_bathrooms",
+        "building_security"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1396852538881656",
+      "posted_at": "Sunday 25 October 2026 at 01:17",
+      "first_scraped_at": "2026-10-25T13:00:03.236512+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "TAKEOVER $1,650/MONTH Just across the street from campus! Looking for a great place to live near UC Berkeley? A spot",
+      "group_id": "558742412692677"
     }
   ]
 }
