@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T21:05:04.526863",
-  "count": 2763,
+  "updated_at": "2026-10-24T22:06:01.035707",
+  "count": 2764,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92141,6 +92141,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room Private Bath in Fremont! Looking for a roommate to share a 2B/2B apartment in Fremont. Private room with private",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4759206420981027",
+      "post_type": "listing",
+      "listing_type": null,
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4759206420981027",
+      "posted_at": "Saturday 24 October 2026 at 20:53",
+      "first_scraped_at": "2026-10-25T05:00:03.485928+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": null,
+      "group_id": "2176716625896699"
     }
   ]
 }
