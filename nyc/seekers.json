@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-24T22:14:40.537677",
-  "count": 478,
+  "updated_at": "2026-10-25T06:13:55.318042",
+  "count": 479,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14367,6 +14367,39 @@
       "first_scraped_at": "2026-10-25T03:06:01.025135+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "29 Nov 1 Looking for a private space to stay in lower Manhattan, NYC Oct 29- Nov 1 (3 nights)",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2256692864895508",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Murray Hill",
+        "Hell's Kitchen",
+        "Chelsea",
+        "East Village",
+        "Kips Bay"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old from Connecticut who is outgoing and social; enjoys shopping, working out, trying new restaurants and exploring the city. Seeking 1\u20132 roommates or to join an existing lease in Manhattan, prefers female roommates who are clean and organized.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2256692864895508",
+      "posted_at": "Saturday 24 October 2026 at 20:40",
+      "first_scraped_at": "2026-10-25T13:06:53.434692+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Tatiana, I\u2019m 23 and currently living in CT. I\u2019m planning on moving to nyc by jan/feb 2027 and I\u2019d love",
       "group_id": "149460102285472"
     }
   ]
