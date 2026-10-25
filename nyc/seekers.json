@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T12:13:48.244467",
-  "count": 488,
+  "updated_at": "2026-10-25T13:16:02.816688",
+  "count": 490,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14680,6 +14680,69 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "in NYC (Dec 22/26 Jan 5) I\u2019m visiting NYC over the holidays with friends (Dec 22/26 Jan 5) and looking",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2257364611495000",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Bushwick",
+        "Bed-Stuy",
+        "Ridgewood"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "She is a 22-year-old recruitment consultant who describes herself as easygoing and adventurous and keeps shared spaces tidy. She enjoys basketball, dancing, music, going out with friends, and is 420 friendly.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257364611495000",
+      "posted_at": "Sunday 25 October 2026 at 12:45",
+      "first_scraped_at": "2026-10-25T20:08:01.553953+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommates, sublet or lease takeover in Brooklyn! Hi everyone! My name is Rocky 22F looking for roommates to search with,a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28686312807704866",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room near Journal Square starting Nov 1. Prefers month-to-month lease and in-house or in-unit laundry; describes themself as clean, respectful, and considerate of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28686312807704866",
+      "posted_at": "Sunday 25 October 2026 at 12:17",
+      "first_scraped_at": "2026-10-25T20:08:01.553953+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for a private room in Jersey City starting November 1. Location: Walking distance to Journal Square or another PATH station",
+      "group_id": "765841576845364"
     }
   ]
 }
