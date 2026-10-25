@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T10:05:39.858334",
-  "count": 3306,
+  "updated_at": "2026-10-25T11:05:20.346171",
+  "count": 3308,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102215,6 +102215,62 @@
       "first_scraped_at": "2026-10-25T17:00:04.411131+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room Nov 15 Dec 21st. Looking for temporary housing from November 15 Dec 21st as I was hoping to visit",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2042251233133115",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3300,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a 1-bedroom or studio near public transit with a monthly budget of about $3,300. Income exceeds 40x the rent.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042251233133115",
+      "posted_at": "Sunday 25 October 2026 at 02:05",
+      "first_scraped_at": "2026-10-25T18:00:06.361542+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a 1bd studio near public transit. 3.3k budget but am flexible. Income >40x rent.",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2042161926475379",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B",
+        "3B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent Stanford graduate (23) starting a new job in San Francisco, seeking 1\u20132 female-identifying roommates for a cozy 2B/3B with a ~$2500/month budget. She is crafty, enjoys travel, skiing, pickleball, and pilates, and prefers a balance of alone time and together time.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042161926475379",
+      "posted_at": "Saturday 24 October 2026 at 23:38",
+      "first_scraped_at": "2026-10-25T18:00:06.361542+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "ROOMMATES FOR AN APARTMENT SEARCH W/ DECEMBER MOVE-IN! Helloooo San Francisco! I'm Rebecca, 23, graduated from Stanford in June, and",
       "group_id": "242765489748374"
     }
   ]
