@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T12:07:11.400546",
-  "count": 3308,
+  "updated_at": "2026-10-25T13:07:56.891859",
+  "count": 3309,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102272,6 +102272,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "ROOMMATES FOR AN APARTMENT SEARCH W/ DECEMBER MOVE-IN! Helloooo San Francisco! I'm Rebecca, 23, graduated from Stanford in June, and",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1397331338833776",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Two UC Berkeley students seeking two single bedrooms for a spring lease or sublease. One studies chemical engineering and the other studies applied math and data science; they are quiet, clean, and pay on time.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1397331338833776",
+      "posted_at": "Sunday 25 October 2026 at 13:01",
+      "first_scraped_at": "2026-10-25T20:00:05.362297+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "and I are two UC Berkeley students looking for two single bedrooms for a spring lease or sublease, starting in",
+      "group_id": "558742412692677"
     }
   ]
 }
