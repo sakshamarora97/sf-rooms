@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T13:07:56.891859",
-  "count": 3309,
+  "updated_at": "2026-10-25T14:07:50.785865",
+  "count": 3310,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102301,6 +102301,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "and I are two UC Berkeley students looking for two single bedrooms for a spring lease or sublease, starting in",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2042676126423959",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2700,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B3B",
+        "private_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent Berkeley graduate starting a tech job who enjoys cycling, pilates, live music, coffee, and movies; looking for friends and a private room in a 2B2B or 3B3B near Caltrain.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042676126423959",
+      "posted_at": "Sunday 25 October 2026 at 11:51",
+      "first_scraped_at": "2026-10-25T21:00:03.820011+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "I\u2019m 22 and just started working a tech job, and I\u2019m looking for 1-2 female roommates (preferably also new grads,",
+      "group_id": "242765489748374"
     }
   ]
 }

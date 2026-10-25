@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T13:07:56.891859",
-  "count": 2782,
+  "updated_at": "2026-10-25T14:07:50.785865",
+  "count": 2784,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92810,6 +92810,73 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "TAKEOVER $1,650/MONTH** **Just across the street from campus!** Looking for a great place to live near UC Berkeley? A spot",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4760041540897515",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2300,
+      "neighborhood": "Potrero Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "deck",
+        "barbecue",
+        "fireplace",
+        "surround_sound",
+        "in_unit_kitchen",
+        "double_glazed_windows",
+        "blackout_blinds"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4760041540897515",
+      "posted_at": "Sunday 25 October 2026 at 12:50",
+      "first_scraped_at": "2026-10-25T21:00:03.820011+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "rooms available for one person. $2800 PER MONTH I'm looking for a roommate to share this huge 1700 square foot",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2042744463083792",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1400,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "5B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042744463083792",
+      "posted_at": "Sunday 25 October 2026 at 13:47",
+      "first_scraped_at": "2026-10-25T21:00:03.820011+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "IN Urgently looking for a new roommate to fill a room in a 5-bedroom, 2.5-bathroom apartment in Lower Pac Heights!",
+      "group_id": "242765489748374"
     }
   ]
 }
