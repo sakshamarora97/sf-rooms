@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T09:11:55.007640",
-  "count": 483,
+  "updated_at": "2026-10-25T10:11:54.875962",
+  "count": 484,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14529,6 +14529,39 @@
       "first_scraped_at": "2026-10-25T16:05:34.080277+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Eric, 23, and looking for one roommate to apartment hunt with for a 2BR (also open to a 1BR with",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257192151512246",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-26",
+      "move_out_date": "2026-11-23",
+      "budget_min": 1000,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "entire_unit",
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Late-20s finance consultant relocating to NYC from Chicago after nine years in consulting. Super tidy and quiet; can provide rental references and is available for video calls or in-person meetings.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257192151512246",
+      "posted_at": "Sunday 25 October 2026 at 08:46",
+      "first_scraped_at": "2026-10-25T17:05:43.812767+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room ASAP, ideally Mon 10/26 ~11/23 $1,000-$1,500/month NYC up to ~90 min by transit Hi everyone! I'm Madison, late 20s,",
       "group_id": "149460102285472"
     }
   ]
