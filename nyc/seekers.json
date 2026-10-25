@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T06:13:55.318042",
-  "count": 479,
+  "updated_at": "2026-10-25T07:13:48.271880",
+  "count": 480,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14400,6 +14400,41 @@
       "first_scraped_at": "2026-10-25T13:06:53.434692+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Tatiana, I\u2019m 23 and currently living in CT. I\u2019m planning on moving to nyc by jan/feb 2027 and I\u2019d love",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257080101523451",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Upper West Side",
+        "Upper East Side",
+        "Hell's Kitchen",
+        "Chelsea",
+        "Hudson Yards",
+        "West Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": null,
+      "age": 28,
+      "bio": "She is an elementary teacher on the Upper West Side, late 20s, enjoys cafes, restaurants, nights in and exploring the city with roommates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257080101523451",
+      "posted_at": "Sunday 25 October 2026 at 06:27",
+      "first_scraped_at": "2026-10-25T14:06:05.063394+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for 1-2 roommates to apartment hunt with in Manhattan! Timeline: November/December move-in I\u2019m flexible but hoping for sooner than later.",
       "group_id": "149460102285472"
     }
   ]
