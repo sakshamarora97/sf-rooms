@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T14:07:50.785865",
-  "count": 2784,
+  "updated_at": "2026-10-25T15:07:16.111951",
+  "count": 2785,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92877,6 +92877,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "IN Urgently looking for a new roommate to fill a room in a 5-bedroom, 2.5-bathroom apartment in Lower Pac Heights!",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4760085027559833",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1800,
+      "neighborhood": "Lakeshore",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "onsite_parking",
+        "shared_bathroom",
+        "private_tennis_courts",
+        "community_pool"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4760085027559833",
+      "posted_at": "Sunday 25 October 2026 at 13:49",
+      "first_scraped_at": "2026-10-25T22:00:03.841434+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Lake Merced Area w/ Onsite Parking (Flex Lease) Hi everyone! We are looking for a housemate to take a bedroom",
+      "group_id": "2176716625896699"
     }
   ]
 }
