@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T15:07:16.111951",
-  "count": 2785,
+  "updated_at": "2026-10-25T16:07:06.642769",
+  "count": 2786,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92910,6 +92910,44 @@
       "first_scraped_at": "2026-10-25T22:00:03.841434+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Lake Merced Area w/ Onsite Parking (Flex Lease) Hi everyone! We are looking for a housemate to take a bedroom",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4760110927557243",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 5000,
+      "neighborhood": "Financial District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "heated_pool",
+        "gym",
+        "yoga_classes",
+        "valet_parking",
+        "concierge",
+        "package_service",
+        "hardwood_flooring",
+        "city_views",
+        "sunset_views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4760110927557243",
+      "posted_at": "Sunday 25 October 2026 at 14:24",
+      "first_scraped_at": "2026-10-25T23:00:03.670685+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1B/1B den Available for Sublease SF Market Street $5,000/month 900 sq. ft. 15th Floor City and sunset views Semi-furnished or",
       "group_id": "2176716625896699"
     }
   ]
