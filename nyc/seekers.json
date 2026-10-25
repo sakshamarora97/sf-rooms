@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T10:11:54.875962",
-  "count": 484,
+  "updated_at": "2026-10-25T11:12:00.391193",
+  "count": 486,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14562,6 +14562,65 @@
       "first_scraped_at": "2026-10-25T17:05:43.812767+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "room ASAP, ideally Mon 10/26 ~11/23 $1,000-$1,500/month NYC up to ~90 min by transit Hi everyone! I'm Madison, late 20s,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2912772772422321",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-20",
+      "move_out_date": "2027-01-02",
+      "budget_min": 1350,
+      "budget_max": 1350,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2912772772422321",
+      "posted_at": "Sunday 25 October 2026 at 10:26",
+      "first_scraped_at": "2026-10-25T18:05:25.079281+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "female sublet in Newport Parkway Jersey City $1350/month Hi ladies! Putting feelers out for a $1,350/month sublet on Newport Parkway",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2256616284903166",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "He works in finance, is clean and easygoing, and social; likes going out with friends on weekends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2256616284903166",
+      "posted_at": "Sunday 25 October 2026 at 10:19",
+      "first_scraped_at": "2026-10-25T18:05:25.079281+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "12/1 Move In Hey everyone! I\u2019m Brandon, I\u2019m 25, and looking for a roommate to apartment hunt with. Budget: ~max",
       "group_id": "149460102285472"
     }
   ]
