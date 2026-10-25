@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T15:16:46.338774",
-  "count": 495,
+  "updated_at": "2026-10-25T16:17:53.904839",
+  "count": 498,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -14910,6 +14910,103 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "roommate/ Lease takeover for November/December move in Hi girls! I'm 27 and currently living in NYC, looking for a female",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257447391486722",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "West Village",
+        "SoHo",
+        "Tribeca",
+        "Lower East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": 23,
+      "bio": "They are a 23-year-old doctoral candidate from Belgium finishing their PhD, with experience at healthcare AI startups and transitioning to NGO/global health. Social and active, they enjoy fitness, travel, music, and art, and values a clean, community-oriented home.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257447391486722",
+      "posted_at": "Sunday 25 October 2026 at 15:11",
+      "first_scraped_at": "2026-10-25T23:07:11.058536+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for Dec Move-in Hi everyone! I\u2019m looking for a roommate to find an apartment together in Manhattan! Looking to move",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257369611494500",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "other",
+      "age": 22,
+      "bio": "She is a 22-year-old full-time worker from Melbourne seeking a short-term studio or one-bedroom in Manhattan, Brooklyn, or Queens while her apartment is renovated.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257369611494500",
+      "posted_at": "Sunday 25 October 2026 at 12:54",
+      "first_scraped_at": "2026-10-25T23:07:11.058536+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "studio/1bdr for month of December/January with flexible dates! Hello my names Estella, im 22 from Melbourne, Australia. I am looking",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28688179250851555",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2400,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "2B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Jersey City",
+        "Exchange Place",
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works a hybrid schedule (remote 4 days/week, commutes to DC once weekly via Penn Station). Easygoing, social, keeps shared spaces neat, enjoys restaurants, art, sports, live music, and cozy nights in.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28688179250851555",
+      "posted_at": "Sunday 25 October 2026 at 16:08",
+      "first_scraped_at": "2026-10-25T23:07:11.058536+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "to apartment hunt with for a Mid-Nov move Hi! Im Sana and i\u2019m looking for a female roommate in her",
+      "group_id": "765841576845364"
     }
   ]
 }
