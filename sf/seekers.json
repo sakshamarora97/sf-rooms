@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T16:05:59.841554",
-  "count": 3296,
+  "updated_at": "2026-10-24T17:06:43.736679",
+  "count": 3297,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -101913,6 +101913,44 @@
       "first_scraped_at": "2026-10-24T23:00:03.445006+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "am looking for a room roommates for December move in, in and around Redwood City San Mateo Foster City, and",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2041904336501138",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Dolores Heights",
+        "Potrero Hill",
+        "Dogpatch",
+        "Mission Bay",
+        "Noe Valley",
+        "Castro",
+        "Lower Haight",
+        "Hayes Valley",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent Yale graduate working on the human research team at a neurotech startup in Mission Bay. Social and very clean, enjoys sports, cooking, music, and curating aesthetics.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2041904336501138",
+      "posted_at": "Saturday 24 October 2026 at 16:20",
+      "first_scraped_at": "2026-10-25T00:00:03.190607+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "SF apartment hunt with ASAP! Hi! I\u2019m Matthew and I\u2019m looking for ideally 1-3 roomies to apartment hunt with! About",
       "group_id": "242765489748374"
     }
   ]

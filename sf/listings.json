@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-24T16:05:59.841554",
-  "count": 2761,
+  "updated_at": "2026-10-24T17:06:43.736679",
+  "count": 2762,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -92077,6 +92077,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "SPRING 2027 SUBLEASE Berkeley, Northside Looking for a female roommate to take over my private/single bedroom in a 2 bed",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4758985617669774",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-10-25",
+      "available_until": "2026-11-15",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "rooftop",
+        "bay_views",
+        "shared_kitchen",
+        "shared_bathroom",
+        "shared_living_room"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4758985617669774",
+      "posted_at": "Saturday 24 October 2026 at 15:46",
+      "first_scraped_at": "2026-10-25T00:00:03.190607+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "North Beach, SF available until November 15 Subletting my private furnished room on Vallejo Street from October 25 to November",
+      "group_id": "2176716625896699"
     }
   ]
 }
