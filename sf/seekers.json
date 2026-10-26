@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T21:15:55.714936",
-  "count": 3322,
+  "updated_at": "2026-10-25T22:12:07.632373",
+  "count": 3325,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102691,6 +102691,104 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Roomie Sitch Hii my name is Marissa. I\u2019m 29f structural engineer looking for a room to rent or someone to",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28845045941819353",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "He is an emergency department technician moving to San Francisco for a new ER position by mid-November and is a nursing student seeking an affordable room (max $1,000/month).",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28845045941819353",
+      "posted_at": "Sunday 25 October 2026 at 19:12",
+      "first_scraped_at": "2026-10-26T05:00:06.339869+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "am outreaching on here as this is my best shot to getting a nice comfortable home room in san Francisco",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2042999623058276",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Sunset District",
+        "North Beach",
+        "Richmond District",
+        "NoPa",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "He is moving to San Francisco in December to start a position at a physics-based startup. He is a clean, easygoing, social person who enjoys sports, DJing, and nights out.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042999623058276",
+      "posted_at": "Sunday 25 October 2026 at 20:54",
+      "first_scraped_at": "2026-10-26T05:00:06.339869+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in SF for December move-in Hi everyone! I\u2019m planning on moving to SF in December to begin a position at",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4396639963980088",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 900,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "private room",
+        "shared accommodation",
+        "house"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown San Jose",
+        "Sunnyvale",
+        "Mountain View",
+        "Santa Clara",
+        "Redwood City",
+        "Menlo Park"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "They recently moved to the Bay Area and are seeking a private room, shared accommodation, or house near Downtown San Jose, Sunnyvale, Mountain View, Santa Clara, Redwood City, or Menlo Park. Easy access to Caltrain or BART is a priority; budget around $1,300 for private and preferably under $900 for shared.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4396639963980088",
+      "posted_at": "Sunday 25 October 2026 at 20:00",
+      "first_scraped_at": "2026-10-26T05:00:06.339869+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "in the Bay Area Hi everyone! My name is Rishabh, and I recently moved to the Bay Area. I\u2019m currently",
+      "group_id": "1511607562483357"
     }
   ]
 }
