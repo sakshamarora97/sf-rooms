@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T17:18:37.891802",
-  "count": 499,
+  "updated_at": "2026-10-25T18:17:29.321104",
+  "count": 500,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -15034,6 +15034,33 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "name is Maria, I\u2019m 28 years old, and I\u2019m looking for a room to rent or a roommate situation in",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2257477234817071",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are super organized, clean, and very bubbly; enjoys making friends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257477234817071",
+      "posted_at": "Sunday 25 October 2026 at 16:02",
+      "first_scraped_at": "2026-10-26T01:08:00.664162+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in NYC move in date nov 1st budget 1600 super organized and clean very bubbly, love making friends See less",
+      "group_id": "149460102285472"
     }
   ]
 }
