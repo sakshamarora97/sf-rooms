@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T17:08:21.224948",
-  "count": 3310,
+  "updated_at": "2026-10-25T18:07:56.486962",
+  "count": 3311,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102329,6 +102329,38 @@
       "first_scraped_at": "2026-10-25T21:00:03.820011+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "I\u2019m 22 and just started working a tech job, and I\u2019m looking for 1-2 female roommates (preferably also new grads,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2042859476405624",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Nob Hill",
+        "North Beach",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "They are 22, originally from Southern California, work remotely in talent management and social media, and enjoy traveling, live music, camping, coffee shops, and both going out and cozy nights in.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042859476405624",
+      "posted_at": "Sunday 25 October 2026 at 17:20",
+      "first_scraped_at": "2026-10-26T01:00:03.391375+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "planning to move to San Francisco at the beginning of January and am looking for a room or roommates! A",
       "group_id": "242765489748374"
     }
   ]
