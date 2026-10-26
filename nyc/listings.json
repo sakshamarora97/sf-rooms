@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-26T14:15:00.929651",
-  "count": 1424,
+  "updated_at": "2026-10-26T15:14:36.061382",
+  "count": 1426,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -47538,6 +47538,66 @@
       "first_scraped_at": "2026-10-26T21:06:46.514211+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "in Newark near Penn Station yay. I have a room for rent in Newark under $1,700/month near Newark PENN Station",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28700634719606008",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1170,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "attached_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28700634719606008",
+      "posted_at": "Monday 26 October 2026 at 14:57",
+      "first_scraped_at": "2026-10-26T22:06:07.860946+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "ROOM is available with attached bathroom from 1st November. 3 bed 2 bath Address: paterson st, Jersey City, NJ 07306",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28700515226284624",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 933,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-15",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": "any",
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28700515226284624",
+      "posted_at": "Monday 26 October 2026 at 14:44",
+      "first_scraped_at": "2026-10-26T22:06:07.860946+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "3rd Flatmate Jersey City!** Hey everyone! We\u2019re two NYU students (1 male and 1 female) looking for a **third flatmate**",
       "group_id": "765841576845364"
     }
   ]
