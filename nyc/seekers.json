@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-26T07:19:00.056883",
-  "count": 507,
+  "updated_at": "2026-10-26T08:17:35.012450",
+  "count": 510,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -15278,6 +15278,99 @@
       "first_scraped_at": "2026-10-26T13:12:56.668910+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Room Manhattan Brooklyn Mid-Nov or Dec Move-In Budget Upto $2,500 Hey everyone! I'm Mann, a software engineer moving to NYC",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2913660095666922",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a female, pure-vegetarian roommate who is clean, responsible, and easygoing. Looking to sign the lease for a room in a 4BR/2.5BA at Avalon Cove, Newport with move-in in the first week of December.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2913660095666922",
+      "posted_at": "Monday 26 October 2026 at 06:39",
+      "first_scraped_at": "2026-10-26T15:08:53.413354+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Female Roommate Avalon Cove, Newport! Hi everyone! I\u2019m looking for a female, pure vegetarian roommate to join a 4 bed,",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2258046538093474",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2350,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "They are a working professional and graduate student who enjoys reading, playing guitar, and working out. Very clean, respectful, and social; no drugs, smoking, or heavy drinking.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258046538093474",
+      "posted_at": "Monday 26 October 2026 at 06:33",
+      "first_scraped_at": "2026-10-26T15:08:53.413354+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "I'm searching for a room and/or roommates to sign a lease sometime in **December**. **About me**: Working Professional and Grad",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257855358112592",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "basement",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Midwood",
+        "Sheepshead Bay",
+        "Flatlands",
+        "East Flatbush",
+        "Flatbush"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a studio, basement unit, or one-bedroom apartment in Brooklyn neighborhoods including Midwood, Sheepshead Bay, Flatlands, East Flatbush, and Flatbush.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257855358112592",
+      "posted_at": "Monday 26 October 2026 at 02:11",
+      "first_scraped_at": "2026-10-26T15:08:53.413354+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for studio or basement or apt one bedroom in nyc brooklyn around midwood,sheapshead Bay, Ocean parkway,flatland east flatbush flatbush",
       "group_id": "149460102285472"
     }
   ]
