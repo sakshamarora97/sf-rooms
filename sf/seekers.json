@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T18:07:56.486962",
-  "count": 3311,
+  "updated_at": "2026-10-25T19:08:43.914915",
+  "count": 3312,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102361,6 +102361,39 @@
       "first_scraped_at": "2026-10-26T01:00:03.391375+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "planning to move to San Francisco at the beginning of January and am looking for a room or roommates! A",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2042916396399932",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Russian Hill",
+        "Marina",
+        "North Beach",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent USC graduate (22) who started a job in July; seeking a single room in San Francisco. Enjoys concerts, hikes, thrifting, pickleball, beach days, movies, and photography.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042916396399932",
+      "posted_at": "Sunday 25 October 2026 at 18:44",
+      "first_scraped_at": "2026-10-26T02:00:04.233770+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking to move to San Francisco as soon as possible and am looking for a room or roommates! About me:",
       "group_id": "242765489748374"
     }
   ]
