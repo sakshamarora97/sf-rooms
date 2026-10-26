@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T09:09:29.447570",
-  "count": 3333,
+  "updated_at": "2026-10-26T10:08:56.240686",
+  "count": 3334,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103040,6 +103040,39 @@
       "first_scraped_at": "2026-10-26T16:00:02.988115+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a new place to call home ideally by November 1st! Hi everyone! My name is Leighanne, 32 years old",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2043502019674703",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "parking_spot",
+        "private_indoor_garage",
+        "gated_carport",
+        "residential_stall"
+      ],
+      "preferred_neighborhoods": [
+        "Alamo Square",
+        "Panhandle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a secure, reserved 24/7 parking spot near Alamo Square or the Panhandle. Carries medical-device products in their vehicle, needs a private indoor garage/gated carport/residential stall, has a mid-sized SUV, and is flexible on budget for a suitable long-term monthly arrangement.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043502019674703",
+      "posted_at": "Monday 26 October 2026 at 09:03",
+      "first_scraped_at": "2026-10-26T17:00:02.906429+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "secure parking near Alamo Square Panhandle Hi everyone! I am moving and looking to rent a secure, reserved 24/7 parking",
       "group_id": "242765489748374"
     }
   ]
