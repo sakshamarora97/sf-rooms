@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T22:22:50.821572",
-  "count": 504,
+  "updated_at": "2026-10-26T06:21:20.595133",
+  "count": 507,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -15174,6 +15174,110 @@
       "first_scraped_at": "2026-10-26T05:12:11.854315+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "needed! hi! I\u2019m urgently looking for a sublet in the city for the month of November. I don\u2019t have a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2913246622374936",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "flex",
+        "extended den",
+        "mid-sized room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works in data/tech at a bank on a hybrid schedule. Easygoing, tidy, mostly keeps to themself and is looking for a two-month sublet in Newport with good building amenities.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2913246622374936",
+      "posted_at": "Sunday 25 October 2026 at 21:20",
+      "first_scraped_at": "2026-10-26T13:12:56.668910+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "for 2 months in Newport Looking for a sublet in Newport early Nov through early Jan I work in data/tech",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2257986954766099",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Bushwick",
+        "Clinton Hill",
+        "East Williamsburg",
+        "East Harlem",
+        "Harlem",
+        "Lower East Side"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 20,
+      "bio": "Is a friendly, easygoing 20-year-old seeking a sublet starting 2026-11-01 and hoping to find a place within a few days.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257986954766099",
+      "posted_at": "Monday 26 October 2026 at 05:16",
+      "first_scraped_at": "2026-10-26T13:12:56.668910+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a place to sublet starting November 1st, with a max budget of $1,400. I\u2019m open to Brooklyn (Bed-Stuy,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257767254788069",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Lower East Side",
+        "Williamsburg",
+        "Greenpoint",
+        "Bushwick",
+        "Fort Greene",
+        "Clinton Hill",
+        "Bed-Stuy",
+        "Prospect Heights",
+        "Park Slope",
+        "DUMBO"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "He is a software engineer relocating to Manhattan for a new job who seeks a private room in a shared apartment. He works hybrid, is clean and easygoing, and enjoys hiking, museums, and the gym; available for viewings Oct 31\u2013Nov 10.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257767254788069",
+      "posted_at": "Sunday 25 October 2026 at 23:50",
+      "first_scraped_at": "2026-10-26T13:12:56.668910+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Room Manhattan Brooklyn Mid-Nov or Dec Move-In Budget Upto $2,500 Hey everyone! I'm Mann, a software engineer moving to NYC",
       "group_id": "149460102285472"
     }
   ]
