@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T08:08:48.961716",
-  "count": 2834,
+  "updated_at": "2026-10-26T09:09:29.447570",
+  "count": 2835,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -94173,6 +94173,43 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "bathroom Swimming pool all utilities included all-female housemates $1750 /m",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4760536167514719",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": "Presidio",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "dishwasher",
+        "in_unit_laundry",
+        "storage",
+        "parking",
+        "views",
+        "large_living_room",
+        "free_shuttle_to_FiDi_and_Baker_Beach",
+        "walking_distance_to_Marina_and_Inner_Richmond"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4760536167514719",
+      "posted_at": "Sunday 25 October 2026 at 23:45",
+      "first_scraped_at": "2026-10-26T13:00:03.598151+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "\ud835\uddf6\ud835\uddfb \ud835\udde3\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddf6\ud835\uddf1\ud835\uddf6\ud835\uddfc \ud835\uddd4\ud835\uddfd\ud835\uddee\ud835\uddff\ud835\ude01\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 Two rooms available in a 4 bed 2 bathroom in the Quarry Road neighborhood of the Presidio",
+      "group_id": "2176716625896699"
     },
     {
       "listing_id": "4760492384185764",

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T08:08:48.961716",
-  "count": 3332,
+  "updated_at": "2026-10-26T09:09:29.447570",
+  "count": 3333,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103009,6 +103009,37 @@
       "first_scraped_at": "2026-10-26T14:00:05.246096+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for male roomate I am a 22 yr old CU Boulder college grad that is moving to the Bay Area",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2043470073011231",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Outer Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 32,
+      "bio": "She is a 32-year-old full-time hospitality manager who is responsible, clean, respectful, friendly, and easygoing. She is social with roommates but values a peaceful home and is comfortable with shared bathrooms.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043470073011231",
+      "posted_at": "Monday 26 October 2026 at 08:21",
+      "first_scraped_at": "2026-10-26T16:00:02.988115+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a new place to call home ideally by November 1st! Hi everyone! My name is Leighanne, 32 years old",
       "group_id": "242765489748374"
     }
   ]
