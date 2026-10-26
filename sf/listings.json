@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T07:09:57.162857",
-  "count": 2833,
+  "updated_at": "2026-10-26T08:08:48.961716",
+  "count": 2834,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -94523,6 +94523,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "roommate for my 2bd/2ba in the Mission ($1,900/mo)! Looking for a new roommate in my secure, well-kept 2 bed 2",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2043396143018624",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043396143018624",
+      "posted_at": "Monday 26 October 2026 at 06:46",
+      "first_scraped_at": "2026-10-26T15:00:05.293651+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Kristen here! I\u2019m looking for a clean person that will sublease my place it is furnished pet friendly and has",
+      "group_id": "242765489748374"
     }
   ]
 }
