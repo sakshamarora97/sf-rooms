@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T06:12:51.554874",
-  "count": 3331,
+  "updated_at": "2026-10-26T07:09:57.162857",
+  "count": 3332,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102981,6 +102981,35 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "for 2/3B apartment in peninsula/South Bay Hey all I\u2019m looking for a roommate to rent out a 2/3 bedroom apartment",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2043352653022973",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "A 22-year-old CU Boulder graduate moving to the Bay Area to work for Cal Berkeley's Athletic Program; seeking a male roommate and willing to spend $2000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043352653022973",
+      "posted_at": "Monday 26 October 2026 at 05:51",
+      "first_scraped_at": "2026-10-26T14:00:05.246096+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for male roomate I am a 22 yr old CU Boulder college grad that is moving to the Bay Area",
+      "group_id": "242765489748374"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T06:12:51.554874",
-  "count": 2832,
+  "updated_at": "2026-10-26T07:09:57.162857",
+  "count": 2833,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -94486,6 +94486,43 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Ensuite Bathroom in 2BR/2BA at Huxley Apartments, Redwood City. I have a private bedroom and ensuite bathroom in a quiet,",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "28832784693045478",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop",
+        "balcony",
+        "keypad_entry",
+        "air_conditioning",
+        "heater",
+        "no_parking",
+        "furnished_common_areas"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28832784693045478",
+      "posted_at": "Sunday 25 October 2026 at 19:12",
+      "first_scraped_at": "2026-10-26T14:00:05.246096+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "roommate for my 2bd/2ba in the Mission ($1,900/mo)! Looking for a new roommate in my secure, well-kept 2 bed 2",
+      "group_id": "843764532374203"
     }
   ]
 }
