@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T21:27:23.681305",
-  "count": 1373,
+  "updated_at": "2026-10-25T22:22:50.821572",
+  "count": 1374,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -45842,6 +45842,38 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "my apartment on the Upper West Side from December 21 to January 11 for $180 per night. The building has",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2257673661464095",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 750,
+      "neighborhood": "Sunset Park",
+      "area": "Brooklyn",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 3,
+      "amenities": [
+        "stove",
+        "closet",
+        "laundry_nearby"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257673661464095",
+      "posted_at": "Sunday 25 October 2026 at 21:22",
+      "first_scraped_at": "2026-10-26T05:12:11.854315+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "included). AVAILABLE: 11/1/26 LEASE: 1 year lease only APARTMENT INFO: 1 small unfurnished bedroom(8x12ft with window closet) in a 4-bed",
+      "group_id": "149460102285472"
     }
   ]
 }
