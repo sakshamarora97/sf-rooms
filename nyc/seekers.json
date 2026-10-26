@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-26T12:18:48.251589",
-  "count": 520,
+  "updated_at": "2026-10-26T13:19:39.273797",
+  "count": 525,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -15685,6 +15685,159 @@
       "first_scraped_at": "2026-10-26T19:08:53.860078+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "FEMALE ROOMMATES! Hi everyone! I\u2019m looking for female roommates to apartment hunt together for a 2-bedroom, 1-bathroom apartment in Upper",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2258306791400782",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a clean, active couple relocating to NYC; one partner starts a new job in Midtown and the other will work remotely for the first month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258306791400782",
+      "posted_at": "Monday 26 October 2026 at 12:12",
+      "first_scraped_at": "2026-10-26T20:07:51.538486+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "bath sublet needed Hello me and my girlfriend are looking for a 1 bed 1 bath sublet from Nov 1st,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2258287661402695",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-14",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "studio",
+        "2B2B",
+        "master_bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "Long Island City",
+        "Astoria",
+        "Brooklyn",
+        "Jersey City",
+        "Journal Square"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": 26,
+      "bio": "26-year-old MFA student in Graphic Design, clean, respectful, and easygoing. Often out for school in the morning and sometimes returns late; comfortable with roommates and guests.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258287661402695",
+      "posted_at": "Monday 26 October 2026 at 11:44",
+      "first_scraped_at": "2026-10-26T20:07:51.538486+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Lease Takeover or Roommates Hi everyone! I'm a 26-year-old female art student in NYC, currently pursuing an MFA in Graphic",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2258285094736285",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "She is a 24-year-old moving to NYC for a management consulting job, originally from Toronto. Active and social \u2014 enjoys rock climbing, dancing, travel, and describes herself as chill but ambitious.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258285094736285",
+      "posted_at": "Monday 26 October 2026 at 11:41",
+      "first_scraped_at": "2026-10-26T20:07:51.538486+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "and I\u2019m looking for roomies (1-3) to go apartment hunting with for a lease starting early to mid-January. I\u2019m 24,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2258279498070178",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "2-bedroom apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two people (the poster and a friend) looking for a 2-bedroom apartment or lease takeover in Brooklyn or Queens. They want to move in early to mid-December, budget up to $4,000/month, and are open to subleases, lease takeovers, or new leases.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258279498070178",
+      "posted_at": "Monday 26 October 2026 at 11:34",
+      "first_scraped_at": "2026-10-26T20:07:51.538486+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Apartment/Sublease in Brooklyn or Queens Hi everyone! My best friend and I are looking for a 2-bedroom apartment or lease",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "997067526097257",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-15",
+      "move_out_date": "2027-05-25",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Morningside Heights"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Seeks short-term housing for a Columbia University student from Jan 15 to May 25, 2027; prefers a studio or a bedroom with a private bathroom near campus.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/997067526097257",
+      "posted_at": "Monday 26 October 2026 at 12:53",
+      "first_scraped_at": "2026-10-26T20:07:51.538486+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "short term rental near Columbia University, NYC. Hi everyone, I\u2019m helping my daughter, a Columbia student in Manhattan, find a",
       "group_id": "312692887868061"
     }
   ]
