@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T10:08:56.240686",
-  "count": 3334,
+  "updated_at": "2026-10-26T11:09:04.144419",
+  "count": 3335,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103073,6 +103073,33 @@
       "first_scraped_at": "2026-10-26T17:00:02.906429+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "secure parking near Alamo Square Panhandle Hi everyone! I am moving and looking to rent a secure, reserved 24/7 parking",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2043514256340146",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Richmond District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043514256340146",
+      "posted_at": "Monday 26 October 2026 at 09:20",
+      "first_scraped_at": "2026-10-26T18:00:02.725078+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "think of the Richmond District and the duplexes there?",
       "group_id": "242765489748374"
     }
   ]

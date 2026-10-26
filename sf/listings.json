@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T10:08:56.240686",
-  "count": 2835,
+  "updated_at": "2026-10-26T11:09:04.144419",
+  "count": 2837,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -94590,6 +94590,69 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Kristen here! I\u2019m looking for a clean person that will sublease my place it is furnished pet friendly and has",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4761053440796325",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1880,
+      "neighborhood": "Marina",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "backyard",
+        "in_unit_laundry",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4761053440796325",
+      "posted_at": "Monday 26 October 2026 at 09:38",
+      "first_scraped_at": "2026-10-26T17:00:02.906429+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "THE MARINA! Hi! I\u2019m moving out of SF November 11th and need someone to take over my room! 1880~ base",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1398093872090856",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "parking_garage",
+        "near_bus_stop"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1398093872090856",
+      "posted_at": "Monday 26 October 2026 at 09:41",
+      "first_scraped_at": "2026-10-26T18:00:02.725078+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for Sublet! Hi everyone! I'm looking for a female sub-letter to sublease my single room in a shared apartment on",
+      "group_id": "558742412692677"
     }
   ]
 }
