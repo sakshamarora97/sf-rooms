@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T12:08:49.318470",
-  "count": 3335,
+  "updated_at": "2026-10-26T13:07:47.115814",
+  "count": 3336,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103100,6 +103100,36 @@
       "first_scraped_at": "2026-10-26T18:00:02.725078+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "think of the Richmond District and the duplexes there?",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2043651829659722",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "sublease",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 29,
+      "bio": "29-year-old hospitality worker who has lived in San Francisco for just over a year. Social but values alone time, works late hours (typically 3pm\u2013midnight), is quiet, conscientious, and keeps shared spaces clean.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043651829659722",
+      "posted_at": "Monday 26 October 2026 at 12:43",
+      "first_scraped_at": "2026-10-26T20:00:02.545165+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "housing Hi all!! I\u2019m looking to hop in on someone\u2019s lease or sublease in the mission. I currently live on",
       "group_id": "242765489748374"
     }
   ]
