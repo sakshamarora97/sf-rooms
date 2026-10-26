@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T14:06:41.867640",
-  "count": 3336,
+  "updated_at": "2026-10-26T15:06:03.148405",
+  "count": 3337,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103131,6 +103131,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "housing Hi all!! I\u2019m looking to hop in on someone\u2019s lease or sublease in the mission. I currently live on",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4761233137445022",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": 3700,
+      "unit_type_wanted": [
+        "1B1B",
+        "1B1.5B"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "Telegraph Hill",
+        "Embarcadero",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Canadian working professional relocating to San Francisco for a tech job in the Financial District. Seeking a furnished 1BR (1\u20131.5BA) sublet from early Nov to late April, budget up to $3,700/month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4761233137445022",
+      "posted_at": "Monday 26 October 2026 at 13:07",
+      "first_scraped_at": "2026-10-26T22:00:02.157145+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Somebi, a Canadian who will be relocating to SF for work in Tech (office in the Financial District) looking to",
+      "group_id": "2176716625896699"
     }
   ]
 }
