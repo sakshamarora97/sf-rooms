@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-25T19:19:16.570811",
-  "count": 501,
+  "updated_at": "2026-10-25T20:26:06.168290",
+  "count": 502,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -15089,6 +15089,35 @@
       "first_scraped_at": "2026-10-26T02:08:47.881069+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "bedroom leaseover for 6+ months Looking for a leaseover for a 1+ bedroom in Manhattan. Ideally something long-term like 6+",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2257583931473068",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 4200,
+      "budget_max": 4200,
+      "unit_type_wanted": [
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a group of three seeking a 3-bedroom, preferably 2-bath apartment in Brooklyn with washer and dryer, a 30\u201340 minute train commute to the Financial District, and a budget around $4,200/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2257583931473068",
+      "posted_at": "Sunday 25 October 2026 at 18:58",
+      "first_scraped_at": "2026-10-26T03:15:18.806400+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to search for a rental property in Brooklyn. We\u2019re 3 people Looking for a 3 bed preferably 2bath apartment with",
       "group_id": "149460102285472"
     }
   ]
