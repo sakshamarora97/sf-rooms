@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-25T20:15:14.163178",
-  "count": 3320,
+  "updated_at": "2026-10-25T21:15:55.714936",
+  "count": 3322,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -102627,6 +102627,70 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "private room Penninsula/SF/South Bay Looking for a private room, shared bathroom ok, with parking preferred. Month to Month lease strongly",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2042998809725024",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "He is a 22-year-old non-smoker relocating to San Francisco for a new job and will work in the Mission District. Seeking a private bedroom with a preference for a private bath and a budget up to $2,000.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042998809725024",
+      "posted_at": "Sunday 25 October 2026 at 20:53",
+      "first_scraped_at": "2026-10-26T04:00:03.896300+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "private bedroom rental/roommate moving in mid November! Hi my name is Joshua from Chicago I am currently working in Pittsburgh",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2042947279730177",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Russian Hill",
+        "Polk Gulch",
+        "Hayes Valley",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 29,
+      "bio": "She is a 29-year-old structural engineer who is independent, clean, organized, outgoing, and social. She enjoys yoga, pilates, hiking, and sometimes music events, and works in the Financial District 2\u20134 days a week.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2042947279730177",
+      "posted_at": "Sunday 25 October 2026 at 19:30",
+      "first_scraped_at": "2026-10-26T04:00:03.896300+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Roomie Sitch Hii my name is Marissa. I\u2019m 29f structural engineer looking for a room to rent or someone to",
+      "group_id": "242765489748374"
     }
   ]
 }
