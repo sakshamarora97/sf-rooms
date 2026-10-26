@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-26T10:19:34.908419",
-  "count": 514,
+  "updated_at": "2026-10-26T11:18:06.972720",
+  "count": 516,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -15494,6 +15494,71 @@
       "first_scraped_at": "2026-10-26T17:09:01.067956+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "VACATION RENTAL IN NEW YORK! Hi everyone! My family and I are looking to rent a house in New York",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2258245138073614",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Upper West Side",
+        "Long Island City"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is urgently looking for a sublet or lease takeover starting 2026-11-01 with a monthly budget of $2,500.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258245138073614",
+      "posted_at": "Monday 26 October 2026 at 10:46",
+      "first_scraped_at": "2026-10-26T18:09:08.449772+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a sublet or lease takeover starting 11/1. Budget is $2,500, ideally in lower/midtown Manhattan, UWS, or LIC. Please reach out",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2258242994740495",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Boerum Hill",
+        "Park Slope",
+        "Bed-Stuy",
+        "Williamsburg"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": 21,
+      "bio": "21-year-old moving from London to New York in December, seeking roommates or an apartment in Brooklyn. Social, easygoing, travels frequently for work and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258242994740495",
+      "posted_at": "Monday 26 October 2026 at 10:43",
+      "first_scraped_at": "2026-10-26T18:09:08.449772+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommate roommates! Moving from London to NYC Hi! I\u2019m Esme, 21, moving from London to New York and looking for",
       "group_id": "149460102285472"
     }
   ]
