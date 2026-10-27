@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T17:06:11.435803",
-  "count": 2850,
+  "updated_at": "2026-10-26T18:05:39.862004",
+  "count": 2852,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -95077,6 +95077,67 @@
       "first_scraped_at": "2026-10-27T00:00:02.763053+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "SUBLET: Available Dec 11 Jan 17 (start date can be later end date a little earlier) Offering up my large",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2043789476312624",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1500,
+      "neighborhood": "Menlo Park",
+      "area": "The Peninsula",
+      "available_from": "2026-11-01",
+      "available_until": "2026-11-29",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "private_half_bath",
+        "shared_full_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": "female only",
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043789476312624",
+      "posted_at": "Monday 26 October 2026 at 17:00",
+      "first_scraped_at": "2026-10-27T01:00:02.736090+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "subletter for a fully furnished private bedroom available for one month (November: 11/1-11/29) Private half bath, shared full bathroom Rent",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1398361095397467",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1450,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "furnished"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1398361095397467",
+      "posted_at": "Monday 26 October 2026 at 17:15",
+      "first_scraped_at": "2026-10-27T01:00:02.736090+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "to sublease my room in the spring (single furnished with bed, desk, mirror, closet, chair, lamp) which is super close",
       "group_id": "558742412692677"
     }
   ]
