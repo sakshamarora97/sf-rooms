@@ -479,6 +479,9 @@
   html.dark .pref-chip-has    { background: #3a2c0e; color: #fcd34d; }
   .prefs-note { font-size: 12px; color: var(--text-3); line-height: 1.4; }
   .m-card-prefs { font-size: 12px; }
+  .m-card-prefs .prefs-note::before { content: '🚧 '; }   /* cards have no column header to carry the Beta badge */
+  .wip-badge { display: inline-block; margin-left: 4px; padding: 0 6px; border-radius: 10px; font-size: 10px; font-weight: 600; background: #fef3c7; color: #92400e; cursor: help; white-space: nowrap; }
+  html.dark .wip-badge { background: #3a2c0e; color: #fcd34d; }
 
   /* Filter status line + Hide popover */
   .filter-status { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 4px 16px; align-items: center; font-size: 12px; color: var(--text-4); }
@@ -1447,7 +1450,7 @@
             <th data-col="listing_type">Type</th>
             <th data-col="is_furnished">Furnished</th>
             <th data-col="amenities">Amenities</th>
-            <th class="prefs-only">Gender/Pets</th>
+            <th class="prefs-only">Gender/Pets <span class="wip-badge" title="Work in progress: generated automatically from the post and still being improved, so it can contain mistakes. Check the original post.">🚧 Beta</span></th>
             <th>Post</th>
             <th title="Sign in to bookmark, tag, and add private notes to listings">Save</th>
           </tr>
@@ -1473,7 +1476,7 @@
             <th data-scol="preferred_neighborhoods">Neighborhoods</th>
             <th data-scol="unit_type_wanted">Looking for</th>
             <th data-scol="bio">Bio</th>
-            <th class="prefs-only">Gender/Pets</th>
+            <th class="prefs-only">Gender/Pets <span class="wip-badge" title="Work in progress: generated automatically from the post and still being improved, so it can contain mistakes. Check the original post.">🚧 Beta</span></th>
             <th data-scol="age">Age</th>
             <th data-scol="group_size">Group</th>
             <th>Post</th>
@@ -1868,7 +1871,8 @@ function statusCellHtml(lid) {
 // ── Gender/Pets (hidden behind ?prefs=1, see the head script) ─────────────────
 const PREFS_ON = document.documentElement.classList.contains('prefs-on');
 // Gender/pets data only exists for posts since this date (extraction was switched on then; older posts are null = "not stated").
-const PREFS_INFO_SINCE = '2026-10-19';
+const PREFS_INFO_SINCE = '2026-09-26';   // 30-day backfill on 2026-10-26
+const PREFS_WIP_NOTE = `🚧 Work in progress: gender and pets info is generated automatically from the post and still being improved, so it can contain mistakes — check the original post. Available for posts since ${fmtDate(PREFS_INFO_SINCE)}.`;
 const prefChip = (cls, label) => `<span class="pref-chip pref-chip-${cls}">${label}</span>`;
 // Chips from the strict fields first, then the free-text note.
 function listingPrefChips(p) {
@@ -1944,10 +1948,10 @@ function updateFilterStatus(kind, hiddenN, shownN) {
   $(pre + '-active').querySelector('.fs-text').textContent = `${n} filter${n === 1 ? '' : 's'} active`;
   $(pre + '-hiding').hidden = !hiddenN;
   $(pre + '-hiding').querySelector('.fs-text').textContent = `Hiding ${hiddenN} ${noun}${hiddenN === 1 ? '' : 's'}`;
-  $(box).querySelector('.fs-note').textContent = `Gender and pets info is available for posts since ${fmtDate(PREFS_INFO_SINCE)}.`;
+  $(box).querySelector('.fs-note').textContent = PREFS_WIP_NOTE;
   $(box).hidden = !n && !PREFS_ON;
   $('hide-btn-' + kind).classList.toggle('active', hideGroupsActive(kind) > 0);
-  $('hide-pop-' + kind).querySelector('.since-note').textContent = `Gender and pets info is available for posts since ${fmtDate(PREFS_INFO_SINCE)}.`;
+  $('hide-pop-' + kind).querySelector('.since-note').textContent = PREFS_WIP_NOTE;
   // Phone sheet: the Filters button shows the active count, the footer button the live result count.
   const fb = $('filters-btn');
   if (currentTabName() === kind) { fb.textContent = n ? `Filters · ${n}` : 'Filters'; fb.classList.toggle('has-active', n > 0); }
