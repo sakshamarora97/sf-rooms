@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T06:08:36.873753",
-  "count": 3349,
+  "updated_at": "2026-10-27T07:07:39.494223",
+  "count": 3350,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -106874,6 +106874,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking for a 1b1b in 2b2b in Sunnyvale/Santa Clara area Requirements: Male, non smoker, non drinker, vegetarian Budget $1500-1700 (flexible)",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "28861737566816857",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-09",
+      "move_out_date": "2027-01-09",
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "private room"
+      ],
+      "preferred_neighborhoods": [
+        "Castro",
+        "Mission District",
+        "Duboce Triangle",
+        "Lower Haight"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; wants social house; no pets.",
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent arrival from Canada working as a software engineer; tidy non-smoker who works hybrid (3 days in office). Enjoys live music, running, volleyball, and social dinners.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28861737566816857",
+      "posted_at": "Tuesday 27 October 2026 at 06:26",
+      "first_scraped_at": "2026-10-27T14:00:02.662061+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "room for 2\u20133 months from early to mid November, in Castro Mission Duboce Lower Haight Hi everyone! I'm Colin, 23,",
+      "group_id": "843764532374203"
     }
   ]
 }
