@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T11:07:34.350292",
-  "count": 2878,
+  "updated_at": "2026-10-27T12:06:54.852282",
+  "count": 2879,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -95982,6 +95982,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for someone to take over my lease at Trinity Place (1190 Mission St) starting ASAP. The sublease runs through March",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4762361890665480",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2700,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-02",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "air_conditioning",
+        "modern_building",
+        "building_amenities"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Etta SF",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4762361890665480",
+      "posted_at": "Tuesday 27 October 2026 at 10:37",
+      "first_scraped_at": "2026-10-27T19:00:04.038334+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a roommate for the primary bedroom with private bathroom in a 3BR/2BA apartment at Etta SF (1285 Sutter",
+      "group_id": "2176716625896699"
     }
   ]
 }
