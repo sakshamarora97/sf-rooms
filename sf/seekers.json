@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T08:07:42.070300",
-  "count": 3350,
+  "updated_at": "2026-10-27T09:06:40.722051",
+  "count": 3351,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -106907,6 +106907,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "room for 2\u20133 months from early to mid November, in Castro Mission Duboce Lower Haight Hi everyone! I'm Colin, 23,",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2044415749583330",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2100,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Potrero Hill",
+        "Bernal Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; wants 1-2 gals as roommates",
+      "reason": null,
+      "age": 24,
+      "bio": "She works in mental health/non-profit, is easy-going and friendly, enjoys cafes, movies, hiking and soccer, and values clean communicative roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2044415749583330",
+      "posted_at": "Tuesday 27 October 2026 at 08:35",
+      "first_scraped_at": "2026-10-27T16:00:03.411845+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "is Jaclyn (or Jackie), and I am looking to either find a new place with 1-2 gals or takeover someone",
+      "group_id": "242765489748374"
     }
   ]
 }
