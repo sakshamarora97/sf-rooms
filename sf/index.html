@@ -48,13 +48,13 @@
 <!-- Apply dark mode before CSS renders to avoid flash -->
 <script>try{if(localStorage.getItem('theme')==='dark')document.documentElement.classList.add('dark')}catch(e){}</script>
 <script>
-// Hidden switch for the gender/pets UI: ?prefs=1 turns it on (and is remembered), ?prefs=0 turns it off. Shared across cities (same origin).
+// Gender/pets UI (Beta): on for everyone since 2026-10-27. ?prefs=0 hides it for this browser, ?prefs=1 shows it again.
 (function () {
-  var q = new URLSearchParams(location.search).get('prefs'), on = q === '1';
+  var q = new URLSearchParams(location.search).get('prefs'), on = q !== '0';
   try {
-    if (q === '1') localStorage.setItem('ur.prefs', '1');
-    else if (q === '0') localStorage.removeItem('ur.prefs');
-    else on = localStorage.getItem('ur.prefs') === '1';
+    if (q === '1') localStorage.removeItem('ur.prefs');
+    else if (q === '0') localStorage.setItem('ur.prefs', '0');
+    else on = localStorage.getItem('ur.prefs') !== '0';
   } catch (e) {}
   if (on) document.documentElement.classList.add('prefs-on');
 })();
@@ -1608,7 +1608,7 @@ let userNotes     = new Map();   // Map<listing_id, body>
 const DATA_BASE = './';
 // Stamped by extract_only.py (hash of this file's code, ignoring the parts the
 // pipeline rewrites hourly). Compared against version.json to spot redeploys.
-const SITE_VERSION = '45b3d954435e';
+const SITE_VERSION = '1e2872826907';
 let allListings = [], allSeekers = [], allSpam = [];
 let sortCol = 'posted_at', sortDir = -1;
 let seekerSortCol = 'posted_at', seekerSortDir = -1;
