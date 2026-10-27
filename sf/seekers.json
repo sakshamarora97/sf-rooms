@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T20:06:17.393551",
-  "count": 3342,
+  "updated_at": "2026-10-26T21:07:05.797537",
+  "count": 3346,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103309,6 +103309,132 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "over, short term or sublet pet-friendly Hi I'm Amanda relocating to San Francisco with my pug, Bubby Valentino! I want",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2043919682966270",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Leandro",
+        "Castro Valley",
+        "Hayward",
+        "Alameda"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 22,
+      "bio": "A 22-year-old software engineer and Cal graduate who grew up in Southern California. Enjoys playing bass guitar, chess, and cooking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043919682966270",
+      "posted_at": "Monday 26 October 2026 at 20:29",
+      "first_scraped_at": "2026-10-27T04:00:04.082053+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Neil! I'm a software engineer looking for a place in or around San Leandro (technically not San Francisco, but I",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2043893699635535",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "North Beach",
+        "Nob Hill",
+        "Cow Hollow",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UCSB graduate working full-time in the Financial District; clean, easygoing, enjoys outdoor activities, yoga, and exploring food and coffee spots.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043893699635535",
+      "posted_at": "Monday 26 October 2026 at 19:46",
+      "first_scraped_at": "2026-10-27T04:00:04.082053+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "lease in SF! Hi everyone! I'm Mathilde, I'm 22, and I'm looking to join a lease or find roommates in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4397442750566476",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "She is a single female nonsmoker with no children seeking a room in Oakland or Berkeley. She prefers a clean, peaceful home with respectful roommates and needs to move in by 2026-11-30.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4397442750566476",
+      "posted_at": "Monday 26 October 2026 at 20:32",
+      "first_scraped_at": "2026-10-27T04:00:04.082053+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "everyone! I\u2019m a single female, nonsmoker with no children, looking for a room to rent in Oakland or Berkeley. I",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4397837097193708",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Cupertino"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Full-time employee relocating for work. Responsible, clean, and quiet; does not drink or smoke, pet-free, and can provide employment letter and references.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4397837097193708",
+      "posted_at": "Monday 26 October 2026 at 20:31",
+      "first_scraped_at": "2026-10-27T04:00:04.082053+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "1 Bed/Studio APARTMENT Sunnyvale Cupertino Hello everyone! I am relocating to Bay Area for work and looking for a 1",
+      "group_id": "1511607562483357"
     }
   ]
 }
