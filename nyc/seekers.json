@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-26T18:15:31.736946",
-  "count": 528,
+  "updated_at": "2026-10-26T19:17:27.697011",
+  "count": 529,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -15923,6 +15923,34 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Looking for a sublet for November 1 through December: around a month (though could be open to longer if it\u2019s",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "997263056077704",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-10-31",
+      "move_out_date": "2026-11-22",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "MIT alum seeking a short sublet from 2026-10-31 to 2026-11-22; open to a studio or a room in an apartment with female roommates.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/997263056077704",
+      "posted_at": "Monday 26 October 2026 at 18:59",
+      "first_scraped_at": "2026-10-27T02:06:56.965922+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "for a sublet Hi everyone! I\u2019m looking for a sublet from October 31 to November 22. I\u2019m open to a",
+      "group_id": "312692887868061"
     }
   ]
 }
