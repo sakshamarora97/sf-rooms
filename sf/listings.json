@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T07:07:39.494223",
-  "count": 2874,
+  "updated_at": "2026-10-27T08:07:42.070300",
+  "count": 2876,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -95850,6 +95850,73 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "have a room available in a clean and comfortable 2-bedroom, 2-bathroom apartment. I\u2019m easygoing, respectful, and looking for a clean,",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4761745710727098",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1750,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": "2027-01-15",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "ocean_view",
+        "furnished",
+        "shared_bathroom",
+        "kitchen",
+        "living_room",
+        "professional_cleaning",
+        "street_parking",
+        "bay_windows"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with two roommates (M and F); seeks short-term clean, responsible roommate; no pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4761745710727098",
+      "posted_at": "Tuesday 27 October 2026 at 00:09",
+      "first_scraped_at": "2026-10-27T15:00:05.561653+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "oceanview room for rent Nov 15 Jan 15 Furnished North Beach oceanview room for short term rent Nov 15 Jan",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2044252179599687",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-02-28",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2044252179599687",
+      "posted_at": "Tuesday 27 October 2026 at 05:23",
+      "first_scraped_at": "2026-10-27T15:00:05.561653+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "to takeover a private unit through late Feb, renewable. It's a 1 bed and 1 bath. Utilities and parking included.",
+      "group_id": "242765489748374"
     }
   ]
 }
