@@ -46,7 +46,19 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" media="print" onload="this.media='all'">
 <script defer src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <!-- Apply dark mode before CSS renders to avoid flash -->
-<script>if(localStorage.getItem('theme')==='dark')document.documentElement.classList.add('dark')</script>
+<script>try{if(localStorage.getItem('theme')==='dark')document.documentElement.classList.add('dark')}catch(e){}</script>
+<script>
+// Hidden switch for the gender/pets UI: ?prefs=1 turns it on (and is remembered), ?prefs=0 turns it off. Shared across cities (same origin).
+(function () {
+  var q = new URLSearchParams(location.search).get('prefs'), on = q === '1';
+  try {
+    if (q === '1') localStorage.setItem('ur.prefs', '1');
+    else if (q === '0') localStorage.removeItem('ur.prefs');
+    else on = localStorage.getItem('ur.prefs') === '1';
+  } catch (e) {}
+  if (on) document.documentElement.classList.add('prefs-on');
+})();
+</script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -374,14 +386,26 @@
   tr.bookmarked td { background: var(--row-bm); }
   tr.bookmarked:hover td { background: var(--row-bm-hover); }
 
-  /* Column min-widths so content doesn't crush before scrolling kicks in */
+  /* Column min-widths so content doesn't crush before scrolling kicks in.
+     Positions count hidden cells too: the Gender/Pets column (prefs-only) is always in the DOM. */
   #listings-table td:nth-child(1), #seekers-table td:nth-child(1) { min-width: 72px; }   /* Posted */
   #listings-table td:nth-child(2), #seekers-table td:nth-child(3) { min-width: 80px; }   /* Rent/Budget */
   #listings-table td:nth-child(4)  { min-width: 120px; }  /* Location */
   #listings-table td:nth-child(5)  { min-width: 90px; }   /* Available */
   #listings-table td:nth-child(9)  { max-width: 200px; }  /* Amenities */
-  #seekers-table td:nth-child(7)   { min-width: 90px; }  /* Neighborhoods */
-  #seekers-table td:nth-child(9)   { min-width: 130px; max-width: 200px; }  /* Bio */
+  #seekers-table td:nth-child(6)   { min-width: 90px; }  /* Neighborhoods */
+  #seekers-table td:nth-child(8)   { min-width: 220px; max-width: 340px; }  /* Bio: wide enough to stay readable (~3-4 lines) */
+  #seekers-table .bio-cell { max-width: none; }
+  #listings-table td:nth-child(10) { min-width: 110px; max-width: 170px; }  /* Gender/Pets */
+  #seekers-table td:nth-child(9) { width: 1%; min-width: 0; max-width: 120px; }  /* Gender/Pets on Seekers: mostly empty, so only as wide as its chip/short note */
+  /* Laptop widths: tighter cell padding and narrower Bio/Gender-Pets minimums keep both tables from scrolling sideways at 1280px. */
+  @media (max-width: 1500px) {
+    #listings-table td, #listings-table th, #seekers-table td, #seekers-table th { padding-left: 8px; padding-right: 8px; }
+    #seekers-table td:nth-child(8) { min-width: 125px; }
+    .status-cell { gap: 3px; }
+    .status-cell .utag-select { max-width: 84px; }
+    #listings-table td:nth-child(10) { min-width: 100px; }
+  }
 
   .rent { font-weight: 700; font-size: 17px; letter-spacing: -0.5px; color: var(--rent); font-variant-numeric: tabular-nums; }
   .rent-null { color: var(--rent-null); font-weight: normal; font-size: 13px; }
@@ -401,12 +425,6 @@
   .tag-lease_takeover  { background: #ffedd5; color: #9a3412; }
   .tag-room_rental     { background: #d1fae5; color: #065f46; }
   .tag-entire_unit     { background: #dbeafe; color: #1e3a8a; }
-  .tag-internship      { background: #fce7f3; color: #9d174d; }
-  .tag-student         { background: #ecfdf5; color: #065f46; }
-  .tag-new_job         { background: #eff6ff; color: #1e40af; }
-  .tag-rotation        { background: #f5f3ff; color: #5b21b6; }
-  .tag-relocation      { background: #fffbeb; color: #92400e; }
-  .tag-other           { background: #f3f4f6; color: #4b5563; }
   .badge-expired       { background: #fee2e2; color: #991b1b; font-size: 12px; margin-left: 4px; }
   .badge-old           { background: var(--surface-3); color: var(--text-4); font-size: 12px; margin-left: 4px; }
   html.dark .badge-expired { background: #3a1414; color: #fca5a5; }
@@ -448,6 +466,35 @@
 
   .chip { display: inline-block; background: var(--row-bm); color: var(--accent); border-radius: 20px; padding: 2px 9px; font-size: 12px; font-weight: 500; margin: 1px 2px 1px 0; }
   .chip-type { display: inline-block; background: var(--surface-3); color: var(--text-4); border-radius: 20px; padding: 2px 9px; font-size: 12px; margin: 1px 2px 1px 0; }
+  /* Gender/Pets chips + notes (everything with .prefs-only is hidden unless the ?prefs=1 switch is on) */
+  html:not(.prefs-on) .prefs-only { display: none !important; }
+  .pref-chip { display: inline-block; border-radius: 20px; padding: 2px 8px; font-size: 12px; font-weight: 600; margin: 1px 3px 1px 0; white-space: nowrap; }
+  .pref-chip-gender { background: #ede9fe; color: #5b21b6; }
+  .pref-chip-ok     { background: #dcfce7; color: #166534; }
+  .pref-chip-no     { background: #fee2e2; color: #991b1b; }
+  .pref-chip-has    { background: #fef3c7; color: #92400e; }
+  html.dark .pref-chip-gender { background: #2e2350; color: #c4b5fd; }
+  html.dark .pref-chip-ok     { background: #12301d; color: #86efac; }
+  html.dark .pref-chip-no     { background: #3a1414; color: #fca5a5; }
+  html.dark .pref-chip-has    { background: #3a2c0e; color: #fcd34d; }
+  .prefs-note { font-size: 12px; color: var(--text-3); line-height: 1.4; }
+  .m-card-prefs { font-size: 12px; }
+
+  /* Filter status line + Hide popover */
+  .filter-status { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 4px 16px; align-items: center; font-size: 12px; color: var(--text-4); }
+  .filter-status[hidden] { display: none; }
+  .filter-status .fs-note { margin-left: auto; }
+  .link-btn { background: none; border: none; padding: 0; font: inherit; color: var(--accent); cursor: pointer; text-decoration: underline; }
+  .hide-wrap { position: relative; }
+  .hide-btn { padding: 6px 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 13px; color: var(--text-2); }
+  .hide-btn:hover { background: var(--surface-2); }
+  .hide-btn.active { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+  .hide-pop { position: absolute; top: calc(100% + 6px); left: 0; z-index: 50; min-width: 210px; padding: 12px 14px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 6px 20px var(--shadow-lg); display: flex; flex-direction: column; gap: 10px; }
+  .hide-pop[hidden] { display: none; }
+  .hide-grp-title { font-size: 12px; font-weight: 600; color: var(--text-5); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px; }
+  .hide-pop label { flex-direction: row; align-items: center; gap: 8px; margin: 3px 0; font-size: 13px; font-weight: 400; color: var(--text); text-transform: none; letter-spacing: 0; cursor: pointer; }
+  .hide-pop input[type=checkbox] { margin-top: 0; }
+  .hide-note { font-size: 12px; color: var(--text-4); }
   .bio-cell { font-size: 12px; color: var(--text-2); font-style: italic; line-height: 1.45; max-width: 200px; }
   .amen-cell { font-style: normal; color: #9ca3af; line-height: 1.4; }
   .bio-cell.bio-long { cursor: pointer; }
@@ -564,19 +611,14 @@
   .page-info { font-size: 12px; color: var(--text-4); font-variant-numeric: tabular-nums; }
 
   /* Map split pane (shared across Listings/Room Seekers) */
-  .map-toggle-pill {
-    padding: 6px 14px;
-    border-radius: 8px;
-    border: 1px solid var(--border);
-    background: var(--surface);
-    color: var(--text-2);
-    font-size: 13px;
-    font-weight: 600;
-    cursor: pointer;
-    align-self: flex-end;
-  }
-  .map-toggle-pill:hover { background: var(--surface-2); }
-  .map-toggle-pill.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  /* Header map toggle (desktop only; phones use the floating button) */
+  .map-btn-el.active { background: #3b1f08; border-color: #3b1f08; }
+  html.dark .map-btn-el.active { background: #4f46e5; border-color: #818cf8; }
+  .map-btn-el[hidden] { display: none; }
+  #map-fab, #pin-card, #sheet-backdrop, .mbar-row, #mbar-status, .sheet-head, .sheet-show { display: none; }
+  .filters[hidden] { display: none; }
+  .sheet-foot { display: contents; }
+  .since-note { display: none; }
 
   #main-area { display: block; }
   #map-pane { display: none; }
@@ -586,6 +628,7 @@
     align-items: flex-start;
     padding: 0 24px 20px;
   }
+  #map-pane { position: relative; z-index: 0; } /* own stacking context: Leaflet's panes/controls (z 400-1000) must not climb over the sticky bar or sheet */
   #main-area.map-open #map-pane {
     display: block;
     flex: 1 1 50%;
@@ -647,7 +690,7 @@
   #main-area.map-open .pagination { display: none; }
   .pin-to-map-btn:hover { color: var(--accent); }
 
-  @media (max-width: 900px) {
+  @media (min-width: 768px) and (max-width: 900px) {
     #main-area.map-open { flex-direction: column; padding: 0; }
     #main-area.map-open #map-pane { flex: none; width: 100%; height: 300px; }
     #main-area.map-open #content-pane { flex: none; width: 100%; height: 55vh; padding: 12px 24px 20px; }
@@ -793,11 +836,84 @@
     .header-bridge { display: none; }
     #table-caption-tab { display: none; }
     .table-wrap { display: none !important; }
-    .mobile-list {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
+    .mobile-list { display: flex; flex-direction: column; gap: 10px; }
+    .map-btn-el { display: none; }
+    .tab-subtitle { display: none; }
+
+    /* Sticky slim bar: tabs, Filters button + result count, status line */
+    #sticky-bar { position: sticky; top: 0; z-index: 900; background: var(--surface); box-shadow: 0 1px 4px var(--shadow); }
+    #sticky-bar .tabs { padding: 0 4px; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid var(--border-2); }
+    #sticky-bar .tabs::-webkit-scrollbar { display: none; }
+    .tab { padding: 10px 9px; white-space: nowrap; font-size: 13px; }
+    .tab .badge { margin-left: 3px; font-size: 11px; padding: 0 4px; }
+    .mbar-row { display: flex; align-items: center; gap: 12px; padding: 7px 12px; }
+    .mbar-row[hidden] { display: none; }
+    .filters-btn { padding: 7px 14px; border: 1px solid var(--border); border-radius: 999px; background: var(--surface); color: var(--text); font: inherit; font-size: 13px; font-weight: 600; cursor: pointer; }
+    .filters-btn.has-active { border-color: var(--accent); color: var(--accent); }
+    .mbar-count { font-size: 13px; color: var(--text-3); font-variant-numeric: tabular-nums; }
+    #mbar-status { display: block; padding: 0 12px; }
+    #mbar-status .filter-status { padding: 0 0 7px; gap: 2px 14px; }
+    #mbar-status .filter-status[hidden], #mbar-status .filter-status > [hidden] { display: none; }
+    #mbar-status .fs-note { display: none; }
+    .since-note { display: block; }
+    .content { padding-top: 12px; padding-bottom: 88px; } /* room for the floating Map button */
+
+    /* Filters bottom sheet (the same .filters bars, restyled) */
+    .filters, .filters[hidden] { display: none; }
+    html.sheet-open #listing-filters:not([hidden]), html.sheet-open #seeker-filters:not([hidden]) { display: grid; }
+    .filters {
+      position: fixed; left: 0; right: 0; bottom: 0; z-index: 1500;
+      max-height: 86vh; max-height: 86dvh; overflow-y: auto; overscroll-behavior: contain;
+      grid-template-columns: 1fr 1fr; gap: 12px; align-content: start;
+      padding: 0 16px; border-radius: 16px 16px 0 0; border: 1px solid var(--border); border-bottom: none;
+      box-shadow: 0 -8px 30px var(--shadow-lg);
     }
+    .filters > * { min-width: 0; }
+    .filters input[type=text], .filters input[type=number], .filters select { width: 100%; font-size: 16px; padding: 8px 10px; }
+    .filters label { font-size: 11px; }
+    .sheet-head { display: flex; grid-column: 1 / -1; align-items: center; justify-content: space-between; position: sticky; top: 0; background: var(--surface); padding: 14px 0 6px; z-index: 2; }
+    .sheet-title { font-size: 16px; font-weight: 700; color: var(--text); }
+    .sheet-close { border: none; background: var(--surface-3); color: var(--text-2); width: 32px; height: 32px; border-radius: 50%; font-size: 20px; line-height: 1; cursor: pointer; }
+    .hide-wrap { grid-column: 1 / -1; }
+    .hide-btn { display: none; }
+    .hide-pop, .hide-pop[hidden] { display: flex; position: static; flex-direction: row; flex-wrap: wrap; gap: 8px 24px; min-width: 0; padding: 12px; box-shadow: none; background: var(--surface-2); }
+    .hide-pop > div { min-width: 120px; }
+    .hide-pop > .hide-note { flex-basis: 100%; }
+    .hide-pop label { font-size: 14px; }
+    .sheet-foot { display: flex; grid-column: 1 / -1; gap: 10px; position: sticky; bottom: 0; background: var(--surface); padding: 10px 0 calc(12px + env(safe-area-inset-bottom)); border-top: 1px solid var(--border-2); z-index: 2; }
+    .sheet-foot .clear-btn { margin: 0; padding: 11px 16px; font-size: 14px; }
+    .sheet-show { display: block; flex: 1; padding: 11px 16px; border: none; border-radius: 8px; background: var(--accent); color: #fff; font: inherit; font-size: 14px; font-weight: 700; cursor: pointer; }
+    #sheet-backdrop { position: fixed; inset: 0; z-index: 1400; background: var(--overlay); }
+    html.sheet-open #sheet-backdrop { display: block; }
+    html.sheet-open, html.sheet-open body { overflow: hidden; }
+
+    /* Floating Map / List button (Listings and Seekers only) */
+    #map-fab {
+      display: inline-flex; align-items: center; gap: 6px; position: fixed; left: 50%; transform: translateX(-50%); z-index: 850;
+      bottom: calc(18px + env(safe-area-inset-bottom) + var(--pin-card-h, 0px));
+      padding: 11px 20px; border: none; border-radius: 999px; background: #1c1c1e; color: #fff;
+      font: inherit; font-size: 14px; font-weight: 700; box-shadow: 0 4px 16px rgba(0,0,0,0.3); cursor: pointer;
+    }
+    html.dark #map-fab { background: #f2f2f7; color: #1c1c1e; }
+    #map-fab[hidden], html.sheet-open #map-fab { display: none; }
+
+    /* Map view: full-screen map under the sticky bar, no list rendered, no page scroll */
+    html.map-m, html.map-m body { overflow: hidden; }
+    html.map-m #content-pane, html.map-m .site-footer, html.map-m #static-preview { display: none; }
+    html.map-m #main-area.map-open { display: block; padding: 0; }
+    html.map-m #main-area.map-open #map-pane {
+      position: fixed; left: 0; right: 0; top: var(--map-top, 150px); width: auto; z-index: 0; border-radius: 0; box-shadow: none; flex: none;
+      height: calc(100vh - var(--map-top, 150px)); height: calc(100dvh - var(--map-top, 150px));
+    }
+    #pin-card {
+      position: fixed; left: 10px; right: 10px; z-index: 860; bottom: calc(10px + env(safe-area-inset-bottom));
+      background: var(--surface); color: var(--text); border-radius: 14px; padding: 12px 14px; box-shadow: 0 6px 24px var(--shadow-lg); border: 1px solid var(--border);
+      flex-direction: column; gap: 6px;
+    }
+    #pin-card:not([hidden]) { display: flex; }
+    #pin-card .m-card-actions { border-top: none; padding-top: 4px; margin-top: 0; }
+    .pin-card-close { position: absolute; top: 6px; right: 6px; border: none; background: none; color: var(--text-4); font-size: 20px; width: 28px; height: 28px; line-height: 1; cursor: pointer; }
+    #pin-card .m-card-top { padding-right: 22px; }
   }
 
   @media (max-width: 600px) {
@@ -805,9 +921,7 @@
     header { flex-wrap: wrap; row-gap: 8px; }
     header > div:first-child { width: 100%; }
     .header-tagline-sub { display: none; }
-    .filters { flex-direction: column; align-items: stretch; }
-    .filters input[type=text], .filters input[type=number] { width: 100%; }
-    .clear-btn { margin-left: 0; }
+    .filters { padding-left: 16px; padding-right: 16px; }
   }
 
   /* ── Dark mode overrides ──────────────────────────────────────────────────── */
@@ -880,7 +994,7 @@
     <div class="header-tagline-sub" style="font-size:12px;color:#8a5a20;margin-top:1px;font-weight:400">Not a listing host — every result links back to the original Facebook post.</div>
   </div>
   <div class="spacer"></div>
-  <button id="theme-btn" onclick="toggleTheme()" title="Toggle dark mode" class="theme-btn-el">🌙</button>
+  <button id="map-btn-header" onclick="toggleMapPane()" title="Show map" aria-label="Show map" aria-pressed="false" class="theme-btn-el map-btn-el">🗺</button><button id="theme-btn" onclick="toggleTheme()" title="Toggle dark mode" class="theme-btn-el">🌙</button>
 <!-- Golden Gate Bridge illustration (generated by site/art/make_sf.py) -->
   <svg class="header-bridge" viewBox="0 0 560 80" preserveAspectRatio="xMidYMax meet" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -1051,6 +1165,7 @@
 
 
 
+<div id="sticky-bar">
 <div class="tabs">
   <div class="tab active" data-tab="listings">Listings <span class="badge" id="badge-listings">2862</span></div>
   <div class="tab" data-tab="seekers">Room Seekers <span class="badge" id="badge-seekers">3347</span></div>
@@ -1060,9 +1175,17 @@
 </div>
 
 <div class="tab-subtitle" id="tab-subtitle">Available rooms, subleases, and lease takeovers posted by people offering a place.</div>
+<div class="mbar-row" id="mbar-row">
+  <button type="button" class="filters-btn" id="filters-btn" aria-haspopup="dialog" aria-controls="listing-filters">Filters</button>
+  <span class="mbar-count" id="mbar-count" aria-live="polite"></span>
+</div>
+<div id="mbar-status"></div>
+</div>
+<div id="sheet-backdrop"></div>
 
 <!-- Listing filters -->
-<div class="filters" id="listing-filters">
+<div class="filters" id="listing-filters" role="dialog" aria-label="Filters">
+<div class="sheet-head"><span class="sheet-title">Filters</span><button type="button" class="sheet-close" aria-label="Close filters">&times;</button></div>
   <label title="Broader Bay Area region — San Francisco, East Bay, Peninsula, South Bay, or North Bay">Region
     <select id="f-area">
       <option value="">Any</option>
@@ -1126,12 +1249,38 @@
       <option value="">All time</option>
     </select>
   </label>
-  <button class="map-toggle-pill" id="map-toggle-btn-listings" onclick="toggleMapPane()">🗺 Map</button>
-  <button class="clear-btn" id="clear-listing-filters">Clear filters</button>
+  <div class="hide-wrap prefs-only">
+    <button type="button" class="hide-btn" id="hide-btn-listings" aria-haspopup="true" aria-expanded="false" title="Hides only posts that state it explicitly.">Hide…</button>
+    <div class="hide-pop" id="hide-pop-listings" hidden>
+      <div>
+        <div class="hide-grp-title">Gender</div>
+        <label><input type="checkbox" id="pf-hide-female"> Hide female-only</label>
+        <label><input type="checkbox" id="pf-hide-male"> Hide male-only</label>
+      </div>
+      <div>
+        <div class="hide-grp-title">Pets</div>
+        <label><input type="checkbox" id="pf-pets-allowed" checked> Pets allowed</label>
+        <label><input type="checkbox" id="pf-pets-not" checked> Pets not allowed</label>
+        <label><input type="checkbox" id="pf-pets-none" checked> Not stated</label>
+      </div>
+      <div class="hide-note">Hides only posts that state it explicitly.</div>
+      <div class="hide-note since-note"></div>
+    </div>
+  </div>
+  <div class="sheet-foot">
+    <button class="clear-btn" id="clear-listing-filters">Clear filters</button>
+    <button type="button" class="sheet-show" id="sheet-show-listings">Show listings</button>
+  </div>
+  <div class="filter-status" id="listing-filter-status" hidden>
+    <span id="lfs-active" hidden><span class="fs-text"></span> · <button type="button" class="link-btn">Clear</button></span>
+    <span id="lfs-hiding" class="prefs-only" hidden><span class="fs-text"></span> · <button type="button" class="link-btn">Show all</button></span>
+    <span class="fs-note prefs-only"></span>
+  </div>
 </div>
 
 <!-- Seeker filters -->
-<div class="filters" id="seeker-filters" style="display:none">
+<div class="filters" id="seeker-filters" role="dialog" aria-label="Filters" hidden>
+<div class="sheet-head"><span class="sheet-title">Filters</span><button type="button" class="sheet-close" aria-label="Close filters">&times;</button></div>
   <label title="Broader Bay Area region — San Francisco, East Bay, Peninsula, South Bay, or North Bay">Region
     <select id="sf-area">
       <option value="">Any</option>
@@ -1150,17 +1299,6 @@
       <option value="">Any</option>
       <option value="short_term">Short term</option>
       <option value="long_term">Long term</option>
-    </select>
-  </label>
-  <label>Reason
-    <select id="sf-reason">
-      <option value="">Any</option>
-      <option value="internship">Internship</option>
-      <option value="student">Student</option>
-      <option value="new_job">New job</option>
-      <option value="rotation">Rotation</option>
-      <option value="relocation">Relocation</option>
-      <option value="other">Other</option>
     </select>
   </label>
   <label>Move-in by
@@ -1193,9 +1331,31 @@
       <option value="">All time</option>
     </select>
   </label>
-  <button class="map-toggle-pill" id="map-toggle-btn-seekers" onclick="toggleMapPane()">🗺 Map</button>
-  <button class="clear-btn" id="clear-seeker-filters">Clear filters</button>
+  <div class="hide-wrap prefs-only">
+    <button type="button" class="hide-btn" id="hide-btn-seekers" aria-haspopup="true" aria-expanded="false" title="Hides only posts that state it explicitly.">Pets…</button>
+    <div class="hide-pop" id="hide-pop-seekers" hidden>
+      <div>
+        <div class="hide-grp-title">Pets</div>
+        <label><input type="checkbox" id="pf-s-has" checked> Has pets</label>
+        <label><input type="checkbox" id="pf-s-none" checked> Not stated</label>
+      </div>
+      <div class="hide-note">Hides only posts that state it explicitly.</div>
+      <div class="hide-note since-note"></div>
+    </div>
+  </div>
+  <div class="sheet-foot">
+    <button class="clear-btn" id="clear-seeker-filters">Clear filters</button>
+    <button type="button" class="sheet-show" id="sheet-show-seekers">Show seekers</button>
+  </div>
+  <div class="filter-status" id="seeker-filter-status" hidden>
+    <span id="sfs-active" hidden><span class="fs-text"></span> · <button type="button" class="link-btn">Clear</button></span>
+    <span id="sfs-hiding" class="prefs-only" hidden><span class="fs-text"></span> · <button type="button" class="link-btn">Show all</button></span>
+    <span class="fs-note prefs-only"></span>
+  </div>
 </div>
+
+<div id="pin-card" role="dialog" aria-label="Selected post" hidden></div>
+<button type="button" id="map-fab" hidden></button>
 
 <div id="main-area">
 <div id="map-pane"><div id="map-canvas"></div></div>
@@ -1214,6 +1374,7 @@
             <th data-col="listing_type">Type</th>
             <th data-col="is_furnished">Furnished</th>
             <th data-col="amenities">Amenities</th>
+            <th class="prefs-only">Gender/Pets</th>
             <th>Post</th>
             <th title="Sign in to bookmark, tag, and add private notes to listings">Save</th>
           </tr>
@@ -1235,11 +1396,11 @@
             <th data-scol="move_in_date">Move-in</th>
             <th data-scol="budget_max">Budget</th>
             <th data-scol="duration_type">Duration</th>
-            <th data-scol="reason">Reason</th>
             <th data-scol="area">Area</th>
             <th data-scol="preferred_neighborhoods">Neighborhoods</th>
             <th data-scol="unit_type_wanted">Looking for</th>
             <th data-scol="bio">Bio</th>
+            <th class="prefs-only">Gender/Pets</th>
             <th data-scol="age">Age</th>
             <th data-scol="group_size">Group</th>
             <th>Post</th>
@@ -1605,7 +1766,6 @@ function postLinkHtml(p) {
 
 const DURATION_MAP = { short_term:'tag-short', long_term:'tag-long' };
 const TYPE_MAP = { sublease:'tag-sublease', lease_takeover:'tag-lease_takeover', room_rental:'tag-room_rental', entire_unit:'tag-entire_unit' };
-const REASON_MAP = { internship:'tag-internship', student:'tag-student', new_job:'tag-new_job', rotation:'tag-rotation', relocation:'tag-relocation', other:'tag-other' };
 
 // ── Status cell HTML ──────────────────────────────────────────────────────────
 const SVG_STAR = `<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>`;
@@ -1633,6 +1793,147 @@ function statusCellHtml(lid) {
   </div>`;
 }
 
+// ── Gender/Pets (hidden behind ?prefs=1, see the head script) ─────────────────
+const PREFS_ON = document.documentElement.classList.contains('prefs-on');
+// Gender/pets data only exists for posts since this date (extraction was switched on then; older posts are null = "not stated").
+const PREFS_INFO_SINCE = '2026-10-19';
+const prefChip = (cls, label) => `<span class="pref-chip pref-chip-${cls}">${label}</span>`;
+// Chips from the strict fields first, then the free-text note.
+function listingPrefChips(p) {
+  if (!PREFS_ON) return '';
+  const chips = [];
+  if (p.gender_restriction === 'female_only') chips.push(prefChip('gender', 'Female only'));
+  else if (p.gender_restriction === 'male_only') chips.push(prefChip('gender', 'Male only'));
+  if (p.pets_policy === 'allowed') chips.push(prefChip('ok', 'Pets OK'));
+  else if (p.pets_policy === 'not_allowed') chips.push(prefChip('no', 'No pets'));
+  return chips.join('');
+}
+function seekerPrefChips(p) { return PREFS_ON && p.seeker_pets === true ? prefChip('has', 'Has pets') : ''; }
+const prefNoteHtml = p => p.prefs_notes ? `<div class="prefs-note">${esc(p.prefs_notes)}</div>` : '';
+function listingPrefsHtml(p) { return PREFS_ON ? listingPrefChips(p) + prefNoteHtml(p) : ''; }
+function seekerPrefsHtml(p) { return PREFS_ON ? seekerPrefChips(p) + prefNoteHtml(p) : ''; }
+// Hide controls. Pets boxes are "show only these states" (the last one can't be unchecked); gender boxes are "hide these".
+const PREF_PETS_GROUPS = { listings: ['pf-pets-allowed', 'pf-pets-not', 'pf-pets-none'], seekers: ['pf-s-has', 'pf-s-none'] };
+const PREF_HIDE_IDS = ['pf-hide-female', 'pf-hide-male', ...PREF_PETS_GROUPS.listings, ...PREF_PETS_GROUPS.seekers];
+const prefChecked = id => $(id).checked;
+function listingHiddenByPrefs(p) {
+  if (!PREFS_ON) return false;
+  if ((p.gender_restriction === 'female_only' && prefChecked('pf-hide-female')) || (p.gender_restriction === 'male_only' && prefChecked('pf-hide-male'))) return true;
+  return !prefChecked(p.pets_policy === 'allowed' ? 'pf-pets-allowed' : p.pets_policy === 'not_allowed' ? 'pf-pets-not' : 'pf-pets-none');
+}
+function seekerHiddenByPrefs(p) {
+  return PREFS_ON && !prefChecked(p.seeker_pets === true ? 'pf-s-has' : 'pf-s-none');
+}
+// Number of hide-control groups that differ from their defaults (gender counts once, pets once).
+function hideGroupsActive(kind) {
+  if (!PREFS_ON) return 0;
+  const pets = PREF_PETS_GROUPS[kind].some(id => !prefChecked(id)) ? 1 : 0;
+  return pets + (kind === 'listings' && (prefChecked('pf-hide-female') || prefChecked('pf-hide-male')) ? 1 : 0);
+}
+function resetHideControls(kind) {
+  const ids = kind === 'listings' ? ['pf-hide-female', 'pf-hide-male', ...PREF_PETS_GROUPS.listings] : PREF_PETS_GROUPS.seekers;
+  ids.forEach(id => { $(id).checked = !id.startsWith('pf-hide'); });
+}
+
+// ── Filter state: remembered per city in localStorage, plus the "N filters active" line ──
+const FILTER_IDS = {
+  listings: ['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag','f-posted-within'],
+  seekers:  ['sf-area','sf-budget','sf-duration','sf-movein','sf-age','sf-tag','sf-posted-within'],
+};
+const FILTERS_KEY = 'sfrooms.filters';
+const filterDefault = id => id.endsWith('posted-within') ? '720' : ''; // 30 days, not "all time"
+function saveFilters() {
+  const s = {};
+  [...FILTER_IDS.listings, ...FILTER_IDS.seekers].forEach(id => { s[id] = $(id).value; });
+  PREF_HIDE_IDS.forEach(id => { s[id] = $(id).checked; });
+  try { localStorage.setItem(FILTERS_KEY, JSON.stringify(s)); } catch (e) {}
+}
+function restoreFilters() {
+  let s = null;
+  try { s = JSON.parse(localStorage.getItem(FILTERS_KEY) || 'null'); } catch (e) {}
+  if (!s) return;
+  for (const [id, val] of Object.entries(s)) {
+    const el = document.getElementById(id);
+    if (!el) continue;
+    if (el.type === 'checkbox') el.checked = !!val;
+    else if (el.tagName !== 'SELECT' || [...el.options].some(o => o.value === val)) el.value = val;
+  }
+  // Safety net: a pets group can never be restored fully unchecked.
+  Object.values(PREF_PETS_GROUPS).forEach(g => { if (!g.some(prefChecked)) g.forEach(id => { $(id).checked = true; }); });
+}
+function activeFilterCount(kind) {
+  return FILTER_IDS[kind].filter(id => $(id).value.trim() !== filterDefault(id)).length + hideGroupsActive(kind);
+}
+// kind: 'listings' | 'seekers'; hiddenN = rows hidden by the Hide/pets controls only.
+function updateFilterStatus(kind, hiddenN, shownN) {
+  const [box, pre, noun] = kind === 'listings' ? ['listing-filter-status', 'lfs', 'listing'] : ['seeker-filter-status', 'sfs', 'seeker'];
+  const n = activeFilterCount(kind);
+  $(pre + '-active').hidden = !n;
+  $(pre + '-active').querySelector('.fs-text').textContent = `${n} filter${n === 1 ? '' : 's'} active`;
+  $(pre + '-hiding').hidden = !hiddenN;
+  $(pre + '-hiding').querySelector('.fs-text').textContent = `Hiding ${hiddenN} ${noun}${hiddenN === 1 ? '' : 's'}`;
+  $(box).querySelector('.fs-note').textContent = `Gender and pets info is available for posts since ${fmtDate(PREFS_INFO_SINCE)}.`;
+  $(box).hidden = !n && !PREFS_ON;
+  $('hide-btn-' + kind).classList.toggle('active', hideGroupsActive(kind) > 0);
+  $('hide-pop-' + kind).querySelector('.since-note').textContent = `Gender and pets info is available for posts since ${fmtDate(PREFS_INFO_SINCE)}.`;
+  // Phone sheet: the Filters button shows the active count, the footer button the live result count.
+  const fb = $('filters-btn');
+  if (currentTabName() === kind) { fb.textContent = n ? `Filters · ${n}` : 'Filters'; fb.classList.toggle('has-active', n > 0); }
+  $('sheet-show-' + kind).textContent = `Show ${shownN} ${shownN === 1 ? noun : noun + 's'}`;
+}
+function filtersChanged(kind) {
+  saveFilters();
+  if (kind === 'listings') { listingsPage = 1; renderListings(); } else { seekersPage = 1; renderSeekers(); }
+}
+function clearFilters(kind) {
+  FILTER_IDS[kind].forEach(id => { $(id).value = filterDefault(id); });
+  resetHideControls(kind);
+  filtersChanged(kind);
+}
+// "Show all" resets only the Hide/pets controls.
+function showAllHidden(kind) { resetHideControls(kind); filtersChanged(kind); }
+function setupHidePopover(kind) {
+  const btn = $('hide-btn-' + kind), pop = $('hide-pop-' + kind);
+  const close = () => { pop.hidden = true; btn.setAttribute('aria-expanded', 'false'); };
+  btn.addEventListener('click', e => { e.stopPropagation(); pop.hidden = !pop.hidden; btn.setAttribute('aria-expanded', String(!pop.hidden)); });
+  pop.addEventListener('click', e => e.stopPropagation());
+  document.addEventListener('click', close);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
+  PREF_HIDE_IDS.filter(id => pop.contains($(id))).forEach(id => $(id).addEventListener('change', () => {
+    const group = Object.values(PREF_PETS_GROUPS).find(g => g.includes(id));
+    if (group && !group.some(prefChecked)) $(id).checked = true; // the last checked box can't be unchecked
+    filtersChanged(kind);
+  }));
+}
+
+// ── Phone filters sheet: the same .filters bars, shown as a bottom sheet from the sticky bar's Filters button ──
+const rootEl = document.documentElement;
+function openFilterSheet() {
+  if (!mqPhone.matches || currentTabName() === 'spam') return;
+  rootEl.classList.add('sheet-open');
+  const bar = $(currentTabName() === 'seekers' ? 'seeker-filters' : 'listing-filters');
+  bar.querySelector('.sheet-close').focus({ preventScroll: true });
+  track('open_filters', { tab: currentTabName() });
+}
+function closeFilterSheet() {
+  if (!rootEl.classList.contains('sheet-open')) return;
+  rootEl.classList.remove('sheet-open');
+  if (mqPhone.matches) $('filters-btn').focus({ preventScroll: true });
+}
+$('filters-btn').addEventListener('click', openFilterSheet);
+$('sheet-backdrop').addEventListener('click', closeFilterSheet);
+document.querySelectorAll('.sheet-close, .sheet-show').forEach(b => b.addEventListener('click', closeFilterSheet));
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeFilterSheet(); });
+// On phones the "N filters active · Clear" / "Hiding N" lines live in the sticky bar; on desktop they stay inside their filter bar.
+function placeFilterStatus() {
+  const phone = mqPhone.matches, tab = currentTabName();
+  [['listing-filter-status', 'listing-filters', 'listings'], ['seeker-filter-status', 'seeker-filters', 'seekers']].forEach(([sid, bid, kind]) => {
+    const el = $(sid), host = phone ? $('mbar-status') : $(bid);
+    if (el.parentNode !== host) host.appendChild(el);
+    el.style.display = phone && kind !== tab ? 'none' : '';
+  });
+}
+
 // ── Listings table ────────────────────────────────────────────────────────────
 function renderListings() {
   const area         = $('f-area').value;
@@ -1658,6 +1959,10 @@ function renderListings() {
     if (postedWithinHours && postedTs(p) < Date.now() - postedWithinHours * 3600000) return false;
     return true;
   });
+  // The Hide/pets controls apply after the other filters so we can report how many rows they hide.
+  const beforeHide = rows.length;
+  rows = rows.filter(p => !listingHiddenByPrefs(p));
+  updateFilterStatus('listings', beforeHide - rows.length, rows.length);
 
   rows.sort((a, b) => {
     let av, bv;
@@ -1678,13 +1983,14 @@ function renderListings() {
   // 25 of them, silently breaking most pin clicks.
   const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
   listingsPage = Math.min(Math.max(1, listingsPage), totalPages);
-  const pageRows = mapPaneOpen ? rows : rows.slice((listingsPage - 1) * PAGE_SIZE, listingsPage * PAGE_SIZE);
+  // On phones the map is its own full-screen view: no list is rendered (and no nested scroll); paging resumes on return to the list.
+  const pageRows = mapListHidden() ? [] : mapPaneOpen ? rows : rows.slice((listingsPage - 1) * PAGE_SIZE, listingsPage * PAGE_SIZE);
 
   const tbody = $('listings-body');
   tbody.innerHTML = pageRows.map(p => {
     const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
-    const availStr = p.available_from
-      ? fmtDate(p.available_from) + (p.available_until ? '<span style="color:var(--text-4);margin:0 3px">→</span><span style="color:var(--text-3)">'+fmtDate(p.available_until)+'</span>' : '')
+    const availStr = p.available_from || p.available_until
+      ? (p.available_from ? `<div>From ${fmtDate(p.available_from)}</div>` : '') + (p.available_until ? `<div style="color:var(--text-4)">Till ${fmtDate(p.available_until)}</div>` : '')
       : '—';
     const furnStr = p.is_furnished===true
       ? '<span class="tag tag-long" style="font-size:12px">Yes</span>'
@@ -1705,6 +2011,7 @@ function renderListings() {
       <td>${tagHtml(p.listing_type, TYPE_MAP)}</td>
       <td>${furnStr}</td>
       <td>${amenitiesHtml(p.amenities)}</td>
+      <td class="prefs-only prefs-cell">${listingPrefsHtml(p)}</td>
       ${postLinkHtml(p)}
       <td>${statusCellHtml(p.listing_id)}</td>
     </tr>`;
@@ -1736,6 +2043,7 @@ function renderListings() {
         ${furnStr}
       </div>
       ${availStr ? `<div class="m-card-avail">${availStr}</div>` : ''}
+      ${listingPrefsHtml(p) ? `<div class="m-card-prefs prefs-only">${listingPrefsHtml(p)}</div>` : ''}
       ${amenStr}
       <div class="m-card-actions">
         <div>${statusCellHtml(p.listing_id)}</div>
@@ -1745,9 +2053,9 @@ function renderListings() {
   }).join('');
 
   $('badge-listings').textContent = listingsTotal;
-  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
-  $('table-caption').textContent = `${rows.length} listings${updStr}`;
-  $('listings-pagination').innerHTML = paginationHtml(listingsPage, totalPages, 'goListingsPage');
+  captionCounts.listings = rows.length;
+  updateCaption();
+  $('listings-pagination').innerHTML = mapListHidden() ? '' : paginationHtml(listingsPage, totalPages, 'goListingsPage');
 
   _lastListingsRows = rows;
   renderMap();
@@ -1764,16 +2072,14 @@ document.querySelectorAll('#listings-table th[data-col]').forEach(th => {
   });
 });
 
-['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag','f-posted-within'].forEach(id => {
-  $(id).addEventListener('input', () => { listingsPage = 1; renderListings(); });
-  $(id).addEventListener('change', () => { listingsPage = 1; renderListings(); });
+FILTER_IDS.listings.forEach(id => {
+  $(id).addEventListener('input', () => filtersChanged('listings'));
+  $(id).addEventListener('change', () => filtersChanged('listings'));
 });
-$('clear-listing-filters').addEventListener('click', () => {
-  ['f-area','f-neighborhood','f-rent','f-duration','f-listing-type','f-furnished','f-tag'].forEach(id => $(id).value = '');
-  $('f-posted-within').value = '720'; // default back to 30 days, not "all time"
-  listingsPage = 1;
-  renderListings();
-});
+$('clear-listing-filters').addEventListener('click', () => clearFilters('listings'));
+$('lfs-active').querySelector('button').addEventListener('click', () => clearFilters('listings'));
+$('lfs-hiding').querySelector('button').addEventListener('click', () => showAllHidden('listings'));
+setupHidePopover('listings');
 
 // ── Seekers table ─────────────────────────────────────────────────────────────
 function seekerSortVal(p, col) {
@@ -1804,7 +2110,6 @@ function renderSeekers() {
   const sfArea    = $('sf-area').value;
   const maxBudget = parseInt($('sf-budget').value) || Infinity;
   const duration  = $('sf-duration').value;
-  const reason    = $('sf-reason').value;
   const moveinBy  = $('sf-movein').value.trim();
   const maxAge    = parseInt($('sf-age').value) || Infinity;
   const tagFilter = $('sf-tag').value;
@@ -1815,7 +2120,6 @@ function renderSeekers() {
     if (sfArea && p.area !== sfArea) return false;
     if ((p.budget_max ?? Infinity) > maxBudget) return false;
     if (duration && p.duration_type !== duration) return false;
-    if (reason && p.reason !== reason) return false;
     if (moveinBy && p.move_in_date && p.move_in_date > moveinBy) return false;
     if (maxAge !== Infinity && (p.age ?? Infinity) > maxAge) return false;
     if (tagFilter === '_bookmarked' && !userBookmarks.has(p.listing_id)) return false;
@@ -1823,6 +2127,9 @@ function renderSeekers() {
     if (postedWithinHours && postedTs(p) < Date.now() - postedWithinHours * 3600000) return false;
     return true;
   });
+  const beforeHide = rows.length;
+  rows = rows.filter(p => !seekerHiddenByPrefs(p));
+  updateFilterStatus('seekers', beforeHide - rows.length, rows.length);
 
   rows.sort((a, b) => {
     let av, bv;
@@ -1837,16 +2144,16 @@ function renderSeekers() {
   });
 
   $('badge-seekers').textContent = seekersTotal;
-  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
-  $('table-caption').textContent = `${rows.length} seekers${updStr}`;
+  captionCounts.seekers = rows.length;
+  updateCaption();
 
   _lastSeekersRows = rows;
   renderMap();
 
   const totalPages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE));
   seekersPage = Math.min(Math.max(1, seekersPage), totalPages);
-  const pageRows = mapPaneOpen ? rows : rows.slice((seekersPage - 1) * PAGE_SIZE, seekersPage * PAGE_SIZE);
-  $('seekers-pagination').innerHTML = paginationHtml(seekersPage, totalPages, 'goSeekersPage');
+  const pageRows = mapListHidden() ? [] : mapPaneOpen ? rows : rows.slice((seekersPage - 1) * PAGE_SIZE, seekersPage * PAGE_SIZE);
+  $('seekers-pagination').innerHTML = mapListHidden() ? '' : paginationHtml(seekersPage, totalPages, 'goSeekersPage');
 
   $('seekers-mobile').innerHTML = pageRows.map(p => {
     const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
@@ -1865,11 +2172,11 @@ function renderSeekers() {
       </div>
       <div class="m-card-meta">
         ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
-        ${p.reason ? tagHtml(p.reason, REASON_MAP) : ''}
       </div>
       ${moveinStr ? `<div class="m-card-avail">${moveinStr}</div>` : ''}
       ${hoods ? `<div class="m-card-hoods">${hoods}</div>` : ''}
       ${p.bio ? `<div class="m-card-bio">${esc(p.bio)}</div>` : ''}
+      ${seekerPrefsHtml(p) ? `<div class="m-card-prefs prefs-only">${seekerPrefsHtml(p)}</div>` : ''}
       <div class="m-card-actions">
         <div>${statusCellHtml(p.listing_id)}</div>
         ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
@@ -1878,9 +2185,9 @@ function renderSeekers() {
   }).join('');
 
   const tbody = $('seekers-body');
-  if (!rows.length) {
+  if (!rows.length || mapListHidden()) {
     tbody.innerHTML = '';
-    $('seekers-empty').style.display = 'block';
+    $('seekers-empty').style.display = rows.length ? 'none' : 'block';
     $('seekers-table').style.display = 'none';
     return;
   }
@@ -1902,11 +2209,11 @@ function renderSeekers() {
       <td style="white-space:nowrap;font-size:12px">${moveinStr}</td>
       <td style="font-weight:700;font-size:16px;letter-spacing:-0.5px">${esc(budgetStr)}</td>
       <td>${p.duration_type?tagHtml(p.duration_type,DURATION_MAP):'—'}</td>
-      <td>${p.reason?tagHtml(p.reason,REASON_MAP):'—'}</td>
       <td style="font-size:12px;white-space:nowrap;color:var(--text-3)">${esc(p.area||'—')}</td>
       <td>${hoods}</td>
       <td>${unitTypes}</td>
       <td>${bioHtml(p.bio)}</td>
+      <td class="prefs-only prefs-cell">${seekerPrefsHtml(p)}</td>
       <td style="text-align:center;color:#666">${p.age??'—'}</td>
       <td style="text-align:center;color:#666">${esc(groupStr)}</td>
       ${postLinkHtml(p)}
@@ -1925,22 +2232,20 @@ document.querySelectorAll('#seekers-table th[data-scol]').forEach(th => {
     renderSeekers();
   });
 });
-['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-age','sf-tag','sf-posted-within'].forEach(id => {
-  $(id).addEventListener('input', () => { seekersPage = 1; renderSeekers(); });
-  $(id).addEventListener('change', () => { seekersPage = 1; renderSeekers(); });
+FILTER_IDS.seekers.forEach(id => {
+  $(id).addEventListener('input', () => filtersChanged('seekers'));
+  $(id).addEventListener('change', () => filtersChanged('seekers'));
 });
-$('clear-seeker-filters').addEventListener('click', () => {
-  ['sf-area','sf-budget','sf-duration','sf-reason','sf-movein','sf-age','sf-tag'].forEach(id=>$(id).value='');
-  $('sf-posted-within').value = '720'; // default back to 30 days, not "all time"
-  seekersPage = 1;
-  renderSeekers();
-});
+$('clear-seeker-filters').addEventListener('click', () => clearFilters('seekers'));
+$('sfs-active').querySelector('button').addEventListener('click', () => clearFilters('seekers'));
+$('sfs-hiding').querySelector('button').addEventListener('click', () => showAllHidden('seekers'));
+setupHidePopover('seekers');
 
 // ── Spam ──────────────────────────────────────────────────────────────────────
 function renderSpam(posts) {
   $('badge-spam').textContent = posts.length;
-  const updStr = window._updatedTimeStr ? ' · Updated ' + window._updatedTimeStr : '';
-  $('table-caption').textContent = `${posts.length} spam posts${updStr}`;
+  captionCounts.spam = posts.length;
+  updateCaption();
   if (!posts.length) { $('spam-empty').style.display='block'; $('spam-pagination').innerHTML=''; return; }
   $('spam-empty').style.display='none';
 
@@ -1994,15 +2299,14 @@ document.querySelectorAll('.tab').forEach(tab => {
     $('view-listings').style.display = name==='listings'?'':'none';
     $('view-seekers').style.display  = name==='seekers' ?'':'none';
     $('view-spam').style.display     = name==='spam'    ?'':'none';
-    $('listing-filters').style.display = name==='listings'?'':'none';
-    $('seeker-filters').style.display  = name==='seekers' ?'':'none';
+    $('listing-filters').hidden = name !== 'listings';
+    $('seeker-filters').hidden  = name !== 'seekers';
     $('tab-subtitle').textContent = TAB_SUBTITLES[name] || '';
     $('tab-subtitle').style.display = TAB_SUBTITLES[name] ? '' : 'none';
-    // The map pane only makes sense on Listings/Room Seekers — close it if
-    // the user switches to Spam while it's open, rather than leaving a map
-    // with no matching content behind it.
-    if (mapPaneOpen && name !== 'listings' && name !== 'seekers') toggleMapPane();
-    renderActiveTab();
+    closeFilterSheet();
+    placeFilterStatus();
+    // The map only exists on Listings/Room Seekers; the on/off preference is kept (Spam just ignores it).
+    applyMapState();
   });
 });
 
@@ -2062,20 +2366,89 @@ document.addEventListener('click', e => {
   });
 });
 
-window.toggleMapPane = function() {
-  mapPaneOpen = !mapPaneOpen;
-  track('toggle_map', { open: mapPaneOpen, tab: currentTabName() });
+// Map on/off is a remembered preference (mapPref); mapPaneOpen is the effective state (pref AND a tab that has a map).
+const MAP_KEY = 'ur.map';
+let mapPref = false;
+try { mapPref = localStorage.getItem(MAP_KEY) === '1'; } catch (e) {}
+const mqPhone = window.matchMedia('(max-width: 767px)');
+// On phones the map replaces the list entirely.
+const mapListHidden = () => mapPaneOpen && mqPhone.matches;
+let listScroll = null;   // {tab, y}: page scroll to restore when leaving the phone map view
+
+// One caption for the active tab only, derived from state, so a background render of another tab can't leave stale text.
+const captionCounts = { listings: null, seekers: null, spam: null };
+let mapPlotted = null;   // {tab, plotted, total} while the map is shown
+function updateCaption() {
+  const tab = currentTabName();
+  const n = captionCounts[tab];
+  const noun = tab === 'spam' ? 'spam posts' : tab;
+  let short = '';
+  if (n != null) {
+    short = mapPaneOpen && mapPlotted && mapPlotted.tab === tab ? `${mapPlotted.plotted} of ${mapPlotted.total} ${noun} plotted on map` : `${n} ${noun}`;
+  }
+  const upd = window._updatedTimeStr && !(mapPaneOpen && mapPlotted && mapPlotted.tab === tab) ? ' · Updated ' + window._updatedTimeStr : '';
+  $('table-caption').textContent = n == null ? '' : short + upd;
+  $('mbar-count').textContent = mapPaneOpen && mapPlotted && mapPlotted.tab === tab ? `${mapPlotted.plotted} of ${mapPlotted.total} on map` : (n == null ? '' : short);
+}
+
+function applyMapState() {
+  const tab = currentTabName();
+  const hasMap = tab === 'listings' || tab === 'seekers';
+  const wasHidden = mapListHidden(), scrollBefore = window.scrollY;   // read before the layout changes and clamps it
+  mapPaneOpen = mapPref && hasMap;
+  const phoneMap = mapListHidden();
+  const root = document.documentElement;
   $('main-area').classList.toggle('map-open', mapPaneOpen);
-  document.querySelectorAll('.map-toggle-pill').forEach(b => b.classList.toggle('active', mapPaneOpen));
+  root.classList.toggle('map-m', phoneMap);
+  const hb = $('map-btn-header');
+  hb.hidden = !hasMap;
+  hb.classList.toggle('active', mapPaneOpen);
+  hb.setAttribute('aria-pressed', String(mapPaneOpen));
+  const fab = $('map-fab');
+  fab.hidden = !hasMap;
+  fab.textContent = phoneMap ? '☰ List' : '🗺 Map';
+  $('mbar-row').hidden = !hasMap;
+  if (phoneMap && !wasHidden) listScroll = { tab, y: scrollBefore };
+  if (!mapPaneOpen) mapPlotted = null;
+  if (!mapPaneOpen || !phoneMap) hidePinCard();
+  if (phoneMap) { window.scrollTo(0, 0); layoutMap(); }
+  // Re-render: the list switches between paginated and the phone map's "no list", the caption between list and map wording.
   if (mapPaneOpen) initMapIfNeeded();
-  // Re-render the list itself — it needs to switch between paginated (map
-  // closed) and showing every row (map open, so pins always have something
-  // to scroll/highlight to), not just re-render the map's markers.
   renderActiveTab();
+  if (wasHidden && !phoneMap) {
+    if (listScroll && listScroll.tab === tab) window.scrollTo(0, listScroll.y);
+    listScroll = null;
+  }
+  if (mapPaneOpen && leafletMap) leafletMap.invalidateSize();
+}
+
+window.toggleMapPane = function() {
+  mapPref = !mapPref;
+  try { localStorage.setItem(MAP_KEY, mapPref ? '1' : '0'); } catch (e) {}
+  track('toggle_map', { open: mapPref, tab: currentTabName() });
+  applyMapState();
 };
+$('map-fab').addEventListener('click', () => window.toggleMapPane());
+
+// Phone map: pin the map right under the sticky bar (its height changes with the status line) and tell Leaflet when its box changes.
+function layoutMap() {
+  const bar = $('sticky-bar');
+  document.documentElement.style.setProperty('--map-top', Math.max(0, Math.round(bar.getBoundingClientRect().bottom)) + 'px');
+  if (leafletMap) leafletMap.invalidateSize();
+}
+if (window.ResizeObserver) {
+  new ResizeObserver(() => { if (mapListHidden()) layoutMap(); }).observe($('sticky-bar'));
+  new ResizeObserver(() => { if (leafletMap && mapPaneOpen) leafletMap.invalidateSize(); }).observe($('map-pane'));
+}
+window.addEventListener('resize', () => { if (mapListHidden()) layoutMap(); });
 
 function initMapIfNeeded() {
   if (leafletMap) { leafletMap.invalidateSize(); renderMap(); return; }
+  // Leaflet loads deferred; if the map was restored on page load it may not be there yet.
+  if (!(window.L && L.markerClusterGroup)) {
+    if (!initMapIfNeeded.waiting) { initMapIfNeeded.waiting = true; window.addEventListener('load', () => { initMapIfNeeded.waiting = false; if (mapPaneOpen) { initMapIfNeeded(); } }); }
+    return;
+  }
   leafletMap = L.map('map-canvas').setView([37.7749, -122.4194], 10);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -2083,8 +2456,44 @@ function initMapIfNeeded() {
   }).addTo(leafletMap);
   markerCluster = L.markerClusterGroup();
   leafletMap.addLayer(markerCluster);
+  leafletMap.on('click', hidePinCard);   // tap on empty map closes the phone preview card
   renderMap();
 }
+
+// Phone: compact preview card docked at the bottom instead of the Leaflet popup.
+function findPost(lid) { return [..._lastListingsRows, ..._lastSeekersRows].find(p => p.listing_id === lid); }
+function pinCardHtml(p, type) {
+  const url = p.post_url || '', isProfile = url.includes('/user/');
+  const chips = PREFS_ON ? (type === 'listings' ? listingPrefChips(p) : seekerPrefChips(p)) : '';
+  const head = type === 'listings'
+    ? (p.rent != null ? '$' + p.rent.toLocaleString() + '/mo' : 'Rent not listed')
+    : (budgetRangeStr(p) || 'Budget not listed');
+  const loc = type === 'listings' ? (p.neighborhood || '') : (p.preferred_neighborhoods || []).filter(Boolean).slice(0, 3).join(' · ');
+  return `<button type="button" class="pin-card-close" aria-label="Close">&times;</button>
+    <div class="m-card-top"><div class="m-card-rent">${esc(head)}</div><div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div></div>
+    ${loc ? `<div class="m-card-location">${esc(loc)}</div>` : ''}
+    ${chips ? `<div class="m-card-prefs">${chips}</div>` : ''}
+    ${url ? `<div class="m-card-actions"><span></span><div><a class="btn-post${isProfile ? ' btn-post-profile' : ''}" href="${esc(url)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div></div>` : ''}`;
+}
+let pinCardLid = null;
+function showPinCard(lid) {
+  const p = findPost(lid);
+  if (!p) return;
+  const card = $('pin-card');
+  card.innerHTML = pinCardHtml(p, currentTabName());
+  card.hidden = false;
+  pinCardLid = lid;
+  document.documentElement.style.setProperty('--pin-card-h', (card.offsetHeight + 10) + 'px');
+}
+function hidePinCard() {
+  const card = $('pin-card');
+  if (card.hidden) return;
+  card.hidden = true; pinCardLid = null;
+  document.documentElement.style.removeProperty('--pin-card-h');
+  highlightedMarkerEls.forEach(el => el.classList.remove('marker-highlighted'));
+  highlightedMarkerEls = [];
+}
+$('pin-card').addEventListener('click', e => { if (e.target.closest('.pin-card-close')) hidePinCard(); });
 
 function pinPopupHtml(p, type) {
   const url = p.post_url || '';
@@ -2105,6 +2514,8 @@ function renderMap() {
   if (!leafletMap || !mapPaneOpen) return;
   const type = currentTabName();
   if (type !== 'listings' && type !== 'seekers') return; // map pane isn't available on Spam
+  hidePinCard();
+  const phone = mqPhone.matches;
 
   markerCluster.clearLayers();
   Object.keys(mapMarkersByListingId).forEach(k => delete mapMarkersByListingId[k]);
@@ -2130,8 +2541,10 @@ function renderMap() {
       const tooltipText = type === 'listings'
         ? (p.rent != null ? `$${p.rent.toLocaleString()}/mo` : 'Rent not listed')
         : (budgetRangeStr(p) || 'Budget not listed');
-      marker.bindTooltip(tooltipText, { className: 'map-rent-tooltip' });
-      marker.bindPopup(pinPopupHtml(p, type), { maxWidth: 260 });   // click a pin: key facts and a link to the original post
+      if (!phone) {
+        marker.bindTooltip(tooltipText, { className: 'map-rent-tooltip' });
+        marker.bindPopup(pinPopupHtml(p, type), { maxWidth: 260 });   // click a pin: key facts and a link to the original post
+      }
       marker.on('click', () => selectFromPin(p.listing_id));
       markerCluster.addLayer(marker);
       (mapMarkersByListingId[p.listing_id] ||= []).push(marker);
@@ -2141,8 +2554,8 @@ function renderMap() {
     if (placed) plotted++;
   });
 
-  const label = type === 'listings' ? 'listings' : 'seekers';
-  $('table-caption').textContent = `${plotted} of ${posts.length} ${label} plotted on map`;
+  mapPlotted = { tab: type, plotted, total: posts.length };
+  updateCaption();
 }
 
 let highlightedMarkerEls = [];
@@ -2191,6 +2604,7 @@ function highlightMarkersForPost(lid) {
 // mark the clicked pin itself as selected.
 window.selectFromPin = function(lid) {
   track('map_pin_click', { source: 'marker', tab: currentTabName() });
+  if (mqPhone.matches) { showPinCard(lid); highlightMarkersForPost(lid); return; }
   highlightRowForPost(lid, true);
   highlightMarkersForPost(lid);
 };
@@ -2773,7 +3187,11 @@ document.addEventListener('visibilitychange', () => {
   else checkForUpdates();
 });
 
+restoreFilters();
 restoreViewState();
+placeFilterStatus();
+applyMapState();
+mqPhone.addEventListener('change', () => { closeFilterSheet(); placeFilterStatus(); applyMapState(); });
 load().catch(err => console.error('Failed to load data:', err));
 // Links to the generated neighborhood pages (gen_neighborhoods.py writes neighborhoods.json); silently absent when a city has none.
 fetch(DATA_BASE + 'neighborhoods.json').then(r => r.ok ? r.json() : null).then(reg => {
@@ -2792,11 +3210,11 @@ function applyTheme(dark) {
 }
 function toggleTheme() {
   const dark = !document.documentElement.classList.contains('dark');
-  localStorage.setItem('theme', dark ? 'dark' : 'light');
+  try { localStorage.setItem('theme', dark ? 'dark' : 'light'); } catch (e) {}
   applyTheme(dark);
 }
 // Apply saved preference immediately
-applyTheme(localStorage.getItem('theme') === 'dark');
+try { applyTheme(localStorage.getItem('theme') === 'dark'); } catch (e) { applyTheme(false); }
 
 // Show fade gradient when table overflows horizontally
 function setupScrollFade(wrap) {
