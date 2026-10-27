@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T09:06:40.722051",
-  "count": 2876,
+  "updated_at": "2026-10-27T10:07:41.882977",
+  "count": 2877,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -95917,6 +95917,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "to takeover a private unit through late Feb, renewable. It's a 1 bed and 1 bath. Utilities and parking included.",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1398999472000296",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1600,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "laundry",
+        "gym",
+        "walk_in_closet"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "K Street Flats",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1398999472000296",
+      "posted_at": "Tuesday 27 October 2026 at 10:01",
+      "first_scraped_at": "2026-10-27T17:00:03.116654+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "K Street Flats, Downtown Berkeley Available now until beginning of January Hey, I'm still looking for someone to sublet my",
+      "group_id": "558742412692677"
     }
   ]
 }
