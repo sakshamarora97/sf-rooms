@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-26T20:17:28.050959",
-  "count": 533,
+  "updated_at": "2026-10-26T21:17:38.124610",
+  "count": 534,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -16064,6 +16064,39 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "22F, a recent college grad moving to NYC, and looking for a furnished private room in a shared apartment in",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2258606198037508",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-06-01",
+      "move_out_date": "2027-08-15",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hell's Kitchen",
+        "Midtown",
+        "Upper West Side",
+        "Long Island City",
+        "Astoria"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "internship",
+      "age": 20,
+      "bio": "20-year-old Brown University student interning in investment banking in Midtown Manhattan for summer 2027. Clean, responsible, and easygoing; enjoys soccer, tennis, and going to the gym.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258606198037508",
+      "posted_at": "Monday 26 October 2026 at 20:37",
+      "first_scraped_at": "2026-10-27T04:07:10.017441+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Summer 2027 Sublet June\u2013August Budget: $2,000/month Hi everyone! I\u2019m a 20-year-old male student at Brown University, and I\u2019ll be interning",
+      "group_id": "149460102285472"
     }
   ]
 }
