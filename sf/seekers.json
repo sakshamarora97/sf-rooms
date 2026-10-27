@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T23:45:27.399051",
-  "count": 3347,
+  "updated_at": "2026-10-27T06:08:36.873753",
+  "count": 3349,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -106812,6 +106812,68 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "lease takeover in berkeley. ideally start sometime in december. looking for an entire payment, ideally 2b1b, near downtown berkeley!",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4761695780732091",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Guy",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old Victorian restoration carpenter who is easygoing and active. Enjoys roller skating, climbing, snowboarding, photography, and art.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4761695780732091",
+      "posted_at": "Monday 26 October 2026 at 23:01",
+      "first_scraped_at": "2026-10-27T13:00:03.827387+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Ashton, and I\u2019m looking for a room/apartment in San Francisco, ideally around the Mission District, but I\u2019m open",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4398229647154453",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a male roommate",
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4398229647154453",
+      "posted_at": "Tuesday 27 October 2026 at 04:29",
+      "first_scraped_at": "2026-10-27T13:00:03.827387+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for a 1b1b in 2b2b in Sunnyvale/Santa Clara area Requirements: Male, non smoker, non drinker, vegetarian Budget $1500-1700 (flexible)",
+      "group_id": "1511607562483357"
     }
   ]
 }
