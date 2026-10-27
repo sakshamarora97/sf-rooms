@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T21:07:05.797537",
-  "count": 3346,
+  "updated_at": "2026-10-26T22:06:56.679701",
+  "count": 3347,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103435,6 +103435,36 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "1 Bed/Studio APARTMENT Sunnyvale Cupertino Hello everyone! I am relocating to Bay Area for work and looking for a 1",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1398508178716092",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a lease takeover in Berkeley starting in December; prefers an entire 2B1B unit near Downtown Berkeley.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1398508178716092",
+      "posted_at": "Monday 26 October 2026 at 21:36",
+      "first_scraped_at": "2026-10-27T05:00:03.836390+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "lease takeover in berkeley. ideally start sometime in december. looking for an entire payment, ideally 2b1b, near downtown berkeley!",
+      "group_id": "558742412692677"
     }
   ]
 }
