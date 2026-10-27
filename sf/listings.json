@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T16:06:27.605025",
-  "count": 2848,
+  "updated_at": "2026-10-26T17:06:11.435803",
+  "count": 2850,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -95011,6 +95011,72 @@
       "first_scraped_at": "2026-10-26T23:00:04.893791+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "2 spots available in a beautiful double room in an apartment on Parker Street right off of College Ave!! My",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2043739076317664",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 3500,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "pool",
+        "private_rooms"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043739076317664",
+      "posted_at": "Monday 26 October 2026 at 15:22",
+      "first_scraped_at": "2026-10-27T00:00:02.763053+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "tenancy take over asap. The flats are fully booked, so time great time to grab it. I\u2019m going back to",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1398348842065359",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-11",
+      "available_until": "2027-01-17",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_building_laundry",
+        "storage",
+        "street_parking",
+        "near_public_transit",
+        "near_bart"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1398348842065359",
+      "posted_at": "Monday 26 October 2026 at 16:50",
+      "first_scraped_at": "2026-10-27T00:00:02.763053+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "SUBLET: Available Dec 11 Jan 17 (start date can be later end date a little earlier) Offering up my large",
       "group_id": "558742412692677"
     }
   ]

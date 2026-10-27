@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T16:06:27.605025",
-  "count": 3337,
+  "updated_at": "2026-10-26T17:06:11.435803",
+  "count": 3338,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103165,6 +103165,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Somebi, a Canadian who will be relocating to SF for work in Tech (office in the Financial District) looking to",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1398348608732049",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2BR",
+        "3BR"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Three UC Berkeley female students seeking a 2\u20133 bedroom apartment near campus for Spring 2027, ideally with parking available.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1398348608732049",
+      "posted_at": "Monday 26 October 2026 at 16:49",
+      "first_scraped_at": "2026-10-27T00:00:02.763053+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for Spring 2027!! Hi everyone! I\u2019m looking for housing for Spring 2027 for 3 female UC Berkeley students. We\u2019re preferably",
+      "group_id": "558742412692677"
     }
   ]
 }
