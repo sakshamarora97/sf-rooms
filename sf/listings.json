@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T10:07:41.882977",
-  "count": 2877,
+  "updated_at": "2026-10-27T11:07:34.350292",
+  "count": 2878,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -95949,6 +95949,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "K Street Flats, Downtown Berkeley Available now until beginning of January Hey, I'm still looking for someone to sublet my",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2044490706242501",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-03-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "lobby_attendant",
+        "courtyard",
+        "garage_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "Trinity Place",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Offering lease takeover; pets not mentioned",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2044490706242501",
+      "posted_at": "Tuesday 27 October 2026 at 10:14",
+      "first_scraped_at": "2026-10-27T18:00:05.843057+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for someone to take over my lease at Trinity Place (1190 Mission St) starting ASAP. The sublease runs through March",
+      "group_id": "242765489748374"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T10:07:41.882977",
-  "count": 3351,
+  "updated_at": "2026-10-27T11:07:34.350292",
+  "count": 3352,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -106940,6 +106940,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "is Jaclyn (or Jackie), and I am looking to either find a new place with 1-2 gals or takeover someone",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4762345827333753",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "MD doing a postdoc at UCSF seeking a one-month room rental in December, preferably near the Parnassus campus.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4762345827333753",
+      "posted_at": "Tuesday 27 October 2026 at 10:20",
+      "first_scraped_at": "2026-10-27T18:00:05.843057+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "am an MD doing a postdoc at UCSF, looking for a room to rent for the month of December (1",
+      "group_id": "2176716625896699"
     }
   ]
 }
