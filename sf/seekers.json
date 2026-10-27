@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T14:08:42.018906",
-  "count": 3352,
+  "updated_at": "2026-10-27T15:07:42.182148",
+  "count": 3354,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -106970,6 +106970,70 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "am an MD doing a postdoc at UCSF, looking for a room to rent for the month of December (1",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2044635512894687",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": 2600,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Hayes Valley",
+        "SoMa",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Two 25-year-old professionals moving to San Francisco to work; enjoy going out, cooking and hiking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2044635512894687",
+      "posted_at": "Tuesday 27 October 2026 at 14:10",
+      "first_scraped_at": "2026-10-27T22:00:04.505721+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Zach and I are looking to move to SF in Feb 2027. We are looking to join in on a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1399171978649712",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female-identifying roommate",
+      "reason": "student",
+      "age": null,
+      "bio": "French exchange student at UC Berkeley for spring 2027 seeking a studio or private room Jan\u2013May 2027. Clean, sporty, social; enjoys shopping and going out.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1399171978649712",
+      "posted_at": "Tuesday 27 October 2026 at 14:51",
+      "first_scraped_at": "2026-10-27T22:00:04.505721+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "am Lou, a French exchange student at UC Berkeley during the spring semester of 2027. I am looking for a",
+      "group_id": "558742412692677"
     }
   ]
 }
