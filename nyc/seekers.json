@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-27T14:18:47.154403",
-  "count": 554,
+  "updated_at": "2026-10-27T15:17:42.841503",
+  "count": 558,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -17260,6 +17260,136 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "a 21-year-old American- Italian citizen moving from Italy to New York later November/ December, and I\u2019m currently looking for an",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2259361961295265",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Crown Heights",
+        "Bushwick",
+        "Fort Greene",
+        "Clinton Hill",
+        "Ridgewood"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Open to joining group of girls",
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old culture reporter who also works full-time as a shift leader at Blank Street; social, fitness-oriented, quiet and tidy.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2259361961295265",
+      "posted_at": "Tuesday 27 October 2026 at 14:14",
+      "first_scraped_at": "2026-10-27T22:07:46.434680+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "again Hi! My name is Tamica and I\u2019m currently looking for an unfurnished room sublet. I can move in Nov.",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2259339537964174",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 23,
+      "bio": "Works in tech sales at Salesforce and is into sports and outdoor activities. Social, easygoing, and tidy; enjoys watching sports and hanging out.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2259339537964174",
+      "posted_at": "Tuesday 27 October 2026 at 13:40",
+      "first_scraped_at": "2026-10-27T22:07:46.434680+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "23 and looking to move to Manhattan ASAP. I\u2019m looking for a roommate or a room to rent, ideally somewhere",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2259332401298221",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Chelsea",
+        "Hell's Kitchen",
+        "East Village",
+        "Long Island City"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Recent McGill graduate in Computer Science and Sociology working in tech. Outgoing, friendly, chill, clean, non-smoker; enjoys music and concert photography.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2259332401298221",
+      "posted_at": "Tuesday 27 October 2026 at 13:29",
+      "first_scraped_at": "2026-10-27T22:07:46.434680+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "I\u2019m Rei! Looking for 1-2 roommates to apartment hunt w or a lease takeover starting mid-November or December 1. My",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28714395791563234",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1750,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "26-year-old; open to male/female roommates",
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old AI product manager relocating for work; passionate about technology and building products. Easygoing, friendly, enjoys meeting new people.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28714395791563234",
+      "posted_at": "Tuesday 27 October 2026 at 14:45",
+      "first_scraped_at": "2026-10-27T22:07:46.434680+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Roommates Luxury 3BHK Jersey City, NJ I'm looking for 2 roommates to join me in signing a lease for a",
+      "group_id": "765841576845364"
     }
   ]
 }
