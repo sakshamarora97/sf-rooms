@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T15:07:42.182148",
-  "count": 3354,
+  "updated_at": "2026-10-27T16:08:37.480033",
+  "count": 3356,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107034,6 +107034,65 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "am Lou, a French exchange student at UC Berkeley during the spring semester of 2027. I am looking for a",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4762537030647966",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recently arrived from London, connected with the SF tech community, seeking short flexible subrent (willing to give 2\u20133 days notice).",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4762537030647966",
+      "posted_at": "Tuesday 27 October 2026 at 13:56",
+      "first_scraped_at": "2026-10-27T23:00:04.341359+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "with subletter able to give 2-3 days notice to leave Hey all, I'm Joshua from London. I'm pretty connected in",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2044648806226691",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Lives with seven working professionals in a peaceful household; seeks a quiet, working roommate. Day visitors allowed; overnight guests and loud parties prohibited.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2044648806226691",
+      "posted_at": "Tuesday 27 October 2026 at 14:35",
+      "first_scraped_at": "2026-10-27T23:00:04.341359+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for one quiet, working roommate to join our household in Hayes Valley, near Alamo Square. There are currently seven",
+      "group_id": "242765489748374"
     }
   ]
 }

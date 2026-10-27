@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T15:07:42.182148",
-  "count": 2884,
+  "updated_at": "2026-10-27T16:08:37.480033",
+  "count": 2886,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -96203,6 +96203,76 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Soon! 634 Neilson St., Berkeley. 3 Bedrooms, 3 Batrooms 3,050sqft. Listed at: $1,999,000. https://zsvc.paragon.ice.com/s/goto/I7mf5T5lLY- Experience North Berkeley living at its",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "2775533216175816",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1495,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "high_speed_internet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2775533216175816",
+      "posted_at": "Tuesday 27 October 2026 at 15:49",
+      "first_scraped_at": "2026-10-27T23:00:04.341359+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "2027 Lease Takeover Fully Furnished Private Room $1,495/month Hi everyone! I\u2019m looking for someone to take over my lease starting",
+      "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1399207215312855",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3200,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "furnished",
+        "gym",
+        "study_lounge",
+        "rooftop",
+        "bbq",
+        "ping_pong",
+        "fire_pits"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "ACE Berkeley",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1399207215312855",
+      "posted_at": "Tuesday 27 October 2026 at 16:01",
+      "first_scraped_at": "2026-10-27T23:00:04.341359+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Private Single Room Private Bath in Furnished 2B2B at ACE Berkeley (2108 Berkeley Way) Free Early Move-In Dec 20! Hey",
+      "group_id": "558742412692677"
     }
   ]
 }
