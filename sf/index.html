@@ -918,6 +918,11 @@
     #pin-card .m-card-actions { border-top: none; padding-top: 4px; margin-top: 0; }
     .pin-card-close { position: absolute; top: 6px; right: 6px; border: none; background: none; color: var(--text-4); font-size: 20px; width: 28px; height: 28px; line-height: 1; cursor: pointer; }
     #pin-card .m-card-top { padding-right: 22px; }
+    #pin-card.expanded { max-height: min(70vh, 70dvh); }
+    #pin-card .pin-scroll { overflow-y: auto; overscroll-behavior: contain; padding: 0; border: none; box-shadow: none; background: none; gap: 6px; display: flex; flex-direction: column; min-height: 0; }
+    #pin-card .pin-scroll .m-card-bio { display: block; -webkit-line-clamp: unset; overflow: visible; }
+    .pin-toggle { border: 1px solid var(--border); background: var(--surface); color: var(--text-2); border-radius: 6px; padding: 5px 10px; font-size: 12px; font-weight: 600; cursor: pointer; }
+    #pin-card > .pin-toggle { align-self: center; }
   }
 
   @media (max-width: 600px) {
@@ -2029,37 +2034,9 @@ function renderListings() {
   $('listings-empty').style.display = rows.length ? 'none' : 'block';
   $('listings-table').style.display = rows.length ? '' : 'none';
 
-  $('listings-mobile').innerHTML = pageRows.map(p => {
-    const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
-    const availStr = p.available_from
-      ? 'From ' + fmtDate(p.available_from) + (p.available_until ? ' → ' + fmtDate(p.available_until) : '')
-      : '';
-    const furnStr = p.is_furnished === true ? '<span class="tag tag-long" style="font-size:12px">Furnished</span>' : '';
-    const amenStr = p.amenities?.length ? `<div class="m-card-amenities">${amenitiesHtml(p.amenities)}</div>` : '';
-    const viewUrl = p.post_url || '';
-    const isProfile = viewUrl.includes('/user/');
-    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">
-      <div class="m-card-top">
-        <div class="m-card-rent">${p.rent != null ? '$'+p.rent.toLocaleString() : '<span class="rent-null">—</span>'}</div>
-        <div class="m-card-posted">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</div>
-      </div>
-      <div class="m-card-location">${esc(p.neighborhood)||'—'}</div>
-      ${locSub ? `<div class="m-card-sub">${esc(locSub)}</div>` : ''}
-      ${p.area ? `<div class="m-card-sub" style="font-size:12px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
-      <div class="m-card-meta">
-        ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
-        ${p.listing_type ? tagHtml(p.listing_type, TYPE_MAP) : ''}
-        ${furnStr}
-      </div>
-      ${availStr ? `<div class="m-card-avail">${availStr}</div>` : ''}
-      ${listingPrefsHtml(p) ? `<div class="m-card-prefs prefs-only">${listingPrefsHtml(p)}</div>` : ''}
-      ${amenStr}
-      <div class="m-card-actions">
-        <div>${statusCellHtml(p.listing_id)}</div>
-        ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
-      </div>
-    </div>`;
-  }).join('');
+  $('listings-mobile').innerHTML = pageRows.map(p =>
+    `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">${listingCardInner(p)}</div>`
+  ).join('');
 
   $('badge-listings').textContent = listingsTotal;
   captionCounts.listings = rows.length;
@@ -2164,37 +2141,9 @@ function renderSeekers() {
   const pageRows = mapListHidden() ? [] : mapPaneOpen ? rows : rows.slice((seekersPage - 1) * PAGE_SIZE, seekersPage * PAGE_SIZE);
   $('seekers-pagination').innerHTML = mapListHidden() ? '' : paginationHtml(seekersPage, totalPages, 'goSeekersPage');
 
-  $('seekers-mobile').innerHTML = pageRows.map(p => {
-    const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
-      : p.budget_max ? `≤$${p.budget_max.toLocaleString()}`
-      : p.budget_min ? `$${p.budget_min.toLocaleString()}+` : '—';
-    const moveinStr = p.move_in_date
-      ? 'From ' + fmtDate(p.move_in_date) + (p.move_out_date ? ' → ' + fmtDate(p.move_out_date) : '')
-      : '';
-    const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).map(n=>`<span class="chip">${esc(n)}</span>`).join('');
-    const viewUrl = p.post_url || '';
-    const isProfile = viewUrl.includes('/user/');
-    return `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">
-      <div class="m-card-top">
-        <div class="m-card-budget">${esc(budgetStr)}</div>
-        <div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div>
-      </div>
-      ${p.area ? `<div class="m-card-sub" style="font-size:12px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
-      <div class="m-card-meta">
-        ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
-        ${(p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')}
-      </div>
-      ${moveinStr ? `<div class="m-card-avail">${moveinStr}</div>` : ''}
-      ${p.age != null || p.group_size ? `<div class="m-card-sub">${[p.age != null ? 'Age ' + esc(p.age) : '', p.group_size > 1 ? p.group_size + ' people' : p.group_size === 1 ? 'Solo' : ''].filter(Boolean).join(' · ')}</div>` : ''}
-      ${hoods ? `<div class="m-card-hoods">${hoods}</div>` : ''}
-      ${p.bio ? `<div class="m-card-bio">${esc(p.bio)}</div>` : ''}
-      ${seekerPrefsHtml(p) ? `<div class="m-card-prefs prefs-only">${seekerPrefsHtml(p)}</div>` : ''}
-      <div class="m-card-actions">
-        <div>${statusCellHtml(p.listing_id)}</div>
-        ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
-      </div>
-    </div>`;
-  }).join('');
+  $('seekers-mobile').innerHTML = pageRows.map(p =>
+    `<div class="m-card ${userBookmarks.has(p.listing_id) ? 'bookmarked' : ''}" id="lcard-${p.listing_id}" onclick="rowClickToMap(event, '${p.listing_id}')">${seekerCardInner(p)}</div>`
+  ).join('');
 
   const tbody = $('seekers-body');
   if (!rows.length || mapListHidden()) {
@@ -2472,40 +2421,122 @@ function initMapIfNeeded() {
   renderMap();
 }
 
+// Card bodies shared by the phone/map-view list and the expanded pin card, so both always show the same fields.
+function listingCardInner(p) {
+  const locSub = [p.unit_config, (p.room_type||'').replace(/_/g,' ')].filter(Boolean).join(' · ');
+  const availStr = p.available_from
+    ? 'From ' + fmtDate(p.available_from) + (p.available_until ? ' → ' + fmtDate(p.available_until) : '')
+    : '';
+  const furnStr = p.is_furnished === true ? '<span class="tag tag-long" style="font-size:12px">Furnished</span>' : '';
+  const amenStr = p.amenities?.length ? `<div class="m-card-amenities">${amenitiesHtml(p.amenities)}</div>` : '';
+  const viewUrl = p.post_url || '';
+  const isProfile = viewUrl.includes('/user/');
+  return `<div class="m-card-top">
+      <div class="m-card-rent">${p.rent != null ? '$'+p.rent.toLocaleString() : '<span class="rent-null">—</span>'}</div>
+      <div class="m-card-posted">${fmtPostedAt(p.posted_at)}${listingFreshnessBadge(p)}</div>
+    </div>
+    <div class="m-card-location">${esc(p.neighborhood)||'—'}</div>
+    ${locSub ? `<div class="m-card-sub">${esc(locSub)}</div>` : ''}
+    ${p.area ? `<div class="m-card-sub" style="font-size:12px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
+    <div class="m-card-meta">
+      ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
+      ${p.listing_type ? tagHtml(p.listing_type, TYPE_MAP) : ''}
+      ${furnStr}
+    </div>
+    ${availStr ? `<div class="m-card-avail">${availStr}</div>` : ''}
+    ${listingPrefsHtml(p) ? `<div class="m-card-prefs prefs-only">${listingPrefsHtml(p)}</div>` : ''}
+    ${amenStr}
+    <div class="m-card-actions">
+      <div>${statusCellHtml(p.listing_id)}</div>
+      ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
+    </div>
+`;
+}
+function seekerCardInner(p) {
+  const budgetStr = p.budget_min && p.budget_max ? `$${p.budget_min.toLocaleString()}–$${p.budget_max.toLocaleString()}`
+    : p.budget_max ? `≤$${p.budget_max.toLocaleString()}`
+    : p.budget_min ? `$${p.budget_min.toLocaleString()}+` : '—';
+  const moveinStr = p.move_in_date
+    ? 'From ' + fmtDate(p.move_in_date) + (p.move_out_date ? ' → ' + fmtDate(p.move_out_date) : '')
+    : '';
+  const hoods = (p.preferred_neighborhoods||[]).filter(Boolean).map(n=>`<span class="chip">${esc(n)}</span>`).join('');
+  const viewUrl = p.post_url || '';
+  const isProfile = viewUrl.includes('/user/');
+  return `<div class="m-card-top">
+      <div class="m-card-budget">${esc(budgetStr)}</div>
+      <div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div>
+    </div>
+    ${p.area ? `<div class="m-card-sub" style="font-size:12px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
+    <div class="m-card-meta">
+      ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
+      ${(p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')}
+    </div>
+    ${moveinStr ? `<div class="m-card-avail">${moveinStr}</div>` : ''}
+    ${p.age != null || p.group_size ? `<div class="m-card-sub">${[p.age != null ? 'Age ' + esc(p.age) : '', p.group_size > 1 ? p.group_size + ' people' : p.group_size === 1 ? 'Solo' : ''].filter(Boolean).join(' · ')}</div>` : ''}
+    ${hoods ? `<div class="m-card-hoods">${hoods}</div>` : ''}
+    ${p.bio ? `<div class="m-card-bio">${esc(p.bio)}</div>` : ''}
+    ${seekerPrefsHtml(p) ? `<div class="m-card-prefs prefs-only">${seekerPrefsHtml(p)}</div>` : ''}
+    <div class="m-card-actions">
+      <div>${statusCellHtml(p.listing_id)}</div>
+      ${viewUrl ? `<div><a class="${isProfile ? 'btn-post btn-post-profile' : 'btn-post'}" href="${esc(viewUrl)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}
+    </div>
+`;
+}
+
 // Phone: compact preview card docked at the bottom instead of the Leaflet popup.
 function findPost(lid) { return [..._lastListingsRows, ..._lastSeekersRows].find(p => p.listing_id === lid); }
-function pinCardHtml(p, type) {
+function pinCardHtml(p, type, expanded) {
+  const close = '<button type="button" class="pin-card-close" aria-label="Close">&times;</button>';
+  // Expanded: the same card body as the list, scrollable, so nothing the list shows is missing.
+  if (expanded) return close + `<div class="pin-scroll m-card">${type === 'listings' ? listingCardInner(p) : seekerCardInner(p)}</div>
+    <button type="button" class="pin-toggle" aria-expanded="true">Less ▾</button>`;
   const url = p.post_url || '', isProfile = url.includes('/user/');
   const chips = PREFS_ON ? (type === 'listings' ? listingPrefChips(p) : seekerPrefChips(p)) : '';
-  const head = type === 'listings'
-    ? (p.rent != null ? '$' + p.rent.toLocaleString() + '/mo' : 'Rent not listed')
-    : (budgetRangeStr(p) || 'Budget not listed');
-  const loc = type === 'listings' ? (p.neighborhood || '') : (p.preferred_neighborhoods || []).filter(Boolean).slice(0, 3).join(' · ');
-  return `<button type="button" class="pin-card-close" aria-label="Close">&times;</button>
-    <div class="m-card-top"><div class="m-card-rent">${esc(head)}</div><div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div></div>
+  const span = (from, to) => from ? fmtDate(from) + (to ? ' → ' + fmtDate(to) : '') : '';
+  let head, loc, tags, when, extra = '';
+  if (type === 'listings') {
+    head = p.rent != null ? '$' + p.rent.toLocaleString() + '/mo' : 'Rent not listed';
+    loc = [p.neighborhood, p.unit_config, (p.room_type || '').replace(/_/g, ' ')].filter(Boolean).join(' · ');
+    tags = (p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : '') + (p.listing_type ? tagHtml(p.listing_type, TYPE_MAP) : '');
+    when = span(p.available_from, p.available_until);
+  } else {
+    head = budgetRangeStr(p) || 'Budget not listed';
+    loc = (p.preferred_neighborhoods || []).filter(Boolean).slice(0, 3).join(' · ');
+    tags = (p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : '') +
+      (p.unit_type_wanted || []).filter(Boolean).map(t => `<span class="chip-type">${esc(t.replace(/_/g, ' '))}</span>`).join('');
+    when = span(p.move_in_date, p.move_out_date);
+    extra = [p.age != null ? 'Age ' + esc(p.age) : '', p.group_size > 1 ? p.group_size + ' people' : p.group_size === 1 ? 'Solo' : ''].filter(Boolean).join(' · ');
+  }
+  return close + `<div class="m-card-top"><div class="m-card-rent">${esc(head)}</div><div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div></div>
     ${loc ? `<div class="m-card-location">${esc(loc)}</div>` : ''}
-    ${chips ? `<div class="m-card-prefs">${chips}</div>` : ''}
-    ${url ? `<div class="m-card-actions"><span></span><div><a class="btn-post${isProfile ? ' btn-post-profile' : ''}" href="${esc(url)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div></div>` : ''}`;
+    ${tags || chips ? `<div class="m-card-meta">${tags}${chips}</div>` : ''}
+    ${when || extra ? `<div class="m-card-avail">${[when, extra].filter(Boolean).join(' · ')}</div>` : ''}
+    <div class="m-card-actions"><button type="button" class="pin-toggle" aria-expanded="false">More ▴</button>
+      ${url ? `<div><a class="btn-post${isProfile ? ' btn-post-profile' : ''}" href="${esc(url)}" target="_blank" rel="noopener">${isProfile ? 'Profile →' : 'View →'}</a>${searchFallbackHtml(p)}</div>` : ''}</div>`;
 }
-let pinCardLid = null;
-function showPinCard(lid) {
+let pinCardLid = null, pinCardExpanded = false;
+function showPinCard(lid, expanded = false) {
   const p = findPost(lid);
   if (!p) return;
   const card = $('pin-card');
-  card.innerHTML = pinCardHtml(p, currentTabName());
+  card.innerHTML = pinCardHtml(p, currentTabName(), expanded);
+  card.classList.toggle('expanded', expanded);
   card.hidden = false;
-  pinCardLid = lid;
+  pinCardLid = lid; pinCardExpanded = expanded;
   document.documentElement.style.setProperty('--pin-card-h', (card.offsetHeight + 10) + 'px');
 }
 function hidePinCard() {
   const card = $('pin-card');
   if (card.hidden) return;
-  card.hidden = true; pinCardLid = null;
+  card.hidden = true; pinCardLid = null; pinCardExpanded = false;
   document.documentElement.style.removeProperty('--pin-card-h');
   highlightedMarkerEls.forEach(el => el.classList.remove('marker-highlighted'));
   highlightedMarkerEls = [];
 }
-$('pin-card').addEventListener('click', e => { if (e.target.closest('.pin-card-close')) hidePinCard(); });
+$('pin-card').addEventListener('click', e => {
+  if (e.target.closest('.pin-card-close')) hidePinCard();
+  else if (e.target.closest('.pin-toggle')) showPinCard(pinCardLid, !pinCardExpanded);
+});
 
 function pinPopupHtml(p, type) {
   const url = p.post_url || '';
@@ -2526,6 +2557,7 @@ function renderMap() {
   if (!leafletMap || !mapPaneOpen) return;
   const type = currentTabName();
   if (type !== 'listings' && type !== 'seekers') return; // map pane isn't available on Spam
+  const keepLid = pinCardLid, keepExpanded = pinCardExpanded;   // re-renders (e.g. a bookmark from the expanded card) keep it open
   hidePinCard();
   const phone = mqPhone.matches;
 
@@ -2568,6 +2600,7 @@ function renderMap() {
 
   mapPlotted = { tab: type, plotted, total: posts.length };
   updateCaption();
+  if (phone && keepLid && posts.some(p => p.listing_id === keepLid)) { showPinCard(keepLid, keepExpanded); highlightMarkersForPost(keepLid); }
 }
 
 let highlightedMarkerEls = [];
