@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T12:06:54.852282",
-  "count": 2879,
+  "updated_at": "2026-10-27T13:06:52.099762",
+  "count": 2880,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -96014,6 +96014,42 @@
       "first_scraped_at": "2026-10-27T19:00:04.038334+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking for a roommate for the primary bedroom with private bathroom in a 3BR/2BA apartment at Etta SF (1285 Sutter",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4762405533994449",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2700,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "pool",
+        "gym",
+        "sauna",
+        "grocery_store_downstairs",
+        "furnished_shared_spaces"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4762405533994449",
+      "posted_at": "Tuesday 27 October 2026 at 11:23",
+      "first_scraped_at": "2026-10-27T20:00:05.756723+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "attached bath in a 2B2B apartment in Rincon Hill, SF (available Dec 1) Hi everyone! My current flatmate is moving",
       "group_id": "2176716625896699"
     }
   ]
