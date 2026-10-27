@@ -489,6 +489,7 @@
   .filter-status .fs-note { margin-left: auto; }
   .link-btn { background: none; border: none; padding: 0; font: inherit; color: var(--accent); cursor: pointer; text-decoration: underline; }
   .hide-wrap { position: relative; }
+  .hide-lbl { font-size: 12px; color: var(--text-5); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 3px; display: block; }
   .hide-btn { padding: 6px 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 13px; color: var(--text-2); }
   .hide-btn:hover { background: var(--surface-2); }
   .hide-btn.active { border-color: var(--accent); color: var(--accent); font-weight: 600; }
@@ -878,7 +879,7 @@
     .sheet-title { font-size: 16px; font-weight: 700; color: var(--text); }
     .sheet-close { border: none; background: var(--surface-3); color: var(--text-2); width: 32px; height: 32px; border-radius: 50%; font-size: 20px; line-height: 1; cursor: pointer; }
     .hide-wrap { grid-column: 1 / -1; }
-    .hide-btn { display: none; }
+    .hide-btn, .hide-lbl { display: none; }
     .hide-pop, .hide-pop[hidden] { display: flex; position: static; flex-direction: row; flex-wrap: wrap; gap: 8px 24px; min-width: 0; padding: 12px; box-shadow: none; background: var(--surface-2); }
     .hide-pop > div { min-width: 120px; }
     .hide-pop > .hide-note { flex-basis: 100%; }
@@ -1253,7 +1254,8 @@
     </select>
   </label>
   <div class="hide-wrap prefs-only">
-    <button type="button" class="hide-btn" id="hide-btn-listings" aria-haspopup="true" aria-expanded="false" title="Hides only posts that state it explicitly.">Hide…</button>
+    <span class="hide-lbl">Gender / Pets</span>
+    <button type="button" class="hide-btn" id="hide-btn-listings" aria-haspopup="true" aria-expanded="false" title="Hide listings by gender rule or pets policy. Hides only posts that state it explicitly.">Any ▾</button>
     <div class="hide-pop" id="hide-pop-listings" hidden>
       <div>
         <div class="hide-grp-title">Gender</div>
@@ -1335,7 +1337,8 @@
     </select>
   </label>
   <div class="hide-wrap prefs-only">
-    <button type="button" class="hide-btn" id="hide-btn-seekers" aria-haspopup="true" aria-expanded="false" title="Hides only posts that state it explicitly.">Pets…</button>
+    <span class="hide-lbl">Pets</span>
+    <button type="button" class="hide-btn" id="hide-btn-seekers" aria-haspopup="true" aria-expanded="false" title="Show or hide seekers who have pets. Hides only posts that state it explicitly.">Any ▾</button>
     <div class="hide-pop" id="hide-pop-seekers" hidden>
       <div>
         <div class="hide-grp-title">Pets</div>
@@ -1878,7 +1881,9 @@ function updateFilterStatus(kind, hiddenN, shownN) {
   $(pre + '-hiding').querySelector('.fs-text').textContent = `Hiding ${hiddenN} ${noun}${hiddenN === 1 ? '' : 's'}`;
   $(box).querySelector('.fs-note').textContent = PREFS_WIP_NOTE;
   $(box).hidden = !n && !PREFS_ON;
-  $('hide-btn-' + kind).classList.toggle('active', hideGroupsActive(kind) > 0);
+  const hb = $('hide-btn-' + kind), hideOn = hideGroupsActive(kind) > 0;
+  hb.classList.toggle('active', hideOn);
+  hb.textContent = hideOn ? 'Custom ▾' : 'Any ▾';
   $('hide-pop-' + kind).querySelector('.since-note').textContent = PREFS_WIP_NOTE;
   // Phone sheet: the Filters button shows the active count, the footer button the live result count.
   const fb = $('filters-btn');
@@ -2174,10 +2179,13 @@ function renderSeekers() {
         <div class="m-card-budget">${esc(budgetStr)}</div>
         <div class="m-card-posted">${fmtPostedAt(p.posted_at)}</div>
       </div>
+      ${p.area ? `<div class="m-card-sub" style="font-size:12px;font-weight:500;letter-spacing:0.02em">${esc(p.area)}</div>` : ''}
       <div class="m-card-meta">
         ${p.duration_type ? tagHtml(p.duration_type, DURATION_MAP) : ''}
+        ${(p.unit_type_wanted||[]).filter(Boolean).map(t=>`<span class="chip-type">${esc(t.replace(/_/g,' '))}</span>`).join('')}
       </div>
       ${moveinStr ? `<div class="m-card-avail">${moveinStr}</div>` : ''}
+      ${p.age != null || p.group_size ? `<div class="m-card-sub">${[p.age != null ? 'Age ' + esc(p.age) : '', p.group_size > 1 ? p.group_size + ' people' : p.group_size === 1 ? 'Solo' : ''].filter(Boolean).join(' · ')}</div>` : ''}
       ${hoods ? `<div class="m-card-hoods">${hoods}</div>` : ''}
       ${p.bio ? `<div class="m-card-bio">${esc(p.bio)}</div>` : ''}
       ${seekerPrefsHtml(p) ? `<div class="m-card-prefs prefs-only">${seekerPrefsHtml(p)}</div>` : ''}
