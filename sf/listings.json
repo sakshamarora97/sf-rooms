@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T19:06:52.695864",
-  "count": 2853,
+  "updated_at": "2026-10-26T20:06:17.393551",
+  "count": 2854,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -95176,6 +95176,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking for someone to take over my part of the lease of a 2 bed 1 bath furnished apartment starting",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4761497457418590",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1895,
+      "neighborhood": "Union Square",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-04-14",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "rent_controlled"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "gender_preference": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4761497457418590",
+      "posted_at": "Monday 26 October 2026 at 18:58",
+      "first_scraped_at": "2026-10-27T03:00:02.524678+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "sqft, 750 OFarrell st for $1895. Rent controlled! Lease takeover from Nov end till April 14 2027. You can coordinate",
+      "group_id": "2176716625896699"
     }
   ]
 }
