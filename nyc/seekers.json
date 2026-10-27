@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-26T17:16:37.270859",
-  "count": 526,
+  "updated_at": "2026-10-26T18:15:31.736946",
+  "count": 528,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -15865,6 +15865,63 @@
       "first_scraped_at": "2026-10-26T21:06:46.514211+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Maria, I\u2019m 28 years old, and I\u2019m looking for a room to rent in New York, preferably in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2258508444713950",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "reason": null,
+      "age": null,
+      "bio": "She is a full-time trained chef who is tidy and considerate, doesn't drink or do drugs. She values alone time, is generally out and about, and has two cats.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258508444713950",
+      "posted_at": "Monday 26 October 2026 at 18:05",
+      "first_scraped_at": "2026-10-27T01:05:44.031902+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Cadhla (pronounced Kayla) and I\u2019m looking to sublet a room beginning December 1st I have two wonderful cats,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2258474288050699",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 3800,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Looking for a short-term sublet starting Nov 1 for about a month while doing research at Columbia. Prefers a studio but would consider a bedroom with a private bathroom; budget around $3,800/month and is flexible for the right place.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2258474288050699",
+      "posted_at": "Monday 26 October 2026 at 17:06",
+      "first_scraped_at": "2026-10-27T01:05:44.031902+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Looking for a sublet for November 1 through December: around a month (though could be open to longer if it\u2019s",
       "group_id": "149460102285472"
     }
   ]
