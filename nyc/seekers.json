@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-27T08:16:12.774928",
-  "count": 540,
+  "updated_at": "2026-10-27T09:15:46.559991",
+  "count": 541,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -16824,6 +16824,34 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Jan1 Looking for a Female Roommate Hi! I\u2019m a 27 y.o. female looking for a roommate to sign a 12",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "997795652691111",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "she/her; has a cat",
+      "reason": null,
+      "age": 30,
+      "bio": "Receptionist/floater in Midtown who is quiet, clean, and introverted-at-first; enjoys museums, cooking, Mets, bar trivia, and has an orange cat.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/997795652691111",
+      "posted_at": "Tuesday 27 October 2026 at 08:39",
+      "first_scraped_at": "2026-10-27T16:06:45.332204+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "orange cat seeking room in NYC Hi everyone! I\u2019m looking for a room or potential roommates! My name is Angela",
+      "group_id": "312692887868061"
     }
   ]
 }
