@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-26T18:05:39.862004",
-  "count": 3338,
+  "updated_at": "2026-10-26T19:06:52.695864",
+  "count": 3341,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -103193,6 +103193,97 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for Spring 2027!! Hi everyone! I\u2019m looking for housing for Spring 2027 for 3 female UC Berkeley students. We\u2019re preferably",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4761464217421914",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a nurse who will be out three times a week and is looking to move to San Francisco in January to live with 2\u20133 roommates. They enjoy trying new coffee shops, going on walks, reading, and scrapbooking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4761464217421914",
+      "posted_at": "Monday 26 October 2026 at 18:19",
+      "first_scraped_at": "2026-10-27T02:00:02.629326+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "currently living in Palo Alto, but looking to move to SF in January. Hopefully can move in with 2-3 roommates",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4761319257436410",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill",
+        "North Beach",
+        "South Beach",
+        "East Cut",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old UIUC graduate working in tech who enjoys working out, playing sports, concerts, trying new restaurants, and socializing. Organized and prefers a roommate who keeps shared spaces reasonably clean.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4761319257436410",
+      "posted_at": "Monday 26 October 2026 at 15:06",
+      "first_scraped_at": "2026-10-27T02:00:02.629326+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Sidd, I\u2019m 25, graduated from UIUC, and currently work in tech. I am looking to move to SF in early",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2043850389639866",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "They are 23 and will be working in the Financial District. They describe themselves as clean, respectful, social, and enjoy dinners, happy hours, concerts, workout classes, and cozy nights in.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2043850389639866",
+      "posted_at": "Monday 26 October 2026 at 18:41",
+      "first_scraped_at": "2026-10-27T02:00:02.629326+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a sublease and can move in ASAP! Preferably in Nob Hill, North Beach, or surrounding areas. A little",
+      "group_id": "242765489748374"
     }
   ]
 }
