@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T08:13:55.753496",
-  "count": 578,
+  "updated_at": "2026-10-28T09:15:21.379846",
+  "count": 579,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18005,6 +18005,38 @@
       "first_scraped_at": "2026-10-28T15:06:17.228733+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "for a bedroom with bathroom attached to stay near Grove Street Station or Newport. Budget 1.25k flexible Looking to stay",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28724723813863765",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 700,
+      "budget_max": 850,
+      "unit_type_wanted": [
+        "private room",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Grove Street"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Working professional; wants chill, friendly roommates; non-veg cooking OK",
+      "reason": null,
+      "age": null,
+      "bio": "Working professional, non-vegetarian, clean and organized; keeps shared spaces tidy and pays rent on time.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28724723813863765",
+      "posted_at": "Wednesday 28 October 2026 at 08:46",
+      "first_scraped_at": "2026-10-28T16:07:18.604866+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a Private Room Near Journal Square PATH or Grove Street PATH, Jersey City (walking distance) Budget: $700\u2013$850/month In-house laundry is",
       "group_id": "765841576845364"
     }
   ]
