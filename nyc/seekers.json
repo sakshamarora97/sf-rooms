@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T14:16:18.593450",
-  "count": 586,
+  "updated_at": "2026-10-28T15:16:20.746377",
+  "count": 588,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18256,6 +18256,69 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Roommates in Hoboken Move-in: Feb 1, 2027 Hey everyone! I\u2019m Ashutosh, 28, currently working full-time as an Analyst. I completed",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2260403607857767",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Upper East Side",
+        "Upper West Side",
+        "Astoria"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Gay",
+      "reason": null,
+      "age": 32,
+      "bio": "32-year-old professional who works in the Financial District three days a week and from home two days. Neat, quiet, enjoys reading, writing, baking, theatre and movies.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260403607857767",
+      "posted_at": "Wednesday 28 October 2026 at 14:55",
+      "first_scraped_at": "2026-10-28T22:07:16.783972+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a room (or a roommate to apartment hunt with) in UES, UWS, or Astoria for Dec. 1 move-in.",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2260383124526482",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Two roommates; bringing two cats",
+      "reason": null,
+      "age": null,
+      "bio": "Two 23-year-old roommates: one bartends, the other works in sales; both into art and photography and keep a clean home.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260383124526482",
+      "posted_at": "Wednesday 28 October 2026 at 14:18",
+      "first_scraped_at": "2026-10-28T22:07:16.783972+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "3rd roommate Hi everyone! Idis and I are looking for a third roommate to join us in apartment hunting! We",
+      "group_id": "149460102285472"
     }
   ]
 }
