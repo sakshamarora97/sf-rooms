@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T17:07:24.970178",
-  "count": 3356,
+  "updated_at": "2026-10-27T18:07:22.932685",
+  "count": 3358,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107093,6 +107093,70 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for one quiet, working roommate to join our household in Hayes Valley, near Alamo Square. There are currently seven",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4762695673965435",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "Daly City",
+        "San Mateo"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female roommates only",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old travel nurse seeking a furnished short-term sublease near UCSF Parnassus; open to Daly City or San Mateo.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4762695673965435",
+      "posted_at": "Tuesday 27 October 2026 at 17:18",
+      "first_scraped_at": "2026-10-28T01:00:06.104849+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Short term lease/Sub Lease Hey all!! I\u2019m a 26F looking for a furnished room or apartment to sublease starting in",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1399257778641132",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Berkeley",
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Doctoral fellow at the Advanced Light Source, Berkeley Lab, seeking a private furnished room in Berkeley (near campus/Downtown) from late Nov/early Dec until end of April 2027.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1399257778641132",
+      "posted_at": "Tuesday 27 October 2026 at 17:21",
+      "first_scraped_at": "2026-10-28T01:00:06.104849+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a private room to sublease in Berkeley, starting around late November or early December till the end of",
+      "group_id": "558742412692677"
     }
   ]
 }
