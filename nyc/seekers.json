@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-27T18:17:10.591855",
-  "count": 564,
+  "updated_at": "2026-10-27T19:18:21.844305",
+  "count": 565,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -17563,6 +17563,40 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "room in NJ 07305 Hello everyone Looking for a room for few months from bedding of November till mid January",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2915102092189389",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-20",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Hoboken",
+        "Jersey City",
+        "Newport",
+        "Weehawken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Working professional in finance who recently relocated to the US for work. Non-smoker, clean, quiet, and respectful; can provide employment verification and references.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2915102092189389",
+      "posted_at": "Tuesday 27 October 2026 at 18:57",
+      "first_scraped_at": "2026-10-28T02:07:40.633709+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "1BR Large Studio in Hoboken or nearby NJ Move-in late November Hi everyone! I recently relocated to the US for",
+      "group_id": "1138638939835722"
     }
   ]
 }
