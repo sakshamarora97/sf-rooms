@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T22:07:45.766180",
-  "count": 3362,
+  "updated_at": "2026-10-28T06:09:46.106264",
+  "count": 3363,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107276,6 +107276,43 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "will be an exchange student at UC Berkeley for Spring 2027 and I'm helping her look for housing starting around",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4399391253704959",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-26",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4500,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B2B",
+        "entire_unit",
+        "apartment",
+        "house"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "San Carlos",
+        "San Mateo",
+        "Menlo Park"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple",
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a 1B1B or 2B2B on the Peninsula; one partner works as a Software Development Manager at Amazon.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4399391253704959",
+      "posted_at": "Wednesday 28 October 2026 at 04:33",
+      "first_scraped_at": "2026-10-28T13:00:04.271591+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "1B/1B or 2B/2B Apartment or House Near Caltrain (Redwood City San Carlos San Mateo Menlo Park) Hi everyone! My wife",
+      "group_id": "1511607562483357"
     }
   ]
 }
