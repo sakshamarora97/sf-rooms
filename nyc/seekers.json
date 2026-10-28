@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-27T21:16:51.622708",
-  "count": 570,
+  "updated_at": "2026-10-27T22:18:16.849843",
+  "count": 571,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -17751,6 +17751,37 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Nate, 32, looking for a place in Brooklyn around February 1. Mainly interested in Williamsburg, Bed-Stuy, Crown Heights, or Bushwick.",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2259638174600977",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-03",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 36,
+      "bio": "Relocating to New York from San Diego; works long hours and goes to the gym regularly. Clean, respectful, quiet non-smoker who values privacy.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2259638174600977",
+      "posted_at": "Tuesday 27 October 2026 at 21:13",
+      "first_scraped_at": "2026-10-28T05:07:50.469933+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Evgenii. I\u2019m relocating to New York from San Diego, CA and I\u2019m looking for a room in Brooklyn",
+      "group_id": "149460102285472"
     }
   ]
 }
