@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T18:07:22.932685",
-  "count": 2890,
+  "updated_at": "2026-10-27T19:07:36.529010",
+  "count": 2891,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -96401,6 +96401,40 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "for a roommate to take 12-month lease for a private master bedroom bath in a 3B3B townhouse in San Mateo.",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2044768266214745",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 400,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "valet",
+        "secure_garage",
+        "designated_spot",
+        "24_hour_access"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2044768266214745",
+      "posted_at": "Tuesday 27 October 2026 at 17:52",
+      "first_scraped_at": "2026-10-28T02:00:03.843560+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Rincon Hill South Beach Renting out my reserved indoor valet spot in Rincon Hill. 24-hour valet access, designated spot in",
+      "group_id": "242765489748374"
     }
   ]
 }
