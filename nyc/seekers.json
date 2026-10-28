@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T09:15:21.379846",
-  "count": 579,
+  "updated_at": "2026-10-28T10:15:29.904939",
+  "count": 580,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18038,6 +18038,36 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "a Private Room Near Journal Square PATH or Grove Street PATH, Jersey City (walking distance) Budget: $700\u2013$850/month In-house laundry is",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2260168411214620",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Harlem"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male (he/him); wants clean, communicative roommate; cats OK",
+      "reason": null,
+      "age": 25,
+      "bio": "Flight attendant who travels frequently and creates poetry and short-form music; considerate, community-minded, enjoys cooking, hosting monthly, music and gaming.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260168411214620",
+      "posted_at": "Wednesday 28 October 2026 at 09:11",
+      "first_scraped_at": "2026-10-28T17:07:24.545301+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Eli and I\u2019m looking for a roommate for a 2 br apartment in Harlem. a lil bit about",
+      "group_id": "149460102285472"
     }
   ]
 }
