@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T20:06:45.410468",
-  "count": 3358,
+  "updated_at": "2026-10-27T21:07:30.469955",
+  "count": 3360,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107157,6 +107157,65 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking for a private room to sublease in Berkeley, starting around late November or early December till the end of",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4762858793949123",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Two nursing students seeking to share a room starting in January; budget $1,700 total.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4762858793949123",
+      "posted_at": "Tuesday 27 October 2026 at 20:37",
+      "first_scraped_at": "2026-10-28T04:00:04.369707+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking to share a room with my sister with roommates starting JANUARY (both students in nursing) Please let me know",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4398714910439260",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Prefers someone in their 20s; null",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Rutgers graduate, athlete working in tech sales, new to the Bay Area, seeking roommate-aged housing near BART.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4398714910439260",
+      "posted_at": "Tuesday 27 October 2026 at 21:00",
+      "first_scraped_at": "2026-10-28T04:00:04.369707+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "for someone to apartment hunt with in Berkeley or Oakland, ideally somewhere close to a BART station. I'm planning to",
+      "group_id": "1511607562483357"
     }
   ]
 }
