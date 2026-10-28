@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T12:13:25.467616",
-  "count": 3372,
+  "updated_at": "2026-10-28T13:08:06.161821",
+  "count": 3374,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107589,6 +107589,72 @@
       "first_scraped_at": "2026-10-28T19:00:04.591479+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Roommates Luxury 3BHK Jersey City, NJ I'm looking for 2 roommates to join me in signing a lease for a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2045543449470560",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Outer Richmond",
+        "Outer Sunset",
+        "Presidio",
+        "Inner Sunset",
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Prefers all girls",
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old who works from home most days, surfs frequently and enjoys outdoor activities; likes crafting, thrifting, and relaxed socializing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045543449470560",
+      "posted_at": "Wednesday 28 October 2026 at 12:16",
+      "first_scraped_at": "2026-10-28T20:00:07.057404+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room in Outer Richmond Sunset Presidio Hi guys! My name is Emma. I'm 24, and I\u2019m looking to join an",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2045513362806902",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B2B",
+        "3B3B"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "Recent master's graduate in Data Science moving to the Bay Area for a product role in Palo Alto; easygoing, keeps shared spaces clean and enjoys social weekend activities.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045513362806902",
+      "posted_at": "Wednesday 28 October 2026 at 11:29",
+      "first_scraped_at": "2026-10-28T20:00:07.057404+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "or a lease takeover 2b2b 3b2b 3b3b Dec 2026 Palo Alto area Hello, I\u2019m Akshaj (24M), starting a new job",
       "group_id": "242765489748374"
     }
   ]
