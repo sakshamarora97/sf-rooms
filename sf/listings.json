@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T19:07:36.529010",
-  "count": 2891,
+  "updated_at": "2026-10-27T20:06:45.410468",
+  "count": 2892,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -96434,6 +96434,38 @@
       "first_scraped_at": "2026-10-28T02:00:03.843560+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Rincon Hill South Beach Renting out my reserved indoor valet spot in Rincon Hill. 24-hour valet access, designated spot in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2044799952878243",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "water_included"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Queer male; prefers LGBT+ roommate",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2044799952878243",
+      "posted_at": "Tuesday 27 October 2026 at 18:35",
+      "first_scraped_at": "2026-10-28T03:00:04.644977+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "I\u2019m looking for someone to take over my housemates lease (month to month). ~$1200 utilities. It\u2019s a two bedroom apartment",
       "group_id": "242765489748374"
     }
   ]
