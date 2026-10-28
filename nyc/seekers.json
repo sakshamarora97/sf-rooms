@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T06:20:07.695472",
-  "count": 572,
+  "updated_at": "2026-10-28T07:15:47.365400",
+  "count": 575,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -17812,6 +17812,99 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "looking for a private room in a female-only shared apartment in Newport, Jersey City, starting from the first week of",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2260030977895030",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Ridgewood",
+        "Long Island City"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Nonbinary/trans individual; has a cat.",
+      "reason": null,
+      "age": 34,
+      "bio": "34-year-old nonbinary/trans bartender and musician seeking a long-term sublet. Quiet, clean roommate who enjoys cooking, movie nights, board games, rock climbing and hiking; works in the East Village.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260030977895030",
+      "posted_at": "Wednesday 28 October 2026 at 06:35",
+      "first_scraped_at": "2026-10-28T14:07:42.246035+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Brooklyn or Ridgewood/LIC Hey friends! I'm Hathor, I'm a 34 year old nonbinary/trans bartender and musician looking for a long",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28723369580665855",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Newport",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": true,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker urgently looking for a furnished private master bedroom in Jersey City (Journal Square, Newport, or Grove St) starting Nov 1.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28723369580665855",
+      "posted_at": "Wednesday 28 October 2026 at 06:52",
+      "first_scraped_at": "2026-10-28T14:07:42.246035+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a furnished private master bedroom from November 1 in a luxury high rise at Journal sq, Newport or Grove st.",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28723216670681146",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a female roommate.",
+      "reason": "student",
+      "age": 25,
+      "bio": "25-year-old student nurse seeking a female roommate or a one-bedroom apartment in Middlesex County, NJ, for Dec 2026/Jan 2027.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28723216670681146",
+      "posted_at": "Wednesday 28 October 2026 at 06:39",
+      "first_scraped_at": "2026-10-28T14:07:42.246035+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Female Roommate or a One-Bedroom Apartment! Hi everyone! My name is Zilda,I\u2019m 25 and a student nurse ,and I\u2019m looking",
+      "group_id": "765841576845364"
     }
   ]
 }

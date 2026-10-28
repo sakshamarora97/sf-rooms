@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T06:20:07.695472",
-  "count": 1557,
+  "updated_at": "2026-10-28T07:15:47.365400",
+  "count": 1559,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -51988,6 +51988,73 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "in this 4 bed/2 bath apartment in Morningside Heights, washer/dryer in unit, no fee! Join Danielle, Scarlet, and Sophia in",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28719246611078152",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 800,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "furnished",
+        "kitchen",
+        "in_house_laundry",
+        "parking",
+        "high_speed_internet",
+        "walkable_to_path"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28719246611078152",
+      "posted_at": "Tuesday 27 October 2026 at 23:53",
+      "first_scraped_at": "2026-10-28T14:07:42.246035+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Available To Rent Close To Journal Square Jersey City Rent: $800 (Including All Utilities) Equipped with fully furnished kitchen In",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "998640622606614",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1850,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "public_transportation",
+        "nearby_shopping"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Pets: confirm with management",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/998640622606614",
+      "posted_at": "Wednesday 28 October 2026 at 06:54",
+      "first_scraped_at": "2026-10-28T14:07:42.246035+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "for Rent Pelham Parkway, Bronx, New York A modern and comfortable 1-bedroom apartment is located in the Pelham Parkway area",
+      "group_id": "312692887868061"
     }
   ]
 }
