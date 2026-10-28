@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-27T22:18:16.849843",
-  "count": 571,
+  "updated_at": "2026-10-28T06:20:07.695472",
+  "count": 572,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -17782,6 +17782,36 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Evgenii. I\u2019m relocating to New York from San Diego, CA and I\u2019m looking for a room in Brooklyn",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2915422442157354",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female-only roommates",
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room in a female-only shared apartment in Newport; wants friendly, clean, respectful flatmates.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2915422442157354",
+      "posted_at": "Tuesday 27 October 2026 at 21:45",
+      "first_scraped_at": "2026-10-28T13:09:51.195911+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for a private room in a female-only shared apartment in Newport, Jersey City, starting from the first week of",
+      "group_id": "1138638939835722"
     }
   ]
 }
