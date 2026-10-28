@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T11:17:10.393937",
-  "count": 582,
+  "updated_at": "2026-10-28T12:24:04.552772",
+  "count": 583,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18135,6 +18135,37 @@
       "first_scraped_at": "2026-10-28T18:08:20.256303+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Garrett moving to the east village (likely Murray hill) and looking for a roommate (or a shared place). My budget",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "998857075918302",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Jamaica",
+        "Hollis"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a 1BR apartment for rent starting Dec 1st near Jamaica and Hollis (around 150\u2013200th Street).",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/998857075918302",
+      "posted_at": "Wednesday 28 October 2026 at 11:45",
+      "first_scraped_at": "2026-10-28T19:13:32.208359+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Assalamualikum.I am looking for 1BR apartment(no basement) for rent from Dec 1st.Around hillside/jamaica/hollis by 150-200 street.",
       "group_id": "312692887868061"
     }
   ]
