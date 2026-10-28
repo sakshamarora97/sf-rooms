@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T09:07:12.311241",
-  "count": 3364,
+  "updated_at": "2026-10-28T10:07:19.238031",
+  "count": 3367,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107346,6 +107346,95 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking for 1-2 girls in their mid-20s to find a place together, or an existing roommate group or apartment I",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4763586280543041",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Fremont"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": null,
+      "bio": "He is a tech worker at a large tech company. Well-mannered, clean, and keeps to himself.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4763586280543041",
+      "posted_at": "Wednesday 28 October 2026 at 09:07",
+      "first_scraped_at": "2026-10-28T17:00:03.579790+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a room for my friend. Mainly looking for South fremont or Warm Springs location. About my friend: Techie",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4763564217211914",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Couple; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "Couple seeking a studio or 1B1B sublet in San Francisco from Nov 2026 to Feb 2026.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4763564217211914",
+      "posted_at": "Wednesday 28 October 2026 at 08:44",
+      "first_scraped_at": "2026-10-28T17:00:03.579790+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "sublet Nov 2026- Feb 2026 in SF. For my wife and me No pets",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2045399419484963",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 2100,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two early-to-mid-20s working professionals; one works in nonprofit health data systems, the other in tech sales. They enjoy trying new restaurants, hanging with friends, going out and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045399419484963",
+      "posted_at": "Wednesday 28 October 2026 at 08:55",
+      "first_scraped_at": "2026-10-28T17:00:03.579790+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Roommates Hayes Valley 4 BR for Nov 1st Hi people of FB! We are looking for 2 more people in",
+      "group_id": "242765489748374"
     }
   ]
 }
