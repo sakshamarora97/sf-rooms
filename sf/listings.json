@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T15:07:12.315413",
-  "count": 2913,
+  "updated_at": "2026-10-28T16:07:21.975780",
+  "count": 2914,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -97172,6 +97172,48 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Master room with closet. 1B in a 2B2B. Modern building in Potrero Hill. Courtyard facing. Safe and quiet. Roommate: 31yo",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28884711804519433",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-02-29",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "indoor_lap_pool",
+        "fitness_center",
+        "sauna",
+        "hot_tub",
+        "rooftop_lounge",
+        "barbecue_grills",
+        "co_working_space",
+        "24/7_concierge",
+        "secure_package_room",
+        "bike_storage",
+        "laundry_facilities",
+        "controlled_keycard_access",
+        "parking_reserved"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Pets OK",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28884711804519433",
+      "posted_at": "Wednesday 28 October 2026 at 15:23",
+      "first_scraped_at": "2026-10-28T23:00:05.609372+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "subleasing my apartment at 388 Beale St in Rincon Hill starting immediately! At $2,000/month this is an unbeatable deal for",
+      "group_id": "843764532374203"
     }
   ]
 }

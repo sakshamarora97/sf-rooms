@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T15:07:12.315413",
-  "count": 3375,
+  "updated_at": "2026-10-28T16:07:21.975780",
+  "count": 3378,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107688,6 +107688,105 @@
       "first_scraped_at": "2026-10-28T21:00:04.540118+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "place to sublet! hi everyone! my name is Vanessa, and i\u2019m moving from toronto to san francisco for work at",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28880574991599781",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28880574991599781",
+      "posted_at": "Wednesday 28 October 2026 at 11:20",
+      "first_scraped_at": "2026-10-28T23:00:05.609372+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "looking for a 1\u20132 bedroom apartment lease takeover/transfer in San Francisco, starting in December 2026. Ideally, I\u2019m looking for a",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "28875008358823111",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Dogpatch",
+        "Nob Hill",
+        "North Beach",
+        "Russian Hill",
+        "Pacific Heights",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Two girls; wants a female roommate",
+      "reason": null,
+      "age": 22,
+      "bio": "Recent UCLA graduate working in tech with a hybrid schedule; active, enjoys workout classes, caf\u00e9 hopping, concerts, and hosting; clean, non-smoker, friendly.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28875008358823111",
+      "posted_at": "Wednesday 28 October 2026 at 11:20",
+      "first_scraped_at": "2026-10-28T23:00:05.609372+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "for a 3rd roommate a 3BR/2BA in SF Dec move-in Hi! I'm Gayatri (22F), a recent UCLA grad working in",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2045634422794796",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "NoPa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 28,
+      "bio": "They are a 28-year-old working in tech sales who enjoys running, tennis, surfing, snowboarding, playing pool, and going to concerts.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045634422794796",
+      "posted_at": "Wednesday 28 October 2026 at 14:48",
+      "first_scraped_at": "2026-10-28T23:00:05.609372+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a 28-year-old working in tech sales, looking for a room or roommate(s) in SF. Originally from Minnesota, lived in Seattle",
       "group_id": "242765489748374"
     }
   ]
