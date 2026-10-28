@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T13:08:06.161821",
-  "count": 3374,
+  "updated_at": "2026-10-28T14:07:17.567012",
+  "count": 3375,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107655,6 +107655,39 @@
       "first_scraped_at": "2026-10-28T20:00:07.057404+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "or a lease takeover 2b2b 3b2b 3b3b Dec 2026 Palo Alto area Hello, I\u2019m Akshaj (24M), starting a new job",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2045570119467893",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-25",
+      "move_out_date": null,
+      "budget_min": 2300,
+      "budget_max": 3300,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Lower Nob Hill",
+        "Polk Gulch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple?",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old nurse relocating from Toronto for work; enjoys pilates, crafting, thrifting, food, and exploring neighborhoods.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045570119467893",
+      "posted_at": "Wednesday 28 October 2026 at 12:59",
+      "first_scraped_at": "2026-10-28T21:00:04.540118+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "place to sublet! hi everyone! my name is Vanessa, and i\u2019m moving from toronto to san francisco for work at",
       "group_id": "242765489748374"
     }
   ]
