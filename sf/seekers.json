@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T08:06:12.761526",
-  "count": 3363,
+  "updated_at": "2026-10-28T09:07:12.311241",
+  "count": 3364,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107313,6 +107313,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "1B/1B or 2B/2B Apartment or House Near Caltrain (Redwood City San Carlos San Mateo Menlo Park) Hi everyone! My wife",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4763549133880089",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Potrero Hill",
+        "South Beach",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Solo seeker; wants girls",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "She is 24 and moving for a new job in medical devices. Enjoys traveling, cooking, pilates, trying restaurants and bars, and hosting small gatherings; very clean.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4763549133880089",
+      "posted_at": "Wednesday 28 October 2026 at 08:30",
+      "first_scraped_at": "2026-10-28T16:00:06.553340+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for 1-2 girls in their mid-20s to find a place together, or an existing roommate group or apartment I",
+      "group_id": "2176716625896699"
     }
   ]
 }

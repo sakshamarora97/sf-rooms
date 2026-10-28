@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T08:06:12.761526",
-  "count": 2904,
+  "updated_at": "2026-10-28T09:07:12.311241",
+  "count": 2906,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -96860,6 +96860,76 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": null,
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2045384189486486",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-02-29",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "reserved_parking",
+        "indoor_lap_pool",
+        "gym",
+        "sauna",
+        "hot_tub",
+        "rooftop_terrace",
+        "24/7_front_desk_concierge",
+        "secure_package_handling"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045384189486486",
+      "posted_at": "Wednesday 28 October 2026 at 08:35",
+      "first_scraped_at": "2026-10-28T16:00:06.553340+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "putting up my apartment at 388 Beale St in Rincon Hill for a lease takeover starting immediately! The rate is",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2045272956164276",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-03-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "24_7_lobby_security",
+        "private_courtyard",
+        "reserved_garage_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "Trinity Place",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045272956164276",
+      "posted_at": "Wednesday 28 October 2026 at 06:24",
+      "first_scraped_at": "2026-10-28T16:00:06.553340+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for someone to take over my lease at Trinity Place (1190 Mission St) starting immediately! Horizon-to-horizon savings: the sublease",
+      "group_id": "242765489748374"
     }
   ]
 }
