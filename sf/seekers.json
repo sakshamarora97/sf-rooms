@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T10:07:19.238031",
-  "count": 3367,
+  "updated_at": "2026-10-28T11:08:13.985158",
+  "count": 3368,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107434,6 +107434,41 @@
       "first_scraped_at": "2026-10-28T17:00:03.579790+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Roommates Hayes Valley 4 BR for Nov 1st Hi people of FB! We are looking for 2 more people in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2045484542809784",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Mission Bay",
+        "Dogpatch",
+        "Potrero Hill",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Young professional; wants roommates in their 20s; no pets",
+      "reason": null,
+      "age": 23,
+      "bio": "Recent USC graduate working in real estate on the Peninsula, originally from San Diego. Clean, reliable non-smoker with no pets; enjoys golf, surfing, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045484542809784",
+      "posted_at": "Wednesday 28 October 2026 at 10:46",
+      "first_scraped_at": "2026-10-28T18:00:07.218740+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room, sublease, or roommates in San Francisco December move-in Hi everyone! I'm Christian, 23, and I'm moving to San Francisco",
       "group_id": "242765489748374"
     }
   ]
