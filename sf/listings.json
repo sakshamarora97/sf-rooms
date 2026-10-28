@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-27T16:08:37.480033",
-  "count": 2886,
+  "updated_at": "2026-10-27T17:07:24.970178",
+  "count": 2888,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -96272,6 +96272,70 @@
       "first_scraped_at": "2026-10-27T23:00:04.341359+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Private Single Room Private Bath in Furnished 2B2B at ACE Berkeley (2108 Berkeley Way) Free Early Move-In Dec 20! Hey",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4762621750639494",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Parkmerced",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "kitchen_access"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Pets",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4762621750639494",
+      "posted_at": "Tuesday 27 October 2026 at 15:48",
+      "first_scraped_at": "2026-10-28T00:00:03.579010+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "PARK MERCED, SAN FRANCISCO, CA** Looking for a place to call home? *Location:* Park Merced, San Francisco *Maximum occupancy:* 2",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1399217655311811",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "private_entrance",
+        "natural_light",
+        "large_closet",
+        "close_to_transit",
+        "near_grocery"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a male roommate",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1399217655311811",
+      "posted_at": "Tuesday 27 October 2026 at 16:22",
+      "first_scraped_at": "2026-10-28T00:00:03.579010+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "spring semester sublease! Jan may 2027 SUBLET NEEDED!! Jan-May 2027 Looking for someone to take over my lease for spring",
       "group_id": "558742412692677"
     }
   ]
