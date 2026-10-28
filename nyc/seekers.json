@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T12:24:04.552772",
-  "count": 583,
+  "updated_at": "2026-10-28T13:16:48.681966",
+  "count": 584,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18136,6 +18136,38 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Garrett moving to the east village (likely Murray hill) and looking for a roommate (or a shared place). My budget",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2260288267869301",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-09",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Chelsea",
+        "Hudson Yards",
+        "Hell's Kitchen"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent University of Delaware graduate relocating from San Francisco for a job starting Nov 9; seeking roommates on the West Side near Chelsea, Hudson Yards, or Hell's Kitchen. Clean, organized, social; enjoys cooking, reality TV, running, and thrifting.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260288267869301",
+      "posted_at": "Wednesday 28 October 2026 at 11:49",
+      "first_scraped_at": "2026-10-28T19:13:32.208359+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Apartment Hunt With! Hi! My name is Grace Visser and I'm moving to the city from San Francisco for a",
+      "group_id": "149460102285472"
     },
     {
       "listing_id": "998857075918302",
