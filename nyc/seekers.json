@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T10:15:29.904939",
-  "count": 580,
+  "updated_at": "2026-10-28T11:17:10.393937",
+  "count": 582,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18068,6 +18068,74 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Eli and I\u2019m looking for a roommate for a 2 br apartment in Harlem. a lil bit about",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2260221364542658",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Long Island City",
+        "Astoria",
+        "Brooklyn",
+        "Jersey City",
+        "Journal Square"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "26-year-old student; prefers a female roommate.",
+      "reason": "student",
+      "age": 26,
+      "bio": "26-year-old graphic designer and master's student at SVA. Easygoing, clean, respectful; enjoys music, working out, coffee, and cooking; often home late for schoolwork.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260221364542658",
+      "posted_at": "Wednesday 28 October 2026 at 10:16",
+      "first_scraped_at": "2026-10-28T18:08:20.256303+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "HUNTING BUDDIES! Hi! I\u2019m MJ, a 26yo graphic designer and master student at SVA. I\u2019m looking for 1\u20132 roommates to",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "998814632589213",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Murray Hill",
+        "Midtown",
+        "West Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Guy; wants one roommate; pets not mentioned",
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old sales professional relocating from Florida for work in catering management; clean, social, respectful roommate seeking long-term room.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/998814632589213",
+      "posted_at": "Wednesday 28 October 2026 at 10:44",
+      "first_scraped_at": "2026-10-28T18:08:20.256303+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Garrett moving to the east village (likely Murray hill) and looking for a roommate (or a shared place). My budget",
+      "group_id": "312692887868061"
     }
   ]
 }
