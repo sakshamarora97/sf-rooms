@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T14:07:17.567012",
-  "count": 2912,
+  "updated_at": "2026-10-28T15:07:12.315413",
+  "count": 2913,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -97140,6 +97140,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking to sublease this beautiful double in our Victorian style bay-window house for this spring. The sublease would be between",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2045579909466914",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 4288,
+      "neighborhood": "Potrero Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "courtyard",
+        "closet",
+        "modern_building"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 1 female",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045579909466914",
+      "posted_at": "Wednesday 28 October 2026 at 13:15",
+      "first_scraped_at": "2026-10-28T22:00:03.730934+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Master room with closet. 1B in a 2B2B. Modern building in Potrero Hill. Courtyard facing. Safe and quiet. Roommate: 31yo",
+      "group_id": "242765489748374"
     }
   ]
 }
