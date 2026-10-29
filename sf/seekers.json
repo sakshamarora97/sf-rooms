@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T16:07:21.975780",
-  "count": 3378,
+  "updated_at": "2026-10-28T17:06:52.713079",
+  "count": 3379,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107689,6 +107689,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "place to sublet! hi everyone! my name is Vanessa, and i\u2019m moving from toronto to san francisco for work at",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4763914477176888",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "North Beach",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old tech sales professional, easygoing, clean, and social; works from home most days but often at coffee shops.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4763914477176888",
+      "posted_at": "Wednesday 28 October 2026 at 15:21",
+      "first_scraped_at": "2026-10-28T23:00:05.609372+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Henry, 27, moving to SF from Austin for work in tech sales. Looking for a place of my own or",
+      "group_id": "2176716625896699"
     },
     {
       "listing_id": "28880574991599781",

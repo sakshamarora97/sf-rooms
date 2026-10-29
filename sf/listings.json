@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T16:07:21.975780",
-  "count": 2914,
+  "updated_at": "2026-10-28T17:06:52.713079",
+  "count": 2915,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -97214,6 +97214,44 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "subleasing my apartment at 388 Beale St in Rincon Hill starting immediately! At $2,000/month this is an unbeatable deal for",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4763626783872324",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 4285,
+      "neighborhood": null,
+      "area": "The Peninsula",
+      "available_from": "2026-12-15",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "central_air_conditioning",
+        "balcony",
+        "gym",
+        "pool",
+        "underground_parking",
+        "gated_access",
+        "amazon_locker"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Avalon Silicon Valley",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4763626783872324",
+      "posted_at": "Wednesday 28 October 2026 at 09:49",
+      "first_scraped_at": "2026-10-29T00:00:05.527021+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "@Sunnnyvale $4285 We're looking for 2 people to take over our 2 bed 2 bath lease in Avalon Silicon Valley",
+      "group_id": "2176716625896699"
     }
   ]
 }
