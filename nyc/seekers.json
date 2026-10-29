@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T13:15:24.530550",
-  "count": 612,
+  "updated_at": "2026-10-29T14:15:31.093605",
+  "count": 615,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19085,6 +19085,102 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Roommate 2B/2B in Newport Hoboken Move-in Nov 28 Hi everyone! I\u2019m Farhan, in my mid 20s working professional and I\u2019m",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2261377067760421",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "West Village",
+        "SoHo",
+        "NoLita",
+        "Williamsburg"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works in a tech company near Union Square; clean, easygoing and respectful. Enjoys exploring the city and going out; prefers a drama-free shared home.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261377067760421",
+      "posted_at": "Thursday 29 October 2026 at 13:47",
+      "first_scraped_at": "2026-10-29T21:06:00.825220+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Ben and I just moved to NYC- immediate move in! Im looking for a roomate (or a room in a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2261362267761901",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-16",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Doctor visiting NYC for residency interviews, seeking a clean, furnished private room in a shared apartment from Nov 16\u201330.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261362267761901",
+      "posted_at": "Thursday 29 October 2026 at 13:23",
+      "first_scraped_at": "2026-10-29T21:06:00.825220+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking to rent a private room in NYC (preferably Manhattan or Brooklyn) from November 16\u201330. I\u2019m a doctor coming to",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2261351167763011",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-20",
+      "move_out_date": "2027-03-01",
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 23,
+      "bio": "23-year-old violinist moving from Italy for a study project. Easy-going, practices during the day, enjoys cooking, exploring the city, and socializing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261351167763011",
+      "posted_at": "Thursday 29 October 2026 at 13:06",
+      "first_scraped_at": "2026-10-29T21:06:00.825220+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Alex, I\u2019m 23 and I\u2019ll be moving to NY from Italy for a study project. I\u2019m looking for",
+      "group_id": "149460102285472"
     }
   ]
 }
