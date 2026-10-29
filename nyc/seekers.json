@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T14:15:31.093605",
-  "count": 615,
+  "updated_at": "2026-10-29T15:14:28.752606",
+  "count": 616,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19181,6 +19181,37 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Alex, I\u2019m 23 and I\u2019ll be moving to NY from Italy for a study project. I\u2019m looking for",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28743043322031814",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "master bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28743043322031814",
+      "posted_at": "Thursday 29 October 2026 at 14:22",
+      "first_scraped_at": "2026-10-29T22:06:01.249303+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a sublet near Newport, Jersey City, for 1.5\u20132 months. Preference: Master bedroom in a shared apartment Location: Newport or nearby",
+      "group_id": "765841576845364"
     }
   ]
 }
