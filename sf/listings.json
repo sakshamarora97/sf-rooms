@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T07:06:01.151661",
-  "count": 2933,
+  "updated_at": "2026-10-29T08:06:42.387069",
+  "count": 2934,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -97850,6 +97850,37 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "spacious master bedroom with private restroom walk in closet, balcony is available in a 3b2b from 23rd December 2026 Located",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4764640403770962",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1526,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2026-11-20",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "LGBTQIA+ household; LGBTQIA+ encouraged to apply",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4764640403770962",
+      "posted_at": "Thursday 29 October 2026 at 05:56",
+      "first_scraped_at": "2026-10-29T14:00:05.525496+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "single bedroom in mission district Rent $1526 Hello Everyone, looking to fill single room in our 3bed 2 bath in",
+      "group_id": "2176716625896699"
     }
   ]
 }
