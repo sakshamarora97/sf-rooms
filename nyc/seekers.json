@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T07:13:12.742910",
-  "count": 605,
+  "updated_at": "2026-10-29T08:15:58.699780",
+  "count": 606,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18857,6 +18857,38 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Nate 32 looking to move back to Brooklyn between now and December. Ideally in Bed-Stuy, Bushwick, Crown Heights, or Williamsburg.",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2261097461121715",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Bushwick",
+        "Williamsburg"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "23-year-old relocating from Ireland for work; lived in Santa Barbara and Boston; enjoys sports and going out.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261097461121715",
+      "posted_at": "Thursday 29 October 2026 at 07:40",
+      "first_scraped_at": "2026-10-29T15:06:47.340556+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Patrick, I'm 23, and I'm moving from Ireland to NYC for work. I'm looking to move in sometime between now",
+      "group_id": "149460102285472"
     }
   ]
 }
