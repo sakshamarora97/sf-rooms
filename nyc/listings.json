@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T06:20:38.139278",
-  "count": 1624,
+  "updated_at": "2026-10-29T07:13:12.742910",
+  "count": 1625,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -54252,6 +54252,38 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "FOR RENT CASTLE HILL, BRONX! Watson Avenue Castle Hill, Bronx, NY $3,500/month NEGOTIABLE! Spacious, Bright Ready for Its Next Residents!",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28738078129195000",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1500,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "room_rental",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "near_transit",
+        "near_grocery",
+        "bus_to_NYC"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28738078129195000",
+      "posted_at": "Thursday 29 October 2026 at 06:55",
+      "first_scraped_at": "2026-10-29T14:06:06.287951+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for Sublease from December 1st! Looking for a spacious room in a convenient location? A big room is available for",
+      "group_id": "765841576845364"
     }
   ]
 }
