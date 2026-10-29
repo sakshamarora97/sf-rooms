@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T22:17:44.001540",
-  "count": 1622,
+  "updated_at": "2026-10-29T06:20:38.139278",
+  "count": 1624,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -54184,6 +54184,74 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "1-BEDROOM, 1-BATH IN REGO PARK Rent: $2,500/month One month broker fee applies This really nice 1-bed, 1-bath apartment is located",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "999425139194829",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "West New York",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-20",
+      "available_until": "2027-08-28",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "bus_stop_outside",
+        "bus_stop_behind",
+        "HBLR_nearby",
+        "good_commute_to_Manhattan"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/999425139194829",
+      "posted_at": "Thursday 29 October 2026 at 03:52",
+      "first_scraped_at": "2026-10-29T13:11:47.499330+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "West New York December Move-In! Hi everyone! My partner and I are looking for someone to take over our apartment",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "999120422558634",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "spacious kitchen",
+        "wood-look flooring",
+        "natural light",
+        "sunroom",
+        "living and dining areas",
+        "2nd floor of two-family townhouse"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/999120422558634",
+      "posted_at": "Wednesday 28 October 2026 at 19:34",
+      "first_scraped_at": "2026-10-29T13:11:47.499330+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "FOR RENT CASTLE HILL, BRONX! Watson Avenue Castle Hill, Bronx, NY $3,500/month NEGOTIABLE! Spacious, Bright Ready for Its Next Residents!",
+      "group_id": "312692887868061"
     }
   ]
 }

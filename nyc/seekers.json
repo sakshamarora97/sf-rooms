@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T22:17:44.001540",
-  "count": 601,
+  "updated_at": "2026-10-29T06:20:38.139278",
+  "count": 605,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18730,6 +18730,133 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "live in Harlem, I\u2019m looking for someone who wants to rent an apartment/basement 2 pieces, ideal $2,800 max (1,400 each)",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2260682554496539",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Harlem",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Pet-free",
+      "reason": null,
+      "age": 28,
+      "bio": "They work in HR, enjoy traveling and trying new restaurants, and like long nights out with friends. They are clean, responsible, considerate, and pet-free.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260682554496539",
+      "posted_at": "Wednesday 28 October 2026 at 22:20",
+      "first_scraped_at": "2026-10-29T13:11:47.499330+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "28 and am moving to NYC in early January 2027! I'm looking for either a one bedroom/studio to sublet, lease",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2260667817831346",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 23,
+      "bio": "23-year-old who is easygoing and friendly, loves exploring the city and trying new things. Rarely home, values privacy but wants roommates to occasionally hang out with.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260667817831346",
+      "posted_at": "Wednesday 28 October 2026 at 21:58",
+      "first_scraped_at": "2026-10-29T13:11:47.499330+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Marta, I\u2019m 23 and I\u2019m looking for a room in Manhattan, ideally moving in before December 17 or",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28737359395933540",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "32-year-old seeker; has a small dog",
+      "reason": null,
+      "age": 32,
+      "bio": "He is 32 and works hybrid in the city for an organic energy drink startup, spends a lot of time outdoors, and prefers a calm home.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28737359395933540",
+      "posted_at": "Thursday 29 October 2026 at 05:59",
+      "first_scraped_at": "2026-10-29T13:11:47.499330+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Franco, I\u2019m 32 and looking for a room or sublet starting nov 1st. I work hybrid in the city for",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "999469239190419",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Bushwick",
+        "Crown Heights",
+        "Williamsburg"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 32,
+      "bio": "Remote Epic engineer in healthcare IT seeking housing in Brooklyn. Enjoys the gym, trying restaurants, and spending time with friends and family; describes themself as clean, easygoing, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/999469239190419",
+      "posted_at": "Thursday 29 October 2026 at 04:55",
+      "first_scraped_at": "2026-10-29T13:11:47.499330+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Nate 32 looking to move back to Brooklyn between now and December. Ideally in Bed-Stuy, Bushwick, Crown Heights, or Williamsburg.",
+      "group_id": "312692887868061"
     }
   ]
 }
