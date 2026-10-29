@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T12:06:59.014556",
-  "count": 2935,
+  "updated_at": "2026-10-29T13:06:07.194181",
+  "count": 2937,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -97911,6 +97911,72 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "2b1b in South Berkeley. POC Queer disability inclusive 25+ folks to the front! Moving out of my place in Berkeley",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4764937213741281",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2900,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": "2027-02-15",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "fast_internet",
+        "views",
+        "natural_light",
+        "2_bathrooms"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4764937213741281",
+      "posted_at": "Thursday 29 October 2026 at 10:37",
+      "first_scraped_at": "2026-10-29T19:00:06.997564+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in North Beach My housemate is moving out and we have a room open from Nov 15 to Feb 15.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2046506086040963",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1500,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": "2026-12-04",
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "kitchen",
+        "living_area",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046506086040963",
+      "posted_at": "Thursday 29 October 2026 at 11:17",
+      "first_scraped_at": "2026-10-29T20:00:05.651169+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in Lower Pac Heights for Short Term Stay (Nov 15 Dec 4) I am subleasing my fully furnished bedroom in",
+      "group_id": "242765489748374"
     }
   ]
 }
