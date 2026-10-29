@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T21:18:57.014797",
-  "count": 599,
+  "updated_at": "2026-10-28T22:17:44.001540",
+  "count": 601,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18662,6 +18662,73 @@
       "first_scraped_at": "2026-10-29T04:08:06.114414+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "to see Iris van Herpen and need a room for 1 night Oct. 31st. Near Brooklyn preferable. Open to anywhere",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2260661707831957",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 23,
+      "bio": "Student at Baruch College who loves thrifting, socializing, and exploring the city. Easygoing, clean, and respectful of others' space.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260661707831957",
+      "posted_at": "Wednesday 28 October 2026 at 21:47",
+      "first_scraped_at": "2026-10-29T05:07:42.308294+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "or a Sublet in NYC (Dec/Jan) Yoo guys. My name is Marlowe, I\u2019m 23, and I\u2019m currently a student at",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2260652721166189",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "apartment",
+        "basement",
+        "2-piece"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Hoboken",
+        "Union City"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "34-year-old in Harlem; any gender, wants responsible roommate",
+      "reason": null,
+      "age": 34,
+      "bio": "Lives in Harlem and is seeking a roommate to rent a 2-piece apartment or basement in Brooklyn or Hoboken/Union City; budget up to $2,800 ($1,400 each).",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260652721166189",
+      "posted_at": "Wednesday 28 October 2026 at 21:32",
+      "first_scraped_at": "2026-10-29T05:07:42.308294+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "live in Harlem, I\u2019m looking for someone who wants to rent an apartment/basement 2 pieces, ideal $2,800 max (1,400 each)",
       "group_id": "149460102285472"
     }
   ]
