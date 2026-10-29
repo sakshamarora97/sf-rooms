@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T15:05:56.540602",
-  "count": 2939,
+  "updated_at": "2026-10-29T16:05:55.208883",
+  "count": 2940,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98047,6 +98047,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Blake, I\u2019m 23 and currently getting my master\u2019s in Marriage and Family Therapy at USF! My roommate Mai",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4765128383722164",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2939,
+      "neighborhood": "Walnut Creek",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2027-10-01",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "near_bart"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "The Overlook",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4765128383722164",
+      "posted_at": "Thursday 29 October 2026 at 14:15",
+      "first_scraped_at": "2026-10-29T23:00:05.482307+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "someone to take over my lease for a beautiful 1BR apartment at The Overlook in Walnut Creek, just steps from",
+      "group_id": "2176716625896699"
     }
   ]
 }

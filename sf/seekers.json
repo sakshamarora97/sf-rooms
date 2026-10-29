@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T15:05:56.540602",
-  "count": 3398,
+  "updated_at": "2026-10-29T16:05:55.208883",
+  "count": 3399,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108412,6 +108412,43 @@
       "first_scraped_at": "2026-10-29T21:00:05.420177+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Mike, 26, and I'm moving to San Francisco in early November for a new job at an AI startup. Looking",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2046625426029029",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Chinatown",
+        "Financial District",
+        "North Beach",
+        "Pacific Heights",
+        "Cow Hollow"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Woman; wants roommates who are friends; no pet",
+      "reason": null,
+      "age": null,
+      "bio": "Works in PR remotely four days a week, attends client events and enjoys fitness and cooking; pursuing yoga teacher training.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046625426029029",
+      "posted_at": "Thursday 29 October 2026 at 14:28",
+      "first_scraped_at": "2026-10-29T23:00:05.482307+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "to rent starting as early as December 1st Hi everyone! My name is Renin and I\u2019m looking for a room",
       "group_id": "242765489748374"
     }
   ]
