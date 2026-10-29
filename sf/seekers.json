@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T19:09:32.105655",
-  "count": 3379,
+  "updated_at": "2026-10-28T20:09:47.163156",
+  "count": 3380,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107822,6 +107822,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a 28-year-old working in tech sales, looking for a room or roommate(s) in SF. Originally from Minnesota, lived in Seattle",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4400426730268078",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a male roommate; ideally in their 20s",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recent Rutgers graduate and athlete working in tech sales, new to the Bay Area; fraternity member.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4400426730268078",
+      "posted_at": "Wednesday 28 October 2026 at 19:38",
+      "first_scraped_at": "2026-10-29T03:00:07.127690+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for a roommate and an apartment in the Bay Area, ideally near a BART station with an easy commute",
+      "group_id": "1511607562483357"
     }
   ]
 }
