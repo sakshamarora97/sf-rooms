@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T08:15:58.699780",
-  "count": 606,
+  "updated_at": "2026-10-29T09:15:41.311380",
+  "count": 609,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18889,6 +18889,101 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Patrick, I'm 23, and I'm moving from Ireland to NYC for work. I'm looking to move in sometime between now",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2917141821985416",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a room or existing sublease starting mid-December in Newport; prefers a master bedroom and a non-vegetarian roommate; needs walking distance to the PATH.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2917141821985416",
+      "posted_at": "Thursday 29 October 2026 at 08:24",
+      "first_scraped_at": "2026-10-29T16:06:38.801026+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for a room or an existing sublease starting in mid-December, with flexible dates! I\u2019m ideally looking in or near",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2917111818655083",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female vegetarians; working professionals welcome",
+      "reason": null,
+      "age": null,
+      "bio": "Enjoys good conversations, exploring new places and trying new food spots; wants roommates interested in a home-like, more-than-roommate arrangement.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2917111818655083",
+      "posted_at": "Thursday 29 October 2026 at 07:53",
+      "first_scraped_at": "2026-10-29T16:06:38.801026+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Roommates Newport, Jersey City Hi everyone! I\u2019m looking for female roommates who\u2019d be interested in finding and signing a lease",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "28739257319077081",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-08",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hoboken",
+        "Newport",
+        "Downtown Jersey City",
+        "Exchange Place",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old AI engineer from Argentina moving to Hoboken for a job; clean, quiet, seeking a similar young professional roommate.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28739257319077081",
+      "posted_at": "Thursday 29 October 2026 at 08:27",
+      "first_scraped_at": "2026-10-29T16:06:38.801026+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Agustin, 24, an AI engineer from Argentina. I am moving to New Jersey for a job in Hoboken starting January",
+      "group_id": "765841576845364"
     }
   ]
 }
