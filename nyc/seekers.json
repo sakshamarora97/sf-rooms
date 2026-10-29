@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T19:19:49.054583",
-  "count": 596,
+  "updated_at": "2026-10-28T20:20:19.468306",
+  "count": 597,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18568,6 +18568,39 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "a private master bedroom in high rises at Newport, Journal Square and Grove St, From November 1st, Please comment here",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2916489905383941",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-12-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Journal Square",
+        "Hoboken",
+        "Manhattan"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent Rutgers University graduate seeking an affordable one-month sublease.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2916489905383941",
+      "posted_at": "Wednesday 28 October 2026 at 19:23",
+      "first_scraped_at": "2026-10-29T03:09:51.436770+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Aditya Shah, a recent graduate from Rutgers University. Happy to be part of this community and connect with everyone here!",
+      "group_id": "1138638939835722"
     }
   ]
 }
