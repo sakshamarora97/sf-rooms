@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T15:14:28.752606",
-  "count": 616,
+  "updated_at": "2026-10-29T16:15:32.597501",
+  "count": 619,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19211,6 +19211,109 @@
       "first_scraped_at": "2026-10-29T22:06:01.249303+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "a sublet near Newport, Jersey City, for 1.5\u20132 months. Preference: Master bedroom in a shared apartment Location: Newport or nearby",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2261450791086382",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-13",
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Bed-Stuy",
+        "Bushwick",
+        "East Village",
+        "Lower East Side",
+        "SoHo",
+        "West Village",
+        "Greenpoint",
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "he/they",
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old in creative tech with a background in architecture. Social and active (concerts, climbing, fitness), non-drinker/non-smoker, keeps a relaxed clean home; hybrid worker.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261450791086382",
+      "posted_at": "Thursday 29 October 2026 at 15:40",
+      "first_scraped_at": "2026-10-29T23:05:59.933887+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "13th! Looking for an apartment roommates Brooklyn or lower Manhattan Budget: 1400-2000, flexible dependent on location/roommate situation Preferred Neighborhoods: Williamsburg,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2261405204424274",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Bushwick",
+        "Greenpoint",
+        "Lower East Side"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "Software engineer moving back to NYC for a new job; clean, tidy, communicative, social and active (biking, running, hiking); into film photography and music.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261405204424274",
+      "posted_at": "Thursday 29 October 2026 at 14:34",
+      "first_scraped_at": "2026-10-29T23:05:59.933887+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommates to sign on a Bedford Ave L apartment, or roommates to hunt together for a Nov 1 mid-Nov lease",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28743945751941571",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommate",
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28743945751941571",
+      "posted_at": "Thursday 29 October 2026 at 16:08",
+      "first_scraped_at": "2026-10-29T23:05:59.933887+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "private room or shared room for female for January month Near to journal square Any leads dm 2018880006",
       "group_id": "765841576845364"
     }
   ]
