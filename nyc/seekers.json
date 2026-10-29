@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T12:16:36.436270",
-  "count": 610,
+  "updated_at": "2026-10-29T13:15:24.530550",
+  "count": 612,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19019,6 +19019,72 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name\u2019s Amelia! I\u2019m a 23 year old ceramic artist in Brooklyn looking for roommates who want to apartment hunt together,",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2261303427767785",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-06-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "apartment",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "West Village",
+        "East Village",
+        "Jersey City"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent college graduate with an accounting degree and D3 field hockey experience, moving to NYC to start a full-time job at PwC. Active and social; enjoys cycling, running, restaurants, sports games, walks, shopping, and movie nights.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261303427767785",
+      "posted_at": "Thursday 29 October 2026 at 11:51",
+      "first_scraped_at": "2026-10-29T20:06:12.087826+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "FOR JUNE 2027! Hi everyone! I\u2019m looking for 2\u20133 roommates to move into an apartment/sublet in NYC (NYC area) sometime",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28741941015475378",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-28",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Working professional; wants a clean, organized roommate; has no pets.",
+      "reason": null,
+      "age": null,
+      "bio": "Working professional in their mid-20s seeking a roommate to sign a 2B/2B lease. Clean, respectful, non-smoker, no pets, active (gym, sports, food).",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28741941015475378",
+      "posted_at": "Thursday 29 October 2026 at 12:23",
+      "first_scraped_at": "2026-10-29T20:06:12.087826+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Roommate 2B/2B in Newport Hoboken Move-in Nov 28 Hi everyone! I\u2019m Farhan, in my mid 20s working professional and I\u2019m",
+      "group_id": "765841576845364"
     }
   ]
 }
