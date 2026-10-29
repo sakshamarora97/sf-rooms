@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T13:06:07.194181",
-  "count": 3397,
+  "updated_at": "2026-10-29T14:05:56.120548",
+  "count": 3398,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108378,6 +108378,41 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "spring sem private room!! Hello everyone im looking to sublease a private room for the spring semester only. I'd ideally",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2046596326031939",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-08",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3300,
+      "unit_type_wanted": [
+        "lease_takeover",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "Mission District",
+        "Mission Bay",
+        "Potrero Hill",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old sales professional relocating to San Francisco for a job at an AI startup; active, social, enjoys sports and values a clean, relaxed home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046596326031939",
+      "posted_at": "Thursday 29 October 2026 at 13:38",
+      "first_scraped_at": "2026-10-29T21:00:05.420177+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Mike, 26, and I'm moving to San Francisco in early November for a new job at an AI startup. Looking",
+      "group_id": "242765489748374"
     }
   ]
 }
