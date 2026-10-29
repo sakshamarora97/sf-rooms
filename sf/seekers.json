@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T08:06:42.387069",
-  "count": 3394,
+  "updated_at": "2026-10-29T09:06:34.500634",
+  "count": 3395,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108287,6 +108287,38 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "short term stay from Oct. 31st Nov 14th in Mountain View/surrounding areas. Budget is flexible, dates are not. Female only",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4764751617093174",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Nob Hill",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; wants a female roommate",
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old tech sales professional, in office four days a week; social, chill, and tidy roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4764751617093174",
+      "posted_at": "Thursday 29 October 2026 at 07:42",
+      "first_scraped_at": "2026-10-29T16:00:05.692283+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a new place to live in SF by dec 1. ideally would like to join an existing lease",
+      "group_id": "2176716625896699"
     }
   ]
 }
