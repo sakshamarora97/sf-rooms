@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T10:05:50.667274",
-  "count": 2934,
+  "updated_at": "2026-10-29T11:07:07.812009",
+  "count": 2935,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -97880,6 +97880,36 @@
       "first_scraped_at": "2026-10-29T14:00:05.525496+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "single bedroom in mission district Rent $1526 Hello Everyone, looking to fill single room in our 3bed 2 bath in",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4764903650411304",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1450,
+      "neighborhood": "South Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2027-05-31",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "furnished"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Nonbinary, Queer, POC roommate; prefers POC & Queer disabled folks; has a free-roam bunny, no other pets",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4764903650411304",
+      "posted_at": "Thursday 29 October 2026 at 10:06",
+      "first_scraped_at": "2026-10-29T18:00:06.449784+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "2b1b in South Berkeley. POC Queer disability inclusive 25+ folks to the front! Moving out of my place in Berkeley",
       "group_id": "2176716625896699"
     }
   ]
