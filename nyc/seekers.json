@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-28T17:15:28.674918",
-  "count": 593,
+  "updated_at": "2026-10-28T18:16:00.191625",
+  "count": 596,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -18473,6 +18473,101 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "to a 1 year lease. $1800 room monthly plus 1 month free rent, No broker fee. Roosevelt Island 4Bed 2",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2260486334516161",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2027-01-31",
+      "budget_min": null,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Upper East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": "relocation",
+      "age": 26,
+      "bio": "Works in tech, seeking a short-term furnished studio or 1BR in Manhattan.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260486334516161",
+      "posted_at": "Wednesday 28 October 2026 at 17:21",
+      "first_scraped_at": "2026-10-29T01:06:57.379116+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet a furnished Studio/1BR for move in ASAP through January (flexible) in Manhattan, preferably in the Upper East Side. My",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2260483834516411",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Lower East Side",
+        "East Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; prefers roommates around his age; null",
+      "reason": "relocation",
+      "age": 23,
+      "bio": "23-year-old male relocating from the Bay Area, seeking roommates to move in December/January; social, clean, enjoys sports, movies and nature.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2260483834516411",
+      "posted_at": "Wednesday 28 October 2026 at 17:16",
+      "first_scraped_at": "2026-10-29T01:06:57.379116+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Nick, I'm 23, and I'm looking for roommates around my age to move into an apartment in NYC",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28730279826641497",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Journal Square",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker urgently looking for a private master bedroom in high-rises in Newport, Journal Square, or Grove St; move-in November 1.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28730279826641497",
+      "posted_at": "Wednesday 28 October 2026 at 17:48",
+      "first_scraped_at": "2026-10-29T01:06:57.379116+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a private master bedroom in high rises at Newport, Journal Square and Grove St, From November 1st, Please comment here",
+      "group_id": "765841576845364"
     }
   ]
 }
