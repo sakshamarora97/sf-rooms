@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-28T21:08:01.667124",
-  "count": 3380,
+  "updated_at": "2026-10-28T22:07:37.303960",
+  "count": 3383,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -107851,6 +107851,96 @@
       "first_scraped_at": "2026-10-29T03:00:07.127690+00:00",
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking for a roommate and an apartment in the Bay Area, ideally near a BART station with an easy commute",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2045869592771279",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City",
+        "Treasure Island"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent San Jose State graduate moving to San Francisco for logistics work; social, clean, non-smoking roommate who enjoys food, gym, and exploring.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2045869592771279",
+      "posted_at": "Wednesday 28 October 2026 at 21:15",
+      "first_scraped_at": "2026-10-29T05:00:07.494502+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Daly City Treasure Island ~$1,300/mo Flexible move-in Hi everyone I'm Kai (23), a recent San Jose State grad (BS in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1400324605201116",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "UC Berkeley student seeking a private single room near campus for Spring 2027. Prefers under $1,600 and a furnished sublease or short-term lease, but is flexible.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1400324605201116",
+      "posted_at": "Wednesday 28 October 2026 at 21:56",
+      "first_scraped_at": "2026-10-29T05:00:07.494502+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "a UC Berkeley student looking for a **private single room for Spring 2027 (January\u2013May)**! I made a post recently looking",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4400333306944087",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Artist, non-smoker and non-drinker who keeps a neat, peaceful home and values quiet and clear communication. Enjoys cooking and baking and often shares meals.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4400333306944087",
+      "posted_at": "Wednesday 28 October 2026 at 21:55",
+      "first_scraped_at": "2026-10-29T05:00:07.494502+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for a cozy, peaceful spot to call home in San Francisco\u2014specifically a private bedroom with a private bathroom in",
       "group_id": "1511607562483357"
     }
   ]
