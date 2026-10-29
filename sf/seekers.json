@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T11:07:07.812009",
-  "count": 3395,
+  "updated_at": "2026-10-29T12:06:59.014556",
+  "count": 3397,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108319,6 +108319,65 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking for a new place to live in SF by dec 1. ideally would like to join an existing lease",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1400276035205973",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "North Berkeley",
+        "Downtown Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Family of three (husband present)",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Family of three seeking a furnished 2B1B near UC Berkeley or in North Berkeley; partner starts a postdoc at UC Berkeley and LBNL in November.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1400276035205973",
+      "posted_at": "Thursday 29 October 2026 at 00:59",
+      "first_scraped_at": "2026-10-29T19:00:06.997564+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "are looking for a furnished 2BR/1BA near campus or in North Berkeley for a family of three, starting in November",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1400331588533751",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a private room sublease for the spring semester; prefers a private bathroom but a private room without a bathroom is acceptable.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1400331588533751",
+      "posted_at": "Wednesday 28 October 2026 at 22:09",
+      "first_scraped_at": "2026-10-29T19:00:06.997564+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "spring sem private room!! Hello everyone im looking to sublease a private room for the spring semester only. I'd ideally",
+      "group_id": "558742412692677"
     }
   ]
 }
