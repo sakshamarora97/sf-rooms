@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T09:06:41.695307",
-  "count": 2955,
+  "updated_at": "2026-10-30T10:06:09.125305",
+  "count": 2956,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98556,6 +98556,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "available for sublease Available Nov 15-Dec 31, ~550 SF with balcony and view of Bay Bridge. Luxury studio, furnished. $3900",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1401710025062574",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-06-30",
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_kitchen",
+        "furnished",
+        "living_dining_area"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1401710025062574",
+      "posted_at": "Friday 30 October 2026 at 09:29",
+      "first_scraped_at": "2026-10-30T17:00:04.171555+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "private room near campus Jan\u2013June Subletting my private bedroom (Room C, ~100 sq ft) at 2701 Durant Ave Apt 21,",
+      "group_id": "558742412692677"
     }
   ]
 }

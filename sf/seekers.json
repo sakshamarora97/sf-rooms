@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T09:06:41.695307",
-  "count": 3408,
+  "updated_at": "2026-10-30T10:06:09.125305",
+  "count": 3410,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108736,6 +108736,68 @@
       "first_scraped_at": "2026-10-30T16:00:04.785426+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Henri, 23, from Belgium, and I\u2019ll be starting UC Berkeley\u2019s Master of Financial Engineering program in January 2027. I\u2019m looking",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4766034630298206",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B2B",
+        "2B/2B",
+        "2B/2B apartment",
+        "2 bed / 2 bath apartment"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Relocating to San Francisco; looking for a roommate to search for a 2B2B and move in ASAP; prefers 20\u201330 min public transit to FiDi.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4766034630298206",
+      "posted_at": "Friday 30 October 2026 at 08:11",
+      "first_scraped_at": "2026-10-30T17:00:04.171555+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "moving to San Francisco. I\u2019m looking for a roommate to search for a 2 bed 2 bath apartment with me,",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1401721688394741",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-06",
+      "move_out_date": "2027-05-06",
+      "budget_min": 1200,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates",
+      "reason": "internship",
+      "age": null,
+      "bio": "Seeking a furnished room in Berkeley for a research internship at Lawrence Berkeley National Laboratory; clean, quiet, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1401721688394741",
+      "posted_at": "Friday 30 October 2026 at 09:45",
+      "first_scraped_at": "2026-10-30T17:00:04.171555+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a furnished room (bed and desk) or short-term sublet in Berkeley from January 6 to May 6, 2027,",
       "group_id": "558742412692677"
     }
   ]
