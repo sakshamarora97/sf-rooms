@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T20:07:12.804270",
-  "count": 3401,
+  "updated_at": "2026-10-29T21:06:51.076124",
+  "count": 3403,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108514,6 +108514,75 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in SF! Budget around $3,000~ for my split would be great. I have a 3-year-old doodle named Oreo I\u2019m a",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2046816882676550",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-01-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Castro",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Works in fine dining and is moving from Los Angeles to start a program at SFSU; a creative economics student seeking a clean, cozy room with like-minded roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046816882676550",
+      "posted_at": "Thursday 29 October 2026 at 19:46",
+      "first_scraped_at": "2026-10-30T04:00:04.934830+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "it's a little early, but I'm preparing to move from Los Angeles to San Francisco to start a program at",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4401700686807349",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Pacific Heights",
+        "Financial District",
+        "Russian Hill",
+        "Potrero Hill",
+        "Mission Bay",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old consultant relocating to San Francisco; enjoys reading, jiu-jitsu, and pickleball. Clean, respectful, and easy to live with.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4401700686807349",
+      "posted_at": "Thursday 29 October 2026 at 20:46",
+      "first_scraped_at": "2026-10-30T04:00:04.934830+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Nariman (also go by Norman), 25, and I'm moving to San Francisco in early November from Chicago. I work in",
+      "group_id": "1511607562483357"
     }
   ]
 }

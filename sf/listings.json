@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T20:07:12.804270",
-  "count": 2945,
+  "updated_at": "2026-10-29T21:06:51.076124",
+  "count": 2947,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98232,6 +98232,67 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "2BR/1BA Near UC Berkeley Jan 2027 Move-In 2601 College Ave (Mark Twain Condominiums), Berkeley Southside/Elmwood One room available in a",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "4401277183516366",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 4000,
+      "neighborhood": "Menlo Park",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Linfield Oaks",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4401277183516366",
+      "posted_at": "Thursday 29 October 2026 at 20:47",
+      "first_scraped_at": "2026-10-30T04:00:04.934830+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "to lease a 2-bedroom, 1-bathroom apartment in Linfield Oaks, Menlo Park. It is available immediately and is perfect for anyone",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4401597976817620",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1575,
+      "neighborhood": "Milpitas",
+      "area": "South Bay",
+      "available_from": "2026-11-30",
+      "available_until": null,
+      "unit_config": "3B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "garage",
+        "street_parking",
+        "near_transit",
+        "near_highway"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with 2 people; wants roommate who values cleanliness and privacy; pets not allowed",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4401597976817620",
+      "posted_at": "Thursday 29 October 2026 at 20:46",
+      "first_scraped_at": "2026-10-30T04:00:04.934830+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "a roommate to fill 1B/1B in a 3B/3B townhouse in Milpitas! The room is available by end of November. The",
+      "group_id": "1511607562483357"
     }
   ]
 }
