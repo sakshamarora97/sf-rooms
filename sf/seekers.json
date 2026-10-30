@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T08:06:14.615229",
-  "count": 3407,
+  "updated_at": "2026-10-30T09:06:41.695307",
+  "count": 3408,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108705,6 +108705,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Hey everyone! I\u2019m looking for a roommate to find a 2b/2b together in North Beach or Rincon Hill. My budget",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1401668308400079",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Happy to live with pets",
+      "reason": "student",
+      "age": 23,
+      "bio": "Incoming UC Berkeley Master of Financial Engineering student starting Jan 2027. Tidy and respectful, enjoys tennis, chess and karting, seeking furnished studio/1BR or private room.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1401668308400079",
+      "posted_at": "Friday 30 October 2026 at 08:36",
+      "first_scraped_at": "2026-10-30T16:00:04.785426+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Henri, 23, from Belgium, and I\u2019ll be starting UC Berkeley\u2019s Master of Financial Engineering program in January 2027. I\u2019m looking",
+      "group_id": "558742412692677"
     }
   ]
 }

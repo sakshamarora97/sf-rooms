@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T08:06:14.615229",
-  "count": 2954,
+  "updated_at": "2026-10-30T09:06:41.695307",
+  "count": 2955,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98525,6 +98525,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "for Sublease Bayside Village, San Francisco Looking to sublease a master bedroom with a private bathroom in a spacious 2B2B",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4765668830334786",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3900,
+      "neighborhood": "Financial District",
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": "2026-12-31",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "balcony",
+        "bay_bridge_view"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "Gateway Apartments",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4765668830334786",
+      "posted_at": "Friday 30 October 2026 at 01:45",
+      "first_scraped_at": "2026-10-30T16:00:04.785426+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "available for sublease Available Nov 15-Dec 31, ~550 SF with balcony and view of Bay Bridge. Luxury studio, furnished. $3900",
+      "group_id": "2176716625896699"
     }
   ]
 }
