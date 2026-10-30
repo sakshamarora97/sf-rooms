@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T21:17:13.256246",
-  "count": 1705,
+  "updated_at": "2026-10-29T22:16:01.912474",
+  "count": 1706,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -56929,6 +56929,43 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "a single person or couple to sublet my fully furnished apartment in Stuytown for $5,600/ month. The apartment faces Stuyvesant",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28746226781713468",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1150,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "central_ac",
+        "heating",
+        "private_bathroom",
+        "shared_kitchen",
+        "furnished",
+        "tv_included",
+        "bed_included"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28746226781713468",
+      "posted_at": "Thursday 29 October 2026 at 20:11",
+      "first_scraped_at": "2026-10-30T05:06:10.872024+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "have a fully furnished private bedroom with its own attached private bathroom available. Private Bedroom Bathroom Fully furnished room Bed,",
+      "group_id": "765841576845364"
     }
   ]
 }
