@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T21:06:51.076124",
-  "count": 3403,
+  "updated_at": "2026-10-29T22:06:06.254247",
+  "count": 3405,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108583,6 +108583,67 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Nariman (also go by Norman), 25, and I'm moving to San Francisco in early November from Chicago. I work in",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2046896926001879",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Civic Center",
+        "Hayes Valley",
+        "Lower Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Registered nurse; wants 1\u20132 female roommates in their 20s.",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Registered nurse starting work in San Francisco; ambivert who enjoys exploring the city, cafes, working out, and cozy nights in.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046896926001879",
+      "posted_at": "Thursday 29 October 2026 at 21:51",
+      "first_scraped_at": "2026-10-30T05:00:05.967614+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hello everyone! My name is Sofia Punzalan, and I\u2019m in my mid-20s. I\u2019m a registered nurse and recently accepted a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2046835359341369",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent UCSB graduate moving to San Francisco to work in food justice and sustainability; currently working at Blue Bottle. Enjoys cooking, biking, sewing, and music.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046835359341369",
+      "posted_at": "Thursday 29 October 2026 at 20:14",
+      "first_scraped_at": "2026-10-30T05:00:05.967614+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "I\u2019m looking for a room/people to apply to places together in sf ASAP! My budget is 1200 and under. I\u2019m",
+      "group_id": "242765489748374"
     }
   ]
 }
