@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T15:05:57.979357",
-  "count": 3413,
+  "updated_at": "2026-10-30T16:06:07.671125",
+  "count": 3414,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108890,6 +108890,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a room in San Francisco, CA 94080 or Daly city.",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28915056801484933",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Female; has a 6-year-old ESA cat.",
+      "reason": null,
+      "age": 25,
+      "bio": "Works in construction as a union glazier with early weekday schedule; easygoing, respectful, and very tidy. Enjoys outdoor activities like hiking and fishing and is active in the community.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28915056801484933",
+      "posted_at": "Friday 30 October 2026 at 15:35",
+      "first_scraped_at": "2026-10-30T23:00:03.199942+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "my name is Shaidell (25F), and I\u2019m currently looking for a room or studio or 1b1ba to rent for myself",
+      "group_id": "843764532374203"
     }
   ]
 }

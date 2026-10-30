@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T15:05:57.979357",
-  "count": 2962,
+  "updated_at": "2026-10-30T16:06:07.671125",
+  "count": 2964,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98803,6 +98803,74 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "SOUTHSIDE, BERKELEY Looking for one female-identifying roommate to take over my half of a huge, sunny double on Southside! Dates:",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "28912557951734818",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 5831,
+      "neighborhood": "Burlingame",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": "2027-10-04",
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "garage_parking",
+        "ev_charging",
+        "pool",
+        "gym",
+        "rooftop_decks"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": "Revery Burlingame",
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Pets OK",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28912557951734818",
+      "posted_at": "Friday 30 October 2026 at 15:35",
+      "first_scraped_at": "2026-10-30T23:00:03.199942+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "a friend find someone to take over their lease in Burlingame: Revery Burlingame 2BR/2BA, 1,074 sq ft $5,831/mo (about $800",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2047599905931581",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1950,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_building_laundry",
+        "parking_available",
+        "shared_kitchen",
+        "shared_living_area"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "No pets",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047599905931581",
+      "posted_at": "Friday 30 October 2026 at 14:09",
+      "first_scraped_at": "2026-10-30T23:00:03.199942+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Bath, By Hayes Valley/Jefferson Square Park, Available Beginning Nov Private Bedroom Private Bath, By Hayes Valley/Jefferson Square Park, Available Beginning",
+      "group_id": "242765489748374"
     }
   ]
 }
