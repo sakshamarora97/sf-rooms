@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T09:14:16.357996",
-  "count": 629,
+  "updated_at": "2026-10-30T10:14:21.148054",
+  "count": 632,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19638,6 +19638,99 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Mike, 24 year old guy looking to move to Manhattan and find a roommate. Ideally looking in the LES, East",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2262227231008738",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Bed-Stuy",
+        "Williamsburg"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": 23,
+      "bio": "Filmmaker moving from London to NYC to work on creative projects and study for an EMT certification; social but works from home, clean and respectful.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262227231008738",
+      "posted_at": "Friday 30 October 2026 at 09:40",
+      "first_scraped_at": "2026-10-30T17:06:14.184839+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "A ROOM ROOMMATE IN BROOKLYN! Hey everyone! I\u2019m moving from London to NYC around December 1st and looking for an",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2262201817677946",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1750,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Kips Bay",
+        "Upper East Side",
+        "Hell's Kitchen",
+        "Murray Hill",
+        "Midtown East"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "Recent graduate working in the city, seeks a clean shared apartment; social, likes cooking, bars, travel; works from home most days.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262201817677946",
+      "posted_at": "Friday 30 October 2026 at 09:08",
+      "first_scraped_at": "2026-10-30T17:06:14.184839+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a room in Manhattan, moving in December 1st. Hey everyone, I'm Ethan. I'm moving out of my current apartment in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1000624542408222",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-11-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1000624542408222",
+      "posted_at": "Friday 30 October 2026 at 09:55",
+      "first_scraped_at": "2026-10-30T17:06:14.184839+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "anyone is looking to sublet their place for Nov 1-15 please message me. I had an arragnment that fell out",
+      "group_id": "312692887868061"
     }
   ]
 }
