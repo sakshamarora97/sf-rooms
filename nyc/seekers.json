@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T18:15:03.513544",
-  "count": 620,
+  "updated_at": "2026-10-29T19:15:20.789703",
+  "count": 621,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19348,6 +19348,39 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "Ideally in Brooklyn, Queens, Jersey city, Manhattan As long as there is a decent subway or PATH train access to",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2261528444411950",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Bushwick",
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Girl; wants female roommates; has 2 ESA cats",
+      "reason": "other",
+      "age": 22,
+      "bio": "Studies strategic communications and works in PR; tidy, loves cooking and baking, seeks friendly respectful roommates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261528444411950",
+      "posted_at": "Thursday 29 October 2026 at 17:52",
+      "first_scraped_at": "2026-10-30T01:06:01.571713+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "22, moving back to NYC in December and looking for a room or girls to apartment hunt with! My budget",
+      "group_id": "149460102285472"
     }
   ]
 }
