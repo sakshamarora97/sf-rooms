@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T19:05:40.579771",
-  "count": 2943,
+  "updated_at": "2026-10-29T20:07:12.804270",
+  "count": 2945,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98174,6 +98174,64 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "SATURDAY 10/31| 1\u20134 PM NO TRICKS, JUST TREATS! Come discover your next home at 204 Garden Ln, Daly City, CA,",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4765337367034599",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2026-12-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4765337367034599",
+      "posted_at": "Thursday 29 October 2026 at 18:56",
+      "first_scraped_at": "2026-10-30T03:00:06.623315+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to fill an amazing place near the park for two months: November and December. Flexible on the ending. You can",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2778365489225922",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Elmwood",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "furnished"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Mark Twain Condominiums",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a female UC Berkeley student",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2778365489225922",
+      "posted_at": "Thursday 29 October 2026 at 19:45",
+      "first_scraped_at": "2026-10-30T03:00:06.623315+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "2BR/1BA Near UC Berkeley Jan 2027 Move-In 2601 College Ave (Mark Twain Condominiums), Berkeley Southside/Elmwood One room available in a",
+      "group_id": "128476910881473"
     }
   ]
 }
