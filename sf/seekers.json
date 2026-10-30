@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T07:05:26.333878",
-  "count": 3406,
+  "updated_at": "2026-10-30T08:06:14.615229",
+  "count": 3407,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108674,6 +108674,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "everyone! Accommodation is available in the Fremont area Dates: November 2026 August 2027 Open to: A shared Bedroom with Bathroom",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28888807567443190",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a social, outgoing tech worker based in FiDi, active in sports (HYROX, triathlons, cycling, skiing), and graduated from UW in 2024.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28888807567443190",
+      "posted_at": "Friday 30 October 2026 at 07:04",
+      "first_scraped_at": "2026-10-30T15:00:04.398462+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Hey everyone! I\u2019m looking for a roommate to find a 2b/2b together in North Beach or Rincon Hill. My budget",
+      "group_id": "843764532374203"
     }
   ]
 }

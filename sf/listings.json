@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T07:05:26.333878",
-  "count": 2953,
+  "updated_at": "2026-10-30T08:06:14.615229",
+  "count": 2954,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98493,6 +98493,38 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Roommate looking Private Room in West Oakland Home Looking for a chill, responsible person to share a 3 bed house",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "28906587075665239",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": "2026-11-30",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "waterfront",
+        "near_public_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Bayside Village",
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Wants female occupant",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28906587075665239",
+      "posted_at": "Friday 30 October 2026 at 07:04",
+      "first_scraped_at": "2026-10-30T15:00:04.398462+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "for Sublease Bayside Village, San Francisco Looking to sublease a master bedroom with a private bathroom in a spacious 2B2B",
+      "group_id": "843764532374203"
     }
   ]
 }
