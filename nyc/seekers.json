@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T16:15:32.597501",
-  "count": 619,
+  "updated_at": "2026-10-29T17:16:00.083448",
+  "count": 620,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19315,6 +19315,39 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "private room or shared room for female for January month Near to journal square Any leads dm 2018880006",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2917441965288735",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-26",
+      "move_out_date": "2026-12-05",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Queens",
+        "Jersey City",
+        "Manhattan"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term private room (Nov 26\u2013Dec 5) with decent subway or PATH access to NYC.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2917441965288735",
+      "posted_at": "Thursday 29 October 2026 at 15:14",
+      "first_scraped_at": "2026-10-30T00:07:36.173006+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Ideally in Brooklyn, Queens, Jersey city, Manhattan As long as there is a decent subway or PATH train access to",
+      "group_id": "1138638939835722"
     }
   ]
 }
