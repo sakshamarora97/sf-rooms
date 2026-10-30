@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T22:16:01.912474",
-  "count": 623,
+  "updated_at": "2026-10-30T06:16:00.167413",
+  "count": 627,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19452,6 +19452,132 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for my girlfriend and I ISO 1br 1b pet-friendly rental for me and my girlfriend in Brooklyn or Astoria. Dec",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2261887811042680",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-11",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "sublease",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Gal",
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old nurse relocating from San Diego; friendly, clean, reliable; enjoys music, photography, film, modeling, and trying restaurants.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261887811042680",
+      "posted_at": "Friday 30 October 2026 at 02:39",
+      "first_scraped_at": "2026-10-30T13:07:28.656783+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "ASAP! hi friends! i'm moving to NYC on november 11th and would love to find a place asap. looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2261543637743764",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Williamsburg",
+        "Downtown Brooklyn",
+        "Bushwick"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "22-year-old; wants roommates early 20s; no pets.",
+      "reason": "student",
+      "age": 22,
+      "bio": "22-year-old Business Management student, previously studied Fashion Business and Marketing; tidy, organized and easygoing; seeking a private room or up to two roommates to sign a lease.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261543637743764",
+      "posted_at": "Thursday 29 October 2026 at 18:15",
+      "first_scraped_at": "2026-10-30T13:07:28.656783+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "everyone! My name is Noella, I\u2019m 22 years old and currently living in NYC. I studied Fashion Business and Marketing,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2261543131077148",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Queens"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Student looking for a 2-bedroom apartment in Queens for up to $3,000/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2261543131077148",
+      "posted_at": "Thursday 29 October 2026 at 18:14",
+      "first_scraped_at": "2026-10-30T13:07:28.656783+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a student looking for an apartment in a good neighborhood in Queens. Looking for a 2 bedroom apartment around 3k/month",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28750952751240871",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "parking spot",
+        "driveway",
+        "garage spot"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Jersey City",
+        "Harsimus Cove",
+        "Hamilton Park"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28750952751240871",
+      "posted_at": "Friday 30 October 2026 at 04:35",
+      "first_scraped_at": "2026-10-30T13:07:28.656783+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "SPOT Hey all!! Looking to rent a driveway or parking lot/garage spot monthly. Starting 12/1, around Grove St/ Harismus Cove/Hamilton",
+      "group_id": "765841576845364"
     }
   ]
 }
