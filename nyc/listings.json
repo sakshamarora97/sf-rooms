@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T20:17:41.634769",
-  "count": 1703,
+  "updated_at": "2026-10-29T21:17:13.256246",
+  "count": 1705,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -56861,6 +56861,73 @@
       "first_scraped_at": "2026-10-30T03:07:17.481198+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "sublet in prime LES location Room for rent 3 month min/5 month max Having to leave temporarily for work. Room",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28746795611656585",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3500,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-01",
+      "available_until": "2027-01-01",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "furnished",
+        "gym",
+        "shuttle_service",
+        "kitchen_essentials"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28746795611656585",
+      "posted_at": "Thursday 29 October 2026 at 21:10",
+      "first_scraped_at": "2026-10-30T04:06:55.311867+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Furnished 1-Bedroom in Jersey City Price: $3,500/month Dates: December 1, 2026 January 1, 2027 Location: Jersey City (Great location!) About",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1000002892470387",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 5600,
+      "neighborhood": "Stuyvesant Town",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_gym",
+        "laundry_in_building",
+        "furnished",
+        "ample_closet_storage",
+        "near_grocery"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Wants a single person or couple",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1000002892470387",
+      "posted_at": "Thursday 29 October 2026 at 18:30",
+      "first_scraped_at": "2026-10-30T04:06:55.311867+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "a single person or couple to sublet my fully furnished apartment in Stuytown for $5,600/ month. The apartment faces Stuyvesant",
       "group_id": "312692887868061"
     }
   ]
