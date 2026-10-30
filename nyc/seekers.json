@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T15:12:36.895594",
-  "count": 634,
+  "updated_at": "2026-10-30T16:17:42.460860",
+  "count": 635,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19792,6 +19792,38 @@
       "first_scraped_at": "2026-10-30T21:06:37.297659+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Hey everyone! I\u2019m Jade, looking for a room in the NYC area! Budget: Ideally under $1,600/month, including utilities. Location: Manhattan",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2262469687651159",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Long Island City",
+        "Manhattan",
+        "Jersey City"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Wants women identifying only; has a cat",
+      "reason": null,
+      "age": 26,
+      "bio": "Works in tech remotely and is home during work hours. Quiet but outgoing; enjoys board game nights, bar hopping, fashion, tea, coffee and plants; has a cat.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262469687651159",
+      "posted_at": "Friday 30 October 2026 at 15:46",
+      "first_scraped_at": "2026-10-30T23:06:12.235248+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "(1-2) ASAP I'm looking for 1-2 roommates for a to apartment hunt with! move in date: January 1st (somewhat flexible)",
       "group_id": "149460102285472"
     }
   ]
