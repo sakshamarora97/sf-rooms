@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-29T19:15:20.789703",
-  "count": 621,
+  "updated_at": "2026-10-29T20:17:41.634769",
+  "count": 623,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19381,6 +19381,77 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "22, moving back to NYC in December and looking for a room or girls to apartment hunt with! My budget",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1000054759131867",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-09",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "SoHo",
+        "NoHo",
+        "Lower East Side",
+        "East Village",
+        "Williamsburg",
+        "Greenpoint",
+        "Bushwick",
+        "Long Island City",
+        "Astoria"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works remotely in digital marketing; tidy, easygoing, respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1000054759131867",
+      "posted_at": "Thursday 29 October 2026 at 19:59",
+      "first_scraped_at": "2026-10-30T03:07:17.481198+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "sublet in NYC from November 9 Hi everyone! I\u2019m Mau, and I\u2019m looking for a place to stay for about",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "1000048465799163",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Astoria"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple; wants pet-friendly rental.",
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a pet-friendly 1B1B in Brooklyn or Astoria with a Dec 1 move-in and budget up to $2800/month.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1000048465799163",
+      "posted_at": "Thursday 29 October 2026 at 19:48",
+      "first_scraped_at": "2026-10-30T03:07:17.481198+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "for my girlfriend and I ISO 1br 1b pet-friendly rental for me and my girlfriend in Brooklyn or Astoria. Dec",
+      "group_id": "312692887868061"
     }
   ]
 }
