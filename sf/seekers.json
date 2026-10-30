@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T13:06:25.399635",
-  "count": 3411,
+  "updated_at": "2026-10-30T14:06:32.770161",
+  "count": 3412,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108830,6 +108830,35 @@
       "first_scraped_at": "2026-10-30T18:00:03.911188+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "2B/2B Hi everyone, My name is Mihika Sanghvi. My roommate and I are looking for a 2b/2b apartment in San",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2047531195938452",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 850,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Guy; wants room or small studio; has a hypoallergenic cat",
+      "reason": null,
+      "age": null,
+      "bio": "He is a Bay Area native who works onsite for the City and County of San Francisco. Active and chill: plays sports, skates, makes music, and has a hypoallergenic cat.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047531195938452",
+      "posted_at": "Friday 30 October 2026 at 12:16",
+      "first_scraped_at": "2026-10-30T21:00:03.604117+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "space for my cat and I. Hey there! Interested in renting a room or taking over a small studio! Ideally",
       "group_id": "242765489748374"
     }
   ]
