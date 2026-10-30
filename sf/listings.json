@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T11:06:13.985382",
-  "count": 2956,
+  "updated_at": "2026-10-30T12:06:04.200535",
+  "count": 2957,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98589,6 +98589,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "private room near campus Jan\u2013June Subletting my private bedroom (Room C, ~100 sq ft) at 2701 Durant Ave Apt 21,",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2047468429278062",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-03-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "gym",
+        "private_courtyard",
+        "doorman",
+        "resident_lounge"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "Trinity Place",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047468429278062",
+      "posted_at": "Friday 30 October 2026 at 10:44",
+      "first_scraped_at": "2026-10-30T19:00:03.731719+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking to sublease my unit at Trinity Place in SoMa. It\u2019s available immediately, and the current lease runs through March",
+      "group_id": "242765489748374"
     }
   ]
 }
