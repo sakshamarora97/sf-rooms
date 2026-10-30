@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T14:06:32.770161",
-  "count": 3412,
+  "updated_at": "2026-10-30T15:05:57.979357",
+  "count": 3413,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108859,6 +108859,36 @@
       "first_scraped_at": "2026-10-30T21:00:03.604117+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "space for my cat and I. Hey there! Interested in renting a room or taking over a small studio! Ideally",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2047579202600318",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047579202600318",
+      "posted_at": "Friday 30 October 2026 at 13:35",
+      "first_scraped_at": "2026-10-30T22:00:03.100105+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a room in San Francisco, CA 94080 or Daly city.",
       "group_id": "242765489748374"
     }
   ]
