@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T10:14:21.148054",
-  "count": 632,
+  "updated_at": "2026-10-30T11:14:57.791484",
+  "count": 633,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19731,6 +19731,36 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "anyone is looking to sublet their place for Nov 1-15 please message me. I had an arragnment that fell out",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2262267214338073",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-11-14",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "West Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Seeks a short sublet from 2026-11-01 to 2026-11-14; currently based in the West Village and open to any area.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262267214338073",
+      "posted_at": "Friday 30 October 2026 at 10:30",
+      "first_scraped_at": "2026-10-30T18:06:18.672783+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet from 11/1 to 11/14 in between moves! Currently based in the West Village but open to any area. Urgent",
+      "group_id": "149460102285472"
     }
   ]
 }
