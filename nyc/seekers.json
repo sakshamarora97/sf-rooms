@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T07:13:21.411587",
-  "count": 628,
+  "updated_at": "2026-10-30T08:16:10.184081",
+  "count": 629,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19607,6 +19607,37 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "Studio/1b sublet from December 23rd to 28th",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2262080207690107",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lower East Side",
+        "East Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Guy",
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old guy seeking a roommate in Manhattan; clean, easygoing, enjoys sports, the gym, and going out.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262080207690107",
+      "posted_at": "Friday 30 October 2026 at 06:44",
+      "first_scraped_at": "2026-10-30T15:06:19.866106+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Mike, 24 year old guy looking to move to Manhattan and find a roommate. Ideally looking in the LES, East",
+      "group_id": "149460102285472"
     }
   ]
 }
