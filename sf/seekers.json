@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T10:06:09.125305",
-  "count": 3410,
+  "updated_at": "2026-10-30T11:06:13.985382",
+  "count": 3411,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108799,6 +108799,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking for a furnished room (bed and desk) or short-term sublet in Berkeley from January 6 to May 6, 2027,",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2047366775954894",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-25",
+      "move_out_date": null,
+      "budget_min": 2600,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill",
+        "Mission Bay",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two tech workers seeking a 2B2B apartment in San Francisco. They say they are friendly, clean, and enjoy caf\u00e9s and hanging out with friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047366775954894",
+      "posted_at": "Friday 30 October 2026 at 08:34",
+      "first_scraped_at": "2026-10-30T18:00:03.911188+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "2B/2B Hi everyone, My name is Mihika Sanghvi. My roommate and I are looking for a 2b/2b apartment in San",
+      "group_id": "242765489748374"
     }
   ]
 }
