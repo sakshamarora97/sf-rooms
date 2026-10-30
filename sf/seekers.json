@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T16:05:55.208883",
-  "count": 3399,
+  "updated_at": "2026-10-29T17:07:31.665215",
+  "count": 3401,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108449,6 +108449,70 @@
       "first_scraped_at": "2026-10-29T23:00:05.482307+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "to rent starting as early as December 1st Hi everyone! My name is Renin and I\u2019m looking for a room",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2046696746021897",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill",
+        "Pacific Heights",
+        "Cow Hollow",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Woman; has a small ESA dog",
+      "reason": null,
+      "age": null,
+      "bio": "She is an outdoorsy, social person who enjoys exploring neighborhoods, coffee shops, happy hours, and restaurants. She has a small trained ESA dog and is seeking a studio or room/lease takeover.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046696746021897",
+      "posted_at": "Thursday 29 October 2026 at 16:35",
+      "first_scraped_at": "2026-10-30T00:00:05.201884+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a studio or a room in a house to take over a lease in San Francisco. Budget: $1,800\u2013$2,200/month Move-in: ASAP",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2046652446026327",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "PhD student; has a dog",
+      "reason": "student",
+      "age": null,
+      "bio": "Full-time PhD student seeking roommates; values a chill, easygoing atmosphere and would prefer parking; has a 3-year-old doodle.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046652446026327",
+      "posted_at": "Thursday 29 October 2026 at 15:17",
+      "first_scraped_at": "2026-10-30T00:00:05.201884+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in SF! Budget around $3,000~ for my split would be great. I have a 3-year-old doodle named Oreo I\u2019m a",
       "group_id": "242765489748374"
     }
   ]

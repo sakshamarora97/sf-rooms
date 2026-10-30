@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-29T16:05:55.208883",
-  "count": 2940,
+  "updated_at": "2026-10-29T17:07:31.665215",
+  "count": 2942,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98076,6 +98076,70 @@
       "first_scraped_at": "2026-10-29T23:00:05.482307+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "someone to take over my lease for a beautiful 1BR apartment at The Overlook in Walnut Creek, just steps from",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4765207013714301",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3000,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-11-06",
+      "available_until": "2026-12-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "shared_living_spaces",
+        "kitchen",
+        "balcony"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4765207013714301",
+      "posted_at": "Thursday 29 October 2026 at 16:04",
+      "first_scraped_at": "2026-10-30T00:00:05.201884+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "bedroom with private bathroom sublet in San Francisco $3,000/month Hi! I\u2019m subletting my furnished master bedroom with a private bathroom",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4765188837049452",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1450,
+      "neighborhood": "Haight-Ashbury",
+      "area": "San Francisco",
+      "available_from": "2026-11-05",
+      "available_until": "2027-01-02",
+      "unit_config": "5B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "backyard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4765188837049452",
+      "posted_at": "Thursday 29 October 2026 at 15:37",
+      "first_scraped_at": "2026-10-30T00:00:05.201884+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Haight-Ashbury Nov 5 Jan 2 (dates flexible) Hi everyone! I'm looking to sublet my bedroom in a 5-bed, 3-bath house",
       "group_id": "2176716625896699"
     }
   ]
