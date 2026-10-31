@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T17:06:19.409100",
-  "count": 2965,
+  "updated_at": "2026-10-30T18:07:01.665347",
+  "count": 2966,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98902,6 +98902,36 @@
       "first_scraped_at": "2026-10-31T00:00:07.017767+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "those visiting SF, just a block away from Crooked Lombard street. I have a furnished bedroom in Russian Hill with",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2047691345922437",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3100,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a female and a male roommate; prefers a female roommate",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047691345922437",
+      "posted_at": "Friday 30 October 2026 at 16:54",
+      "first_scraped_at": "2026-10-31T01:00:03.741461+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Nob Hill Dec 1 move in (12mo lease) Details/Amenities: 1590 sqft apartment on floor 1 with great natural lighting Master",
       "group_id": "242765489748374"
     }
   ]
