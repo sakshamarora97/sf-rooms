@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T14:06:44.647336",
-  "count": 3000,
+  "updated_at": "2026-10-31T15:05:47.460736",
+  "count": 3001,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -100013,6 +100013,44 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Blocks from the UC Berkeley campus Private Rooms starting at $1940 Shared Rooms starting at $1220 Spring Semester 12-month leases",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2048606515830920",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3900,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "jacuzzi",
+        "sauna",
+        "grill",
+        "terrace",
+        "in_unit_laundry",
+        "furnished",
+        "high_floor",
+        "views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "The Canyon",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a male tenant; wants a friendly, clean, responsible roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2048606515830920",
+      "posted_at": "Saturday 31 October 2026 at 14:09",
+      "first_scraped_at": "2026-10-31T22:00:03.533814+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "rise building 2BR/2BA, master bedroom unit available starting Nov 1st. Building is modern with pretty nice amenities: gym, jacuzzi, sauna,",
+      "group_id": "242765489748374"
     }
   ]
 }
