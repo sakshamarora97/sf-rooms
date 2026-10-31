@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T12:15:10.198301",
-  "count": 655,
+  "updated_at": "2026-10-31T13:13:58.798422",
+  "count": 657,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20441,6 +20441,95 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "$1,500 (flexible) Looking to sublease for a few months before I find something more permanent. Flexible on location and budget.",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28770383149297831",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-16",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown East",
+        "Murray Hill",
+        "Kips Bay",
+        "Upper East Side",
+        "Financial District",
+        "Battery Park City",
+        "Long Island City",
+        "Astoria",
+        "Hoboken",
+        "Jersey City",
+        "Newport",
+        "Exchange Place"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants all-female roommates",
+      "reason": "relocation",
+      "age": 30,
+      "bio": "30-year-old finance professional working hybrid; tidy, organized, social; enjoys dancing, traveling, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28770383149297831",
+      "posted_at": "Saturday 31 October 2026 at 12:20",
+      "first_scraped_at": "2026-10-31T20:06:54.337227+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Studio Move-in Mid-Nov Easy Commute to Lexington Ave (Midtown East) Hey everyone! I\u2019m moving from India to NYC and looking",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1001677158969627",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Battery Park City",
+        "Tribeca",
+        "Financial District",
+        "West Village",
+        "Chelsea",
+        "Greenwich Village",
+        "NoHo",
+        "Gramercy",
+        "Flatiron",
+        "NoMad",
+        "Kips Bay",
+        "Murray Hill",
+        "Hudson Yards",
+        "Downtown Brooklyn",
+        "DUMBO",
+        "Williamsburg",
+        "Brooklyn Heights"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "New grad; prefers female roommates",
+      "reason": null,
+      "age": null,
+      "bio": "Recent graduate seeking a ~6-month short-term lease or lease takeover; open to roommates and prefers female roommates.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1001677158969627",
+      "posted_at": "Saturday 31 October 2026 at 13:10",
+      "first_scraped_at": "2026-10-31T20:06:54.337227+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "new grad looking for a ~6 month, short-term lease lease takeover. Open to roommates, preferably female. Opportunity to renew is",
+      "group_id": "312692887868061"
     }
   ]
 }
