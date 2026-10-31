@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T17:14:04.450923",
-  "count": 1763,
+  "updated_at": "2026-10-30T18:15:19.630110",
+  "count": 1764,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -58922,6 +58922,46 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "UNITS. YOUR NEXT MOVE? Open House Tomorrow Saturday, October 31 2\u20134 PM 342 E 194th Street, Bronx, NY 10458 Looking",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2262537917644336",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 3565,
+      "neighborhood": null,
+      "area": null,
+      "available_from": "2026-12-27",
+      "available_until": "2027-06-27",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "pool",
+        "hot_tubs",
+        "bowling_alley",
+        "yoga_studio",
+        "spin_studio",
+        "golf_simulator",
+        "resident_lounge",
+        "rooftop",
+        "dog_park"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Pets OK (dog-friendly)",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262537917644336",
+      "posted_at": "Friday 30 October 2026 at 17:40",
+      "first_scraped_at": "2026-10-31T01:07:06.059890+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Bath Apartment 1 Bed 1 Bath, PRIVATE Apartment (NO ROOMMATES) LEASE TAKEOVER 12/27/2026 6/27/2027 (start date flexible: Jan or Feb",
+      "group_id": "149460102285472"
     }
   ]
 }

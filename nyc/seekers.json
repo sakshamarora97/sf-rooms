@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T17:14:04.450923",
-  "count": 637,
+  "updated_at": "2026-10-30T18:15:19.630110",
+  "count": 639,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19862,6 +19862,37 @@
       "group_id": "149460102285472"
     },
     {
+      "listing_id": "28758762820459864",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Union City",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28758762820459864",
+      "posted_at": "Friday 30 October 2026 at 16:56",
+      "first_scraped_at": "2026-10-31T00:06:24.027204+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for temporary shared accommodation from Dec 1st near Union city,NJ or Jersey city, North Bergen. Please text me to the",
+      "group_id": "765841576845364"
+    },
+    {
       "listing_id": "28758482903821189",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -19888,6 +19919,34 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "for 1 month in New jersey near lincoln street for Nov month, if anyone has anything pls dm. Preferred private",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2262533557644772",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker looking for a one-month sublet in November with a $1,500 budget, open to locations within a one-hour commute to Manhattan.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262533557644772",
+      "posted_at": "Friday 30 October 2026 at 17:33",
+      "first_scraped_at": "2026-10-31T01:07:06.059890+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "This is a repost but I am still looking for a sublet for the month of November while I find",
+      "group_id": "149460102285472"
     }
   ]
 }
