@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T20:06:16.397170",
-  "count": 3416,
+  "updated_at": "2026-10-30T21:06:42.099125",
+  "count": 3418,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108978,6 +108978,73 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Married SFSU couple (23 and 22 male) looking to take over a sublease. We both work full time (one at",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2047789542579284",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "private room",
+        "studio",
+        "2B2B",
+        "lease takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Dogpatch",
+        "Potrero Hill",
+        "Mission Bay",
+        "SoMa",
+        "South Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": "relocation",
+      "age": 28,
+      "bio": "28-year-old front-end developer working in tech who will commute to Mountain View 2\u20133 days/week. Enjoys hiking, photography, running, and racket sports.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047789542579284",
+      "posted_at": "Friday 30 October 2026 at 19:26",
+      "first_scraped_at": "2026-10-31T04:00:06.177830+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "28M, working in tech as FDE, and planning to move from santa clara to SF around early december. Ideally I\u2019m",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1402123428354567",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-06-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Emeryville"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a roommate for a 2B2B apartment in Emeryville starting Jan 1, 2027; offers private bedroom and bathroom and in-unit washer/dryer.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1402123428354567",
+      "posted_at": "Friday 30 October 2026 at 20:51",
+      "first_scraped_at": "2026-10-31T04:00:06.177830+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "a roommate in my 2B2B apartment in Emeryville from January 1, 2027 to at least June 1, 2027. You will",
+      "group_id": "558742412692677"
     }
   ]
 }
