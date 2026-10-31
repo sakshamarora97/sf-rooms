@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T10:14:38.504255",
-  "count": 652,
+  "updated_at": "2026-10-31T11:13:59.473697",
+  "count": 654,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20352,6 +20352,66 @@
       "first_scraped_at": "2026-10-31T17:07:26.537822+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "room to rent ASAP- Astoria- NY 11102",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2919472245085707",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "master bedroom",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female household",
+      "reason": null,
+      "age": null,
+      "bio": "Is an artist from Karnataka who works in NYC, commutes to the office three days a week, neat and easygoing, enjoys caf\u00e9s and travel.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2919472245085707",
+      "posted_at": "Saturday 31 October 2026 at 09:06",
+      "first_scraped_at": "2026-10-31T18:07:02.932481+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "master bedroom in a female household Newport, Jersey City Hi everyone! I\u2019m looking for a master bedroom, preferably with an",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2263303124234482",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-03",
+      "move_out_date": "2026-11-08",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "apartment"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Artist and painter visiting NYC to explore the art scene; first-time visitor seeking a warm, good-vibes place for a short stay.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2263303124234482",
+      "posted_at": "Saturday 31 October 2026 at 10:26",
+      "first_scraped_at": "2026-10-31T18:07:02.932481+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "days for 3-8 November Room/apartment for 5 days between November 3-8 Hi everyone! I\u2019m visiting NYC next week between November",
       "group_id": "149460102285472"
     }
   ]
