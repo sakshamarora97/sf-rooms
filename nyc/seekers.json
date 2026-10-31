@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T22:15:04.314808",
-  "count": 644,
+  "updated_at": "2026-10-31T06:16:34.900760",
+  "count": 647,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20105,6 +20105,97 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "for an apartment in Brooklyn (Williamsburg or greenpoint are top of my list but open to options). I would love",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28766247879711358",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 600,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Hoboken",
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28766247879711358",
+      "posted_at": "Saturday 31 October 2026 at 06:00",
+      "first_scraped_at": "2026-10-31T13:09:11.014223+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a Private Room I'm looking for a furnished private room in Jersey City near Journal Square, Hoboken, or Newport, within",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28762479893421490",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Working professional; wants all-female apartment",
+      "reason": null,
+      "age": null,
+      "bio": "Working professional seeking a private bedroom in an all-female apartment in Jersey City, commuting to NYC.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28762479893421490",
+      "posted_at": "Friday 30 October 2026 at 23:30",
+      "first_scraped_at": "2026-10-31T13:09:11.014223+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "private room in an all female apt Hi everyone! I\u2019m looking for a private bedroom with an in an all-girls",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28761850096817803",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28761850096817803",
+      "posted_at": "Friday 30 October 2026 at 22:18",
+      "first_scraped_at": "2026-10-31T13:09:11.014223+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Available in/near Sicklerville NJ?",
+      "group_id": "765841576845364"
     }
   ]
 }
