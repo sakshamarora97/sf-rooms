@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T21:06:42.099125",
-  "count": 2972,
+  "updated_at": "2026-10-30T22:06:55.141360",
+  "count": 2974,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -99124,6 +99124,77 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Trinity Place, SOMA San Francisco Nov 1 Move-in (ASAP) Hey everyone! I'm looking for someone to join me on a",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4766704550231214",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Sunnyside",
+      "area": "San Francisco",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "back_yard",
+        "private_attached_bath"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4766704550231214",
+      "posted_at": "Friday 30 October 2026 at 21:12",
+      "first_scraped_at": "2026-10-31T05:00:05.014801+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "been approved for a 4b2b apartment! I am looking to live in a social household that is not too loud",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4766557480245921",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 4200,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "golden_gate_view",
+        "kitchen",
+        "work_from_home_setup",
+        "gym",
+        "pool",
+        "smart_tv",
+        "high_speed_wifi",
+        "dishwasher",
+        "shared_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4766557480245921",
+      "posted_at": "Friday 30 October 2026 at 18:03",
+      "first_scraped_at": "2026-10-31T05:00:05.014801+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Gate View 1BR Pacific Heights DEC Onwards (possibility of extending) 4200 per month or best offer Wake up to breathtaking",
+      "group_id": "2176716625896699"
     }
   ]
 }
