@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T06:16:34.900760",
-  "count": 647,
+  "updated_at": "2026-10-31T07:14:34.143663",
+  "count": 649,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20195,6 +20195,71 @@
       "first_scraped_at": "2026-10-31T13:09:11.014223+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Available in/near Sicklerville NJ?",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2262814047616723",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1100,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Has no pets; open to pets",
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old with a BA in Biochemistry starting a dental assistant job; outgoing, clean, enjoys yoga, gardening and travel.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262814047616723",
+      "posted_at": "Saturday 31 October 2026 at 00:17",
+      "first_scraped_at": "2026-10-31T14:07:08.778823+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Emri and I am looking for roommates/room sublet ASAP (early November) Im looking to either sign a long",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28766581413011338",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2800,
+      "budget_max": 3400,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "Relocating from London for a corporate Midtown job; works 9\u20135 weekdays. Tidy, quiet, non-smoking, drinks rarely, respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28766581413011338",
+      "posted_at": "Saturday 31 October 2026 at 06:29",
+      "first_scraped_at": "2026-10-31T14:07:08.778823+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Vivek, 28, relocating to New York for a corporate job in Midtown Manhattan, working in office 9-5 (Mon-Fri). I'm looking",
       "group_id": "765841576845364"
     }
   ]
