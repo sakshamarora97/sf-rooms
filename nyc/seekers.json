@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T11:13:59.473697",
-  "count": 654,
+  "updated_at": "2026-10-31T12:15:10.198301",
+  "count": 655,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20412,6 +20412,34 @@
       "first_scraped_at": "2026-10-31T18:07:02.932481+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "days for 3-8 November Room/apartment for 5 days between November 3-8 Hi everyone! I\u2019m visiting NYC next week between November",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2263354880895973",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a short-term sublet for a few months; flexible on location and budget; available to move ASAP.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2263354880895973",
+      "posted_at": "Saturday 31 October 2026 at 11:34",
+      "first_scraped_at": "2026-10-31T19:07:04.069126+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "$1,500 (flexible) Looking to sublease for a few months before I find something more permanent. Flexible on location and budget.",
       "group_id": "149460102285472"
     }
   ]
