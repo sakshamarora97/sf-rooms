@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T18:07:01.665347",
-  "count": 3415,
+  "updated_at": "2026-10-30T19:06:59.582263",
+  "count": 3416,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108950,6 +108950,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a place to move into by \ud835\uddd7\ud835\uddf2\ud835\uddf0\ud835\uddf2\ud835\uddfa\ud835\uddef\ud835\uddf2\ud835\uddff \ud835\udfed\ud835\ude00\ud835\ude01/ \ud835\uddfa\ud835\uddf6\ud835\uddf1 \ud835\uddd7\ud835\uddf2\ud835\uddf0\ud835\uddf2\ud835\uddfa\ud835\uddef\ud835\uddf2\ud835\uddff for ideally a long term lease if you",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4766320266936309",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Couple; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "Married couple seeking a sublease; both work full-time (one at Stanford, one at Amazon); no pets; one car.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4766320266936309",
+      "posted_at": "Friday 30 October 2026 at 12:59",
+      "first_scraped_at": "2026-10-31T02:00:03.687549+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Married SFSU couple (23 and 22 male) looking to take over a sublease. We both work full time (one at",
+      "group_id": "2176716625896699"
     }
   ]
 }
