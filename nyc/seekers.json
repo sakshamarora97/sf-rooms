@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T08:14:20.742267",
-  "count": 649,
+  "updated_at": "2026-10-31T09:13:48.481707",
+  "count": 651,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20261,6 +20261,68 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Vivek, 28, relocating to New York for a corporate job in Midtown Manhattan, working in office 9-5 (Mon-Fri). I'm looking",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28768118999524246",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-02",
+      "move_out_date": "2026-12-25",
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old working in tech who is clean, quiet, and respectful; flexible on location for Manhattan commute.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28768118999524246",
+      "posted_at": "Saturday 31 October 2026 at 08:42",
+      "first_scraped_at": "2026-10-31T16:06:40.745634+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Nov-Dec Looking for a furnished sublease from Nov 2 Dec 25 in Jersey City or NYC, ideally within walking distance",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1001501522320524",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 20,
+      "bio": "A 20-year-old French American student coming to New York for a research project; quiet and respectful.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1001501522320524",
+      "posted_at": "Saturday 31 October 2026 at 08:55",
+      "first_scraped_at": "2026-10-31T16:06:40.745634+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "week NYC or Jersey City room Hi, I am looking for a room in NYC, or downtown Jersey City to",
+      "group_id": "312692887868061"
     }
   ]
 }
