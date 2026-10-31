@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T12:06:59.705045",
-  "count": 2998,
+  "updated_at": "2026-10-31T13:06:49.959910",
+  "count": 2999,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -99948,6 +99948,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "only) Room 2: $1150 Room 3: $980( Pending Share bathroom and Kitchen -Funrished Glen Park Bart station and Balboa Bart",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1402786661621577",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1200,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": null,
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1402786661621577",
+      "posted_at": "Saturday 31 October 2026 at 12:59",
+      "first_scraped_at": "2026-10-31T20:00:03.733063+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "is ending soon but I would like to continue at the very least with a month to month lease. However,",
+      "group_id": "558742412692677"
     }
   ]
 }
