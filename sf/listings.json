@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T08:07:20.397768",
-  "count": 2988,
+  "updated_at": "2026-10-31T09:06:36.038227",
+  "count": 2989,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -99622,6 +99622,39 @@
       "first_scraped_at": "2026-10-31T15:00:04.795215+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Barry! I\u2019m looking for a clean person that will sublease my place it is furnished pet friendly and",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2047983172559921",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2650,
+      "neighborhood": "Noe Valley",
+      "area": "San Francisco",
+      "available_from": "2026-11-07",
+      "available_until": "2027-01-01",
+      "unit_config": "3B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_kitchen",
+        "shared_living_space",
+        "shared_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047983172559921",
+      "posted_at": "Saturday 31 October 2026 at 00:03",
+      "first_scraped_at": "2026-10-31T16:00:07.472566+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room sublet flexible Nov 7 to Jan 1, w/d in unit Hi! I'm subletting my furnished room in a 3-bedroom",
       "group_id": "242765489748374"
     }
   ]
