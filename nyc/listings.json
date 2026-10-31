@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T20:15:01.285209",
-  "count": 1769,
+  "updated_at": "2026-10-30T21:19:18.156165",
+  "count": 1771,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -59113,6 +59113,72 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "for 1.5 month November 25, 2026 to Jan 10, 2027 Available at The Beacon, Jersey City! Hi everyone! 1 bedroom",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28760658790270267",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "kitchen",
+        "near_grocery_store",
+        "near_public_transport"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28760658790270267",
+      "posted_at": "Friday 30 October 2026 at 20:11",
+      "first_scraped_at": "2026-10-31T04:06:46.556245+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Rent Ground Floor A spacious 3 Bedroom, 1 Bathroom Apartment with a kitchen is available for rent. Location Nearby Amenities:",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1001006025703407",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1833,
+      "neighborhood": "Brooklyn",
+      "area": "Brooklyn",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "shared_backyard",
+        "dishwasher",
+        "huge_living_space",
+        "laundry_in_building",
+        "private_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1001006025703407",
+      "posted_at": "Friday 30 October 2026 at 20:46",
+      "first_scraped_at": "2026-10-31T04:06:46.556245+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "bed w/ private bathroom in Brooklyn Don't have roommates? We already have two. One is a middle school teacher and",
+      "group_id": "312692887868061"
     }
   ]
 }

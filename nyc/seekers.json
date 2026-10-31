@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T20:15:01.285209",
-  "count": 641,
+  "updated_at": "2026-10-30T21:19:18.156165",
+  "count": 643,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20008,6 +20008,69 @@
       "first_scraped_at": "2026-10-31T02:07:03.792142+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "a Private Room Near Journal Square PATH or Grove Street PATH, Jersey City (walking distance) Budget: $1000\u2013$1200/month In-house laundry is",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2262623207635807",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bay Ridge",
+        "Sunset Park"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "NYC native and NYC Teaching Fellow. Busy working professional who is quiet, clean, and responsible.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262623207635807",
+      "posted_at": "Friday 30 October 2026 at 19:25",
+      "first_scraped_at": "2026-10-31T04:06:46.556245+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "I am a NYC native and NYC Teaching Fellow, looking for a December 1st move-in. I want to live in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28760700346932778",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "2-3 bedrooms"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female roommates, prefers South Asian; no pets.",
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old female from central Jersey who works in Rahway, NJ, seeking 1\u20132 roommates to find a 2\u20133 bedroom apartment in Jersey City. Wants clean, respectful, non-smoking roommates; parking required; prefers South Asian females.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28760700346932778",
+      "posted_at": "Friday 30 October 2026 at 20:15",
+      "first_scraped_at": "2026-10-31T04:06:46.556245+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Move in End of Jan/Feb 2027 Hi everyone! My name is Nive (25, female) and I\u2019m looking for 1-2 roommates",
       "group_id": "765841576845364"
     }
   ]
