@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T18:15:19.630110",
-  "count": 639,
+  "updated_at": "2026-10-30T19:16:18.472683",
+  "count": 641,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -19947,6 +19947,68 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "This is a repost but I am still looking for a sublet for the month of November while I find",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28759832943686185",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 700,
+      "budget_max": 850,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working professional who is clean, organized, and respectful of shared spaces; pays rent on time.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28759832943686185",
+      "posted_at": "Friday 30 October 2026 at 18:48",
+      "first_scraped_at": "2026-10-31T02:07:03.792142+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Private Room Near Journal Square or, Jersey City, or nearby any areas. Budget: $700\u2013$850/month Move-in: Second/third week of November About",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28759510883718391",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28759510883718391",
+      "posted_at": "Friday 30 October 2026 at 18:16",
+      "first_scraped_at": "2026-10-31T02:07:03.792142+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a Private Room Near Journal Square PATH or Grove Street PATH, Jersey City (walking distance) Budget: $1000\u2013$1200/month In-house laundry is",
+      "group_id": "765841576845364"
     }
   ]
 }
