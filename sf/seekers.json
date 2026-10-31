@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T16:06:07.671125",
-  "count": 3414,
+  "updated_at": "2026-10-30T17:06:19.409100",
+  "count": 3415,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -108920,6 +108920,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "my name is Shaidell (25F), and I\u2019m currently looking for a room or studio or 1b1ba to rent for myself",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2047679025923669",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Rincon Hill",
+        "Embarcadero",
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047679025923669",
+      "posted_at": "Friday 30 October 2026 at 16:34",
+      "first_scraped_at": "2026-10-31T00:00:07.017767+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a place to move into by \ud835\uddd7\ud835\uddf2\ud835\uddf0\ud835\uddf2\ud835\uddfa\ud835\uddef\ud835\uddf2\ud835\uddff \ud835\udfed\ud835\ude00\ud835\ude01/ \ud835\uddfa\ud835\uddf6\ud835\uddf1 \ud835\uddd7\ud835\uddf2\ud835\uddf0\ud835\uddf2\ud835\uddfa\ud835\uddef\ud835\uddf2\ud835\uddff for ideally a long term lease if you",
+      "group_id": "242765489748374"
     }
   ]
 }

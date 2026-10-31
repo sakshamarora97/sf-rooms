@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-30T16:06:07.671125",
-  "count": 2964,
+  "updated_at": "2026-10-30T17:06:19.409100",
+  "count": 2965,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -98870,6 +98870,38 @@
       "first_scraped_at": "2026-10-30T23:00:03.199942+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Bath, By Hayes Valley/Jefferson Square Park, Available Beginning Nov Private Bedroom Private Bath, By Hayes Valley/Jefferson Square Park, Available Beginning",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2047683635923208",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3000,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "private_bathroom",
+        "bay_view"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Wants responsible, respectful, clean roommate; comfortable with a puppy.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2047683635923208",
+      "posted_at": "Friday 30 October 2026 at 16:42",
+      "first_scraped_at": "2026-10-31T00:00:07.017767+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "those visiting SF, just a block away from Crooked Lombard street. I have a furnished bedroom in Russian Hill with",
       "group_id": "242765489748374"
     }
   ]
