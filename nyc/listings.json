@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T13:13:58.798422",
-  "count": 1808,
+  "updated_at": "2026-10-31T14:13:21.249043",
+  "count": 1809,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -60450,6 +60450,36 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "Crown-Heights! Right off FRANKLIN AVE! Unit Features Tons of natural sunlight, open concept living/dining, Hidden DISHWASHER stainless steel appliances, Central",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28771275652541914",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 980,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28771275652541914",
+      "posted_at": "Saturday 31 October 2026 at 14:06",
+      "first_scraped_at": "2026-10-31T21:06:48.706555+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "from December 1st in Jersey City. Address: 42 Logan Avenue, Jersey City, NJ 07306 Around 15 mins from Journal Square",
+      "group_id": "765841576845364"
     }
   ]
 }
