@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T21:19:18.156165",
-  "count": 1771,
+  "updated_at": "2026-10-30T22:15:04.314808",
+  "count": 1773,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -59178,6 +59178,73 @@
       "first_scraped_at": "2026-10-31T04:06:46.556245+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "bed w/ private bathroom in Brooklyn Don't have roommates? We already have two. One is a middle school teacher and",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2262727914292003",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2250,
+      "neighborhood": "Hell's Kitchen",
+      "area": "Manhattan",
+      "available_from": "2026-11-01",
+      "available_until": "2027-04-30",
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "high_floor",
+        "near_subway"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "420 West 42nd Street",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 males",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262727914292003",
+      "posted_at": "Friday 30 October 2026 at 22:02",
+      "first_scraped_at": "2026-10-31T05:06:59.194745+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "MANHATTAN HIGH-FLOOR APARTMENT 420 West 42nd Street, Apt 36F New York, NY 10036 Looking for someone to take over my",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1001020912368585",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3500,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "spacious_living_room",
+        "sun-filled_sitting_area",
+        "wood-look_flooring",
+        "large_windows",
+        "kitchen",
+        "bathtub",
+        "second_floor"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1001020912368585",
+      "posted_at": "Friday 30 October 2026 at 21:09",
+      "first_scraped_at": "2026-10-31T05:06:59.194745+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "FOR RENT BRONX, NY! Castle Hill Watson Avenue Area, Bronx $3,500/month 4 Bedrooms 1 Full Bathroom 2nd Floor SPACE, COMFORT",
       "group_id": "312692887868061"
     }
   ]

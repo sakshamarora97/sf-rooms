@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-30T21:19:18.156165",
-  "count": 643,
+  "updated_at": "2026-10-30T22:15:04.314808",
+  "count": 644,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20072,6 +20072,39 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Move in End of Jan/Feb 2027 Hi everyone! My name is Nive (25, female) and I\u2019m looking for 1-2 roommates",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2262696060961855",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Greenpoint"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a studio or 1BR in Brooklyn (Williamsburg or Greenpoint), budget around $3,000; open to joining roommates for a 2B2B.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2262696060961855",
+      "posted_at": "Friday 30 October 2026 at 21:14",
+      "first_scraped_at": "2026-10-31T05:06:59.194745+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for an apartment in Brooklyn (Williamsburg or greenpoint are top of my list but open to options). I would love",
+      "group_id": "149460102285472"
     }
   ]
 }
