@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T09:06:36.038227",
-  "count": 3426,
+  "updated_at": "2026-10-31T10:07:21.933775",
+  "count": 3427,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109313,6 +109313,34 @@
       "first_scraped_at": "2026-10-31T15:00:04.795215+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "room/roommates in San Francisco December move-in Hi Everyone, My name is Yosh, I\u2019m 24 years old and I\u2019m from Germany.",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2048410369183868",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a sublet starting November through Jan\u2013Mar, flexible on end date; open to a longer-term lease if suitable. Budget up to $3,500/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2048410369183868",
+      "posted_at": "Saturday 31 October 2026 at 09:42",
+      "first_scraped_at": "2026-10-31T17:00:06.282122+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a sublet starting November through Jan/Feb/Mar. I\u2019m flexible on the end date. Also interested in longer term lease if the",
       "group_id": "242765489748374"
     }
   ]
