@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T07:07:04.349934",
-  "count": 3424,
+  "updated_at": "2026-10-31T08:07:20.397768",
+  "count": 3426,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109256,6 +109256,64 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "or 3 bedroom house in contra costa or alameda county. Need a home for me and my kids asap",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4766868713548131",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": "2027-05-15",
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Retired health professional; responsible, quiet, and clean. Long-term tenant with excellent references and strong credit.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4766868713548131",
+      "posted_at": "Saturday 31 October 2026 at 00:40",
+      "first_scraped_at": "2026-10-31T15:00:04.795215+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "6 month or less room, studio, 1 BR, Nov 15 May 15, with sunlight, minimal stairs, in peaceful neighborhood. High",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2046366902721548",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 24,
+      "bio": "They are a 24-year-old incoming master's student at USF, sociable and easy-going, enjoys sports, experienced living with roommates and keeps shared spaces clean.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046366902721548",
+      "posted_at": "Saturday 31 October 2026 at 07:02",
+      "first_scraped_at": "2026-10-31T15:00:04.795215+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room/roommates in San Francisco December move-in Hi Everyone, My name is Yosh, I\u2019m 24 years old and I\u2019m from Germany.",
+      "group_id": "242765489748374"
     }
   ]
 }

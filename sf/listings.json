@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T07:07:04.349934",
-  "count": 2986,
+  "updated_at": "2026-10-31T08:07:20.397768",
+  "count": 2988,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -99561,6 +99561,68 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "View, flatmate at $2.4k/mo. Moving into an unfurnished 2b2ba at Verve Mountain View, lease starts November. Looking for a flatmate",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2048308299194075",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2850,
+      "neighborhood": "Miraloma Park",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "laundry",
+        "first_floor",
+        "recently_renovated"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "No pets",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2048308299194075",
+      "posted_at": "Saturday 31 October 2026 at 07:38",
+      "first_scraped_at": "2026-10-31T15:00:04.795215+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "1bed/1bath unit for rent in Miraloma Park 94127 (Rent $2850/month) Hi everyone, I have a cozy 1bed/1bath unit available for",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2046610549363850",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Offering sublease; wants a clean person; pets OK",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2046610549363850",
+      "posted_at": "Saturday 31 October 2026 at 07:01",
+      "first_scraped_at": "2026-10-31T15:00:04.795215+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Barry! I\u2019m looking for a clean person that will sublease my place it is furnished pet friendly and",
+      "group_id": "242765489748374"
     }
   ]
 }
