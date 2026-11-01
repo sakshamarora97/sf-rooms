@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T11:05:10.886437",
-  "count": 3008,
+  "updated_at": "2026-11-01T12:05:28.904390",
+  "count": 3009,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -100287,6 +100287,43 @@
       "first_scraped_at": "2026-11-01T19:00:04.178064+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "FRANCISCO, CA",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4768768913358111",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4250,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-09",
+      "available_until": "2027-01-18",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_dishwasher",
+        "laundry_in_building",
+        "work_from_home_setup",
+        "wall_mounted_monitor",
+        "ocean_view",
+        "presidio_view",
+        "natural_light",
+        "large_living_area"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Frequent traveler; prefers single female occupant; no pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4768768913358111",
+      "posted_at": "Sunday 1 November 2026 at 10:18",
+      "first_scraped_at": "2026-11-01T20:00:03.177065+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Russian Hill 1BR Available starting: Details: 850 sq ft corner 1-bedroom in beautiful Russian Hill Big windows w/ excellent natural",
       "group_id": "2176716625896699"
     }
   ]
