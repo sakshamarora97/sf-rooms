@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T16:05:20.364611",
-  "count": 3428,
+  "updated_at": "2026-10-31T17:05:12.433084",
+  "count": 3429,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109370,6 +109370,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a room(1.800) in San Francisco,not downtown. Let me know if you have one.",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4767714920130177",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Cow Hollow",
+        "Japantown",
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two young professionals working in the Financial District. Sociable, easy-going, clean; enjoy weekends out and outdoor walks.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4767714920130177",
+      "posted_at": "Saturday 31 October 2026 at 15:51",
+      "first_scraped_at": "2026-11-01T00:00:03.332223+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to move into an apartment in SF Hi!!! My friend and I are looking to move up to San Francisco.",
+      "group_id": "2176716625896699"
     }
   ]
 }
