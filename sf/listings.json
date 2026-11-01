@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T10:04:28.855726",
-  "count": 3007,
+  "updated_at": "2026-11-01T11:05:10.886437",
+  "count": 3008,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -100259,6 +100259,34 @@
       "first_scraped_at": "2026-11-01T18:00:03.460209+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Rent $1700 from Mid-Nov Hi everyone! Me and my roommate (2 male tech professionals in mid-20s) are looking for a",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4768744330027236",
+      "post_type": "listing",
+      "listing_type": null,
+      "duration_type": null,
+      "rent": 1200,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4768744330027236",
+      "posted_at": "Sunday 1 November 2026 at 09:56",
+      "first_scraped_at": "2026-11-01T19:00:04.178064+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "FRANCISCO, CA",
       "group_id": "2176716625896699"
     }
   ]

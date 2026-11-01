@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T10:04:28.855726",
-  "count": 3435,
+  "updated_at": "2026-11-01T11:05:10.886437",
+  "count": 3436,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109589,6 +109589,36 @@
       "first_scraped_at": "2026-11-01T17:00:03.352672+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "for a sublet or a short-term lease starting jan 2027 through april or may of 2027 in the oakland/berkeley area.",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1403685274865049",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-06-30",
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Incoming junior at Berkeley with a steady full-time job, seeking a private single room for Jan\u2013May/June; flexible budget.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1403685274865049",
+      "posted_at": "Sunday 1 November 2026 at 10:33",
+      "first_scraped_at": "2026-11-01T19:00:04.178064+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Hi! My name is Diana Carrera and I am an incoming junior at Berkeley for the spring semester! I hope",
       "group_id": "558742412692677"
     }
   ]
