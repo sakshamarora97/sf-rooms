@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-01T08:11:04.013562",
-  "count": 1841,
+  "updated_at": "2026-11-01T09:11:39.961610",
+  "count": 1842,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -61555,6 +61555,34 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "have an unfurnished room available in Springfield Gardens, Queens available for rent. The rent is 1350. All utilities and Wi-Fi",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28782048698131276",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 1300,
+      "neighborhood": null,
+      "area": null,
+      "available_from": "2026-11-17",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28782048698131276",
+      "posted_at": "Sunday 1 November 2026 at 08:39",
+      "first_scraped_at": "2026-11-01T17:05:06.342275+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "NJ $1,300/month lease take over for room in suburban house Hi everyone! I\u2019m looking for someone to take over my",
+      "group_id": "765841576845364"
     }
   ]
 }
