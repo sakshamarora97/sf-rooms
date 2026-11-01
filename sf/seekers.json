@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T08:04:34.855685",
-  "count": 3432,
+  "updated_at": "2026-11-01T09:05:01.959896",
+  "count": 3435,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109495,6 +109495,101 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Hi! I\u2019m planning on moving to SF late November, early December and I\u2019m looking for roommates and/or housing in the",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2049416715749900",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "guesthouse"
+      ],
+      "preferred_neighborhoods": [
+        "Cupertino",
+        "Sunnyvale",
+        "Mountain View",
+        "San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a private room or guesthouse in the South Bay; open to a home-sharing arrangement offering companionship, shared meals, cooking, and light household help in exchange for free or affordable accommodation.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2049416715749900",
+      "posted_at": "Sunday 1 November 2026 at 08:30",
+      "first_scraped_at": "2026-11-01T17:00:03.352672+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Home-Sharing Arrangement in the South Bay Hi! I\u2019m looking for a private room or guesthouse in the South Bay, ideally",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2049366225754949",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female roommates",
+      "reason": null,
+      "age": 35,
+      "bio": "She is a 35-year-old finance professional who works from home most days. Respectful, clean, and seeking a room with female roommates in a friendly shared home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2049366225754949",
+      "posted_at": "Sunday 1 November 2026 at 07:27",
+      "first_scraped_at": "2026-11-01T17:00:03.352672+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "rent, Female roommates only Hi! I\u2019m Jenn, 35-year-old female looking for a room in a shared apartment with female roommates.",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1403582038208706",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "short-term lease"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "She/her; no pets",
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old she/her working professional in tech who works remotely. Non-smoker, quiet, clean, no pets; enjoys yoga, music, spirituality, and art.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1403582038208706",
+      "posted_at": "Sunday 1 November 2026 at 08:14",
+      "first_scraped_at": "2026-11-01T17:00:03.352672+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for a sublet or a short-term lease starting jan 2027 through april or may of 2027 in the oakland/berkeley area.",
+      "group_id": "558742412692677"
     }
   ]
 }
