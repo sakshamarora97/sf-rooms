@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T09:05:01.959896",
-  "count": 3006,
+  "updated_at": "2026-11-01T10:04:28.855726",
+  "count": 3007,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -100226,6 +100226,39 @@
       "first_scraped_at": "2026-11-01T17:00:03.352672+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "HQ Apartments, SoMa $400+/mo Below Market 1532 Harrison St, San Francisco (SoMa) Studio 397sqf Move-in mid-December or January (flexible) Through",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4768683316700004",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1700,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-11-16",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "rooftop",
+        "grill",
+        "shared_living_room",
+        "shared_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 males",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4768683316700004",
+      "posted_at": "Sunday 1 November 2026 at 08:51",
+      "first_scraped_at": "2026-11-01T18:00:03.460209+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Rent $1700 from Mid-Nov Hi everyone! Me and my roommate (2 male tech professionals in mid-20s) are looking for a",
       "group_id": "2176716625896699"
     }
   ]
