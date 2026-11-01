@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T20:05:47.700958",
-  "count": 3001,
+  "updated_at": "2026-10-31T21:05:54.556728",
+  "count": 3002,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -100051,6 +100051,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "rise building 2BR/2BA, master bedroom unit available starting Nov 1st. Building is modern with pretty nice amenities: gym, jacuzzi, sauna,",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1403045528262357",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "AC",
+        "heat",
+        "street_parking",
+        "furnished"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Students & working professionals welcome; pets not mentioned",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1403045528262357",
+      "posted_at": "Saturday 31 October 2026 at 20:13",
+      "first_scraped_at": "2026-11-01T04:00:02.690540+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Private Rooms Steps from UC Berkeley 2520 Regent St, Berkeley (near Telegraph Ave) Room 1: $1,500/month utilities Room 2: $1,400/month",
+      "group_id": "558742412692677"
     }
   ]
 }
