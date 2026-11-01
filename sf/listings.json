@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T21:05:54.556728",
-  "count": 3002,
+  "updated_at": "2026-10-31T22:06:24.971002",
+  "count": 3003,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -100084,6 +100084,45 @@
       "first_scraped_at": "2026-11-01T04:00:02.690540+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Private Rooms Steps from UC Berkeley 2520 Regent St, Berkeley (near Telegraph Ave) Room 1: $1,500/month utilities Room 2: $1,400/month",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1403088618258048",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1799,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-23",
+      "available_until": "2027-07-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "fridge_with_ice_water",
+        "rooftop",
+        "study_rooms",
+        "lounges",
+        "free_coffee",
+        "free_snacks",
+        "walk_in_closet",
+        "campanile_view"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": "The Kittredge",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a male roommate; any gender welcome",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1403088618258048",
+      "posted_at": "Saturday 31 October 2026 at 21:21",
+      "first_scraped_at": "2026-11-01T05:00:04.985377+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "TAKEOVER] Private Bedroom Private Bathroom The Kittredge Move in early from Dec 23, I'll cover the rest of December's rent",
       "group_id": "558742412692677"
     }
   ]
