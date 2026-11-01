@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T16:12:58.832709",
-  "count": 1814,
+  "updated_at": "2026-10-31T17:12:34.889852",
+  "count": 1816,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -60635,6 +60635,73 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Apartment Available for Rent, Xchange (Secaucus) Beautiful 2 bed 2 bath, ~1,200 sq ft apartment at Xchange, Unit 4109 Massive",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28769859286016884",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 900,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "central_ac",
+        "heating"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28769859286016884",
+      "posted_at": "Saturday 31 October 2026 at 11:26",
+      "first_scraped_at": "2026-11-01T00:05:16.532534+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "City Heights Journal Square Looking for a comfortable place to stay? Rooms are available in a spacious 3-bedroom, 2-bathroom apartment",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1001648275639182",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2500,
+      "neighborhood": "Chelsea",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "balcony",
+        "elevator",
+        "air_conditioning",
+        "standing_desk",
+        "monitor",
+        "bed_frame_included"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a male roommate",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1001648275639182",
+      "posted_at": "Saturday 31 October 2026 at 12:22",
+      "first_scraped_at": "2026-11-01T00:05:16.532534+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "December 1 Chelsea Looking for someone to take over my room in a 2-bedroom apartment in Chelsea (Hudson Yards area),",
+      "group_id": "312692887868061"
     }
   ]
 }
