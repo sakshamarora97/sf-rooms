@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-01T06:13:17.290662",
-  "count": 670,
+  "updated_at": "2026-11-01T07:11:04.470241",
+  "count": 671,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20931,6 +20931,43 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "accommodation from December 1st. Please DM me if any available",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2263873490844112",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room",
+        "2B",
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Murray Hill",
+        "Kips Bay",
+        "Gramercy",
+        "Upper East Side",
+        "Hell's Kitchen"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works in tech and enjoys exploring restaurants and coffee shops; cooks NY-style pizza at home and enjoys F1, tennis, and running. Seeking friendly roommates and willing to apartment-hunt together.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2263873490844112",
+      "posted_at": "Saturday 31 October 2026 at 23:58",
+      "first_scraped_at": "2026-11-01T15:04:29.794234+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "moving from SF to NYC and looking for a room or 1\u20132 roommates to apartment hunt with! Neighborhoods: East Village,",
+      "group_id": "149460102285472"
     }
   ]
 }
