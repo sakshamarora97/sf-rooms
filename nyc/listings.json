@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T20:13:38.452695",
-  "count": 1822,
+  "updated_at": "2026-10-31T21:14:58.923668",
+  "count": 1823,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -60900,6 +60900,41 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "from my room in a 3BR/2BA in Alphabet City/East Village (I'm moving to Jersey City). There is also another room",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2263664334198361",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Flushing",
+      "area": "Queens",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "tv",
+        "wifi",
+        "shared_kitchen",
+        "backyard",
+        "couch_included",
+        "near_lirr"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2263664334198361",
+      "posted_at": "Saturday 31 October 2026 at 19:10",
+      "first_scraped_at": "2026-11-01T04:05:58.524498+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "rent Auburndale Ln, Flushing, NY 11358, United States Room to rent. Bills.. tv.. wifi and.. couch included we shared the",
+      "group_id": "149460102285472"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-10-31T20:13:38.452695",
-  "count": 666,
+  "updated_at": "2026-10-31T21:14:58.923668",
+  "count": 667,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -20805,6 +20805,43 @@
       "first_scraped_at": "2026-11-01T02:06:05.245928+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Xavier I\u2019m 24yrs old. Moving to NYC! Looking for a lease takeover/sublet/roomate. I will be in the city",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2263712747526853",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-12",
+      "move_out_date": "2027-01-11",
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Greenpoint",
+        "Bushwick",
+        "Bed-Stuy",
+        "Brooklyn",
+        "Manhattan",
+        "Queens"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old marketing student from Brisbane visiting NYC for six weeks. Clean, respectful, easygoing; enjoys running, fitness, coffee, exploring and meeting people.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2263712747526853",
+      "posted_at": "Saturday 31 October 2026 at 20:17",
+      "first_scraped_at": "2026-11-01T04:05:58.524498+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a room in NYC! Hey everyone! I\u2019m 24 and coming over from Brisbane, Australia, for six weeks in December and",
       "group_id": "149460102285472"
     }
   ]
