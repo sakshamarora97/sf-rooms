@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T14:05:07.781862",
-  "count": 3436,
+  "updated_at": "2026-11-01T15:06:01.099606",
+  "count": 3437,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109620,6 +109620,34 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Hi! My name is Diana Carrera and I am an incoming junior at Berkeley for the spring semester! I hope",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4768938870007782",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": "2026-12-03",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4768938870007782",
+      "posted_at": "Sunday 1 November 2026 at 13:50",
+      "first_scraped_at": "2026-11-01T23:00:03.735815+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "term accommodation (Nov 15- December 3) around San Francisco, South SF. If you have any leads, please DM me.",
+      "group_id": "2176716625896699"
     }
   ]
 }
