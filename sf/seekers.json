@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T07:04:25.879830",
-  "count": 3431,
+  "updated_at": "2026-11-01T08:04:34.855685",
+  "count": 3432,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109466,6 +109466,34 @@
       "first_scraped_at": "2026-11-01T14:00:03.172630+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "rent Hey everyone! I\u2019m looking for a room to rent in the SF Bay Area and hoping to find a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2049170072441231",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent graduate moving to San Francisco for work; seeking roommates or housing with a budget up to $1,800/month, available late November\u2013early December.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2049170072441231",
+      "posted_at": "Sunday 1 November 2026 at 03:21",
+      "first_scraped_at": "2026-11-01T16:00:02.789547+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hi! I\u2019m planning on moving to SF late November, early December and I\u2019m looking for roommates and/or housing in the",
       "group_id": "242765489748374"
     }
   ]
