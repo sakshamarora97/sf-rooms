@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T22:06:24.971002",
-  "count": 3003,
+  "updated_at": "2026-11-01T06:05:31.677793",
+  "count": 3005,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -100087,6 +100087,37 @@
       "group_id": "558742412692677"
     },
     {
+      "listing_id": "2048768559148049",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-11-21",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "pet_friendly",
+        "shared_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Pets OK",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2048768559148049",
+      "posted_at": "Saturday 31 October 2026 at 18:25",
+      "first_scraped_at": "2026-11-01T05:00:04.985377+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "is a single bedroom available in a 3/2 (you will be sharing a bathroom with one another roommate) that will",
+      "group_id": "242765489748374"
+    },
+    {
       "listing_id": "1403088618258048",
       "post_type": "listing",
       "listing_type": "lease_takeover",
@@ -100123,6 +100154,42 @@
       "first_scraped_at": "2026-11-01T05:00:04.985377+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "TAKEOVER] Private Bedroom Private Bathroom The Kittredge Move in early from Dec 23, I'll cover the rest of December's rent",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1403244511575792",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1490,
+      "neighborhood": "Elmwood",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "wifi",
+        "shared_kitchen",
+        "shared_bathroom",
+        "washer_dryer",
+        "secure_entry",
+        "fenced_yard",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Welcoming shared home; prefers UC Berkeley students; no pets.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1403244511575792",
+      "posted_at": "Sunday 1 November 2026 at 01:38",
+      "first_scraped_at": "2026-11-01T14:00:03.172630+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "FULLY FURNISHED SINGLE-OCCUPANCY ROOMS AVAILABLE SPRING 2027 Available January 1 $1,490/month per room A couple of private rooms are available",
       "group_id": "558742412692677"
     }
   ]

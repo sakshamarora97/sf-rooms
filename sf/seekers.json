@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-10-31T22:06:24.971002",
-  "count": 3429,
+  "updated_at": "2026-11-01T06:05:31.677793",
+  "count": 3431,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109404,6 +109404,69 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "to move into an apartment in SF Hi!!! My friend and I are looking to move up to San Francisco.",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4768081350093534",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-08",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "private bedroom",
+        "2B2B",
+        "3B3B"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Foster City",
+        "Redwood City",
+        "Belmont"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Vegetarian roommate preferred",
+      "reason": null,
+      "age": 31,
+      "bio": "31-year-old tech worker, mostly remote, keeps a clean home, vegetarian, prefers polite soft-spoken roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4768081350093534",
+      "posted_at": "Saturday 31 October 2026 at 23:24",
+      "first_scraped_at": "2026-11-01T14:00:03.172630+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room in San Mateo, Foster City, Redwood City or Belmont. Move-in 11/7-11/8. ABOUT ME: I\u2019m 31 and work in tech.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2049069532451285",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 500,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Gay; has no pets",
+      "reason": "new_job",
+      "age": 28,
+      "bio": "28-year-old newly hired at a drag-themed sandwich shop; clean, quiet, sober, respectful; enjoys music, coffee, thrift shopping and staying active.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2049069532451285",
+      "posted_at": "Sunday 1 November 2026 at 01:00",
+      "first_scraped_at": "2026-11-01T14:00:03.172630+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "rent Hey everyone! I\u2019m looking for a room to rent in the SF Bay Area and hoping to find a",
+      "group_id": "242765489748374"
     }
   ]
 }
