@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T18:06:25.817090",
-  "count": 3442,
+  "updated_at": "2026-11-01T19:07:12.748067",
+  "count": 3445,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109812,6 +109812,95 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "San Mateo Redwood City Fremont Hi everyone! I\u2019m looking for accommodation for my male friend in any of the following",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4769192819982387",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "YC founder exploring data centers and energy, seeking a short-term SF home base. Prefers a social house with curious roommates and deep conversations.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4769192819982387",
+      "posted_at": "Sunday 1 November 2026 at 18:41",
+      "first_scraped_at": "2026-11-02T03:00:07.334137+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "an SF home base from now till December.** YCombinator founder exploring data centers energy. Hoping to find a room before",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4769109983324004",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-21",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "27F; prefers fem/queer spaces; no pets",
+      "reason": null,
+      "age": 27,
+      "bio": "She is a Garden Educator and part-time Marine Science Educator who enjoys the ocean, dancing, yoga, and making art. She prefers respectful, tidy households with casual socializing and clear communication.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4769109983324004",
+      "posted_at": "Sunday 1 November 2026 at 17:45",
+      "first_scraped_at": "2026-11-02T03:00:07.334137+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "sublet is ending soon and I'm looking for housing sometime before Nov 21st (flexible)! Preferably near the inner richmond/surrounds. I'm",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1403901034843473",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": "2027-07-31",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Medical doctor and PhD student from Italy; visiting student researcher at UC Berkeley School of Public Health from Nov 2026 to Jul 2027; works most days and can provide references.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1403901034843473",
+      "posted_at": "Sunday 1 November 2026 at 18:43",
+      "first_scraped_at": "2026-11-02T03:00:07.334137+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "room or studio in Berkeley: ASAP to July 2027 Hi everyone! I\u2019m Gloria, a medical doctor and PhD student from",
+      "group_id": "558742412692677"
     }
   ]
 }
