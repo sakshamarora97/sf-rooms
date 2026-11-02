@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-02T06:19:43.878583",
-  "count": 704,
+  "updated_at": "2026-11-02T07:18:54.099614",
+  "count": 706,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -21966,6 +21966,65 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "looking for a place to live starting December 1st, ideally within a 30-minute commute to Grand Central Terminal. My budget",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2265196970711764",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-12",
+      "move_out_date": "2026-11-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; allergic to cats",
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a short-term studio in central NYC from Nov 12\u201315; offers to walk dogs and feed plants; allergic to cats.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265196970711764",
+      "posted_at": "Monday 2 November 2026 at 06:13",
+      "first_scraped_at": "2026-11-02T15:08:46.533468+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a studio from Nov. 12-15th. I\u2019m opening to pricing as I know it\u2019s last minute. Ideally anywhere in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28793708700298609",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2350,
+      "budget_max": 2350,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Tech professional; wants a clean, respectful roommate; no pets.",
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old tech professional working in NYC (hybrid schedule). Active, non-smoker; enjoys gym, sports, board games, and exploring the city; no pets.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28793708700298609",
+      "posted_at": "Monday 2 November 2026 at 06:41",
+      "first_scraped_at": "2026-11-02T15:08:46.533468+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Looking for Roommate for 2B/2B in Newport (Dec 1 Move-In) Hey everyone! My previous roommate situation fell through, so I\u2019m",
+      "group_id": "765841576845364"
     }
   ]
 }
