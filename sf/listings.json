@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T06:09:51.786664",
-  "count": 3039,
+  "updated_at": "2026-11-02T07:08:41.125532",
+  "count": 3040,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -101361,6 +101361,41 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "our beautiful MLK house. Private rooms and shared rooms available. 6B/2ba co-living furnished home on Martin Luther King Jr. Way!",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2782417228820748",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": "2027-05-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "private_entrance",
+        "shared_kitchen",
+        "shared_backyard",
+        "walk_in_closet",
+        "parking_available",
+        "laundry_in_garage"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Must be Queer friendly",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2782417228820748",
+      "posted_at": "Monday 2 November 2026 at 06:33",
+      "first_scraped_at": "2026-11-02T15:00:06.273719+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "1 bath lease takeover! Dec 1-May 31 w/option to extend after \ufeff\ufeff1 Bed 1 Bath (in a 2 bed 2",
+      "group_id": "128476910881473"
     }
   ]
 }
