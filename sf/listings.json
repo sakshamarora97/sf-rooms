@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T17:07:26.873781",
-  "count": 3020,
+  "updated_at": "2026-11-01T18:06:25.817090",
+  "count": 3022,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -100701,6 +100701,74 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for someone to take over a bedroom in my apartment in Russian Hill starting December 1st! A little about the",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4769102069991462",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3200,
+      "neighborhood": "Noe Valley",
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": "2027-08-31",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "water_included",
+        "trash_included",
+        "onsite_laundry",
+        "street_parking",
+        "near_public_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4769102069991462",
+      "posted_at": "Sunday 1 November 2026 at 17:35",
+      "first_scraped_at": "2026-11-02T02:00:04.336045+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "available Noe Valley Glen Park, SF November 2026 August 2027 Hi everyone! I\u2019m looking to sublease my rent-controlled 500 sq.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4769070703327932",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1975,
+      "neighborhood": "Sunset District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "street_parking",
+        "full_kitchen",
+        "dining_room",
+        "living_room",
+        "near_public_transit"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4769070703327932",
+      "posted_at": "Sunday 1 November 2026 at 16:52",
+      "first_scraped_at": "2026-11-02T02:00:04.336045+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "2 Mins to Golden Gate Park, 10 Mins to Ocean Beach! Looking for a clean, respectful roommate to join a",
+      "group_id": "2176716625896699"
     }
   ]
 }
