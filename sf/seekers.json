@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T22:08:37.439300",
-  "count": 3452,
+  "updated_at": "2026-11-02T06:09:51.786664",
+  "count": 3455,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110104,6 +110104,38 @@
       "group_id": "242765489748374"
     },
     {
+      "listing_id": "4769337633301239",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-14",
+      "move_out_date": "2027-01-02",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": null,
+      "age": null,
+      "bio": "She is an Indian IT professional seeking a short-term furnished private room or apartment in Sunnyvale or San Jose from Nov 14 to Jan 2; requires parking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4769337633301239",
+      "posted_at": "Sunday 1 November 2026 at 21:45",
+      "first_scraped_at": "2026-11-02T06:00:03.698034+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Accommodation Sunnyvale San Jose Nov 14 Jan 2 I'm an Indian female IT professional looking for a furnished private room",
+      "group_id": "2176716625896699"
+    },
+    {
       "listing_id": "2049902832367955",
       "post_type": "seeker",
       "duration_type": null,
@@ -110129,6 +110161,78 @@
       "first_scraped_at": "2026-11-02T06:00:03.698034+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "private bedroom with furniture in San Francisco downtown my budget under $1300 Any guys space so feel free dm me",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28946663478324265",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "Outer Sunset",
+        "Richmond District",
+        "Haight-Ashbury",
+        "Western Addition"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Couple; looking for 1-2 roommates or sublet; has 2 cats",
+      "reason": "student",
+      "age": null,
+      "bio": "Starting school at USF; easygoing, eager to explore the city and enjoy nature. Moving with a quiet, respectful partner and two cats.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28946663478324265",
+      "posted_at": "Monday 2 November 2026 at 04:20",
+      "first_scraped_at": "2026-11-02T14:00:03.431549+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "early mid january hii everyone my name is Katya i\u2019m looking for 1-2 roommates OR a sublet starting early/mid january.",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2050009362357302",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-20",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "2B2B",
+        "2B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill",
+        "SoMa",
+        "Financial District",
+        "Pacific Heights",
+        "Hayes Valley",
+        "Duboce Triangle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a relatively clean roommate; no pets mentioned; single female looking",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old female SWE joining a startup in San Francisco; enjoys racket sports, hiking, guitar, and baking; seeks a relatively clean friend roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2050009362357302",
+      "posted_at": "Sunday 1 November 2026 at 23:54",
+      "first_scraped_at": "2026-11-02T14:00:03.431549+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is kathy and i'm planning on moving up to sf in mid november for a new job (around nov",
       "group_id": "242765489748374"
     }
   ]
