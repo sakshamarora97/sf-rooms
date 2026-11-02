@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-01T20:19:54.871845",
-  "count": 1905,
+  "updated_at": "2026-11-01T21:18:52.465167",
+  "count": 1907,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -63665,6 +63665,74 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "in Jersey Heights From November 1st** A master bedroom is available for **private or shared occupancy (male/female)** in a 3-bedroom,",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2264800824084712",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2034,
+      "neighborhood": "East Village",
+      "area": "Manhattan",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "elevator",
+        "fire_escape",
+        "dishwasher",
+        "laundry_in_building",
+        "shared_living_room"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2264800824084712",
+      "posted_at": "Sunday 1 November 2026 at 20:24",
+      "first_scraped_at": "2026-11-02T05:08:46.320614+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for someone to take over my room ASAP in a two-bedroom apartment located in the heart of the East Village!",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28188741434137380",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Upper East Side",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "elevator",
+        "laundry",
+        "dishwasher",
+        "closet_space",
+        "natural_light"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/28188741434137380",
+      "posted_at": "Sunday 1 November 2026 at 20:54",
+      "first_scraped_at": "2026-11-02T05:08:46.320614+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "Prime Upper East Side Elevator Laundry Charming and bright 1-bedroom apartment in a well-maintained elevator building in the heart of",
+      "group_id": "812568135514746"
     }
   ]
 }

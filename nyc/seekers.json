@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-01T20:19:54.871845",
-  "count": 700,
+  "updated_at": "2026-11-01T21:18:52.465167",
+  "count": 702,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -21789,6 +21789,36 @@
       "group_id": "149460102285472"
     },
     {
+      "listing_id": "2264754490756012",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": null,
+      "age": 27,
+      "bio": "Recent MSW graduate working full-time at a school. Social and easy-going, keeps her space clean, enjoys cooking and sharing meals.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2264754490756012",
+      "posted_at": "Sunday 1 November 2026 at 19:25",
+      "first_scraped_at": "2026-11-02T04:09:02.333864+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "housing 12/1 Hiiii I\u2019m a 27 year old female looking for a room in Brooklyn starting 12/1, budget is up",
+      "group_id": "149460102285472"
+    },
+    {
       "listing_id": "2264751774089617",
       "post_type": "seeker",
       "duration_type": "short_term",
@@ -21846,6 +21876,35 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "is Ariana Im from California and I\u2019m 20 years old. I\u2019m currently looking for a place in New York that",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28787043777631768",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": null,
+      "age": 38,
+      "bio": "38-year-old working in the mental health field; quiet, clean, non-smoker.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28787043777631768",
+      "posted_at": "Sunday 1 November 2026 at 18:43",
+      "first_scraped_at": "2026-11-02T04:09:02.333864+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "room or studio apt Hi there. I\u2019m a 38 yo female looking for either a room or studio apartment. Budget",
+      "group_id": "765841576845364"
     }
   ]
 }
