@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T08:08:08.846050",
-  "count": 3455,
+  "updated_at": "2026-11-02T09:08:33.543167",
+  "count": 3456,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110234,6 +110234,43 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is kathy and i'm planning on moving up to sf in mid november for a new job (around nov",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4769847259916943",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Milpitas",
+        "Palo Alto",
+        "San Mateo",
+        "San Bruno",
+        "Daly City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Software engineer relocating to San Francisco for a new role. Clean, easygoing, respectful, social but values personal space; prefers no indoor smoking or frequent parties.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4769847259916943",
+      "posted_at": "Monday 2 November 2026 at 06:47",
+      "first_scraped_at": "2026-11-02T17:00:03.975204+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Room Roommates Bay Area Move-in by End of Nov 2026 (or sooner) Hi everyone! I\u2019m Vineet, i am a Software",
+      "group_id": "2176716625896699"
     }
   ]
 }
