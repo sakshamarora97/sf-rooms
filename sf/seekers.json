@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T15:06:01.099606",
-  "count": 3437,
+  "updated_at": "2026-11-01T16:07:37.396364",
+  "count": 3438,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109648,6 +109648,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "term accommodation (Nov 15- December 3) around San Francisco, South SF. If you have any leads, please DM me.",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "28927784780212135",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Seeking with sister; prefers females",
+      "reason": null,
+      "age": null,
+      "bio": "They are seeking a six-month room starting in January with their sister; open to any number of roommates; prefers female roommates.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28927784780212135",
+      "posted_at": "Sunday 1 November 2026 at 15:31",
+      "first_scraped_at": "2026-11-02T00:00:07.069292+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "a 6mo stay starting January. Any amount of roomates is okay with me (females preferred) looking to share the room",
+      "group_id": "843764532374203"
     }
   ]
 }
