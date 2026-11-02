@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-02T11:38:33.494363",
-  "count": 713,
+  "updated_at": "2026-11-02T12:18:00.067952",
+  "count": 714,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -22237,6 +22237,38 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "PRIVATE ROOM IN JERSEY CITY MOVE-IN NOV 12\u201314 Hi everyone! I\u2019m a 24-year-old male working professional looking for a private",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2921905254842406",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-25",
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "Master",
+        "Second bedroom"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2921905254842406",
+      "posted_at": "Monday 2 November 2026 at 11:49",
+      "first_scraped_at": "2026-11-02T20:08:09.769388+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "in Newport Hi All, I am looking for a room in newport starting Nov 25-Dec 1. Long term lease preferred.",
+      "group_id": "1138638939835722"
     }
   ]
 }
