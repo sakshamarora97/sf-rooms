@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T10:08:03.550991",
-  "count": 3043,
+  "updated_at": "2026-11-02T11:08:03.827097",
+  "count": 3045,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -101492,6 +101492,77 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Hayes/Haight/Alamo Park for move in ASAP Jan 31 Open to stays >1 month, but longer preferred Peak quiet location in",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2050494552308783",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1275,
+      "neighborhood": "Inner Sunset",
+      "area": "San Francisco",
+      "available_from": "2027-01-01",
+      "available_until": "2027-04-01",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 5,
+      "amenities": [
+        "in_unit_laundry",
+        "high_speed_wifi",
+        "backyard",
+        "deck",
+        "street_parking",
+        "bicycle_storage",
+        "hardwood_floors"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Academic couple; lives with female professionals; no pets",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2050494552308783",
+      "posted_at": "Monday 2 November 2026 at 10:38",
+      "first_scraped_at": "2026-11-02T19:00:05.166479+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "1st SUBLET! Fully furnished Master Bedroom available from January 1, 2027 to April 1, 2027 (1 month minimum; full calendar",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2782671072128697",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3030,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-08-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "balcony",
+        "dishwasher",
+        "laundry_on_site",
+        "close_to_campus",
+        "near_transit",
+        "hiking_trails"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2782671072128697",
+      "posted_at": "Monday 2 November 2026 at 11:01",
+      "first_scraped_at": "2026-11-02T19:00:05.166479+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Sublet available Jan Aug 2027 (can extend if needed but will be a new lease!) RENT: $3030/month Total ($1515/room a",
+      "group_id": "128476910881473"
     }
   ]
 }
