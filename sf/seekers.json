@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-01T16:07:37.396364",
-  "count": 3438,
+  "updated_at": "2026-11-01T17:07:26.873781",
+  "count": 3442,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -109676,6 +109676,142 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "a 6mo stay starting January. Any amount of roomates is okay with me (females preferred) looking to share the room",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4769067623328240",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-05-05",
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Civic Center",
+        "Hayes Valley",
+        "Lower Haight",
+        "Castro",
+        "Inner Sunset",
+        "Mission District",
+        "Noe Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "29-year-old; wants furnished room Jan\u2013May; has a cat but not bringing it",
+      "reason": "other",
+      "age": 29,
+      "bio": "Grad student from Chicago doing an externship near Civic Center Jan\u2013May; respectful, often out weekdays, works from home sometimes, enjoys activity, comedy, art, reading.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4769067623328240",
+      "posted_at": "Sunday 1 November 2026 at 16:47",
+      "first_scraped_at": "2026-11-02T01:00:03.438453+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in SF, Jan-May up to $1,600/mo Hi! I\u2019m a grad student from Chicago, and I'll be in SF for January-May",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2049671452391093",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Glen Park",
+        "Noe Valley",
+        "Duboce Triangle",
+        "Hayes Valley",
+        "Alamo Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Works in aerospace in Burlingame. Quiet, non-smoking recent graduate who enjoys reading, playing keyboard, crafts, board games and movie nights; values calm, communicative household.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2049671452391093",
+      "posted_at": "Sunday 1 November 2026 at 15:07",
+      "first_scraped_at": "2026-11-02T01:00:03.438453+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommates apartment Hi! My name is Teddy, and I\u2019m looking to fill a room or find roommates to apartment-hunt with.",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2049645482393690",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Rincon Hill",
+        "Mission Bay",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; prefers vegetarian roommate",
+      "reason": "new_job",
+      "age": 27,
+      "bio": "Recent Northwestern Kellogg graduate moving to San Francisco to start a job at a bank. Social on weekends but values quiet time; in-office Monday\u2013Friday.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2049645482393690",
+      "posted_at": "Sunday 1 November 2026 at 14:18",
+      "first_scraped_at": "2026-11-02T01:00:03.438453+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a flatmate in San Francisco I'm Preksha Jain, 27 (F). I recently graduated from Northwestern Kellogg and I'm moving",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2049539695737602",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Redwood City",
+        "Fremont"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a private bedroom for a male friend; prefers Telugu-speaking roommates and a clean, peaceful place.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2049539695737602",
+      "posted_at": "Sunday 1 November 2026 at 11:14",
+      "first_scraped_at": "2026-11-02T01:00:03.438453+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "San Mateo Redwood City Fremont Hi everyone! I\u2019m looking for accommodation for my male friend in any of the following",
+      "group_id": "242765489748374"
     }
   ]
 }
