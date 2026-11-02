@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-01T19:18:24.510333",
-  "count": 698,
+  "updated_at": "2026-11-01T20:19:54.871845",
+  "count": 700,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -21786,6 +21786,65 @@
       "first_scraped_at": "2026-11-02T03:07:17.363847+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "currently looking for a female roommates to apartment hunt with, or someone who already has a place and is looking",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2264751774089617",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 24,
+      "bio": "Recent transplant from DC working a seasonal retail job in SoHo; seeking a short-term sublet through January/February.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2264751774089617",
+      "posted_at": "Sunday 1 November 2026 at 19:21",
+      "first_scraped_at": "2026-11-02T04:09:02.333864+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "NOVEMBER Hi everyone! I\u2019m Nikki (24) I just moved to New York last month from DC and am currently working",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2264731950758266",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 20,
+      "bio": "20-year-old from California seeking a short sublet in Brooklyn or Manhattan for a couple months with a friend; open to sharing a room.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2264731950758266",
+      "posted_at": "Sunday 1 November 2026 at 18:49",
+      "first_scraped_at": "2026-11-02T04:09:02.333864+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "is Ariana Im from California and I\u2019m 20 years old. I\u2019m currently looking for a place in New York that",
       "group_id": "149460102285472"
     }
   ]
