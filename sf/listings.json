@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T12:08:05.188465",
-  "count": 3047,
+  "updated_at": "2026-11-02T13:07:23.943134",
+  "count": 3048,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -101624,6 +101624,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "333 7th St, SF (inner richmond) here's what you get: Big room with a private patio. It fits a queen",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2050528528972052",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1000,
+      "neighborhood": "Marina",
+      "area": "San Francisco",
+      "available_from": "2026-11-11",
+      "available_until": "2026-11-22",
+      "unit_config": "3B1.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "rooftop",
+        "dishwasher"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 girls",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2050528528972052",
+      "posted_at": "Monday 2 November 2026 at 11:32",
+      "first_scraped_at": "2026-11-02T21:00:06.098134+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "the marina starting November 11 We\u2019ve got 1 room opening up in our 3 bedroom apartment for a sublease the",
+      "group_id": "242765489748374"
     }
   ]
 }
