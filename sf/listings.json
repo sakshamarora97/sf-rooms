@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T11:08:03.827097",
-  "count": 3045,
+  "updated_at": "2026-11-02T12:08:05.188465",
+  "count": 3047,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -101563,6 +101563,67 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Sublet available Jan Aug 2027 (can extend if needed but will be a new lease!) RENT: $3030/month Total ($1515/room a",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "4770094576558878",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1100,
+      "neighborhood": "Chinatown",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4770094576558878",
+      "posted_at": "Monday 2 November 2026 at 11:12",
+      "first_scraped_at": "2026-11-02T20:00:05.634121+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "few roommates In Chinatown area Rooms starting at $1,100 to $2,000. DM me if interested",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4770012759900393",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1819,
+      "neighborhood": "Inner Richmond",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "private_patio",
+        "private_bathroom",
+        "bathtub",
+        "double_sinks"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4770012759900393",
+      "posted_at": "Monday 2 November 2026 at 09:38",
+      "first_scraped_at": "2026-11-02T20:00:05.634121+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "333 7th St, SF (inner richmond) here's what you get: Big room with a private patio. It fits a queen",
+      "group_id": "2176716625896699"
     }
   ]
 }
