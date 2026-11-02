@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-02T08:17:09.764735",
-  "count": 706,
+  "updated_at": "2026-11-02T09:18:41.902716",
+  "count": 709,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -22025,6 +22025,96 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Looking for Roommate for 2B/2B in Newport (Dec 1 Move-In) Hey everyone! My previous roommate situation fell through, so I\u2019m",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2265330110698450",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "apt",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a place for an au pair; prefers young girls; no pets mentioned",
+      "reason": "other",
+      "age": null,
+      "bio": "Seeker is arranging housing for an au pair visiting NYC for one month in December; open to shared room with other young girls.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265330110698450",
+      "posted_at": "Monday 2 November 2026 at 08:47",
+      "first_scraped_at": "2026-11-02T17:08:39.438625+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a room or apt to rent for month of December for my au apair as we will be in NYC",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2265324764032318",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": "2027-01-31",
+      "budget_min": null,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Couple recently moved back to New York City seeking a short-term sublease from November to the end of January while searching for a permanent apartment.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265324764032318",
+      "posted_at": "Monday 2 November 2026 at 08:41",
+      "first_scraped_at": "2026-11-02T17:08:39.438625+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "recently moved back to New York City (originally from Park Slope) and I\u2019m looking for a sublease for my fianc\u00e9",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1003367032133973",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2700,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hell's Kitchen"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; lives with Kendra; pets not mentioned",
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old female in tech with a hybrid job; tidy, quiet, likes working out and concerts, enjoys chill self-care nights.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1003367032133973",
+      "posted_at": "Monday 2 November 2026 at 08:36",
+      "first_scraped_at": "2026-11-02T17:08:39.438625+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Hell\u2019s Kitchen 2B Hi! I\u2019m Kendra looking for 1 female roommate to move in 12/1 for a 12 month lease.",
+      "group_id": "312692887868061"
     }
   ]
 }
