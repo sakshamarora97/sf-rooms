@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T13:07:23.943134",
-  "count": 3458,
+  "updated_at": "2026-11-02T14:07:12.558185",
+  "count": 3459,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110331,6 +110331,38 @@
       "first_scraped_at": "2026-11-02T21:00:06.098134+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "sublet/Roomates A bit about me: Hi I\u2019m Dani! I\u2019m 22 and graduated from Berkeley. I\u2019m originally from Belarus but moved",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4770203606547975",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Nob Hill",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 34,
+      "bio": "Former university professor turned boutique fitness studio owner seeking a nearby room. Social, outgoing, enjoys music, dancing, fitness, and festivals.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4770203606547975",
+      "posted_at": "Monday 2 November 2026 at 13:23",
+      "first_scraped_at": "2026-11-02T22:00:02.171037+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Ben, and I'm looking for a room in Pacific Heights, Nob Hill, Russian Hill, or somewhere nearby! I'm 34 and",
       "group_id": "2176716625896699"
     }
   ]
