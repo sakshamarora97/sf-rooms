@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T09:08:33.543167",
-  "count": 3456,
+  "updated_at": "2026-11-02T10:08:03.550991",
+  "count": 3457,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110271,6 +110271,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Room Roommates Bay Area Move-in by End of Nov 2026 (or sooner) Hi everyone! I\u2019m Vineet, i am a Software",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2050368192321419",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Pacific Heights",
+        "North Beach",
+        "Inner Richmond"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants girls' house or to team up with girls",
+      "reason": "relocation",
+      "age": 25,
+      "bio": "25-year-old real estate professional and certified yoga instructor moving from DC; enjoys wine bars, dancing, and long walks. Clean, respectful roommate who will be teaching at a studio.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2050368192321419",
+      "posted_at": "Monday 2 November 2026 at 07:48",
+      "first_scraped_at": "2026-11-02T18:00:03.676962+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "from DC and looking for a room by early January! Hi I\u2019m Colleen! Hoping to join a girls' house or",
+      "group_id": "242765489748374"
     }
   ]
 }

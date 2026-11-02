@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T09:08:33.543167",
-  "count": 3041,
+  "updated_at": "2026-11-02T10:08:03.550991",
+  "count": 3043,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -101431,6 +101431,67 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Rincon Hill Hi! I\u2019m looking for someone to take over my studio lease through an official lease transfer. Your name",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2050434525648119",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 950,
+      "neighborhood": "Richmond",
+      "area": "East Bay",
+      "available_from": "2026-11-14",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "street_parking",
+        "in_unit_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Female only.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2050434525648119",
+      "posted_at": "Monday 2 November 2026 at 09:14",
+      "first_scraped_at": "2026-11-02T18:00:03.676962+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "aluguel em Richmond/eastbay 94804\u2013 Apenas para MULHERES. Quarto j\u00e1 mobiliado Entrada dispon\u00edvel a partir 14 novembro *(Observa\u00e7\u00e3o aluguel para quem",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2050422482315990",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3300,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-01-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": 0,
+      "amenities": [
+        "laundromat_nearby"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "no gender mentioned; no pets info",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2050422482315990",
+      "posted_at": "Monday 2 November 2026 at 08:57",
+      "first_scraped_at": "2026-11-02T18:00:03.676962+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hayes/Haight/Alamo Park for move in ASAP Jan 31 Open to stays >1 month, but longer preferred Peak quiet location in",
+      "group_id": "242765489748374"
     }
   ]
 }
