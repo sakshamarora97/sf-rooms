@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-01T22:18:14.236160",
-  "count": 702,
+  "updated_at": "2026-11-02T06:19:43.878583",
+  "count": 704,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -21905,6 +21905,67 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "room or studio apt Hi there. I\u2019m a 38 yo female looking for either a room or studio apartment. Budget",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2265162794048515",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-03-15",
+      "move_out_date": "2026-08-15",
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 22,
+      "bio": "He is a 22-year-old student from Germany, coming to NYC for one semester and an internship.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265162794048515",
+      "posted_at": "Monday 2 November 2026 at 05:29",
+      "first_scraped_at": "2026-11-02T14:09:57.547746+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Maik i am 22 yers old and from Germany. I will be studying NYC for 1 semester plus",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1003104912160185",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks housing beginning Dec 1; describes themself as easygoing, respectful, clean, and looking for a friendly, respectful home with good vibes.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1003104912160185",
+      "posted_at": "Monday 2 November 2026 at 02:48",
+      "first_scraped_at": "2026-11-02T14:09:57.547746+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "looking for a place to live starting December 1st, ideally within a 30-minute commute to Grand Central Terminal. My budget",
+      "group_id": "312692887868061"
     }
   ]
 }
