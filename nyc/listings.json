@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-02T19:21:41.148834",
-  "count": 2001,
+  "updated_at": "2026-11-02T20:22:35.743066",
+  "count": 2003,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -66876,6 +66876,70 @@
       "first_scraped_at": "2026-11-03T03:10:07.654172+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "at Xchange at Secaucus Junction Permanent Accommodation available in a private master bedroom in a 3B2B clean, comfortable, and peaceful",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28801796896156456",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 700,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "laundry",
+        "near_train_station",
+        "walking_distance_to_convenience_stores"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28801796896156456",
+      "posted_at": "Monday 2 November 2026 at 19:52",
+      "first_scraped_at": "2026-11-03T04:12:03.807583+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for Rent Near Metuchen, NJ! Property Details: 2 Bed, 1 Bath Townhouse Parking Available Laundry Available Close to Metuchen Train",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28801436189525860",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1100,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-15",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28801436189525860",
+      "posted_at": "Monday 2 November 2026 at 19:16",
+      "first_scraped_at": "2026-11-03T04:12:03.807583+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Sublease A clean and spacious room is available for sublease. It is comfortable, ample of lighting and working professional friendly",
       "group_id": "765841576845364"
     }
   ]
