@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T08:07:47.484923",
-  "count": 3085,
+  "updated_at": "2026-11-03T09:07:22.362533",
+  "count": 3087,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -102932,6 +102932,71 @@
       "first_scraped_at": "2026-11-03T16:00:06.362055+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Berkeley Master/private bath $1,900 (available now) Standard bedroom $1,400 (available Jan) 10-15 minute drive to campus, shuttle 65. private parking,",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2051302418894663",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Inner Richmond",
+      "area": "San Francisco",
+      "available_from": "2026-11-10",
+      "available_until": "2027-01-10",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "shared_spaces",
+        "sunset_view"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 3 girls; prefers a girl",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2051302418894663",
+      "posted_at": "Tuesday 3 November 2026 at 07:08",
+      "first_scraped_at": "2026-11-03T17:00:04.143512+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a room for any dates November 10th January 10th (preferably whole 2 months) at Inner Richmond (same block as Arguello",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1405436521356591",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1260,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-11-09",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "private_backyard",
+        "fire_pit",
+        "street_parking",
+        "shared_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 housemates; any gender welcome",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1405436521356591",
+      "posted_at": "Tuesday 3 November 2026 at 08:58",
+      "first_scraped_at": "2026-11-03T17:00:04.143512+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for someone to take over my room in a 3-bed/2-bath apartment in central Berkeley near Strawberry Creek Park. Rent is",
       "group_id": "558742412692677"
     }
   ]
