@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-03T09:17:05.753207",
-  "count": 737,
+  "updated_at": "2026-11-03T10:18:10.196556",
+  "count": 739,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -22978,6 +22978,64 @@
       "first_scraped_at": "2026-11-03T15:09:23.328973+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Roman, a theatre artist and classical musician moving from Chicago to NYC for a job opportunity, and I\u2019m looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2266337267264401",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-02-28",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2266337267264401",
+      "posted_at": "Tuesday 3 November 2026 at 09:18",
+      "first_scraped_at": "2026-11-03T18:08:20.581484+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "rental in NYC Preferably near train station/centrally located Walking distance from parks, and grocery stores Budget $2,600 for two months",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2266326790598782",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2504,
+      "budget_max": 2504,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Long Island City"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male or female, both welcome",
+      "reason": null,
+      "age": 30,
+      "bio": "30-year-old finance professional, typically in the office five days a week. Easygoing, clean, financially responsible, and values a peaceful, communicative home.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2266326790598782",
+      "posted_at": "Tuesday 3 November 2026 at 09:04",
+      "first_scraped_at": "2026-11-03T18:08:20.581484+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Roommate Luxury Waterfront Apartment in LIC December 2026 Move-In Hey everyone! I\u2019m looking for a roommate (male or female) to",
       "group_id": "149460102285472"
     }
   ]
