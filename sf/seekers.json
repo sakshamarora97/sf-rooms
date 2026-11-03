@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T09:07:22.362533",
-  "count": 3469,
+  "updated_at": "2026-11-03T10:08:16.087486",
+  "count": 3470,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110690,6 +110690,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "quiet sanctuary with plush carpets, a private bathroom just for me, and someone who can handle my standards in San",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28957467500577196",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": "2027-09-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond District",
+        "Presidio",
+        "Marina",
+        "Cow Hollow"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UC Berkeley graduate starting work as a medical assistant during a gap year, outdoorsy and active.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28957467500577196",
+      "posted_at": "Tuesday 3 November 2026 at 09:12",
+      "first_scraped_at": "2026-11-03T18:00:04.033802+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "room/sublet in SF (Nov\u2013 Summer 2027) Hey everyone. I\u2019m Lorenzo, 22, and recently graduated from UC Berkeley. I just got",
+      "group_id": "843764532374203"
     }
   ]
 }
