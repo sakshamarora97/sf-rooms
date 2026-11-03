@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-02T16:16:42.298011",
-  "count": 725,
+  "updated_at": "2026-11-02T17:25:39.127933",
+  "count": 729,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -22607,6 +22607,128 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "a 1B/1B lease takeover sublease December Jan start with the ability to renew. Ideally in Lowe Manhattan but open to",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2265648030666658",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2027-02-28",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Moving to New York late November/early December, seeking a short sublet and roommates for a few months. Low-key during the week, social on weekends, clean and organized.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265648030666658",
+      "posted_at": "Monday 2 November 2026 at 17:14",
+      "first_scraped_at": "2026-11-03T01:06:59.680675+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "is Michael and I am moving to New York late November/ early December. I\u2019m looking for a sublet of room/apartment",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2265620467336081",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-26",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Former NYC resident, works in academia; clean, respectful, easygoing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265620467336081",
+      "posted_at": "Monday 2 November 2026 at 16:30",
+      "first_scraped_at": "2026-11-03T01:06:59.680675+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Short-Term Sublet in NYC During Thanksgiving! Hi everyone! I\u2019m planning to visit a few friends in NYC over Thanksgiving and",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2265604850670976",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-15",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "East Village"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple?",
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old construction consultant from the UK, clean, respectful, active (sports, running/gym), enjoys exploring and socializing; seeking roommates in Williamsburg or well-connected Brooklyn/East Village.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265604850670976",
+      "posted_at": "Monday 2 November 2026 at 16:00",
+      "first_scraped_at": "2026-11-03T01:06:59.680675+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "UK Looking for Roommates in NYC $2.5k Budget Hey everyone! I\u2019ve recently moved to NYC for work in construction consulting",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2265457217352406",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "POC, queer-friendly; open to other roommates",
+      "reason": null,
+      "age": null,
+      "bio": "Two friends seeking a sublet or apartment in Brooklyn; budget $1700 each; move-in 2026-12-01. POC and queer-friendly.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265457217352406",
+      "posted_at": "Monday 2 November 2026 at 11:47",
+      "first_scraped_at": "2026-11-03T01:06:59.680675+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "everyone! Me and my friend Courtney are looking to sublet rooms, or apartment hunt! We\u2019re also open to other potential",
+      "group_id": "149460102285472"
     }
   ]
 }
