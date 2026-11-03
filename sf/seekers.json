@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T19:10:02.746229",
-  "count": 3463,
+  "updated_at": "2026-11-02T20:11:59.427976",
+  "count": 3464,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110496,6 +110496,40 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "House to Rent North San Jose Sunnyvale Mountain View Hi everyone! My group and I are looking for a house",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1404888221411421",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "North Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Pre-med young professional; no pets.",
+      "reason": null,
+      "age": null,
+      "bio": "Pre-med young professional working in marketing. Plays viola, sociable ambivert and respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1404888221411421",
+      "posted_at": "Monday 2 November 2026 at 19:23",
+      "first_scraped_at": "2026-11-03T04:00:03.183975+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "bath or private room bathroom Hi there! I am a pre-med young professional who works in marketing. I am looking",
+      "group_id": "558742412692677"
     }
   ]
 }
