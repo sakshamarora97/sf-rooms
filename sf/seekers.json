@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T22:06:55.149155",
-  "count": 3464,
+  "updated_at": "2026-11-03T06:08:55.355745",
+  "count": 3466,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110530,6 +110530,72 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "bath or private room bathroom Hi there! I am a pre-med young professional who works in marketing. I am looking",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "28962586643398615",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-11",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple; has a cat",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "Recent graduate from UC San Diego moving to SF for a full-time engineering role; semi-athlete who likes soccer and racquet sports, values cleanliness and communication.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28962586643398615",
+      "posted_at": "Tuesday 3 November 2026 at 04:42",
+      "first_scraped_at": "2026-11-03T14:00:05.918469+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Jan '27 2B2B 3B2B** Hi all! I'm Ksheer, 24M, graduating from UC San Diego EoY and moving to SF for",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4403815889929162",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-20",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "private bedroom with private bathroom"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female roommates preferred; no pets mentioned",
+      "reason": null,
+      "age": 30,
+      "bio": "30-year-old female, vegetarian, experienced with roommates, prefers tidy shared living and good transit walkability.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4403815889929162",
+      "posted_at": "Monday 2 November 2026 at 18:56",
+      "first_scraped_at": "2026-11-03T14:00:05.918469+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "a place to rent in **Santa Clara or Sunnyvale**, starting late November or early December. I'm 30, female, vegetarian, and",
+      "group_id": "1511607562483357"
     }
   ]
 }
