@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T15:06:50.784154",
-  "count": 3054,
+  "updated_at": "2026-11-02T16:06:52.275948",
+  "count": 3056,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -101867,6 +101867,73 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Subleasing my place at 388 Beale St in Rincon Hill starting ASAP. Honestly, finding a place in SF for $2,000/mo",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4770269096541426",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2900,
+      "neighborhood": "Inner Richmond",
+      "area": "San Francisco",
+      "available_from": "2026-11-21",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "kitchen",
+        "bathroom",
+        "closet_space"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Furnished; utilities included",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4770269096541426",
+      "posted_at": "Monday 2 November 2026 at 14:53",
+      "first_scraped_at": "2026-11-03T00:00:03.261843+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Hey all! I have a beautiful studio apartment in the Inner Richmond neighborhood of San Francisco 2 blocks from Golden",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1404743641425879",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "utilities_included",
+        "walking_distance_to_campus",
+        "near_shopping",
+        "near_public_transportation",
+        "clean",
+        "well_maintained"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1404743641425879",
+      "posted_at": "Monday 2 November 2026 at 15:04",
+      "first_scraped_at": "2026-11-03T00:00:03.261843+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": null,
+      "group_id": "558742412692677"
     }
   ]
 }
