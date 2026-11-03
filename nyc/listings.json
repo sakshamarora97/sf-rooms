@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-03T13:18:08.568909",
-  "count": 2067,
+  "updated_at": "2026-11-03T14:15:30.972765",
+  "count": 2069,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -69070,6 +69070,71 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "FOR RENT IN PRIME BEDFORD-STUYVESANT! Discover the perfect blend of classic Brooklyn character and modern comfort in this inviting residence.",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28812556298413849",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "ac",
+        "heating",
+        "full_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28812556298413849",
+      "posted_at": "Tuesday 3 November 2026 at 13:34",
+      "first_scraped_at": "2026-11-03T22:06:29.534473+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "City Hi everyone! Flex/Common Room available from 1 Nov Only serious inquiries 3BHK 1 Bath Renovated spacious Veg Non-veg friendly",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28812415005094645",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1297,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-15",
+      "available_until": "2026-11-21",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_bathroom",
+        "shared_common_areas",
+        "window"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28812415005094645",
+      "posted_at": "Tuesday 3 November 2026 at 13:18",
+      "first_scraped_at": "2026-11-03T22:06:29.534473+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Roommate New Port Jersey City Hi! We're looking for one roommate for a private bedroom in a 3-bedroom, 2-bathroom apartment",
+      "group_id": "765841576845364"
     }
   ]
 }
