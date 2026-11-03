@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-02T15:16:56.554640",
-  "count": 723,
+  "updated_at": "2026-11-02T16:16:42.298011",
+  "count": 725,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -22544,6 +22544,69 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Chris and I'm moving from Chicago to NYC for a new job in sports PR. I'm hoping to join an",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2265553630676098",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Park Slope"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "24-year-old musician; wants to live with other queer folks",
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old musician relocating from Los Angeles; clean, enjoys board games and crafty projects.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265553630676098",
+      "posted_at": "Monday 2 November 2026 at 14:27",
+      "first_scraped_at": "2026-11-03T00:06:56.727397+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for an unfurnished room to rent in Bushwick or Park Slope starting Dec 1! I\u2019m moving from LA (originally from",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1003580842112592",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "Upper East Side",
+        "Upper West Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker looking for a 1B1B lease takeover or sublease starting Dec/Jan, prefers Lower Manhattan, UES or UWS; wants floor-to-ceiling windows and in-unit washer/dryer.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1003580842112592",
+      "posted_at": "Monday 2 November 2026 at 14:25",
+      "first_scraped_at": "2026-11-03T00:06:56.727397+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "a 1B/1B lease takeover sublease December Jan start with the ability to renew. Ideally in Lowe Manhattan but open to",
+      "group_id": "312692887868061"
     }
   ]
 }
