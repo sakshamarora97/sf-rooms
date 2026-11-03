@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T10:08:16.087486",
-  "count": 3470,
+  "updated_at": "2026-11-03T11:10:29.368486",
+  "count": 3471,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110724,6 +110724,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "room/sublet in SF (Nov\u2013 Summer 2027) Hey everyone. I\u2019m Lorenzo, 22, and recently graduated from UC Berkeley. I just got",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4771240106444325",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": 28,
+      "bio": "Works in tech at the Embarcadero; seeking a sublease mid-December to mid-April/early May; clean and respectful.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4771240106444325",
+      "posted_at": "Tuesday 3 November 2026 at 09:13",
+      "first_scraped_at": "2026-11-03T19:00:03.302433+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Daksh, 28M, working in tech 5 days a week at the Embarcadero. I'm looking for a sublease in SF from",
+      "group_id": "2176716625896699"
     }
   ]
 }
