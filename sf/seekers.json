@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-02T18:06:50.947920",
-  "count": 3461,
+  "updated_at": "2026-11-02T19:10:02.746229",
+  "count": 3463,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110425,6 +110425,77 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "somebi and I'm looking to sublet a furnished apartment for the next few months. Nov/Dec to early next year! I'm",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4770426216525714",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "lease_takeover",
+        "2BR"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Russian Hill",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Relocating to SF; wants a female roommate",
+      "reason": "new_job",
+      "age": null,
+      "bio": "They are a software engineer relocating to San Francisco for a new job; commutes to the office five days a week and enjoys outdoor activities and local restaurants.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4770426216525714",
+      "posted_at": "Monday 2 November 2026 at 18:22",
+      "first_scraped_at": "2026-11-03T03:00:02.470870+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "private room in existing lease or sublet or lease takeover! Moving to SF in the end of Nov. Hi! I\u2019m",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4406054346371983",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "3B2B",
+        "3B3B",
+        "single-family home",
+        "townhouse"
+      ],
+      "preferred_neighborhoods": [
+        "North San Jose",
+        "Sunnyvale",
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Group of three working professionals seeking a long-term rental; responsible, quiet, clean, low-key lifestyle; don't host parties.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4406054346371983",
+      "posted_at": "Monday 2 November 2026 at 18:56",
+      "first_scraped_at": "2026-11-03T03:00:02.470870+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "House to Rent North San Jose Sunnyvale Mountain View Hi everyone! My group and I are looking for a house",
+      "group_id": "1511607562483357"
     }
   ]
 }
