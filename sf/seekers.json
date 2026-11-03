@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T07:09:18.870426",
-  "count": 3466,
+  "updated_at": "2026-11-03T08:07:47.484923",
+  "count": 3468,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110596,6 +110596,71 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "a place to rent in **Santa Clara or Sunnyvale**, starting late November or early December. I'm 30, female, vegetarian, and",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4770847963150206",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-19",
+      "move_out_date": "2026-12-22",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Lady",
+      "reason": null,
+      "age": null,
+      "bio": "Female traveler from Finland, non-smoking and tidy, visiting San Francisco for three nights.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4770847963150206",
+      "posted_at": "Tuesday 3 November 2026 at 02:44",
+      "first_scraped_at": "2026-11-03T16:00:06.362055+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "I am coming to San Francisco for 3 nights 19-22December. I would to rent a room near the main attarctions",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2051252655566306",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Marina",
+        "Cow Hollow",
+        "Pacific Heights",
+        "Panhandle",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old model who works in tech and travels often. Friendly, easygoing; enjoys basketball, reading, writing, and spending time with friends and brothers.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2051252655566306",
+      "posted_at": "Tuesday 3 November 2026 at 06:06",
+      "first_scraped_at": "2026-11-03T16:00:06.362055+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "anyone here has something, i\u2019m looking for a new living situation! i want to find something nicer more permanent. my",
+      "group_id": "242765489748374"
     }
   ]
 }
