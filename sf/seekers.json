@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T11:10:29.368486",
-  "count": 3471,
+  "updated_at": "2026-11-03T12:08:46.886751",
+  "count": 3473,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110753,6 +110753,74 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Daksh, 28M, working in tech 5 days a week at the Embarcadero. I'm looking for a sublease in SF from",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4771326083102394",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "sublet",
+        "apartment",
+        "cottage"
+      ],
+      "preferred_neighborhoods": [
+        "Embarcadero"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 33,
+      "bio": "33-year-old fine dining server who enjoys travel, cafe hopping, and quiet private downtime; seeking a sublet with Embarcadero access and an oven.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4771326083102394",
+      "posted_at": "Tuesday 3 November 2026 at 10:50",
+      "first_scraped_at": "2026-11-03T20:00:05.442573+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Hi everyone! I\u2019m a 33-year-old fine dining server seeking a sublet apartment or cottage. I enjoy travel, cafe hopping, and",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "28969084112748868",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "Cole Valley",
+        "NoPa",
+        "Lower Haight",
+        "Duboce Triangle",
+        "Hayes Valley",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "he/they",
+      "reason": "student",
+      "age": 33,
+      "bio": "Returning to San Francisco to finish medical school at UCSF after time in Chicago; previously studied public policy and worked at a nonprofit. Enjoys running, films, reading, and values community living; friendly and considerate.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28969084112748868",
+      "posted_at": "Tuesday 3 November 2026 at 11:35",
+      "first_scraped_at": "2026-11-03T20:00:05.442573+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Looking for a Room $1600/month, Dec 1ish, Long-term) Howdy folks! I'm Matt (33, he/they). I'm looking for a room in",
+      "group_id": "843764532374203"
     }
   ]
 }
