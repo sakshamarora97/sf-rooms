@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-03T10:18:10.196556",
-  "count": 739,
+  "updated_at": "2026-11-03T11:21:06.962462",
+  "count": 740,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -23037,6 +23037,49 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Roommate Luxury Waterfront Apartment in LIC December 2026 Move-In Hey everyone! I\u2019m looking for a roommate (male or female) to",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1004374818699861",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "room",
+        "entire apartment"
+      ],
+      "preferred_neighborhoods": [
+        "NoLita",
+        "West Village",
+        "Chelsea",
+        "Midtown",
+        "East Village",
+        "Financial District",
+        "Greenwich Village",
+        "Williamsburg",
+        "Bushwick",
+        "Cobble Hill",
+        "Carroll Gardens",
+        "Boerum Hill",
+        "Park Slope"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works as a NICU nurse on nights and every other weekend. Enjoys traveling, Pilates, vintage shopping, and trying new restaurants and bars.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1004374818699861",
+      "posted_at": "Tuesday 3 November 2026 at 10:59",
+      "first_scraped_at": "2026-11-03T19:10:42.067203+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "SUBLET IN NYC DECEMBER 1 MOVE-IN Hi! I'm moving from St. Louis to NYC! I\u2019m looking for a furnished sublet",
+      "group_id": "312692887868061"
     }
   ]
 }
