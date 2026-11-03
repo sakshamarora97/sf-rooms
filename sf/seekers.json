@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T12:08:46.886751",
-  "count": 3473,
+  "updated_at": "2026-11-03T13:08:31.667260",
+  "count": 3475,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110821,6 +110821,66 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Looking for a Room $1600/month, Dec 1ish, Long-term) Howdy folks! I'm Matt (33, he/they). I'm looking for a room in",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1405590258007884",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 750,
+      "budget_max": 750,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two friends from the Bay Area/Marin County seeking a double room in Berkeley starting Jan/Feb 2027. Open to sublease; budget about $750 per person.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1405590258007884",
+      "posted_at": "Tuesday 3 November 2026 at 12:59",
+      "first_scraped_at": "2026-11-03T21:00:06.805061+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "DOUBLE ROOM IN BERKELEY Hi there!! Me and my friend Sally are looking for a double room in Berkeley hopefully",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1405584498008460",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Transfer student at UC Berkeley seeking a single room for the Spring semester; currently commuting from Oakland and wants housing closer to campus.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1405584498008460",
+      "posted_at": "Tuesday 3 November 2026 at 12:53",
+      "first_scraped_at": "2026-11-03T21:00:06.805061+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Single Room Hello all! I am looking for a single room to rent for the Spring semester. I am a",
+      "group_id": "558742412692677"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T12:08:46.886751",
-  "count": 3089,
+  "updated_at": "2026-11-03T13:08:31.667260",
+  "count": 3090,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -103080,6 +103080,45 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "in Hayes Valley Jan 1 to Mar 31, 2027 $5,500/mo Come stay at a modern one bedroom in the heart",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4771372806431055",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1390,
+      "neighborhood": "South San Francisco",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "hardwood_floors",
+        "fireplace",
+        "vaulted_ceilings",
+        "renovated_kitchen",
+        "patio",
+        "backyard",
+        "security_camera",
+        "smart_lock",
+        "smart_lighting",
+        "street_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4771372806431055",
+      "posted_at": "Tuesday 3 November 2026 at 11:43",
+      "first_scraped_at": "2026-11-03T21:00:06.805061+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Luxury Bedrooms in South San Francisco (Long or Short Term) South San Francisco) Furnished Luxury Bedrooms in the 3-bedroom house",
+      "group_id": "2176716625896699"
     }
   ]
 }
