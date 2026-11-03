@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-02T20:22:35.743066",
-  "count": 731,
+  "updated_at": "2026-11-02T21:19:47.003890",
+  "count": 733,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -22792,6 +22792,72 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "looking for 2 private room (true bedroom, not flex) in newport rental(preferably), ideally through a lease takeover or joining an",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2265794613985333",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": 2300,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B2B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old male working in tech with a hybrid schedule; easygoing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265794613985333",
+      "posted_at": "Monday 2 November 2026 at 21:04",
+      "first_scraped_at": "2026-11-03T05:08:36.060401+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "lease has just ended and I'm looking to occupy a room at a place where ideally I could have my",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2265769087321219",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-05-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Murray Hill",
+        "East Village",
+        "Lower East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates",
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Upcoming college graduate from North New Jersey moving to NYC to start a full-time HR role in June. Social, enjoys going out, shopping, outdoor weekends and cooking.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2265769087321219",
+      "posted_at": "Monday 2 November 2026 at 20:25",
+      "first_scraped_at": "2026-11-03T05:08:36.060401+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "know this might be a bit early, but I thought to get a head start on my apartment search! My",
+      "group_id": "149460102285472"
     }
   ]
 }
