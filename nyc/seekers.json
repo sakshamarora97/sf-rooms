@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-03T19:18:24.268371",
-  "count": 758,
+  "updated_at": "2026-11-03T20:19:52.854657",
+  "count": 759,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -23626,6 +23626,37 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for a summer sublease in NYC from june to mid august! let me know if you have anything available with",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2266723790559082",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Exchange Place",
+        "Manhattan"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Prefers clean, respectful roommates; no pets mentioned.",
+      "reason": null,
+      "age": null,
+      "bio": "Works in finance/tech; enjoys dancing, football, traveling, exploring food; easygoing and social.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2266723790559082",
+      "posted_at": "Tuesday 3 November 2026 at 19:10",
+      "first_scraped_at": "2026-11-04T04:07:38.934174+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a roommate or two to apartment hunt with, ideally around Exchange Place or Manhattan. My budget is up",
+      "group_id": "149460102285472"
     }
   ]
 }
