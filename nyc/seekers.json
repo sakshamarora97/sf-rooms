@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-04T11:16:29.520499",
-  "count": 770,
+  "updated_at": "2026-11-04T12:16:43.872048",
+  "count": 771,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -23996,6 +23996,39 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "(she/her, 31) and I'm looking for a room to move into starting Dec 1st. Budget is $1250 per month before",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2267448690486592",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Bushwick",
+        "Crown Heights"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a woman roommate; prefers no pets.",
+      "reason": null,
+      "age": 29,
+      "bio": "They are 29 and work from home in the creative field; enjoys cooking, watching TV, sociable but values quiet and clear communication.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2267448690486592",
+      "posted_at": "Wednesday 4 November 2026 at 11:31",
+      "first_scraped_at": "2026-11-04T20:07:40.698028+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Zach, and I\u2019m looking for another woman to apartment hunt with and secure a 2-bedroom in Brooklyn for a January",
+      "group_id": "149460102285472"
     }
   ]
 }
