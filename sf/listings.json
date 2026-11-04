@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T16:06:30.183905",
-  "count": 3096,
+  "updated_at": "2026-11-03T17:06:34.386952",
+  "count": 3097,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -103307,6 +103307,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Starting December 1st for 6 months, with the possibility of extension. Hey folks! A new UNFURNISHED cozy room in shared",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2784165095312628",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1800,
+      "neighborhood": "Emeryville",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "backyard",
+        "detached_studio",
+        "private_bathroom",
+        "in_unit_laundry",
+        "dishwasher"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 females; has a dog and a cat",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2784165095312628",
+      "posted_at": "Tuesday 3 November 2026 at 16:17",
+      "first_scraped_at": "2026-11-04T01:00:03.243971+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Emeryville/Oakland house December 1st!! Located on the Emeryville-Oakland border close to Telegraph and Berkeley for $1,800/mo. Located in a 3",
+      "group_id": "128476910881473"
     }
   ]
 }

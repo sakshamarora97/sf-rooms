@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T16:06:30.183905",
-  "count": 3479,
+  "updated_at": "2026-11-03T17:06:34.386952",
+  "count": 3482,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111004,6 +111004,108 @@
       "first_scraped_at": "2026-11-04T00:00:05.563415+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "I are looking to do a lease takeover for early January of 2027. Ideally, we're looking for a 2-bedroom with",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2051659652192273",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "SoMa",
+        "Mission Bay",
+        "Alamo"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Easygoing; wants roommate they can be friends with; pets not mentioned",
+      "reason": null,
+      "age": null,
+      "bio": "Works in humanoid robotics in business development; hybrid worker who enjoys socializing and organizing wine tastings.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2051659652192273",
+      "posted_at": "Tuesday 3 November 2026 at 16:24",
+      "first_scraped_at": "2026-11-04T01:00:03.243971+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Julian, and I\u2019m looking for a room to rent in San Francisco, ideally around the Mission District. A little about",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2051640245527547",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Sunset District",
+        "Marina",
+        "Nob Hill",
+        "Burlingame",
+        "Mountain View",
+        "San Carlos",
+        "Belmont"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommate(s); vegan/vegetarian preference.",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Marketing and Data Strategist who loves outdoors, fitness, yoga instructor; mindful of shared spaces and seeks female roommate(s).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2051640245527547",
+      "posted_at": "Tuesday 3 November 2026 at 15:48",
+      "first_scraped_at": "2026-11-04T01:00:03.243971+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room roommate starting around January! Hi everyone! My name is Shweta, and I will be moving to the Bay Area",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1405709507995959",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "5-bedroom house",
+        "5-bedroom apartment",
+        "single room"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 5,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Five students entering their senior year seeking a 5-bedroom near Berkeley campus; each wants a private room and in-unit laundry; move-in summer 2027.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1405709507995959",
+      "posted_at": "Tuesday 3 November 2026 at 16:38",
+      "first_scraped_at": "2026-11-04T01:00:03.243971+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "and I are currently looking to move into a 5-bedroom house/apartment on Berkeley's south side for the 2027-28 school year.",
       "group_id": "558742412692677"
     }
   ]
