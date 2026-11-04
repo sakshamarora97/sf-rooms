@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-03T17:18:27.233329",
-  "count": 753,
+  "updated_at": "2026-11-03T18:17:48.991467",
+  "count": 754,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -23475,6 +23475,37 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "for late Jan/Early Feb 2b2ba Hey! My name is Jayna and I\u2019m relocating to Jersey City from Massachusetts early February",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1004591265344883",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "apartment",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Girl",
+      "reason": "student",
+      "age": null,
+      "bio": "She will be studying at Kaplan International Languages near Central Park and is seeking a 4-month apartment or room in Manhattan with a budget up to $3,500/month.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1004591265344883",
+      "posted_at": "Tuesday 3 November 2026 at 17:24",
+      "first_scraped_at": "2026-11-04T02:07:50.518906+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "girlfriend is looking for an apartment or a room in Manhattan for 4 months, from February to May 2027. She",
+      "group_id": "312692887868061"
     }
   ]
 }

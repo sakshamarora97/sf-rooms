@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-03T17:18:27.233329",
-  "count": 2083,
+  "updated_at": "2026-11-03T18:17:48.991467",
+  "count": 2084,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -69590,6 +69590,34 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "Baths House Bayside whole House for Rent includes washer and dryer, finish basement driveway can park 2 cars $3,600/month 212",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28814820921520720",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Female only; lives with 1 roommate",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28814820921520720",
+      "posted_at": "Tuesday 3 November 2026 at 17:39",
+      "first_scraped_at": "2026-11-04T02:07:50.518906+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "lease the second bedroom in a 2b2b flex apartment. 2 minutes from the Grove St path. Female only please. Please",
+      "group_id": "765841576845364"
     }
   ]
 }
