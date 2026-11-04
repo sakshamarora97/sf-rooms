@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T09:07:43.026932",
-  "count": 3491,
+  "updated_at": "2026-11-04T10:07:25.271822",
+  "count": 3494,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111402,6 +111402,108 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a Northwestern Law student participating in the West Coast Initiative (WCI) program this spring and will be relocating to San",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4772387649662904",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Temescal",
+        "Rockridge",
+        "Piedmont",
+        "Embarcadero",
+        "Mission District"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female identifying roommate; pets OK",
+      "reason": null,
+      "age": 23,
+      "bio": "Works full-time in Pleasanton; enjoys baking sourdough, cooking, hiking, live music and ceramics; quiet on weekdays, social on weekends; very clean and respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4772387649662904",
+      "posted_at": "Wednesday 4 November 2026 at 07:12",
+      "first_scraped_at": "2026-11-04T18:00:04.203546+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Room in Oakland/ SF Hello! My name\u2019s Emeline! I\u2019m looking for a room in a 2 bed 2 bath (ideally,",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2052432698781635",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "room",
+        "solo_space"
+      ],
+      "preferred_neighborhoods": [
+        "Civic Center",
+        "Hayes Valley",
+        "Japantown",
+        "Haight-Ashbury",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "Starting a tech job in the South Bay; active, likes jogging, reading, drawing, and is clean and personable; seeking communicative, clean roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052432698781635",
+      "posted_at": "Wednesday 4 November 2026 at 09:50",
+      "first_scraped_at": "2026-11-04T18:00:04.203546+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Brenden, and I\u2019m a 25-year-old looking to move to San Francisco as soon as possible, and I am",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1404585134775063",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-21",
+      "move_out_date": null,
+      "budget_min": 1150,
+      "budget_max": 1150,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Currently living with friends and seeking to stay in the same apartment; prefers month-to-month or 6-month lease; cosigner recommended if on financial aid.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1404585134775063",
+      "posted_at": "Tuesday 3 November 2026 at 22:32",
+      "first_scraped_at": "2026-11-04T18:00:04.203546+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "to month, starting November 21st Hi all! I am currently living in an apartment with some friends, they are moving",
+      "group_id": "558742412692677"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T09:07:43.026932",
-  "count": 3117,
+  "updated_at": "2026-11-04T10:07:25.271822",
+  "count": 3119,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -104005,6 +104005,64 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Outer Sunset Dec 1st Move-In! Hey everyone! I\u2019m moving out of my spot and am looking for someone to take",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2052376518787253",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1700,
+      "neighborhood": "San Bruno",
+      "area": "The Peninsula",
+      "available_from": "2026-11-25",
+      "available_until": null,
+      "unit_config": "3B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 roommates; wants 1\u20132 roommates; pets not mentioned",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052376518787253",
+      "posted_at": "Wednesday 4 November 2026 at 08:35",
+      "first_scraped_at": "2026-11-04T18:00:04.203546+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "3B/3B in San Bruno parking for ~$1,700! Tired of circling SF blocks for parking or fighting over a small shared",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1406396714593905",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1406396714593905",
+      "posted_at": "Wednesday 4 November 2026 at 10:00",
+      "first_scraped_at": "2026-11-04T18:00:04.203546+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Available Near Campus Looking for a convenient and comfortable place to call home? This spacious one-bedroom, one-bathroom apartment is ideally",
+      "group_id": "558742412692677"
     }
   ]
 }
