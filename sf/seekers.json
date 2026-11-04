@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T07:08:16.612523",
-  "count": 3489,
+  "updated_at": "2026-11-04T08:07:49.861935",
+  "count": 3490,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111332,6 +111332,44 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "21yrs I\u2019m currently looking for a room/roommates in the Bay Area(Oakland East/West/Downtown, San Leandro, Hayward, San Francisco). I\u2019m a full",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4771847416383594",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-09",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Pacific Heights",
+        "Russian Hill",
+        "Nob Hill",
+        "North Beach",
+        "Polk Gulch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent college graduate relocating for a startup job in San Francisco; enjoys gym, Brazilian jiu-jitsu, travel and outdoor activities.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4771847416383594",
+      "posted_at": "Tuesday 3 November 2026 at 21:20",
+      "first_scraped_at": "2026-11-04T16:00:03.683085+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "sublet Hey Im Nick, 22, just graduated college. Looking for a short-ish term sublet in Marina, Cow Hollow, pac heights,",
+      "group_id": "2176716625896699"
     }
   ]
 }
