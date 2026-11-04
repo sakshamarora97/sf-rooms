@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T15:06:08.751685",
-  "count": 3475,
+  "updated_at": "2026-11-03T16:06:30.183905",
+  "count": 3479,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -110880,6 +110880,130 @@
       "first_scraped_at": "2026-11-03T21:00:06.805061+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Single Room Hello all! I am looking for a single room to rent for the Spring semester. I am a",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2051630342195204",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1375,
+      "budget_max": 1375,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "University of Cincinnati student; wants a female roommate",
+      "reason": "internship",
+      "age": null,
+      "bio": "A University of Cincinnati student relocating to San Francisco for an internship from January\u2013May. Seeking a social, clean female roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2051630342195204",
+      "posted_at": "Tuesday 3 November 2026 at 15:33",
+      "first_scraped_at": "2026-11-04T00:00:05.563415+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Madeline, I am a student from the University of Cincinnati and I am moving to San Francisco from",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2051620465529525",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-03-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Must be LGBTQ+ friendly; any gender welcome; prefers furnished but open to self-furnishing.",
+      "reason": "student",
+      "age": null,
+      "bio": "MBA student on exchange from University of Toronto; biomedical engineer with background in pharmaceuticals, sustainability and consulting; film crew/actor on the side; active and social but values quiet home time.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2051620465529525",
+      "posted_at": "Tuesday 3 November 2026 at 15:14",
+      "first_scraped_at": "2026-11-04T00:00:05.563415+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "am moving to SF from Toronto and looking for a place to sublet/lease! What I'm looking for: 1. 1 bed/Studio/Shared",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2051619142196324",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Russian Hill",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Girl; wants a group of girls; cat free.",
+      "reason": "new_job",
+      "age": 21,
+      "bio": "21-year-old relocating from Oregon to work full-time in the Marina; social, likes going out and active weekends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2051619142196324",
+      "posted_at": "Tuesday 3 November 2026 at 15:12",
+      "first_scraped_at": "2026-11-04T00:00:05.563415+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "I\u2019m 21 and moving from Oregon this January or February. I\u2019m looking for a group of girls around my age",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1405675234666053",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "2B1.5B",
+        "2B2B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1405675234666053",
+      "posted_at": "Tuesday 3 November 2026 at 15:35",
+      "first_scraped_at": "2026-11-04T00:00:05.563415+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "I are looking to do a lease takeover for early January of 2027. Ideally, we're looking for a 2-bedroom with",
       "group_id": "558742412692677"
     }
   ]
