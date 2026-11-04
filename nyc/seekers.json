@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-03T16:15:49.959543",
-  "count": 750,
+  "updated_at": "2026-11-03T17:18:27.233329",
+  "count": 753,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -23385,6 +23385,96 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "NEEDED!! Open to most places in NYC and cities in New Jersey that are close to NYC We are urgently",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2266619563902838",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a lease takeover for a 1BR or studio, flexible on NYC location, aiming to move mid-to-late December.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2266619563902838",
+      "posted_at": "Tuesday 3 November 2026 at 16:45",
+      "first_scraped_at": "2026-11-04T01:06:39.608281+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "currently only looking for a lease take over for a 1bed/studio within a budget under $3k/month! I\u2019m pretty flexible to",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28814301574905988",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working professional in the IT industry seeking a clean, quiet living situation; prefers a Telugu-speaking, like-minded roommate.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28814301574905988",
+      "posted_at": "Tuesday 3 November 2026 at 16:46",
+      "first_scraped_at": "2026-11-04T01:06:39.608281+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Roommate Lease-Sharing Partner North Jersey (2B/2B Apartment) Hi everyone! I\u2019m looking for a responsible, clean, and like-minded roommate who is",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28814084748261004",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "The Heights",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Not queer; wants female roommate; has no pets, open to pets",
+      "reason": "relocation",
+      "age": null,
+      "bio": "She is relocating to Jersey City for work and seeks a lease starting Feb 1. She keeps odd hours (Sun\u2013Wed 6am\u20136pm) and enjoys restaurants, cooking, DJ sets/raves, travel, coffee shops, and beauty/fashion/wellness.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28814084748261004",
+      "posted_at": "Tuesday 3 November 2026 at 16:22",
+      "first_scraped_at": "2026-11-04T01:06:39.608281+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for late Jan/Early Feb 2b2ba Hey! My name is Jayna and I\u2019m relocating to Jersey City from Massachusetts early February",
+      "group_id": "765841576845364"
     }
   ]
 }
