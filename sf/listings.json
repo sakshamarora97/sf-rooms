@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T11:07:40.740505",
-  "count": 3123,
+  "updated_at": "2026-11-04T12:07:35.687792",
+  "count": 3124,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -104194,6 +104194,41 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "PRIVATE ROOM 1 room available near Telegraph and Ward St (near CVS) Hi, we have one private room available from",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "4772641999637469",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 4236,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-10-31",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "pool",
+        "hot_tub",
+        "gym",
+        "in_unit_laundry",
+        "dishwasher",
+        "panoramic_bay_views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4772641999637469",
+      "posted_at": "Wednesday 4 November 2026 at 11:44",
+      "first_scraped_at": "2026-11-04T20:00:03.384629+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Rincon Hill, San Francisco Looking for someone to take over my studio lease through an official lease transfer. Apartment details:",
+      "group_id": "2176716625896699"
     }
   ]
 }

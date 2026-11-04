@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T11:07:40.740505",
-  "count": 3494,
+  "updated_at": "2026-11-04T12:07:35.687792",
+  "count": 3496,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111504,6 +111504,72 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "to month, starting November 21st Hi all! I am currently living in an apartment with some friends, they are moving",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4772636692971333",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "Berkeley",
+        "San Francisco",
+        "Alameda"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "26yo; wants housemates open to emotional support dog; has a dog",
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old biotech professional who is clean and respectful of shared spaces, seeking a private bedroom in a shared apartment.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4772636692971333",
+      "posted_at": "Wednesday 4 November 2026 at 11:37",
+      "first_scraped_at": "2026-11-04T20:00:03.384629+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Dennise, and I'm looking for a housemate to find a place together for a December/January move-in. Or to takeover someone\u2019s",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2052481542110084",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "South Beach",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Has a cat",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Is a roboticist who loves climbing, cooking, DJing, and exploring restaurants and bars. Keeps their room tidy, is easygoing, and is usually out on weekdays.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052481542110084",
+      "posted_at": "Wednesday 4 November 2026 at 10:59",
+      "first_scraped_at": "2026-11-04T20:00:03.384629+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room near the Caltrain (Nov Jan) Hi everyone! I'll be moving to SF mid November for a new job and",
+      "group_id": "242765489748374"
     }
   ]
 }
