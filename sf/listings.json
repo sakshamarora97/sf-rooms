@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T08:07:49.861935",
-  "count": 3116,
+  "updated_at": "2026-11-04T09:07:43.026932",
+  "count": 3117,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -103974,6 +103974,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "furnished room with a shared bathroom. two female identifying roommates, one is elderly, the other is awkwardly shy. The place",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2052351685456403",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": "Outer Sunset",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "natural_light"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with respectful, quiet roommates; pets not mentioned",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052351685456403",
+      "posted_at": "Wednesday 4 November 2026 at 08:05",
+      "first_scraped_at": "2026-11-04T17:00:06.355560+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Outer Sunset Dec 1st Move-In! Hey everyone! I\u2019m moving out of my spot and am looking for someone to take",
+      "group_id": "242765489748374"
     }
   ]
 }

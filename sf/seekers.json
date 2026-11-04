@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T08:07:49.861935",
-  "count": 3490,
+  "updated_at": "2026-11-04T09:07:43.026932",
+  "count": 3491,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111370,6 +111370,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "sublet Hey Im Nick, 22, just graduated college. Looking for a short-ish term sublet in Marina, Cow Hollow, pac heights,",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2052332162125022",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-11",
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "private room"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Law student from Northwestern relocating to San Francisco for a spring semester program (WCI).",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052332162125022",
+      "posted_at": "Wednesday 4 November 2026 at 07:47",
+      "first_scraped_at": "2026-11-04T17:00:06.355560+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a Northwestern Law student participating in the West Coast Initiative (WCI) program this spring and will be relocating to San",
+      "group_id": "242765489748374"
     }
   ]
 }
