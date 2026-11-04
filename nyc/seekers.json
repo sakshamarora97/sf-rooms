@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-04T08:17:03.979753",
-  "count": 767,
+  "updated_at": "2026-11-04T09:15:00.445973",
+  "count": 768,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -23899,6 +23899,39 @@
       "first_scraped_at": "2026-11-04T16:07:54.868561+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "My wife working professional (big 4 audit firms) looking for a temporary whole apartment lease takeover starting 20 Dec 26",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2267335670497894",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old clean, easygoing person who enjoys music and plays guitar; likes museums, concerts, bars, gym, hiking, fishing, and traveling.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2267335670497894",
+      "posted_at": "Wednesday 4 November 2026 at 08:55",
+      "first_scraped_at": "2026-11-04T17:07:48.912422+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roomates/sublet/lease takeover I moved to New York City a few days ago due to work and I\u2019m looking for a",
       "group_id": "149460102285472"
     }
   ]
