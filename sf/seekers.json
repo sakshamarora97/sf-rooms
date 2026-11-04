@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T20:07:34.473575",
-  "count": 3483,
+  "updated_at": "2026-11-03T21:06:16.541027",
+  "count": 3485,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111135,6 +111135,69 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "am a 23 yr old female, looking for a private room in the Bay Area! I am a new grad",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4771777673057235",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-16",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private room"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4771777673057235",
+      "posted_at": "Tuesday 3 November 2026 at 20:04",
+      "first_scraped_at": "2026-11-04T05:00:05.189182+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in Mountain View, CA Hi everyone! I\u2019m looking for accommodation in Mountain View, CA, starting November 16. Preferences: Private room",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4771772286391107",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Nob Hill",
+        "Union Square",
+        "Downtown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Moving to San Francisco for a new job; lifestyle is chill, enjoys drinks, running and outdoors; prioritizes cleanliness.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4771772286391107",
+      "posted_at": "Tuesday 3 November 2026 at 19:59",
+      "first_scraped_at": "2026-11-04T05:00:05.189182+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Harshit and I\u2019m moving to SF for a new job. Looking for roommates around the downtown, SOMA, NOB",
+      "group_id": "2176716625896699"
     }
   ]
 }
