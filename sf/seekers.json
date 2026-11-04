@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T13:08:42.243455",
-  "count": 3500,
+  "updated_at": "2026-11-04T14:07:41.489766",
+  "count": 3501,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111693,6 +111693,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "an apartment Hi everyone! I'm looking for 1\u20132 roommates to find a place in San Francisco with a late-December move-in.",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4772660439635625",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "San Jose",
+        "Sunnyvale",
+        "Mountain View",
+        "Milpitas",
+        "Fremont"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Girl; wants a roommate; has a dog",
+      "reason": null,
+      "age": null,
+      "bio": "Fun-loving, easygoing person who enjoys travel, board games, socializing, values personal space and respectful living.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4772660439635625",
+      "posted_at": "Wednesday 4 November 2026 at 12:08",
+      "first_scraped_at": "2026-11-04T22:00:04.091382+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Female Roommate to Find a Place Together in the South Bay! Hey everyone! I\u2019m a looking for a like-minded roommate",
+      "group_id": "2176716625896699"
     }
   ]
 }

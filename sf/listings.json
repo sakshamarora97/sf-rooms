@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T13:08:42.243455",
-  "count": 3126,
+  "updated_at": "2026-11-04T14:07:41.489766",
+  "count": 3127,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -104289,6 +104289,40 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Nov 30th I have a private room (shared bathroom) available in a cute 3 bed 2 bath house in North",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "2052550875436484",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "North Beach",
+      "area": "San Francisco",
+      "available_from": "2026-11-06",
+      "available_until": "2026-11-27",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "kitchen",
+        "backyard",
+        "coworking_space",
+        "high_speed_wifi",
+        "weekly_cleaning"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052550875436484",
+      "posted_at": "Wednesday 4 November 2026 at 12:54",
+      "first_scraped_at": "2026-11-04T22:00:04.091382+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for sublease in North Beach Fri Nov 6 Fri Nov 27.** $120 per night, 2 week minimum. Furnished room in",
+      "group_id": "242765489748374"
     }
   ]
 }
