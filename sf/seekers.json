@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T14:07:41.489766",
-  "count": 3501,
+  "updated_at": "2026-11-04T15:10:36.243142",
+  "count": 3503,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111728,6 +111728,70 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Female Roommate to Find a Place Together in the South Bay! Hey everyone! I\u2019m a looking for a like-minded roommate",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2052625168762388",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 21,
+      "bio": "21-year-old software engineer relocating to San Francisco in January; seeking 1\u20132 roommates and an apartment; prefers clean, respectful, easygoing housemates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052625168762388",
+      "posted_at": "Wednesday 4 November 2026 at 14:38",
+      "first_scraped_at": "2026-11-04T23:00:02.993249+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a 21 year old male software engineer relocating to San Francisco in January and looking for roommates to find an",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2052623275429244",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room",
+        "2B1B",
+        "3B2B"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Mission District",
+        "Outer Sunset",
+        "Inner Richmond",
+        "Berkeley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Founding engineer at a startup, busy with work but enjoys exploring cafes, hiking, beaches and movies. Vegetarian, non-smoker, tidy, respectful and social when schedules align.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052623275429244",
+      "posted_at": "Wednesday 4 November 2026 at 14:34",
+      "first_scraped_at": "2026-11-04T23:00:02.993249+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a place where I can either take over a sublease or start a new lease, ideally around the end",
+      "group_id": "242765489748374"
     }
   ]
 }
