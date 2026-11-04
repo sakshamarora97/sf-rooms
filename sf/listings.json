@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T17:06:34.386952",
-  "count": 3097,
+  "updated_at": "2026-11-03T18:07:46.188988",
+  "count": 3098,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -103341,6 +103341,40 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Emeryville/Oakland house December 1st!! Located on the Emeryville-Oakland border close to Telegraph and Berkeley for $1,800/mo. Located in a 3",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1405741757992734",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1100,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-11-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "wifi",
+        "parking",
+        "on_site_laundry",
+        "furnished_communal_kitchen",
+        "furnished_communal_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 girls",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1405741757992734",
+      "posted_at": "Tuesday 3 November 2026 at 17:33",
+      "first_scraped_at": "2026-11-04T02:00:05.827291+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a housemate to rent a room in our cozy apartment near UC Berkeley! Housemates (2 girls) Single room",
+      "group_id": "558742412692677"
     }
   ]
 }
