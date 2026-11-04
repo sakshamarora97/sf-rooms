@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-03T18:07:46.188988",
-  "count": 3482,
+  "updated_at": "2026-11-03T19:06:53.607050",
+  "count": 3483,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111107,6 +111107,34 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "and I are currently looking to move into a 5-bedroom house/apartment on Berkeley's south side for the 2027-28 school year.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4406623752981709",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Female; prefers all-female apartment and non-smokers; has a 6 year old tabby cat",
+      "reason": null,
+      "age": 23,
+      "bio": "Recent San Jose State graduate who works remotely, seeking a private room. Homebody during the week, goes out on weekends; has a calm 6-year-old tabby cat.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4406623752981709",
+      "posted_at": "Tuesday 3 November 2026 at 18:37",
+      "first_scraped_at": "2026-11-04T03:00:05.489125+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "am a 23 yr old female, looking for a private room in the Bay Area! I am a new grad",
+      "group_id": "1511607562483357"
     }
   ]
 }
