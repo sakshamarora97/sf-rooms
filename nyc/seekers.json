@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-04T10:15:11.212407",
-  "count": 768,
+  "updated_at": "2026-11-04T11:16:29.520499",
+  "count": 770,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -23933,6 +23933,69 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "roomates/sublet/lease takeover I moved to New York City a few days ago due to work and I\u2019m looking for a",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2267423447155783",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hell's Kitchen",
+        "Kips Bay",
+        "Queens",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Ohio State graduate starting work as an actuary in Midtown; enjoys gym, basketball, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2267423447155783",
+      "posted_at": "Wednesday 4 November 2026 at 10:53",
+      "first_scraped_at": "2026-11-04T19:07:45.350616+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Ricky Arora and I am graduating from Ohio State in December and moving to NYC in January. I",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28825490713787074",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1250,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 31,
+      "bio": "She/her, a 31-year-old waitress working nights in Midtown seeking a closer commute; quiet, respectful, clean; loves cooking and dancing.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28825490713787074",
+      "posted_at": "Wednesday 4 November 2026 at 10:55",
+      "first_scraped_at": "2026-11-04T19:07:45.350616+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "(she/her, 31) and I'm looking for a room to move into starting Dec 1st. Budget is $1250 per month before",
+      "group_id": "765841576845364"
     }
   ]
 }
