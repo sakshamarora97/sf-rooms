@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T06:09:48.313635",
-  "count": 3115,
+  "updated_at": "2026-11-04T07:08:16.612523",
+  "count": 3116,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -103943,6 +103943,37 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Bedroom w/ Ensuite Huge Walk-In Closet Foster City House, Month-to-Month Furnished master bedroom available in a spacious Foster City house!",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1406184201281823",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1450,
+      "neighborhood": "Oakland",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "gated_property",
+        "yard"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 female-identifying roommates; pets not mentioned",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1406184201281823",
+      "posted_at": "Wednesday 4 November 2026 at 05:14",
+      "first_scraped_at": "2026-11-04T15:00:04.317863+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "furnished room with a shared bathroom. two female identifying roommates, one is elderly, the other is awkwardly shy. The place",
+      "group_id": "558742412692677"
     }
   ]
 }
