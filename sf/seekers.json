@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T19:10:35.569050",
-  "count": 3508,
+  "updated_at": "2026-11-04T20:08:19.580181",
+  "count": 3509,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111953,6 +111953,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "moving to SF for work. I\u2019m looking for a place ASAP short term. Ideally: Safe, quiet, walkable neighborhood Walking distance",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1406738124559764",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2BR",
+        "large studio",
+        "ADU",
+        "private unit",
+        "house"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Emeryville"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Family of two adults and one young child seeking a furnished 2-bedroom or large studio in Berkeley or Emeryville starting January 2027.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1406738124559764",
+      "posted_at": "Wednesday 4 November 2026 at 19:37",
+      "first_scraped_at": "2026-11-05T04:00:02.843270+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "FURNISHED APARTMENT JANUARY 2027 Hello everyone! My family and I are looking for a furnished place to rent starting in",
+      "group_id": "558742412692677"
     }
   ]
 }
