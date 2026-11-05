@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T20:08:19.580181",
-  "count": 3509,
+  "updated_at": "2026-11-04T21:10:47.320113",
+  "count": 3510,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111988,6 +111988,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "FURNISHED APARTMENT JANUARY 2027 Hello everyone! My family and I are looking for a furnished place to rent starting in",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2052779818746923",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-05-10",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Cow Hollow",
+        "North Beach",
+        "Nob Hill",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Finishing school at the University of Wisconsin\u2013Madison and a founding member of a SF/Berkeley tech startup. Social and outgoing; enjoys travel, concerts, raves, gym, and going out with friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052779818746923",
+      "posted_at": "Wednesday 4 November 2026 at 18:20",
+      "first_scraped_at": "2026-11-05T05:00:03.714481+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "am Austin! I\u2019m looking to move to San Francisco sometime between May 10th and August 2027. I want to get",
+      "group_id": "242765489748374"
     }
   ]
 }
