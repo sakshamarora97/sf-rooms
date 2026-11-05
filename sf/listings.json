@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T09:06:59.255528",
-  "count": 3156,
+  "updated_at": "2026-11-05T10:06:40.223989",
+  "count": 3158,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -105301,6 +105301,71 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Roommate Pacifica, CA $2,060/month Found an amazing 2 bed, 1 bath property in Pacifica and looking for someone to sign",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4773738749527794",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 5000,
+      "neighborhood": "South Beach",
+      "area": "San Francisco",
+      "available_from": "2026-12-10",
+      "available_until": "2027-01-10",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "garage_parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Owners; prefers a couple or working professional",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4773738749527794",
+      "posted_at": "Thursday 5 November 2026 at 08:58",
+      "first_scraped_at": "2026-11-05T18:00:06.223303+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1BR Condo by Oracle Park (Dec 10 Jan 10) We're subletting our furnished 1BR condo (~900 sq ft), next to",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2053454962012742",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "wifi",
+        "private_bathroom",
+        "fully_furnished"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2053454962012742",
+      "posted_at": "Thursday 5 November 2026 at 09:13",
+      "first_scraped_at": "2026-11-05T18:00:06.223303+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "APARTMENT AVAILABLE NOW! Looking for a comfortable, fully furnished place to call home? We have a lovely private 1-bedroom, 1-bathroom",
+      "group_id": "242765489748374"
     }
   ]
 }

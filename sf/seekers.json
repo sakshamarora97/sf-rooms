@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T09:06:59.255528",
-  "count": 3516,
+  "updated_at": "2026-11-05T10:06:40.223989",
+  "count": 3517,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112203,6 +112203,39 @@
       "first_scraped_at": "2026-11-05T17:00:07.030163+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Looking for 1 month sublet in Rincon Hill from November 15th December 15th. Please message me if you\u2019re subletting or",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2053470468677858",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Russian Hill",
+        "Pacific Heights",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Two people; wants girls; no cats",
+      "reason": null,
+      "age": null,
+      "bio": "Two young professionals seeking roommates. One works as a hairstylist who enjoys concerts and the outdoors; the other works in marketing and likes fitness and chill social activities.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2053470468677858",
+      "posted_at": "Thursday 5 November 2026 at 09:35",
+      "first_scraped_at": "2026-11-05T18:00:06.223303+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and Ashlynn and we\u2019re looking for a couple of girls to sign a lease with in SF in late Jan/Early",
       "group_id": "242765489748374"
     }
   ]
