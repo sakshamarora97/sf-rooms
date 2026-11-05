@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T13:07:05.266408",
-  "count": 3520,
+  "updated_at": "2026-11-05T14:05:48.244352",
+  "count": 3521,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112334,6 +112334,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "5 friends and I are currently looking for a 5-bedroom house/apartment on Berkeley's Southside for the 2027\u20132028 school year! We'll",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4773870792847923",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "ADU",
+        "in-law_unit",
+        "self-contained"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Solo renter; has two documented ESAs.",
+      "reason": null,
+      "age": null,
+      "bio": "Works in student transportation and runs a pet care business; responsible, quiet tenant seeking a long-term rental with two documented ESAs.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4773870792847923",
+      "posted_at": "Thursday 5 November 2026 at 11:19",
+      "first_scraped_at": "2026-11-05T22:00:06.449117+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Next Home Bay Area Rental Search Hi everyone! I\u2019m Shai, a longtime San Francisco resident currently searching for a new",
+      "group_id": "2176716625896699"
     }
   ]
 }

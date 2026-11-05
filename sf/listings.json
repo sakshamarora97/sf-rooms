@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T13:07:05.266408",
-  "count": 3164,
+  "updated_at": "2026-11-05T14:05:48.244352",
+  "count": 3166,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -105586,6 +105586,66 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "steps away from UC Berkeley Private Rooms starting at $1730 Shared Rooms starting at $1220 Spring Semester 12-month leases available",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4773975239504145",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2050,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": "2026-11-17",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "balcony",
+        "large_living_room",
+        "large_kitchen_counters"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with roommates moving to South Bay; prefers clean, somewhat quiet; pets not mentioned.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4773975239504145",
+      "posted_at": "Thursday 5 November 2026 at 13:06",
+      "first_scraped_at": "2026-11-05T22:00:06.449117+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "up in Dogpatch 3bed/2bath master bedroom rent $2450 smaller room rent $2050 Had a lease plan fall through at the",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2053560888668816",
+      "post_type": "listing",
+      "listing_type": null,
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2053560888668816",
+      "posted_at": "Thursday 5 November 2026 at 11:37",
+      "first_scraped_at": "2026-11-05T22:00:06.449117+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "A PLACE TO RENT OR PLANNING TO MOVE IN BY MID-NOVEMBER OR DECEMBER 1ST! SEND A MESSAGE IF INTERESTED.",
+      "group_id": "242765489748374"
     }
   ]
 }
