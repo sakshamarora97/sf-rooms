@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T11:16:08.942490",
-  "count": 803,
+  "updated_at": "2026-11-05T12:18:32.404294",
+  "count": 804,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -25010,6 +25010,38 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "1 bedroom in Queens $1800-2200 minimum 700 SQ FT",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2268461657051962",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-14",
+      "move_out_date": null,
+      "budget_min": 2100,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "West Village",
+        "Greenwich Village",
+        "East Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "OK living with a cat; no dogs",
+      "reason": null,
+      "age": 24,
+      "bio": "They are 24, work in tech, and enjoy art, volleyball, concerts, and hiking; originally from Nashville and has friends in the city.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2268461657051962",
+      "posted_at": "Thursday 5 November 2026 at 11:05",
+      "first_scraped_at": "2026-11-05T20:06:31.489327+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "apartment, Nov Dec move in Little bit about me: I\u2019m 24, have a good job in tech, love art, volleyball,",
+      "group_id": "149460102285472"
     }
   ]
 }
