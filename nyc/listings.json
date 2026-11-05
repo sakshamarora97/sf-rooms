@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T13:17:06.688773",
-  "count": 2268,
+  "updated_at": "2026-11-05T14:15:29.109981",
+  "count": 2269,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -75871,6 +75871,38 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "Immediately! **Move in Date must be no later than 11/17!** Lower Level/ Basement Unit In-Unit Washer Dryer Photos are virtually",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2925512681148330",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "3B2.5B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "lounge",
+        "gym",
+        "rooftop"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2925512681148330",
+      "posted_at": "Thursday 5 November 2026 at 12:44",
+      "first_scraped_at": "2026-11-05T22:05:52.641321+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "working professional to occupy 1 br/1 bath( bath is shared with one person) in a 3 br/ 2.5 bath in",
+      "group_id": "1138638939835722"
     }
   ]
 }
