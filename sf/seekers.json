@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T21:10:47.320113",
-  "count": 3510,
+  "updated_at": "2026-11-04T22:08:47.939500",
+  "count": 3511,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112021,6 +112021,37 @@
       "first_scraped_at": "2026-11-05T05:00:03.714481+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "am Austin! I\u2019m looking to move to San Francisco sometime between May 10th and August 2027. I want to get",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2052867068738198",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-19",
+      "move_out_date": "2027-01-02",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private room",
+        "shared room",
+        "living room space",
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": "student",
+      "age": 27,
+      "bio": "University student on exchange in San Francisco; clean, quiet, responsible, and mostly out during the day.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052867068738198",
+      "posted_at": "Wednesday 4 November 2026 at 20:35",
+      "first_scraped_at": "2026-11-05T06:00:05.722355+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "2-week sublet in SF Bay Area! (Dec 19 Jan 2) Hi everyone! My name is Sharon, a 27F university student",
       "group_id": "242765489748374"
     }
   ]
