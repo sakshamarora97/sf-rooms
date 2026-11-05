@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T08:07:00.367404",
-  "count": 3514,
+  "updated_at": "2026-11-05T09:06:59.255528",
+  "count": 3516,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112145,6 +112145,64 @@
       "first_scraped_at": "2026-11-05T14:00:06.732237+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room/Sublease in San Francisco December Move-in Hi everyone! I\u2019m looking for a room or sublease in San Francisco starting December",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4773732172861785",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Recent UC Davis grad; has a small dog.",
+      "reason": null,
+      "age": 22,
+      "bio": "Recent UC Davis graduate who is a chill, pet-friendly, 420-friendly housemate who enjoys yoga, going out, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4773732172861785",
+      "posted_at": "Thursday 5 November 2026 at 08:51",
+      "first_scraped_at": "2026-11-05T17:00:07.030163+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room or potential roommate! Hi all! I posted a while ago, but had to pause my housing search, but now",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2053437698681135",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": "2026-12-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2053437698681135",
+      "posted_at": "Thursday 5 November 2026 at 08:51",
+      "first_scraped_at": "2026-11-05T17:00:07.030163+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Looking for 1 month sublet in Rincon Hill from November 15th December 15th. Please message me if you\u2019re subletting or",
       "group_id": "242765489748374"
     }
   ]

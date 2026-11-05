@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T08:07:00.367404",
-  "count": 3155,
+  "updated_at": "2026-11-05T09:06:59.255528",
+  "count": 3156,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -105269,6 +105269,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "private single room in a 2B/1B apartment near UC Berkeley Freezer for Sale: $85 Room monthly Rent:$1200 Female only Posting",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4773729542862048",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2060,
+      "neighborhood": "Pacifica",
+      "area": "The Peninsula",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "newly_renovated",
+        "fully_furnished",
+        "beach_access"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Single poster; prefers male roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4773729542862048",
+      "posted_at": "Thursday 5 November 2026 at 08:49",
+      "first_scraped_at": "2026-11-05T17:00:07.030163+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Roommate Pacifica, CA $2,060/month Found an amazing 2 bed, 1 bath property in Pacifica and looking for someone to sign",
+      "group_id": "2176716625896699"
     }
   ]
 }
