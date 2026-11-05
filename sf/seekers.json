@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T12:06:27.154682",
-  "count": 3518,
+  "updated_at": "2026-11-05T13:07:05.266408",
+  "count": 3520,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112265,6 +112265,75 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "moving out to SF in December for a new job and looking for some roommates or any housing options available!",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2053601798664725",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B3B",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Marina",
+        "Cow Hollow",
+        "Mission Bay",
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Newly graduated software engineer starting a job in FiDi in January; relocating from Seattle and seeking roommates for a 2B2B or 3B3B. Vegetarian, works from home twice weekly; enjoys reading, yoga, swimming, climbing, hiking, and DIY decor.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2053601798664725",
+      "posted_at": "Thursday 5 November 2026 at 12:48",
+      "first_scraped_at": "2026-11-05T21:00:06.215517+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room/ roommate around mid-December or January Hi! I\u2019m Anagha, and I\u2019m starting work as a SWE in FiDi in January",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1407429154490661",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "5B",
+        "house",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "South Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 6,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Six college seniors seeking a 5-bedroom house or apartment on Berkeley's Southside for the 2027\u20132028 school year with in-unit laundry.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1407429154490661",
+      "posted_at": "Thursday 5 November 2026 at 12:51",
+      "first_scraped_at": "2026-11-05T21:00:06.215517+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "5 friends and I are currently looking for a 5-bedroom house/apartment on Berkeley's Southside for the 2027\u20132028 school year! We'll",
+      "group_id": "558742412692677"
     }
   ]
 }
