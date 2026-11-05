@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T08:15:17.325703",
-  "count": 797,
+  "updated_at": "2026-11-05T09:15:41.494864",
+  "count": 799,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -24828,6 +24828,69 @@
       "first_scraped_at": "2026-11-05T16:07:05.245461+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "I\u2019m looking for a sublet or lease take over starting any time after November 14th, December 1st at the latest",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2268342863730508",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-02-15",
+      "move_out_date": "2026-04-01",
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Astoria",
+        "Washington Heights"
+      ],
+      "area": "Queens",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": 30,
+      "bio": "30-year-old musical theatre actor seeking a furnished sublet for audition season.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2268342863730508",
+      "posted_at": "Thursday 5 November 2026 at 08:33",
+      "first_scraped_at": "2026-11-05T17:07:04.054177+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "February 15th-April 1st (or 15th). I'm a 30-year-old musical theatre actor looking for a space for audition season. Max budget",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2268324483732346",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-17",
+      "move_out_date": "2026-12-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Financial District"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Spanish fashion photographer based in Berlin traveling to NYC Nov 17\u2013Dec 15 for a photography workshop and shoots. Calm, tidy non-smoker; flexible and offers a reciprocal stay in Berlin.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2268324483732346",
+      "posted_at": "Thursday 5 November 2026 at 08:09",
+      "first_scraped_at": "2026-11-05T17:07:04.054177+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a Spanish fashion photographer based in Berlin, and I\u2019m coming to New York from around 17 November to 15 December",
       "group_id": "149460102285472"
     }
   ]
