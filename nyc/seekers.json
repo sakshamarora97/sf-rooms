@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-04T17:21:37.406189",
-  "count": 778,
+  "updated_at": "2026-11-04T18:23:53.280235",
+  "count": 782,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -24248,6 +24248,130 @@
       "first_scraped_at": "2026-11-05T01:09:58.236671+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "DEC/JAN 1ST-APR-JUN Hi! Updating because Im still on the hunt. @everyone I'm Jocelyn and I'm moving to NY from San",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2924495337916731",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-19",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a male vegetarian roommate",
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old software engineer in fintech/trading. Clean, organized, non-smoking, fitness-oriented; cooks vegetarian Indian food.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2924495337916731",
+      "posted_at": "Wednesday 4 November 2026 at 17:02",
+      "first_scraped_at": "2026-11-05T02:11:12.845040+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Vegetarian Roommate 2B/2B in Newport/Jersey City ~$2.6K Budget Hi everyone! I\u2019m looking for a male vegetarian roommate to apartment hunt",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2267715633793231",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-21",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Astoria",
+        "Elmhurst",
+        "Jackson Heights"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a roommate in Astoria, Elmhurst, or Jackson Heights; wants to move in by 2026-11-21 and commit to at least one year; budget $1,000\u2013$1,100.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2267715633793231",
+      "posted_at": "Wednesday 4 November 2026 at 18:03",
+      "first_scraped_at": "2026-11-05T02:11:12.845040+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a roommate in the Astoria, Elmhurst, Jackson Heights area. I\u2019m hoping for a move in by November 21st.",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2267605870470874",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2267605870470874",
+      "posted_at": "Wednesday 4 November 2026 at 15:31",
+      "first_scraped_at": "2026-11-05T02:11:12.845040+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet a furnished one bedroom or studio anywhere in Manhattan (under 96th street) with move-in as soon as possible till",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2267605070470954",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Girl; wants female roommates",
+      "reason": "student",
+      "age": 21,
+      "bio": "21-year-old Fashion Design student at FIT seeking to move to Manhattan around January and connect with female roommates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2267605070470954",
+      "posted_at": "Wednesday 4 November 2026 at 15:30",
+      "first_scraped_at": "2026-11-05T02:11:12.845040+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "is Maya, I\u2019m 21 years old and currently studying Fashion Design at FIT. I\u2019m looking to move into an apartment",
       "group_id": "149460102285472"
     }
   ]
