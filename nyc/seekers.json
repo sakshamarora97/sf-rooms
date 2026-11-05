@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-04T19:21:54.283617",
-  "count": 783,
+  "updated_at": "2026-11-04T20:21:44.962995",
+  "count": 784,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -24404,6 +24404,38 @@
       "first_scraped_at": "2026-11-05T03:10:40.664161+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Ruth and I\u2019m looking for a room in Brooklyn starting Dec. 1 or around mid-December. My budget is",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2267768500454611",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-12-01",
+      "budget_min": 900,
+      "budget_max": 1095,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bayside",
+        "Flushing",
+        "Kew Gardens"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates 25+",
+      "reason": null,
+      "age": null,
+      "bio": "Looking for female roommates 25+ to share a 3BR/2BA in Queens; seeks clean, respectful, communicative housemates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2267768500454611",
+      "posted_at": "Wednesday 4 November 2026 at 19:19",
+      "first_scraped_at": "2026-11-05T04:08:23.707219+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Roommates (25+) Queens, NY Hi everyone! I'm looking for female roommates (25+) to share an apartment in Queens, NY. Preferred",
       "group_id": "149460102285472"
     }
   ]
