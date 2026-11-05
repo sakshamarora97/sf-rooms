@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-04T20:21:44.962995",
-  "count": 784,
+  "updated_at": "2026-11-04T21:22:03.098203",
+  "count": 786,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -24407,6 +24407,34 @@
       "group_id": "149460102285472"
     },
     {
+      "listing_id": "2267787887119339",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old recent MBA grad starting work in downtown Manhattan; respectful, clean, easygoing and trustworthy.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2267787887119339",
+      "posted_at": "Wednesday 4 November 2026 at 19:45",
+      "first_scraped_at": "2026-11-05T04:08:23.707219+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "helping my bf (who doesn\u2019t use facebook) look for a room to rent that is available ASAP late December or",
+      "group_id": "149460102285472"
+    },
+    {
       "listing_id": "2267768500454611",
       "post_type": "seeker",
       "duration_type": "long_term",
@@ -24437,6 +24465,36 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Roommates (25+) Queens, NY Hi everyone! I'm looking for female roommates (25+) to share an apartment in Queens, NY. Preferred",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28831142396555239",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 500,
+      "budget_max": 700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female-only roommates; private bedroom",
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28831142396555239",
+      "posted_at": "Wednesday 4 November 2026 at 20:29",
+      "first_scraped_at": "2026-11-05T05:10:51.581773+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for a private room in a female-only apartment in Jersey City, or nearby areas. Budget: $500-700 per month Preference: Private",
+      "group_id": "765841576845364"
     }
   ]
 }
