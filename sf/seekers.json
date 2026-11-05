@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T22:08:47.939500",
-  "count": 3511,
+  "updated_at": "2026-11-05T06:07:57.943630",
+  "count": 3514,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112052,6 +112052,99 @@
       "first_scraped_at": "2026-11-05T06:00:05.722355+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "2-week sublet in SF Bay Area! (Dec 19 Jan 2) Hi everyone! My name is Sharon, a 27F university student",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "28990261220631157",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View",
+        "Los Altos"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a roommate to split a 2-bedroom apartment in Mountain View; budget up to $2,700/month.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28990261220631157",
+      "posted_at": "Thursday 5 November 2026 at 03:49",
+      "first_scraped_at": "2026-11-05T14:00:06.732237+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "looking for a roommate to split a 2-bedroom apartment, ideally in Mountain View near the Caltrain station, with a preference",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "28974126055578007",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants to join group of like minded guys",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old starting a new job in SaaS sales in late November; active, enjoys working out, outdoors, drinks, and meeting people.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/28974126055578007",
+      "posted_at": "Thursday 5 November 2026 at 03:48",
+      "first_scraped_at": "2026-11-05T14:00:06.732237+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "room for rent. Happy to be a sublet or to join a group of like minded guys. I\u2019m\ufffc starting a",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2052919485399623",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term room or sublease in San Francisco starting December 2026. Clean, responsible, friendly, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2052919485399623",
+      "posted_at": "Wednesday 4 November 2026 at 21:52",
+      "first_scraped_at": "2026-11-05T14:00:06.732237+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room/Sublease in San Francisco December Move-in Hi everyone! I\u2019m looking for a room or sublease in San Francisco starting December",
       "group_id": "242765489748374"
     }
   ]
