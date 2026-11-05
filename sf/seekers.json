@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-04T16:08:41.772793",
-  "count": 3503,
+  "updated_at": "2026-11-04T17:09:53.848240",
+  "count": 3505,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -111792,6 +111792,71 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a place where I can either take over a sublease or start a new lease, ideally around the end",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4408002712843813",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "1B1B",
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View",
+        "Sunnyvale",
+        "Palo Alto"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates",
+      "reason": null,
+      "age": null,
+      "bio": "Is a working professional at a tech company seeking housing near Mountain View. Clean, respectful, quiet; open to video calls or tours.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4408002712843813",
+      "posted_at": "Wednesday 4 November 2026 at 16:58",
+      "first_scraped_at": "2026-11-05T01:00:02.352064+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "a working professional at a tech company, looking for housing in Mountain View, Sunnyvale, or Palo Alto. Move-in: Last week",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4408500789460672",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old male who works in Sunnyvale; sociable and easygoing with hobbies including cars, pickleball, cooking, hiking, and walks; will bring two vehicles and needs parking.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4408500789460672",
+      "posted_at": "Wednesday 4 November 2026 at 16:58",
+      "first_scraped_at": "2026-11-05T01:00:02.352064+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "room! Hello everybody! Looking for a 1bedroom, bath can be shared Preferably a closer commute to Sunnyvale since that's where",
+      "group_id": "1511607562483357"
     }
   ]
 }
