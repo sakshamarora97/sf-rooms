@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T07:07:03.234965",
-  "count": 3154,
+  "updated_at": "2026-11-05T08:07:00.367404",
+  "count": 3155,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -105232,6 +105232,42 @@
       "first_scraped_at": "2026-11-05T05:00:03.714481+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Berkeley (University Ave near Shattuck) 1B1B $3,100/mo (negotiable) Available: Nov 13 Dec 30 10-minute walk to UC Berkeley Fully furnished",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1407236017843308",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2027-05-31",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "coin_operated_laundry",
+        "elevator",
+        "dining_area",
+        "microwave",
+        "desk",
+        "bed",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Lives with a female UC Berkeley student-athlete; Female only",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1407236017843308",
+      "posted_at": "Thursday 5 November 2026 at 07:52",
+      "first_scraped_at": "2026-11-05T16:00:07.562208+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "private single room in a 2B/1B apartment near UC Berkeley Freezer for Sale: $85 Room monthly Rent:$1200 Female only Posting",
       "group_id": "558742412692677"
     }
   ]
