@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T11:07:21.867643",
-  "count": 3203,
+  "updated_at": "2026-11-06T12:05:23.075604",
+  "count": 3204,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -106940,6 +106940,41 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "MLK Downtown Berkeley Hi Our 3bed-2.5bath townhome becoming available from Jan 1st (can work out early move-in during Dec). 3",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "2054578011900437",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 900,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "air_conditioning",
+        "walk_in_closet",
+        "bathtub",
+        "full_kitchen",
+        "refrigerator"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2054578011900437",
+      "posted_at": "Friday 6 November 2026 at 10:56",
+      "first_scraped_at": "2026-11-06T20:00:03.710796+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for someone to rent my private 1-bedroom, 1-bathroom and 2bedroom, 2bathroom apartment. This unit is well-equipped and provides a",
+      "group_id": "242765489748374"
     }
   ]
 }
