@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T22:08:33.612796",
-  "count": 3531,
+  "updated_at": "2026-11-06T06:09:31.278293",
+  "count": 3535,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112665,6 +112665,137 @@
       "first_scraped_at": "2026-11-06T04:00:05.126170+00:00",
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "place asap in SF, Sunnyvale, Mountain View, Palo Alto, Los Altos, Menlo or nearby areas. Budget is 1600, month to",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4774256252809377",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Pacific Heights",
+        "Marina",
+        "Cow Hollow",
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old Texas A&M graduate relocating to San Francisco for a new job; enjoys music, concerts, hiking, soccer, art, and travel; easygoing, social, clean, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4774256252809377",
+      "posted_at": "Thursday 5 November 2026 at 18:48",
+      "first_scraped_at": "2026-11-06T14:00:03.615093+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Sean, and I\u2019m moving to San Francisco on November 12th and am looking for an apartment or potential roommates! A",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1407768714456705",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-06-01",
+      "move_out_date": "2026-08-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "Third-year Cal Poly SLO student seeking a short summer sublet while interning in San Francisco's Financial District; looking in Berkeley or Oakland.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1407768714456705",
+      "posted_at": "Thursday 5 November 2026 at 22:27",
+      "first_scraped_at": "2026-11-06T14:00:03.615093+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "is Ashlan and I am a third year at Cal Poly SLO! I have an internship this summer in FIDI",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4409757342668350",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "master_suite",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works remotely as an AI software engineer seeking a furnished private bedroom with en-suite, master suite, or studio in SF or San Jose; prefers covered Tesla parking and short-term or month-to-month rentals.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4409757342668350",
+      "posted_at": "Friday 6 November 2026 at 02:52",
+      "first_scraped_at": "2026-11-06T14:00:03.615093+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for a large Furnished private bedroom with private bathroom, master bedroom suite, or studio apartment to rent in SF,",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4410021875975230",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "28M; has a 6yr old golden retriever",
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old tech professional, tidy and respectful, works full-time. Enjoys golf, outdoor time with his golden retriever, restaurants, sports, and the gym.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4410021875975230",
+      "posted_at": "Friday 6 November 2026 at 02:52",
+      "first_scraped_at": "2026-11-06T14:00:03.615093+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "professional 6yr old golden retriever seeking apartment/house/room starting Dec or Jan 1 Hey everyone! I\u2019m Ryan a 28-year-old working professional",
       "group_id": "1511607562483357"
     }
   ]
