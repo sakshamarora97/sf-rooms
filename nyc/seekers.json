@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T18:16:22.057683",
-  "count": 812,
+  "updated_at": "2026-11-05T19:19:18.178282",
+  "count": 814,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -25281,6 +25281,73 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Private Room in Manhattan Chinatown Hi everyone! I\u2019m a Burmese international student looking to rent a private room in Manhattan,",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28844616175207861",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two working professionals seeking a private bedroom around Newport or Jersey City.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28844616175207861",
+      "posted_at": "Thursday 5 November 2026 at 18:38",
+      "first_scraped_at": "2026-11-06T03:08:59.025259+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "friend and I are working professionals looking to rent a private bedroom around the Newport or Jersey City area. Please",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1006488561821820",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-07",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Clinton Hill",
+        "Boerum Hill",
+        "Park Slope",
+        "Crown Heights",
+        "Williamsburg"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Has a service dog.",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recently moved to the U.S.; has a service dog and limited credit history; seeking a studio or 1-bedroom in Brooklyn.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1006488561821820",
+      "posted_at": "Thursday 5 November 2026 at 18:51",
+      "first_scraped_at": "2026-11-06T03:08:59.025259+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "for a \ud835\ude00\ud835\ude01\ud835\ude02\ud835\uddf1\ud835\uddf6\ud835\uddfc \ud835\uddfc\ud835\uddff \ud835\udfed-\ud835\uddef\ud835\uddf2\ud835\uddf1\ud835\uddff\ud835\uddfc\ud835\uddfc\ud835\uddfa \ud835\uddee\ud835\uddfd\ud835\uddee\ud835\uddff\ud835\ude01\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 starting \ud835\udddd\ud835\uddee\ud835\uddfb\ud835\ude02\ud835\uddee\ud835\uddff\ud835\ude06 \ud835\udff3, \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff3, either as a \ud835\uddf9\ud835\uddfc\ud835\uddfb\ud835\uddf4-\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfa \ud835\ude00\ud835\ude02\ud835\uddef\ud835\uddf9\ud835\uddf2\ud835\ude01 or a \ud835\uddf9\ud835\uddf2\ud835\uddee\ud835\ude00\ud835\uddf2 \ud835\ude01\ud835\uddee\ud835\uddf8\ud835\uddf2\ud835\uddfc\ud835\ude03\ud835\uddf2\ud835\uddff. \ud835\uddd5\ud835\ude02\ud835\uddf1\ud835\uddf4\ud835\uddf2\ud835\ude01:",
+      "group_id": "312692887868061"
     }
   ]
 }
