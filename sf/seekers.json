@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T08:07:23.584675",
-  "count": 3540,
+  "updated_at": "2026-11-06T09:07:44.809493",
+  "count": 3543,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112958,6 +112958,90 @@
       "first_scraped_at": "2026-11-06T16:00:03.314566+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "month studio lease from 12/1 or roommates!! Hey y\u2019all. My name\u2019s Sean, I\u2019m moving to SF next week and am",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4774992649402404",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants a female roommate",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recently relocated from India for a pharma consulting job; easygoing, enjoys movies and exploring, values personal space and cleanliness.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4774992649402404",
+      "posted_at": "Friday 6 November 2026 at 08:03",
+      "first_scraped_at": "2026-11-06T17:00:06.170934+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "female roommate in SF! Hi everyone! I\u2019m Ankita, and I\u2019ve recently moved to the Bay Area from India for work.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2054470545244517",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates",
+      "reason": null,
+      "age": 22,
+      "bio": "Works at a legal company in San Francisco and is seeking a private bedroom in Downtown Berkeley or San Francisco. Keeps shared spaces tidy; enjoys cafe hopping, cooking, dancing, movies, and hiking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2054470545244517",
+      "posted_at": "Friday 6 November 2026 at 08:27",
+      "first_scraped_at": "2026-11-06T17:00:06.170934+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Tanni, I am 22 and looking to move to Downtown Berkeley/Durant area or am also open to San",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2054450715246500",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2054450715246500",
+      "posted_at": "Friday 6 November 2026 at 08:06",
+      "first_scraped_at": "2026-11-06T17:00:06.170934+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a month to month lease in the SF/Bay area. Please let me know if you have anything.",
       "group_id": "242765489748374"
     }
   ]

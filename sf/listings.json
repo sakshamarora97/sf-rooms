@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T08:07:23.584675",
-  "count": 3199,
+  "updated_at": "2026-11-06T09:07:44.809493",
+  "count": 3200,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -106800,6 +106800,45 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "3B/2B Apartment in Mountain View Move-in: Dec 12 (Flexible) Looking for a flatmate to share a spacious and budget-friendly 3-bedroom,",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4774971209404548",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1700,
+      "neighborhood": "Campbell",
+      "area": "South Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "balcony",
+        "community_pool",
+        "parking",
+        "storage",
+        "dishwasher",
+        "refrigerator",
+        "hardwood_floors",
+        "bathtub",
+        "heating"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Professional roommate; wants one person only, no couples; no pets",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4774971209404548",
+      "posted_at": "Friday 6 November 2026 at 07:43",
+      "first_scraped_at": "2026-11-06T17:00:06.170934+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for Rent Campbell $1,700 Private bedroom private bathroom in a quiet, clean 2BR/2BA apartment, fully remodeled in 2025. For one",
+      "group_id": "2176716625896699"
     }
   ]
 }
