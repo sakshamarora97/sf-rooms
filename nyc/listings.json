@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T15:17:05.528212",
-  "count": 2280,
+  "updated_at": "2026-11-05T16:18:17.127652",
+  "count": 2282,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -76291,6 +76291,78 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Massive 1,000 SF Private Terrace in the Heart of Little Italy! Welcome to 111 Mulberry Street, a modern luxury oasis",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2268641137034014",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Clinton Hill",
+      "area": "Brooklyn",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "AC",
+        "heat",
+        "rooftop",
+        "high_ceilings",
+        "natural_light"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 3 roommates; prefers male, no couples; cats possibly, no dogs",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2268641137034014",
+      "posted_at": "Thursday 5 November 2026 at 15:57",
+      "first_scraped_at": "2026-11-06T00:07:14.767101+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a 4BD 2BA near Pratt, $1,500/mo, move in ASAP Looking for a fourth roommate to take the last room in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2268614190370042",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1450,
+      "neighborhood": "East Village",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "garden",
+        "exposed_brick",
+        "renovated_bathroom",
+        "high_ceilings",
+        "modern_kitchen",
+        "built_in_bookcases",
+        "utilities_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Pets OK",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2268614190370042",
+      "posted_at": "Thursday 5 November 2026 at 15:08",
+      "first_scraped_at": "2026-11-06T00:07:14.767101+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "East Village* I'm subleasing fully furnished one-bedroom garden apartment in the East Village. Details below: *Rent:* $1,450/month (utilities and internet",
+      "group_id": "149460102285472"
     }
   ]
 }
