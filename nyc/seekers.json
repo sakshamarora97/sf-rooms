@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-06T08:16:07.216780",
-  "count": 830,
+  "updated_at": "2026-11-06T09:15:08.208168",
+  "count": 831,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -25849,6 +25849,37 @@
       "first_scraped_at": "2026-11-06T16:07:28.688202+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "to sublet Hi!! We are two friends looking to for a long term sublet beginning in January. We are looking",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2269382760293185",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": "2027-09-30",
+      "budget_min": 3000,
+      "budget_max": 3600,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 25,
+      "bio": "They are 25 and work full-time in interior design in person; social, enjoys restaurants, going out, working out, and is clean and respectful.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269382760293185",
+      "posted_at": "Friday 6 November 2026 at 08:25",
+      "first_scraped_at": "2026-11-06T17:07:49.786375+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1 Bedroom Long-Term Sublet or Lease Takeover Hi everyone!! I'm 25 and looking for a studio or 1-bedroom apartment in",
       "group_id": "149460102285472"
     }
   ]
