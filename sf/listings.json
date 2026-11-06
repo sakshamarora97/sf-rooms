@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T14:07:05.986628",
-  "count": 3208,
+  "updated_at": "2026-11-06T15:06:18.296042",
+  "count": 3209,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -107099,6 +107099,43 @@
       "first_scraped_at": "2026-11-06T22:00:04.331229+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "near campus Hey everyone! I\u2019m subleasing my room for spring semester (early January to mid-May) while I\u2019m abroad for $1,000/month.",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1408419937724916",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1800,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-15",
+      "available_until": "2027-01-18",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_heating",
+        "gym",
+        "clubhouse",
+        "pool_table",
+        "24_7_security",
+        "outdoor_courtyard",
+        "high_speed_internet",
+        "furnished"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "K Street Flat",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1408419937724916",
+      "posted_at": "Friday 6 November 2026 at 14:32",
+      "first_scraped_at": "2026-11-06T23:00:04.447963+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Short-term Rental Luxury Apartment, 8-Minute Walk to UCB [Short-term Rental/Sublet] Premium 2B1B at K Street Flat (Effectively a private 1B1B",
       "group_id": "558742412692677"
     }
   ]
