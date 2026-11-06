@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T10:07:32.504621",
-  "count": 3202,
+  "updated_at": "2026-11-06T11:07:21.867643",
+  "count": 3203,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -106904,6 +106904,42 @@
       "source_group": "Berkeley Housing",
       "search_snippet": null,
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2787609944968143",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": 4800,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "3B2.5B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "townhome",
+        "two_living_rooms",
+        "new_construction_2025",
+        "near_trader_joes",
+        "near_public_transportation",
+        "near_restaurants",
+        "3_blocks_from_Cal"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2787609944968143",
+      "posted_at": "Friday 6 November 2026 at 10:11",
+      "first_scraped_at": "2026-11-06T19:00:06.204892+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "MLK Downtown Berkeley Hi Our 3bed-2.5bath townhome becoming available from Jan 1st (can work out early move-in during Dec). 3",
+      "group_id": "128476910881473"
     }
   ]
 }
