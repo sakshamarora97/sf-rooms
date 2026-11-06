@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T21:18:55.350704",
-  "count": 2292,
+  "updated_at": "2026-11-05T22:18:19.329113",
+  "count": 2293,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -76696,6 +76696,41 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "privado Cocina compartida 1 persona 1200 2 personas 1400 See less",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28244523518559171",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 4100,
+      "neighborhood": "DUMBO",
+      "area": "Brooklyn",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "hardwood_floors",
+        "high_ceilings",
+        "exposed_ceilings",
+        "large_windows",
+        "natural_light",
+        "open_layout"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/28244523518559171",
+      "posted_at": "Thursday 5 November 2026 at 18:37",
+      "first_scraped_at": "2026-11-06T06:08:38.155343+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "Space 1,040 SF $4,100/Month /Dumbo Located at 247 Water Street Downtown Brooklyn Bright, spacious, and beautifully designed commercial loft featuring",
+      "group_id": "812568135514746"
     }
   ]
 }
