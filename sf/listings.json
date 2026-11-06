@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T21:08:09.268932",
-  "count": 3192,
+  "updated_at": "2026-11-05T22:08:33.612796",
+  "count": 3194,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -106552,6 +106552,72 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "NORTH SAN JOSE Prime North San Jose Location https://maps.app.goo.gl/VAfwRbQQ8TjX1KLRA?g_st=ic Available: Nov 16, 2026 May 16, 2027 Extension available, with the",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1407750017791908",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1000,
+      "neighborhood": "Downtown Oakland",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "ensuite_bathroom",
+        "assigned_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1407750017791908",
+      "posted_at": "Thursday 5 November 2026 at 21:55",
+      "first_scraped_at": "2026-11-06T06:00:05.895298+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "than 5 minute walk from 12th street bart station and 2 minutes from shooting star cafe! Renting out primary bedroom",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1407734227793487",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "South Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-06-30",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "backyard",
+        "street_parking",
+        "in_unit_laundry",
+        "full_kitchen",
+        "furnished_bedroom",
+        "bike_storage"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 3 male roommates",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1407734227793487",
+      "posted_at": "Thursday 5 November 2026 at 21:33",
+      "first_scraped_at": "2026-11-06T06:00:05.895298+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "$1350 Utilities! Looking for someone to move into a single bedroom in a 4 Bedroom house, available January through June",
+      "group_id": "558742412692677"
     }
   ]
 }
