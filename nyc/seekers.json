@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-06T12:16:17.349607",
-  "count": 838,
+  "updated_at": "2026-11-06T13:15:40.336808",
+  "count": 840,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -26102,6 +26102,69 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "ON HERE IN NEED OF A PLACE TO RENT AND MOVE IN AS SOON AS POSSIBLE?",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2269530396945088",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Upper East Side",
+        "Upper West Side",
+        "Midtown",
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old software engineer relocating from Miami for a short-term transfer to their company's NYC office; seeking a one-bedroom or studio sublet.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269530396945088",
+      "posted_at": "Friday 6 November 2026 at 11:24",
+      "first_scraped_at": "2026-11-06T21:06:50.624839+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a one bedroom or studio sublet from ASAP to mid-January. Open to options in UES, UWS, Midtown or Downtown Manhattan",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2269526513612143",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-18",
+      "move_out_date": "2026-12-21",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Three clean friends seeking a short holiday stay; will be mostly sleeping and out.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269526513612143",
+      "posted_at": "Friday 6 November 2026 at 11:18",
+      "first_scraped_at": "2026-11-06T21:06:50.624839+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room/apartment December 18-21st. I know it\u2019s a short stay, but if anyone wants to rent out their apartment if you",
+      "group_id": "149460102285472"
     }
   ]
 }
