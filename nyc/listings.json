@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T19:19:18.178282",
-  "count": 2289,
+  "updated_at": "2026-11-05T20:21:01.689167",
+  "count": 2291,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -76594,6 +76594,77 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Nov 25 Dec 3 (Thanksgiving weekend!) [girls only] Hey everyone! Subletting my room in Soho for $1,300 over 8 nights",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2926361711063427",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1000,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-15",
+      "available_until": "2026-11-30",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "swimming_pool",
+        "gym",
+        "sauna",
+        "private_shuttle_to_Hoboken_PATH",
+        "in_unit_laundry",
+        "modern_appliances",
+        "game_room",
+        "lounges",
+        "luxury_building",
+        "walking_distance_to_Newport_Mall_and_stores"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Soho Lofts",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with clean working professionals; no gender preference; has a cat",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2926361711063427",
+      "posted_at": "Thursday 5 November 2026 at 19:40",
+      "first_scraped_at": "2026-11-06T04:10:15.702048+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Available for a Huge Private Bedroom Private Bath Soho Lofts (Jersey City) Available November 15 November 30 Location: 273 16th",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2926360501063548",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2175,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "waterfront_view",
+        "high_floor"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Southampton",
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Wants a female roommate",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2926360501063548",
+      "posted_at": "Thursday 5 November 2026 at 19:39",
+      "first_scraped_at": "2026-11-06T04:10:15.702048+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "friend: Master Bedroom Available for Sublease (or lease transfer) ASAP Newport, Jersey City Looking for a female to sublease a",
+      "group_id": "1138638939835722"
     }
   ]
 }
