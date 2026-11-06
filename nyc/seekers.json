@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T22:18:19.329113",
-  "count": 820,
+  "updated_at": "2026-11-06T06:17:12.586267",
+  "count": 825,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -25535,6 +25535,163 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for a \ud835\ude00\ud835\ude01\ud835\ude02\ud835\uddf1\ud835\uddf6\ud835\uddfc \ud835\uddfc\ud835\uddff \ud835\udfed-\ud835\uddef\ud835\uddf2\ud835\uddf1\ud835\uddff\ud835\uddfc\ud835\uddfc\ud835\uddfa \ud835\uddee\ud835\uddfd\ud835\uddee\ud835\uddff\ud835\ude01\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 starting \ud835\udddd\ud835\uddee\ud835\uddfb\ud835\ude02\ud835\uddee\ud835\uddff\ud835\ude06 \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff3, either as a \ud835\uddf9\ud835\uddfc\ud835\uddfb\ud835\uddf4-\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfa \ud835\ude00\ud835\ude02\ud835\uddef\ud835\uddf9\ud835\uddf2\ud835\ude01 or a \ud835\uddf9\ud835\uddf2\ud835\uddee\ud835\ude00\ud835\uddf2 \ud835\ude01\ud835\uddee\ud835\uddf8\ud835\uddf2\ud835\uddfc\ud835\ude03\ud835\uddf2\ud835\uddff (ideally 2",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2269244550307006",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Morningside Heights"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "27F; wants female-identifying roommate",
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old female working full-time with at least three days in-office. Enjoys cooking, respectful of shared space, and has roommate experience.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269244550307006",
+      "posted_at": "Friday 6 November 2026 at 05:47",
+      "first_scraped_at": "2026-11-06T14:09:36.970188+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Hi everyone! I am trying to finalize an apartment near Morningside Heights. My previous roommate fell through, so I am",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2269227226975405",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Upper West Side",
+        "Upper East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Has two cats",
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a roommate or sublet for early January; works in person four days a week, is clean, respectful, social, and has two cats.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269227226975405",
+      "posted_at": "Friday 6 November 2026 at 05:27",
+      "first_scraped_at": "2026-11-06T14:09:36.970188+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "am looking for a roommate or an open room to sublet in a 2 bd for an early Jan move",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2269222386975889",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Queens",
+        "Brooklyn"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 27,
+      "bio": "27-year-old sushi chef and part-time student. Laid-back, clean, enjoys cooking, music, records, ukulele, and Muay Thai; occasionally has friends or family visit.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269222386975889",
+      "posted_at": "Friday 6 November 2026 at 05:20",
+      "first_scraped_at": "2026-11-06T14:09:36.970188+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "I\u2019m Cameron. I\u2019m looking for a room in Queens, Brooklyn, or the heights as well! My budget is around 1200-1500",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2269158480315613",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Clean, respectful, responsible, and easygoing; usually out during the day and keeps a quiet home routine. Vapes only; does not smoke cigarettes or 420.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269158480315613",
+      "posted_at": "Friday 6 November 2026 at 03:57",
+      "first_scraped_at": "2026-11-06T14:09:36.970188+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "I\u2019m looking for a room in a shared apartment or a 1-bedroom studio for up to $2000/month. Brooklyn or manhattan",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28850703427932469",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2400,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "2B1B",
+        "1B + Den"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28850703427932469",
+      "posted_at": "Friday 6 November 2026 at 05:28",
+      "first_scraped_at": "2026-11-06T14:09:36.970188+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "2B1B or 1B Den apartment in JSQ, Jersey City, for 3 people, starting December 1st. Looking for a 2B1B or",
+      "group_id": "765841576845364"
     }
   ]
 }
