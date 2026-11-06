@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-05T20:21:01.689167",
-  "count": 2291,
+  "updated_at": "2026-11-05T21:18:55.350704",
+  "count": 2292,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -76665,6 +76665,37 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "friend: Master Bedroom Available for Sublease (or lease transfer) ASAP Newport, Jersey City Looking for a female to sublease a",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2268837610347700",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "shared_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2268837610347700",
+      "posted_at": "Thursday 5 November 2026 at 20:28",
+      "first_scraped_at": "2026-11-06T05:08:13.721249+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "privado Cocina compartida 1 persona 1200 2 personas 1400 See less",
+      "group_id": "149460102285472"
     }
   ]
 }
