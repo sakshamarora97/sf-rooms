@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T18:05:51.780229",
-  "count": 3523,
+  "updated_at": "2026-11-05T19:08:53.562877",
+  "count": 3525,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112420,6 +112420,64 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "place with a garage or backyard for gym equipment. Budget: ~$2000/month Hey! I\u2019m looking to move in SF and would",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1407634414470135",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Third-year student; wants female roommate",
+      "reason": "student",
+      "age": null,
+      "bio": "Third-year student returning to Berkeley after a year off.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1407634414470135",
+      "posted_at": "Thursday 5 November 2026 at 18:49",
+      "first_scraped_at": "2026-11-06T03:00:07.072246+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "private bedroom sublease lease takeover for Spring 2027 Hi everyone, Im a third year returning to Berkeley this Spring after",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1407233494510227",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Transfer student starting at UC Berkeley in January; has a remote job with stable income and a good credit score.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1407233494510227",
+      "posted_at": "Thursday 5 November 2026 at 18:22",
+      "first_scraped_at": "2026-11-06T03:00:07.072246+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Studio rent/sublet/take over lease. Hello all! I am a transfer student who will begin attending UC Berkeley this upcoming January.",
+      "group_id": "558742412692677"
     }
   ]
 }
