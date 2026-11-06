@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-06T10:14:57.896001",
-  "count": 834,
+  "updated_at": "2026-11-06T11:17:34.128694",
+  "count": 835,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -25979,6 +25979,37 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Everyone! My name is Jack Slade, and my friend Aiden and I are planning to more to NYC in early",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28854193537583458",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female roommates",
+      "reason": null,
+      "age": 26,
+      "bio": "She is a 26-year-old female seeking female roommates or a room in downtown Jersey City or Hoboken. She wants to keep budget under $2,000 and be within a 10\u201315 minute walk to the PATH or a building with a shuttle for a four-day-a-week commute.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28854193537583458",
+      "posted_at": "Friday 6 November 2026 at 10:43",
+      "first_scraped_at": "2026-11-06T19:07:26.660490+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "am a 26 year old female looking for other females (preferably also in their 20s or early 30s) seeking a",
+      "group_id": "765841576845364"
     }
   ]
 }
