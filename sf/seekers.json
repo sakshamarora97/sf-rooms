@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-05T16:07:10.422424",
-  "count": 3522,
+  "updated_at": "2026-11-05T17:06:28.669474",
+  "count": 3523,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -112392,6 +112392,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "is Pablo. I\u2019m moving to the city by January 1st and am looking for 2-3 male roommates to move with.",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4773997916168544",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old hospitality worker in Fisherman\u2019s Wharf who performs stand-up at night; seeks a shared house or room with garage/backyard space for gym equipment.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4773997916168544",
+      "posted_at": "Thursday 5 November 2026 at 13:30",
+      "first_scraped_at": "2026-11-06T01:00:05.458407+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "place with a garage or backyard for gym equipment. Budget: ~$2000/month Hey! I\u2019m looking to move in SF and would",
+      "group_id": "2176716625896699"
     }
   ]
 }
