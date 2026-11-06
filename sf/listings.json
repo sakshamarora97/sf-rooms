@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T12:05:23.075604",
-  "count": 3204,
+  "updated_at": "2026-11-06T13:06:46.175355",
+  "count": 3205,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -106975,6 +106975,43 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for someone to rent my private 1-bedroom, 1-bathroom and 2bedroom, 2bathroom apartment. This unit is well-equipped and provides a",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1408342717732638",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1070,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "fully_furnished",
+        "stainless_steel_kitchen_appliances",
+        "live-in_community_manager",
+        "on-site_laundry",
+        "secure_keyless_access",
+        "controlled_access_with_cameras",
+        "near_downtown",
+        "near_Downtown_Berkeley_BART"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1408342717732638",
+      "posted_at": "Friday 6 November 2026 at 12:12",
+      "first_scraped_at": "2026-11-06T21:00:05.420894+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Rooms starting at $1,480 Shared Rooms starting at $1,070 Spring Semester 12-month leases available DM for more information Experience classic",
+      "group_id": "558742412692677"
     }
   ]
 }

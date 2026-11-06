@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T12:05:23.075604",
-  "count": 3544,
+  "updated_at": "2026-11-06T13:06:46.175355",
+  "count": 3547,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113076,6 +113076,103 @@
       "first_scraped_at": "2026-11-06T19:00:06.204892+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "to find a room for rent with other like-minded guys in their 20s. Starting a new job in Fidi at",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4775021412732861",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Has no pets",
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old with a full-time in-person job at a social impact organization in the Financial District. Quiet, considerate, tidy, non-smoker, and no pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4775021412732861",
+      "posted_at": "Friday 6 November 2026 at 08:32",
+      "first_scraped_at": "2026-11-06T21:00:05.420894+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Talia, and I\u2019m searching for a studio or one-bedroom in SF. Feel free to message me if you",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2054635431894695",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-06-30",
+      "budget_min": 4000,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "3B"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "Emeryville"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Three girls",
+      "reason": "internship",
+      "age": null,
+      "bio": "They are three Cal Poly SLO undergraduate students seeking a January\u2013June 2027 sublease while interning near the Financial District.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2054635431894695",
+      "posted_at": "Friday 6 November 2026 at 12:20",
+      "first_scraped_at": "2026-11-06T21:00:05.420894+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "June 2027 Housing! Hii! My name is Ashley and me and 2 other girls (Kaitlyn and Nora) are looking for",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2054624345229137",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Belmont",
+        "San Mateo",
+        "Redwood City",
+        "Menlo Park",
+        "Mountain View",
+        "Sunnyvale"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": "relocation",
+      "age": 30,
+      "bio": "30-year-old tech company employee relocating from Denver; calm, friendly, non-smoker who keeps spaces clean and respects personal space.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2054624345229137",
+      "posted_at": "Friday 6 November 2026 at 12:09",
+      "first_scraped_at": "2026-11-06T21:00:05.420894+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a private room with a shared or private bathroom in a shared apartment or house. Preferred locations: Belmont,",
       "group_id": "242765489748374"
     }
   ]
