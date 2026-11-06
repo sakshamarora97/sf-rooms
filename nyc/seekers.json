@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-06T09:15:08.208168",
-  "count": 831,
+  "updated_at": "2026-11-06T10:14:57.896001",
+  "count": 834,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -25881,6 +25881,104 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "1 Bedroom Long-Term Sublet or Lease Takeover Hi everyone!! I'm 25 and looking for a studio or 1-bedroom apartment in",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2269461876951940",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1750,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hoboken",
+        "Jersey City",
+        "Manhattan"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old West Virginia University graduate working in litigation; very clean and social, enjoys hosting, dining out, shopping and girls' nights.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269461876951940",
+      "posted_at": "Friday 6 November 2026 at 09:53",
+      "first_scraped_at": "2026-11-06T18:07:37.269825+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "is Jill I\u2019m from New Jersey and I\u2019m looking to move to Hoboken/Jersey city or Manhattan sometime in late December",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2269441433620651",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "2BR"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Financial District",
+        "Chelsea",
+        "Hell's Kitchen",
+        "Murray Hill",
+        "Long Island City"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; coming with another female.",
+      "reason": "internship",
+      "age": 22,
+      "bio": "22-year-old Georgia Tech student interning as a software engineering intern in Manhattan for summer 2027. Super clean, responsible, easygoing; enjoys figure skating, pilates, walking, and hanging out with friends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269441433620651",
+      "posted_at": "Friday 6 November 2026 at 09:25",
+      "first_scraped_at": "2026-11-06T18:07:37.269825+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Summer 2027 Sublet Late May Mid August Budget: $2,500/month and under Hi everyone! I\u2019m a 22-year-old female student at Georgia",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1007096055094404",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Two clean, easygoing, adventurous people planning to move to NYC in early January, seeking a 3\u20136 month sublet.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1007096055094404",
+      "posted_at": "Friday 6 November 2026 at 09:59",
+      "first_scraped_at": "2026-11-06T18:07:37.269825+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Everyone! My name is Jack Slade, and my friend Aiden and I are planning to more to NYC in early",
+      "group_id": "312692887868061"
     }
   ]
 }
