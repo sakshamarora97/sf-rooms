@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T16:06:54.515241",
-  "count": 3548,
+  "updated_at": "2026-11-06T17:07:02.029642",
+  "count": 3549,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113203,6 +113203,43 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "2027 Housing options: Need a 1Bd/1Ba apartment-style, not shared space. Some places aren't taking applications for Fall 2027 just yet.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2054760841882154",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Union Square",
+        "Hayes Valley",
+        "Dolores Heights",
+        "NoPa",
+        "SoMa",
+        "Mission District",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "He recently moved to San Francisco and works on the business side at a tech company. Easygoing, enjoys tennis, biking, beaches, and occasional outings; seeks a clean, respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2054760841882154",
+      "posted_at": "Friday 6 November 2026 at 15:47",
+      "first_scraped_at": "2026-11-07T01:00:03.921372+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate in SF! Hi everyone! I\u2019m Pranay and I\u2019ve recently moved to SF. I work in the business side at",
+      "group_id": "242765489748374"
     }
   ]
 }
