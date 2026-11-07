@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-06T21:17:33.762472",
-  "count": 852,
+  "updated_at": "2026-11-06T22:16:33.067487",
+  "count": 853,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -26537,6 +26537,39 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "DECEMBER JANUARY Hi everyone! I\u2019m looking to rent a room in NYC for the months of December and January. A",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28860646086938203",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2BHK",
+        "3BHK"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": null,
+      "age": null,
+      "bio": "Female working professional seeking a private room in Jersey City/Hoboken/Harrison, prefers near PATH or light rail; open to teaming up to find a 2BHK or 3BHK, move-in Dec 1.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28860646086938203",
+      "posted_at": "Friday 6 November 2026 at 21:35",
+      "first_scraped_at": "2026-11-07T06:06:07.800279+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "female working professional looking for a private room in jersey city /hoboken/ Harrison NJ, preferably near to path or light",
+      "group_id": "765841576845364"
     }
   ]
 }

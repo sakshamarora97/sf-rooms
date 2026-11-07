@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-06T21:17:33.762472",
-  "count": 2376,
+  "updated_at": "2026-11-06T22:16:33.067487",
+  "count": 2377,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -79539,6 +79539,42 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "DUMBO 69 Adams Street Advertised price: $3,730/month net effective Gross rent: $4,477/month, with 2 months free on a 12-month lease.",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "1443053428013181",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gated_compound",
+        "pop_ceiling",
+        "wardrobe",
+        "kitchen_cabinet",
+        "parlor",
+        "dining_area",
+        "PVC_rooms"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/464323609219506/posts/1443053428013181",
+      "posted_at": "Friday 6 November 2026 at 21:29",
+      "first_scraped_at": "2026-11-07T06:06:07.800279+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "WITH POP ALL ROUND IN A GATED NEAT COMPOUND AT BLESSED ASSURANCE CHURCH AXIS EKEWAN RD.JUST 6 MINUTES TREK TO",
+      "group_id": "464323609219506"
     }
   ]
 }
