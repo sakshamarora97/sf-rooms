@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T11:06:26.222326",
-  "count": 3558,
+  "updated_at": "2026-11-07T12:06:12.224200",
+  "count": 3561,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113535,6 +113535,92 @@
       "first_scraped_at": "2026-11-07T19:00:02.019971+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "name is Kayla and I\u2019m looking to move from the East Bay to SF around late December or January to",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4776491462585856",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Gay cis man",
+      "reason": "student",
+      "age": null,
+      "bio": "Works part-time and is seeking a room for the spring semester (Jan\u2013June). Clean, respectful, and has parental financial support.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4776491462585856",
+      "posted_at": "Saturday 7 November 2026 at 11:26",
+      "first_scraped_at": "2026-11-07T20:00:03.787134+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "wanted to introduce myself and share a photo I just took. I am currently looking for a room to rent",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2055603118464593",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants girls",
+      "reason": "new_job",
+      "age": 23,
+      "bio": "23-year-old flight attendant who is clean, respectful, and easygoing. Travels frequently for work but is social and laid-back when home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055603118464593",
+      "posted_at": "Saturday 7 November 2026 at 10:55",
+      "first_scraped_at": "2026-11-07T20:00:03.787134+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a roommate or a couple of roommates who would be interested in finding an apartment together and signing",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2055602308464674",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Prefers women and/or LGBTQ+ roommates; open to anyone kind.",
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old chef and artist relocating to San Francisco for a downtown culinary job; creative, enjoys cooking, music, art, and hosting small gatherings.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055602308464674",
+      "posted_at": "Saturday 7 November 2026 at 10:54",
+      "first_scraped_at": "2026-11-07T20:00:03.787134+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Hi everyone!! I'm 25 and relocating from Santa Cruz to San Francisco for a new full-time culinary job downtown! I'm",
       "group_id": "242765489748374"
     }
   ]
