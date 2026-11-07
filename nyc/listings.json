@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T06:16:06.991695",
-  "count": 2384,
+  "updated_at": "2026-11-07T07:12:37.980482",
+  "count": 2386,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -79817,6 +79817,74 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "2-BEDROOM APARTMENTS FOR RENT IN IMATT! Experience Luxury, Comfort, Security Tranquillity in One of Freetown's Desirable Locations! Looking for a",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2270305943534200",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Lower East Side",
+      "area": "Manhattan",
+      "available_from": "2026-11-25",
+      "available_until": "2026-12-13",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "sunny",
+        "fire_escape_view",
+        "near_Essex_Market",
+        "near_Trader_Joes",
+        "near_Target"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2270305943534200",
+      "posted_at": "Saturday 7 November 2026 at 06:11",
+      "first_scraped_at": "2026-11-07T15:06:01.613000+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "$80/day Nov 25-Dec 13 Looking to sublet my sunny lower east side studio from November 25-December 13, dates not flexible,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28866361949699950",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 950,
+      "neighborhood": "The Heights",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": "2026-12-01",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "attached_private_bathroom",
+        "walk_in_closet",
+        "balcony",
+        "fully_equipped_kitchen",
+        "living_room"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Guy; welcomes couples and girls",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28866361949699950",
+      "posted_at": "Saturday 7 November 2026 at 06:52",
+      "first_scraped_at": "2026-11-07T15:06:01.613000+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "in Jersey City Heights, South Street! Looking for a roommate! Couples and girls are welcome too Room Details: Big, spacious",
+      "group_id": "765841576845364"
     }
   ]
 }
