@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T09:06:38.633613",
-  "count": 3556,
+  "updated_at": "2026-11-07T10:06:12.957563",
+  "count": 3557,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113475,6 +113475,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "ROOM FOR 2 PEOPLE IN SUNNYVALE CUPERTINO SANTA CLARA WEST SAN JOSE UP TO $1,400/MONTH Hi everyone! I\u2019m looking for",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2055027438522161",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-09",
+      "move_out_date": "2027-02-06",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "home",
+        "studio",
+        "ADU",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Travel healthcare provider (Registered Diagnostic Medical Sonographer) with 12+ years experience in trauma and high-acuity settings; quiet, clean, respectful, seeking short-term rental near Kaiser South San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055027438522161",
+      "posted_at": "Friday 6 November 2026 at 22:25",
+      "first_scraped_at": "2026-11-07T18:00:04.211998+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "is Taylor and I am a Travel Healthcare Provider (Registered Diagnostic Medical Sonographer) and am currently seeking any recommendations, advice,",
+      "group_id": "242765489748374"
     }
   ]
 }

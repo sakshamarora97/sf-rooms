@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T09:06:38.633613",
-  "count": 3231,
+  "updated_at": "2026-11-07T10:06:12.957563",
+  "count": 3233,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -107896,6 +107896,77 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "FOR SPRING 27** Hi! My name is Stephania and I will be studying abroad this spring. I am looking for",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "4776272755941060",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Hayward",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "gym",
+        "parking",
+        "guest_parking",
+        "solar_power",
+        "park",
+        "playground"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with owner; prefers >1 year stay; owns a small dog; must be dog-friendly.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4776272755941060",
+      "posted_at": "Saturday 7 November 2026 at 07:44",
+      "first_scraped_at": "2026-11-07T18:00:04.211998+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking to fill 3 bedroom/shared bath in my 4bd 3.5ba townhouse NOW in Hayward! Move in NOW! The home is",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2055513985140173",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1395,
+      "neighborhood": "Bernal Heights",
+      "area": "San Francisco",
+      "available_from": "2026-11-30",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "common_areas_furnished",
+        "wall-mounted_TV",
+        "in_ceiling_lighting",
+        "large_closet",
+        "street_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Household: single gay male and one other roommate; wants a friendly, respectful roommate; open to small dog.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055513985140173",
+      "posted_at": "Saturday 7 November 2026 at 09:00",
+      "first_scraped_at": "2026-11-07T18:00:04.211998+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Bernal Heights Condo $1,395/month I'm moving out at the end of the month and helping the primary leaseholder find a",
+      "group_id": "242765489748374"
     }
   ]
 }
