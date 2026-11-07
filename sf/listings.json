@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T17:07:02.029642",
-  "count": 3215,
+  "updated_at": "2026-11-06T18:06:40.396513",
+  "count": 3216,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -107241,6 +107241,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "have a furnished room in an apartment with 3 others that I am looking to sublet ASAP for roughly 1.5",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4775394929362176",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3200,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "roof_deck",
+        "shared_laundry",
+        "ocean_view",
+        "furnished",
+        "near_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4775394929362176",
+      "posted_at": "Friday 6 November 2026 at 15:47",
+      "first_scraped_at": "2026-11-07T01:00:03.921372+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a roommate for a below-market, rent-controlled apartment in Pacific Heights (lease signed four years ago). I'm hoping to find someone",
+      "group_id": "2176716625896699"
     },
     {
       "listing_id": "29014529934870952",
