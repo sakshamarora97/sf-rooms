@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T12:14:18.889184",
-  "count": 2412,
+  "updated_at": "2026-11-07T13:14:26.840817",
+  "count": 2414,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -80787,6 +80787,74 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "LUXURY HARLEM APARTMENT $1,700/MONTH DECEMBER 1st Looking for someone to take over my fully furnished bedroom in a beautiful, modern",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "1008122124991797",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 2000,
+      "neighborhood": "Midtown",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "doorman",
+        "gym",
+        "terrace_lounge"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1008122124991797",
+      "posted_at": "Saturday 7 November 2026 at 12:36",
+      "first_scraped_at": "2026-11-07T21:06:29.682577+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Manhattan Just minutes from Penn Station the Empire State Building super central for commuting, shopping, and exploring NYC! Building Amenities:",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28269706889374167",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Hell's Kitchen",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "renovated_lobby",
+        "common_areas",
+        "custom_closets",
+        "fully_renovated_kitchen",
+        "double_pane_windows",
+        "HVAC",
+        "mirrored_medicine_cabinet"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "888 Eighth Avenue",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/28269706889374167",
+      "posted_at": "Saturday 7 November 2026 at 12:46",
+      "first_scraped_at": "2026-11-07T21:06:29.682577+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "one-bedroom apartment in Columbus Circle is a must-see! The north facing 9B unit boasts custom closet space, a fully renovated",
+      "group_id": "812568135514746"
     }
   ]
 }
