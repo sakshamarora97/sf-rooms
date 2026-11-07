@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T13:06:24.994288",
-  "count": 3561,
+  "updated_at": "2026-11-07T14:06:55.656816",
+  "count": 3564,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113621,6 +113621,102 @@
       "first_scraped_at": "2026-11-07T20:00:03.787134+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Hi everyone!! I'm 25 and relocating from Santa Cruz to San Francisco for a new full-time culinary job downtown! I'm",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4776590995909236",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-31",
+      "move_out_date": "2027-06-30",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a couple of girls",
+      "reason": "new_job",
+      "age": 21,
+      "bio": "She is a 21-year-old architecture student at Cal Poly SLO moving to San Francisco to work in the Financial District. She keeps a clean, cozy home, enjoys hosting friends, and likes exploring caf\u00e9s and the city.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4776590995909236",
+      "posted_at": "Saturday 7 November 2026 at 13:24",
+      "first_scraped_at": "2026-11-07T22:00:04.231316+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "name is Sanjana, I\u2019m 21, and I\u2019ll be moving to San Francisco at the end of January 2027! I\u2019m currently",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2055711388453766",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Outer Richmond",
+        "NoPa",
+        "Presidio",
+        "Presidio Heights",
+        "Sunset District",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "UCLA graduate working at a free clinic in the Inner Richmond. Outdoorsy foodie who enjoys concerts, hiking, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055711388453766",
+      "posted_at": "Saturday 7 November 2026 at 13:42",
+      "first_scraped_at": "2026-11-07T22:00:04.231316+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Rent ASAP Hi everyone! My name is Maya, and I'm looking to join an apartment in San Francisco at the",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2055689895122582",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055689895122582",
+      "posted_at": "Saturday 7 November 2026 at 13:11",
+      "first_scraped_at": "2026-11-07T22:00:04.231316+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "San Francisco California gracias",
       "group_id": "242765489748374"
     }
   ]
