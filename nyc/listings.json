@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-06T19:16:09.114229",
-  "count": 2372,
+  "updated_at": "2026-11-06T20:20:08.954829",
+  "count": 2374,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -79396,6 +79396,74 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "FOR MASSIVE 3 BED/2 BATH APARTMENT IN MCGINLEY SQUARE, JC WALKING DISTANCE TO LINCOLN PARK AND LIBERTY PARK DEC. 15",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2269824473582347",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1000,
+      "neighborhood": "Prospect Lefferts Gardens",
+      "area": "Brooklyn",
+      "available_from": "2026-11-15",
+      "available_until": null,
+      "unit_config": "4B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 3,
+      "amenities": [
+        "in_building_laundry",
+        "gym",
+        "outdoor_space",
+        "rooftop",
+        "elevator",
+        "dishwasher"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 3 girls.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269824473582347",
+      "posted_at": "Friday 6 November 2026 at 19:16",
+      "first_scraped_at": "2026-11-07T04:08:06.086628+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Lease Start Nov. 15 So 4th person dropped out. We are looking for someone to sign a lease with us",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2269783723586422",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1600,
+      "neighborhood": "Bushwick",
+      "area": "Brooklyn",
+      "available_from": "2026-11-11",
+      "available_until": "2027-02-01",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "gym",
+        "rooftop",
+        "shared_laundry",
+        "central_air"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 roommates; pets OK, has a cat",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269783723586422",
+      "posted_at": "Friday 6 November 2026 at 18:20",
+      "first_scraped_at": "2026-11-07T04:08:06.086628+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Myrtle-Wyckoff L/M Available Nov 11 to Dec 1 AND Dec 18 to Feb 1 Hi all! I'm going back home",
+      "group_id": "149460102285472"
     }
   ]
 }

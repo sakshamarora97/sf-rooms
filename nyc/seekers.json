@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-06T19:16:09.114229",
-  "count": 849,
+  "updated_at": "2026-11-06T20:20:08.954829",
+  "count": 851,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -26444,6 +26444,70 @@
       "first_scraped_at": "2026-11-07T02:06:44.912549+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "looking for a room to rent starting December 1st. If anyone has a room available please let me know. Thank",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2269831013581693",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Bushwick",
+        "Crown Heights"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Solo; wants 2-3 roommates; has a cat",
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old advertising professional working in Manhattan on a hybrid schedule. Ambivert who loves music, fashion, art, restaurants, workouts, dance, museums and live music; easygoing and creative.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2269831013581693",
+      "posted_at": "Friday 6 November 2026 at 19:26",
+      "first_scraped_at": "2026-11-07T04:08:06.086628+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to join a lease! Hi! I\u2019m looking for 2-3 roommates for a January 1 or late December move-in or join",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1007397808397562",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants one roommate; no pets",
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old female healthcare professional; non-smoker, quiet and clean. Prefers in-unit/in-building laundry and one roommate.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1007397808397562",
+      "posted_at": "Friday 6 November 2026 at 18:58",
+      "first_scraped_at": "2026-11-07T04:08:06.086628+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Dec 1 move-in 25F/ working professional in healthcare Location: anywhere near the city with transit (Brooklyn*, Manhattan) Budget: <1,300 (inc.util)",
       "group_id": "312692887868061"
     }
   ]
