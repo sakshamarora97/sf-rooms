@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T14:14:45.418287",
-  "count": 869,
+  "updated_at": "2026-11-07T15:19:03.638164",
+  "count": 871,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -27065,6 +27065,82 @@
       "first_scraped_at": "2026-11-07T22:06:59.940518+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "me with a room for the priod of the December 01-08, 2026? Cash payment upon arrival.",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2270672180164243",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-23",
+      "move_out_date": "2027-09-06",
+      "budget_min": 1500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset Park",
+        "Prospect Heights",
+        "Park Slope",
+        "Williamsburg",
+        "Bushwick",
+        "East Harlem",
+        "Harlem",
+        "Washington Heights",
+        "Hamilton Heights"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Woman",
+      "reason": "other",
+      "age": 33,
+      "bio": "33-year-old French visiting scholar at NYU researching queer archives. Calm and considerate, social yet respects privacy; speaks English, Spanish and some Portuguese.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2270672180164243",
+      "posted_at": "Saturday 7 November 2026 at 14:12",
+      "first_scraped_at": "2026-11-07T23:11:15.142026+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "December-September Hi everyone! I'm a 33-year-old French woman moving to NYC for 8 months as a visiting scholar at NYU,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1008183484985661",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-07",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Clinton Hill",
+        "Boerum Hill",
+        "Park Slope",
+        "Crown Heights",
+        "Williamsburg"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Mid-30s full-time tattoo artist; has a service dog",
+      "reason": null,
+      "age": null,
+      "bio": "Is a mid-30s full-time tattoo artist who travels monthly for work. Quiet, easygoing, enjoys cooking and seeks a clean, comfortable home.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1008183484985661",
+      "posted_at": "Saturday 7 November 2026 at 14:26",
+      "first_scraped_at": "2026-11-07T23:11:15.142026+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "I\u2019m a Mid-30s full time tattoo artist looking for a home starting \ud835\udddd\ud835\uddee\ud835\uddfb\ud835\ude02\ud835\uddee\ud835\uddff\ud835\ude06 \ud835\udff3, \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff3! I\u2019m looking for a \ud835\ude00\ud835\ude01\ud835\ude02\ud835\uddf1\ud835\uddf6\ud835\uddfc",
       "group_id": "312692887868061"
     }
   ]
