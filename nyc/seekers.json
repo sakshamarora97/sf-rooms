@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T09:15:24.202965",
-  "count": 863,
+  "updated_at": "2026-11-07T10:13:52.959552",
+  "count": 865,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -26881,6 +26881,67 @@
       "first_scraped_at": "2026-11-07T17:06:42.977628+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "or basement Looking for a basement studio or 1-bedroom apartment in Journal Square with rent under $1,500 and no broker",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2270488240182637",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-01-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Interior designer and dancer seeking a roommate or room off the L train in Brooklyn starting January 1st.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2270488240182637",
+      "posted_at": "Saturday 7 November 2026 at 09:34",
+      "first_scraped_at": "2026-11-07T18:06:17.266308+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room to rent in Brooklyn starting January 1st Hi! My name is Sofia. I am looking for a roommate to",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28868033842866094",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Exchange Place"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "22-year-old; no gender preference; wants clean housing",
+      "reason": "new_job",
+      "age": 22,
+      "bio": "New 22-year-old graduate software engineer, introverted, enjoys chess, reading, anime, and cooking; prefers clean, quiet home with stable schedule.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28868033842866094",
+      "posted_at": "Saturday 7 November 2026 at 09:23",
+      "first_scraped_at": "2026-11-07T18:06:17.266308+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "roommate (male or female) in Newport or Exchange Place. Hi! My name is Kevin, and I'm a new a 22-year-old",
       "group_id": "765841576845364"
     }
   ]
