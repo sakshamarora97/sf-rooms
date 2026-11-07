@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T18:06:40.396513",
-  "count": 3216,
+  "updated_at": "2026-11-06T19:05:45.418028",
+  "count": 3217,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -107380,6 +107380,42 @@
       "first_scraped_at": "2026-11-07T01:00:03.921372+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "PRIVATE ROOM NEAR UC BERKELEY $1,080 ALL-INCLUSIVE!** Hi everyone! I'm a UC Berkeley exchange student returning to Spain after the",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1407682044465372",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "AC",
+        "heat",
+        "furnished",
+        "renovated",
+        "modern_kitchen",
+        "spa_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1407682044465372",
+      "posted_at": "Friday 6 November 2026 at 18:24",
+      "first_scraped_at": "2026-11-07T03:00:03.512449+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "ROOMS NEAR UC BERKELEY FROM $1,400/MO STEPS FROM CAMPUS TELEGRAPH Hi! We have two private bedrooms available in a fully",
       "group_id": "558742412692677"
     }
   ]
