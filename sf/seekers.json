@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T14:06:55.656816",
-  "count": 3564,
+  "updated_at": "2026-11-07T15:11:10.698590",
+  "count": 3567,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113718,6 +113718,94 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "San Francisco California gracias",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "29014729621517650",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants male or female roommate",
+      "reason": null,
+      "age": null,
+      "bio": "Active, clean, and easygoing person who enjoys working out, socializing, and spending time outdoors; tidy and laid-back roommate.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29014729621517650",
+      "posted_at": "Saturday 7 November 2026 at 14:20",
+      "first_scraped_at": "2026-11-07T23:00:03.406918+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "looking for a male or female roommate to share a 2-bedroom, 2-bathroom apartment close to campus. Parking space available Washer",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29028442633479682",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-31",
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Alamo Square",
+        "Nob Hill",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "25m",
+      "reason": "other",
+      "age": 25,
+      "bio": "25-year-old male, clean and respectful; enjoys sports and fitness.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29028442633479682",
+      "posted_at": "Saturday 7 November 2026 at 14:20",
+      "first_scraped_at": "2026-11-07T23:00:03.406918+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "room until EOY Hey everyone! I\u2019m unfortunately allergic to my current room and looking to move somewhere else for the",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1409385627628347",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-11",
+      "move_out_date": "2026-11-18",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Prefers an all-girls house",
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a one-week short-term stay from Nov 11 to Nov 18; prefers an all-girls house.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1409385627628347",
+      "posted_at": "Saturday 7 November 2026 at 15:03",
+      "first_scraped_at": "2026-11-07T23:00:03.406918+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Hi!! Looking for a short term stay before the holidays, probably a week long. Looking to move in on the",
+      "group_id": "558742412692677"
     }
   ]
 }
