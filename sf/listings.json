@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T08:06:47.775166",
-  "count": 3230,
+  "updated_at": "2026-11-07T09:06:38.633613",
+  "count": 3231,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -107863,6 +107863,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "bedroom bathroom $1400 negotiable San Francisco rental Independent bedroom independent bathroom 1ZE: San Francisco, CA 94112 There is a room",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2788765851519219",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1249,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-08-01",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "shared_kitchen",
+        "balcony",
+        "secured_entry",
+        "parking"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 3 female UC Berkeley students; prefers female sublease tenant.",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2788765851519219",
+      "posted_at": "Saturday 7 November 2026 at 08:07",
+      "first_scraped_at": "2026-11-07T17:00:06.312025+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "FOR SPRING 27** Hi! My name is Stephania and I will be studying abroad this spring. I am looking for",
+      "group_id": "128476910881473"
     }
   ]
 }
