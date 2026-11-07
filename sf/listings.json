@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T10:06:12.957563",
-  "count": 3233,
+  "updated_at": "2026-11-07T11:06:26.222326",
+  "count": 3234,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -107966,6 +107966,37 @@
       "first_scraped_at": "2026-11-07T18:00:04.211998+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Bernal Heights Condo $1,395/month I'm moving out at the end of the month and helping the primary leaseholder find a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2055016525189919",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3000,
+      "neighborhood": "Castro",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "bay_windows"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055016525189919",
+      "posted_at": "Friday 6 November 2026 at 22:07",
+      "first_scraped_at": "2026-11-07T19:00:02.019971+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "apt (from early Nov to Feb ish, flexible duration) in Castro Mission Dolores $3k month Apt has a lots of",
       "group_id": "242765489748374"
     }
   ]
