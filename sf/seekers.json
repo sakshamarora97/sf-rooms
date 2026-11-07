@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-06T19:05:45.418028",
-  "count": 3551,
+  "updated_at": "2026-11-06T20:08:01.710866",
+  "count": 3554,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113308,6 +113308,108 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room Roommates in SF! Hi everybody, my name is Nathan. I am 22M, working full-time in healthcare, and looking for",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4411192879191463",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates only",
+      "reason": "relocation",
+      "age": null,
+      "bio": "New grad relocating to the Bay Area for work, seeking housing in Redwood City or Palo Alto. Clean, respectful, and easygoing; enjoys going out and exploring but also staying in for movie nights.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4411192879191463",
+      "posted_at": "Friday 6 November 2026 at 19:18",
+      "first_scraped_at": "2026-11-07T04:00:03.289685+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "for female roommates in Redwood City/Palo Alto, moving in late December Hi everyone! I\u2019m a new grad relocating to the",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4410989672545117",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-14",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Santa Clara",
+        "Cupertino",
+        "San Jose",
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple",
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a private bedroom with private bathroom in the SF Bay Area, open to Sunnyvale, Santa Clara, Cupertino, San Jose, or Mountain View; budget under $2,000/month, moving Nov 14.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4410989672545117",
+      "posted_at": "Friday 6 November 2026 at 19:18",
+      "first_scraped_at": "2026-11-07T04:00:03.289685+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Private Bed Bath Couple SF Bay Area Hi everyone! We\u2019re a couple looking for a private bedroom and private bathroom",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4410241645953253",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose",
+        "Santa Clara",
+        "Sunnyvale",
+        "Milpitas",
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Bay Area native who works full-time in HR. Enjoys restaurants, coffee and boba, traveling, gaming; values cleanliness and a peaceful shared home.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4410241645953253",
+      "posted_at": "Friday 6 November 2026 at 19:12",
+      "first_scraped_at": "2026-11-07T04:00:03.289685+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Roommate South Bay Area (San Jose Santa Clara Sunnyvale Milpitas/ Mountain Vew) Hi everyone! I'm looking for a roommate who",
+      "group_id": "1511607562483357"
     }
   ]
 }
