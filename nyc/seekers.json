@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T08:13:56.365829",
-  "count": 860,
+  "updated_at": "2026-11-07T09:15:24.202965",
+  "count": 863,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -26787,6 +26787,100 @@
       "first_scraped_at": "2026-11-07T16:06:52.521261+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "looking for a private room for an immediate move-in around Newark or Harrison or jersey city or hoboken Budget: Under",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2270391093525685",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Is moving to NYC for a new software engineering job and seeks a roommate. Enjoys cooking, weightlifting, exploring the city; clean, communicative, direct; sports fan offering YouTube TV with Sunday Ticket.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2270391093525685",
+      "posted_at": "Saturday 7 November 2026 at 07:38",
+      "first_scraped_at": "2026-11-07T17:06:42.977628+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "the city and looking for a roommate to live with. I prefer somewhere in Manhattan but can be flexible. I\u2019ll",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2270337550197706",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Solo renter; open to roommates or private unit; has a golden retriever, needs pet-friendly housing.",
+      "reason": "relocation",
+      "age": 18,
+      "bio": "Hairstylist and nail technician relocating from upstate New York; seeking a studio, 1-bedroom, or roommate situation in Manhattan or Brooklyn.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2270337550197706",
+      "posted_at": "Saturday 7 November 2026 at 06:44",
+      "first_scraped_at": "2026-11-07T17:06:42.977628+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "I\u2019ll be 18 when I move, and I\u2019m planning to relocate from upstate New York to Manhattan or Brooklyn at",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28867638286238983",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28867638286238983",
+      "posted_at": "Saturday 7 November 2026 at 08:46",
+      "first_scraped_at": "2026-11-07T17:06:42.977628+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "or basement Looking for a basement studio or 1-bedroom apartment in Journal Square with rent under $1,500 and no broker",
       "group_id": "765841576845364"
     }
   ]
