@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T22:07:56.305347",
-  "count": 3571,
+  "updated_at": "2026-11-08T06:07:12.773900",
+  "count": 3573,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113921,6 +113921,69 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking for a private room in Berkeley or nearby with the move in date between November 18 and November 26.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "29032648399725772",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Union Square",
+        "Civic Center"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple",
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a long-term 2BR (2B1B) in San Francisco near Powell St or Civic Center BART, budget $2400/month.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29032648399725772",
+      "posted_at": "Sunday 8 November 2026 at 03:43",
+      "first_scraped_at": "2026-11-08T14:00:04.047871+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "long shot, I know, but I'm trying it anyways.... My partner and I are looking for a 2 bedroom soon.",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2056314415060130",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2B1B",
+        "2B2B",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Walnut Creek"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old mellow individual with steady income seeking a 2BR (2B1B or 2B2B) with a roommate; prefers San Francisco but currently in Walnut Creek.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2056314415060130",
+      "posted_at": "Sunday 8 November 2026 at 03:51",
+      "first_scraped_at": "2026-11-08T14:00:04.047871+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Reno, 28 year old mellowed out individual with reasonable flow of income to match on a prime place with another",
+      "group_id": "242765489748374"
     }
   ]
 }
