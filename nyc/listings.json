@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T17:15:49.082152",
-  "count": 2428,
+  "updated_at": "2026-11-07T18:14:54.824560",
+  "count": 2429,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -81305,6 +81305,43 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "roommate for immediate entrance in a 2 bedroom apartment in the UES. Rent is 4300$, the other rooms in the",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28272196959125160",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 4795,
+      "neighborhood": "Chelsea",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_roof_deck",
+        "in_unit_laundry",
+        "dishwasher",
+        "elevator",
+        "exposed_brick",
+        "hardwood_floors",
+        "high_ceilings",
+        "bathtub"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/28272196959125160",
+      "posted_at": "Saturday 7 November 2026 at 17:30",
+      "first_scraped_at": "2026-11-08T02:07:43.515673+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "the intersection of The Meatpacking District, Chelsea The West Village Is this beautifully renovated penthouse duplex stdio apartment with modern",
+      "group_id": "812568135514746"
     }
   ]
 }
