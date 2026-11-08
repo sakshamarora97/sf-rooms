@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T11:06:10.568726",
-  "count": 3575,
+  "updated_at": "2026-11-08T12:07:43.012848",
+  "count": 3577,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114043,6 +114043,68 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "female flatmate in SF Hello everyone, I am Sahima, 26F, Indian and work in tech. I work from office 4-days",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4777738572461145",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-03",
+      "move_out_date": "2027-07-03",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4777738572461145",
+      "posted_at": "Sunday 8 November 2026 at 10:20",
+      "first_scraped_at": "2026-11-08T20:00:02.657100+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1b1b to sublet from dec 3 jul 3 in North Beach or East Russian Nob Hill. Flexible on budget.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1410242864209290",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 700,
+      "budget_max": 700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Northside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Is a junior student looking for a roommate for a 4-bedroom, 2-bath apartment with in-unit washer and dryer.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1410242864209290",
+      "posted_at": "Sunday 8 November 2026 at 11:11",
+      "first_scraped_at": "2026-11-08T20:00:02.657100+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "North Side 700$ a month. Hello, I am a junior looking for a roommate. The address is 2480 Virginia Street.",
+      "group_id": "558742412692677"
     }
   ]
 }
