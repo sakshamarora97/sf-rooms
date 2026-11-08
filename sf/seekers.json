@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T12:07:43.012848",
-  "count": 3577,
+  "updated_at": "2026-11-08T13:07:15.002644",
+  "count": 3578,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114105,6 +114105,41 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "North Side 700$ a month. Hello, I am a junior looking for a roommate. The address is 2480 Virginia Street.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2056749038350001",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Yerba Buena",
+        "Nob Hill",
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a room, studio, or apartment in San Francisco; previously lived in New York City and prefers downtown areas.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2056749038350001",
+      "posted_at": "Sunday 8 November 2026 at 12:28",
+      "first_scraped_at": "2026-11-08T21:00:07.089373+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Byanka, and I\u2019m currently looking for a room, studio, or apartment in San Francisco. Budget: up to $2,000/month Preferred areas:",
+      "group_id": "242765489748374"
     }
   ]
 }
