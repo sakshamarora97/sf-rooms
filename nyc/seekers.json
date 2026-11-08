@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-08T07:10:40.761443",
-  "count": 877,
+  "updated_at": "2026-11-08T08:11:09.685254",
+  "count": 878,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -27327,6 +27327,39 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "Bedroom Private Bath near Newport/Grove St/Jornal Sq Hey everyone! I\u2019m on the hunt for a master bedroom with an attached",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2270993866798741",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-18",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Brooklyn",
+        "Brooklyn Heights",
+        "Cobble Hill",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Lives in Denver and works for a company with a Midtown East office. Visiting NYC for Thanksgiving and will commute to Midtown East some days.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2270993866798741",
+      "posted_at": "Saturday 7 November 2026 at 22:08",
+      "first_scraped_at": "2026-11-08T16:05:10.411764+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for Thanksgiving! (Nov 18-30th) Hi everyone! I want to come out to NYC to visit some friends and experience Thanksgiving",
+      "group_id": "149460102285472"
     }
   ]
 }
