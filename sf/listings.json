@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T09:05:44.836119",
-  "count": 3267,
+  "updated_at": "2026-11-08T10:05:24.789008",
+  "count": 3268,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -109100,6 +109100,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "at MB360 Mission Bay, SF Rent: $2,400/month utilities Available: Nov 30th 2026 Location: MB360 Apartments, Mission Bay, San Francisco Looking",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4777689082466094",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": 2800,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2027-02-01",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "renovated",
+        "top_floor",
+        "north_facing_views",
+        "historic_charm",
+        "sun-filled",
+        "near_trader_joes"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4777689082466094",
+      "posted_at": "Sunday 8 November 2026 at 09:27",
+      "first_scraped_at": "2026-11-08T18:00:03.490530+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1 (flexible), $2,800/month. Studio. Hayes Valley. Enjoy panoramic north-facing views toward Pacific Heights from this beautifully renovated, sun-filled studio. Nestled",
+      "group_id": "2176716625896699"
     }
   ]
 }

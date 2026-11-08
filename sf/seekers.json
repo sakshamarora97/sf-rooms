@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T09:05:44.836119",
-  "count": 3573,
+  "updated_at": "2026-11-08T10:05:24.789008",
+  "count": 3574,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113984,6 +113984,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Reno, 28 year old mellowed out individual with reasonable flow of income to match on a prime place with another",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "29026388287018450",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Bruno"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old flight attendant who is often away for work. Quiet, clean, and friendly; prefers a private room with its own bathroom.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29026388287018450",
+      "posted_at": "Sunday 8 November 2026 at 03:42",
+      "first_scraped_at": "2026-11-08T18:00:03.490530+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "room near SFO Airport Looking for private room for rent in San Bruno or anywhere really nearby SFO Airport. Close",
+      "group_id": "843764532374203"
     }
   ]
 }
