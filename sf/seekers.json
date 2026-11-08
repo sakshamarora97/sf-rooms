@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T15:11:10.698590",
-  "count": 3567,
+  "updated_at": "2026-11-07T16:07:18.221971",
+  "count": 3568,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113806,6 +113806,34 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Hi!! Looking for a short term stay before the holidays, probably a week long. Looking to move in on the",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2055741818450723",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 23,
+      "bio": "23-year-old tech worker with a hybrid schedule. Active and social\u2014enjoys hiking, workouts, concerts, reading; clean and respectful roommate seeking a room.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055741818450723",
+      "posted_at": "Saturday 7 November 2026 at 14:43",
+      "first_scraped_at": "2026-11-08T00:00:06.183790+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room starting December! Hi everyone! My name is Ana, and I'm looking to make the move from Reno to SF",
+      "group_id": "242765489748374"
     }
   ]
 }
