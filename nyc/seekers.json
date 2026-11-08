@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T22:15:39.975939",
-  "count": 875,
+  "updated_at": "2026-11-08T06:14:00.188250",
+  "count": 877,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -27266,6 +27266,67 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Bath Apartment/ or studio All manhattan. (Without Harlem) +brooklyn Open to long term lease My budget is 2500$ per month.",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2929269250772673",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": "2027-01-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Remote worker on EST hours; tidy, communicative, and respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2929269250772673",
+      "posted_at": "Sunday 8 November 2026 at 05:23",
+      "first_scraped_at": "2026-11-08T14:07:18.615700+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "with an attached shared bathroom in Jersey City (ideally walking distance to the PATH) for short term 15 Nov 2026",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2928828040816794",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-15",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a master bedroom with private bath; clean, communicative roommate; vegetarian who eats eggs.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2928828040816794",
+      "posted_at": "Saturday 7 November 2026 at 20:49",
+      "first_scraped_at": "2026-11-08T14:07:18.615700+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Bedroom Private Bath near Newport/Grove St/Jornal Sq Hey everyone! I\u2019m on the hunt for a master bedroom with an attached",
+      "group_id": "1138638939835722"
     }
   ]
 }
