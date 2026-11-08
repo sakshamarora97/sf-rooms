@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T10:05:24.789008",
-  "count": 3574,
+  "updated_at": "2026-11-08T11:06:10.568726",
+  "count": 3575,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114014,6 +114014,35 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "room near SFO Airport Looking for private room for rent in San Bruno or anywhere really nearby SFO Airport. Close",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4777696835798652",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2700,
+      "unit_type_wanted": [
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "26F; wants female flatmates",
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old Indian tech worker who commutes to the office four days a week; enjoys reading, taking classes, and watching films on weekends.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4777696835798652",
+      "posted_at": "Sunday 8 November 2026 at 09:35",
+      "first_scraped_at": "2026-11-08T19:00:04.347384+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "female flatmate in SF Hello everyone, I am Sahima, 26F, Indian and work in tech. I work from office 4-days",
+      "group_id": "2176716625896699"
     }
   ]
 }

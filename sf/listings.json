@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T10:05:24.789008",
-  "count": 3268,
+  "updated_at": "2026-11-08T11:06:10.568726",
+  "count": 3270,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -109135,6 +109135,78 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "1 (flexible), $2,800/month. Studio. Hayes Valley. Enjoy panoramic north-facing views toward Pacific Heights from this beautifully renovated, sun-filled studio. Nestled",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "29028983756758903",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2700,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-11-15",
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "private_entrance",
+        "kitchenette",
+        "private_bathroom",
+        "private_outdoor_space",
+        "shared_deck",
+        "shared_washer_dryer",
+        "high_speed_wifi",
+        "street_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with one person and a senior dog; single occupancy only; no additional pets",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29028983756758903",
+      "posted_at": "Sunday 8 November 2026 at 03:43",
+      "first_scraped_at": "2026-11-08T19:00:04.347384+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "law unit in san francisco $2,700/month available november 15th rent: $2,700/month utilities deposit: one month\u2019s rent available: november 15th (some",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1409573647609545",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "private_entrance",
+        "private_bathroom",
+        "parking",
+        "furnished",
+        "ample_storage",
+        "close_to_campus"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1409573647609545",
+      "posted_at": "Sunday 8 November 2026 at 10:21",
+      "first_scraped_at": "2026-11-08T19:00:04.347384+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "AVAILABLE! $1,300/month Berkeley Hi everyone I'm studying abroad in the spring and I'm looking for someone to take over my",
+      "group_id": "558742412692677"
     }
   ]
 }
