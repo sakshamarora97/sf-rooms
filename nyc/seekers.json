@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T15:19:03.638164",
-  "count": 871,
+  "updated_at": "2026-11-07T16:15:09.210728",
+  "count": 872,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -27141,6 +27141,37 @@
       "first_scraped_at": "2026-11-07T23:11:15.142026+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "I\u2019m a Mid-30s full time tattoo artist looking for a home starting \ud835\udddd\ud835\uddee\ud835\uddfb\ud835\ude02\ud835\uddee\ud835\uddff\ud835\ude06 \ud835\udff3, \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff3! I\u2019m looking for a \ud835\ude00\ud835\ude01\ud835\ude02\ud835\uddf1\ud835\uddf6\ud835\uddfc",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "1008234788313864",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-11",
+      "move_out_date": "2026-11-16",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Forest Hills",
+        "Kew Gardens"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Traveler on a brief business trip seeking a clean, quiet private room Nov 11\u201316 in Forest Hills or Kew Gardens near the E/F lines.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1008234788313864",
+      "posted_at": "Saturday 7 November 2026 at 16:07",
+      "first_scraped_at": "2026-11-08T00:07:22.656050+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Private Entrance Private Bath (Nov 11 16) Hi everyone, I am traveling to New York on a brief business trip",
       "group_id": "312692887868061"
     }
   ]
