@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-08T11:12:53.713064",
-  "count": 2458,
+  "updated_at": "2026-11-08T12:13:29.841266",
+  "count": 2459,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -82346,6 +82346,38 @@
       "first_scraped_at": "2026-11-08T19:06:14.755201+00:00",
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "group chat obsession* DREAM 6 Bed 2 Bath in PRIME EAST VILLAGE! E13th St! NO FEE* $14995* Huge Living Room-",
+      "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28282358374775685",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Upper West Side",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "5B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "elevator"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/28282358374775685",
+      "posted_at": "Sunday 8 November 2026 at 11:04",
+      "first_scraped_at": "2026-11-08T20:07:48.189622+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "rent 10 W 101st St, New York, NY 10025-4755, United States W 101 st Central Park West 2 Rooms for",
       "group_id": "812568135514746"
     }
   ]
