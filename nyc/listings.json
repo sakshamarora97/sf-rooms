@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T19:17:16.531446",
-  "count": 2437,
+  "updated_at": "2026-11-07T20:13:59.972822",
+  "count": 2438,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -81605,6 +81605,40 @@
       "first_scraped_at": "2026-11-08T03:08:17.707478+00:00",
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "Baths House 89th Ave, Woodhaven, NY 11421, United States Welcome home to this bright and spacious second-floor apartment in Woodhaven!",
+      "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28272873682390821",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Bushwick",
+      "area": "Brooklyn",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "hardwood floors",
+        "stainless steel kitchen",
+        "central A/C and heat",
+        "laundry room",
+        "no fee"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/28272873682390821",
+      "posted_at": "Saturday 7 November 2026 at 18:44",
+      "first_scraped_at": "2026-11-08T04:06:50.089413+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "is the name of the game! Just a couple blocks off Myrtle-Wyckoff means restaurants, bars, coffee, FULL SIZE grocers (a",
       "group_id": "812568135514746"
     }
   ]
