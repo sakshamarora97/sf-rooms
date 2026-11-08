@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T14:06:07.025087",
-  "count": 3578,
+  "updated_at": "2026-11-08T15:07:18.194315",
+  "count": 3579,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114140,6 +114140,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Byanka, and I\u2019m currently looking for a room, studio, or apartment in San Francisco. Budget: up to $2,000/month Preferred areas:",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4777954742439528",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Two friends (both 25) seeking housing in San Francisco. One works in climate and energy consulting, works from a coworking space, enjoys skiing, climbing and surfing; the other works in tech, surf enthusiast who taught abroad and is moving to be closer to family.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4777954742439528",
+      "posted_at": "Sunday 8 November 2026 at 14:21",
+      "first_scraped_at": "2026-11-08T23:00:07.762830+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Howard and I are two friends from college looking for either two open bedrooms or roommates to search for a",
+      "group_id": "2176716625896699"
     }
   ]
 }
