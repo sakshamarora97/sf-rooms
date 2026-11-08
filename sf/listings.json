@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T20:06:45.464820",
-  "count": 3259,
+  "updated_at": "2026-11-07T21:08:07.333460",
+  "count": 3260,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -108842,6 +108842,42 @@
       "first_scraped_at": "2026-11-08T03:00:04.637073+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "in a 1BHK at Arc Light Apartments, 21 Clarence Place, near Oracle Park FiDi. $1,600/month. Available today through Dec 7.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4776838212551181",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2275,
+      "neighborhood": "Lower Haight",
+      "area": "San Francisco",
+      "available_from": "2026-11-21",
+      "available_until": "2027-01-10",
+      "unit_config": "3B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "private_bath",
+        "storage",
+        "furnished",
+        "street_parking",
+        "near_transit",
+        "near_park",
+        "near_shopping"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with one man and one woman; wants a tidy roommate who cleans shared spaces; no pets allowed",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4776838212551181",
+      "posted_at": "Saturday 7 November 2026 at 18:29",
+      "first_scraped_at": "2026-11-08T05:00:05.464161+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Lower Haight/Buena Vista Heights I\u2019m going out of town to visit family for an extended period, and I\u2019m looking to",
       "group_id": "2176716625896699"
     }
   ]
