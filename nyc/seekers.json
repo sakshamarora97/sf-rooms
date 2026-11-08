@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T21:15:48.264942",
-  "count": 874,
+  "updated_at": "2026-11-07T22:15:39.975939",
+  "count": 875,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -27234,6 +27234,38 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "into a 2b2b in jersey city/hoboken/newport area. Budget $3000 Flexible move in date but sooner the better. Please message if",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2270972210134240",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a studio or 1BR/1BA in Manhattan or Brooklyn, open to a long-term lease; budget $2500/month.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2270972210134240",
+      "posted_at": "Saturday 7 November 2026 at 21:32",
+      "first_scraped_at": "2026-11-08T06:08:01.613851+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Bath Apartment/ or studio All manhattan. (Without Harlem) +brooklyn Open to long term lease My budget is 2500$ per month.",
+      "group_id": "149460102285472"
     }
   ]
 }
