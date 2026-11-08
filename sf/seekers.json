@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T21:08:07.333460",
-  "count": 3569,
+  "updated_at": "2026-11-07T22:07:56.305347",
+  "count": 3571,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -113860,6 +113860,67 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "place nov 14 dec 1 while in between places",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1409637914269785",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Two people; no pets.",
+      "reason": "other",
+      "age": null,
+      "bio": "Visiting scholar doing postdoctoral research at UC Berkeley on a government-funded fellowship from T\u00fcrkiye; quiet, non-smoking, no pets, research-focused.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1409637914269785",
+      "posted_at": "Saturday 7 November 2026 at 21:35",
+      "first_scraped_at": "2026-11-08T06:00:07.779778+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "name is Deniz, and I\u2019m a visiting scholar conducting postdoctoral research at UC Berkeley. I\u2019m here on a competitive government-funded",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1409627324270844",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-18",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "No pets",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Brown graduate relocating from Boston to work at UC Berkeley; quiet, friendly, and clean, works from the office most days.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1409627324270844",
+      "posted_at": "Saturday 7 November 2026 at 21:17",
+      "first_scraped_at": "2026-11-08T06:00:07.779778+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a private room in Berkeley or nearby with the move in date between November 18 and November 26.",
+      "group_id": "558742412692677"
     }
   ]
 }

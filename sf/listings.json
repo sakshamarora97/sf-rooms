@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T21:08:07.333460",
-  "count": 3260,
+  "updated_at": "2026-11-07T22:07:56.305347",
+  "count": 3261,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -108879,6 +108879,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Lower Haight/Buena Vista Heights I\u2019m going out of town to visit family for an extended period, and I\u2019m looking to",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2055989695092602",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Daly City",
+      "area": "The Peninsula",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "ocean_view"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Poster is female; wants female roommate",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055989695092602",
+      "posted_at": "Saturday 7 November 2026 at 20:06",
+      "first_scraped_at": "2026-11-08T06:00:07.779778+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a ONE female roommate to move in with me one other roommate in this 3bed/2bath house in Daly",
+      "group_id": "242765489748374"
     }
   ]
 }
