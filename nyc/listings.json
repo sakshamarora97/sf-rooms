@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-07T20:13:59.972822",
-  "count": 2438,
+  "updated_at": "2026-11-07T21:15:48.264942",
+  "count": 2439,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -81640,6 +81640,43 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "is the name of the game! Just a couple blocks off Myrtle-Wyckoff means restaurants, bars, coffee, FULL SIZE grocers (a",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2270847856813342",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Greenwich Village",
+      "area": "Manhattan",
+      "available_from": "2027-01-01",
+      "available_until": "2027-08-31",
+      "unit_config": "5B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "doorman",
+        "rooftop",
+        "central_air",
+        "renovated_kitchen",
+        "renovated_bathroom",
+        "hardwood_floors",
+        "exposed_brick"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 4 girls; wants a social, friendly roommate",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2270847856813342",
+      "posted_at": "Saturday 7 November 2026 at 18:50",
+      "first_scraped_at": "2026-11-08T05:08:12.133203+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Jan-Aug with rooftop Greenwich Village sublet January 1st August 31st (flexible) Hi everyone! I\u2019m looking for someone to take over",
+      "group_id": "149460102285472"
     }
   ]
 }
