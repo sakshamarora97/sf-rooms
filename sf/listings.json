@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-07T16:07:18.221971",
-  "count": 3250,
+  "updated_at": "2026-11-07T17:08:31.346219",
+  "count": 3252,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -108548,6 +108548,74 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "in 3BR/1BA Russian Hill Apartment Hi! I\u2019m looking for someone to fill one bedroom in my 3-bedroom apartment in Russian",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4776626269239042",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2720,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": "2027-01-25",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "furnished_living_room",
+        "gym",
+        "rooftop",
+        "clubroom",
+        "parking",
+        "walk_in_closet"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": "Hanover SoMa West",
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Professional; wants a clean, easygoing roommate who splits chores; pets OK",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4776626269239042",
+      "posted_at": "Saturday 7 November 2026 at 14:14",
+      "first_scraped_at": "2026-11-08T01:00:04.254270+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "SOMA: PRIVATE ROOM BATH, MOVE IN JAN 25, 2027, $2,720/MO Hey! My roommate's moving out, so I'm looking for someone",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2055789988445906",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2600,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": "2026-11-18",
+      "available_until": "2027-07-31",
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "full_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 guys; wants someone who would be a good fit",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2055789988445906",
+      "posted_at": "Saturday 7 November 2026 at 15:59",
+      "first_scraped_at": "2026-11-08T01:00:04.254270+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Starting 11/18 in Russian Hill Polk Street $2,600/month Hey everyone! One of our roommates is moving out of SF, so",
+      "group_id": "242765489748374"
     }
   ]
 }
