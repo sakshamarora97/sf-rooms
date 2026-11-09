@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T22:08:55.697828",
-  "count": 3586,
+  "updated_at": "2026-11-09T06:09:01.068774",
+  "count": 3588,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114401,6 +114401,68 @@
       "first_scraped_at": "2026-11-09T06:00:06.120630+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a room to sublet in San Francisco starting late November/December 1, ideally for 4\u20136 months, with the possibility",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2057478164943755",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "He is a 26-year-old relocating to San Francisco for a new job at a healthcare startup. He enjoys outdoor activities like surfing and skiing, cooking, live music, and social evenings.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2057478164943755",
+      "posted_at": "Monday 9 November 2026 at 05:42",
+      "first_scraped_at": "2026-11-09T14:00:05.732654+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room or roommate in SF for Dec 1st Hey everyone! I\u2019m Aslan, 26, originally from Vancouver Island and moving down",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2057163048308600",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works full-time graveyard shifts at a homeless shelter in South San Francisco. Keeps a simple, tidy routine, needs kitchen access, owns a car.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2057163048308600",
+      "posted_at": "Sunday 8 November 2026 at 22:52",
+      "first_scraped_at": "2026-11-09T14:00:05.732654+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room with a Private Bathroom Hi! I\u2019m looking for a room with a private bathroom in San Francisco or San",
       "group_id": "242765489748374"
     }
   ]
