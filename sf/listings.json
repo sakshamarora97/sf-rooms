@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T18:07:58.476634",
-  "count": 3292,
+  "updated_at": "2026-11-08T19:07:56.009160",
+  "count": 3294,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -109952,6 +109952,76 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in mid market Subletting our 2 x 1 in mid market from now until November 30, for 3,150 price negotiable.",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1410493300850913",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "rooftop",
+        "study_lounge",
+        "internet_provided"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": "Sterling Allston",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 1 male roommate",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1410493300850913",
+      "posted_at": "Sunday 8 November 2026 at 18:33",
+      "first_scraped_at": "2026-11-09T03:00:03.466172+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Takeover at Sterling Allston $1600/month utilities Looking for someone to take over my private single room in a two bedroom",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1410291250871118",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1150,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "balcony",
+        "keyless_entry",
+        "controlled_access",
+        "security_cameras",
+        "parking",
+        "furnished",
+        "kitchen_appliances",
+        "online_maintenance"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "The Dwight",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1410291250871118",
+      "posted_at": "Sunday 8 November 2026 at 12:34",
+      "first_scraped_at": "2026-11-09T03:00:03.466172+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "blocks from the UC Berkeley campus Private Rooms starting at $1865 Shared Rooms starting at $1150 Spring Semester 12-month leases",
+      "group_id": "558742412692677"
     }
   ]
 }
