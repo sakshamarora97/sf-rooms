@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T12:07:03.563227",
-  "count": 3314,
+  "updated_at": "2026-11-09T13:07:21.579047",
+  "count": 3315,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -110682,6 +110682,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Victoria bay neighborhood Hercules.NEAR BIO-RAID Room available for rent. LYNX bus direct goes to SFO SALESFORCe tower NONSTOP. If anyone",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2057805621577676",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": null,
+      "rent": 2700,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "grills"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2057805621577676",
+      "posted_at": "Monday 9 November 2026 at 12:47",
+      "first_scraped_at": "2026-11-09T21:00:05.049287+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and bathroom in a 2b2b unit for 2700! Hey all, I\u2019m looking for someone to take over my lease for",
+      "group_id": "242765489748374"
     }
   ]
 }

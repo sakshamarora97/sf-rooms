@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T12:07:03.563227",
-  "count": 3590,
+  "updated_at": "2026-11-09T13:07:21.579047",
+  "count": 3592,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114527,6 +114527,64 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "room or roommate in SF for Dec 1st Hey everyone! I\u2019m Aslan, 26, originally from Vancouver Island and moving down",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2057808528244052",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "24-year-old male; wants LGBTQ+ friendly roommates around his age; has a cat",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "He is a 24-year-old premed in a gap year working as a CRC at UCSF, seeking to share housing near Mission Bay. He enjoys fitness, caf\u00e9 hopping, video games, and balances social time with quiet.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2057808528244052",
+      "posted_at": "Monday 9 November 2026 at 12:52",
+      "first_scraped_at": "2026-11-09T21:00:05.049287+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "meet you. My name is Jay, I\u2019m a 24 year old male and I\u2019m looking for housing to share with",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2057759538248951",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants girls only; ideally in their 20s",
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old from Palo Alto looking for 2\u20134 roommates in San Francisco. Social and active\u2014enjoys workout classes, Love Island watch parties, restaurants, and DJ sets; values shared time and personal downtime.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2057759538248951",
+      "posted_at": "Monday 9 November 2026 at 11:29",
+      "first_scraped_at": "2026-11-09T21:00:05.049287+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "only Hi I\u2019m trying to team up with 2-4 girls total who are looking for a place in sf. I\u2019m",
+      "group_id": "242765489748374"
     }
   ]
 }
