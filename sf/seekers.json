@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T08:07:11.508052",
-  "count": 3589,
+  "updated_at": "2026-11-09T09:07:27.045097",
+  "count": 3590,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114492,6 +114492,41 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Purva I\u2019m looking to move to SF ASAP. I\u2019m looking for 2 girls to room with a place. Open to",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "29046136938376918",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B",
+        "private_room",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old relocating from Toronto for a new job at a healthcare startup; seeking a room or 2-bed in Nob Hill, Russian Hill, North Beach, or SoMa starting 2026-12-01.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29046136938376918",
+      "posted_at": "Monday 9 November 2026 at 06:07",
+      "first_scraped_at": "2026-11-09T17:00:04.992931+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "room or roommate in SF for Dec 1st Hey everyone! I\u2019m Aslan, 26, originally from Vancouver Island and moving down",
+      "group_id": "843764532374203"
     }
   ]
 }
