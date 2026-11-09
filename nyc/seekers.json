@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T07:15:43.364131",
-  "count": 902,
+  "updated_at": "2026-11-09T08:15:56.800825",
+  "count": 903,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28100,6 +28100,35 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "I looking for room in NYC, BK, or Queens! Heyy everyone! I\u2019m currently looking for a room, studio, or 1-bedroom",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28893650550304423",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two young, responsible individuals with stable jobs seeking a long-term studio or a spacious room with a private bathroom starting January 2027. They prefer a quiet, comfortable, and safe place.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28893650550304423",
+      "posted_at": "Monday 9 November 2026 at 07:52",
+      "first_scraped_at": "2026-11-09T16:07:16.917095+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "cousin and I are looking for a studio apartment or a spacious room with a private bathroom for two people,",
+      "group_id": "765841576845364"
     }
   ]
 }
