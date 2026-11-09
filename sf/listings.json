@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T06:09:01.068774",
-  "count": 3307,
+  "updated_at": "2026-11-09T07:08:01.857653",
+  "count": 3308,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -110451,6 +110451,41 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "private bath Nob Hill, $3,000/mo, available Dec 1 Private bedroom with its own bathroom in a 2bd/2ba at 1638 Larkin",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "29040633278927284",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B, 2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "in_unit_laundry",
+        "full_size_kitchen",
+        "full_bathroom",
+        "refrigerator",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Pets are allowed",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29040633278927284",
+      "posted_at": "Monday 9 November 2026 at 06:08",
+      "first_scraped_at": "2026-11-09T15:00:02.469354+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "have 1 bed 1 bath, 2bed 1 bath apartment for rent. At affordable price and they are well fully furnished",
+      "group_id": "843764532374203"
     }
   ]
 }
