@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T20:09:27.050765",
-  "count": 3298,
+  "updated_at": "2026-11-08T21:08:33.992846",
+  "count": 3300,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -110024,6 +110024,43 @@
       "group_id": "558742412692677"
     },
     {
+      "listing_id": "4778212949080374",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "Richmond District",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "backyard",
+        "in_unit_laundry",
+        "garage",
+        "parking",
+        "dishwasher",
+        "gas_stove",
+        "hardwood_floors",
+        "storage"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Queer-friendly household; wants housemates interested in LGBTQ+ house; pets negotiable",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4778212949080374",
+      "posted_at": "Sunday 8 November 2026 at 19:39",
+      "first_scraped_at": "2026-11-09T04:00:04.069304+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a spacious queer friendly house in the Richmond District Hi! We are looking for two new housemates to join our",
+      "group_id": "2176716625896699"
+    },
+    {
       "listing_id": "4412324569078294",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -110156,6 +110193,38 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Rent in Santa Clara Near Nvidia Google Water and internet included! Looking for fun, tidy housemates Santa Clara 95054, walking",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1410564224177154",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 2800,
+      "neighborhood": "West Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "free_street_parking",
+        "shared_washer_dryer",
+        "courtyard"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1410564224177154",
+      "posted_at": "Sunday 8 November 2026 at 20:34",
+      "first_scraped_at": "2026-11-09T05:00:05.938127+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Berkeley Move-in Ready $2,800/month Great spot in West Berkeley, about 20-30 min to UC Berkeley by bus. Quiet neighborhood with",
+      "group_id": "558742412692677"
     }
   ]
 }
