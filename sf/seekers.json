@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T19:07:56.009160",
-  "count": 3581,
+  "updated_at": "2026-11-08T20:09:27.050765",
+  "count": 3583,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114231,6 +114231,74 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "name is Dylan, and my girlfriend and I are looking for a studio or one-bedroom apartment in the San Francisco",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4412670489043702",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "private_room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Cupertino",
+        "Sunnyvale",
+        "Mountain View",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a female roommate",
+      "reason": null,
+      "age": null,
+      "bio": "Working professional; non-vegetarian, clean, respectful, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4412670489043702",
+      "posted_at": "Sunday 8 November 2026 at 19:36",
+      "first_scraped_at": "2026-11-09T04:00:04.069304+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Female Roommate Apartment Cupertino, Sunnyvale, Mountain View, Santa Clara Hi everyone! I\u2019m looking for either a female roommate to apartment",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4413603675617050",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": null,
+      "budget_min": 1900,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "San Jose",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 27,
+      "bio": "27-year-old tech company employee relocating from Texas; calm, easygoing, keeps to themself, non-vegetarian.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4413603675617050",
+      "posted_at": "Sunday 8 November 2026 at 19:34",
+      "first_scraped_at": "2026-11-09T04:00:04.069304+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Roommate (Sunnyvale, San Jose, Santa Clara) Hi everyone! I\u2019m looking for either a roommate to apartment hunt with or an",
+      "group_id": "1511607562483357"
     }
   ]
 }
