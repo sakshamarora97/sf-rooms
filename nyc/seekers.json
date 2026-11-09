@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T13:16:37.719675",
-  "count": 906,
+  "updated_at": "2026-11-09T14:20:56.497837",
+  "count": 908,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28221,6 +28221,64 @@
       "first_scraped_at": "2026-11-09T21:07:26.733506+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Manhattan| $2.5k Max Dec 15/Jan 1 Move-In Hey everyone! I\u2019m Sagar, 28M, and recently moved to NYC from Chicago in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2272745409956920",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Boy",
+      "reason": "new_job",
+      "age": null,
+      "bio": "He is from Uruguay, moving to New York to work and study English. Athletic and sociable, eager to meet new people.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2272745409956920",
+      "posted_at": "Monday 9 November 2026 at 14:03",
+      "first_scraped_at": "2026-11-09T22:11:16.669720+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for a room from February 2027 to share in Manhattan ideal from $1200 to $2000 I'm going to work and",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2272712333293561",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-21",
+      "move_out_date": "2027-01-05",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2272712333293561",
+      "posted_at": "Monday 9 November 2026 at 13:17",
+      "first_scraped_at": "2026-11-09T22:11:16.669720+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "NYC Dec 21-Jan 5 Hi everyone! We\u2019re looking for a 2B2B for a short-term stay from December 21 to January",
       "group_id": "149460102285472"
     }
   ]
