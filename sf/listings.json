@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T11:07:14.085828",
-  "count": 3313,
+  "updated_at": "2026-11-09T12:07:03.563227",
+  "count": 3314,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -110646,6 +110646,41 @@
       "first_scraped_at": "2026-11-09T18:00:04.816587+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Looking for 1\u20134 students to take over leases at Identity Logan Park (250 Durant Ave), walking distance from Campus, for",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1411195437447366",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Hercules",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "furnished",
+        "wifi",
+        "utilities",
+        "trash_service",
+        "near_transit",
+        "near_grocery"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Wants a single tenant",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1411195437447366",
+      "posted_at": "Monday 9 November 2026 at 11:24",
+      "first_scraped_at": "2026-11-09T20:00:03.013029+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Victoria bay neighborhood Hercules.NEAR BIO-RAID Room available for rent. LYNX bus direct goes to SFO SALESFORCe tower NONSTOP. If anyone",
       "group_id": "558742412692677"
     }
   ]
