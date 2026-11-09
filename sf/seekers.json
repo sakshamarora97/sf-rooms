@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T16:07:36.639367",
-  "count": 3579,
+  "updated_at": "2026-11-08T17:07:11.910587",
+  "count": 3580,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114168,6 +114168,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Howard and I are two friends from college looking for either two open bedrooms or roommates to search for a",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2056703095021262",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": "2027-01-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recently relocated founder in healthtech. Friendly and outgoing, works mostly at the office, tidy and low\u2011maintenance.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2056703095021262",
+      "posted_at": "Sunday 8 November 2026 at 11:22",
+      "first_scraped_at": "2026-11-09T01:00:03.516632+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a place Nov 15 mid Jan (flexible, can do shorter sublet) Kiwi recently moved to SF, founder in healthtech looking",
+      "group_id": "242765489748374"
     }
   ]
 }
