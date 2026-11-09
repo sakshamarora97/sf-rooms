@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T12:19:13.241115",
-  "count": 905,
+  "updated_at": "2026-11-09T13:16:37.719675",
+  "count": 906,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28192,6 +28192,36 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "friend Looking for a Male Roommate 2B/2B Apartment Jersey City Preferred locations/buildings: Lincoln, Roosevelt, Hamilton Park, Embankment House, or anywhere",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2272678076630320",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male; gay; m/f roommates fine",
+      "reason": "relocation",
+      "age": 28,
+      "bio": "He works in tech sales with a hybrid Midtown schedule; outgoing, active, gamer and foodie who respects boundaries and occasionally hosts guests.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2272678076630320",
+      "posted_at": "Monday 9 November 2026 at 12:19",
+      "first_scraped_at": "2026-11-09T21:07:26.733506+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Manhattan| $2.5k Max Dec 15/Jan 1 Move-In Hey everyone! I\u2019m Sagar, 28M, and recently moved to NYC from Chicago in",
+      "group_id": "149460102285472"
     }
   ]
 }
