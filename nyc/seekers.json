@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T10:17:03.116721",
-  "count": 904,
+  "updated_at": "2026-11-09T11:18:07.485677",
+  "count": 905,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28161,6 +28161,37 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Looking for a sublet through May, ideally a 1 bed or studio where I get my own space. Budget under",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2930719607294304",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-05",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lincoln Park",
+        "Hamilton Park"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a male roommate; prefers vegetarian.",
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a male roommate for a 2B/2B apartment in Jersey City. Prefers a vegetarian, non-smoker who is clean, responsible, friendly, and respectful.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2930719607294304",
+      "posted_at": "Monday 9 November 2026 at 10:10",
+      "first_scraped_at": "2026-11-09T19:07:19.130384+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "friend Looking for a Male Roommate 2B/2B Apartment Jersey City Preferred locations/buildings: Lincoln, Roosevelt, Hamilton Park, Embankment House, or anywhere",
+      "group_id": "1138638939835722"
     }
   ]
 }
