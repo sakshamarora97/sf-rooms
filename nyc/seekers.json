@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T06:16:54.906843",
-  "count": 901,
+  "updated_at": "2026-11-09T07:15:43.364131",
+  "count": 902,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28066,6 +28066,39 @@
       "first_scraped_at": "2026-11-09T14:09:07.235954+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "partner Anthony and I are looking for a studio or 1-bedroom sublease or lease takeover/transfer, preferably in Prospect Lefferts Gardens,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2272358266662301",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 900,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Solo; has a small dog.",
+      "reason": null,
+      "age": null,
+      "bio": "Musician and visual artist who occasionally performs; generally low-key, clean, respectful, and considerate of housemates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2272358266662301",
+      "posted_at": "Monday 9 November 2026 at 05:35",
+      "first_scraped_at": "2026-11-09T15:08:06.167548+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "I looking for room in NYC, BK, or Queens! Heyy everyone! I\u2019m currently looking for a room, studio, or 1-bedroom",
       "group_id": "149460102285472"
     }
   ]
