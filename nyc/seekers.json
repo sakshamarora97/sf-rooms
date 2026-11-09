@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-08T21:17:07.475221",
-  "count": 898,
+  "updated_at": "2026-11-08T22:18:13.539052",
+  "count": 899,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -27970,6 +27970,40 @@
       "first_scraped_at": "2026-11-09T05:08:38.497045+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "sublet starting nov 10 ISO SUBLET ASAP hello!!! searching for a sublet ideally downtown manhattan (or midtown). Starting november 10th!",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2272013270030134",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-01-15",
+      "move_out_date": "2026-07-15",
+      "budget_min": 1300,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Astoria",
+        "Jersey City",
+        "Hoboken"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "internship",
+      "age": 21,
+      "bio": "21-year-old student currently studying abroad in Mexico City, moving to NYC for a 6-month internship starting Jan 15. Easygoing, social, enjoys sports; open to apartment hunting with a roommate.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2272013270030134",
+      "posted_at": "Sunday 8 November 2026 at 21:32",
+      "first_scraped_at": "2026-11-09T06:09:00.266450+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Jan 15 Jul 15 Hi! I am moving from Paris to NYC for a 6-month internship starting January 15th. I",
       "group_id": "149460102285472"
     }
   ]
