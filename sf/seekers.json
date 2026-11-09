@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T21:08:33.992846",
-  "count": 3583,
+  "updated_at": "2026-11-08T22:08:55.697828",
+  "count": 3586,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114299,6 +114299,109 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Roommate (Sunnyvale, San Jose, Santa Clara) Hi everyone! I\u2019m looking for either a roommate to apartment hunt with or an",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2057092331649005",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-05-01",
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "1B1B",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Menlo Park"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Georgia Tech grad working in Menlo Park; clean, organized, quiet roommate who enjoys the gym, concerts, movies, and gaming.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2057092331649005",
+      "posted_at": "Sunday 8 November 2026 at 21:22",
+      "first_scraped_at": "2026-11-09T06:00:06.120630+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "month lease (Dec 1-May 1) for a room/apartment in the Peninsula/South Bay; $2500-3000 Hey guys, I\u2019m Zayaan, a recent grad",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2057090994982472",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Hayes Valley",
+        "Haight-Ashbury",
+        "Inner Sunset",
+        "Glen Park",
+        "Noe Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old working at a tech company (in-office 4\u20135 days/week in South SF). Active and outdoorsy; enjoys running, climbing, biking, thrifting, reading, playing guitar, and cooking; tidy and respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2057090994982472",
+      "posted_at": "Sunday 8 November 2026 at 21:20",
+      "first_scraped_at": "2026-11-09T06:00:06.120630+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in SF Hi everyone! Looking to fill a spot in an existing lease or find 1-2 roommates for a new",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2057074248317480",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "SoMa",
+        "Pacific Heights",
+        "Richmond District",
+        "Haight-Ashbury",
+        "Noe Valley",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; coordinating with a female friend",
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old accounting professional in FiDi on a hybrid schedule. Enjoys volleyball, Pilates, crocheting, staying active, and exploring coffee shops and restaurants.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2057074248317480",
+      "posted_at": "Sunday 8 November 2026 at 20:55",
+      "first_scraped_at": "2026-11-09T06:00:06.120630+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a room to sublet in San Francisco starting late November/December 1, ideally for 4\u20136 months, with the possibility",
+      "group_id": "242765489748374"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T21:08:33.992846",
-  "count": 3300,
+  "updated_at": "2026-11-08T22:08:55.697828",
+  "count": 3301,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -110225,6 +110225,34 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Berkeley Move-in Ready $2,800/month Great spot in West Berkeley, about 20-30 min to UC Berkeley by bus. Quiet neighborhood with",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4413036145673803",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2000,
+      "neighborhood": "Sunnyvale",
+      "area": "South Bay",
+      "available_from": "2026-11-16",
+      "available_until": "2027-01-16",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": "Villa Cerise Apartments",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4413036145673803",
+      "posted_at": "Sunday 8 November 2026 at 21:25",
+      "first_scraped_at": "2026-11-09T06:00:06.120630+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Nov 16 Jan 16 Spacious 1B1B (~650 sq. ft.) at Villa Cerise Apartments, Sunnyvale $2000/mo Utilities (Below Market Rate!) Negotiable",
+      "group_id": "1511607562483357"
     }
   ]
 }
