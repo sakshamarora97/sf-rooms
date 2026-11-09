@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-08T15:07:18.194315",
-  "count": 3285,
+  "updated_at": "2026-11-08T16:07:36.639367",
+  "count": 3287,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -109557,6 +109557,43 @@
       "group_id": "558742412692677"
     },
     {
+      "listing_id": "4777957999105869",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1700,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2027-02-28",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_building_laundry",
+        "furnished",
+        "furnished_common_areas",
+        "shared_bathroom",
+        "bay_windows",
+        "tv",
+        "fully_equipped_kitchen",
+        "bathtub"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with 1 woman; wants a woman roommate; no pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4777957999105869",
+      "posted_at": "Sunday 8 November 2026 at 14:26",
+      "first_scraped_at": "2026-11-08T23:00:07.762830+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Room Available for Sublet in the Mission $1,700/mo Dec\u2013Feb Female Roommate Wanted! Hi everyone! I'm looking for someone to sublet",
+      "group_id": "2176716625896699"
+    },
+    {
       "listing_id": "4777924505775885",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -109729,6 +109766,34 @@
       "first_scraped_at": "2026-11-08T23:00:07.762830+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "bedroom in a shared 2-bedroom condo will be available after December 16th. Unit is walking distance to shopping, the UCSD",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1410393484194228",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Wants female-identifying tenant",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1410393484194228",
+      "posted_at": "Sunday 8 November 2026 at 15:57",
+      "first_scraped_at": "2026-11-09T00:00:05.655345+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "2027 HOUSING If you\u2019re looking for Spring 2027 Berkeley housing, please reach out ASAP! I\u2019m looking for a female-identifying tenant",
       "group_id": "558742412692677"
     }
   ]
