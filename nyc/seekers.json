@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T09:15:13.205958",
-  "count": 903,
+  "updated_at": "2026-11-09T10:17:03.116721",
+  "count": 904,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28129,6 +28129,38 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "cousin and I are looking for a studio apartment or a spacious room with a private bathroom for two people,",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2272549783309816",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Clean, quiet renter; pets OK, pet-friendly preferred",
+      "reason": null,
+      "age": null,
+      "bio": "Responsible renter with a 782 credit score who always pays rent on time. Clean, quiet, no parties; seeking own 1BR or studio sublet.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2272549783309816",
+      "posted_at": "Monday 9 November 2026 at 09:13",
+      "first_scraped_at": "2026-11-09T18:08:06.819700+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Looking for a sublet through May, ideally a 1 bed or studio where I get my own space. Budget under",
+      "group_id": "149460102285472"
     }
   ]
 }
