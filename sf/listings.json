@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T15:08:37.996614",
-  "count": 3333,
+  "updated_at": "2026-11-09T16:08:22.530963",
+  "count": 3334,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -111324,6 +111324,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "North Berkeley for $1150+utilities Hi! I am looking for a subtenant to take over the remainder of my lease (through",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4779266352308367",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 2000,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "balcony",
+        "large_living_room",
+        "ample_kitchen_counter_space"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4779266352308367",
+      "posted_at": "Monday 9 November 2026 at 15:11",
+      "first_scraped_at": "2026-11-10T00:00:06.790287+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "mid Nov Early Dec (flexible) Hi! I\u2019m looking for someone to stay short term to help fill between leases at",
+      "group_id": "2176716625896699"
     }
   ]
 }
