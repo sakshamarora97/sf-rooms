@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T18:20:15.282399",
-  "count": 917,
+  "updated_at": "2026-11-09T19:21:23.871603",
+  "count": 919,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28560,6 +28560,63 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "roommate Looking for a female roommate Hi! I\u2019m Prachi, an architectural designer looking for a female roommate to share a",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2272921189939342",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Upper East Side",
+        "Upper West Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old healthcare worker relocating from California; outgoing, extroverted, enjoys cooking, social activities, and outdoor hobbies.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2272921189939342",
+      "posted_at": "Monday 9 November 2026 at 19:00",
+      "first_scraped_at": "2026-11-10T03:09:23.083244+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for 1-2 roommates to search for an apartment. I\u2019d ideally want to be in the UES or UWS, but",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2272902156607912",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2272902156607912",
+      "posted_at": "Monday 9 November 2026 at 18:32",
+      "first_scraped_at": "2026-11-10T03:09:23.083244+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "city at least who accepts kids inside",
+      "group_id": "149460102285472"
     }
   ]
 }
