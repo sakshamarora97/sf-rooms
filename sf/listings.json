@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T20:11:18.076549",
-  "count": 3346,
+  "updated_at": "2026-11-09T21:10:27.952054",
+  "count": 3348,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -111786,6 +111786,65 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "in 6B2B House East San Jose Rent Terms Rent: $950/month Utilities: Shared, typically $90\u2013$140 (Electricity, Gas, Water, Trash, 800 Mbps",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4779534195614916",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Male; wants a male roommate; has a cat",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4779534195614916",
+      "posted_at": "Monday 9 November 2026 at 20:33",
+      "first_scraped_at": "2026-11-10T05:00:04.383267+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Nob Hill Apartment is located in the heart of Nob Hill a few blocks away from Lombard street and sits",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4779502752284727",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1200,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-11-19",
+      "available_until": "2027-01-12",
+      "unit_config": "5B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "street_parking",
+        "washer_dryer_in_basement"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 guys and 2 girls",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4779502752284727",
+      "posted_at": "Monday 9 November 2026 at 19:51",
+      "first_scraped_at": "2026-11-10T05:00:04.383267+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Nov 19 Jan 12 Subleasing my room in a 5 bed 2 bath for about 2 months. Currently 2 guys",
+      "group_id": "2176716625896699"
     }
   ]
 }
