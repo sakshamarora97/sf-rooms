@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T18:09:09.021324",
-  "count": 3593,
+  "updated_at": "2026-11-09T19:09:18.641433",
+  "count": 3594,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114620,6 +114620,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room to Rent Hi my name is Kylie and I\u2019m a 24 year old female originally from Hawaii. I\u2019m a",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4779358742299128",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2-3 bedroom apartment"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates in their 20s",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Relocating from San Diego; seeks a 2-3 bedroom with friendly, clean, social roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4779358742299128",
+      "posted_at": "Monday 9 November 2026 at 17:15",
+      "first_scraped_at": "2026-11-10T03:00:06.380755+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "moving to San Francisco from San Diego and am looking for roommates! What I\u2019m looking for: Ideally North Beach or",
+      "group_id": "2176716625896699"
     }
   ]
 }
