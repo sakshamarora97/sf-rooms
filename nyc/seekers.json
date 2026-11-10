@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T17:19:26.476229",
-  "count": 916,
+  "updated_at": "2026-11-09T18:20:15.282399",
+  "count": 917,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28526,6 +28526,39 @@
       "first_scraped_at": "2026-11-10T00:08:27.469214+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Roommates Master Bedroom Newport Hi everyone! I\u2019m looking to move around mid-December and am open to joining an existing lease",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28899424826393662",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Journal Square",
+        "Astoria",
+        "Brooklyn"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Architectural designer; wants a female roommate",
+      "reason": null,
+      "age": null,
+      "bio": "Architectural designer seeking a female roommate to share a 2-bedroom; clean, respectful, values a peaceful home.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28899424826393662",
+      "posted_at": "Monday 9 November 2026 at 17:43",
+      "first_scraped_at": "2026-11-10T02:09:13.823630+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "roommate Looking for a female roommate Hi! I\u2019m Prachi, an architectural designer looking for a female roommate to share a",
       "group_id": "765841576845364"
     }
   ]
