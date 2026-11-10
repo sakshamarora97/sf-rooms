@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T19:09:18.641433",
-  "count": 3594,
+  "updated_at": "2026-11-09T20:11:18.076549",
+  "count": 3595,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114651,6 +114651,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "moving to San Francisco from San Diego and am looking for roommates! What I\u2019m looking for: Ideally North Beach or",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2058085191549719",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Recent grad; wants to live with girls in their early 20s",
+      "reason": "relocation",
+      "age": 22,
+      "bio": "Recent college graduate from Boise State relocating from Menlo Park to San Francisco; seeking a room in the Marina to live with female roommates and make friends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2058085191549719",
+      "posted_at": "Monday 9 November 2026 at 19:56",
+      "first_scraped_at": "2026-11-10T04:00:03.239562+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "I\u2019m 22 and graduated from Boise State this past May. I\u2019m currently living in Menlo Park and wanting to move",
+      "group_id": "242765489748374"
     }
   ]
 }
