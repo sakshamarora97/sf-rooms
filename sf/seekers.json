@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-09T21:10:27.952054",
-  "count": 3595,
+  "updated_at": "2026-11-09T22:10:50.862999",
+  "count": 3596,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -114680,6 +114680,34 @@
       "first_scraped_at": "2026-11-10T04:00:03.239562+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "I\u2019m 22 and graduated from Boise State this past May. I\u2019m currently living in Menlo Park and wanting to move",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2058123811545857",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "New job at an energy startup; wants women in their 20s and early 30s.",
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent hire at an energy startup seeking a room in an existing all-women household. Morning person, tidy, enjoys cycling, hiking, line dancing, writing, and cooking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2058123811545857",
+      "posted_at": "Monday 9 November 2026 at 20:49",
+      "first_scraped_at": "2026-11-10T06:00:06.656562+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Kate (22) and just started a new role at an energy startup. I'm looking for a room with other women",
       "group_id": "242765489748374"
     }
   ]
