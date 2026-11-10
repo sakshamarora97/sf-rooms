@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-09T19:21:23.871603",
-  "count": 919,
+  "updated_at": "2026-11-09T20:24:23.625778",
+  "count": 921,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -28617,6 +28617,68 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "city at least who accepts kids inside",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28900503582952453",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking shared accommodation in New Jersey starting November 17, prefers Gujarati household (ideally Jain, vegan, or vegetarian).",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28900503582952453",
+      "posted_at": "Monday 9 November 2026 at 19:32",
+      "first_scraped_at": "2026-11-10T04:11:22.689444+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "am looking for shared accommodation in New Jersey starting November 17th. Preference would be a Gujarati household, preferably Jain, vegan,",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1010361298101213",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Fort Greene",
+        "Clinton Hill",
+        "Upper East Side",
+        "Upper West Side"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Works in childcare as a nanny/tutor; outgoing and respectful, helps with cleaning and organizing; enjoys art, reading, languages, ice-skating and cooking.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1010361298101213",
+      "posted_at": "Monday 9 November 2026 at 19:08",
+      "first_scraped_at": "2026-11-10T04:11:22.689444+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "sublease for late Dec/early Jan Seeking room Jan 1st move in Hello everyone!! I'm currently looking for a sublease or",
+      "group_id": "312692887868061"
     }
   ]
 }
