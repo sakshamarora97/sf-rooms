@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-12T06:26:29.401444",
-  "count": 2777,
+  "updated_at": "2026-11-12T07:16:51.496441",
+  "count": 2778,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -93093,6 +93093,40 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "house Rental forest hills hardwood floors brand new stainless steel appliances full finished basement and driveway what else could you",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2275530839678377",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Washington Heights",
+      "area": "Manhattan",
+      "available_from": "2026-01-31",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "laundry_in_building",
+        "high_ceilings",
+        "closet",
+        "shared_bathroom",
+        "walk_up"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2275530839678377",
+      "posted_at": "Thursday 12 November 2026 at 06:25",
+      "first_scraped_at": "2026-11-12T15:08:45.525675+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "comedian in Washington Heights who's looking for someone to take over his roommate's room in a spacious 2-bedroom, 1-bath walk-up.",
+      "group_id": "149460102285472"
     }
   ]
 }
