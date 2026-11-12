@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T14:08:03.407788",
-  "count": 3645,
+  "updated_at": "2026-11-12T15:07:49.477756",
+  "count": 3646,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116225,6 +116225,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "22 and looking to move to San Francisco sometime in January! My timeline is pretty flexible, but I\u2019d love to",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1414245260475717",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-07-31",
+      "budget_min": 1300,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "UC Berkeley student seeking a roommate for a 3BR/1BA apartment two blocks from campus; lease 2027-01-01 to 2027-07-31.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1414245260475717",
+      "posted_at": "Thursday 12 November 2026 at 15:02",
+      "first_scraped_at": "2026-11-12T23:00:04.264828+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "currently a student at UC Berkeley and looking for a roommate to join a 3 bedroom 1 bathroom apartment 2",
+      "group_id": "558742412692677"
     }
   ]
 }
