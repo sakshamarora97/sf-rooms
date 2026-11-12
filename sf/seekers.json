@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-11T16:09:30.876993",
-  "count": 3618,
+  "updated_at": "2026-11-11T17:08:32.900646",
+  "count": 3621,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -115393,6 +115393,91 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "here looking to move out of San Francisco tenderloin looking to roommate with someone, I get paid weekly Please msg",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4781892562045746",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Gay",
+      "reason": "relocation",
+      "age": 32,
+      "bio": "32-year-old executive assistant at a nonprofit healthcare organization. Clean, considerate, fairly quiet; enjoys farmers markets, antiques, thrifting, caf\u00e9s, and Golden Gate Park; cancer survivor now considered cured.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4781892562045746",
+      "posted_at": "Wednesday 11 November 2026 at 15:21",
+      "first_scraped_at": "2026-11-12T01:00:03.698856+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Curtis, 32, single, and gay. I recently moved back to Northern California from Hawaii and am staying with family in",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1413409210559322",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male tenant; wants male roommates",
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1413409210559322",
+      "posted_at": "Wednesday 11 November 2026 at 16:54",
+      "first_scraped_at": "2026-11-12T01:00:03.698856+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "starting jan Hello! I\u2019m looking for a sublease or new lease starting January, preferably close to campus and within walking",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1413103767256533",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Law student; needs pet-free space",
+      "reason": "internship",
+      "age": 25,
+      "bio": "25-year-old law student relocating to the Bay Area for a January\u2013April internship near Union Square; seeking a furnished, clean room near Downtown Berkeley BART and needs a pet-free space.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1413103767256533",
+      "posted_at": "Wednesday 11 November 2026 at 08:20",
+      "first_scraped_at": "2026-11-12T01:00:03.698856+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "from January April 2027] Hi, I\u2019m Roselin! I am 25 and currently a law student in Boston. I am moving",
+      "group_id": "558742412692677"
     }
   ]
 }
