@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-12T11:23:14.706335",
-  "count": 984,
+  "updated_at": "2026-11-12T12:21:30.951321",
+  "count": 985,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -30650,6 +30650,37 @@
       "first_scraped_at": "2026-11-12T18:08:59.722628+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Samara, and I\u2019m going to start graduate school this year. I am super excited, but it will require",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2275821096316018",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Williamsburg",
+        "Upper East Side"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Works in Midtown as an assistant; clean and social, likes cooking for roommates; enjoys movies, museums, book shopping and wine nights.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2275821096316018",
+      "posted_at": "Thursday 12 November 2026 at 11:47",
+      "first_scraped_at": "2026-11-12T20:08:35.622663+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "and i\u2019m looking for roommates! i found some places in Williamsburg, and the UES for under $2k per person! i\u2019m",
       "group_id": "149460102285472"
     }
   ]
