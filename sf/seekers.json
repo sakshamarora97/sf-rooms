@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T11:10:08.660380",
-  "count": 3643,
+  "updated_at": "2026-11-12T12:08:30.144788",
+  "count": 3644,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116155,6 +116155,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking for a short-term sublease from early jan to early april 2027 for my internship in sf! preferably within walking",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2060884681269770",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-29",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1750,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "Panhandle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Man; wants working professionals late 20s\u2013early 30s; open to roommates with cats",
+      "reason": "new_job",
+      "age": 28,
+      "bio": "28-year-old sommelier moving to San Francisco to work in Civic Center; tidy, works nights, keeps shared spaces clean; social and active, enjoys gym and cultural events.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2060884681269770",
+      "posted_at": "Thursday 12 November 2026 at 09:57",
+      "first_scraped_at": "2026-11-12T20:00:03.438748+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a roommate/room takeover/unfurnished sublease starting by the end of November/early December (11/29 would be ideal). Budget is ideally",
+      "group_id": "242765489748374"
     }
   ]
 }

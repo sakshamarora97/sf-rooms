@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T11:10:08.660380",
-  "count": 3443,
+  "updated_at": "2026-11-12T12:08:30.144788",
+  "count": 3444,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -115063,6 +115063,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "JANUARY IN BERKELEY! (FEMALE ONLY) Rent: $1,316.96/month Hi everyone! I\u2019m looking for someone to take over my room as I",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4782443231990679",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": 6000,
+      "neighborhood": "Dogpatch",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2026-12-28",
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "wifi_included",
+        "street_parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "building_name": "The Landing",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Pets allowed.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4782443231990679",
+      "posted_at": "Thursday 12 November 2026 at 01:52",
+      "first_scraped_at": "2026-11-12T20:00:03.438748+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "2BR/2BA apartment in Dogpatch at The Landing, available now through Dec 28. Can renew with the building for next year",
+      "group_id": "2176716625896699"
     }
   ]
 }
