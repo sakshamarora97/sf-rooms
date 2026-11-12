@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-11T21:21:45.364905",
-  "count": 2760,
+  "updated_at": "2026-11-11T22:20:16.083434",
+  "count": 2761,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -92547,6 +92547,39 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "140 W 55th Street, Apt 2D, New York, NY 10019 $3,900 MONTH Looking for the perfect Manhattan apartment? This spacious",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28931046979898113",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2100,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "manhattan_view",
+        "waterfront_view",
+        "high_floor",
+        "furnished_common_areas"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": "Parkside East",
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 women; wants a female roommate; has two cats",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28931046979898113",
+      "posted_at": "Wednesday 11 November 2026 at 22:11",
+      "first_scraped_at": "2026-11-12T06:09:32.824048+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Attached Bathroom Lease Transfer in Newport, Jersey City Hi everyone! I\u2019m looking for a female roommate to take over the",
+      "group_id": "765841576845364"
     }
   ]
 }
