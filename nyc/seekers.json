@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-12T14:19:11.070819",
-  "count": 986,
+  "updated_at": "2026-11-12T15:19:05.741311",
+  "count": 989,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -30716,6 +30716,107 @@
       "first_scraped_at": "2026-11-12T21:10:13.897626+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "or Crown Heights Long-Term sublet/Roommates for December 1st move Currently looking for a room or apartment to long term sublet",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2275974882967306",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-24",
+      "move_out_date": "2027-01-10",
+      "budget_min": 600,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": 24,
+      "bio": "24-year-old software engineer from Paris seeking a short-term room to visit NYC without paying for a hotel.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2275974882967306",
+      "posted_at": "Thursday 12 November 2026 at 15:05",
+      "first_scraped_at": "2026-11-12T23:07:54.837820+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room from 12/24 to 01/10 Hi, I'm a 24 year old software engineer from Paris that wants to enjoy visiting",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2275968276301300",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 5300,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "West Village",
+        "Gramercy",
+        "SoHo",
+        "NoLita",
+        "NoHo",
+        "Lower East Side",
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Has 2 indoor cats",
+      "reason": null,
+      "age": null,
+      "bio": "Two people seeking a long-term 2-bedroom lease takeover or sublet in Manhattan with two indoor cats; looking for laundry, dishwasher, natural light.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2275968276301300",
+      "posted_at": "Thursday 12 November 2026 at 14:57",
+      "first_scraped_at": "2026-11-12T23:07:54.837820+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "2 bed lease takeover in Manhattan for Dec 1st! Hi everyone! My roommate and I are looking for a 2",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2275954216302706",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-14",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Queens",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a room by Nov 14, budget $800\u2013$1000; open to Brooklyn, Queens, or Manhattan; 420-friendly.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2275954216302706",
+      "posted_at": "Thursday 12 November 2026 at 14:41",
+      "first_scraped_at": "2026-11-12T23:07:54.837820+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "saturday 14th under $1000 Looking for room by Saturday the 14th very open to Brooklyn, queens or Manhattan budget between",
       "group_id": "149460102285472"
     }
   ]
