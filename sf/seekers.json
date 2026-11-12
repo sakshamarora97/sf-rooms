@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-11T19:10:02.729470",
-  "count": 3625,
+  "updated_at": "2026-11-11T20:09:02.664809",
+  "count": 3626,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -115605,6 +115605,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "and I\u2019m moving to the Santa Clara/Sunnyvale area for a full-time SDE role at a tech company. I\u2019m looking for",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1413513420548901",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Undergraduate student seeking a Spring 2027 single-room sublease with a budget of around $1,400/month.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1413513420548901",
+      "posted_at": "Wednesday 11 November 2026 at 19:57",
+      "first_scraped_at": "2026-11-12T04:00:04.014426+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "spring sublease hi i'm an undergrad student looking for a spring 2027 sublease (single room). budget is around 1400",
+      "group_id": "558742412692677"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-11T19:10:02.729470",
-  "count": 3411,
+  "updated_at": "2026-11-11T20:09:02.664809",
+  "count": 3413,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -113869,6 +113869,40 @@
       "group_id": "558742412692677"
     },
     {
+      "listing_id": "2060216814669890",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Haight-Ashbury",
+      "area": "San Francisco",
+      "available_from": "2026-12-15",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "backyard",
+        "storage_unit",
+        "natural_light"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 roommates; wants female-identifying roommate; has 2 cats",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2060216814669890",
+      "posted_at": "Wednesday 11 November 2026 at 18:17",
+      "first_scraped_at": "2026-11-12T03:00:04.941991+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and I are looking for a female identifying roommate (mid 20s early 30s) to fill a spacious 3rd room in",
+      "group_id": "242765489748374"
+    },
+    {
       "listing_id": "2794271477635323",
       "post_type": "listing",
       "listing_type": "room_rental",
@@ -114009,6 +114043,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Private Washroom Available Availability: 5th December to 7th January Rent: $1399 (Negotiable) Location: North Park Apartments, 60 Descanso Dr, San",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1413490217217888",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1850,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-06-30",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "in_unit_laundry",
+        "kitchen",
+        "common_space",
+        "shared_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 4 male housemates",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1413490217217888",
+      "posted_at": "Wednesday 11 November 2026 at 19:15",
+      "first_scraped_at": "2026-11-12T04:00:04.014426+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Takeover Private Single $1,850/month Looking for someone to take over my lease for the Spring 2027 semester! 2627 Hillgass Avenue",
+      "group_id": "558742412692677"
     }
   ]
 }
