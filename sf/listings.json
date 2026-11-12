@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T06:15:15.538851",
-  "count": 3438,
+  "updated_at": "2026-11-12T07:08:40.456774",
+  "count": 3439,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -114904,6 +114904,39 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "room available starting February 1 in our North Berkeley co-op house...The Nookery, the house of many nooks and crannies! If",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "29090577487266196",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1559,
+      "neighborhood": "Excelsior",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "fitness_center",
+        "rooftop_terrace"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Couple; prefers a male roommate; has cats",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29090577487266196",
+      "posted_at": "Thursday 12 November 2026 at 06:27",
+      "first_scraped_at": "2026-11-12T15:00:04.057754+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "I have an unfurnished room open in our 2 bed 1 bath apartment. Looking for a clean, easygoing roommate (male",
+      "group_id": "843764532374203"
     }
   ]
 }
