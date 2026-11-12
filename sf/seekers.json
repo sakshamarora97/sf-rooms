@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-11T17:08:32.900646",
-  "count": 3621,
+  "updated_at": "2026-11-11T18:07:03.478461",
+  "count": 3622,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -115478,6 +115478,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "from January April 2027] Hi, I\u2019m Roselin! I am 25 and currently a law student in Boston. I am moving",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4781929905375345",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-22",
+      "move_out_date": "2027-06-20",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "month-to-month"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates",
+      "reason": "internship",
+      "age": null,
+      "bio": "A 4th-year architecture student at Cal Poly SLO relocating to San Francisco for a spring architecture internship. Enjoys reading, dance, creative pursuits, exploring the city, and socializing while valuing cleanliness and clear communication in shared living.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4781929905375345",
+      "posted_at": "Wednesday 11 November 2026 at 16:04",
+      "first_scraped_at": "2026-11-12T02:00:06.257928+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Sanjana, a 4th-year architecture student at Cal Poly SLO. I\u2019m moving to San Francisco for an architecture internship this spring",
+      "group_id": "2176716625896699"
     }
   ]
 }
