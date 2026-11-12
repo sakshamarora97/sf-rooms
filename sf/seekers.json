@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-11T21:09:47.707868",
-  "count": 3630,
+  "updated_at": "2026-11-11T22:09:27.356151",
+  "count": 3631,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -115758,6 +115758,44 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Alameda/Orkland/Berkeley CA, starting December 1, 2026. Hi everyone! I\u2019m looking for a place to rent in Alameda/Orkland/Berkeley CA, starting December",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4417205088590242",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Redwood City",
+        "Foster City",
+        "Burlingame",
+        "San Carlos",
+        "Belmont",
+        "Menlo Park",
+        "Palo Alto",
+        "Woodside"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Works in Foster City and is seeking a private-bedroom/private-bathroom sublease on the Peninsula; needs to move ASAP.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4417205088590242",
+      "posted_at": "Wednesday 11 November 2026 at 19:02",
+      "first_scraped_at": "2026-11-12T06:00:03.637996+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "private bedroom and bathroom I'm looking for a sublease with a private bedroom and private bathroom. Budget is $1,500-$1,900/month. I'il",
+      "group_id": "1511607562483357"
     }
   ]
 }
