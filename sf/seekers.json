@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-11T18:07:03.478461",
-  "count": 3622,
+  "updated_at": "2026-11-11T19:10:02.729470",
+  "count": 3625,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -115508,6 +115508,103 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Sanjana, a 4th-year architecture student at Cal Poly SLO. I\u2019m moving to San Francisco for an architecture internship this spring",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1413473167219593",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "ADU",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Two people; wants entire private unit; no pets.",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Visiting faculty and postdoctoral researcher at UC Berkeley on a government-funded Turkish fellowship; quiet, considerate non-smoker seeking a private ADU/studio/1BR for two.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1413473167219593",
+      "posted_at": "Wednesday 11 November 2026 at 18:48",
+      "first_scraped_at": "2026-11-12T03:00:04.941991+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "name is Deniz. I\u2019m a visiting faculty member at UC Berkeley, conducting postdoctoral research. I\u2019m looking for an entire private",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4416370922006992",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2BR",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "Sunnyvale"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; wants dog-friendly roommate; has a dog",
+      "reason": "new_job",
+      "age": 30,
+      "bio": "30-year-old engineer relocating from LA for a job in Santa Clara. Active climber, skier and tennis player; tidy, occasional cook, bringing a 40 lb dog.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4416370922006992",
+      "posted_at": "Wednesday 11 November 2026 at 19:04",
+      "first_scraped_at": "2026-11-12T03:00:04.941991+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "to find a 2BR together Santa Clara or Sunnyvale Early December Hey! I\u2019m Sam, 30, moving up from LA for",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4417030308607720",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-28",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "1B1B",
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "Sunnyvale"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Incoming software engineer relocating for a full-time SDE role; clean, responsible, easygoing; enjoys hiking, gym, rock climbing and board games.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4417030308607720",
+      "posted_at": "Wednesday 11 November 2026 at 19:03",
+      "first_scraped_at": "2026-11-12T03:00:04.941991+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "and I\u2019m moving to the Santa Clara/Sunnyvale area for a full-time SDE role at a tech company. I\u2019m looking for",
+      "group_id": "1511607562483357"
     }
   ]
 }
