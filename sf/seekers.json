@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T12:08:30.144788",
-  "count": 3644,
+  "updated_at": "2026-11-12T13:10:07.933761",
+  "count": 3645,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116187,6 +116187,43 @@
       "first_scraped_at": "2026-11-12T20:00:03.438748+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a roommate/room takeover/unfurnished sublease starting by the end of November/early December (11/29 would be ideal). Budget is ideally",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2060955787929326",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Marina",
+        "Cow Hollow",
+        "Hayes Valley",
+        "Mission District",
+        "Nob Hill",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants girls",
+      "reason": "relocation",
+      "age": 22,
+      "bio": "They are a 22-year-old remote talent management professional who enjoys singing, songwriting, thrifting, cooking, live music, and exploring. Looking for friendly roommates and a community in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2060955787929326",
+      "posted_at": "Thursday 12 November 2026 at 11:51",
+      "first_scraped_at": "2026-11-12T21:00:05.680142+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "22 and looking to move to San Francisco sometime in January! My timeline is pretty flexible, but I\u2019d love to",
       "group_id": "242765489748374"
     }
   ]
