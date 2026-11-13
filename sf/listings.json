@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T21:09:44.389284",
-  "count": 3469,
+  "updated_at": "2026-11-12T22:07:42.336464",
+  "count": 3471,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -115931,6 +115931,76 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "full bath for rent downstairs for rent. House in Parkside, San Francisco. Freshly painted. No Kitchen, but ok for simple",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2795835937478877",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1450,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-16",
+      "available_until": null,
+      "unit_config": "4B2.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "central_heating",
+        "laundry",
+        "regular_cleaning",
+        "garage",
+        "kitchen_appliances",
+        "internet",
+        "furnished_bedroom",
+        "attic_storage"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with UC Berkeley students; gender-inclusive home",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2795835937478877",
+      "posted_at": "Thursday 12 November 2026 at 21:49",
+      "first_scraped_at": "2026-11-13T06:00:03.678943+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "UCB Campus and Berkeley Bowl for $1450/mo utilities included! Layout: Spacious single-family home with 4 bedrooms and 2.5 bathrooms. Downstairs:",
+      "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1414375447129365",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 950,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "views",
+        "furnished_common_areas"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Female household; wants female-identifying tenant; pets not allowed",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1414375447129365",
+      "posted_at": "Thursday 12 November 2026 at 21:10",
+      "first_scraped_at": "2026-11-13T06:00:03.678943+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Room Available in Pinole, CA with views!!! We\u2019re looking for 1 female-identifying tenant to join the home\u2014feel free to reach",
+      "group_id": "558742412692677"
     }
   ]
 }
