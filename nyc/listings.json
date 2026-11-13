@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-12T19:21:08.940958",
-  "count": 2853,
+  "updated_at": "2026-11-12T20:21:00.524229",
+  "count": 2854,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -95638,6 +95638,41 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "$650/mo 630 Bergen Ave, Jersey City (07304) Space: Extra spacious private room Rent: $650/month separate utilities) Deposit: (1.5x deposit) Roommates:",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2934901603542771",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": "2028-02-08",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "parking",
+        "shuttle",
+        "park",
+        "convenience_store"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": "The Beacon",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 1 male roommate",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2934901603542771",
+      "posted_at": "Thursday 12 November 2026 at 19:38",
+      "first_scraped_at": "2026-11-13T04:07:31.343632+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "Private Attached Bath $1,900 The Beacon, Jersey City Dec Move-in Looking for someone to take over my lease starting mid-December",
+      "group_id": "1138638939835722"
     }
   ]
 }
