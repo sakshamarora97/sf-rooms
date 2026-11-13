@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T12:18:47.378420",
-  "count": 1006,
+  "updated_at": "2026-11-13T13:19:42.056112",
+  "count": 1008,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -31342,6 +31342,67 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Sydney, and I am looking to move to Manhattan on **Jan 1st. My budget is $2,000 (slightly flexible,",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2277001242864670",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-03-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Solo with a rabbit; doesn't mind a male roommate; needs pet-friendly place",
+      "reason": null,
+      "age": null,
+      "bio": "She is a Manhattan-based model who enjoys large-scale oil painting, making cards, reading and listening to music. Extremely neat and organized; seeks a long-term lease.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277001242864670",
+      "posted_at": "Friday 13 November 2026 at 12:30",
+      "first_scraped_at": "2026-11-13T21:09:13.654647+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room under $1200 pet friendly! Hi, I\u2019m Kate, and my littered trained house rabbit Min and I are looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1014065037730839",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-05-15",
+      "move_out_date": "2027-06-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking to rent a furnished studio in Manhattan for one month starting mid-May.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1014065037730839",
+      "posted_at": "Friday 13 November 2026 at 12:44",
+      "first_scraped_at": "2026-11-13T21:09:13.654647+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "mid May,for 1 month. .Looking for a furnished studio. Thanks!",
+      "group_id": "312692887868061"
     }
   ]
 }
