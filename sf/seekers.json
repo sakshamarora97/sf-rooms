@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T19:08:05.051150",
-  "count": 3652,
+  "updated_at": "2026-11-12T20:07:25.166765",
+  "count": 3653,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116431,6 +116431,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "from ~now through Christmas. Ideally somewhere with good WiFi and realistic parking options. Might be a stretch but not picky",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4418098545167563",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Single parent seeking a safe, stable 1\u20132 bedroom apartment for herself and her 2-year-old son; financially prepared and ready to rent, prefers move before Thanksgiving or by mid-December.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4418098545167563",
+      "posted_at": "Thursday 12 November 2026 at 19:52",
+      "first_scraped_at": "2026-11-13T04:00:04.072413+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "A 1\u20132 BEDROOM APARTMENT Hello everyone! I\u2019m currently looking for a 1\u20132 bedroom apartment for myself and my 2-year-old son.",
+      "group_id": "1511607562483357"
     }
   ]
 }
