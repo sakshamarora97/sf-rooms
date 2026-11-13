@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T06:20:01.903732",
-  "count": 1000,
+  "updated_at": "2026-11-13T07:15:53.740150",
+  "count": 1001,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -31157,6 +31157,38 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Roommate RVR, Secaucus, NJ Hi everyone! I\u2019m looking for someone interested in signing a lease together for a 2-bedroom, 2-bathroom",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1013834387753904",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Male vegetarian; prefers vegetarian household; no pets",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "Working professional relocating to NYC for a job in Midtown Manhattan; vegetarian, non-smoker, non-drinker, clean and quiet.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1013834387753904",
+      "posted_at": "Friday 13 November 2026 at 07:09",
+      "first_scraped_at": "2026-11-13T15:07:48.988457+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Move-in: Dec 30 to Jan 1 Hi everyone! I'm Agam (26M), a working professional relocating to the NYC area at",
+      "group_id": "312692887868061"
     }
   ]
 }
