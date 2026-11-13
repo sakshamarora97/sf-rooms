@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T07:07:44.359891",
-  "count": 3474,
+  "updated_at": "2026-11-13T08:07:54.133356",
+  "count": 3475,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -116106,6 +116106,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "MERRITT, OAKLAND! Move-in: December 1, 2026 Looking for a new roommate to join our home right across from beautiful Lake",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1414904707076439",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "on-site_laundry",
+        "updated_kitchen",
+        "wood_flooring",
+        "water_included",
+        "garbage_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1414904707076439",
+      "posted_at": "Friday 13 November 2026 at 07:22",
+      "first_scraped_at": "2026-11-13T16:00:04.651744+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "place near UC Berkeley, but want a little more peace and space away from the middle of campus? Check out",
+      "group_id": "558742412692677"
     }
   ]
 }
