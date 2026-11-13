@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T09:07:28.393261",
-  "count": 3659,
+  "updated_at": "2026-11-13T10:09:24.046797",
+  "count": 3661,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116652,6 +116652,63 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "and/or apartment/sublet (Mission Bay, Dogpatch, Potrero) Moving to SF some time in early December (between Dec 1 Dec 13). Looking",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "29102294822761129",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works as a caddie, spends most of the time out and about; seeking a month-to-month furnished bedroom available immediately.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29102294822761129",
+      "posted_at": "Friday 13 November 2026 at 09:31",
+      "first_scraped_at": "2026-11-13T18:00:07.219898+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "to sublease a bedroom month to month as soon as possible. I\u2019m a caddie that spends most of my time",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29102392532751358",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Seeks dog-friendly place",
+      "reason": null,
+      "age": null,
+      "bio": "Recent UC Berkeley graduate seeking a 3\u201312 month sublease or new lease starting December. Prefers dog-friendly units with in-unit laundry; budget up to $3,000.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29102392532751358",
+      "posted_at": "Friday 13 November 2026 at 09:31",
+      "first_scraped_at": "2026-11-13T18:00:07.219898+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "studio/1br starting December Hi my name is Mel. I just graduated from UC Berkeley and is now looking for a",
+      "group_id": "843764532374203"
     }
   ]
 }
