@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-12T18:17:50.023055",
-  "count": 993,
+  "updated_at": "2026-11-12T19:21:08.940958",
+  "count": 994,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -30943,6 +30943,38 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "name is Poly, I\u2019m a second year and because my current lease is ending in December i\u2018m urgently looking for",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2276123032952491",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-02",
+      "move_out_date": "2026-12-19",
+      "budget_min": 2000,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a short-term studio or 1-bedroom sublease in Manhattan or Brooklyn for December (Dec 2\u201319).",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2276123032952491",
+      "posted_at": "Thursday 12 November 2026 at 18:38",
+      "first_scraped_at": "2026-11-13T03:08:10.475745+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1-Bedroom Sublease in NYC December Hi! I\u2019m looking for a studio or 1-bedroom apartment in Manhattan or Brooklyn for a",
+      "group_id": "149460102285472"
     }
   ]
 }
