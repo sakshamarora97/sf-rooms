@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T08:07:54.133356",
-  "count": 3475,
+  "updated_at": "2026-11-13T09:07:28.393261",
+  "count": 3476,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -116141,6 +116141,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "place near UC Berkeley, but want a little more peace and space away from the middle of campus? Check out",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4784148788486790",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2912,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "private_bathroom",
+        "shared_kitchen",
+        "bay_view",
+        "furnished_common_areas",
+        "smoke_free"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": "Bayside Village",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Working professional poster; wants working professional roommate; small dogs OK, allergic to cats.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4784148788486790",
+      "posted_at": "Friday 13 November 2026 at 08:23",
+      "first_scraped_at": "2026-11-13T17:00:04.318467+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Village January 2027 Hi everyone! I\u2019m looking for a roommate to share my lovely apartment at Bayside Village, starting around",
+      "group_id": "2176716625896699"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T08:07:54.133356",
-  "count": 3658,
+  "updated_at": "2026-11-13T09:07:28.393261",
+  "count": 3659,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116618,6 +116618,40 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "ROOMMATE LATE NOV/ DECEMBER MOVE-IN Hi everyone! I'm a working professional looking for housing in the Bay Area, ideally starting",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4784124155155920",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room",
+        "1B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Dogpatch",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "27M; open to M and F roommates; no pets (allergic).",
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old moving to San Francisco for a new startup job; clean, respectful roommate who works in-person five days a week and travels occasionally.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4784124155155920",
+      "posted_at": "Friday 13 November 2026 at 07:58",
+      "first_scraped_at": "2026-11-13T17:00:04.318467+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "and/or apartment/sublet (Mission Bay, Dogpatch, Potrero) Moving to SF some time in early December (between Dec 1 Dec 13). Looking",
+      "group_id": "2176716625896699"
     }
   ]
 }
