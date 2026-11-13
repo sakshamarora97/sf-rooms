@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T16:06:49.888945",
-  "count": 3647,
+  "updated_at": "2026-11-12T17:07:51.644807",
+  "count": 3650,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116285,6 +116285,95 @@
       "first_scraped_at": "2026-11-13T00:00:05.668807+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "private room for Couple in Fremont (move in: Nov end) Hi everyone! We\u2019re a Couple. Open to a private room,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4783257898575879",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Sunset",
+        "Richmond District",
+        "Panhandle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker enjoys reading, discussing music, and working on side projects; quiet, respectful, and responsible.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4783257898575879",
+      "posted_at": "Thursday 12 November 2026 at 16:29",
+      "first_scraped_at": "2026-11-13T01:00:03.578335+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "place in San Francisco starting around January 1. Hi everyone! I'm looking for a place in San Francisco starting around",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2061122544579317",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 21,
+      "bio": "Recent college graduate moving to San Francisco to start full-time work in April. Outgoing and social, enjoys restaurants, coffee shops, travel, the outdoors; clean, respectful and communicative roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2061122544579317",
+      "posted_at": "Thursday 12 November 2026 at 16:46",
+      "first_scraped_at": "2026-11-13T01:00:03.578335+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "to San Francisco to start working full-time in early April and am looking for roommates to apartment hunt with or",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2061103881247850",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Pets OK",
+      "reason": null,
+      "age": null,
+      "bio": "Works full-time in tech; quiet and considerate, pays on time and keeps her space clean.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2061103881247850",
+      "posted_at": "Thursday 12 November 2026 at 16:12",
+      "first_scraped_at": "2026-11-13T01:00:03.578335+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Laura, looking for a pet-friendly one-bedroom in SF. Ideally a lease transfer or sublease. Move-in: ASAP Rent: Up to $4,000,",
       "group_id": "242765489748374"
     }
   ]
