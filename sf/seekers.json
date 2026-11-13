@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T20:07:25.166765",
-  "count": 3653,
+  "updated_at": "2026-11-12T21:09:44.389284",
+  "count": 3655,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116460,6 +116460,66 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "A 1\u20132 BEDROOM APARTMENT Hello everyone! I\u2019m currently looking for a 1\u20132 bedroom apartment for myself and my 2-year-old son.",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2061256257899279",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 22,
+      "bio": "22-year-old recent transplant to San Francisco who describes themself as clean, respectful, and easygoing. Enjoys trying new restaurants, exploring the city, reading, and playing pickleball; social but values personal time.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2061256257899279",
+      "posted_at": "Thursday 12 November 2026 at 20:07",
+      "first_scraped_at": "2026-11-13T05:00:04.132715+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking to either join an existing lease or find a roommate to apartment hunt with! I\u2019m mainly looking at neighborhoods",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2061254914566080",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants vegetarian/vegan household",
+      "reason": "new_job",
+      "age": 25,
+      "bio": "A 25-year-old applied AI engineer working full-time with stable income; vegetarian, clean, easygoing, enjoys cooking, hosting, running and crafts, seeks friendly household.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2061254914566080",
+      "posted_at": "Thursday 12 November 2026 at 20:05",
+      "first_scraped_at": "2026-11-13T05:00:04.132715+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room or roommates in SF Hi everyone! I'm a 25F who just moved to the Bay Area for work, and",
+      "group_id": "242765489748374"
     }
   ]
 }
