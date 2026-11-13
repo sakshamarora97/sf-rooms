@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T13:19:42.056112",
-  "count": 1008,
+  "updated_at": "2026-11-13T14:16:49.551751",
+  "count": 1009,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -31403,6 +31403,43 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "mid May,for 1 month. .Looking for a furnished studio. Thanks!",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2277016492863145",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2200,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room",
+        "apartment",
+        "sublet",
+        "lease takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Bushwick",
+        "DUMBO",
+        "Clinton Hill",
+        "Williamsburg"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old relocating from San Francisco for work. Enjoys movies, walks, dining and drinks; tidy and respectful roommate who prefers friendly housemates and occasionally hosts friends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277016492863145",
+      "posted_at": "Friday 13 November 2026 at 12:47",
+      "first_scraped_at": "2026-11-13T22:07:01.243717+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "is Patrick (24M) and I am moving from SF to NYC to relocate for my job. I'm looking for roommates/apartments/sublets",
+      "group_id": "149460102285472"
     }
   ]
 }
