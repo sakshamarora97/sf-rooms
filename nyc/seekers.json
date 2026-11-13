@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-12T16:17:27.765826",
-  "count": 990,
+  "updated_at": "2026-11-12T17:20:20.696961",
+  "count": 992,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -30855,6 +30855,66 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "is Jack, I am a 21 year old male, and I am looking for an apartment or an open room",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28942715608731250",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-31",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Working professional in tech; prefers female roommates, open to guys; non-vegetarian.",
+      "reason": null,
+      "age": null,
+      "bio": "Working professional in tech who is easygoing, friendly, clean, and respectful of shared spaces. Seeks a roommate to apartment-hunt for a 2B2B near Grove Street in Downtown Jersey City, planning to move around the end of December.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28942715608731250",
+      "posted_at": "Thursday 12 November 2026 at 17:01",
+      "first_scraped_at": "2026-11-13T01:07:58.037129+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "near Grove Street Hi everyone! My name is Nithishma Allu, and I'm a working professional in tech currently looking for",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28942418812094263",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28942418812094263",
+      "posted_at": "Thursday 12 November 2026 at 16:30",
+      "first_scraped_at": "2026-11-13T01:07:58.037129+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Master Bedroom with attached washroom Near Journal Square, Jersey City Hi everyone! I'm looking for a master bedroom with an",
+      "group_id": "765841576845364"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-12T16:17:27.765826",
-  "count": 2842,
+  "updated_at": "2026-11-12T17:20:20.696961",
+  "count": 2844,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -95286,6 +95286,72 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Through Feb'28 starting asap or Dec 1 $3250 Hi everyone, I\u2019m looking for someone to take over my lease starting",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28942688125400665",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1220,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "dishwasher",
+        "amazon_package_lockers",
+        "gym",
+        "parking",
+        "high_floor"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28942688125400665",
+      "posted_at": "Thursday 12 November 2026 at 16:59",
+      "first_scraped_at": "2026-11-13T01:07:58.037129+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "FOR RENT NEWARK, NJ Newark, NJ 07112 21st Floor Apartment Spacious Master Bedroom with Attached Private Bathroom available in a",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28936656799337131",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "laundromat",
+        "near_public_transit",
+        "coffee_shop_wifi"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28936656799337131",
+      "posted_at": "Thursday 12 November 2026 at 06:57",
+      "first_scraped_at": "2026-11-13T01:07:58.037129+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Bedroom Near Journal Square Looking for a place near Journal Square PATH? We have one single occupancy bedrooms available for",
+      "group_id": "765841576845364"
     }
   ]
 }
