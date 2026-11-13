@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-12T22:07:42.336464",
-  "count": 3655,
+  "updated_at": "2026-11-13T06:10:20.885683",
+  "count": 3658,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116520,6 +116520,104 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "room or roommates in SF Hi everyone! I'm a 25F who just moved to the Bay Area for work, and",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2061344944557077",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Hayes Valley",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 23,
+      "bio": "Works in tech in the South Bay; active and social, prefers a clean, cozy home with in-unit washer/dryer and parking.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2061344944557077",
+      "posted_at": "Thursday 12 November 2026 at 22:20",
+      "first_scraped_at": "2026-11-13T14:00:03.777417+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "names delina, i\u2019m 23 and looking for a roommate to share a 2B2B apartment starting around end of Jan/beginning of",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2061285451229693",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Former student-athlete; wants 2-3 male roommates",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Former Cal student-athlete starting a tech role in January; active, social, and athletic.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2061285451229693",
+      "posted_at": "Thursday 12 November 2026 at 20:46",
+      "first_scraped_at": "2026-11-13T14:00:03.777417+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Pablo Moreno, former student-athlete at Cal. I\u2019m starting a role in a Tech company in January 1st and planning to",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4417627235214694",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "private_room",
+        "studio",
+        "1B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "Belmont",
+        "Palo Alto",
+        "Mountain View",
+        "Sunnyvale",
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working professional seeking a late-November/December move-in. Clean, responsible, and respectful of shared spaces; prefers furnished units and proximity to Caltrain.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4417627235214694",
+      "posted_at": "Friday 13 November 2026 at 02:13",
+      "first_scraped_at": "2026-11-13T14:00:03.777417+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "ROOMMATE LATE NOV/ DECEMBER MOVE-IN Hi everyone! I'm a working professional looking for housing in the Bay Area, ideally starting",
+      "group_id": "1511607562483357"
     }
   ]
 }
