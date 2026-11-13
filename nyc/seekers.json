@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T11:14:41.522481",
-  "count": 1005,
+  "updated_at": "2026-11-13T12:18:47.378420",
+  "count": 1006,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -31311,6 +31311,37 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for a room for my girlfriend and I to move into starting December 1st (OR January 1st). My girlfriend (Naomi,",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2276944156203712",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-01-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works in fundraising; non-smoker and non-drinker; quiet, respectful, clean, light sleeper who travels home frequently.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2276944156203712",
+      "posted_at": "Friday 13 November 2026 at 11:21",
+      "first_scraped_at": "2026-11-13T20:08:57.057144+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Sydney, and I am looking to move to Manhattan on **Jan 1st. My budget is $2,000 (slightly flexible,",
+      "group_id": "149460102285472"
     }
   ]
 }
