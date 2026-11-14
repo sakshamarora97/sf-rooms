@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T18:07:51.420678",
-  "count": 3663,
+  "updated_at": "2026-11-13T19:07:48.861793",
+  "count": 3666,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116770,6 +116770,105 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Room/Sublet in Berkeley, Jan-Aug 2027 (Flexible Dates) Hi! I'm an upper-year engineering student from Canada moving to Berkeley for an",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4784620398439629",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Union Square",
+        "Russian Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; prefers to live with other girls",
+      "reason": null,
+      "age": 22,
+      "bio": "Recent college graduate and Financial Analyst at a tech company in San Jose. Outgoing and social, enjoys restaurants, coffee shops, hosting friends, travel, and meeting new people.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4784620398439629",
+      "posted_at": "Friday 13 November 2026 at 17:31",
+      "first_scraped_at": "2026-11-14T03:00:05.675087+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room in SF! Mid\u2013Late December Move-in Hi everyone!! I'm 22F, a recent college grad currently working as a Financial Analyst",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1415280553705521",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Oakland",
+        "Hayward",
+        "Fremont"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are a clean, responsible, respectful, and quiet couple looking for a comfortable room in Berkeley, Oakland, Hayward, or Fremont.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1415280553705521",
+      "posted_at": "Friday 13 November 2026 at 17:38",
+      "first_scraped_at": "2026-11-14T03:00:05.675087+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Room to Rent Couple Hi everyone! My partner and I are looking for a room to rent in Berkeley, MacArthur,",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4419772185000199",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B1B",
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "Berkeley",
+        "Alameda"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Two friends; no pets",
+      "reason": "relocation",
+      "age": 24,
+      "bio": "One is a UCSB graduate currently bartending and enjoys music, sports, and the gym; the other works in retail inventory management and likes music, sports, and art. Both are clean, easygoing, and pay rent on time.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4419772185000199",
+      "posted_at": "Friday 13 November 2026 at 18:51",
+      "first_scraped_at": "2026-11-14T03:00:05.675087+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "FOR A 2BR OR 2 ROOMS 2 friends (both 24) looking for a 2BR or 2 rooms in a shared",
+      "group_id": "1511607562483357"
     }
   ]
 }
