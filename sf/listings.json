@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T15:09:15.852764",
-  "count": 3494,
+  "updated_at": "2026-11-13T16:07:34.868977",
+  "count": 3495,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -116774,6 +116774,42 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "female identifying individual to sublet January-July 2027 Kittredge St, Berkeley, $950 Rent DETAILS: Would be sharing 2B1B with a roommate",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2062060704485501",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1370,
+      "neighborhood": "NoPa",
+      "area": "San Francisco",
+      "available_from": "2026-12-11",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "furnished_living_room",
+        "TV",
+        "fully_equipped_kitchen",
+        "blackout_curtains",
+        "desk",
+        "closet",
+        "natural_light"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Visual artist host; wants single occupant only; has two cats, cats OK.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2062060704485501",
+      "posted_at": "Friday 13 November 2026 at 15:22",
+      "first_scraped_at": "2026-11-14T00:00:06.157310+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "NOPA (2 cats in the house). Available for move in: December 11 Quiet, clean, private, furnished bedroom with a closet",
+      "group_id": "242765489748374"
     }
   ]
 }
