@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T17:07:18.161174",
-  "count": 3496,
+  "updated_at": "2026-11-13T18:07:51.420678",
+  "count": 3497,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -116843,6 +116843,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "running co-living house for founders in SF called ACCELR8 we have ~50 full-time founders living with us and 3 locations",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1415283970371846",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1000,
+      "neighborhood": "South Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "7B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "shared_kitchen",
+        "on_site_laundry",
+        "street_parking",
+        "internet",
+        "weekly_common_area_cleaning"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Co-ed household; no couples; no pets.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1415283970371846",
+      "posted_at": "Friday 13 November 2026 at 17:44",
+      "first_scraped_at": "2026-11-14T02:00:04.743405+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Available 3 rooms in our large house two available January 1st, 2027, and one available February 1st, 2027! More info",
+      "group_id": "558742412692677"
     }
   ]
 }
