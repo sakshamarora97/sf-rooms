@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T19:18:07.052858",
-  "count": 1016,
+  "updated_at": "2026-11-13T20:19:23.168450",
+  "count": 1017,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -31657,6 +31657,38 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "den in 3b2b or flex in a 2b2b in Newport Hi everyone! I'm relocating to the Jersey City area. My",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2277368042827990",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-11-20",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Hoboken",
+        "Exchange Place"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Solo renter seeking a private room for a long-term lease near PATH stations (Newport/Hoboken/Exchange Place). Prefers in-unit laundry, elevator, clean modern spaces; flexible move-in late November.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277368042827990",
+      "posted_at": "Friday 13 November 2026 at 19:29",
+      "first_scraped_at": "2026-11-14T04:08:31.631677+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Room Long-Term Lease (Newport, Hoboken, Exchange Place OR NYC) Move-in Flexible I'm looking for a private room for a long-term",
+      "group_id": "149460102285472"
     }
   ]
 }
