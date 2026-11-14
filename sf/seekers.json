@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T19:07:48.861793",
-  "count": 3666,
+  "updated_at": "2026-11-13T20:08:25.656602",
+  "count": 3667,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116869,6 +116869,38 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "FOR A 2BR OR 2 ROOMS 2 friends (both 24) looking for a 2BR or 2 rooms in a shared",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4784712778430391",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View",
+        "Palo Alto",
+        "Redwood City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old from Atlanta who enjoys pickleball, basketball, and working out. Likes football and traveling; drinks occasionally and keeps weekday nights low-key.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4784712778430391",
+      "posted_at": "Friday 13 November 2026 at 19:15",
+      "first_scraped_at": "2026-11-14T04:00:05.636170+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a roomate in Mountain View/Palo Alto/Redwood City for a 2 bed apartment starting in Dec/Jan. I'd prefer to",
+      "group_id": "2176716625896699"
     }
   ]
 }
