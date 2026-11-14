@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T20:08:25.656602",
-  "count": 3500,
+  "updated_at": "2026-11-13T21:07:55.458517",
+  "count": 3502,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -116976,6 +116976,77 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "#6 https://www.zillow.com/homedetails/439775848_zpid/?view=public",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4784736545094681",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1000,
+      "neighborhood": "Sunset District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "street_parking",
+        "large_kitchen",
+        "natural_light",
+        "view",
+        "near_public_transport",
+        "close_to_shops"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4784736545094681",
+      "posted_at": "Friday 13 November 2026 at 19:45",
+      "first_scraped_at": "2026-11-14T05:00:05.420218+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "available. Available to move-in now. 5 min drive from SFSU/Stonestown Location: Sunset district BEAUTIFUL view, tons of unmetered/all-day street parking.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2062214581136780",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2100,
+      "neighborhood": "Sunnyvale",
+      "area": "South Bay",
+      "available_from": "2026-11-23",
+      "available_until": "2026-12-25",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "parking",
+        "central_ac_heating",
+        "in_unit_laundry",
+        "furnished",
+        "near_grocery",
+        "near_costco",
+        "near_transit"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Wants a female roommate",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2062214581136780",
+      "posted_at": "Friday 13 November 2026 at 19:36",
+      "first_scraped_at": "2026-11-14T05:00:05.420218+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room $2100 all inclusive Private Room Bathroom available for sublease in a 2B2B for a female Sunnyvale (10 min walk",
+      "group_id": "242765489748374"
     }
   ]
 }
