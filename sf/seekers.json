@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T21:07:55.458517",
-  "count": 3667,
+  "updated_at": "2026-11-13T22:08:06.378828",
+  "count": 3669,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116900,6 +116900,72 @@
       "first_scraped_at": "2026-11-14T04:00:05.636170+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking for a roomate in Mountain View/Palo Alto/Redwood City for a 2 bed apartment starting in Dec/Jan. I'd prefer to",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2062252024466369",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "private_room",
+        "2B2B",
+        "3B3B"
+      ],
+      "preferred_neighborhoods": [
+        "Menlo Park",
+        "Sunnyvale",
+        "Mountain View"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female roommates",
+      "reason": null,
+      "age": null,
+      "bio": "She is a female working professional employed in Menlo Park, seeking a private bedroom with private bath near Caltrain; budget up to $2,000/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2062252024466369",
+      "posted_at": "Friday 13 November 2026 at 20:33",
+      "first_scraped_at": "2026-11-14T05:00:05.420218+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "ROOMMATE: LATE NOVEMBER EARLY DECEMBER MOVE-IN Hi everyone! I'm a female working professional looking for housing in the Bay Area,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4784765895091746",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-08",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto",
+        "Mountain View"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "null",
+      "reason": "new_job",
+      "age": 25,
+      "bio": "Mid-20s full-time tech worker in Palo Alto, tidy, active (gym, badminton, tennis), seeking private room with private bathroom in 2BHK.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4784765895091746",
+      "posted_at": "Friday 13 November 2026 at 20:15",
+      "first_scraped_at": "2026-11-14T06:00:05.115715+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for a roommate to team up find a 2BHK (or take over a lease) in Palo Alto Mountain View Stanford",
       "group_id": "2176716625896699"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T21:07:55.458517",
-  "count": 3502,
+  "updated_at": "2026-11-13T22:08:06.378828",
+  "count": 3504,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -117047,6 +117047,66 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "room $2100 all inclusive Private Room Bathroom available for sublease in a 2B2B for a female Sunnyvale (10 min walk",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1415433823690194",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1265,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": "2027-05-31",
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "laundry_room",
+        "wifi",
+        "furnished_room"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 senior transfer students; wants female-identifying student",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1415433823690194",
+      "posted_at": "Friday 13 November 2026 at 21:48",
+      "first_scraped_at": "2026-11-14T06:00:05.115715+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "TAKE-OVER Hello! My name is Sarah, and I am looking for a female-identifying student to take over my lease for",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1415410517025858",
+      "post_type": "listing",
+      "listing_type": null,
+      "duration_type": null,
+      "rent": 3825,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1415410517025858",
+      "posted_at": "Friday 13 November 2026 at 21:08",
+      "first_scraped_at": "2026-11-14T06:00:05.115715+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": null,
+      "group_id": "558742412692677"
     }
   ]
 }
