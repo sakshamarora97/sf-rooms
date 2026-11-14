@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T16:17:19.402297",
-  "count": 1011,
+  "updated_at": "2026-11-13T17:16:57.376888",
+  "count": 1014,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -31495,6 +31495,103 @@
       "first_scraped_at": "2026-11-14T00:07:40.531418+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "to July 2027 Hi everyone, I am moving to NYC for a 6-month internship starting in mid-January 2027, and I",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2277241459507315",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Gay; prefers non-homophobic roommates; open to any gender",
+      "reason": "new_job",
+      "age": 22,
+      "bio": "He is a 22-year-old recent college graduate who just started a full-time job in Midtown. Low-maintenance and social, enjoys piano and DJing; seeking a lease in Manhattan with a budget up to $2,500.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277241459507315",
+      "posted_at": "Friday 13 November 2026 at 16:58",
+      "first_scraped_at": "2026-11-14T01:07:23.308377+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Justin, I'm 22, and I'm a recent college grad originally from Northern Virginia/DC. I just started my full",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2277221956175932",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Murray Hill",
+        "West Village",
+        "Greenwich Village",
+        "Midtown",
+        "Kips Bay",
+        "Chelsea"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "27M",
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old male working in tech at Amazon in Midtown, mostly in-office. Enjoys fitness, coffee, and trying new restaurants; clean and social but values quiet.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277221956175932",
+      "posted_at": "Friday 13 November 2026 at 16:32",
+      "first_scraped_at": "2026-11-14T01:07:23.308377+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to join an existing lease or team up with 1-2 flatmates for a mid-late Jan/Feb move-in. Working at Amazon in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2277206852844109",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room",
+        "2BR"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Lower East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "No pets",
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent UNC graduate starting a finance job in Midtown on Dec 7. Clean, respectful non-smoker who goes to the gym, reads, plays guitar.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277206852844109",
+      "posted_at": "Friday 13 November 2026 at 16:10",
+      "first_scraped_at": "2026-11-14T01:07:23.308377+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommate Hey! I'm Michael (23) UNC grad starting a finance job in Midtown on Dec 7. Looking to team up",
       "group_id": "149460102285472"
     }
   ]
