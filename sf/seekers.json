@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T22:08:06.378828",
-  "count": 3669,
+  "updated_at": "2026-11-14T06:10:06.911002",
+  "count": 3671,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -116967,6 +116967,72 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "for a roommate to team up find a 2BHK (or take over a lease) in Palo Alto Mountain View Stanford",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2062353701122868",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Sunnyvale"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 29,
+      "bio": "29-year-old remote insurance consultant currently job searching. Into music and DJing, plays dhol and danced bhangra competitively; enjoys espresso coffee and anime.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2062353701122868",
+      "posted_at": "Friday 13 November 2026 at 23:11",
+      "first_scraped_at": "2026-11-14T14:00:04.935273+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate! Hey everyone! I\u2019m Sartaj, 29, and I\u2019m looking for roommates to find a place together in South Bay (I\u2019m",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2062342081124030",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "East Cut",
+        "Rincon Hill",
+        "South Beach",
+        "SoMa",
+        "Financial District",
+        "Union Square",
+        "Chinatown",
+        "North Beach",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Tech professional working in San Francisco; clean, quiet, non-smoking with stable income and good credit and references.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2062342081124030",
+      "posted_at": "Friday 13 November 2026 at 22:52",
+      "first_scraped_at": "2026-11-14T14:00:04.935273+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "1BR/1BA near SoMa Financial District, around $2,500/mo What I\u2019m looking for: Areas: East Cut Rincon Hill, South Beach, SoMa, FiDi,",
+      "group_id": "242765489748374"
     }
   ]
 }
