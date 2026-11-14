@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-14T13:15:27.116129",
-  "count": 1027,
+  "updated_at": "2026-11-14T14:14:52.105175",
+  "count": 1028,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -32001,6 +32001,34 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Jumping in the pool and seeking some long-term housing for myself Budget Around 1300/1400. less is better obviously. However, I",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28969911959344948",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking immediate accommodation in Newport with budget under $1,100.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28969911959344948",
+      "posted_at": "Saturday 14 November 2026 at 13:41",
+      "first_scraped_at": "2026-11-14T22:06:55.041273+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Accomodation in Newport under 1100",
+      "group_id": "765841576845364"
     }
   ]
 }
