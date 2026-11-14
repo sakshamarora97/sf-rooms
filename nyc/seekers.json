@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T17:16:57.376888",
-  "count": 1014,
+  "updated_at": "2026-11-13T18:17:56.856098",
+  "count": 1015,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -31593,6 +31593,38 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "roommate Hey! I'm Michael (23) UNC grad starting a finance job in Midtown on Dec 7. Looking to team up",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28958510810485063",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-17",
+      "move_out_date": "2026-11-23",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Yorkville"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker looking for temporary accommodation for one person for one week (Nov 17\u201323, 2026); open to a private room or shared accommodation in Jersey City or near Rockefeller University.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28958510810485063",
+      "posted_at": "Friday 13 November 2026 at 18:02",
+      "first_scraped_at": "2026-11-14T02:07:56.685846+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Accommodation (November 17\u201323) Hi everyone! I am looking for temporary accommodation for one person for approximately one week, from November",
+      "group_id": "765841576845364"
     }
   ]
 }
