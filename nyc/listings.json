@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T21:18:22.346096",
-  "count": 2930,
+  "updated_at": "2026-11-13T22:19:27.895221",
+  "count": 2932,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -98197,6 +98197,71 @@
       "first_scraped_at": "2026-11-14T05:08:01.364698+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Temporary accommodation available from November 15th to November 30th. Private room (for male) Location: Jersey heights Rent: 300 Available: Nov",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2277386402826154",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Bushwick",
+      "area": "Brooklyn",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "laundry_in_building"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Male; looking for like-minded roommate; no pets",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277386402826154",
+      "posted_at": "Friday 13 November 2026 at 19:58",
+      "first_scraped_at": "2026-11-14T06:08:12.355423+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "(Dec 1 Move-In) Hey everyone. 24M and moved to NYC after graduating from Ohio State in 2024 to work in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28960914633578014",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-03",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "private_bath",
+        "furnished",
+        "closet_space",
+        "sunlight",
+        "near_public_transit",
+        "laundromat_nearby"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Vegetarian household; lives with 2 working professionals",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28960914633578014",
+      "posted_at": "Friday 13 November 2026 at 22:11",
+      "first_scraped_at": "2026-11-14T06:08:12.355423+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "with private bath and lots of sunlight available on a month-to-month basis closer to JSQ Path. Private Master bedroom available",
       "group_id": "765841576845364"
     }
   ]
