@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T14:06:49.067506",
-  "count": 3672,
+  "updated_at": "2026-11-14T15:06:38.993430",
+  "count": 3673,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117062,6 +117062,36 @@
       "first_scraped_at": "2026-11-14T22:00:04.684342+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a female roommate in Mission Bay who either has an apartment already or would like to look for one",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2063052194386352",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Must have parking; no gender or pet preferences stated.",
+      "reason": null,
+      "age": null,
+      "bio": "Works in tech sales; clean, neat, easy to get along with.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063052194386352",
+      "posted_at": "Saturday 14 November 2026 at 14:30",
+      "first_scraped_at": "2026-11-14T23:00:05.602577+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a new apartment for 1+ year starting January 1st 2027. I work in tech sales. I'm clean, neat,",
       "group_id": "242765489748374"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T14:06:49.067506",
-  "count": 3524,
+  "updated_at": "2026-11-14T15:06:38.993430",
+  "count": 3525,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -117767,6 +117767,41 @@
       "first_scraped_at": "2026-11-14T22:00:04.684342+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "to stay in my bright, fully furnished studio apartment in Lower Pacific Heights from November 23\u2013December 1! The entire apartment",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2063046051053633",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-11-30",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "rooftop",
+        "gym",
+        "sauna",
+        "controlled_access",
+        "package_lockers",
+        "laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "The Pinnacle",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063046051053633",
+      "posted_at": "Saturday 14 November 2026 at 14:18",
+      "first_scraped_at": "2026-11-14T23:00:05.602577+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for someone to sublease my unit at The Pinnacle (899 Pine St) in Nob Hill starting immediately. The lease",
       "group_id": "242765489748374"
     }
   ]
