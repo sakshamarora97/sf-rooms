@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-14T14:14:52.105175",
-  "count": 2976,
+  "updated_at": "2026-11-14T15:14:48.140352",
+  "count": 2977,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -99708,6 +99708,34 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "for a fully furnished house near journal square. A furnished private room with shared bath is available for single person",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2278386192726175",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Williamsburg",
+      "area": "Brooklyn",
+      "available_from": "2026-12-11",
+      "available_until": "2027-01-10",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a female roommate",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2278386192726175",
+      "posted_at": "Saturday 14 November 2026 at 14:16",
+      "first_scraped_at": "2026-11-14T23:06:44.540689+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "NYC? WILLIAMSBURG SUBLET DEC 11 JAN 10 Hi everyone! I\u2019m subletting my cozy, fully furnished bedroom in the heart of",
+      "group_id": "149460102285472"
     }
   ]
 }
