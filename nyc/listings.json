@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T20:19:23.168450",
-  "count": 2929,
+  "updated_at": "2026-11-13T21:18:22.346096",
+  "count": 2930,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -98170,6 +98170,34 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "I GOT AFFORDABLE PLACE FOR RENT. INBOX YOUR ZIPCODE NOW FOR INFO",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "28960230296979781",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 300,
+      "neighborhood": "The Heights",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-15",
+      "available_until": "2026-11-30",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Male only",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28960230296979781",
+      "posted_at": "Friday 13 November 2026 at 20:56",
+      "first_scraped_at": "2026-11-14T05:08:01.364698+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Temporary accommodation available from November 15th to November 30th. Private room (for male) Location: Jersey heights Rent: 300 Available: Nov",
+      "group_id": "765841576845364"
     }
   ]
 }
