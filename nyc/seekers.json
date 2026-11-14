@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-13T22:19:27.895221",
-  "count": 1018,
+  "updated_at": "2026-11-14T06:18:53.853971",
+  "count": 1021,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -31716,6 +31716,101 @@
       "first_scraped_at": "2026-11-14T05:08:01.364698+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "looking for a female roommate to share a beautiful 2-bedroom, 2-bathroom apartment at The Ballantine in Newark. The apartment has",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2277800166118111",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-13",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Upper West Side",
+        "Morningside Heights"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 26,
+      "bio": "26-year-old Columbia student from the Bay Area who is social, active, and clean in shared spaces. Enjoys many hobbies and is seeking student roommates in Upper West Side or Morningside Heights.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277800166118111",
+      "posted_at": "Saturday 14 November 2026 at 03:29",
+      "first_scraped_at": "2026-11-14T14:10:12.718840+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Hi everyone!! I\u2019m Arcadia, 26, and I am looking for a roommate and apartment hunting ideally in Upper West Side/Morningside",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2277553652809429",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "Lower East Side",
+        "East Village",
+        "West Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 23,
+      "bio": "Recent Rutgers grad working in finance who enjoys working out, dining out, house music and socializing. Easygoing, clean, and respectful of shared space.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2277553652809429",
+      "posted_at": "Friday 13 November 2026 at 22:44",
+      "first_scraped_at": "2026-11-14T14:10:12.718840+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Aman. I\u2019m looking for 1\u20132 roommates for a Jan/Feb move-in, ideally in Lower/Downtown Manhattan. My preferred areas are FiDi, LES,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28965409906461820",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-15",
+      "move_out_date": "2027-01-15",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; null; null",
+      "reason": "other",
+      "age": null,
+      "bio": "Female NYU graduate; quiet, clean, respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28965409906461820",
+      "posted_at": "Saturday 14 November 2026 at 06:02",
+      "first_scraped_at": "2026-11-14T14:10:12.718840+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "looking for a sublease room in Newport, Jersey City from Nov 15 to Jan 15. A bit about me: I'm",
       "group_id": "765841576845364"
     }
   ]
