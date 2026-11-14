@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-13T16:07:34.868977",
-  "count": 3495,
+  "updated_at": "2026-11-13T17:07:18.161174",
+  "count": 3496,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -116809,6 +116809,39 @@
       "first_scraped_at": "2026-11-14T00:00:06.157310+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "NOPA (2 cats in the house). Available for move in: December 11 Quiet, clean, private, furnished bedroom with a closet",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2062068061151432",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2200,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": 50,
+      "amenities": [
+        "co_working_sessions",
+        "weekly_community_dinners",
+        "frontier_tower_membership",
+        "utilities_included"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "ACCELR8",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2062068061151432",
+      "posted_at": "Friday 13 November 2026 at 15:35",
+      "first_scraped_at": "2026-11-14T01:00:04.999241+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "running co-living house for founders in SF called ACCELR8 we have ~50 full-time founders living with us and 3 locations",
       "group_id": "242765489748374"
     }
   ]
