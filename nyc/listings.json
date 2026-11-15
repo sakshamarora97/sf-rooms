@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-14T21:17:07.480764",
-  "count": 3002,
+  "updated_at": "2026-11-14T22:16:28.524874",
+  "count": 3003,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -100580,6 +100580,39 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "2 bedroom. The building sits right on the Crown Heights Prospect Heights border, which means you get the quiet tree-lined",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "28973834068952737",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 550,
+      "neighborhood": null,
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "4B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "near_public_transport",
+        "near_grocery_store"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28973834068952737",
+      "posted_at": "Saturday 14 November 2026 at 21:23",
+      "first_scraped_at": "2026-11-15T06:07:01.809242+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "from 1 Dec Palisade Jefferson 4B1B apartment, $550/month Bus to NYC/Journal Sq/Hoboken just 2 mins away Grocery store 5 mins",
+      "group_id": "765841576845364"
     }
   ]
 }

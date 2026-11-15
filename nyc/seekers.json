@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-14T21:17:07.480764",
-  "count": 1034,
+  "updated_at": "2026-11-14T22:16:28.524874",
+  "count": 1035,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -32214,6 +32214,34 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "master bedroom in Manhattan, either a lease takeover or a renewal. Budget is under $2,500 a month. Preferably in a",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2278710316027096",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-27",
+      "move_out_date": "2027-01-04",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2278710316027096",
+      "posted_at": "Saturday 14 November 2026 at 21:04",
+      "first_scraped_at": "2026-11-15T06:07:01.809242+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a short term sublet in the city for December 27ish-Jan 4ish. Super flexible with times, and locations. Message me if",
+      "group_id": "149460102285472"
     }
   ]
 }
