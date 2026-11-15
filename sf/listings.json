@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T21:07:28.879177",
-  "count": 3535,
+  "updated_at": "2026-11-14T22:06:57.220349",
+  "count": 3536,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -118130,6 +118130,53 @@
       "first_scraped_at": "2026-11-15T03:00:05.122861+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "an unfurnished room available December 1 in our three-bedroom apartment in the Mission. It\u2019s a bright third-floor apartment with high",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2063208374370734",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 3400,
+      "neighborhood": "Mid-Market",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-05-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "rooftop_terrace",
+        "rooftop_deck",
+        "heated_saltwater_pool",
+        "fitness_center",
+        "yoga_room",
+        "golf_simulator",
+        "movie_theater",
+        "basketball_court",
+        "pickleball_court",
+        "bbq_lounges",
+        "guest_suites",
+        "dry_cleaning",
+        "parking",
+        "pet_friendly",
+        "stainless_steel_appliances",
+        "skyline_views",
+        "kitchen_island"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Lives with a guy; pets OK",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063208374370734",
+      "posted_at": "Saturday 14 November 2026 at 18:49",
+      "first_scraped_at": "2026-11-15T06:00:06.413404+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in a 2 bed 2 bath at 100 Van Ness $3,400/mo early\u2013mid December Subleasing the master bedroom in my 2",
       "group_id": "242765489748374"
     }
   ]

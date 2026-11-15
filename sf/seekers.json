@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T21:07:28.879177",
-  "count": 3677,
+  "updated_at": "2026-11-14T22:06:57.220349",
+  "count": 3679,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117229,6 +117229,69 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "am a senior at UCB. I am premed majoring in public health, minoring in gender and womens studies, and coach",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2063331091025129",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Lower Pacific Heights",
+        "Japantown",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Searching for a short-term furnished studio or one-bedroom sublease in San Francisco neighborhoods starting December 1st.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063331091025129",
+      "posted_at": "Saturday 14 November 2026 at 21:58",
+      "first_scraped_at": "2026-11-15T06:00:06.413404+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "furnished sublease of studio or one bedroom in pac heights, lower pac heights, Japantown, marina or non hill. From December",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2798416413887496",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "UC Berkeley student seeking a quiet single-room sublease near campus for Spring 2027 (mid-Jan to mid-May).",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2798416413887496",
+      "posted_at": "Saturday 14 November 2026 at 21:36",
+      "first_scraped_at": "2026-11-15T06:00:06.413404+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Spring 2027 Sublease (Single Room) Hi! I'm a UC Berkeley student looking for a quiet, single room within close walking",
+      "group_id": "128476910881473"
     }
   ]
 }
