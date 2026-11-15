@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-15T12:16:54.477026",
-  "count": 1049,
+  "updated_at": "2026-11-15T13:18:32.933033",
+  "count": 1052,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -32669,6 +32669,97 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "for a private room in an all-female unit for a winter stay from mid december through early february. A little",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2938317976534467",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple",
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a clean, amenity-rich 1BR/1BA in Jersey City (Newport or Downtown Jersey City preferred), available mid\u2013late December.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2938317976534467",
+      "posted_at": "Sunday 15 November 2026 at 11:51",
+      "first_scraped_at": "2026-11-15T21:08:24.011082+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "1BR/1BA in Jersey City (Newport or Grove St preferred) Hi everyone! We're a couple looking for a 1 bedroom, 1",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2279220972642697",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-22",
+      "move_out_date": "2026-12-26",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 4,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Searching for a short-term apartment sublet from 12/22\u201312/26 for two adults and two children; wants an amazing view.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2279220972642697",
+      "posted_at": "Sunday 15 November 2026 at 08:41",
+      "first_scraped_at": "2026-11-15T21:08:24.011082+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to sublet 12/22 to 12/26, for two adults two children, to celebrate Christmas in the city, must have an amazing",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28982319211437556",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Queens",
+        "Brooklyn"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Single; wants female roommate; has a cat.",
+      "reason": "relocation",
+      "age": 36,
+      "bio": "They are a bartender/server and working actor who is tidy, non-smoking, and enjoys reading, pilates, and coffee shops. Works nights and weekends and plans to move to NYC in January with an 11-year-old cat.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28982319211437556",
+      "posted_at": "Sunday 15 November 2026 at 12:11",
+      "first_scraped_at": "2026-11-15T21:08:24.011082+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "roommate who is also in their 30s (or late 20s!)* Hey there! My name is Katie, I'm 36, and am",
+      "group_id": "765841576845364"
     }
   ]
 }
