@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-15T06:05:47.226835",
-  "count": 3679,
+  "updated_at": "2026-11-15T07:08:29.725555",
+  "count": 3682,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117292,6 +117292,93 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Spring 2027 Sublease (Single Room) Hi! I'm a UC Berkeley student looking for a quiet, single room within close walking",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "29115492231441388",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants girls around her age",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old recent USC grad relocating from Los Angeles to San Francisco to start work as an AI engineer; enjoys tennis, running, art, and exploring the city, and is clean and considerate.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29115492231441388",
+      "posted_at": "Sunday 15 November 2026 at 06:28",
+      "first_scraped_at": "2026-11-15T15:00:07.165603+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Nirali. I'm 24, and I'm looking for housing in San Francisco (FiDi) starting in January! I'm open to either joining",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29120307537626524",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-02-28",
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 35,
+      "bio": "Older student studying mathematics; quiet, clean, and spends most time studying at the library.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29120307537626524",
+      "posted_at": "Sunday 15 November 2026 at 06:28",
+      "first_scraped_at": "2026-11-15T15:00:07.165603+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "an older student (35) using my GI Bill to study mathematics in the San Francisco area. Looking for a furnished",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29129238800066731",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "lease_takeover",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Regularly travels to San Francisco for work and is seeking short-term rent takeover arrangements; flexible with dates and can provide references.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29129238800066731",
+      "posted_at": "Sunday 15 November 2026 at 06:28",
+      "first_scraped_at": "2026-11-15T15:00:07.165603+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Francisco planning to be away for a few months? I regularly come to SF for work and am looking to",
+      "group_id": "843764532374203"
     }
   ]
 }
