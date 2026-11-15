@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-15T13:08:19.346701",
-  "count": 3685,
+  "updated_at": "2026-11-15T14:07:57.659402",
+  "count": 3687,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117474,6 +117474,65 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Roommates in San Francisco! Hey everyone! I\u2019m a USC grad relocating from LA to SF for work and looking for",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2063966230961615",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-29",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Wants studio/shared housing that allows a 40lb dog.",
+      "reason": null,
+      "age": null,
+      "bio": "Responsible, chill renter who owns a house in Portland and needs housing in SoMa for work.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063966230961615",
+      "posted_at": "Sunday 15 November 2026 at 12:49",
+      "first_scraped_at": "2026-11-15T22:00:07.491131+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "sublet starting ~November 29 Looking for a studio or shared accommodation that allows an exceptionally behaved 40lb dog. I'm responsible,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1416967390203504",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Two men; wants 2 private bedrooms",
+      "reason": null,
+      "age": null,
+      "bio": "Two men seeking two private bedrooms for a four-month sublet from January through April.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1416967390203504",
+      "posted_at": "Sunday 15 November 2026 at 13:19",
+      "first_scraped_at": "2026-11-15T22:00:07.491131+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "friend and I (both guys) are looking for 2 private bedrooms for a 4 month sublet from January through April.",
+      "group_id": "558742412692677"
     }
   ]
 }
