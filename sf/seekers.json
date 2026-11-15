@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T18:08:01.696461",
-  "count": 3675,
+  "updated_at": "2026-11-14T19:07:53.611062",
+  "count": 3676,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117160,6 +117160,41 @@
       "first_scraped_at": "2026-11-15T02:00:06.019678+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Bedroom+bathroom I\u2019m relocating from Boston to San Francisco in mid-to-late November and am looking for a place to call home!",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4785942438307425",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Yerba Buena",
+        "South Beach",
+        "Rincon Hill",
+        "East Cut"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommate; prefers Indian",
+      "reason": null,
+      "age": null,
+      "bio": "Seeking to share a private bedroom or find a 2B2B with a female roommate; prefers furnished, safe neighborhoods with easy commute.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4785942438307425",
+      "posted_at": "Saturday 14 November 2026 at 17:45",
+      "first_scraped_at": "2026-11-15T03:00:05.122861+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking to share a room in existing 2B2B or looking for a female roommate and look for a 2B2B apartment",
       "group_id": "2176716625896699"
     }
   ]
