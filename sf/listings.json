@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T15:06:38.993430",
-  "count": 3525,
+  "updated_at": "2026-11-14T16:07:15.844066",
+  "count": 3526,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -117803,6 +117803,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for someone to sublease my unit at The Pinnacle (899 Pine St) in Nob Hill starting immediately. The lease",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1416110920289151",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1450,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "laundry_in_building",
+        "wifi"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1416110920289151",
+      "posted_at": "Saturday 14 November 2026 at 15:23",
+      "first_scraped_at": "2026-11-15T00:00:05.440049+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "to take my bedroom for the Spring 2027 semester while I go abroad (Jan-May, move in of third week of",
+      "group_id": "558742412692677"
     }
   ]
 }
