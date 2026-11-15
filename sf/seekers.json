@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T16:07:15.844066",
-  "count": 3673,
+  "updated_at": "2026-11-14T17:07:52.629123",
+  "count": 3674,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117092,6 +117092,42 @@
       "first_scraped_at": "2026-11-14T23:00:05.602577+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a new apartment for 1+ year starting January 1st 2027. I work in tech sales. I'm clean, neat,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2063056634385908",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "Lower Nob Hill",
+        "Pacific Heights",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Moving to San Francisco for work and seeking a clean, comfortable apartment. Open to a 2-bedroom with roommate, studio, or 1-bedroom; prefers buildings with laundry.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063056634385908",
+      "posted_at": "Saturday 14 November 2026 at 14:38",
+      "first_scraped_at": "2026-11-15T01:00:06.000249+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "an apartment in San Francisco starting December 2026. My preferences: Budget: Up to $2,400/month Open to a a 2-bedroom with",
       "group_id": "242765489748374"
     }
   ]
