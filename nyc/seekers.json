@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-15T07:14:47.590253",
-  "count": 1040,
+  "updated_at": "2026-11-15T08:14:07.739576",
+  "count": 1042,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -32391,6 +32391,68 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Female Roommate Newark Bayonne, NJ Hi everyone! I have a few leads for 2B2B apartments in Newark and Bayonne and",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2938077869891811",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-17",
+      "move_out_date": "2026-12-16",
+      "budget_min": 600,
+      "budget_max": 700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": null,
+      "age": null,
+      "bio": "Female seeking a short-term private or shared room near Journal Square from Nov 17 to Dec 16; prefers a fully furnished sublease, budget $600\u2013$700/month.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2938077869891811",
+      "posted_at": "Sunday 15 November 2026 at 07:40",
+      "first_scraped_at": "2026-11-15T16:07:14.883244+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "private or sharing room for a female starting November 17th to Dec 16th (move-out date can be flexible), preferably near",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2279175622647232",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old working in finance; enjoys baseball, big-wave surfing, and chess; not a heavy drinker and eager to meet people.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2279175622647232",
+      "posted_at": "Sunday 15 November 2026 at 07:44",
+      "first_scraped_at": "2026-11-15T16:07:14.883244+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in January looking for room takeover Hi Guys. Moving to the city for work in Jan and am looking for",
+      "group_id": "149460102285472"
     }
   ]
 }
