@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-14T22:16:28.524874",
-  "count": 1035,
+  "updated_at": "2026-11-15T06:13:16.810481",
+  "count": 1039,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -32242,6 +32242,125 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "a short term sublet in the city for December 27ish-Jan 4ish. Super flexible with times, and locations. Message me if",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2278867292678065",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Solo; has dogs",
+      "reason": null,
+      "age": null,
+      "bio": "Works in Manhattan, in-office 3\u20134 days per week and sometimes remote; travels to SoCal. Enjoys gym, walking, tea, football, and dining out; has dogs in SoCal.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2278867292678065",
+      "posted_at": "Sunday 15 November 2026 at 01:04",
+      "first_scraped_at": "2026-11-15T14:05:51.792233+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommate to look for apartment with Hi! My name is Deziree looking for a room or someone to look for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28971256459210498",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Offering sublease for female; shares bathroom with one girl",
+      "reason": "other",
+      "age": null,
+      "bio": "Responsible professional working in NYC, in-office five days a week; cooks occasionally and keeps shared spaces clean and organized.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28971256459210498",
+      "posted_at": "Saturday 14 November 2026 at 16:26",
+      "first_scraped_at": "2026-11-15T14:05:51.792233+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "current house subleasing mu current house too and Seeking Private Room with a parking spot in Jersey City Close to",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28971192499216894",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 32,
+      "bio": "32-year-old photographer and videographer seeking a bedroom sublet with good subway access; prefers furnished, flexible lease or takeover options.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28971192499216894",
+      "posted_at": "Saturday 14 November 2026 at 16:18",
+      "first_scraped_at": "2026-11-15T14:05:51.792233+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Sam, 32, a photographer and videographer. I\u2019m looking for a sublet/sublease for a bedroom anywhere with good subway access. Budget:",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28971130385889772",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Male; LGBTQ+ friendly; has a cat",
+      "reason": "relocation",
+      "age": 26,
+      "bio": "26-year-old male software engineer from central Jersey; tidy, prefers privacy but open to friendship; owns a cat; seeking roommates in Jersey City.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28971130385889772",
+      "posted_at": "Saturday 14 November 2026 at 16:10",
+      "first_scraped_at": "2026-11-15T14:05:51.792233+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a 26m software engineer from central Jersey looking for roommates to move to JC sometime in January. I clean regularly",
+      "group_id": "765841576845364"
     }
   ]
 }
