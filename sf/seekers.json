@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T20:06:40.194931",
-  "count": 3676,
+  "updated_at": "2026-11-14T21:07:28.879177",
+  "count": 3677,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117196,6 +117196,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking to share a room in existing 2B2B or looking for a female roommate and look for a 2B2B apartment",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1416288230271420",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio",
+        "cottage"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley",
+        "Northside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Has a dog",
+      "reason": "student",
+      "age": null,
+      "bio": "Senior at UC Berkeley majoring in public health (pre-med) with a minor in gender and women's studies; coaches soccer as a work-study.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1416288230271420",
+      "posted_at": "Saturday 14 November 2026 at 20:32",
+      "first_scraped_at": "2026-11-15T05:00:05.658485+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "am a senior at UCB. I am premed majoring in public health, minoring in gender and womens studies, and coach",
+      "group_id": "558742412692677"
     }
   ]
 }
