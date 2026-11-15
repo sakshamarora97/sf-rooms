@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-15T09:13:56.792099",
-  "count": 1044,
+  "updated_at": "2026-11-15T10:16:50.588119",
+  "count": 1047,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -32515,6 +32515,100 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "to the city in Jan and am looking for a studio 1 bed to take over. Around midtown chelsea west",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2279257125972415",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-01-05",
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Harlem",
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants LGBTQ+ friendly roommates",
+      "reason": "relocation",
+      "age": 25,
+      "bio": "A 25-year-old audio engineer and lighting designer relocating to NYC from Alabama. Laid-back, clean, respectful, travels occasionally; enjoys gym, live music, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2279257125972415",
+      "posted_at": "Sunday 15 November 2026 at 09:30",
+      "first_scraped_at": "2026-11-15T18:07:48.210900+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room. Hey everyone! I\u2019m looking for a room in Manhattan, preferably Harlem or anywhere further downtown, with a budget of",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1015776617559681",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 600,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Open to virtually anyone; okay with pets",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recently moved back to New York after living abroad for 10 years; seeking a room or whole place, flexible on move-in and can pay several months upfront.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1015776617559681",
+      "posted_at": "Sunday 15 November 2026 at 09:54",
+      "first_scraped_at": "2026-11-15T18:07:48.210900+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "to NY after living abroad for 10 years, looking for a place to stay. Ready to move in whenever, willing",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "1015763607560982",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 600,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Astoria",
+        "Long Island City",
+        "Woodside",
+        "Sunnyside",
+        "Brooklyn"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "Quiet, introverted golf specialist who enjoys sketching, painting, sewing and cooking. Good cook/baker, no pets; seeking a private room in Queens or Brooklyn.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1015763607560982",
+      "posted_at": "Sunday 15 November 2026 at 09:35",
+      "first_scraped_at": "2026-11-15T18:07:48.210900+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "Room in NYC Hi everyone! I\u2019m currently looking for a private room in NYC. I\u2019m pretty introverted but I am",
+      "group_id": "312692887868061"
     }
   ]
 }
