@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-15T12:07:57.896052",
-  "count": 3552,
+  "updated_at": "2026-11-15T13:08:19.346701",
+  "count": 3554,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -118729,6 +118729,68 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Female Roommate 2B2B Apartment at The Enclave, San Jose! Hey everyone! I'm looking for a like-minded roommate to share a",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2063957484295823",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 820,
+      "neighborhood": "Santa Clara",
+      "area": "South Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "pool_view"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Domicilio Apartments",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with one guy",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063957484295823",
+      "posted_at": "Sunday 15 November 2026 at 12:32",
+      "first_scraped_at": "2026-11-15T21:00:06.051382+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in Santa Clara No Deposit! Looking for a roommate to share a room with one guy in a spacious 2-bedroom,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2799330780462726",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 737,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "in_building_laundry",
+        "parking",
+        "furnished"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a male transfer student and a Cal-graduated couple; has a cat.",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2799330780462726",
+      "posted_at": "Sunday 15 November 2026 at 12:23",
+      "first_scraped_at": "2026-11-15T21:00:06.051382+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Unit 2 $737.50/mo (+utilities, ~$30) Fully furnished Dec 1st move in (flexible, latest Jan 1st move in) Looking for someone",
+      "group_id": "128476910881473"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-15T12:07:57.896052",
-  "count": 3683,
+  "updated_at": "2026-11-15T13:08:19.346701",
+  "count": 3685,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117410,6 +117410,70 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "1-Bedroom Apartment in San Francisco January 2027 Hi everyone! I\u2019m currently living in Canada and recently received a job offer",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2063963644295207",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 26,
+      "bio": "26-year-old who works near Montgomery Station, prefers a ~30-minute commute, enjoys dance and pickleball. Seeking roommates to find a place for Dec/Jan with a $2,000\u2013$3,000 budget.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063963644295207",
+      "posted_at": "Sunday 15 November 2026 at 12:44",
+      "first_scraped_at": "2026-11-15T21:00:06.051382+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "gordon. im 26 but class of '25 (did two years in the singapore military). i'm looking for roommates to find",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2063944484297123",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Nob Hill",
+        "Lower Nob Hill",
+        "Russian Hill",
+        "Marina"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old USC graduate relocating from LA to San Francisco for work; easygoing, clean, seeking roommates, studios, or a 1BR.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2063944484297123",
+      "posted_at": "Sunday 15 November 2026 at 12:12",
+      "first_scraped_at": "2026-11-15T21:00:06.051382+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Roommates in San Francisco! Hey everyone! I\u2019m a USC grad relocating from LA to SF for work and looking for",
+      "group_id": "242765489748374"
     }
   ]
 }
