@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-14T17:16:55.313299",
-  "count": 2986,
+  "updated_at": "2026-11-14T18:39:08.235284",
+  "count": 2987,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -100036,6 +100036,34 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "Park Slope Gowanus Modern Apartments Exceptional Amenities Hot offer 4 months free on 20 months lease Discover elevated living in",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2278523536045774",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Financial District",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2278523536045774",
+      "posted_at": "Saturday 14 November 2026 at 17:35",
+      "first_scraped_at": "2026-11-15T02:08:07.681530+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Bath Apartment 25 Water St, New York, NY 10004-0028, United States Studio in luxury apartment with full amenities for rent.",
+      "group_id": "149460102285472"
     }
   ]
 }
