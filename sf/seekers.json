@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-14T17:07:52.629123",
-  "count": 3674,
+  "updated_at": "2026-11-14T18:08:01.696461",
+  "count": 3675,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117129,6 +117129,38 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "an apartment in San Francisco starting December 2026. My preferences: Budget: Up to $2,400/month Open to a a 2-bedroom with",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4785935048308164",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Union Square",
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Is an interior designer who is friendly, easygoing, clean, and respectful. Enjoys exploring restaurants and socializing but appreciates quiet nights in.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4785935048308164",
+      "posted_at": "Saturday 14 November 2026 at 17:35",
+      "first_scraped_at": "2026-11-15T02:00:06.019678+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Bedroom+bathroom I\u2019m relocating from Boston to San Francisco in mid-to-late November and am looking for a place to call home!",
+      "group_id": "2176716625896699"
     }
   ]
 }
