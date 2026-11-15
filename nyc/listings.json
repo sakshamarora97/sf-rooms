@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-15T13:18:32.933033",
-  "count": 3046,
+  "updated_at": "2026-11-15T14:16:17.466106",
+  "count": 3048,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -102029,6 +102029,71 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Available for Rent in Jersey City, Walkable to JSQ Rent: $1300 Including Utilities In Unit Laundry Parking Available at extra",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2279378129293648",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2301,
+      "neighborhood": "Upper West Side",
+      "area": "Manhattan",
+      "available_from": "2026-12-17",
+      "available_until": "2027-06-30",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "hardwood_floors",
+        "air_conditioning",
+        "kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with a male roommate",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2279378129293648",
+      "posted_at": "Sunday 15 November 2026 at 12:29",
+      "first_scraped_at": "2026-11-15T22:08:04.281086+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "fully furnished room in the Upper West Side (109th St) for $2,301/month Utilities! Dates: Dec 17 June 30 (flexible move-in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1015902337547109",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Harlem",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "private_bathroom",
+        "kitchenette",
+        "full_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1015902337547109",
+      "posted_at": "Sunday 15 November 2026 at 13:28",
+      "first_scraped_at": "2026-11-15T22:08:04.281086+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "ROW. 3 Big units with private bathroom and kitchenette and one Apartment with complete kitchen and bathroom available for short",
+      "group_id": "312692887868061"
     }
   ]
 }
