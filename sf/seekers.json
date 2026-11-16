@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-15T15:09:14.001008",
-  "count": 3688,
+  "updated_at": "2026-11-15T16:08:32.962939",
+  "count": 3690,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117564,6 +117564,71 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for 1\u20132 female roommates who want to apartment hunt together for a place starting mid December or January. I'm",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4787298654838470",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works in-office five days a week; social but values downtime. Enjoys reading, occasional wine, dining out, and exploring local spots.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4787298654838470",
+      "posted_at": "Sunday 15 November 2026 at 15:17",
+      "first_scraped_at": "2026-11-16T00:00:05.726565+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "relocating to the Bay Area for work and looking for a great roommate or shared living situation! MOVE-IN TIMELINE: Mid-to-late",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4787273248174344",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "SoMa",
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female roommates",
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Product designer relocating to San Francisco; enjoys trying new restaurants, coffee, tennis, and reading. Quiet and tidy in shared spaces.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4787273248174344",
+      "posted_at": "Sunday 15 November 2026 at 14:48",
+      "first_scraped_at": "2026-11-16T00:00:05.726565+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room in SF: January move-in, budget up to $2,800/month Hi everyone! I'm Isabel, 23F, moving to San Francisco in January",
+      "group_id": "2176716625896699"
     }
   ]
 }
