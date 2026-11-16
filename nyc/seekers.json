@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-16T08:16:07.842828",
-  "count": 1070,
+  "updated_at": "2026-11-16T09:17:40.857172",
+  "count": 1071,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -33315,6 +33315,36 @@
       "first_scraped_at": "2026-11-16T14:09:57.648603+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "am ISO a private room for preferably a Jan 1st move in. I'm hoping for something with less than 10",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2280227592542035",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Man.",
+      "reason": null,
+      "age": null,
+      "bio": "Man seeking a room in Brooklyn.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2280227592542035",
+      "posted_at": "Monday 16 November 2026 at 09:05",
+      "first_scraped_at": "2026-11-16T17:08:19.583764+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "\u043f\u0430\u0440\u0435\u043d\u044c. Brooklyn",
       "group_id": "149460102285472"
     }
   ]
