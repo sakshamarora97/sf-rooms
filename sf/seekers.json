@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T08:08:24.819745",
-  "count": 3702,
+  "updated_at": "2026-11-16T09:08:14.908516",
+  "count": 3704,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118020,6 +118020,67 @@
       "first_scraped_at": "2026-11-16T15:00:04.282111+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "all-female shared apartment/house or Studio in SF (Budget: around $1,500) Hello everyone! My name is Despina, I\u2019m 23 years old,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2064760757548829",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "NoPa",
+        "Panhandle",
+        "Cole Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Travel nurse relocating to San Francisco for a January\u2013April contract at UCSF. Outdoorsy and social; enjoys skiing, hiking, kiteboarding, biking and knitting; clean and considerate roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2064760757548829",
+      "posted_at": "Monday 16 November 2026 at 08:16",
+      "first_scraped_at": "2026-11-16T17:00:06.838528+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a travel nurse coming to San Francisco for a contract from January through April and am looking for a furnished",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2064340437590861",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 24,
+      "bio": "He is 24 and will start at SFSU in Spring 2027. Enjoys soccer, the gym, cooking, reading/writing, and caring for plants; social but chill.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2064340437590861",
+      "posted_at": "Sunday 15 November 2026 at 22:56",
+      "first_scraped_at": "2026-11-16T17:00:06.838528+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Armaan, I am 24, and I'm starting at SFSU this 2027 spring semester and am looking for roommates/housing preferably starting",
       "group_id": "242765489748374"
     }
   ]

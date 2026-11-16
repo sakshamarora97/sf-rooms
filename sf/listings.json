@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T08:08:24.819745",
-  "count": 3594,
+  "updated_at": "2026-11-16T09:08:14.908516",
+  "count": 3595,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -120154,6 +120154,44 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for January 1, 2027 to July 31, 2027! Location: 2427 Prospect Ave, Berkeley, CA (ADU next to 2425 Prospect Ave",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2064737874217784",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 4500,
+      "neighborhood": "Embarcadero",
+      "area": "San Francisco",
+      "available_from": "2026-11-21",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "furnished",
+        "full_kitchen",
+        "water_views",
+        "bay_bridge_views",
+        "laundry_in_building",
+        "parking_available",
+        "grocery_downstairs",
+        "nearby_farmers_market",
+        "waterfront_walks"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2064737874217784",
+      "posted_at": "Monday 16 November 2026 at 07:49",
+      "first_scraped_at": "2026-11-16T17:00:06.838528+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Sublet Stunning Water Bay Bridge Views Hi everyone! I\u2019m subletting my beautiful, furnished apartment near the Embarcadero\u2014perfect for one person",
+      "group_id": "242765489748374"
     }
   ]
 }
