@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T12:09:04.046619",
-  "count": 3705,
+  "updated_at": "2026-11-16T13:08:49.212424",
+  "count": 3706,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118107,6 +118107,35 @@
       "first_scraped_at": "2026-11-16T20:00:06.520943+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "am looking for a short term accommodation (19-22 November) preferably with female apartment. Let me know if you have any",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4788655911369411",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-19",
+      "move_out_date": "2026-11-22",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4788655911369411",
+      "posted_at": "Monday 16 November 2026 at 11:22",
+      "first_scraped_at": "2026-11-16T21:00:04.324367+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Accommodation (November 19\u201322) Hi everyone! I am looking for temporary accommodation for one person from November 19th to November 22nd,",
       "group_id": "2176716625896699"
     }
   ]
