@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-15T22:13:00.713511",
-  "count": 3700,
+  "updated_at": "2026-11-16T06:09:51.030323",
+  "count": 3701,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117962,6 +117962,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "to this group. I recently joined because I am looking for a private or sharing room from december 1 near",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4787929554775380",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-01-19",
+      "move_out_date": "2026-01-28",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Seeking short-term accommodation to finish an advanced yoga teacher training; needs a place in Oakland or San Francisco from Jan 19\u201328.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4787929554775380",
+      "posted_at": "Monday 16 November 2026 at 01:37",
+      "first_scraped_at": "2026-11-16T14:00:04.782725+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a place between Jan 19-28 in Oakland or SF. I am coming to finish my Yoga Advance Teacher",
+      "group_id": "2176716625896699"
     }
   ]
 }
