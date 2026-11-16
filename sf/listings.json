@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T07:09:01.262180",
-  "count": 3592,
+  "updated_at": "2026-11-16T08:08:24.819745",
+  "count": 3594,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -120085,6 +120085,75 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in 2B/2B SoMa, SF! Hi everyone! I\u2019m looking for someone to take over my private room at L Seven Apartments",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2064719864219585",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1800,
+      "neighborhood": "Lake Merritt",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_kitchen",
+        "patio",
+        "wifi",
+        "dishwasher",
+        "garbage_disposal",
+        "coin_op_laundry",
+        "parking_nearby",
+        "electric_stove",
+        "furnished_room"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Woman",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2064719864219585",
+      "posted_at": "Monday 16 November 2026 at 07:28",
+      "first_scraped_at": "2026-11-16T16:00:02.312697+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "near Lake Merritt Dec 1 Hi there! Posting on behalf of the tenant I\u2019m looking for a short-to-mid-term roommate to",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1417682946798615",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1780,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": "5B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "common_areas",
+        "community_events"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "male_only",
+      "pets_policy": null,
+      "prefs_notes": "Lives with 4 guys; wants a male roommate",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1417682946798615",
+      "posted_at": "Monday 16 November 2026 at 08:03",
+      "first_scraped_at": "2026-11-16T16:00:02.312697+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for January 1, 2027 to July 31, 2027! Location: 2427 Prospect Ave, Berkeley, CA (ADU next to 2425 Prospect Ave",
+      "group_id": "558742412692677"
     }
   ]
 }
