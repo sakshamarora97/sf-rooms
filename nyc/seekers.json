@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-16T10:16:54.828425",
-  "count": 1072,
+  "updated_at": "2026-11-16T11:16:25.114077",
+  "count": 1074,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -33380,6 +33380,74 @@
       "first_scraped_at": "2026-11-16T18:07:23.148065+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "available room Hi! I\u2019m a 28-year-old who has just moved from Sydney Australia for work and am looking for a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2280310879200373",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 950,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Astoria",
+        "Brooklyn",
+        "Manhattan"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Works in e-commerce; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "Works in e-commerce, non-smoker, no pets; previously managed a large home and prefers a clean, respectful household. Enjoys meeting people, exploring the city, and reading.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2280310879200373",
+      "posted_at": "Monday 16 November 2026 at 11:01",
+      "first_scraped_at": "2026-11-16T19:06:52.946950+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1BR/Studio or Private Room/Sublease Hi everyone My name is Courtney and I am looking for a private room, sublet or",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2280307739200687",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Chelsea",
+        "West Village",
+        "Greenwich Village"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates in their 20s",
+      "reason": "relocation",
+      "age": 25,
+      "bio": "25-year-old consultant moving from DC who works hybrid. Social, enjoys workouts, antiquing, floral design, and trying new restaurants; keeps things neat and clean.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2280307739200687",
+      "posted_at": "Monday 16 November 2026 at 10:56",
+      "first_scraped_at": "2026-11-16T19:06:52.946950+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "am looking for female roommates in their 20s to apartment hunt with or for a lease takeover sometime in December-January.",
       "group_id": "149460102285472"
     }
   ]
