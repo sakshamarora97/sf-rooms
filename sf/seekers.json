@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-15T16:08:32.962939",
-  "count": 3690,
+  "updated_at": "2026-11-15T17:09:32.478165",
+  "count": 3692,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117629,6 +117629,73 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "room in SF: January move-in, budget up to $2,800/month Hi everyone! I'm Isabel, 23F, moving to San Francisco in January",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2064089090949329",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2400,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill",
+        "Marina",
+        "Cow Hollow",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Relocating for a new job; wants girls in their 20s",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "She is relocating to San Francisco in January for a new job. Chill, clean, sociable; enjoys fitness, restaurants, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2064089090949329",
+      "posted_at": "Sunday 15 November 2026 at 16:40",
+      "first_scraped_at": "2026-11-16T01:00:05.358782+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Alyssa, 24, born and raised in Chicago, and moving to SF in January for a new job! I\u2019m hoping to",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2064060380952200",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond District",
+        "Sunset District",
+        "Presidio"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Female; prefers fem/queer, mid 20s\u2013early 30s housemates; no pets",
+      "reason": null,
+      "age": 27,
+      "bio": "She is a 27-year-old garden and marine science educator who enjoys outdoor activities, yoga, and art; seeks a mindful, tidy household.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2064060380952200",
+      "posted_at": "Sunday 15 November 2026 at 15:49",
+      "first_scraped_at": "2026-11-16T01:00:05.358782+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "sublet is ending soon and I'm looking for a new home starting Dec 1st! Preferably in the richmond, sunset or",
+      "group_id": "242765489748374"
     }
   ]
 }
