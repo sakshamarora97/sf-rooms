@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T09:08:14.908516",
-  "count": 3595,
+  "updated_at": "2026-11-16T10:07:18.478431",
+  "count": 3596,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -120191,6 +120191,42 @@
       "first_scraped_at": "2026-11-16T17:00:06.838528+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Sublet Stunning Water Bay Bridge Views Hi everyone! I\u2019m subletting my beautiful, furnished apartment near the Embarcadero\u2014perfect for one person",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2064770824214489",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1700,
+      "neighborhood": "Albany",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "secure_gated_entrances",
+        "parking",
+        "swimming_pool",
+        "gym",
+        "sauna",
+        "golden_gate_bridge_view",
+        "natural_sunlight"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Couples welcome; no pets.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2064770824214489",
+      "posted_at": "Monday 16 November 2026 at 08:29",
+      "first_scraped_at": "2026-11-16T18:00:04.021987+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "BATHROOM FOR RENT Albany, CA Beautiful Bay Area Golden Gate Bridge views Plenty of natural sunlight Spacious 1,235 sq ft",
       "group_id": "242765489748374"
     }
   ]
