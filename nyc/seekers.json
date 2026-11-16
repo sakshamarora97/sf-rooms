@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-16T12:20:39.763302",
-  "count": 1077,
+  "updated_at": "2026-11-16T13:18:36.300538",
+  "count": 1079,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -33544,6 +33544,68 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "short term sublease JAN 2027 MAR/APRIL 2027 Hi everyone!! I'm looking for a sublease in on the Westside preferably West",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2280374315860696",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Couple; has a cat",
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a short-term sublet; one works as a teacher and the other as a server; has one calm cat.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2280374315860696",
+      "posted_at": "Monday 16 November 2026 at 12:34",
+      "first_scraped_at": "2026-11-16T21:08:54.294928+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet ASAP till end of the year. Manhattan, The Bronx, or Queens (close to the 7) are all fine. Current",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2280371329194328",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-30",
+      "move_out_date": "2027-12-30",
+      "budget_min": null,
+      "budget_max": 6100,
+      "unit_type_wanted": [
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Williamsburg"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Three female friends",
+      "reason": null,
+      "age": null,
+      "bio": "Three clean, responsible working friends seeking a 3-bedroom apartment with a one-year lease; prefer in-unit or in-building washer/dryer.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2280371329194328",
+      "posted_at": "Monday 16 November 2026 at 12:30",
+      "first_scraped_at": "2026-11-16T21:08:54.294928+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for an apartment in New York! 3 friends (ages 22\u201326), clean, responsible, and working, looking for a 3-bedroom apartment",
+      "group_id": "149460102285472"
     }
   ]
 }
