@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T06:09:51.030323",
-  "count": 3701,
+  "updated_at": "2026-11-16T07:09:01.262180",
+  "count": 3702,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -117990,6 +117990,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "looking for a place between Jan 19-28 in Oakland or SF. I am coming to finish my Yoga Advance Teacher",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2064038080954430",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants all-female household",
+      "reason": "student",
+      "age": 23,
+      "bio": "23-year-old graduate student relocating to San Francisco for school and work. Respectful, clean, adaptable; enjoys cooking, reading, outdoor activities, and socializing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2064038080954430",
+      "posted_at": "Sunday 15 November 2026 at 15:09",
+      "first_scraped_at": "2026-11-16T15:00:04.282111+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "all-female shared apartment/house or Studio in SF (Budget: around $1,500) Hello everyone! My name is Despina, I\u2019m 23 years old,",
+      "group_id": "242765489748374"
     }
   ]
 }
