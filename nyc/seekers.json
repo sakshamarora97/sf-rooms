@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-16T11:16:25.114077",
-  "count": 1074,
+  "updated_at": "2026-11-16T12:20:39.763302",
+  "count": 1077,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -33449,6 +33449,101 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "am looking for female roommates in their 20s to apartment hunt with or for a lease takeover sometime in December-January.",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2939797719719826",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-21",
+      "move_out_date": "2026-11-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2939797719719826",
+      "posted_at": "Monday 16 November 2026 at 11:34",
+      "first_scraped_at": "2026-11-16T20:09:09.058966+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "short sublease Studio/sharing accommodation 21st November to 30th November",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2280323379199123",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Solo renter seeking a short-term furnished 1BR or studio; clean, respectful, responsible, can provide references and LinkedIn.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2280323379199123",
+      "posted_at": "Monday 16 November 2026 at 11:18",
+      "first_scraped_at": "2026-11-16T20:09:09.058966+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a short-term place to stay in Manhattan or Brooklyn from December 17\u201321 or 22. Ideally, I'm looking for:",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1016770627460280",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "West Village",
+        "Greenwich Village",
+        "Chelsea",
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "23-year-old relocating from Atlanta for a new job starting in February; seeking a short-term sublease on Manhattan's Westside, open to a room or other options.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1016770627460280",
+      "posted_at": "Monday 16 November 2026 at 11:51",
+      "first_scraped_at": "2026-11-16T20:09:09.058966+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "short term sublease JAN 2027 MAR/APRIL 2027 Hi everyone!! I'm looking for a sublease in on the Westside preferably West",
+      "group_id": "312692887868061"
     }
   ]
 }
