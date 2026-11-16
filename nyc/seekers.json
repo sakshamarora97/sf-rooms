@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-15T21:19:58.674452",
-  "count": 1067,
+  "updated_at": "2026-11-15T22:24:15.829369",
+  "count": 1068,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -33223,6 +33223,34 @@
       "first_scraped_at": "2026-11-16T04:09:11.754592+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "sublet for the month of December Please let me know if you have any leads.",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28987220414280769",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Incoming graduate student; prefers female roommates",
+      "reason": "student",
+      "age": null,
+      "bio": "Incoming graduate student at Montclair State University seeking a private bedroom in a shared apartment or house; prefers female roommates and a furnished room.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28987220414280769",
+      "posted_at": "Sunday 15 November 2026 at 22:05",
+      "first_scraped_at": "2026-11-16T06:13:07.383172+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "an incoming graduate student at Montclair State University for Spring 2027, looking for a private bedroom in a shared apartment",
       "group_id": "765841576845364"
     }
   ]
