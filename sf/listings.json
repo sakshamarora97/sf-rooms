@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-15T17:09:32.478165",
-  "count": 3565,
+  "updated_at": "2026-11-15T18:08:40.914206",
+  "count": 3566,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -119192,6 +119192,39 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "clean, respectful female roommate to share a furnished 1BR/1BA apartment in Emeryville, with panoramic waterfront views of the San Francisco",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2799617990434005",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1995,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "studio",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_building_laundry",
+        "in_unit_heating",
+        "parking",
+        "free_furniture"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "No pets",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2799617990434005",
+      "posted_at": "Sunday 15 November 2026 at 17:26",
+      "first_scraped_at": "2026-11-16T02:00:05.456104+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "to take over my lease! Spacious, sun-filled studio on Southside (Haste Atherton), just a few blocks from the UC Berkeley",
+      "group_id": "128476910881473"
     }
   ]
 }
