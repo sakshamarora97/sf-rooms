@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-15T19:20:36.463484",
-  "count": 1064,
+  "updated_at": "2026-11-15T20:19:52.020955",
+  "count": 1067,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -33136,6 +33136,94 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "for a lease starting January in: NoHo, NoLita, Chelsea, The East Village, The West Village, Soho. I work in SoHo",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2279473939284067",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": 22,
+      "bio": "Recent college graduate working as a mechanical engineer at a Brooklyn startup; enjoys New York sports, movies, and running.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2279473939284067",
+      "posted_at": "Sunday 15 November 2026 at 15:19",
+      "first_scraped_at": "2026-11-16T04:09:11.754592+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Kevin, and I\u2019m looking for 1-2 roommates to find and take over an apartment lease in Manhattan starting",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28986182141051263",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-22",
+      "move_out_date": "2026-12-22",
+      "budget_min": null,
+      "budget_max": 400,
+      "unit_type_wanted": [
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": null,
+      "bio": "Male seeking a bed in a shared room; describes himself as clean and respectful.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28986182141051263",
+      "posted_at": "Sunday 15 November 2026 at 20:04",
+      "first_scraped_at": "2026-11-16T04:09:11.754592+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "bed in a shared room in Journal Square, Jersey City, NJ. November 22 December 22 (1 month). Budget: Maximum $400",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "28985696457766498",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/28985696457766498",
+      "posted_at": "Sunday 15 November 2026 at 19:09",
+      "first_scraped_at": "2026-11-16T04:09:11.754592+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "sublet for the month of December Please let me know if you have any leads.",
+      "group_id": "765841576845364"
     }
   ]
 }

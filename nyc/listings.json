@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-15T19:20:36.463484",
-  "count": 3067,
+  "updated_at": "2026-11-15T20:19:52.020955",
+  "count": 3069,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -102774,6 +102774,67 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Bath Lease Takeover Newport Waterfront, Jersey City Hi everyone! We\u2019re looking for someone to take over our 12-month lease at",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2279641789267282",
+      "post_type": "listing",
+      "listing_type": null,
+      "duration_type": null,
+      "rent": 2450,
+      "neighborhood": "Bellerose",
+      "area": "Queens",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2279641789267282",
+      "posted_at": "Sunday 15 November 2026 at 19:50",
+      "first_scraped_at": "2026-11-16T04:09:11.754592+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": null,
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2279472232617571",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Lower East Side",
+      "area": "Manhattan",
+      "available_from": "2026-12-03",
+      "available_until": "2026-12-30",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_living_space",
+        "pet_friendly",
+        "no_elevator"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 1 female roommate; wants respectful, tidy roommate; pets OK",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2279472232617571",
+      "posted_at": "Sunday 15 November 2026 at 15:16",
+      "first_scraped_at": "2026-11-16T04:09:11.754592+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Dec 3-30 Subletting my room in a cute 2 bed 1 bath LES apartment from December 3-30! $1,850 total for",
+      "group_id": "149460102285472"
     }
   ]
 }
