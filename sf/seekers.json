@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T16:07:59.288137",
-  "count": 3707,
+  "updated_at": "2026-11-16T17:07:30.791180",
+  "count": 3708,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118177,6 +118177,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Niko, 26, and I\u2019m looking for a room or an apartment in San Francisco (near CalTrain) starting in early to",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4788994158002253",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": "new_job",
+      "age": 30,
+      "bio": "30-year-old software engineer relocating from Boston for a new job in SF; clean, respectful, easygoing, gym-goer who keeps a tidy, relaxed home.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4788994158002253",
+      "posted_at": "Monday 16 November 2026 at 16:39",
+      "first_scraped_at": "2026-11-17T01:00:06.850163+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Room Studio in SF or Oakland Near BART Hey everyone! I'm 30M, relocating from Boston to the Bay area to",
+      "group_id": "2176716625896699"
     }
   ]
 }
