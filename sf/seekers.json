@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T11:08:16.713827",
-  "count": 3722,
+  "updated_at": "2026-11-17T12:09:08.103839",
+  "count": 3724,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118681,6 +118681,67 @@
       "first_scraped_at": "2026-11-17T19:00:07.073197+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "am 26M software engineer, moving from Austin TX to SF in early December to join an AI startup. I am",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2065862557438649",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Two females",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Two young women who work in Palo Alto (Rivian and Tesla) seeking two rooms in San Francisco; enjoy walking, coffee, exploring, and weekends out.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065862557438649",
+      "posted_at": "Tuesday 17 November 2026 at 11:47",
+      "first_scraped_at": "2026-11-17T20:00:04.832521+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate and I are looking to move to San Francisco by November or December. We both would commute to South",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2065817404109831",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "NoPa",
+        "Panhandle",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Girl; wants roommates who are girls",
+      "reason": "new_job",
+      "age": 22,
+      "bio": "She is a 22-year-old recent graduate working full-time in finance in San Francisco who enjoys yoga, pottery, piano, baking, and values a clean, tidy, respectful home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065817404109831",
+      "posted_at": "Tuesday 17 November 2026 at 10:32",
+      "first_scraped_at": "2026-11-17T20:00:04.832521+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "may (22) and i recently graduated am working full time in sf now (finance). i'm looking to find a room",
       "group_id": "242765489748374"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T11:08:16.713827",
-  "count": 3645,
+  "updated_at": "2026-11-17T12:09:08.103839",
+  "count": 3647,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -121855,6 +121855,76 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "new roommate to move in december 9th. 1910 edwardian in the inner richmond, 1 block from clement st the fabulous",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2802567246805746",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1750,
+      "neighborhood": "Temescal",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-03-31",
+      "unit_config": "3B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "washer_dryer",
+        "basement_storage",
+        "backyard",
+        "front_porch",
+        "patio",
+        "street_parking",
+        "furnished_room"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with male and female roommates; wants someone comfortable with mixed-gender household",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2802567246805746",
+      "posted_at": "Tuesday 17 November 2026 at 11:35",
+      "first_scraped_at": "2026-11-17T20:00:04.832521+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Jan\u2013Mar (flexible to extend on either end) Hi all! I\u2019m heading on an extended trip and am looking for someone",
+      "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1418739610026282",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1600,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "5B3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 4,
+      "amenities": [
+        "roof_access",
+        "closet_storage",
+        "close_to_bus_stop",
+        "near_tilden_state_park",
+        "near_uc_berkeley"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1418739610026282",
+      "posted_at": "Tuesday 17 November 2026 at 12:00",
+      "first_scraped_at": "2026-11-17T20:00:04.832521+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "of lease takeover! 1600 month. Available January (flexible)- onward Subletting my room in a 5-bed, 3-bath house for the summer.",
+      "group_id": "558742412692677"
     }
   ]
 }
