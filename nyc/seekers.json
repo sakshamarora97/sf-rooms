@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-17T09:17:41.578107",
-  "count": 1094,
+  "updated_at": "2026-11-17T10:16:43.917908",
+  "count": 1096,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -34086,6 +34086,67 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Short-Term Rental Near American Dream Mall Under $2,000/Month I\u2019m looking for a short-term or month-to-month rental in New Jersey, close",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2281225085775619",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-06-30",
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Adult Columbia student; open to various arrangements; has a dog",
+      "reason": "student",
+      "age": null,
+      "bio": "Columbia University student, mature and responsible. Quiet, tidy, friendly roommate who respects shared spaces and is a conscientious tenant.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2281225085775619",
+      "posted_at": "Tuesday 17 November 2026 at 09:19",
+      "first_scraped_at": "2026-11-17T18:06:43.079667+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Columbia University student looking for a sublet in New York City from January 2027 through June 2027, with the possibility",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1017591937378149",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-03-15",
+      "move_out_date": "2027-03-25",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private room",
+        "sublet",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Solo traveler visiting NYC from March 15\u201325, 2027, seeking a budget-friendly private room, sublet, or small studio.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1017591937378149",
+      "posted_at": "Tuesday 17 November 2026 at 09:34",
+      "first_scraped_at": "2026-11-17T18:06:43.079667+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "a solo traveler visiting NYC from March 15 to March 25, 2027, and I\u2019m looking for a budget-friendly place to",
+      "group_id": "312692887868061"
     }
   ]
 }
