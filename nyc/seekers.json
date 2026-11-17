@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-17T12:20:33.487155",
-  "count": 1098,
+  "updated_at": "2026-11-17T13:20:17.839582",
+  "count": 1099,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -34211,6 +34211,39 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "looking for an apartment on the Upper East Side, Upper West Side, or in Midtown for an early December move.",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2281371585760969",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "sublease",
+        "lease_takeover",
+        "2B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "internship",
+      "age": 21,
+      "bio": "Two 21-year-old senior dance students starting internships in NYC in January 2027. Tidy, quiet, enjoy baking, painting, museums, and live performances.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2281371585760969",
+      "posted_at": "Tuesday 17 November 2026 at 13:03",
+      "first_scraped_at": "2026-11-17T21:10:07.677902+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "are Coralie and Lily. We\u2019re both 21 and are starting our senior internships in NYC in January. We\u2019re looking for",
+      "group_id": "149460102285472"
     }
   ]
 }
