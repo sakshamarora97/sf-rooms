@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T19:07:25.657010",
-  "count": 3711,
+  "updated_at": "2026-11-16T20:08:04.229884",
+  "count": 3713,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118313,6 +118313,76 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "ASAP SF, South SF, or San Bruno Hi everyone! I\u2019m Nidhi, a software engineer working in downtown SF. I\u2019m looking",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4789162904652045",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill",
+        "Telegraph Hill",
+        "Embarcadero",
+        "SoMa",
+        "Rincon Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Recent graduate; wants girls only",
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent graduate relocating from Atlanta to start a full-time job in the Financial District. Social, active, respectful, and values a calm home; enjoys working out and trying new restaurants.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4789162904652045",
+      "posted_at": "Monday 16 November 2026 at 19:17",
+      "first_scraped_at": "2026-11-17T04:00:04.273355+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Manasi, 23, and I'm moving to SF from Atlanta after I graduate in December! I'm starting a full-time job in",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4424080037902747",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara",
+        "Sunnyvale",
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommate",
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4424080037902747",
+      "posted_at": "Monday 16 November 2026 at 19:15",
+      "first_scraped_at": "2026-11-17T04:00:04.273355+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "female roommate 2b2b lease Mid-December move in Location: Santa Clara, Sunnyvale, Mountain View I\u2019m looking for a female roommate to",
+      "group_id": "1511607562483357"
     }
   ]
 }
