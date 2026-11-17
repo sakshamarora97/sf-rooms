@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T10:06:38.005463",
-  "count": 3721,
+  "updated_at": "2026-11-17T11:08:16.713827",
+  "count": 3722,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118646,6 +118646,42 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "short-term sublet in or near the Outer Sunset, Nov 28 to Dec 20 Hi all! I\u2019m Angela, an artist and",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2065771627447742",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Inner Sunset",
+        "Noe Valley",
+        "Duboce Triangle",
+        "Castro",
+        "Dolores Heights",
+        "Glen Park"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "26M; no pets",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old software engineer relocating from Austin to San Francisco for an AI startup; seeking a private room. Clean, respectful, non-smoker who enjoys hiking and exploring.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065771627447742",
+      "posted_at": "Tuesday 17 November 2026 at 09:25",
+      "first_scraped_at": "2026-11-17T19:00:07.073197+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "am 26M software engineer, moving from Austin TX to SF in early December to join an AI startup. I am",
+      "group_id": "242765489748374"
     }
   ]
 }

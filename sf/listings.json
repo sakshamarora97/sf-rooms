@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T10:06:38.005463",
-  "count": 3644,
+  "updated_at": "2026-11-17T11:08:16.713827",
+  "count": 3645,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -121825,6 +121825,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "SUBLEASE SINGLE ROOM I'm looking to sublet my 2B1B single on Francisco St (North Berkeley) for next spring semester for",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2065815627443342",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 2000,
+      "neighborhood": "Inner Richmond",
+      "area": "San Francisco",
+      "available_from": "2026-12-09",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Prefers a mature female; open to others",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065815627443342",
+      "posted_at": "Tuesday 17 November 2026 at 10:29",
+      "first_scraped_at": "2026-11-17T19:00:07.073197+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "new roommate to move in december 9th. 1910 edwardian in the inner richmond, 1 block from clement st the fabulous",
+      "group_id": "242765489748374"
     }
   ]
 }
