@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T17:07:30.791180",
-  "count": 3708,
+  "updated_at": "2026-11-16T18:08:04.358348",
+  "count": 3710,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118208,6 +118208,71 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Room Studio in SF or Oakland Near BART Hey everyone! I'm 30M, relocating from Boston to the Bay area to",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4789004638001205",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Russian Hill",
+        "Pacific Heights",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Occupational therapist relocating to San Francisco for a new job, seeking a private bedroom (open to shared bathroom). Works Monday\u2013Friday, enjoys caf\u00e9s, reading, restaurants, and is clean and considerate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4789004638001205",
+      "posted_at": "Monday 16 November 2026 at 16:51",
+      "first_scraped_at": "2026-11-17T02:00:06.696776+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Roommates in San Francisco! Hi everyone! I\u2019m Megha I\u2019m currently based in Los Angeles and relocating to San Francisco for",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2065096514181920",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1250,
+      "budget_max": 1250,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "Downtown San Francisco"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recent marketing graduate relocating from Austin to the Bay Area, outgoing and social, seeking affordable housing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065096514181920",
+      "posted_at": "Monday 16 November 2026 at 17:20",
+      "first_scraped_at": "2026-11-17T02:00:06.696776+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "SEARCH Hi Y\u2019all!! My name is Martha and I graduated this spring with my degree in Marketing!! I\u2019m looking to",
+      "group_id": "242765489748374"
     }
   ]
 }
