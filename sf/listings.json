@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T18:08:04.358348",
-  "count": 3617,
+  "updated_at": "2026-11-16T19:07:25.657010",
+  "count": 3618,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -120858,6 +120858,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "have a room available for a lease takeover in a 3-bedroom apartment in Pacific Heights, down the street from Lafayette",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2065108250847413",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 995,
+      "neighborhood": "Civic Center",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "shared_bathroom",
+        "near_transit"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Urbanests",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065108250847413",
+      "posted_at": "Monday 16 November 2026 at 17:38",
+      "first_scraped_at": "2026-11-17T02:00:06.696776+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "1 at 1412 Market St (Mid-Market Civic Center), $995/month I am leaving SF early, so my private room in an",
+      "group_id": "242765489748374"
     },
     {
       "listing_id": "2065082524183319",

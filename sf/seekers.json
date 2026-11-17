@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T18:08:04.358348",
-  "count": 3710,
+  "updated_at": "2026-11-16T19:07:25.657010",
+  "count": 3711,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118273,6 +118273,46 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "SEARCH Hi Y\u2019all!! My name is Martha and I graduated this spring with my degree in Marketing!! I\u2019m looking to",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4789023754665960",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Hayes Valley",
+        "South Beach",
+        "Rincon Hill",
+        "East Cut",
+        "Yerba Buena",
+        "Embarcadero",
+        "South San Francisco",
+        "San Bruno"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommate",
+      "reason": null,
+      "age": null,
+      "bio": "Software engineer working in downtown San Francisco seeking ASAP move-in; open to lease takeovers, joining a 2B2B with a female roommate, or renting a studio.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4789023754665960",
+      "posted_at": "Monday 16 November 2026 at 17:04",
+      "first_scraped_at": "2026-11-17T03:00:07.606527+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "ASAP SF, South SF, or San Bruno Hi everyone! I\u2019m Nidhi, a software engineer working in downtown SF. I\u2019m looking",
+      "group_id": "2176716625896699"
     }
   ]
 }
