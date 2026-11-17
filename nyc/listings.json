@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-17T07:17:42.643231",
-  "count": 3206,
+  "updated_at": "2026-11-17T08:14:03.018636",
+  "count": 3208,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -107184,6 +107184,34 @@
       "group_id": "812568135514746"
     },
     {
+      "listing_id": "2940945782938353",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-11-20",
+      "available_until": "2026-12-28",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Waterside Square South",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2940945782938353",
+      "posted_at": "Tuesday 17 November 2026 at 06:10",
+      "first_scraped_at": "2026-11-17T15:08:47.031003+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "for temp sublease in Newport, Jersey City! Waterside Square South November 20 December 28 See more",
+      "group_id": "1138638939835722"
+    },
+    {
       "listing_id": "2940378449661753",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -107394,6 +107422,36 @@
       "first_scraped_at": "2026-11-17T15:08:47.031003+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Sublet Financial District, Manhattan (Nov 25 Jan 2) Looking to sublet my fully furnished studio apartment in a high-rise building",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "1017502294053780",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1666,
+      "neighborhood": "Ridgewood",
+      "area": "Queens",
+      "available_from": "2026-12-01",
+      "available_until": "2027-04-30",
+      "unit_config": "3B3.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 roommates; pets OK",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1017502294053780",
+      "posted_at": "Tuesday 17 November 2026 at 07:36",
+      "first_scraped_at": "2026-11-17T16:06:46.270218+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "in a 3 bed 3.5 bath apartment 12/1 move in My roommate and I are looking for one more person",
       "group_id": "312692887868061"
     }
   ]
