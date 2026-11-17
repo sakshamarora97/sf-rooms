@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T12:09:08.103839",
-  "count": 3724,
+  "updated_at": "2026-11-17T13:10:02.160602",
+  "count": 3725,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118742,6 +118742,40 @@
       "first_scraped_at": "2026-11-17T20:00:04.832521+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "may (22) and i recently graduated am working full time in sf now (finance). i'm looking to find a room",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2065862737438631",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3400,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Noe Valley",
+        "Potrero Hill",
+        "Bernal Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "M; has no pets",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old scientist relocating to San Francisco for a new job; non-smoker, very clean, enjoys cooking, reading, and socializing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065862737438631",
+      "posted_at": "Tuesday 17 November 2026 at 11:47",
+      "first_scraped_at": "2026-11-17T21:00:04.812732+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "bd/1 ba in SF up to $3400 Mission and surrounding areas Hi, I'm Zubin, I'm a 24M scientist moving to",
       "group_id": "242765489748374"
     }
   ]
