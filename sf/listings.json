@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T14:08:30.226170",
-  "count": 3657,
+  "updated_at": "2026-11-17T15:07:26.287129",
+  "count": 3659,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -122226,6 +122226,34 @@
       "group_id": "558742412692677"
     },
     {
+      "listing_id": "4790452824523053",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": "Russian Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Two roommates; wants a girl in her 20s",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4790452824523053",
+      "posted_at": "Tuesday 17 November 2026 at 13:47",
+      "first_scraped_at": "2026-11-17T22:00:07.501733+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "w/Walk-In Closet Hey everyone!! My roommate and I are looking for a third girl in her 20s to join us",
+      "group_id": "2176716625896699"
+    },
+    {
       "listing_id": "2802639840131820",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -122259,6 +122287,38 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "bedroom in a 2Bed1Bath Jan-July 2027. Rent is $1850 utilities and wifi (about $100 per person). In-unit laundry. Amenities includes",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1418817790018464",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Southside",
+      "area": "East Bay",
+      "available_from": "2026-12-15",
+      "available_until": "2027-02-15",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "microwave",
+        "water_included"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1418817790018464",
+      "posted_at": "Tuesday 17 November 2026 at 14:34",
+      "first_scraped_at": "2026-11-17T23:00:06.385057+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Hi everyone! I'm looking for someone to take over my lease for a beautiful and spacious studio on Southside near",
+      "group_id": "558742412692677"
     }
   ]
 }
