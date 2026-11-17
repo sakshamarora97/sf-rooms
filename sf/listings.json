@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-16T15:08:16.951762",
-  "count": 3609,
+  "updated_at": "2026-11-16T16:07:59.288137",
+  "count": 3611,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -120662,6 +120662,67 @@
       "first_scraped_at": "2026-11-16T23:00:06.211316+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for someone to sublease my room in Pacific Heights from December 10 January 8 while I\u2019m in Chicago for",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4788884238013245",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Duboce Triangle",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "private_living_room",
+        "shared_terrace"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with 2 very quiet American roommates; wants a Guy 25\u201330; no pets.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4788884238013245",
+      "posted_at": "Monday 16 November 2026 at 14:53",
+      "first_scraped_at": "2026-11-17T00:00:07.095187+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "master room, under $1,900, available mid-December It feels a lot like having your own solo apartment within a shared house.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2065016380856600",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1850,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-12-15",
+      "available_until": "2027-01-15",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "on-site_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Lives with a female in her 20s; wants a female roommate in her 20s; pets not mentioned",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065016380856600",
+      "posted_at": "Monday 16 November 2026 at 15:05",
+      "first_scraped_at": "2026-11-17T00:00:07.095187+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Lower Pac Heights! Looking for a subletter from December 15- January 15 in Lower Pac Heights (9 min walk from",
       "group_id": "242765489748374"
     }
   ]
