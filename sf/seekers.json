@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T06:09:38.026990",
-  "count": 3720,
+  "updated_at": "2026-11-17T07:08:42.122303",
+  "count": 3721,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118615,6 +118615,37 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking for a private room for rent in West or South San Jose, in a clean, quiet, and comfortable home",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "29156611433996134",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-28",
+      "move_out_date": "2026-12-20",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Outer Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Artist and consultant based in New York who spends time in San Francisco; works from home, clean, quiet and respectful, can provide references.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29156611433996134",
+      "posted_at": "Tuesday 17 November 2026 at 06:05",
+      "first_scraped_at": "2026-11-17T15:00:04.409524+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "short-term sublet in or near the Outer Sunset, Nov 28 to Dec 20 Hi all! I\u2019m Angela, an artist and",
+      "group_id": "843764532374203"
     }
   ]
 }
