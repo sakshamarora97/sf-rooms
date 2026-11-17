@@ -280,6 +280,11 @@
     "lat": 40.7141953,
     "lon": -73.9316461
   },
+  "Edison": {
+    "lat": null,
+    "lon": null,
+    "retries": 1
+  },
   "Elmhurst, Brooklyn": {
     "lat": 40.73940350000001,
     "lon": -73.8779431
@@ -309,6 +314,10 @@
     "lon": -74.00827869999999
   },
   "Flatbush, Brooklyn": {
+    "lat": 40.6414876,
+    "lon": -73.9593998
+  },
+  "Flatbush, Manhattan": {
     "lat": 40.6414876,
     "lon": -73.9593998
   },
