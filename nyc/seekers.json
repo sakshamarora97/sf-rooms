@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-18T07:17:37.057768",
-  "count": 1119,
+  "updated_at": "2026-11-18T08:54:16.527558",
+  "count": 1120,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -34862,6 +34862,37 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "a room to rent in Manhattan from November 28th (Saturday) to November 30th (Monday) preferably around Central Park or 5th",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "29023244890678321",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working professional at a banking firm in Princeton seeking housing in Jersey City; friendly, easygoing, clean and respectful. Enjoys cooking vegetarian Indian/South Indian food and photography; prefers a quiet, positive home.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29023244890678321",
+      "posted_at": "Wednesday 18 November 2026 at 08:26",
+      "first_scraped_at": "2026-11-18T16:40:13.584005+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "posting on behalf of a friend who is a working professional employed with a leading banking firm in Princeton, New",
+      "group_id": "765841576845364"
     }
   ]
 }
