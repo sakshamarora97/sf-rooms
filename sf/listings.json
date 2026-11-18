@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T06:10:49.203583",
-  "count": 3693,
+  "updated_at": "2026-11-18T07:08:06.091090",
+  "count": 3694,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -123481,6 +123481,47 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "roommate (Private 1B1B) We are looking for a roommate in a spacious 2B2B apartment. This is a well-maintained, premium unit",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1418839776682932",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1630,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "on_site_laundry",
+        "rooftop_balconies",
+        "communal_kitchen",
+        "bike_storage",
+        "print_station",
+        "community_events",
+        "housekeeping_common_areas",
+        "coffee_tea_station",
+        "online_maintenance",
+        "keyless_entry",
+        "security_cameras",
+        "stainless_steel_appliances"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1418839776682932",
+      "posted_at": "Tuesday 17 November 2026 at 15:19",
+      "first_scraped_at": "2026-11-18T15:00:06.756747+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "4 Blocks from the UC Berkeley campus! 5-minute walk to UC Berkeley School of Law and Haas School of Business.",
+      "group_id": "558742412692677"
     }
   ]
 }
