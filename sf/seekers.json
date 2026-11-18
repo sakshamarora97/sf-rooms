@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T16:08:47.415260",
-  "count": 3725,
+  "updated_at": "2026-11-17T17:08:01.556994",
+  "count": 3728,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118776,6 +118776,96 @@
       "first_scraped_at": "2026-11-17T21:00:04.812732+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "bd/1 ba in SF up to $3400 Mission and surrounding areas Hi, I'm Zubin, I'm a 24M scientist moving to",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4790579854510350",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-01-01",
+      "move_out_date": "2026-03-15",
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Travel nurse; has a senior border collie",
+      "reason": null,
+      "age": null,
+      "bio": "Travel nurse relocating from Vancouver, BC seeking a private suite from Jan 1 to Mar 15. Traveling with a senior border collie; budget $2,000\u2013$3,000.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4790579854510350",
+      "posted_at": "Tuesday 17 November 2026 at 16:45",
+      "first_scraped_at": "2026-11-18T01:00:06.778763+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "travel nurse coming through!! I am looking for a private suite for myself and my senior border collie. Anywhere from",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2066009410757297",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 400,
+      "budget_max": 600,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "Alamo Square",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a tiny 80\u2013100 sq ft room near Alamo Square through Pacific Heights to set up a permanent podcast/YouTube studio. Looking for a sublet within 20\u201330 minutes' walking distance.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2066009410757297",
+      "posted_at": "Tuesday 17 November 2026 at 16:09",
+      "first_scraped_at": "2026-11-18T01:00:06.778763+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "large closet, garage or weird unused room for a podcast studio. Looking in Hayes Valley/Alamo Square Through Pacific Heights But",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2065974977427407",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2400,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room (2-bed)",
+        "room (3-bedroom)"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Works in tech; wants a female roommate in her 20s",
+      "reason": null,
+      "age": null,
+      "bio": "Works in tech, social, enjoys trying new restaurants and wine bars; values a clean, cozy home and loves cooking, baking, and crafting.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2065974977427407",
+      "posted_at": "Tuesday 17 November 2026 at 15:06",
+      "first_scraped_at": "2026-11-18T01:00:06.778763+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "long hard battle of rodents in my building, I\u2019ve given up and am moving I\u2019m in search of a female",
       "group_id": "242765489748374"
     }
   ]
