@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-17T21:25:38.617081",
-  "count": 1109,
+  "updated_at": "2026-11-17T22:22:29.600749",
+  "count": 1110,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -34554,6 +34554,36 @@
       "first_scraped_at": "2026-11-18T05:10:42.058793+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "IN NYC JANUARY 1ST-11TH MOVE-IN Hey everyone! I\u2019m 24, graduated from CU Boulder in 2024, and am moving to NYC",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2281548535743274",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoHo"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Relocating worker; no gender preference; has no pets",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works for a Japanese clothing company being transferred from LA to NYC to train employees and open new stores. In free time does photography, sells clothes on Depop, and enjoys basketball, museums, and shopping.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2281548535743274",
+      "posted_at": "Tuesday 17 November 2026 at 18:23",
+      "first_scraped_at": "2026-11-18T06:09:28.074830+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "to NYC by December January Hello, I\u2019m looking to rent a room by December, January the latest. My budget is",
       "group_id": "149460102285472"
     }
   ]
