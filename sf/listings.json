@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T12:11:48.924399",
-  "count": 3705,
+  "updated_at": "2026-11-18T13:09:32.741199",
+  "count": 3707,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -123787,6 +123787,34 @@
       "group_id": "1511607562483357"
     },
     {
+      "listing_id": "29169956082661669",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Haight-Ashbury",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29169956082661669",
+      "posted_at": "Wednesday 18 November 2026 at 08:14",
+      "first_scraped_at": "2026-11-18T20:00:06.243109+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "available 70sqft Room in a 3-bedroom, 1-bathroom apartment located at Page Street! Long term. See more",
+      "group_id": "843764532374203"
+    },
+    {
       "listing_id": "29169817929342151",
       "post_type": "listing",
       "listing_type": "sublease",
@@ -123874,6 +123902,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for one female to take over a single on Southside for Spring 2027! 10 minute walk to UC Berkeley campus",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2066835117341393",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 800,
+      "neighborhood": "Inner Richmond",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "private_bathroom",
+        "private_kitchen",
+        "in_house_laundry"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2066835117341393",
+      "posted_at": "Wednesday 18 November 2026 at 12:25",
+      "first_scraped_at": "2026-11-18T21:00:06.465561+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Inner Richmond, Private Bath Kitchen, Dec 1 Looking for a roommate to share my room in the Inner Richmond (Spruce",
+      "group_id": "242765489748374"
     }
   ]
 }
