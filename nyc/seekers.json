@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-18T10:17:12.264191",
-  "count": 1122,
+  "updated_at": "2026-11-18T11:23:05.957427",
+  "count": 1125,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -34953,6 +34953,113 @@
       "first_scraped_at": "2026-11-18T17:40:12.358301+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "looking for 1-2 roommates in their early to mid 20s to apartment hunt with, my budget is $1800 or less,",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2282241302340664",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Brooklyn",
+        "Williamsburg",
+        "Lower East Side",
+        "East Village"
+      ],
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 29,
+      "bio": "29-year-old chef from Sweden starting a job in NYC; social and curious, enjoys foraging, nature, dancing, music, working out, and food.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2282241302340664",
+      "posted_at": "Wednesday 18 November 2026 at 11:08",
+      "first_scraped_at": "2026-11-18T19:09:15.785564+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room! Hi everyone! My name is Hanna, I\u2019m a 29-year-old (young) island girl from Sweden. I work as a chef",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2282233572341437",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Upper West Side",
+        "Upper East Side",
+        "Harlem"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 25,
+      "bio": "25-year-old seeking a room or sublet in Manhattan; clean, respectful, responsible, and easygoing. Prefers quick move-in process and a washer.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2282233572341437",
+      "posted_at": "Wednesday 18 November 2026 at 10:55",
+      "first_scraped_at": "2026-11-18T19:09:15.785564+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "ROOM OR SUBLET IN MANHATTAN MOVE-IN DECEMBER 1ST Hi everyone! My name is Vlad, I\u2019m 25, and I\u2019m looking for",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2282225829008878",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2800,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown East",
+        "Kips Bay",
+        "Murray Hill",
+        "Flatiron",
+        "Financial District",
+        "Greenwich Village",
+        "Hudson Yards",
+        "Upper East Side",
+        "DUMBO",
+        "Williamsburg",
+        "Long Island City"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old software engineer relocating from San Francisco for work; will be in the office weekdays. Social, plays guitar and video games, keeps places tidy, seeks an easygoing roommate.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2282225829008878",
+      "posted_at": "Wednesday 18 November 2026 at 10:43",
+      "first_scraped_at": "2026-11-18T19:09:15.785564+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Kavish, and I\u2019m looking for a roommate to sign a lease with for a 2 bed apartment, or a room",
       "group_id": "149460102285472"
     }
   ]
