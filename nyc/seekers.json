@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-18T08:54:16.527558",
-  "count": 1120,
+  "updated_at": "2026-11-18T09:53:13.712621",
+  "count": 1122,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -34893,6 +34893,67 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "posting on behalf of a friend who is a working professional employed with a leading banking firm in Princeton, New",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2942266392806292",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-26",
+      "move_out_date": "2026-11-29",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2942266392806292",
+      "posted_at": "Wednesday 18 November 2026 at 08:49",
+      "first_scraped_at": "2026-11-18T17:40:12.358301+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for a short-term sublet in Newport/Jersey City for 3 people for the following dates: November 26\u201329 December 26\u201330 Preferably,",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2282139215684206",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Recent UConn graduate starting a new job at the end of November. Enjoys movies, trying new foods, crafting and going out; seeking 1\u20132 roommates and a friendly living situation.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2282139215684206",
+      "posted_at": "Wednesday 18 November 2026 at 08:41",
+      "first_scraped_at": "2026-11-18T17:40:12.358301+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for 1-2 roommates in their early to mid 20s to apartment hunt with, my budget is $1800 or less,",
+      "group_id": "149460102285472"
     }
   ]
 }
