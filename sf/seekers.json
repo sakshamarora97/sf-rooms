@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-17T18:08:37.081919",
-  "count": 3730,
+  "updated_at": "2026-11-17T21:10:37.178429",
+  "count": 3731,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -118929,6 +118929,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "a travel nurse coming to San Francisco for a contract from January through April and am looking for a furnished",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2066046150753623",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Marina",
+        "Russian Hill",
+        "Nob Hill",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommate",
+      "reason": "new_job",
+      "age": null,
+      "bio": "The author is a software engineer relocating to San Francisco for a new job starting Dec 1; will work in-office five days a week. Enjoys hiking, reading, and exploring local restaurants; laid-back and values personal space.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2066046150753623",
+      "posted_at": "Tuesday 17 November 2026 at 17:12",
+      "first_scraped_at": "2026-11-18T05:00:07.315093+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "private room in existing lease or sublet or lease takeover from December 1. Hi! I\u2019m Preethi, and I\u2019m relocating to",
+      "group_id": "242765489748374"
     }
   ]
 }
