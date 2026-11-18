@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T13:09:32.741199",
-  "count": 3743,
+  "updated_at": "2026-11-18T14:07:52.892843",
+  "count": 3744,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119340,6 +119340,42 @@
       "first_scraped_at": "2026-11-18T21:00:06.465561+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "room in a Pac Heights house or flat from Feb 1 I'm Ryan, 27, a data developer, in the office",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2066851800673058",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 3500,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "2BR"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "NoPa",
+        "Japantown",
+        "Mission District",
+        "Potrero Hill",
+        "Dogpatch",
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Two males",
+      "reason": null,
+      "age": null,
+      "bio": "Two male roommates who work in SOMA seeking a 2-bedroom in San Francisco around January 2027, budget $3500\u2013$4000.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2066851800673058",
+      "posted_at": "Wednesday 18 November 2026 at 12:55",
+      "first_scraped_at": "2026-11-18T22:00:06.858568+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "flatmate (25M) and I (24M) are looking for a 2bed in SF, ideally moving in around January 2027. We both",
       "group_id": "242765489748374"
     }
   ]
