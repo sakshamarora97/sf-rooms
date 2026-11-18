@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T14:07:52.892843",
-  "count": 3707,
+  "updated_at": "2026-11-18T15:08:54.058724",
+  "count": 3708,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -123934,6 +123934,44 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Inner Richmond, Private Bath Kitchen, Dec 1 Looking for a roommate to share my room in the Inner Richmond (Spruce",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1419692929930950",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1225,
+      "neighborhood": "El Cerrito",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "internet_included",
+        "utilities_included",
+        "furnished",
+        "laundry_on_site",
+        "pool",
+        "gas_stove",
+        "security_system",
+        "street_parking",
+        "housekeeping_biweekly"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with a woman and UC Berkeley grad student; no pets",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1419692929930950",
+      "posted_at": "Wednesday 18 November 2026 at 14:16",
+      "first_scraped_at": "2026-11-18T23:00:07.348794+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for rent that can be available but it is not walking. You would have to take a 10 minutes train",
+      "group_id": "558742412692677"
     }
   ]
 }
