@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-17T16:18:54.312389",
-  "count": 1100,
+  "updated_at": "2026-11-17T17:18:55.510565",
+  "count": 1101,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -34278,6 +34278,34 @@
       "first_scraped_at": "2026-11-17T22:08:34.866557+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Private Shared Room Jersey City, Newport, Bayonne, Edison Hi everyone! I\u2019m looking to move in December (flexible with dates) and",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "29013609084975235",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-12",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 28,
+      "bio": "They are moving from Chicago to the NYC area for a banking consulting role in Downtown Manhattan. Seeking a private room or roommate; easygoing, keeps common areas clean, enjoys PS5 and sports.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29013609084975235",
+      "posted_at": "Tuesday 17 November 2026 at 16:35",
+      "first_scraped_at": "2026-11-18T01:08:06.075163+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Roommate or Private Room Dec 12\u201315 Move-In Hey everyone! I\u2019m Srihari, I\u2019m 28, and I\u2019m moving from Chicago to the",
       "group_id": "765841576845364"
     }
   ]
