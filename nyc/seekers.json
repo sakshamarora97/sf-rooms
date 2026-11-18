@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-18T12:26:02.250819",
-  "count": 1129,
+  "updated_at": "2026-11-18T13:21:15.017473",
+  "count": 1130,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -35190,6 +35190,35 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "sublet in January Hey everyone! I\u2019m coming from LA and looking to sublet a room in NYC/NJ starting in January.",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2282291069002354",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-02-28",
+      "budget_min": 800,
+      "budget_max": 800,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old female seeking a furnished short-term sublease from 2026-12-01 to 2027-02-28 for $800/month; prefers a clean, well-maintained apartment.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2282291069002354",
+      "posted_at": "Wednesday 18 November 2026 at 12:28",
+      "first_scraped_at": "2026-11-18T21:09:37.352039+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Room/Sublease Dec 1 Feb End Hi everyone! Posting on behalf of a friend who is a 28-year-old female looking for",
+      "group_id": "149460102285472"
     }
   ]
 }
