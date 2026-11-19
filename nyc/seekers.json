@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-19T09:23:44.827098",
-  "count": 1149,
+  "updated_at": "2026-11-19T10:16:27.269806",
+  "count": 1150,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -35797,6 +35797,36 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "girlfriend and I are looking for another couple to apartment hunt with. (Definitely open to a single roommate but are",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29037577719245038",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Girl",
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a private room with attached washroom near ZIP 07006 in Jersey City.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29037577719245038",
+      "posted_at": "Thursday 19 November 2026 at 09:26",
+      "first_scraped_at": "2026-11-19T18:06:50.656075+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for a girl Looking for private room for a girl with attached washroom near 07006 area code New Jersey",
+      "group_id": "765841576845364"
     }
   ]
 }
