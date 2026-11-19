@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T11:06:08.030541",
-  "count": 3765,
+  "updated_at": "2026-11-19T12:09:26.795755",
+  "count": 3766,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120037,6 +120037,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for fall 2027 I will be moving to Berkeley in the fall of 2027 to start my PhD. I am",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4793132220921780",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old finance professional, previously in tech for 10 years; enjoys cooking and hosting game nights, is super clean, outgoing, mostly WFH and travels month-long for work.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4793132220921780",
+      "posted_at": "Thursday 19 November 2026 at 11:41",
+      "first_scraped_at": "2026-11-19T20:00:04.607289+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "$2500 per room, looking for 2 roommates to join me. Hey everyone, I was looking to rent a place for",
+      "group_id": "2176716625896699"
     }
   ]
 }
