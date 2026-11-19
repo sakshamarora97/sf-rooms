@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-18T21:20:45.157878",
-  "count": 3419,
+  "updated_at": "2026-11-18T22:19:29.648634",
+  "count": 3421,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -114539,6 +114539,75 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "furnished bedroom in bushwick Nov 27- Jan 7th! Right next to the M/J train line and 10 mins from Montrose",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2282626632302131",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Flatbush",
+      "area": "Brooklyn",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "elevator",
+        "furnished_shared_spaces",
+        "fire_escape",
+        "walk_in_shower",
+        "large_closets"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 queer people; prefers a queer person mid-late 20s; no additional pets.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2282626632302131",
+      "posted_at": "Wednesday 18 November 2026 at 21:17",
+      "first_scraped_at": "2026-11-19T06:08:26.260651+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "w/ Ensuite King size Bedroom w/ shared bathroom in a 4bd/2b Apt in Flatbush January 1st Lease takeover! Ensuite Bedroom:",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1018815577255785",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": null,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "oven",
+        "refrigerator",
+        "microwave"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1018815577255785",
+      "posted_at": "Wednesday 18 November 2026 at 19:20",
+      "first_scraped_at": "2026-11-19T06:08:26.260651+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "YOUR NEXT APARTMENT IN ALBANY? THIS ONE IS WORTH A LOOK! 203 Partridge Street Apartment 2 Albany, NY Whether you're",
+      "group_id": "312692887868061"
     }
   ]
 }
