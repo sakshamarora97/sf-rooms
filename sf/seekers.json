@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T07:06:07.306680",
-  "count": 3756,
+  "updated_at": "2026-11-19T08:07:54.576936",
+  "count": 3760,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119749,6 +119749,130 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "is Jared. I currently live in downtown San Francisco. I\u2019m trying to move to San Francisco airport because that\u2019s where",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4792695317632137",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Burlingame",
+        "Foster City",
+        "Belmont",
+        "South San Francisco",
+        "San Bruno",
+        "Millbrae",
+        "Redwood City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working professional employed near South San Francisco. Clean, respectful, seeking a roommate to share a 2-bedroom or a room with a private bathroom; can move immediately.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4792695317632137",
+      "posted_at": "Thursday 19 November 2026 at 06:23",
+      "first_scraped_at": "2026-11-19T16:00:07.111478+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Sandeep Reddy, a working professional working near South San Francisco. I'm looking for a roommate to team up and rent",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "29190537617270182",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 4000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 22,
+      "bio": "22-year-old who works in the Financial District; social, enjoys lifting and volleyball; experienced with roommates and seeks friendly housemates.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29190537617270182",
+      "posted_at": "Thursday 19 November 2026 at 07:57",
+      "first_scraped_at": "2026-11-19T16:00:07.111478+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "looking for a place in SF, if anyone has a room available. I'm 22, social, work in the FiDi, and",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29194042023586408",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Person seeking a room in Daly City near San Francisco Airport.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29194042023586408",
+      "posted_at": "Thursday 19 November 2026 at 07:57",
+      "first_scraped_at": "2026-11-19T16:00:07.111478+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "for a room to rent in Daly city area close by the San Francisco airport that if anybody has a",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29182845984706012",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-17",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "29yo single male; no pets",
+      "reason": null,
+      "age": 29,
+      "bio": "29-year-old single male professional chef working two jobs and rarely at home.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29182845984706012",
+      "posted_at": "Thursday 19 November 2026 at 07:57",
+      "first_scraped_at": "2026-11-19T16:00:07.111478+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "room to rent, $1600 budget. 29yo single male with no pets Professional chef, not home much, with two jobs, not",
+      "group_id": "843764532374203"
     }
   ]
 }
