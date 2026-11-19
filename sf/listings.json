@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T18:07:56.155357",
-  "count": 3717,
+  "updated_at": "2026-11-18T19:06:40.411298",
+  "count": 3718,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -124293,6 +124293,36 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "private room near campus Jan\u2013June Looking for a male subletter Subletting my private bedroom (Room C, ~100 sq ft) at",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2067001650658073",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2950,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-12-09",
+      "available_until": "2027-03-15",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Furnished; utilities included",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2067001650658073",
+      "posted_at": "Wednesday 18 November 2026 at 17:23",
+      "first_scraped_at": "2026-11-19T03:00:04.913885+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "intrested in subletting our one bedroom apartment in mission district, 25th and Valencia from December 9th through Mid March. The",
+      "group_id": "242765489748374"
     }
   ]
 }
