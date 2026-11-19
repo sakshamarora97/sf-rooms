@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T09:07:22.562791",
-  "count": 3761,
+  "updated_at": "2026-11-19T10:06:45.401160",
+  "count": 3764,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119905,6 +119905,108 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "an existing lease! hi everyone! my name is trisha, i\u2019m 22, and i\u2019m looking to join an existing lease anywhere",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4792962200938782",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "Inner Richmond",
+        "Inner Sunset",
+        "Lower Haight",
+        "Duboce Triangle",
+        "NoPa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants to live with girls in their mid to late 20s.",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "Moving to San Francisco for a new environmental job; grew up in Southern California and attended Cal Poly SLO. Outgoing and social, enjoys traveling, camping, diving, thrifting, concerts, and crafting.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4792962200938782",
+      "posted_at": "Thursday 19 November 2026 at 09:24",
+      "first_scraped_at": "2026-11-19T18:00:05.885488+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "over a sublease or sign a 6 month lease Hello! My name is Taylor (24F) and I will be moving",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4792771544291181",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-27",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "North Beach",
+        "Mission District",
+        "South Beach",
+        "Rincon Hill",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker is looking for a furnished private room, studio, or one-bedroom sublet in San Francisco. Clean, respectful, and ready to move quickly.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4792771544291181",
+      "posted_at": "Thursday 19 November 2026 at 07:16",
+      "first_scraped_at": "2026-11-19T18:00:05.885488+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "FURNISHED SUBLET IN SAN FRANCISCO Move-in Nov 27\u201329 Hi everyone! I'm looking for a furnished private room, studio, or 1-bedroom",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2067561737268731",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Union Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "Young professional moving from Atlanta to San Francisco for a job; enjoys running, yoga, cooking, wine bars, socializing and meeting new people.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2067561737268731",
+      "posted_at": "Thursday 19 November 2026 at 06:36",
+      "first_scraped_at": "2026-11-19T18:00:05.885488+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "or sublease for September 2027 Hi everyone, my name is Lilly. I am 22 and moving from Atlanta, GA to",
+      "group_id": "242765489748374"
     }
   ]
 }
