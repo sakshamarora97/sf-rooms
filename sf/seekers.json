@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T06:07:12.879926",
-  "count": 3755,
+  "updated_at": "2026-11-19T07:06:07.306680",
+  "count": 3756,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119721,6 +119721,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "in a 2B2B Apartment Near Fremont Hub Hi! We are a clean, quiet married couple looking for a private bedroom",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4792585204309815",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 600,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Lives in downtown San Francisco and works at San Francisco Airport; looking for a room $600\u2013$1000/month.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4792585204309815",
+      "posted_at": "Thursday 19 November 2026 at 04:58",
+      "first_scraped_at": "2026-11-19T15:00:03.759505+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "is Jared. I currently live in downtown San Francisco. I\u2019m trying to move to San Francisco airport because that\u2019s where",
+      "group_id": "2176716625896699"
     }
   ]
 }
