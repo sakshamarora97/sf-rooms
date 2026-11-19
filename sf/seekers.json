@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T14:08:59.560269",
-  "count": 3774,
+  "updated_at": "2026-11-19T15:07:56.126185",
+  "count": 3775,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120323,6 +120323,42 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "and moving to SF in early March and looking for a group of girls who need an extra roommate! I",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4793292314239104",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": "2027-07-31",
+      "budget_min": 1500,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco",
+        "San Bruno",
+        "Millbrae",
+        "Daly City",
+        "Glen Park",
+        "Burlingame",
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "24F; wants female roommates",
+      "reason": "internship",
+      "age": 24,
+      "bio": "24-year-old intern relocating to South San Francisco for an internship; clean, organized, considerate, seeks friendly communicative roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4793292314239104",
+      "posted_at": "Thursday 19 November 2026 at 14:02",
+      "first_scraped_at": "2026-11-19T23:00:06.581026+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "South SF Peninsula Bay Area Jan\u2013July 2027 Posting on behalf of a friend! Hi everyone! I'm a 24F moving to",
+      "group_id": "2176716625896699"
     }
   ]
 }

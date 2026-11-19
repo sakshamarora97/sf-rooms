@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T14:08:59.560269",
-  "count": 3738,
+  "updated_at": "2026-11-19T15:07:56.126185",
+  "count": 3740,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -125024,6 +125024,69 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "Suite in North Berkeley, 2 min to Cal (Utilities Inc.) Looking for a unique living space near UC Berkeley? This",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1420651546501755",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 2900,
+      "neighborhood": "Emeryville",
+      "area": "East Bay",
+      "available_from": "2026-12-02",
+      "available_until": "2027-01-14",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "equipped_kitchen",
+        "free_shuttle_to_bart",
+        "near_bus_stop"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1420651546501755",
+      "posted_at": "Thursday 19 November 2026 at 15:01",
+      "first_scraped_at": "2026-11-19T23:00:06.581026+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "a fully furnished 1b1b for $2900/month in emeryville available from Dec 2, 2026 to Jan 14, 2027. Comes with a",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1420632559836987",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Southside Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2027-05-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "kitchen_supplies"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1420632559836987",
+      "posted_at": "Thursday 19 November 2026 at 14:29",
+      "first_scraped_at": "2026-11-19T23:00:06.581026+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Spring Sublease in Berkeley! Hey everyone! I\u2019m looking for someone to take over my room from mid-December to May 31st.",
+      "group_id": "558742412692677"
     }
   ]
 }
