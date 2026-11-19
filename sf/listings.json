@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T13:09:07.647233",
-  "count": 3737,
+  "updated_at": "2026-11-19T14:08:59.560269",
+  "count": 3738,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -124990,6 +124990,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking for one female to take over a single w spacious closet in an all-girl apartment next to Willard Park",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2805227166539754",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1850,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-06",
+      "available_until": "2027-08-15",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "private_entrance",
+        "in_unit_laundry",
+        "gig_wifi",
+        "community_garden",
+        "shared_kitchen"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Professional male",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2805227166539754",
+      "posted_at": "Thursday 19 November 2026 at 14:01",
+      "first_scraped_at": "2026-11-19T22:00:07.261775+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Suite in North Berkeley, 2 min to Cal (Utilities Inc.) Looking for a unique living space near UC Berkeley? This",
+      "group_id": "128476910881473"
     }
   ]
 }
