@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T20:08:12.400112",
-  "count": 3721,
+  "updated_at": "2026-11-18T21:08:32.340668",
+  "count": 3722,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -124420,6 +124420,43 @@
       "first_scraped_at": "2026-11-19T04:00:07.569308+00:00",
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "in San Jose 1 room available with 3 housemates, 90 sqft room, 4 bedroom, 2 baths home in San Jose,",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4426566787654072",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 4450,
+      "neighborhood": "Sunnyvale",
+      "area": "South Bay",
+      "available_from": "2026-12-10",
+      "available_until": "2027-05-29",
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "gym",
+        "resident_lounge",
+        "courtyard",
+        "bbq_grills",
+        "package_receiving",
+        "on_site_management",
+        "maintenance",
+        "parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": "481 on Mathilda",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4426566787654072",
+      "posted_at": "Wednesday 18 November 2026 at 20:54",
+      "first_scraped_at": "2026-11-19T05:00:04.857971+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "2 Bed 2 Bath Apartment in Downtown Sunnyvale $4,450/Month for Entire Unit Approx. 16% Below Current Community Rates Walk to",
       "group_id": "1511607562483357"
     }
   ]

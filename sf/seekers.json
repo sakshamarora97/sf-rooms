@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T20:08:12.400112",
-  "count": 3747,
+  "updated_at": "2026-11-18T21:08:32.340668",
+  "count": 3750,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119468,6 +119468,104 @@
       "first_scraped_at": "2026-11-19T04:00:07.569308+00:00",
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "to take over an existing lease or sublease a 1 bed 1 bath apartment. Move-in: Flexible (anytime in December) Locations:",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1419923479907895",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "private room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 22,
+      "bio": "Exchange master's student in computer science from Norway, easygoing, tidy, considerate of shared spaces; sociable but values quiet time.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1419923479907895",
+      "posted_at": "Wednesday 18 November 2026 at 21:00",
+      "first_scraped_at": "2026-11-19T05:00:04.857971+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a room near UC Berkeley for Spring 2027. Looking for a furnished private room in a shared apartment,",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4425226961121388",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-25",
+      "move_out_date": "2027-07-09",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "shared_room",
+        "sublet",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 25,
+      "bio": "25-year-old PhD student in Statistics for Finance relocating to San Jose for a research visit at SJSU from Jan\u2013Jul 2027. Friendly, respectful, experienced with roommates and seeking a private room (open to shared/sublets).",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4425226961121388",
+      "posted_at": "Wednesday 18 November 2026 at 20:54",
+      "first_scraped_at": "2026-11-19T05:00:04.857971+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "room in San Jose Jan Jul 2027 Hi everyone! I'm a 25-year-old PhD student in Statistics for Finance at Sapienza",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4425710534406364",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2250,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "SoMa",
+        "Dogpatch",
+        "Potrero Hill",
+        "San Mateo",
+        "Redwood City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "he/they; any gender or sexual orientation welcome; pets OK (especially dogs)",
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old, he/they, quiet tech worker who enjoys cooking, games, photography, and ultimate frisbee. Night owl who works late during weekdays and spends weekends exploring the city with a partner.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4425710534406364",
+      "posted_at": "Wednesday 18 November 2026 at 20:53",
+      "first_scraped_at": "2026-11-19T05:00:04.857971+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "moving from the Northeast to the Bay Area for a new job, and I\u2019m looking for roommates! A bit about",
       "group_id": "1511607562483357"
     }
   ]
