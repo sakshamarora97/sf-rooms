@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T21:08:32.340668",
-  "count": 3722,
+  "updated_at": "2026-11-18T22:08:21.263759",
+  "count": 3723,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -124458,6 +124458,40 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "2 Bed 2 Bath Apartment in Downtown Sunnyvale $4,450/Month for Entire Unit Approx. 16% Below Current Community Rates Walk to",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1419934843240092",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1350,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "dishwasher",
+        "storage_shed",
+        "in_unit_laundry",
+        "parking",
+        "two_fridges"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1419934843240092",
+      "posted_at": "Wednesday 18 November 2026 at 21:20",
+      "first_scraped_at": "2026-11-19T06:00:07.544815+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "SUBLET $1350/Mo CLOSE TO CAMPUS WITH PARKING Single Bedroom, 1350 rent, walking distance to campus!! (dishwasher, storage shed, free in-unit",
+      "group_id": "558742412692677"
     }
   ]
 }

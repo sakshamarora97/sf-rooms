@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T21:08:32.340668",
-  "count": 3750,
+  "updated_at": "2026-11-18T22:08:21.263759",
+  "count": 3752,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119567,6 +119567,70 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "moving from the Northeast to the Bay Area for a new job, and I\u2019m looking for roommates! A bit about",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2067150493976522",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Guy; has a cat",
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old relocating from New Jersey to work as a Clinical Research Coordinator at UCSF and planning to apply to medical school. He enjoys working out, hiking, board/video games, movies, and socializing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2067150493976522",
+      "posted_at": "Wednesday 18 November 2026 at 21:11",
+      "first_scraped_at": "2026-11-19T06:00:07.544815+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "meet you. My name is Jay, I\u2019m a 24-year-old guy relocating from NJ and looking for a place to share",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2067040590654179",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "North Beach",
+        "Haight-Ashbury",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "24-year-old; wants girls in their 20s or early 30s",
+      "reason": "relocation",
+      "age": 24,
+      "bio": "24-year-old PR professional relocating from Oakland to San Francisco; hybrid work schedule (WFH Mon/Fri), morning person who lifts and is learning French.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2067040590654179",
+      "posted_at": "Wednesday 18 November 2026 at 18:22",
+      "first_scraped_at": "2026-11-19T06:00:07.544815+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Thelma, 24, and I\u2019m looking to move to SF at the end of December or beginning of January! I currently",
+      "group_id": "242765489748374"
     }
   ]
 }
