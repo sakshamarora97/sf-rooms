@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-19T14:17:42.920152",
-  "count": 1158,
+  "updated_at": "2026-11-19T15:18:44.498964",
+  "count": 1160,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36069,6 +36069,74 @@
       "first_scraped_at": "2026-11-19T22:09:04.849488+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "looking for a Studio or 1 Bdr mis January to Mid April but i\u2019m flexible. Work location: near Apple Fifth",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2283373835560744",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Long Island City",
+        "Financial District",
+        "Chelsea",
+        "Hell's Kitchen",
+        "Hudson Yards",
+        "East Village"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 19,
+      "bio": "19-year-old full-time employee moving to NYC; clean, respectful, easy-going roommate open to short-term or long-term options.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2283373835560744",
+      "posted_at": "Thursday 19 November 2026 at 14:26",
+      "first_scraped_at": "2026-11-19T23:08:01.048911+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Sublet Hi, I'm Ethan, I'm 19 and moving to NYC around the end of December/start of January. Looking for a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2283369502227844",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "2BR",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Two people; has a cat and a dog",
+      "reason": null,
+      "age": null,
+      "bio": "Two employed, financially stable roommates seeking a 2BR in Brooklyn or Queens. One has a mellow tabby cat; the other has an older Irish Setter.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2283369502227844",
+      "posted_at": "Thursday 19 November 2026 at 14:18",
+      "first_scraped_at": "2026-11-19T23:08:01.048911+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "LEASE TAKEOVER OR SUBLET ASAP Looking for a 2-bedroom apartment or two open rooms to fill. We are open to",
       "group_id": "149460102285472"
     }
   ]
