@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T22:08:21.263759",
-  "count": 3752,
+  "updated_at": "2026-11-19T06:07:12.879926",
+  "count": 3755,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119631,6 +119631,96 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Thelma, 24, and I\u2019m looking to move to SF at the end of December or beginning of January! I currently",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1420216446545265",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Student from Oslo attending UC Berkeley spring semester; active, enjoys working out, running, and seeks a social but respectful student household.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1420216446545265",
+      "posted_at": "Thursday 19 November 2026 at 04:30",
+      "first_scraped_at": "2026-11-19T14:00:07.241889+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "name is Mats, and I\u2019m a student from Oslo, Norway, planning to spend the spring semester at UC Berkeley. I\u2019m",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1419870343246542",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-13",
+      "move_out_date": "2027-05-09",
+      "budget_min": 1200,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "A medical doctor from Colombia working on improving their English. Responsible, clean, respectful, easygoing; enjoys movies, museums, hiking, and socializing.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1419870343246542",
+      "posted_at": "Wednesday 18 November 2026 at 19:31",
+      "first_scraped_at": "2026-11-19T14:00:07.241889+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Mariana, originally from Colombia, and I\u2019m currently living in the Berkeley area. I\u2019m a medical doctor in Colombia and I\u2019m",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4426856084291809",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Fremont"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Married couple; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "A clean, quiet married couple; vegetarian, non-smoking, very tidy and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4426856084291809",
+      "posted_at": "Thursday 19 November 2026 at 02:46",
+      "first_scraped_at": "2026-11-19T14:00:07.241889+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "in a 2B2B Apartment Near Fremont Hub Hi! We are a clean, quiet married couple looking for a private bedroom",
+      "group_id": "1511607562483357"
     }
   ]
 }
