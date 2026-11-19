@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T08:07:54.576936",
-  "count": 3760,
+  "updated_at": "2026-11-19T09:07:22.562791",
+  "count": 3761,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119873,6 +119873,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "room to rent, $1600 budget. 29yo single male with no pets Professional chef, not home much, with two jobs, not",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1420418779858365",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Hayward",
+        "Union City"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old who is clean, responsible and easygoing. Enjoys a mix of going out and staying in, outdoor activities, movies and thrifting.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1420418779858365",
+      "posted_at": "Thursday 19 November 2026 at 08:44",
+      "first_scraped_at": "2026-11-19T17:00:08.320516+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "an existing lease! hi everyone! my name is trisha, i\u2019m 22, and i\u2019m looking to join an existing lease anywhere",
+      "group_id": "558742412692677"
     }
   ]
 }
