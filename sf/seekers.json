@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T10:06:45.401160",
-  "count": 3764,
+  "updated_at": "2026-11-19T11:06:08.030541",
+  "count": 3765,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120007,6 +120007,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "or sublease for September 2027 Hi everyone, my name is Lilly. I am 22 and moving from Atlanta, GA to",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1420505096516400",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Incoming PhD student relocating to Berkeley in fall 2027; seeking a private 1B1B within walking or bus distance to campus, budget up to $3000/month.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1420505096516400",
+      "posted_at": "Thursday 19 November 2026 at 10:51",
+      "first_scraped_at": "2026-11-19T19:00:07.103766+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for fall 2027 I will be moving to Berkeley in the fall of 2027 to start my PhD. I am",
+      "group_id": "558742412692677"
     }
   ]
 }
