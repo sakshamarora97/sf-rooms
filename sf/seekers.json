@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-18T19:06:40.411298",
-  "count": 3744,
+  "updated_at": "2026-11-18T20:08:12.400112",
+  "count": 3747,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -119377,6 +119377,98 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "flatmate (25M) and I (24M) are looking for a 2bed in SF, ideally moving in around January 2027. We both",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4791895427712126",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Civic Center"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old middle school engineering/robotics teacher transitioning to technical communication. Active and social; enjoys volleyball, concerts, hiking, dancing, roller skating, music, and hosts board game nights.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4791895427712126",
+      "posted_at": "Wednesday 18 November 2026 at 18:43",
+      "first_scraped_at": "2026-11-19T04:00:07.569308+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Wade, I'm 28 and working as a middle school teacher. I'm looking for a roommate to join in on a",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4426571104320307",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a community-focused home; loves cooking, creative projects, outdoors, and learning. Enjoys chess, piano, dancing, improv, and watercolor; values emotionally intelligent, easygoing housemates.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4426571104320307",
+      "posted_at": "Wednesday 18 November 2026 at 19:07",
+      "first_scraped_at": "2026-11-19T04:00:07.569308+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "to start a community home in the east bay, and would love to look with someone who shares similar values",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4426572120986872",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Palo Alto",
+        "Mountain View",
+        "Redwood City",
+        "North San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4426572120986872",
+      "posted_at": "Wednesday 18 November 2026 at 19:07",
+      "first_scraped_at": "2026-11-19T04:00:07.569308+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "to take over an existing lease or sublease a 1 bed 1 bath apartment. Move-in: Flexible (anytime in December) Locations:",
+      "group_id": "1511607562483357"
     }
   ]
 }
