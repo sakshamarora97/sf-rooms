@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-19T10:16:27.269806",
-  "count": 1150,
+  "updated_at": "2026-11-19T11:23:33.277452",
+  "count": 1151,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -35827,6 +35827,38 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "for a girl Looking for private room for a girl with attached washroom near 07006 area code New Jersey",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2283163262248468",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-01-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "2BR",
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": null,
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Student; good with pets",
+      "reason": "student",
+      "age": null,
+      "bio": "Graduate student at Columbia finishing soon; active (training for the marathon), enjoys museums, travel, and coffee; good with pets and experienced with roommates; values communication and cleanliness.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2283163262248468",
+      "posted_at": "Thursday 19 November 2026 at 09:17",
+      "first_scraped_at": "2026-11-19T19:06:12.884075+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "long term sublet 1/1 31/6 (or longer) Hey everyone! I'm Tyra. I'm looking for a place to sublet in Manhattan",
+      "group_id": "149460102285472"
     }
   ]
 }
