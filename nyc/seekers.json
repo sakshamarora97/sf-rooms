@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-19T12:21:02.835704",
-  "count": 1155,
+  "updated_at": "2026-11-19T13:18:18.327149",
+  "count": 1157,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -35982,6 +35982,65 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "from Jan 1 to May 31!! Budget: 1000-1500$ Location: Manhattan, Brooklyn, West-Harlem Hello my name is Jacob I am a",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2283209435577184",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-31",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Ridgewood"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Easygoing creative; any gender welcome",
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old from the DC area into music, DJing, vinyl and reading; social, creative, easygoing, clean, communicative, seeking roommates and academic/editorial work in NYC.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2283209435577184",
+      "posted_at": "Thursday 19 November 2026 at 10:20",
+      "first_scraped_at": "2026-11-19T21:09:13.632642+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "look for places in Bushwick/Ridgewood Hi hi! I\u2019m Kyson and I\u2019m looking for 2-3 people to apartment hunt with in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29039353669067443",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Incoming undergraduate; wants female roommates",
+      "reason": "student",
+      "age": null,
+      "bio": "Incoming undergraduate student starting Spring 2027 at Caldwell University seeking a budget-friendly private bedroom near campus; prefers female roommates and would prefer a furnished room.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29039353669067443",
+      "posted_at": "Thursday 19 November 2026 at 12:58",
+      "first_scraped_at": "2026-11-19T21:09:13.632642+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "an incoming undergraduate student at Caldwell University for Spring 2027, and I'm currently looking for accommodation near campus. I'm looking",
+      "group_id": "765841576845364"
     }
   ]
 }
