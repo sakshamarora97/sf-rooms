@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-19T13:18:18.327149",
-  "count": 1157,
+  "updated_at": "2026-11-19T14:17:42.920152",
+  "count": 1158,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36041,6 +36041,35 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "an incoming undergraduate student at Caldwell University for Spring 2027, and I'm currently looking for accommodation near campus. I'm looking",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2283039475594180",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a studio or 1BR mid-January to mid-April (flexible); works near Apple Fifth Avenue and wants \u226440-minute public-transit commute.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2283039475594180",
+      "posted_at": "Thursday 19 November 2026 at 06:47",
+      "first_scraped_at": "2026-11-19T22:09:04.849488+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a Studio or 1 Bdr mis January to Mid April but i\u2019m flexible. Work location: near Apple Fifth",
+      "group_id": "149460102285472"
     }
   ]
 }
