@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-20T06:51:50.610571",
-  "count": 1177,
+  "updated_at": "2026-11-20T08:21:01.287328",
+  "count": 1179,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36660,6 +36660,70 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "UES apartment (4 month sublet) Date: Jan 1 2027 April 2027 (option to renew) Rent $1950 IN unit washer dryer",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2283802748851186",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-15",
+      "move_out_date": "2027-07-15",
+      "budget_min": 800,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyside",
+        "Woodside",
+        "Astoria",
+        "Harlem"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "internship",
+      "age": 28,
+      "bio": "28-year-old PhD student currently in Portugal, moving to New York for a six-month internship at the United Nations. Friendly, tidy and respectful; seeking a room with good transit and preferably utilities included.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2283802748851186",
+      "posted_at": "Friday 20 November 2026 at 01:03",
+      "first_scraped_at": "2026-11-20T16:08:34.404104+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "looking for a room in NYC from mid-January to mid-July 2027 (approximately 6 months). I\u2019ll be moving to New York",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29049462314723245",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Organizer is forming a three-person group to rent a 2 bed, 2 bath apartment at The Journal in Journal Square, converting the living room into a private flex bedroom; leasing office approved.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29049462314723245",
+      "posted_at": "Friday 20 November 2026 at 07:59",
+      "first_scraped_at": "2026-11-20T16:08:34.404104+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Luxury Rental The Journal, Jersey City 3-Bed Flex Setup I\u2019m looking to put together a group of 3 people for",
+      "group_id": "765841576845364"
     }
   ]
 }
