@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T12:07:54.999579",
-  "count": 3777,
+  "updated_at": "2026-11-20T13:06:59.054807",
+  "count": 3779,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126325,6 +126325,74 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Private Bathroom for Rent San Leandro Hills! Available December 1st, 2026. $1,400/month $150 utilities $500 deposit. Furnished, private entrance, reserved",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4795011097400559",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 5495,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": "2026-12-19",
+      "available_until": null,
+      "unit_config": "2BR",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "garden"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4795011097400559",
+      "posted_at": "Friday 20 November 2026 at 12:51",
+      "first_scraped_at": "2026-11-20T21:00:06.694323+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "NOBHILL Hey everyone! I\u2019m looking for someone to take over the lease on my 2BR apartment in Nob Hill. Super",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2806386713090466",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2550,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": false,
+      "roommates_count": null,
+      "amenities": [
+        "dishwasher",
+        "fridge",
+        "stove/oven",
+        "microwave",
+        "hardwood-style floors",
+        "walk-in closet",
+        "elevator",
+        "on-site laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "University Park",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2806386713090466",
+      "posted_at": "Friday 20 November 2026 at 12:32",
+      "first_scraped_at": "2026-11-20T21:00:06.694323+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "Modern 1B/1B at University Park (1709 Shattuck Ave) Graduating this December and looking for someone to take over my lease!",
+      "group_id": "128476910881473"
     }
   ]
 }
