@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T20:10:33.323943",
-  "count": 3757,
+  "updated_at": "2026-11-19T21:08:30.901199",
+  "count": 3758,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -125654,6 +125654,40 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "JAN TO JUNE 2027 SOUTHSIDE ON 2210 DURANT AVE $1,435/MO SINGLE MUST BE FEMALE IDENTIFYING Looking for a female-identifying student",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2068105543881017",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1550,
+      "neighborhood": "Bayview",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "fully_furnished",
+        "large_living_room",
+        "windows_throughout",
+        "cooking_allowed"
+      ],
+      "utilities_included": null,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with 1 female tenant; no pets.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2068105543881017",
+      "posted_at": "Thursday 19 November 2026 at 19:57",
+      "first_scraped_at": "2026-11-20T05:00:04.273646+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "ROOMS FOR RENT SAN FRANCISCO 94124 Location: bayview/ Hudson St Avocet Way, San Francisco, CA 94124 Available Rooms: Room 1:",
+      "group_id": "242765489748374"
     }
   ]
 }
