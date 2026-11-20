@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-19T19:21:38.258071",
-  "count": 1169,
+  "updated_at": "2026-11-19T20:21:20.094985",
+  "count": 1170,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36424,6 +36424,37 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "SUBLET. 26 year old female in search of a sublet for the month of December. Max budget 2,100/month. Preferable close",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2283555285542599",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-20",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown East",
+        "Long Island City"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "He is a 27-year-old payments consultant starting a data analytics/strategy role in NYC. Active coach and advanced beach volleyball/pickleball player; easygoing and values a clean, quiet home.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2283555285542599",
+      "posted_at": "Thursday 19 November 2026 at 18:59",
+      "first_scraped_at": "2026-11-20T04:10:38.953583+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roommate to apartment hunt! My timeline: Aiming to be in NYC Dec 20th Jan 1st, slightly flexible. Searching for: Midtown",
+      "group_id": "149460102285472"
     }
   ]
 }
