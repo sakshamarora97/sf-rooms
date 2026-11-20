@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T07:09:06.908132",
-  "count": 3770,
+  "updated_at": "2026-11-20T08:08:29.635631",
+  "count": 3772,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126090,6 +126090,71 @@
       "first_scraped_at": "2026-11-20T15:00:03.655033+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "Room $2,135 1br Fully Furnished Private Room (ALL utilities and high-speed wifi Included) in a Fully Renovated and Furnished Elmwood",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4794574574110878",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 6500,
+      "neighborhood": "SoMa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-03-31",
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4794574574110878",
+      "posted_at": "Friday 20 November 2026 at 07:00",
+      "first_scraped_at": "2026-11-20T16:00:07.152450+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "my own place in SoMa I have a furnished 2 bed 1 bath in SoMa South Beach (near 4th King)",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1419721503261426",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1545,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-11",
+      "available_until": null,
+      "unit_config": "3B",
+      "room_type": "shared_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "rooftop_deck",
+        "study_rooms",
+        "balcony",
+        "attached_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "ACE Berkeley",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1419721503261426",
+      "posted_at": "Thursday 19 November 2026 at 21:54",
+      "first_scraped_at": "2026-11-20T16:00:07.152450+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "at ACE Berkeley: $1,545/month Hi everyone, I need to relet my bed in a shared room at ACE Berkeley for",
       "group_id": "558742412692677"
     }
   ]
