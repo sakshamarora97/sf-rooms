@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-20T12:16:18.712438",
-  "count": 1182,
+  "updated_at": "2026-11-20T13:16:52.584351",
+  "count": 1183,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36818,6 +36818,41 @@
       "first_scraped_at": "2026-11-20T20:08:00.483693+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "two friends and I are looking to take over a lease (or step into a lease break/reassignment) for a 3",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2284352395462888",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room",
+        "apartment",
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Bushwick"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; wants to share with good roommates; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a room or apartment in Manhattan or Brooklyn around $1,200/month. Clean, respectful, pet-free, looking long-term and available December or January.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2284352395462888",
+      "posted_at": "Friday 20 November 2026 at 12:29",
+      "first_scraped_at": "2026-11-20T21:07:04.812308+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Kyle Porter, looking for a room or apartment in Manhattan or Brooklyn, no further than Bushwick and preferably closer in.",
       "group_id": "149460102285472"
     }
   ]
