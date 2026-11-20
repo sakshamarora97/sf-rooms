@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T22:10:16.968373",
-  "count": 3784,
+  "updated_at": "2026-11-20T07:09:06.908132",
+  "count": 3786,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120658,6 +120658,73 @@
       "first_scraped_at": "2026-11-20T06:00:07.063451+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "name is anita and i'm looking for a place to sublet for a few months, preferably southside but open to",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4793891817512487",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B3B"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo",
+        "Redwood City",
+        "San Carlos",
+        "Belmont",
+        "Menlo Park",
+        "Palo Alto",
+        "Mountain View",
+        "Sunnyvale"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Recent graduate; wants female roommates",
+      "reason": "new_job",
+      "age": 24,
+      "bio": "Recent graduate starting a full-time job in January; friendly, clean, considerate, and easygoing, commuting to Menlo Park without a car.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4793891817512487",
+      "posted_at": "Thursday 19 November 2026 at 22:18",
+      "first_scraped_at": "2026-11-20T15:00:03.655033+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Private Bedroom Private Bathroom Bay Area Jan 2027 Hi everyone! I'm graduating from USC this December and moving to the",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1420946113138965",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1550,
+      "budget_max": 1550,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1420946113138965",
+      "posted_at": "Thursday 19 November 2026 at 22:58",
+      "first_scraped_at": "2026-11-20T15:00:03.655033+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for a spring semester sublease. My budget is $1,550/m and prefer a private bedroom. I'm open to any location as",
       "group_id": "558742412692677"
     }
   ]
