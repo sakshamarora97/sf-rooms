@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T19:09:25.126621",
-  "count": 3780,
+  "updated_at": "2026-11-19T20:10:33.323943",
+  "count": 3781,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120526,6 +120526,42 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Furnished Private Room for 2 People South Bay Dec 15 Move-in Hi everyone! My partner and I are looking for",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2068082173883354",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-05-01",
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City",
+        "South San Francisco",
+        "San Bruno",
+        "Millbrae",
+        "Bayview",
+        "Mission District"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Recently relocated from NYC and seeking a short-term furnished or unfurnished sublet or month-to-month studio/1BR; can move quickly and provide references.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2068082173883354",
+      "posted_at": "Thursday 19 November 2026 at 19:24",
+      "first_scraped_at": "2026-11-20T04:00:06.555180+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "or unfurnished short-term sublet near South SF, up to $3,000/mo, from 12/1 5/1 Hey all, I'm Sam, moving from NYC",
+      "group_id": "242765489748374"
     }
   ]
 }
