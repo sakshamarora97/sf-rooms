@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T09:08:23.272625",
-  "count": 3772,
+  "updated_at": "2026-11-20T10:08:46.480068",
+  "count": 3774,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126156,6 +126156,66 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "at ACE Berkeley: $1,545/month Hi everyone, I need to relet my bed in a shared room at ACE Berkeley for",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4794790044089331",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1700,
+      "neighborhood": "San Mateo",
+      "area": "The Peninsula",
+      "available_from": "2026-11-24",
+      "available_until": "2027-01-03",
+      "unit_config": "4B4B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "parking",
+        "backyard",
+        "private_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4794790044089331",
+      "posted_at": "Friday 20 November 2026 at 09:27",
+      "first_scraped_at": "2026-11-20T18:00:04.431575+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Sublease in San Mateo Nov 24 to Jan 3 Hey everyone! I\u2019m looking to sublease my spacious, fully furnished room",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2068728003818771",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1300,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2068728003818771",
+      "posted_at": "Friday 20 November 2026 at 09:08",
+      "first_scraped_at": "2026-11-20T18:00:04.431575+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "sublet Hi all, I have a spacious, fully furnished one bedroom apartment available for sublet starting mid December thru mid",
+      "group_id": "242765489748374"
     }
   ]
 }

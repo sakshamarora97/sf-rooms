@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T09:08:23.272625",
-  "count": 3788,
+  "updated_at": "2026-11-20T10:08:46.480068",
+  "count": 3789,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120787,6 +120787,38 @@
       "first_scraped_at": "2026-11-20T17:00:04.375495+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "for a room or two to rent About us: we have flexible schedules and we won\u2019t be at the apartment",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2068734543818117",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Western Addition",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2068734543818117",
+      "posted_at": "Friday 20 November 2026 at 09:15",
+      "first_scraped_at": "2026-11-20T18:00:04.431575+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "in San Francisco December Move-in Hi everyone! I\u2019m looking for accommodation in San Francisco, preferably around Mission District, Fillmore District,",
       "group_id": "242765489748374"
     }
   ]
