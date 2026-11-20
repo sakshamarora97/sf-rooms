@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T14:07:57.172058",
-  "count": 3782,
+  "updated_at": "2026-11-20T15:08:19.929925",
+  "count": 3784,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126497,6 +126497,72 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Takeover Less Than 5 Minutes from UC Berkeley Hi everyone! I'm looking for 1 female-identifying student to take over my",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "29210578678599409",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Sunset District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "street_parking",
+        "full_kitchen",
+        "walk_in_closet",
+        "dining_room",
+        "large_living_room"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29210578678599409",
+      "posted_at": "Friday 20 November 2026 at 14:04",
+      "first_scraped_at": "2026-11-20T23:00:06.612126+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "clean, respectful roommate to join a beautiful, light-filled 2BR 1.5BA apartment right on Judah St in the heart of the",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29210106388646638",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1350,
+      "neighborhood": "Palo Alto",
+      "area": "The Peninsula",
+      "available_from": "2026-12-07",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "street_parking",
+        "car_charging",
+        "hot_tub"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with 3 dudes; wants someone in their 20s, gender not required; one dog present, no other pets",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29210106388646638",
+      "posted_at": "Friday 20 November 2026 at 13:55",
+      "first_scraped_at": "2026-11-20T23:00:06.612126+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "a room opening up Dec 7th in a 4 bed 2 bath spot in Palo Alto. Rent is around 1350ish",
+      "group_id": "843764532374203"
     }
   ]
 }
