@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T15:07:56.126185",
-  "count": 3775,
+  "updated_at": "2026-11-19T16:08:13.429359",
+  "count": 3778,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120359,6 +120359,108 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "South SF Peninsula Bay Area Jan\u2013July 2027 Posting on behalf of a friend! Hi everyone! I'm a 24F moving to",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4793394034228932",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "San Leandro"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "MBA graduate from USF starting a new job in San Leandro. Easygoing, considerate, and fun-loving; social but respects others' space.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4793394034228932",
+      "posted_at": "Thursday 19 November 2026 at 15:36",
+      "first_scraped_at": "2026-11-20T00:00:04.049559+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Sumedha I graduated with my MBA from USF this year and am starting a new job in San Leandro. I\u2019m",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4793295650905437",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-15",
+      "move_out_date": null,
+      "budget_min": 1300,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District",
+        "Parkside",
+        "Inner Sunset",
+        "Outer Sunset",
+        "Richmond District",
+        "West Portal",
+        "Glen Park",
+        "Noe Valley",
+        "Ingleside"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Full-time SFSU student who also works; busy and usually at school or work. Has a 3-year-old daughter who stays Monday\u2013Thursday; clean, responsible, and quiet.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4793295650905437",
+      "posted_at": "Thursday 19 November 2026 at 14:06",
+      "first_scraped_at": "2026-11-20T00:00:04.049559+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a room or studio in San Francisco with a move-in date around January 15th. My budget is $1,300\u2013$1,600/month.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2067902360568002",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "house"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 27,
+      "bio": "27-year-old SDSU graduate working in big-tech marketing, currently commuting to San Jose. Clean, tidy, easygoing; enjoys surfing, cycling, climbing, motorcycles and guitar.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2067902360568002",
+      "posted_at": "Thursday 19 November 2026 at 14:50",
+      "first_scraped_at": "2026-11-20T00:00:04.049559+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room Roommates budget 2 to 3k Looking to move in late Nov early Dec. A little about me: 27, SDSU",
+      "group_id": "242765489748374"
     }
   ]
 }

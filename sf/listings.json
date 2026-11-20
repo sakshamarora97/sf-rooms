@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T15:07:56.126185",
-  "count": 3740,
+  "updated_at": "2026-11-19T16:08:13.429359",
+  "count": 3741,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -125087,6 +125087,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Spring Sublease in Berkeley! Hey everyone! I\u2019m looking for someone to take over my room from mid-December to May 31st.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2067843670573871",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1475,
+      "neighborhood": "Union Square",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "walk_in_closet",
+        "washer_dryer_in_building"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 1 woman",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2067843670573871",
+      "posted_at": "Thursday 19 November 2026 at 13:07",
+      "first_scraped_at": "2026-11-20T00:00:04.049559+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for 1 person to take over my room in a 2 bed 1 bath apartment at 815 Bush St",
+      "group_id": "242765489748374"
     }
   ]
 }
