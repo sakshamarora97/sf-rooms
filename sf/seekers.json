@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T11:07:34.377920",
-  "count": 3789,
+  "updated_at": "2026-11-20T12:07:54.999579",
+  "count": 3790,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120819,6 +120819,38 @@
       "first_scraped_at": "2026-11-20T18:00:04.431575+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "in San Francisco December Move-in Hi everyone! I\u2019m looking for accommodation in San Francisco, preferably around Mission District, Fillmore District,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2068818927143012",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Mission District",
+        "Hayes Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "No pets",
+      "reason": "new_job",
+      "age": 21,
+      "bio": "They are clean, respectful, and a non-smoker with no pets; active (basketball, lifting, spikeball) and enjoys board game nights.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2068818927143012",
+      "posted_at": "Friday 20 November 2026 at 11:08",
+      "first_scraped_at": "2026-11-20T20:00:06.624589+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Tejas (21), and I just started a new job in SoMa, so I'm looking for a place in the city.",
       "group_id": "242765489748374"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T11:07:34.377920",
-  "count": 3775,
+  "updated_at": "2026-11-20T12:07:54.999579",
+  "count": 3777,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126256,6 +126256,75 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "Sublet Available December 16 to January 10 in the Beacon (260 King Street). The price is prorated cost of the",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2068782430479995",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Lower Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-12-05",
+      "available_until": "2027-01-10",
+      "unit_config": "2B2.5B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "fully_equipped_kitchen",
+        "private_bath",
+        "views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 1 roommate; prefers a female subletter",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2068782430479995",
+      "posted_at": "Friday 20 November 2026 at 10:17",
+      "first_scraped_at": "2026-11-20T20:00:06.624589+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "private bath Lower Pac Heights Dec 5\u2013Jan 10 Hi! I\u2019m subletting my furnished bedroom with a private en-suite bathroom in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1421529489747294",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1400,
+      "neighborhood": "San Leandro",
+      "area": "East Bay",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "private_entrance",
+        "reserved_parking",
+        "kitchen_access",
+        "wifi",
+        "laundry",
+        "patio",
+        "hill_views"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": null,
+      "prefs_notes": "Lives with 1 female tenant; Female only",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1421529489747294",
+      "posted_at": "Friday 20 November 2026 at 11:51",
+      "first_scraped_at": "2026-11-20T20:00:06.624589+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Private Bathroom for Rent San Leandro Hills! Available December 1st, 2026. $1,400/month $150 utilities $500 deposit. Furnished, private entrance, reserved",
+      "group_id": "558742412692677"
     }
   ]
 }
