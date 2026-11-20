@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T10:08:46.480068",
-  "count": 3774,
+  "updated_at": "2026-11-20T11:07:34.377920",
+  "count": 3775,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126216,6 +126216,46 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "sublet Hi all, I have a spacious, fully furnished one bedroom apartment available for sublet starting mid December thru mid",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4794815827420086",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3900,
+      "neighborhood": "South Beach",
+      "area": "San Francisco",
+      "available_from": "2026-12-16",
+      "available_until": "2027-01-10",
+      "unit_config": "1B1B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "doorman",
+        "gym",
+        "pool",
+        "furnished",
+        "high_speed_wifi",
+        "new_appliances",
+        "private_bathroom",
+        "dedicated_desk",
+        "natural_light",
+        "quiet"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Beacon",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4794815827420086",
+      "posted_at": "Friday 20 November 2026 at 09:53",
+      "first_scraped_at": "2026-11-20T19:00:06.821039+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Sublet Available December 16 to January 10 in the Beacon (260 King Street). The price is prorated cost of the",
+      "group_id": "2176716625896699"
     }
   ]
 }
