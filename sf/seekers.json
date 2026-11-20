@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T08:08:29.635631",
-  "count": 3786,
+  "updated_at": "2026-11-20T09:08:23.272625",
+  "count": 3788,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120726,6 +120726,68 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for a spring semester sublease. My budget is $1,550/m and prefer a private bedroom. I'm open to any location as",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "29203514219305855",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City",
+        "San Bruno",
+        "Balboa Park",
+        "Glen Park",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Flight attendant who is rarely home, seeking housing within walking distance to BART for daily airport commute. Open to sharing with a coworker (combined budget $2000).",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29203514219305855",
+      "posted_at": "Friday 20 November 2026 at 08:08",
+      "first_scraped_at": "2026-11-20T17:00:04.375495+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "housing asap. rarely home. Looking for a place in daly city, san bruno balboa park, glen park, or mission district.",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2068665473825024",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Three friends with flexible schedules seeking month-to-month or semi-long-term rooms. They are clean, quiet, non-smoking, respectful, and prefer washer/dryer and proximity to the airport.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2068665473825024",
+      "posted_at": "Friday 20 November 2026 at 07:54",
+      "first_scraped_at": "2026-11-20T17:00:04.375495+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a room or two to rent About us: we have flexible schedules and we won\u2019t be at the apartment",
+      "group_id": "242765489748374"
     }
   ]
 }
