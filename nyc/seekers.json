@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-19T22:21:25.241583",
-  "count": 1171,
+  "updated_at": "2026-11-20T06:51:50.610571",
+  "count": 1177,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36485,6 +36485,181 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Room in Journal Square, Jersey City Hi everyone! A friend and I are looking for a room to rent in",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2944912095875055",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-18",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is seeking flexible accommodation in Parkside, Newport starting 2026-12-18 and requests DMs with leads.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2944912095875055",
+      "posted_at": "Thursday 19 November 2026 at 23:27",
+      "first_scraped_at": "2026-11-20T14:40:12.284995+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for flex accommodation in Parkside, Newport, starting December 18. Please DM me if you have anything available or know",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2284001958831265",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Two roommates; prefers a woman in her early-mid 20s",
+      "reason": null,
+      "age": null,
+      "bio": "Two roommates seeking a third roommate. One works in fashion and enjoys sewing, reading and socializing; the other likes cooking, hosting and crafts.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2284001958831265",
+      "posted_at": "Friday 20 November 2026 at 05:17",
+      "first_scraped_at": "2026-11-20T14:40:12.284995+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "and my roommate Lena and I are looking for a third roommate to live in a three-bedroom with us! Preferably",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2283653758866085",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Outgoing, easygoing person who enjoys playing and watching soccer and basketball, traveling, and trying restaurants. Keeps shared spaces clean and wants roommates to hang out with beyond just cohabiting.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2283653758866085",
+      "posted_at": "Thursday 19 November 2026 at 21:25",
+      "first_scraped_at": "2026-11-20T14:40:12.284995+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Utsav, moving to NYC in January and looking for roommates to apartment hunt with! A little about me: I\u2019m a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29048651448137665",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Wants 1-2 roommates; has a dog.",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old from South Jersey who recently lived in Charlotte, works in NYC, enjoys relaxing, music, and exploring new places.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29048651448137665",
+      "posted_at": "Friday 20 November 2026 at 06:43",
+      "first_scraped_at": "2026-11-20T14:40:12.284995+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "roommate in Jersey City or Hoboken near a path station. Hi I\u2019m 26 and looking for a roommate or two",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "29047396471596496",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-25",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 900,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29047396471596496",
+      "posted_at": "Friday 20 November 2026 at 04:43",
+      "first_scraped_at": "2026-11-20T14:40:12.284995+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "private room- Short term Hi everyone! I\u2019m looking for a private room near Journal Square (JSQ) PATH Station for a",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1019823700488306",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 1950,
+      "budget_max": 1950,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Upper East Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a female late 20\u2019s/early 30\u2019s",
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1019823700488306",
+      "posted_at": "Thursday 19 November 2026 at 20:38",
+      "first_scraped_at": "2026-11-20T14:40:12.284995+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "UES apartment (4 month sublet) Date: Jan 1 2027 April 2027 (option to renew) Rent $1950 IN unit washer dryer",
+      "group_id": "312692887868061"
     }
   ]
 }
