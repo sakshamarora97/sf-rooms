@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-20T10:17:01.586145",
-  "count": 1179,
+  "updated_at": "2026-11-20T11:20:25.536607",
+  "count": 1181,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36724,6 +36724,66 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Luxury Rental The Journal, Jersey City 3-Bed Flex Setup I\u2019m looking to put together a group of 3 people for",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2284291535468974",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-30",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Murray Hill"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 21,
+      "bio": "Two recent graduates moving to NYC for new jobs. One is clean, enjoys exploring the city, Pilates and social nights; the other starts a finance job and prefers a clean, peaceful apartment.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2284291535468974",
+      "posted_at": "Friday 20 November 2026 at 11:00",
+      "first_scraped_at": "2026-11-20T19:07:39.472757+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "3rd roommate in Murray hill! Hey everyone! We are looking to find a third roommate to join us in this",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2284209212143873",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "28M",
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old catering worker who pays rent on time, tidy and respectful; enjoys football, ping pong, roller skating, guitar and games.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2284209212143873",
+      "posted_at": "Friday 20 November 2026 at 09:13",
+      "first_scraped_at": "2026-11-20T19:07:39.472757+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "a room Dec 1. Trying to stay below 1300. I\u2019m happy do something that\u2018s a few months or long term;",
+      "group_id": "149460102285472"
     }
   ]
 }
