@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-19T15:18:44.498964",
-  "count": 1160,
+  "updated_at": "2026-11-19T16:19:34.335304",
+  "count": 1161,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36138,6 +36138,38 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "LEASE TAKEOVER OR SUBLET ASAP Looking for a 2-bedroom apartment or two open rooms to fill. We are open to",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1019623133841696",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 1400,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Upper West Side",
+        "Upper East Side",
+        "Hell's Kitchen"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "College student; wants female roommates 18-25",
+      "reason": "student",
+      "age": null,
+      "bio": "College student transferring to Hunter; clean, values alone time but extroverted, enjoys crafts.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1019623133841696",
+      "posted_at": "Thursday 19 November 2026 at 15:24",
+      "first_scraped_at": "2026-11-20T00:08:18.247867+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "is Carter and I am a college student looking to relocate to Manhattan from Flatbush Brooklyn starting January 1st. I",
+      "group_id": "312692887868061"
     }
   ]
 }
