@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-19T17:06:58.930178",
-  "count": 3778,
+  "updated_at": "2026-11-19T18:08:52.566751",
+  "count": 3779,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120460,6 +120460,37 @@
       "first_scraped_at": "2026-11-20T00:00:04.049559+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room Roommates budget 2 to 3k Looking to move in late Nov early Dec. A little about me: 27, SDSU",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2067906203900951",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-02",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Richmond District",
+        "Outer Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Recent graduate engineer from Ireland seeking a fully furnished room in a shared house in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2067906203900951",
+      "posted_at": "Thursday 19 November 2026 at 14:57",
+      "first_scraped_at": "2026-11-20T02:00:03.522976+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Dominic Laterza, I am a recent graduate engineer from Ireland on the search for accommodation in the San",
       "group_id": "242765489748374"
     }
   ]
