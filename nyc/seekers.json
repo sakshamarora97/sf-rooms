@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-21T08:25:37.480491",
-  "count": 1190,
+  "updated_at": "2026-11-21T10:20:43.406268",
+  "count": 1192,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -37074,6 +37074,70 @@
       "first_scraped_at": "2026-11-21T16:07:10.226841+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Looking for a short-term place to stay/sublet for about a month, 23 Nov -15 Jan near Grove/Newport. Male working professional",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2285260555372072",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-15",
+      "move_out_date": null,
+      "budget_min": 1600,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Queens",
+        "Brooklyn"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 27,
+      "bio": "27-year-old moving back to the U.S. after two years abroad; enjoys live events, exploring the city and shopping; chill, laid-back roommate.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2285260555372072",
+      "posted_at": "Saturday 21 November 2026 at 08:52",
+      "first_scraped_at": "2026-11-21T18:06:30.067726+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet for December Hii! My name is Ari, and I\u2019m looking for a sublet. Move-in: Mid-December (ideally a sublet from",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29058686833800793",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": null,
+      "age": null,
+      "bio": "Works in tech and seeks a calm, respectful, collaborative household. Keeps common areas clean, values privacy, and is not comfortable with vegetarian-only households.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29058686833800793",
+      "posted_at": "Saturday 21 November 2026 at 02:20",
+      "first_scraped_at": "2026-11-21T18:06:30.067726+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "or studio or 1b with rent ~1k I\u2019m interested in the following options Studio/1b1b entire apartment (Preferred) Roommates to find",
       "group_id": "765841576845364"
     }
   ]
