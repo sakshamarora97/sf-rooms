@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T07:07:01.298417",
-  "count": 3799,
+  "updated_at": "2026-11-21T08:07:04.037223",
+  "count": 3800,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121130,6 +121130,37 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking to move to San Francisco at the beginning of February. I am looking for a female roommate. Interested in",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4795914473976888",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "Japantown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two people looking for a 2-bedroom apartment near Downtown or Japantown.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4795914473976888",
+      "posted_at": "Saturday 21 November 2026 at 00:03",
+      "first_scraped_at": "2026-11-21T16:00:07.383994+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "bedroom apartment near downtown My friend and I is looking for a 2 bedroom apartment near Downtown or Japan Town",
+      "group_id": "2176716625896699"
     }
   ]
 }
