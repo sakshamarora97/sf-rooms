@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T12:06:01.625456",
-  "count": 3806,
+  "updated_at": "2026-11-21T13:05:37.817201",
+  "count": 3808,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -127291,6 +127291,73 @@
       "first_scraped_at": "2026-11-21T20:00:03.701017+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for someone to sublet my private bedroom and attached bathroom in a spacious 3B2B apartment at Spruce Apartments in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2069920853699486",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 4300,
+      "neighborhood": "Rincon Hill",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2027-01-09",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "pool",
+        "hot_tub",
+        "gym",
+        "bay_view"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2069920853699486",
+      "posted_at": "Saturday 21 November 2026 at 12:45",
+      "first_scraped_at": "2026-11-21T21:00:05.763291+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "at 399 Fremont (Rincon Hill), Dec 1 to Jan 9. $4,300/mo, prorated, so around $5.5k total. It's a studio on",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2069743143717257",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 1600,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2027-01-01",
+      "available_until": "2027-05-31",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": null,
+      "roommates_count": 0,
+      "amenities": [
+        "private_bedroom",
+        "private_bathroom",
+        "kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2069743143717257",
+      "posted_at": "Saturday 21 November 2026 at 08:31",
+      "first_scraped_at": "2026-11-21T21:00:05.763291+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "offer. January May $1600 Studio, Private bed bathroom and kitchen. Located in the Mission. See more",
       "group_id": "242765489748374"
     }
   ]

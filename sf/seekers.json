@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T12:06:01.625456",
-  "count": 3804,
+  "updated_at": "2026-11-21T13:05:37.817201",
+  "count": 3805,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121294,6 +121294,38 @@
       "first_scraped_at": "2026-11-21T20:00:03.701017+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "friend and I are apartment hunting and looking for 1\u20132 more roommates to join us on a lease starting January",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2069887723702799",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-15",
+      "move_out_date": "2027-01-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Union Square",
+        "Chinatown"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Two tech workers visiting San Francisco to network in the startup community and explore opportunities; seeking a short-term shared room near SoMa, Union Square, or Chinatown.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2069887723702799",
+      "posted_at": "Saturday 21 November 2026 at 11:50",
+      "first_scraped_at": "2026-11-21T21:00:05.763291+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "friend and I will be in San Francisco January 15\u201330 and are looking for a short-term stay for two near",
       "group_id": "242765489748374"
     }
   ]
