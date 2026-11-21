@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T08:07:04.037223",
-  "count": 3800,
+  "updated_at": "2026-11-21T09:07:38.035466",
+  "count": 3801,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121160,6 +121160,46 @@
       "first_scraped_at": "2026-11-21T16:00:07.383994+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "bedroom apartment near downtown My friend and I is looking for a 2 bedroom apartment near Downtown or Japan Town",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4796642357237433",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Western Addition",
+        "San Mateo",
+        "Burlingame",
+        "Foster City",
+        "Belmont",
+        "South San Francisco",
+        "San Bruno",
+        "Millbrae",
+        "Redwood City"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a roommate to share a 2-bedroom or a room; flexible on private or shared bathroom; move-in during first week of December.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4796642357237433",
+      "posted_at": "Saturday 21 November 2026 at 07:47",
+      "first_scraped_at": "2026-11-21T17:00:06.694345+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "in San Francisco December Move-in Hi everyone I\u2019m Srija, I'm looking for a roommate to team up and rent a",
       "group_id": "2176716625896699"
     }
   ]
