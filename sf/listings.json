@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T15:08:19.929925",
-  "count": 3784,
+  "updated_at": "2026-11-20T16:07:18.053046",
+  "count": 3786,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126563,6 +126563,72 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "a room opening up Dec 7th in a 4 bed 2 bath spot in Palo Alto. Rent is around 1350ish",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4795239577377711",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 3250,
+      "neighborhood": "Pacific Heights",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2027-07-01",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 1,
+      "amenities": [
+        "roof_deck",
+        "views",
+        "shared_laundry",
+        "furnished",
+        "near_transit",
+        "walkable_to_grocery"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4795239577377711",
+      "posted_at": "Friday 20 November 2026 at 15:41",
+      "first_scraped_at": "2026-11-21T00:00:07.428852+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a kind, clean, and communicative person to be my new roommate in a stunning apartment with views in Pacific Heights!",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4795217997379869",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2300,
+      "neighborhood": "NoPa",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "in_unit_laundry",
+        "shared_kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4795217997379869",
+      "posted_at": "Friday 20 November 2026 at 15:25",
+      "first_scraped_at": "2026-11-21T00:00:07.428852+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to fill a room in our house (3 BR 1 bath) in NOPA. 2.3k a month (Plus 2.3k security deposit).",
+      "group_id": "2176716625896699"
     }
   ]
 }
