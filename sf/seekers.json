@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T16:07:18.053046",
-  "count": 3791,
+  "updated_at": "2026-11-20T17:09:20.643124",
+  "count": 3792,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120878,6 +120878,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "is Brielle, 26, Bay Area native (the peninsula) who just moved back after living in San Diego the last two",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1421693109730932",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 6,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Group of 6 seniors; wants 4-5 girls",
+      "reason": "student",
+      "age": null,
+      "bio": "Part of a six-person group of seniors seeking 4\u20135 female housemates to fill a 10-bedroom house on Southside for the 2026\u201327 school year.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1421693109730932",
+      "posted_at": "Friday 20 November 2026 at 16:40",
+      "first_scraped_at": "2026-11-21T01:00:07.019777+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "and I are looking for 4-5 more girls to fill a 10-bedroom house on Southside for the 2026-27 school year.",
+      "group_id": "558742412692677"
     }
   ]
 }
