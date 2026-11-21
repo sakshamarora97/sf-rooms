@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T22:08:51.495784",
-  "count": 3797,
+  "updated_at": "2026-11-21T06:09:06.442221",
+  "count": 3799,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121063,6 +121063,73 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "sublet/month-to-month private room Hello, I am urgently looking for a private room in Oakland/Berkeley with a move in date as",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4429687707341980",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City",
+        "Redwood City",
+        "San Mateo",
+        "Burlingame",
+        "Belmont"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recently moved to the Bay Area for work in Foster City; seeking a private room in Foster City, Redwood City, San Mateo, Burlingame, or Belmont.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4429687707341980",
+      "posted_at": "Saturday 21 November 2026 at 02:35",
+      "first_scraped_at": "2026-11-21T14:00:06.305378+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "recently moved to the Bay Area and will be working out of Foster City. Looking for a private room, prefereably",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4429603030683781",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Nob Hill",
+        "Russian Hill",
+        "Lower Haight"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Graduate student; wants female roommate; has a bulldog.",
+      "reason": "student",
+      "age": null,
+      "bio": "Graduate student from UIUC finishing in December who likes hiking, running, and hanging out with friends. Bringing a friendly, house-trained bulldog.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4429603030683781",
+      "posted_at": "Saturday 21 November 2026 at 02:35",
+      "first_scraped_at": "2026-11-21T14:00:06.305378+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking to move to San Francisco at the beginning of February. I am looking for a female roommate. Interested in",
+      "group_id": "1511607562483357"
     }
   ]
 }
