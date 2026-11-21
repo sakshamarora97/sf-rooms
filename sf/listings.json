@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T10:06:24.712769",
-  "count": 3804,
+  "updated_at": "2026-11-21T11:06:23.871269",
+  "count": 3805,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -127227,6 +127227,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Short-term Rental Luxury Apartment, 8-Minute Walk to UCB [Short-term Rental/Sublet] Premium 2B1B at K Street Flat (Effectively a private 1B1B",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2807462969649507",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1250,
+      "neighborhood": "North Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "laundry_on_site",
+        "gated_parking"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with 2 males; wants UC Berkeley students who are quiet and tidy; no pets.",
+      "post_url": "https://www.facebook.com/groups/ucberkeleyoffcampushousing/posts/2807462969649507",
+      "posted_at": "Saturday 21 November 2026 at 10:41",
+      "first_scraped_at": "2026-11-21T19:00:05.055537+00:00",
+      "source_group": "UC Berkeley Off-Campus Housing",
+      "search_snippet": "a 3-Bedroom Apartment UC Berkeley (Northside) $1250 Live with fellow UC Berkeley students in a quiet, and convenient apartment just",
+      "group_id": "128476910881473"
     }
   ]
 }
