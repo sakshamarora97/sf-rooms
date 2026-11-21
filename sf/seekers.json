@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T18:09:34.094490",
-  "count": 3794,
+  "updated_at": "2026-11-20T19:09:36.432321",
+  "count": 3795,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -120973,6 +120973,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "22, moving to San Francisco for a position at UCSF Parnassus, and I'm looking for housing! I'm ideally looking for",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1421069013126675",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2028-01-01",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "3B3B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Incoming UCB student seeking a 3B3B near campus for Jan 2027\u2013Jan 2028 with two others.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1421069013126675",
+      "posted_at": "Friday 20 November 2026 at 18:14",
+      "first_scraped_at": "2026-11-21T03:00:05.706078+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "an incoming UCB student for the spring intake, looking for a 3b3b housing close to campus. I already have 2",
+      "group_id": "558742412692677"
     }
   ]
 }

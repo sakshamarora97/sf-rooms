@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T18:09:34.094490",
-  "count": 3792,
+  "updated_at": "2026-11-20T19:09:36.432321",
+  "count": 3794,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126840,6 +126840,70 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "at 500 Folsom [1BR] Furnished Floor-to-Ceiling Views Rent $5,500/mo Description: Corner unit on a high floor at 500 Folsom in",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2069074640450774",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1030,
+      "neighborhood": "San Jose",
+      "area": "South Bay",
+      "available_from": "2026-12-01",
+      "available_until": "2027-01-01",
+      "unit_config": "4B4B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "in_unit_laundry",
+        "garage_parking",
+        "shared_kitchen",
+        "shared_living_room"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 3 male tech professionals",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2069074640450774",
+      "posted_at": "Friday 20 November 2026 at 18:00",
+      "first_scraped_at": "2026-11-21T03:00:05.706078+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Bed Bath Available 4B4B Townhouse San Jose, CA Address: 2540 Baton Rouge Dr, San Jose, CA (Near Berryessa) Rent: $1,030/month",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4429498647360886",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Milpitas",
+      "area": "South Bay",
+      "available_from": "2027-01-07",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "attached_bathroom",
+        "gated_community"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": "female_only",
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Non-vegetarian household; wants female roommate; no pets.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4429498647360886",
+      "posted_at": "Friday 20 November 2026 at 18:51",
+      "first_scraped_at": "2026-11-21T03:00:05.706078+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Female Roommate Milpitas, CA Private bedroom with an attached bathroom available in a clean, comfortable 2B2B apartment in a gated",
+      "group_id": "1511607562483357"
     }
   ]
 }
