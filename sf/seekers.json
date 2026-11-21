@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T09:07:38.035466",
-  "count": 3801,
+  "updated_at": "2026-11-21T10:06:24.712769",
+  "count": 3803,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121201,6 +121201,67 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "in San Francisco December Move-in Hi everyone I\u2019m Srija, I'm looking for a roommate to team up and rent a",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4796806407221028",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent Peace Corps returnee now working at a Marin nonprofit with a weekday 9-5 commute. Active, outdoorsy and social; clean, organized, respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4796806407221028",
+      "posted_at": "Saturday 21 November 2026 at 09:37",
+      "first_scraped_at": "2026-11-21T18:00:07.320106+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room!!!!! Hi everyone!! I'm looking for a room in San Francisco and am hoping to move sometime between December and",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "1422396959660547",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-02-14",
+      "move_out_date": "2026-02-21",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Downtown Berkeley",
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Seeker is looking for a short sublet for friends visiting from February 14 to February 21; prefers San Francisco or downtown Berkeley.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1422396959660547",
+      "posted_at": "Saturday 21 November 2026 at 09:08",
+      "first_scraped_at": "2026-11-21T18:00:07.320106+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "their place near UC Berkeley or in San Francisco from February 14th to February 21st? Hi! My friends are planning",
+      "group_id": "558742412692677"
     }
   ]
 }
