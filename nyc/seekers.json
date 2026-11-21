@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-20T19:23:24.072170",
-  "count": 1185,
+  "updated_at": "2026-11-20T20:20:21.731218",
+  "count": 1186,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36918,6 +36918,37 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "a Room/Roommates in Jersey City Dec 1 Move-in (Flexible through Dec 5) Interested in taking up a master bedroom in",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2284613628770098",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Queens",
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Two early-20s roommates; wants a roommate in their 20s who's open to friendship.",
+      "reason": null,
+      "age": null,
+      "bio": "Two early-20s professionals working in law and finance who value communication and cleanliness and are seeking a roommate.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2284613628770098",
+      "posted_at": "Friday 20 November 2026 at 19:08",
+      "first_scraped_at": "2026-11-21T04:08:51.916818+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "3 bedroom apts Hi! My friend and I are looking for one person to apply to 3 bedroom apartments with.",
+      "group_id": "149460102285472"
     }
   ]
 }
