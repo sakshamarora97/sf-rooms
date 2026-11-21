@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-21T11:18:02.899665",
-  "count": 1194,
+  "updated_at": "2026-11-21T12:45:18.040156",
+  "count": 1195,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -37203,6 +37203,36 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "place in NYC/ Jersey City/. I recently graduated from NYU and now I am working full time in NYC. Key",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2285390102025784",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-02-01",
+      "move_out_date": "2026-08-01",
+      "budget_min": 1500,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works for a company in Central America and will travel frequently for work. Learning English; enjoys soccer, padel, gym, and going out.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2285390102025784",
+      "posted_at": "Saturday 21 November 2026 at 11:48",
+      "first_scraped_at": "2026-11-21T20:06:07.726431+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "and I\u2019m looking for a room in a shared apartment in Manhattan for six months starting February 1. I work",
+      "group_id": "149460102285472"
     }
   ]
 }
