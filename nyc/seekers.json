@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-20T14:16:35.892013",
-  "count": 1183,
+  "updated_at": "2026-11-20T19:23:24.072170",
+  "count": 1185,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36854,6 +36854,70 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Kyle Porter, looking for a room or apartment in Manhattan or Brooklyn, no further than Bushwick and preferably closer in.",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2284612095436918",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple",
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old seeking to move to NYC with a girlfriend; wants a furnished one-bedroom and describes them as clean, respectful, easygoing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2284612095436918",
+      "posted_at": "Friday 20 November 2026 at 19:06",
+      "first_scraped_at": "2026-11-21T03:09:41.432983+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "25, and I'm looking to move in with my girlfriend in NYC from January to at least May 2027. We're",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29053550430981100",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "2B2B",
+        "3B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Downtown Jersey City",
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works in tech; clean, responsible, easygoing and social; open to apartment hunting with others.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29053550430981100",
+      "posted_at": "Friday 20 November 2026 at 15:56",
+      "first_scraped_at": "2026-11-21T03:09:41.432983+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "a Room/Roommates in Jersey City Dec 1 Move-in (Flexible through Dec 5) Interested in taking up a master bedroom in",
+      "group_id": "765841576845364"
     }
   ]
 }
