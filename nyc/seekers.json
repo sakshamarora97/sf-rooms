@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-20T21:20:27.322347",
-  "count": 1186,
+  "updated_at": "2026-11-21T07:17:42.147870",
+  "count": 1188,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -36886,6 +36886,38 @@
       "group_id": "149460102285472"
     },
     {
+      "listing_id": "2284531968778264",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2BR",
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "No pets.",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old moving to NYC for work; non-smoker with no pets. Active, enjoys working out, basketball, travel, and socializing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2284531968778264",
+      "posted_at": "Friday 20 November 2026 at 17:08",
+      "first_scraped_at": "2026-11-21T03:09:41.432983+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "26, moving from DC to NYC Jan 1 for work. Looking for a room in downtown Manhattan, ideally near the",
+      "group_id": "149460102285472"
+    },
+    {
       "listing_id": "29053550430981100",
       "post_type": "seeker",
       "duration_type": null,
@@ -36949,6 +36981,38 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "3 bedroom apts Hi! My friend and I are looking for one person to apply to 3 bedroom apartments with.",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2946487199050878",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-15",
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 900,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Working professional seeking a short-term room; describes themself as clean, responsible, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2946487199050878",
+      "posted_at": "Friday 20 November 2026 at 23:34",
+      "first_scraped_at": "2026-11-21T15:07:06.637176+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for a flex room or temporary month-to-month accommodation in Newport or Journal Square, Jersey City. Budget: $800\u2013$900/month Move-in: Mid-December",
+      "group_id": "1138638939835722"
     }
   ]
 }
