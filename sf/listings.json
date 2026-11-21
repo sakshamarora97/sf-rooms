@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-20T20:08:45.348083",
-  "count": 3794,
+  "updated_at": "2026-11-20T21:09:17.841080",
+  "count": 3796,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -126904,6 +126904,66 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Female Roommate Milpitas, CA Private bedroom with an attached bathroom available in a clean, comfortable 2B2B apartment in a gated",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4795658290669173",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 2300,
+      "neighborhood": null,
+      "area": "San Francisco",
+      "available_from": "2026-12-04",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4795658290669173",
+      "posted_at": "Friday 20 November 2026 at 20:45",
+      "first_scraped_at": "2026-11-21T05:00:06.660986+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "3 bed, 2 bath on Divisadero Street and are looking for one more roommate. Rent is about $2,300 for the",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4795099324058403",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 2900,
+      "neighborhood": "Inner Richmond",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "private_kitchen",
+        "private_bathroom",
+        "closet_space"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4795099324058403",
+      "posted_at": "Friday 20 November 2026 at 13:59",
+      "first_scraped_at": "2026-11-21T05:00:06.660986+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Bath Kitchen (Sublet) Inner Richmond neighborhood of San Francisco 2 blocks from Golden Gate Park and right around the corner",
+      "group_id": "2176716625896699"
     }
   ]
 }
