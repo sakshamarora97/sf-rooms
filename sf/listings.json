@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T11:06:23.871269",
-  "count": 3805,
+  "updated_at": "2026-11-21T12:06:01.625456",
+  "count": 3806,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -127258,6 +127258,40 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "a 3-Bedroom Apartment UC Berkeley (Northside) $1250 Live with fellow UC Berkeley students in a quiet, and convenient apartment just",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "2069874460370792",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Sunnyvale",
+      "area": "The Peninsula",
+      "available_from": "2026-12-15",
+      "available_until": "2027-09-15",
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [
+        "pool",
+        "fitness_center",
+        "game_room",
+        "resident_lounge",
+        "green_space"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": "Spruce Apartments",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2069874460370792",
+      "posted_at": "Saturday 21 November 2026 at 11:30",
+      "first_scraped_at": "2026-11-21T20:00:03.701017+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for someone to sublet my private bedroom and attached bathroom in a spacious 3B2B apartment at Spruce Apartments in",
+      "group_id": "242765489748374"
     }
   ]
 }
