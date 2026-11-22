@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T14:07:27.466124",
-  "count": 3818,
+  "updated_at": "2026-11-22T15:07:48.871298",
+  "count": 3821,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121750,6 +121750,96 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "relocating from LA to San Francisco, and I'm looking for 2 roommates to apply for a 3-bedroom apartment with me!",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4799267853641550",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2450,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 22,
+      "bio": "22-year-old recent graduate starting a new job in San Francisco, seeking a roommate; prefers someone clean, social, and friendly.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4799267853641550",
+      "posted_at": "Sunday 22 November 2026 at 12:38",
+      "first_scraped_at": "2026-11-22T23:00:07.126628+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "2Bed/2Ba I have a couple leads on 2 bed 2 bath apartments near lower Nob Hill and Nob Hill with",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2071017053589866",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-15",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pacific Heights",
+        "Inner Sunset"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "Starting a new job in San Francisco, prefers mid-January move-in; enjoys working out, restaurants, exploring the city; social and respectful.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2071017053589866",
+      "posted_at": "Sunday 22 November 2026 at 14:40",
+      "first_scraped_at": "2026-11-22T23:00:07.126628+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "FOR 2BR/2BA! Hello! I\u2019m a 25-year-old male who will be starting a new job in SF in February and looking",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1423328736234036",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-15",
+      "move_out_date": "2027-05-15",
+      "budget_min": null,
+      "budget_max": 1000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female",
+      "reason": "student",
+      "age": 22,
+      "bio": "Incoming visiting student (spring 2027) seeking a room from mid-January to mid-May with a budget up to $1,000/month.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1423328736234036",
+      "posted_at": "Sunday 22 November 2026 at 10:09",
+      "first_scraped_at": "2026-11-22T23:00:07.126628+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for a room from mid-January to mid-May. Budget max 1000$. Incoming spring 2027 female visiting student looking for a bed/room.",
+      "group_id": "558742412692677"
     }
   ]
 }
