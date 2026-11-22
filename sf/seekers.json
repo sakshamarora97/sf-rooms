@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T10:07:46.565493",
-  "count": 3812,
+  "updated_at": "2026-11-22T11:08:17.534278",
+  "count": 3814,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121549,6 +121549,69 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a new grad in tech moving to sf in mid January 2027!! Looking for roommates/room mainly around Soma and Potrero",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1422886386278271",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-10",
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1350,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley",
+        "Emeryville"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "They are a 27-year-old chemical engineer from Turkey working as a trainee at Lawrence Berkeley National Laboratory. They are outgoing, active, tidy, and enjoy socializing while respecting roommates' privacy.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1422886386278271",
+      "posted_at": "Sunday 22 November 2026 at 10:09",
+      "first_scraped_at": "2026-11-22T19:00:06.155283+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Private Room in Berkeley/Emeryville Hi everyone! I\u2019m a 27-year-old chemical engineer from Turkey with a master\u2019s degree, currently working as",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1423365686230341",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-24",
+      "move_out_date": "2027-01-03",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit",
+        "house",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Seeks an entire apartment or house in Berkeley/East Bay for about ten days (Dec 24\u2013Jan 3) to host family visiting for the Christmas holidays, sleeping 5\u20138 people.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1423365686230341",
+      "posted_at": "Sunday 22 November 2026 at 09:11",
+      "first_scraped_at": "2026-11-22T19:00:06.155283+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "holiday rental in Berkeley My family is coming to visit for the Christmas holidays, so I'm looking for an entire",
+      "group_id": "558742412692677"
     }
   ]
 }
