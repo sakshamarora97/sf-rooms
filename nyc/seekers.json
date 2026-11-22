@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-22T13:17:19.673079",
-  "count": 1219,
+  "updated_at": "2026-11-22T14:17:44.343131",
+  "count": 1223,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -37973,6 +37973,135 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "my best friend Chloe and I (both 22) are looking for 1\u20132 roommates to move in with by the end",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2948365508863047",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Girl; wants girls-only apartment; null",
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a private room in Newport. Describes self as clean, quiet, responsible; requests DMs for details.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2948365508863047",
+      "posted_at": "Sunday 22 November 2026 at 11:42",
+      "first_scraped_at": "2026-11-22T22:07:31.971900+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "PRIVATE ROOM Girls Only NO FLEX Hi everyone! I\u2019m looking for a private room in a girls-only apartment in the",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2286523148579146",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 4000,
+      "budget_max": 5000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "Midtown East"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "24-year-old finishing doctorate; wants 1-2 girl(s)",
+      "reason": null,
+      "age": 24,
+      "bio": "She is a 24-year-old finishing her doctorate, with experience at healthcare AI startups and moving into NGO/global health. Social, enjoys travel, fitness, music, art, and values hosting and quiet time.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286523148579146",
+      "posted_at": "Sunday 22 November 2026 at 13:57",
+      "first_scraped_at": "2026-11-22T22:07:31.971900+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in Manhattan Hi everyone! I\u2019m reposting with an updated timeline: I\u2019m looking for a 1-2 girl(s)for mid-to-late December move-in, w",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2286516621913132",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-01-04",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2300,
+      "unit_type_wanted": [
+        "studio",
+        "room",
+        "sublet",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Bushwick",
+        "Williamsburg",
+        "Long Island City",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Two brothers from Peru who are artists, currently studying/working in the city. Friendly, easygoing, clean and respectful roommates.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286516621913132",
+      "posted_at": "Sunday 22 November 2026 at 13:46",
+      "first_scraped_at": "2026-11-22T22:07:31.971900+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "beginning January Hi everyone! My brother and I are looking for a place to stay in NYC starting January 4th",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29076659608670182",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 23,
+      "bio": "Recent Penn State Computer Science graduate relocating to NYC/Jersey City; friendly, clean, enjoys cooking and going out.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29076659608670182",
+      "posted_at": "Sunday 22 November 2026 at 13:20",
+      "first_scraped_at": "2026-11-22T22:07:31.971900+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "23, a recent Penn State Computer Science grad moving to NYC or Jersey City in early December. Looking for a",
+      "group_id": "765841576845364"
     }
   ]
 }
