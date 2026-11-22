@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T13:08:21.854741",
-  "count": 3817,
+  "updated_at": "2026-11-22T14:07:27.466124",
+  "count": 3818,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121712,6 +121712,43 @@
       "first_scraped_at": "2026-11-22T21:00:06.146840+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "moving out to SF in December for a new job and looking for some roommates or any housing options available!",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2070962960261942",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "3B1B",
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay",
+        "Potrero Hill",
+        "Bernal Heights",
+        "Mission District",
+        "Western Addition",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Cat owner; wants cat-friendly roommates",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Remote tech worker, quiet during work hours, clean, respectful, easygoing; likes coffee and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2070962960261942",
+      "posted_at": "Sunday 22 November 2026 at 13:08",
+      "first_scraped_at": "2026-11-22T22:00:05.345262+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "relocating from LA to San Francisco, and I'm looking for 2 roommates to apply for a 3-bedroom apartment with me!",
       "group_id": "242765489748374"
     }
   ]
