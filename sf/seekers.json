@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T22:20:56.404939",
-  "count": 3809,
+  "updated_at": "2026-11-22T07:06:51.593356",
+  "count": 3812,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121449,6 +121449,106 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Roommate without Pets!",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "29226588746998402",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Embarcadero",
+        "Telegraph Hill",
+        "Russian Hill",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Female; no pets",
+      "reason": "new_job",
+      "age": 28,
+      "bio": "Canadian relocating to San Francisco for a new job in the Financial District; very clean, enjoys reading and long walks.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29226588746998402",
+      "posted_at": "Sunday 22 November 2026 at 06:37",
+      "first_scraped_at": "2026-11-22T15:00:04.322011+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "a room private bath Hi! I\u2019ll be moving to SF for my new job in FiDi! Im Canadian and have",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2070379716986933",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublet",
+        "furnished"
+      ],
+      "preferred_neighborhoods": [
+        "Ashbury Heights",
+        "Cole Valley",
+        "Marina",
+        "Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are tidy and respectful and would take great care of the place. Open to a home exchange in Zurich, Switzerland.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2070379716986933",
+      "posted_at": "Sunday 22 November 2026 at 00:29",
+      "first_scraped_at": "2026-11-22T15:00:04.322011+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a furnished sublet in San Francisco for about a month, sometime between December and February. My dates are",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2070255563666015",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2300,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa",
+        "Potrero Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "New grad; wants female roommates",
+      "reason": null,
+      "age": null,
+      "bio": "New tech graduate relocating to San Francisco in mid-January 2027, seeking a room and roommates. Clean, respectful, easygoing; enjoys restaurants, cafes, and dancing, wants social roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2070255563666015",
+      "posted_at": "Saturday 21 November 2026 at 21:31",
+      "first_scraped_at": "2026-11-22T15:00:04.322011+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a new grad in tech moving to sf in mid January 2027!! Looking for roommates/room mainly around Soma and Potrero",
+      "group_id": "242765489748374"
     }
   ]
 }

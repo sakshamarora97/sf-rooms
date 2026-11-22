@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T22:20:56.404939",
-  "count": 3820,
+  "updated_at": "2026-11-22T07:06:51.593356",
+  "count": 3822,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -127758,6 +127758,71 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "sublet available starting January 1 2027 (mid December start possible as well) in a 5 bed/ 2 bath Victorian house",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "29224341267223150",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1600,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-12-04",
+      "available_until": "2027-01-04",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "full_kitchen",
+        "on_site_laundry",
+        "cleaning_service"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 3 roommates; has two cats.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29224341267223150",
+      "posted_at": "Sunday 22 November 2026 at 06:37",
+      "first_scraped_at": "2026-11-22T15:00:04.322011+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "in the Mission District, SF Dec 4 Jan 4 Hey everyone! I\u2019m subletting my fully furnished room in the Mission",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2070389916985913",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1000,
+      "neighborhood": "San Jose",
+      "area": "South Bay",
+      "available_from": "2026-12-17",
+      "available_until": null,
+      "unit_config": "4B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 4,
+      "amenities": [
+        "pool",
+        "parking",
+        "shared_laundry",
+        "furniture_available"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2070389916985913",
+      "posted_at": "Sunday 22 November 2026 at 00:42",
+      "first_scraped_at": "2026-11-22T15:00:04.322011+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Room Available $1,000/month San Jose, CA** Hi everyone! I'm looking for someone to take over my lease for a spacious",
+      "group_id": "242765489748374"
     }
   ]
 }
