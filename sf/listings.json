@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T07:06:51.593356",
-  "count": 3822,
+  "updated_at": "2026-11-22T08:07:22.747029",
+  "count": 3823,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -127823,6 +127823,43 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Room Available $1,000/month San Jose, CA** Hi everyone! I'm looking for someone to take over my lease for a spacious",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1423304626236447",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1490,
+      "neighborhood": "Elmwood",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "utilities",
+        "high_speed_wifi",
+        "shared_kitchen",
+        "shared_bathrooms",
+        "laundry",
+        "camera_controlled_access",
+        "fenced_yard",
+        "parking_optional"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Welcoming shared home; prefers UC Berkeley students; no pets.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1423304626236447",
+      "posted_at": "Sunday 22 November 2026 at 07:55",
+      "first_scraped_at": "2026-11-22T16:00:04.248778+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "FULLY FURNISHED SINGLE-OCCUPANCY ROOMS AVAILABLE SPRING 2027 Available January 1 $1,490/month per room A couple of private rooms are available",
+      "group_id": "558742412692677"
     }
   ]
 }
