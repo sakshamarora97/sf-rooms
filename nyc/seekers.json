@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-22T07:12:43.278420",
-  "count": 1212,
+  "updated_at": "2026-11-22T08:25:31.758961",
+  "count": 1214,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -37755,6 +37755,71 @@
       "first_scraped_at": "2026-11-22T14:40:12.339502+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Matilde, and I\u2019m looking for a sublease in NYC ASAP, with an early/mid-January move-in! My budget is $4,000/month preferably under",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2286222761942518",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-06-05",
+      "move_out_date": "2027-08-29",
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "shared_room",
+        "Airbnb"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Junior civil engineering student; wants female roommates; has a cat but not coming",
+      "reason": "internship",
+      "age": 24,
+      "bio": "College junior studying civil engineering, relocating to Manhattan for a summer internship with a construction company. Enjoys travel, going out for drinks, plays guitar and reads.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286222761942518",
+      "posted_at": "Sunday 22 November 2026 at 07:19",
+      "first_scraped_at": "2026-11-22T16:07:27.198373+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Faith! I am 24 and a junior studying civil engineering at Embry-Riddle Aeronautical University in Florida. I\u2019m currently",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1022313546905988",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jamaica"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Student; wants female roommates",
+      "reason": "student",
+      "age": null,
+      "bio": "Student seeking a room near Jamaica Hospital; quiet, respectful and responsible.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1022313546905988",
+      "posted_at": "Sunday 22 November 2026 at 08:04",
+      "first_scraped_at": "2026-11-22T16:07:27.198373+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "a student and looking to rent a room in an apartment or house with other females. Location: Anywhere near Jamaica",
       "group_id": "312692887868061"
     }
   ]
