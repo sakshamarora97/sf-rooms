@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T11:08:17.534278",
-  "count": 3814,
+  "updated_at": "2026-11-22T12:10:21.517938",
+  "count": 3815,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121612,6 +121612,43 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "holiday rental in Berkeley My family is coming to visit for the Christmas holidays, so I'm looking for an entire",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4799004440334558",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City",
+        "Oakland",
+        "Berkeley",
+        "South San Francisco",
+        "San Bruno",
+        "Brisbane",
+        "San Mateo",
+        "Burlingame"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Bisexual; wants an all-female, nonbinary, or LGBTQ residence; has an ESA cat",
+      "reason": "student",
+      "age": 30,
+      "bio": "She is a 30-year-old artist and psychology graduate student who works as a paraeducator in an elementary school in San Francisco. Neurodivergent (ADHD), enjoys painting, hiking, cooking, rock climbing, and making art for vending events.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4799004440334558",
+      "posted_at": "Sunday 22 November 2026 at 09:50",
+      "first_scraped_at": "2026-11-22T20:00:06.511887+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "room or a roommate for January 2027! Here are some things I'm looking for: -Open to: SF, Daly City, Oakland,",
+      "group_id": "2176716625896699"
     }
   ]
 }
