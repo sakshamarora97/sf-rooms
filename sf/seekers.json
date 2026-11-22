@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T13:05:37.817201",
-  "count": 3805,
+  "updated_at": "2026-11-21T16:08:26.556095",
+  "count": 3806,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121327,6 +121327,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "friend and I will be in San Francisco January 15\u201330 and are looking for a short-term stay for two near",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "29218504151140195",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Student; wants pet-friendly housing; has a kitten.",
+      "reason": "student",
+      "age": null,
+      "bio": "Student at Foothill College seeking a long-term private room in Mountain View. Has a well-behaved, litter-trained kitten that will stay in the room.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29218504151140195",
+      "posted_at": "Saturday 21 November 2026 at 14:39",
+      "first_scraped_at": "2026-11-22T00:00:07.636927+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "room in Mountain View for $1500 hey everyone! I\u2019m looking for a private room in mountain view Budget $1500 looking",
+      "group_id": "843764532374203"
     }
   ]
 }
