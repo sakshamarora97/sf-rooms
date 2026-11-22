@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-22T08:25:31.758961",
-  "count": 1214,
+  "updated_at": "2026-11-22T09:13:38.075921",
+  "count": 1215,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -37821,6 +37821,38 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "a student and looking to rent a room in an apartment or house with other females. Location: Anywhere near Jamaica",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2286312388600222",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Park Slope",
+        "Williamsburg"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Male; looking for a room or studio; has a big dog.",
+      "reason": "relocation",
+      "age": 30,
+      "bio": "30-year-old medical device sales representative who is clean and active; enjoys volleyball, golf, tennis, food, music, movies, travel, and has a friendly large dog.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286312388600222",
+      "posted_at": "Sunday 22 November 2026 at 09:01",
+      "first_scraped_at": "2026-11-22T17:06:44.717078+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is Anthony. I\u2019m a 30-year old male looking for a room or studio to rent. I plan on moving",
+      "group_id": "149460102285472"
     }
   ]
 }
