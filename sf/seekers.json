@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T12:10:21.517938",
-  "count": 3815,
+  "updated_at": "2026-11-22T13:08:21.854741",
+  "count": 3817,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121649,6 +121649,70 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "room or a roommate for January 2027! Here are some things I'm looking for: -Open to: SF, Daly City, Oakland,",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4799159816985687",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2250,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Daly City",
+        "South San Francisco",
+        "San Bruno",
+        "Millbrae",
+        "Burlingame",
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Single working professional relocating to San Francisco for work; clean, quiet, and respectful; works in the SoMa/Mission area.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4799159816985687",
+      "posted_at": "Sunday 22 November 2026 at 11:28",
+      "first_scraped_at": "2026-11-22T21:00:06.146840+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Mohan, and I'm relocating to San Francisco for work. I'm looking for a roommate to rent a 2 bed 2",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2070905040267734",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "23-year-old Michigan State graduate moving to San Francisco for a new job; easygoing, enjoys coffee shops, restaurants, and exploring.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2070905040267734",
+      "posted_at": "Sunday 22 November 2026 at 11:35",
+      "first_scraped_at": "2026-11-22T21:00:06.146840+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "moving out to SF in December for a new job and looking for some roommates or any housing options available!",
+      "group_id": "242765489748374"
     }
   ]
 }

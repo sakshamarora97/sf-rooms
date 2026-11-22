@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T12:10:21.517938",
-  "count": 3838,
+  "updated_at": "2026-11-22T13:08:21.854741",
+  "count": 3840,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -128342,6 +128342,72 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "the street from Sather Gate, UCB. My niece is looking for a woman student to take over her lease starting",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4799260943642241",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 2200,
+      "neighborhood": null,
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "new_appliances"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Pets OK",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4799260943642241",
+      "posted_at": "Sunday 22 November 2026 at 12:32",
+      "first_scraped_at": "2026-11-22T21:00:06.146840+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "to rent out my space super cute cottage. it's in North Oakland/Emeryville, near UC Berkeley. Studio with new appliances, furnished.",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4798948963673439",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 3435,
+      "neighborhood": "Hayes Valley",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "in_unit_laundry",
+        "microwave",
+        "oven",
+        "fridge",
+        "air_conditioning",
+        "gym",
+        "modern_appliances"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4798948963673439",
+      "posted_at": "Sunday 22 November 2026 at 09:17",
+      "first_scraped_at": "2026-11-22T21:00:06.146840+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "available for short-term sublet in the heart of the city on Market Street. Location: On Market St close to Hayes,",
+      "group_id": "2176716625896699"
     }
   ]
 }
