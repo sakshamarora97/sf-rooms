@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-22T14:17:44.343131",
-  "count": 1223,
+  "updated_at": "2026-11-22T15:17:48.676507",
+  "count": 1226,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -38101,6 +38101,104 @@
       "first_scraped_at": "2026-11-22T22:07:31.971900+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "23, a recent Penn State Computer Science grad moving to NYC or Jersey City in early December. Looking for a",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2286538675244260",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Long Island City"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 28,
+      "bio": "28-year-old software engineer, often out but social; enjoys cooking, staying active and karaoke; clean and can bring shared living-room furniture.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286538675244260",
+      "posted_at": "Sunday 22 November 2026 at 14:24",
+      "first_scraped_at": "2026-11-22T23:07:53.540277+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in 2b2b or roommates in LIC Hi I am Paul! I am a 28 yo software engineer. Looking for a",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2286538015244326",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3200,
+      "unit_type_wanted": [
+        "room",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Chelsea",
+        "West Village",
+        "SoHo",
+        "Gramercy",
+        "Flatiron",
+        "East Village",
+        "Union Square"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old moving from San Francisco for a new job; social, enjoys restaurants, bars, and house/techno shows. Movie nerd who does photography; clean and respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286538015244326",
+      "posted_at": "Sunday 22 November 2026 at 14:23",
+      "first_scraped_at": "2026-11-22T23:07:53.540277+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "and I\u2019m looking for a roommate to apartment hunt with or for a room in an apartment. I\u2019m currently in",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29077051458630997",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-14",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "23-year-old moving to the area to work for the NJ Devils, easygoing and likes sports; seeks roommates and transit-accessible housing.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29077051458630997",
+      "posted_at": "Sunday 22 November 2026 at 14:14",
+      "first_scraped_at": "2026-11-22T23:07:53.540277+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "roommate moving to Newark, Harrison, Jersey City Moving to come work for the NJ Devils, looking for a roommate/roommates to",
       "group_id": "765841576845364"
     }
   ]
