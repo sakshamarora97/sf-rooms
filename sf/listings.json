@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T17:07:09.364417",
-  "count": 3811,
+  "updated_at": "2026-11-21T18:08:03.069821",
+  "count": 3812,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -127468,6 +127468,34 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "W BATH, OFFICE, SEPARATE LIVING ROOM AND KITCHEN IN BERKELEY This is an incredible and very unique housing opportunity in",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1422705836296326",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1012,
+      "neighborhood": "Elmwood",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with 2 women",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1422705836296326",
+      "posted_at": "Saturday 21 November 2026 at 17:31",
+      "first_scraped_at": "2026-11-22T02:00:06.042196+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Elmwood Duplex January 1 Move-In! Hello! We have one bedroom opening up in our Elmwood duplex apartment, available for move-in",
+      "group_id": "558742412692677"
     }
   ]
 }
