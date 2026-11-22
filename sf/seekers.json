@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T19:06:46.441806",
-  "count": 3806,
+  "updated_at": "2026-11-21T20:09:29.753315",
+  "count": 3807,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121357,6 +121357,39 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "room in Mountain View for $1500 hey everyone! I\u2019m looking for a private room in mountain view Budget $1500 looking",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2070171217007783",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B",
+        "3B3B",
+        "4B4B"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "internship",
+      "age": null,
+      "bio": "Biotech professional completing an internship at Genentech and a bioengineering graduate. Enjoys exploring cuisines, attending music events, and making jewelry; flexible and easygoing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2070171217007783",
+      "posted_at": "Saturday 21 November 2026 at 19:31",
+      "first_scraped_at": "2026-11-22T04:00:05.425446+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "am Pavithra, currently working in biotech. I live in San Mateo and my lease ends in december. I\u2019m looking for",
+      "group_id": "242765489748374"
     }
   ]
 }
