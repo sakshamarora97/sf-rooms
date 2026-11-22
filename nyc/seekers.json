@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-22T10:16:12.438970",
-  "count": 1215,
+  "updated_at": "2026-11-22T11:15:50.308977",
+  "count": 1217,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -37853,6 +37853,68 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "name is Anthony. I\u2019m a 30-year old male looking for a room or studio to rent. I plan on moving",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2286383641926430",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Long Island City",
+        "Manhattan"
+      ],
+      "area": "Queens",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 24,
+      "bio": "24-year-old moving to NYC for work and seeking housing in Long Island City. Works in Midtown weekdays, enjoys movies, cooking, gaming and happy hours; keeps a clean home and is willing to split chores.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286383641926430",
+      "posted_at": "Sunday 22 November 2026 at 10:30",
+      "first_scraped_at": "2026-11-22T19:08:22.213909+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Achyutha, 24M moving from Dallas to NYC for work (have a 3 months window to move that ends Feb 1st),",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29075406422128834",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "The Heights",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommate.",
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a private room for a female in The Heights or Journal Square; flexible with household dietary preferences.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29075406422128834",
+      "posted_at": "Sunday 22 November 2026 at 10:46",
+      "first_scraped_at": "2026-11-22T19:08:22.213909+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "looking for a private room for a female in Jersey City Heights or Journal Square. Looking to move in by",
+      "group_id": "765841576845364"
     }
   ]
 }
