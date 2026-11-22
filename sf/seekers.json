@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-21T20:09:29.753315",
-  "count": 3807,
+  "updated_at": "2026-11-21T21:08:10.273822",
+  "count": 3809,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121390,6 +121390,65 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "am Pavithra, currently working in biotech. I live in San Mateo and my lease ends in december. I\u2019m looking for",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2070206827004222",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Couple; seeking sublease or roommates; might bring a French bulldog.",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Postdoc-turned-startup researcher recently relocated from New Jersey to San Francisco to work at a biotech startup. Seeking a sublease or roommates with partner; enjoys philosophy and deep conversations.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2070206827004222",
+      "posted_at": "Saturday 21 November 2026 at 20:19",
+      "first_scraped_at": "2026-11-22T05:00:06.009601+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "for a sublease in SF or Oakland, and also looking for potential roommates I recently moved from New Jersey to",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1422828059617437",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants a roommate; no pets",
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1422828059617437",
+      "posted_at": "Saturday 21 November 2026 at 20:46",
+      "first_scraped_at": "2026-11-22T05:00:06.009601+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Roommate without Pets!",
+      "group_id": "558742412692677"
     }
   ]
 }
