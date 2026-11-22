@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-22T12:19:45.003140",
-  "count": 1218,
+  "updated_at": "2026-11-22T13:17:19.673079",
+  "count": 1219,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -37940,6 +37940,38 @@
       "first_scraped_at": "2026-11-22T20:10:26.672371+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "partner and I are just two young professionals looking for an affordable place to live. Our budget is around $1,500.",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2286456855252442",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-28",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Chelsea",
+        "Hudson Yards",
+        "Upper West Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "Two 22-year-old full-time workers who enjoy exploring the city, going out, hosting, and keeping a clean, welcoming home; seeking 1\u20132 roommates and friends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286456855252442",
+      "posted_at": "Sunday 22 November 2026 at 12:13",
+      "first_scraped_at": "2026-11-22T21:08:26.498448+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "my best friend Chloe and I (both 22) are looking for 1\u20132 roommates to move in with by the end",
       "group_id": "149460102285472"
     }
   ]

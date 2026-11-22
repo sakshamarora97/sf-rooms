@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-22T12:19:45.003140",
-  "count": 3670,
+  "updated_at": "2026-11-22T13:17:19.673079",
+  "count": 3672,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -122944,6 +122944,71 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "in manhattan Big room In girls only apartment. Move in from January 1. Fully furnished. Come with big walk in",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2286422755255852",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1500,
+      "neighborhood": "Washington Heights",
+      "area": "Manhattan",
+      "available_from": "2026-12-01",
+      "available_until": "2027-08-31",
+      "unit_config": "2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher",
+        "gas_stove",
+        "walk_up"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": "male_only",
+      "pets_policy": null,
+      "prefs_notes": "Lives with a gay male roommate; wants a male roommate",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2286422755255852",
+      "posted_at": "Sunday 22 November 2026 at 11:25",
+      "first_scraped_at": "2026-11-22T21:08:26.498448+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Heights Hi! I am looking for a male roommate to fill an open room in a 2 bedroom apartment located",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "28473429579001896",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "SoHo",
+      "area": "Manhattan",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "private_yard",
+        "hardwood_floors"
+      ],
+      "utilities_included": true,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Pet-friendly building; heat and water included",
+      "post_url": "https://www.facebook.com/groups/812568135514746/posts/28473429579001896",
+      "posted_at": "Sunday 22 November 2026 at 12:18",
+      "first_scraped_at": "2026-11-22T21:08:26.498448+00:00",
+      "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
+      "search_snippet": "PRIVATE GARDEN NO BROKER FEE! I\u2019m direct to owner. Please text your phone number and message Esther Ng here or",
+      "group_id": "812568135514746"
     }
   ]
 }
