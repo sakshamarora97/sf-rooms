@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-21T19:16:51.034340",
-  "count": 1206,
+  "updated_at": "2026-11-21T20:45:35.862914",
+  "count": 1207,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -37567,6 +37567,37 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Private Room Near J&J Raritan, NJ Hi everyone! I'm Jatin Muddam, 28M, a Computer Science professional looking for a private",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2285704131994381",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-03-04",
+      "move_out_date": "2026-03-18",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Midtown",
+        "Midtown East"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Senior single woman",
+      "reason": null,
+      "age": null,
+      "bio": "Senior single woman seeking a short-term room in Midtown Manhattan, preferably Midtown East.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2285704131994381",
+      "posted_at": "Saturday 21 November 2026 at 20:01",
+      "first_scraped_at": "2026-11-22T04:09:35.808674+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room in midtown Manhattan from March 04 to 18 for a senior single woman. Preferably East side. Thanks.",
+      "group_id": "149460102285472"
     }
   ]
 }
