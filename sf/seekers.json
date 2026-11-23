@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T17:07:22.934808",
-  "count": 3822,
+  "updated_at": "2026-11-22T18:07:28.876508",
+  "count": 3823,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121871,6 +121871,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Looking for a room in SF! Hi all! I\u2019m 24F, recently graduated from grad school at SFSU, and interning at",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1423679182865658",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 22,
+      "bio": "22-year-old exchange CS master's student from Norway, tidy and easygoing; social but values downtime.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1423679182865658",
+      "posted_at": "Sunday 22 November 2026 at 17:47",
+      "first_scraped_at": "2026-11-23T02:00:04.795281+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "looking for a furnished private room near UC Berkeley for Spring 2027. Budget around $1,200/month. I\u2019m flexible on room size.",
+      "group_id": "558742412692677"
     }
   ]
 }
