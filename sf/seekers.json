@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-23T14:08:26.837806",
-  "count": 3836,
+  "updated_at": "2026-11-23T15:08:45.468415",
+  "count": 3838,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122303,6 +122303,66 @@
       "first_scraped_at": "2026-11-23T22:00:06.272157+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Braden, I\u2019m 23, and am starting an internship in South SF in mid-January after finishing my Master\u2019s at Stanford this",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4800789026822766",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2-bedroom",
+        "room",
+        "3-bedroom",
+        "4-bedroom"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Two young professionals; no pets",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Two recent UC Berkeley graduates with Master's degrees starting full-time jobs in San Francisco; tidy, non-smoking, experienced roommates with active lifestyles.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4800789026822766",
+      "posted_at": "Monday 23 November 2026 at 13:09",
+      "first_scraped_at": "2026-11-23T23:00:07.402503+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking for a place in SF from January 2027 Hi everyone! We're Jan (25) and Martin Kullander (27), two friends",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2072045326820372",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 22,
+      "bio": "Recent college graduate with an accounting degree who does ceramics, plays guitar, and enjoys thrifting and cafes. Seeking a central SF room or lease takeover and hopes to be more than just roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2072045326820372",
+      "posted_at": "Monday 23 November 2026 at 13:47",
+      "first_scraped_at": "2026-11-23T23:00:07.402503+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "room in SF! Hi everyone! My name is Suvida, I\u2019m a 22 yr old recent grad looking to move to",
       "group_id": "242765489748374"
     }
   ]
