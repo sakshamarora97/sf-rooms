@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-23T12:19:03.285577",
-  "count": 1254,
+  "updated_at": "2026-11-23T13:17:30.451079",
+  "count": 1256,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -39078,6 +39078,76 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "looking for an apartment/shared accommodation starting January 1st 2027, preferably within walking distance of Journal Square PATH Station, Jersey City.",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2287536541811140",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room",
+        "sublease",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Upper East Side",
+        "Upper West Side",
+        "Yorkville",
+        "Midtown East",
+        "Midtown West",
+        "Hell's Kitchen",
+        "Murray Hill",
+        "Kips Bay",
+        "Chelsea",
+        "East Village",
+        "Long Island City"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female roommates",
+      "reason": "new_job",
+      "age": null,
+      "bio": "New research hire at MSK and Columbia alum seeking housing; vegetarian, clean, organized, enjoys cooking, yoga, movies and exploring the city; prefers a peaceful home.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2287536541811140",
+      "posted_at": "Monday 23 November 2026 at 12:48",
+      "first_scraped_at": "2026-11-23T21:07:21.350212+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Sublease Lease Takeover Hi everyone! I\u2019m moving to NYC in mid-December for a new research position at MSK and am",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2287521685145959",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-16",
+      "move_out_date": "2026-12-25",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Two working professionals from London seeking a short sublet Dec 16\u201325; prefer good location and nice views.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2287521685145959",
+      "posted_at": "Monday 23 November 2026 at 12:24",
+      "first_scraped_at": "2026-11-23T21:07:21.350212+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "for 9 nights Hi all, I\u2019m travelling from London to NYC in December from the 16th-25th with my wife. We",
+      "group_id": "149460102285472"
     }
   ]
 }
