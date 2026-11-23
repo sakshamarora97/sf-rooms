@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-23T07:08:40.842224",
-  "count": 3876,
+  "updated_at": "2026-11-23T08:07:55.909743",
+  "count": 3877,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -129615,6 +129615,44 @@
       "first_scraped_at": "2026-11-23T15:00:06.399743+00:00",
       "source_group": "Berkeley Housing",
       "search_snippet": "to sublease my daughter\u2019s shared room and posting on her behalf. Spring 2027 Furnished Double in Downtown Berkeley $1,000/Month, Utilities",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "1424276406139269",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 3800,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "air_conditioning",
+        "heating",
+        "off_street_parking",
+        "street_parking",
+        "furnished",
+        "refrigerator",
+        "stove",
+        "full_kitchen"
+      ],
+      "utilities_included": false,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "No pets",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1424276406139269",
+      "posted_at": "Monday 23 November 2026 at 07:06",
+      "first_scraped_at": "2026-11-23T16:00:07.695249+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "2Bed 2Bath in Berkeley Move-In Ready, In-Unit Laundry, AC Parking! Be the very first to live in this newly constructed,",
       "group_id": "558742412692677"
     }
   ]
