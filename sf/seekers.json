@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T18:07:28.876508",
-  "count": 3823,
+  "updated_at": "2026-11-23T06:13:12.009927",
+  "count": 3829,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121901,6 +121901,193 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "looking for a furnished private room near UC Berkeley for Spring 2027. Budget around $1,200/month. I\u2019m flexible on room size.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4799801230254879",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room",
+        "2BR"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Russian Hill",
+        "Nob Hill"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 26,
+      "bio": "He is a 26-year-old working professional in tech sales, financially stable, clean and organized. Sociable, enjoys working out, dining out, and values a peaceful home.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4799801230254879",
+      "posted_at": "Sunday 22 November 2026 at 19:25",
+      "first_scraped_at": "2026-11-23T14:00:03.932537+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "Studio, Room Sublet, or Roommate in SF! Hey everyone! I'm a 26-year-old guy working full-time in tech sales, looking for",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4799571510277851",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-11-29",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Guy; has a small extremely well-behaved dog",
+      "reason": "relocation",
+      "age": null,
+      "bio": "He is a chill, responsible person who owns a home in Portland and travels for skiing and kiteboarding.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4799571510277851",
+      "posted_at": "Sunday 22 November 2026 at 16:25",
+      "first_scraped_at": "2026-11-23T14:00:03.932537+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for a 1 bd, studio or house share. I\u2019m a chill, responsible guy, that owns a place in Portland, but",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2071218843569687",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B",
+        "3B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Couple; wants a housemate to join lease; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "A married couple (mid-30s and late-20s) relocating from Oregon, seeking housing in San Francisco for late Dec/early Jan. They have no pets, avoid drugs, and drink minimally; open to sharing a 2\u20133 bedroom lease with another housemate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2071218843569687",
+      "posted_at": "Sunday 22 November 2026 at 19:41",
+      "first_scraped_at": "2026-11-23T14:00:03.932537+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "(a married couple at mid 30s and late 20s) are looking for a place to move in LATE December (after",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1423882962845280",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Two girls.",
+      "reason": "student",
+      "age": null,
+      "bio": "Fourth-year senior studying Sociology with minors in Public Policy and Education, seeking a 2B1B near UC Berkeley for Spring 2027 with a roommate; values cleanliness and safety.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1423882962845280",
+      "posted_at": "Sunday 22 November 2026 at 22:59",
+      "first_scraped_at": "2026-11-23T14:00:03.932537+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for 2B 1B for Spring 2027! Hi Everyone! My name is Kaylee (she/her) and i\u2019m a fourth year senior majoring",
+      "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4430340123943405",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1350,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Foster City",
+        "Fremont",
+        "Union City",
+        "Hayward"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Working professional; prefers a male roommate (working professional or graduate student); no pets.",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Working professional starting a new role in the Bay Area; clean, respectful of shared spaces, easy to live with.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4430340123943405",
+      "posted_at": "Sunday 22 November 2026 at 18:42",
+      "first_scraped_at": "2026-11-23T14:00:03.932537+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "am looking for one person preferably a male working professional or graduate student to team up with on a 2",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4430385710605513",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 2100,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Fremont"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4430385710605513",
+      "posted_at": "Sunday 22 November 2026 at 18:42",
+      "first_scraped_at": "2026-11-23T14:00:03.932537+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "roomate to sign a lease in Fremont starting Dec 1st. Rent 2,100$ Luxury apartments with rooftop pool and co working",
+      "group_id": "1511607562483357"
     }
   ]
 }
