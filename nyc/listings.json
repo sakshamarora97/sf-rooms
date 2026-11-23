@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-22T15:17:48.676507",
-  "count": 3685,
+  "updated_at": "2026-11-22T16:18:57.967456",
+  "count": 3686,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -123429,6 +123429,42 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "Downtown Brooklyn Flex Room for $1855 utilities ~$100-$125 Roommates: B is in the standard bedroom she works in an office",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "29077698535232956",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 870,
+      "neighborhood": null,
+      "area": "Jersey City & Hoboken",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "shared_kitchen",
+        "dining_area",
+        "shared_bathroom",
+        "tiled_shower",
+        "heating",
+        "natural_light",
+        "carpeting"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29077698535232956",
+      "posted_at": "Sunday 22 November 2026 at 15:47",
+      "first_scraped_at": "2026-11-23T00:08:22.593093+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "rooms (roommates) offers a comfortable and welcoming place to call home, with plenty of natural light, neutral walls, and clean",
+      "group_id": "765841576845364"
     }
   ]
 }
