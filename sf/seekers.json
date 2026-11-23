@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-23T13:07:15.615528",
-  "count": 3835,
+  "updated_at": "2026-11-23T14:08:26.837806",
+  "count": 3836,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122270,6 +122270,40 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "if theres any rooms available December 4? Near SFO airport!",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2072036436821261",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Potrero Hill",
+        "Dogpatch",
+        "SoMa",
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "internship",
+      "age": 23,
+      "bio": "Starting an internship in South San Francisco after finishing a Master's at Stanford; active and outdoorsy, clean and easygoing.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2072036436821261",
+      "posted_at": "Monday 23 November 2026 at 13:32",
+      "first_scraped_at": "2026-11-23T22:00:06.272157+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Braden, I\u2019m 23, and am starting an internship in South SF in mid-January after finishing my Master\u2019s at Stanford this",
+      "group_id": "242765489748374"
     }
   ]
 }
