@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T16:08:18.024501",
-  "count": 3845,
+  "updated_at": "2026-11-22T17:07:22.934808",
+  "count": 3847,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -128579,6 +128579,71 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Bedroom in SoMa Square (Dec 11 Jan 11) $70/night Hi everyone! I\u2019m subletting my master bedroom in a 2b2b apartment",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4799537470281255",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 3,
+      "amenities": [
+        "semi_private_patio",
+        "bbq"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4799537470281255",
+      "posted_at": "Sunday 22 November 2026 at 16:01",
+      "first_scraped_at": "2026-11-23T01:00:03.793859+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "the Mission, Dec 1st Hi everyone! One of my roommates is moving out at the end of the month, so",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4799531570281845",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1300,
+      "neighborhood": "Hayward",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3.5B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 3,
+      "amenities": [
+        "garage_gym",
+        "street_parking",
+        "solar_power",
+        "community_park",
+        "kids_playground"
+      ],
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with owner; prefers stay >1 year; has a dog",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4799531570281845",
+      "posted_at": "Sunday 22 November 2026 at 15:57",
+      "first_scraped_at": "2026-11-23T01:00:03.793859+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "looking to fill 3 bedroom/shared bath in my 4bd 3.5ba townhouse NOW in Hayward! Move in NOW! The home is",
+      "group_id": "2176716625896699"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-22T16:08:18.024501",
-  "count": 3821,
+  "updated_at": "2026-11-22T17:07:22.934808",
+  "count": 3822,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -121840,6 +121840,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for a room from mid-January to mid-May. Budget max 1000$. Incoming spring 2027 female visiting student looking for a bed/room.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2071076510250587",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "private room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Female; has a cat",
+      "reason": "internship",
+      "age": 24,
+      "bio": "Recent grad and current SF Zoo intern; outgoing, active, environmentally passionate. Enjoys climbing, trying new restaurants, and movie nights.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2071076510250587",
+      "posted_at": "Sunday 22 November 2026 at 16:26",
+      "first_scraped_at": "2026-11-23T01:00:03.793859+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Looking for a room in SF! Hi all! I\u2019m 24F, recently graduated from grad school at SFSU, and interning at",
+      "group_id": "242765489748374"
     }
   ]
 }
