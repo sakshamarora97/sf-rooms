@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-24T09:17:20.785151",
-  "count": 1275,
+  "updated_at": "2026-11-24T10:16:49.191946",
+  "count": 1276,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -39745,6 +39745,40 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "to Find a 2BR/2BA Apartment in Jersey City North Jersey** Hey everyone! We're a friendly couple looking for another couple",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2288440108387450",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room",
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Brooklyn",
+        "Manhattan",
+        "Queens"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female/femme or other queer roommates",
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old full-time barista who is clean, responsible and social. Enjoys music, horror movies, Drag Race, gym and cooking.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2288440108387450",
+      "posted_at": "Tuesday 24 November 2026 at 09:20",
+      "first_scraped_at": "2026-11-24T18:07:57.330003+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "NYC for an immediate move in/ December 1st Hey everyone! I\u2019m looking to take over a lease or sublet a",
+      "group_id": "149460102285472"
     }
   ]
 }
