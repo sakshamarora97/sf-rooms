@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T10:07:52.225450",
-  "count": 3941,
+  "updated_at": "2026-11-24T11:09:25.597248",
+  "count": 3942,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -131817,6 +131817,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "APARTMENT IN THE HEART OF BERKELEY hey guys, I'm looking for someone to sublet my friend's place in southside Berkeley",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2072965596728345",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": "2027-01-01",
+      "available_until": "2027-06-30",
+      "unit_config": "3B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "dishwasher",
+        "in_unit_laundry"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2072965596728345",
+      "posted_at": "Tuesday 24 November 2026 at 10:15",
+      "first_scraped_at": "2026-11-24T19:00:02.598415+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "January to June, $1900 a month Hi all! We have a room opening in January in an amazing 3 bedroom",
+      "group_id": "242765489748374"
     }
   ]
 }

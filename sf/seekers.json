@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T10:07:52.225450",
-  "count": 3850,
+  "updated_at": "2026-11-24T11:09:25.597248",
+  "count": 3851,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122729,6 +122729,45 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "a month to month lease in the Berkeley area. Please let me know if you have anything.",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "29257020403955236",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 2400,
+      "unit_type_wanted": [
+        "room",
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "Cow Hollow",
+        "Pacific Heights",
+        "Russian Hill",
+        "North Beach",
+        "Hayes Valley",
+        "Duboce Triangle",
+        "Mission District",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": false,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 27,
+      "bio": "Works in tech at an early-stage startup and will be in-office five days a week. Active, social, clean and considerate; enjoys running, lifting, outdoors and trying restaurants.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29257020403955236",
+      "posted_at": "Tuesday 24 November 2026 at 10:18",
+      "first_scraped_at": "2026-11-24T19:00:02.598415+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "ROOMMATES JAN or FEB 2027 Hey everyone! I\u2019m 27 and moving from Chicago to San Francisco to join an early-stage",
+      "group_id": "843764532374203"
     }
   ]
 }
