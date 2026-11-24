@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T13:08:01.722313",
-  "count": 3947,
+  "updated_at": "2026-11-24T14:07:15.406909",
+  "count": 3948,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -132012,6 +132012,42 @@
       "source_group": "UC Berkeley Off-Campus Housing",
       "search_snippet": "(FEMALE ONLY): Hi! I\u2019m subleasing my Southside Berkeley Apartment! Dates: December 20, 2026 May 30, 2027 (Flexible dates if needed)",
       "group_id": "128476910881473"
+    },
+    {
+      "listing_id": "1425560822677494",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": "2027-07-31",
+      "unit_config": "2B2B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "gym",
+        "rooftop",
+        "game_room",
+        "study_rooms",
+        "coffee_bar",
+        "printing_services"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "Identity Logan Park",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1425560822677494",
+      "posted_at": "Tuesday 24 November 2026 at 13:45",
+      "first_scraped_at": "2026-11-24T22:00:03.096293+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Sublet, Identity Logan Park, Furnished Double, $1,200/month I'm a junior at UC Berkeley studying abroad this spring, so I'm looking",
+      "group_id": "558742412692677"
     }
   ]
 }
