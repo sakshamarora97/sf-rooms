@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-23T21:21:45.825841",
-  "count": 3800,
+  "updated_at": "2026-11-23T22:34:06.134129",
+  "count": 3801,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -127153,6 +127153,38 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": null,
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29091851030484373",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": null,
+      "rent": 1200,
+      "neighborhood": "Jersey City",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "parking",
+        "kitchen"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29091851030484373",
+      "posted_at": "Monday 23 November 2026 at 21:31",
+      "first_scraped_at": "2026-11-24T06:12:24.477225+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "w bathroom available Dec 1 Asap Jersey City, NJ Rent 1200 looking for someone to take over sublet. Laundry In-unit,",
+      "group_id": "765841576845364"
     }
   ]
 }
