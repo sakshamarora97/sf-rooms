@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-23T19:08:13.922272",
-  "count": 3840,
+  "updated_at": "2026-11-23T20:10:47.480236",
+  "count": 3843,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122424,6 +122424,101 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "private room in South San Francisco I'm looking for a place to stay in or near South San Francisco, ideally",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4801001263468209",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-02-13",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private room",
+        "studio",
+        "entire unit"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District",
+        "SoMa",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "rotation",
+      "age": 23,
+      "bio": "A 23-year-old Physician Assistant student completing clinical rotations in San Francisco. Clean, respectful, easygoing; enjoys coffee shops, exploring the city, and going to the gym.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4801001263468209",
+      "posted_at": "Monday 23 November 2026 at 17:45",
+      "first_scraped_at": "2026-11-24T04:00:06.759368+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a 23-year-old Physician Assistant (PA) student from North Carolina coming to the Bay Area to complete my first two clinical",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4432185640425520",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Jose",
+        "Santa Clara",
+        "Palo Alto",
+        "Sunnyvale"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 20,
+      "bio": "20-year-old seeking a roommate in San Jose, Santa Clara, Palo Alto, or Sunnyvale.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4432185640425520",
+      "posted_at": "Monday 23 November 2026 at 19:58",
+      "first_scraped_at": "2026-11-24T04:00:06.759368+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "year old, looking for roomate(s). I'd live in San Jose, Santa Clara, Palo Alto, Sunnyvale. Just DM me",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4432669917043759",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-31",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "San Jose"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "25-year-old moving to San Jose for a full-time job. Enjoys sports, working out, hiking, music, games, and food; values a clean, respectful roommate.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4432669917043759",
+      "posted_at": "Monday 23 November 2026 at 19:57",
+      "first_scraped_at": "2026-11-24T04:00:06.759368+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "25yo moving to San Jose from Florida for a full time job. Hoping to find someone who is also looking",
+      "group_id": "1511607562483357"
     }
   ]
 }
