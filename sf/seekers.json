@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T11:09:25.597248",
-  "count": 3851,
+  "updated_at": "2026-11-24T12:07:53.469173",
+  "count": 3852,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122768,6 +122768,44 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "ROOMMATES JAN or FEB 2027 Hey everyone! I\u2019m 27 and moving from Chicago to San Francisco to join an early-stage",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2072893303402241",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2600,
+      "budget_max": 2600,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Nob Hill",
+        "Russian Hill",
+        "North Beach",
+        "Marina",
+        "Cow Hollow",
+        "Hayes Valley",
+        "NoPa",
+        "Lower Pacific Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "26-year-old; wants women in their 20s; has a cat",
+      "reason": "new_job",
+      "age": 26,
+      "bio": "26-year-old moving to San Francisco for a new job. Enjoys hiking, reading fiction, trying restaurants and coffee shops; values tidy shared spaces.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2072893303402241",
+      "posted_at": "Tuesday 24 November 2026 at 08:50",
+      "first_scraped_at": "2026-11-24T20:00:04.255155+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a 26-year-old moving to SF from Philadelphia in early-to-mid December for a new job, and I'm looking for like-minded women",
+      "group_id": "242765489748374"
     }
   ]
 }
