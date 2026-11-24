@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-23T20:22:56.121703",
-  "count": 1263,
+  "updated_at": "2026-11-23T21:21:45.825841",
+  "count": 1266,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -39373,6 +39373,104 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "private room ASAP move in. Looking for a private room ASAP move in. I'm looking for a private bedroom in",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2287816328449828",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 1200,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Relocating to NYC to start a new job; enjoys exploring cafes, art, museums, and music; values cleanliness, tranquility, and respectful communication.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2287816328449828",
+      "posted_at": "Monday 23 November 2026 at 20:04",
+      "first_scraped_at": "2026-11-24T05:09:54.562201+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "roomate/room to search for a 2 bedroom apartments with! Hey everyone! I\u2019m looking for a roomate (or a room) with",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2287795885118539",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City",
+        "Upper East Side",
+        "Upper West Side",
+        "Hell's Kitchen",
+        "Midtown",
+        "Williamsburg",
+        "Bed-Stuy",
+        "Greenpoint"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Has 2 cats",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Relocating from Nashville to NYC for a job in TV & Film. Has two friendly cats; is a non-smoker and social but not a big partier.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2287795885118539",
+      "posted_at": "Monday 23 November 2026 at 19:35",
+      "first_scraped_at": "2026-11-24T05:09:54.562201+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Everyone! My name is Bryan and I am relocating to NYC from Nashville on a job offer for a career",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2287794428452018",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 22,
+      "bio": "22-year-old moving from California, works in consulting with a hybrid schedule; social, enjoys outdoors, gym, dining out, hosting friends and going out on weekends.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2287794428452018",
+      "posted_at": "Monday 23 November 2026 at 19:34",
+      "first_scraped_at": "2026-11-24T05:09:54.562201+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "name is harveen and I\u2019m 22! I'm moving from California to NYC and am looking for roommates to find an",
+      "group_id": "149460102285472"
     }
   ]
 }
