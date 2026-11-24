@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-23T16:19:10.026744",
-  "count": 1261,
+  "updated_at": "2026-11-23T17:52:41.951604",
+  "count": 1262,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -39313,6 +39313,35 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "a Private Room Flat mates Jersey City/Edison* Hi everyone! I\u2019m looking for a private bedroom in Jersey City/ Edison preferably",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2287671635130964",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 3500,
+      "budget_max": 3500,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Flatbush",
+        "Washington Heights"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Two working women; wants a third roommate; no pets; POC & LGBTQ+ friendly",
+      "reason": null,
+      "age": null,
+      "bio": "Two working women seeking a third roommate; one commutes to midtown and enjoys cafes, long walks and exploring; the other works in retail at a dispensary, pursuing cosmetology and the cannabis field, social but values alone time.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2287671635130964",
+      "posted_at": "Monday 23 November 2026 at 16:29",
+      "first_scraped_at": "2026-11-24T01:11:16.840279+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "two working women looking for a third roommate to find an apartment with and/or sign a lease with for at",
+      "group_id": "149460102285472"
     }
   ]
 }
