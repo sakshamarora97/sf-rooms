@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-23T18:09:20.625992",
-  "count": 3913,
+  "updated_at": "2026-11-23T19:08:13.922272",
+  "count": 3914,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -130878,6 +130878,41 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "1 bath sublease (12/6-20) Short-Term Apartment Sublet in Mission Bay, San Francisco Looking for someone to stay in my apartment",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1424728522760724",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 2795,
+      "neighborhood": "Downtown Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "bed_frame_included",
+        "additional_furniture_available",
+        "near_BART",
+        "near_UC_Berkeley",
+        "near_grocery",
+        "virtual_tour_available"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1424728522760724",
+      "posted_at": "Monday 23 November 2026 at 18:34",
+      "first_scraped_at": "2026-11-24T03:00:06.566048+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Apartment December Move-In $2,795/month I\u2019m relocating to NYC for work and looking for someone to take over my studio apartment",
+      "group_id": "558742412692677"
     }
   ]
 }
