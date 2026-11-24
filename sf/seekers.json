@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T08:11:44.616125",
-  "count": 3849,
+  "updated_at": "2026-11-24T09:07:41.892920",
+  "count": 3850,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122701,6 +122701,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "28 queer. I\u2019m looking for a studio/1bd apartment in San Fransisco! I need to move by January 1st! I\u2019m willing",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1425343159365927",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a month-to-month lease in the Berkeley area.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1425343159365927",
+      "posted_at": "Tuesday 24 November 2026 at 08:41",
+      "first_scraped_at": "2026-11-24T17:00:03.566923+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "a month to month lease in the Berkeley area. Please let me know if you have anything.",
+      "group_id": "558742412692677"
     }
   ]
 }
