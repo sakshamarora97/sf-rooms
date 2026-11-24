@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T12:07:53.469173",
-  "count": 3852,
+  "updated_at": "2026-11-24T13:08:01.722313",
+  "count": 3853,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122806,6 +122806,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a 26-year-old moving to SF from Philadelphia in early-to-mid December for a new job, and I'm looking for like-minded women",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4802030800031922",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lower Haight",
+        "Inner Richmond",
+        "Panhandle",
+        "Hayes Valley",
+        "Alamo Square"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": 28,
+      "bio": "28-year-old remote worker relocating to San Francisco; enjoys running, hiking, biking, and seeks social roommates.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4802030800031922",
+      "posted_at": "Tuesday 24 November 2026 at 11:37",
+      "first_scraped_at": "2026-11-24T21:00:06.514807+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "for Spot in Late Dec/Early Jan I'm planning ahead a bit and looking to join a lease, get a few",
+      "group_id": "2176716625896699"
     }
   ]
 }
