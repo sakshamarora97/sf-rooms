@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-23T17:11:12.017863",
-  "count": 3839,
+  "updated_at": "2026-11-23T18:09:20.625992",
+  "count": 3840,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122394,6 +122394,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "someone here lives at the paramount (soma) and is subletting over the holidays? Like Dec 21-27 and then maybe 31-4",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2072184173473154",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-04-01",
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "South San Francisco"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Prefers dudes or couples.",
+      "reason": null,
+      "age": null,
+      "bio": "Engineer; clean, responsible, respectful; works most waking hours.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2072184173473154",
+      "posted_at": "Monday 23 November 2026 at 17:37",
+      "first_scraped_at": "2026-11-24T02:00:05.893751+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "private room in South San Francisco I'm looking for a place to stay in or near South San Francisco, ideally",
+      "group_id": "242765489748374"
     }
   ]
 }
