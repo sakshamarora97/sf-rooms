@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-23T19:19:46.444049",
-  "count": 3797,
+  "updated_at": "2026-11-23T20:22:56.121703",
+  "count": 3798,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -127069,6 +127069,34 @@
       "source_group": "New York Apartments, Houses, Rooms For Rent & Roommates",
       "search_snippet": "street, Manhattan Room in 3 bedroom $1400 per month. $400 per week. No deposit. Utilities, internet, common expenses included. Twin",
       "group_id": "812568135514746"
+    },
+    {
+      "listing_id": "2949944625371802",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 4826,
+      "neighborhood": "Newport",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "1 River Court",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2949944625371802",
+      "posted_at": "Monday 23 November 2026 at 19:41",
+      "first_scraped_at": "2026-11-24T04:10:52.030587+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "bathrooms Flat 1 River Ct, Jersey City, NJ 07310-2001, United States Lease Takeover 2B2B Available 1 River Court, Newport, Jersey",
+      "group_id": "1138638939835722"
     }
   ]
 }

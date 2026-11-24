@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-23T19:19:46.444049",
-  "count": 1262,
+  "updated_at": "2026-11-23T20:22:56.121703",
+  "count": 1263,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -39342,6 +39342,37 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "two working women looking for a third roommate to find an apartment with and/or sign a lease with for at",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29087280727608070",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square",
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Software Product Manager working full-time; vegetarian; open to roommates who eat meat.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29087280727608070",
+      "posted_at": "Monday 23 November 2026 at 11:28",
+      "first_scraped_at": "2026-11-24T04:10:52.030587+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "private room ASAP move in. Looking for a private room ASAP move in. I'm looking for a private bedroom in",
+      "group_id": "765841576845364"
     }
   ]
 }
