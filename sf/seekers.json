@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T14:07:15.406909",
-  "count": 3853,
+  "updated_at": "2026-11-24T15:08:33.754258",
+  "count": 3854,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122839,6 +122839,40 @@
       "first_scraped_at": "2026-11-24T21:00:06.514807+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "for Spot in Late Dec/Early Jan I'm planning ahead a bit and looking to join a lease, get a few",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4802157560019246",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 3200,
+      "budget_max": 4500,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Noe Valley",
+        "Haight-Ashbury",
+        "Castro",
+        "Cole Valley"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Single person; wants private private spaces; has no pets",
+      "reason": "relocation",
+      "age": 25,
+      "bio": "25-year-old relocating from Tampa to San Francisco, seeking private spaces or lease takeovers between late December and early January; bringing a car, open to street parking.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4802157560019246",
+      "posted_at": "Tuesday 24 November 2026 at 14:03",
+      "first_scraped_at": "2026-11-24T23:00:07.904729+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "over a lease or available occupancies! Hey guys, I\u2019m moving all the way from Tampa, Fl to SF. I\u2019m 25",
       "group_id": "2176716625896699"
     }
   ]
