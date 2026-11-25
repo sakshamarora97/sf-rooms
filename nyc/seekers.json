@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-25T14:20:04.895264",
-  "count": 1300,
+  "updated_at": "2026-11-25T15:20:34.394073",
+  "count": 1301,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -40515,6 +40515,37 @@
       "first_scraped_at": "2026-11-25T22:08:34.048553+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "August. I\u2019m 22, moving from MD to NYC, and looking for roommates to find an apartment with. I recently graduated",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2289801321584662",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-02",
+      "move_out_date": "2027-04-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "apartment",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "SoHo"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 18,
+      "bio": "18-year-old University of Waterloo Math and Computer Science student working at a fintech startup in SoHo this winter. Quiet, clean, responsible; currently in Canada and open to video tours.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2289801321584662",
+      "posted_at": "Wednesday 25 November 2026 at 14:54",
+      "first_scraped_at": "2026-11-25T23:08:20.016647+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Ayan, 18, studying Math and Computer Science at the University of Waterloo in Canada. I'm working at a fintech startup",
       "group_id": "149460102285472"
     }
   ]
