@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T16:08:13.094021",
-  "count": 3855,
+  "updated_at": "2026-11-24T17:09:04.465561",
+  "count": 3856,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122902,6 +122902,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a room to rent in San Francisco, ideally starting January 9th. I\u2019m also interested in connecting with people",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4802291093339226",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Hayes Valley",
+        "NoPa",
+        "Cole Valley",
+        "Lower Haight"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Couple; has a dog",
+      "reason": null,
+      "age": null,
+      "bio": "Couple seeking a 2BR/1BA rental in San Francisco with an early-2027 move-in; needs one dedicated parking spot and is open to lease takeover.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4802291093339226",
+      "posted_at": "Tuesday 24 November 2026 at 16:45",
+      "first_scraped_at": "2026-11-25T01:00:05.405765+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "partner and I are looking for a 2 bedroom 1 bathroom rental in SF with an early 2027 move-in timeline.",
+      "group_id": "2176716625896699"
     }
   ]
 }
