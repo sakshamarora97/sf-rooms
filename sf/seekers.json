@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T20:09:46.963647",
-  "count": 3857,
+  "updated_at": "2026-11-24T21:08:29.880654",
+  "count": 3858,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122966,6 +122966,36 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "name is Rashell, I\u2019m 25 and work in Palo Alto, CA. I\u2019m looking to rent a room or apartment with",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2073359403355631",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-27",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Travel nurse; needs pet-free home",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Travel nurse relocating to San Francisco for a three-month contract. Works day shifts, quiet, respectful, and seeks a peaceful, pet-free home.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2073359403355631",
+      "posted_at": "Tuesday 24 November 2026 at 19:50",
+      "first_scraped_at": "2026-11-25T05:00:03.946771+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "name is Gianna, and I\u2019m planning to relocate to the San Francisco area a few days after Christmas! I\u2019m originally",
+      "group_id": "242765489748374"
     }
   ]
 }
