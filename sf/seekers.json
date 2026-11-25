@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T13:08:02.794489",
-  "count": 3867,
+  "updated_at": "2026-11-25T14:08:28.818917",
+  "count": 3870,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123287,6 +123287,104 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "studio or one-bedroom sublease available from November 29 through December 7",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4803461806555488",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Potrero Hill",
+        "Dogpatch",
+        "SoMa",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Former Harvard researcher from the UK starting a job at a startup in San Francisco; friendly, outgoing, tidy and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4803461806555488",
+      "posted_at": "Wednesday 25 November 2026 at 13:50",
+      "first_scraped_at": "2026-11-25T22:00:06.507521+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "(23) and I'm moving to SF on January 1st to start work at a startup. Looking for a room, ideally",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "29270015212655755",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1700,
+      "budget_max": 2100,
+      "unit_type_wanted": [
+        "private room",
+        "private apartment",
+        "shared room"
+      ],
+      "preferred_neighborhoods": [
+        "Financial District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Newly employed in the city seeking to move closer to work; clean, communicative, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29270015212655755",
+      "posted_at": "Wednesday 25 November 2026 at 13:03",
+      "first_scraped_at": "2026-11-25T22:00:06.507521+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "place available starting dec/jan? just got a new job in the city and want to move closer to work open",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29259969646993645",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-02-21",
+      "move_out_date": "2027-05-31",
+      "budget_min": 2300,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "studio",
+        "in-law unit",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View",
+        "Palo Alto"
+      ],
+      "area": "South Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "internship",
+      "age": 27,
+      "bio": "27-year-old PhD student doing a research internship in Mountain View. Quiet and respectful; enjoys hiking and exploring the Bay Area.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29259969646993645",
+      "posted_at": "Wednesday 25 November 2026 at 09:40",
+      "first_scraped_at": "2026-11-25T22:00:06.507521+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "a 27-year-old PhD student looking for a furnished sublet from approximately February 21 through May 31, 2027. I\u2019ll be working",
+      "group_id": "843764532374203"
     }
   ]
 }
