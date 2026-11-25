@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-24T21:18:37.075145",
-  "count": 1283,
+  "updated_at": "2026-11-24T22:19:31.115460",
+  "count": 1284,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -39990,6 +39990,34 @@
       "first_scraped_at": "2026-11-25T05:08:34.782504+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "ROOMMATE FOR FEB 1st LEASE! Looking for **one individual (not a couple)** to sign a lease together at **32 Oakland",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "29103751485960994",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 600,
+      "budget_max": 600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old server who describes themself as clean, respectful, and friendly; looking to move in January and seeking a room in the listed New Jersey towns.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29103751485960994",
+      "posted_at": "Tuesday 24 November 2026 at 21:19",
+      "first_scraped_at": "2026-11-25T06:10:10.579535+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "for a room to rent in Ewing, Hamilton, Princeton, Plainsboro, East Windsor area. My main price is $600 I\u2019m a",
       "group_id": "765841576845364"
     }
   ]
