@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T15:08:33.754258",
-  "count": 3854,
+  "updated_at": "2026-11-24T16:08:13.094021",
+  "count": 3855,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122874,6 +122874,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "over a lease or available occupancies! Hey guys, I\u2019m moving all the way from Tampa, Fl to SF. I\u2019m 25",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2073181523373419",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-01-09",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a room in San Francisco starting Jan 9; open to forming a new lease or joining existing roommates.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2073181523373419",
+      "posted_at": "Tuesday 24 November 2026 at 15:29",
+      "first_scraped_at": "2026-11-25T00:00:06.499949+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a room to rent in San Francisco, ideally starting January 9th. I\u2019m also interested in connecting with people",
+      "group_id": "242765489748374"
     }
   ]
 }
