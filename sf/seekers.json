@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T09:06:09.609218",
-  "count": 3862,
+  "updated_at": "2026-11-25T10:08:52.562387",
+  "count": 3865,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123126,6 +123126,109 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "San Francisco Dec 26 for a month or so (very flexible on length) Hi everyone! I'm looking to sublet an",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "29262973960026547",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "shared_room"
+      ],
+      "preferred_neighborhoods": [
+        "North Beach",
+        "Richmond District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Couple",
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent Berkeley graduate who is quiet, clean, and just started a startup role; likes travel, working out, hiking, and socializing.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29262973960026547",
+      "posted_at": "Wednesday 25 November 2026 at 09:40",
+      "first_scraped_at": "2026-11-25T18:00:06.604471+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "for a place to sublet for a few months, preferably north beach or russian hill but i'm open to the",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29263218780002065",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-15",
+      "move_out_date": null,
+      "budget_min": 1450,
+      "budget_max": 1450,
+      "unit_type_wanted": [
+        "room",
+        "2B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Glen Park"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Considerate roommate; wants F roommate",
+      "reason": null,
+      "age": null,
+      "bio": "Late-20s considerate roommate who enjoys exploring the city, coffee, and hiking, while valuing downtime; seeks clean, communicative housemate.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29263218780002065",
+      "posted_at": "Wednesday 25 November 2026 at 09:40",
+      "first_scraped_at": "2026-11-25T18:00:06.604471+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "for a late 20\u2019s 30\u2019s F interested in splitting a 2 bedroom house in the Glen Park area starting in",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1426435649256678",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "3B",
+        "4B",
+        "5B",
+        "6B",
+        "room",
+        "multiple_units",
+        "lease_takeover",
+        "sublet"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley",
+        "Northside Berkeley",
+        "Elmwood",
+        "Downtown Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 6,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Group of 6 girls",
+      "reason": "student",
+      "age": null,
+      "bio": "Group of six UC Berkeley sophomores, members of a sorority; responsible, clean, respectful, can provide references and guarantors.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1426435649256678",
+      "posted_at": "Wednesday 25 November 2026 at 09:58",
+      "first_scraped_at": "2026-11-25T18:00:06.604471+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Fall 2027 Hi everyone! We're a group of 6 UC Berkeley sophomores (all girls, in Delta Gamma) looking for a",
+      "group_id": "558742412692677"
     }
   ]
 }
