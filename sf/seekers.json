@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T11:06:25.132547",
-  "count": 3865,
+  "updated_at": "2026-11-25T12:08:23.167028",
+  "count": 3866,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123229,6 +123229,35 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Fall 2027 Hi everyone! We're a group of 6 UC Berkeley sophomores (all girls, in Delta Gamma) looking for a",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2074024586622446",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-02-28",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Temporary Bay Area visitor in town for work seeking a furnished private 1BR or studio for January\u2013February; can provide references and credit check.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074024586622446",
+      "posted_at": "Wednesday 25 November 2026 at 09:45",
+      "first_scraped_at": "2026-11-25T20:00:07.236747+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for a 1 Bedroom or studio to sublet in the Bay Area for the month of January and February",
+      "group_id": "242765489748374"
     }
   ]
 }
