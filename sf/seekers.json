@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T14:08:28.818917",
-  "count": 3870,
+  "updated_at": "2026-11-25T15:08:14.391960",
+  "count": 3871,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123385,6 +123385,45 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "a 27-year-old PhD student looking for a furnished sublet from approximately February 21 through May 31, 2027. I\u2019ll be working",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1426618972571679",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-08-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "3-6 bedroom",
+        "house",
+        "apartment",
+        "multiple units",
+        "sublet",
+        "semester-long lease",
+        "month-to-month lease"
+      ],
+      "preferred_neighborhoods": [
+        "Southside Berkeley",
+        "Northside Berkeley",
+        "Elmwood",
+        "Downtown Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "All girls",
+      "reason": "student",
+      "age": null,
+      "bio": "UC Berkeley juniors and sorority members; responsible, clean, respectful, can provide references.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1426618972571679",
+      "posted_at": "Wednesday 25 November 2026 at 14:46",
+      "first_scraped_at": "2026-11-25T23:00:03.658396+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Fall 2027 Hi everyone! We're a group of UC Berkeley juniors (all girls, in Delta Gamma) looking for housing near",
+      "group_id": "558742412692677"
     }
   ]
 }
