@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-25T07:15:35.095930",
-  "count": 1290,
+  "updated_at": "2026-11-25T10:18:15.321423",
+  "count": 1291,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -40211,6 +40211,36 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "Studio 1BR Sublet or Lease Takeover (Late Jan Mid Feb Start) Hi @highlighteveryone! My wife and I are relocating from",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2951792208520377",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-10",
+      "move_out_date": null,
+      "budget_min": 2700,
+      "budget_max": 3500,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Finance professional relocating to Newport, Jersey City, seeking a 1BR via lease takeover or sublease; flexible on furnishing and budget $2,700\u2013$3,500, move-in Dec 10\u201320, 2026.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2951792208520377",
+      "posted_at": "Wednesday 25 November 2026 at 06:38",
+      "first_scraped_at": "2026-11-25T18:08:58.300399+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "1BR APARTMENT NEWPORT, JERSEY CITY Hi everyone! I'm Ankit, a finance professional relocating to Newport, Jersey City. I'm looking for",
+      "group_id": "1138638939835722"
     }
   ]
 }
