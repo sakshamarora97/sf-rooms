@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-24T18:17:30.770923",
-  "count": 1279,
+  "updated_at": "2026-11-24T20:22:16.490364",
+  "count": 1282,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -39871,6 +39871,96 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "for room in Brooklyn or queens.budget 900-1100$.",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2288872688344192",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 23,
+      "bio": "Works two jobs; describes self as clean and respectful; currently homeless and urgently seeking an affordable room.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2288872688344192",
+      "posted_at": "Tuesday 24 November 2026 at 19:22",
+      "first_scraped_at": "2026-11-25T04:09:51.764489+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Sean, I\u2019m 23, work two jobs and need something soon in the cheaper ranges, don\u2019t come from some kinda \u201cmah",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2288862688345192",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 24,
+      "bio": "24-year-old data analyst who works from home; social, clean, and easygoing. Enjoys cafes, fitness classes, shopping, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2288862688345192",
+      "posted_at": "Tuesday 24 November 2026 at 19:07",
+      "first_scraped_at": "2026-11-25T04:09:51.764489+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "seeking Manhattan roommates under $2.2k Hi! I\u2019m Jimin, 24, and looking for roommates in Manhattan! A little about me: I\u2019m",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29102992172703592",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1200,
+      "unit_type_wanted": [
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Hoboken",
+        "Downtown Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Works full-time at DoorDash. Seeking a 1-bed with private bath; prefers non-smoking/drinking household and a unit with a dishwasher.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29102992172703592",
+      "posted_at": "Tuesday 24 November 2026 at 19:46",
+      "first_scraped_at": "2026-11-25T04:09:51.764489+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "Rohan, working full time at DoorDash and am looking for a on lease 1 bed with attached private bath in",
+      "group_id": "765841576845364"
     }
   ]
 }
