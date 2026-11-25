@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-25T06:20:30.582095",
-  "count": 1289,
+  "updated_at": "2026-11-25T07:15:35.095930",
+  "count": 1290,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -40180,6 +40180,37 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "I'm finishing my degree at UMass Amherst online and working full time as a delivery rider here in Jersey City.",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2289273774970750",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": true,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Couple; seeking furnished studio/1BR sublet or lease takeover starting late Jan/ mid-Feb; has an indoor cat",
+      "reason": "relocation",
+      "age": null,
+      "bio": "They are a married couple with finance and accounting professional backgrounds relocating from the UAE. Seeking a furnished short-term studio or 1BR with possible long-term extension.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2289273774970750",
+      "posted_at": "Wednesday 25 November 2026 at 04:33",
+      "first_scraped_at": "2026-11-25T15:07:28.136775+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Studio 1BR Sublet or Lease Takeover (Late Jan Mid Feb Start) Hi @highlighteveryone! My wife and I are relocating from",
+      "group_id": "149460102285472"
     }
   ]
 }
