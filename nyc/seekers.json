@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-25T10:18:15.321423",
-  "count": 1291,
+  "updated_at": "2026-11-25T11:18:10.952751",
+  "count": 1293,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -40241,6 +40241,72 @@
       "source_group": "Newport Jersey City 07310",
       "search_snippet": "1BR APARTMENT NEWPORT, JERSEY CITY Hi everyone! I'm Ankit, a finance professional relocating to Newport, Jersey City. I'm looking for",
       "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2289647541600040",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1400,
+      "unit_type_wanted": [
+        "sublet",
+        "lease_takeover"
+      ],
+      "preferred_neighborhoods": [
+        "Bed-Stuy",
+        "Bushwick",
+        "Crown Heights",
+        "Prospect Heights",
+        "Williamsburg"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Male",
+      "reason": "relocation",
+      "age": 23,
+      "bio": "23-year-old professional saxophonist relocating from Boston. Chill, clean, respectful roommate who enjoys local music, food, nightlife, outdoors, cooking, and fishing.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2289647541600040",
+      "posted_at": "Wednesday 25 November 2026 at 11:04",
+      "first_scraped_at": "2026-11-25T19:06:30.945371+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "sublet/lease takeover in Brooklyn (Jan/Feb move-in). Hi ya\u2019ll! My name is Alex and I\u2019m currently looking for a sublet/lease takeover",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2289642384933889",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2027-01-09",
+      "move_out_date": "2027-01-23",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Medical doctor traveling to NYC for a two-week stay; seeking a furnished room or studio in Manhattan or accessible by public transit.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2289642384933889",
+      "posted_at": "Wednesday 25 November 2026 at 10:57",
+      "first_scraped_at": "2026-11-25T19:06:30.945371+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Accommodation in NYC (January 9\u201323, 2027) Hi everyone! I'm a medical doctor and will be travelling to NYC for a",
+      "group_id": "149460102285472"
     }
   ]
 }
