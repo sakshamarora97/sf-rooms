@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T12:08:23.167028",
-  "count": 3866,
+  "updated_at": "2026-11-25T13:08:02.794489",
+  "count": 3867,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123258,6 +123258,35 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "looking for a 1 Bedroom or studio to sublet in the Bay Area for the month of January and February",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4803323036569365",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-29",
+      "move_out_date": "2026-12-07",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4803323036569365",
+      "posted_at": "Wednesday 25 November 2026 at 11:13",
+      "first_scraped_at": "2026-11-25T21:00:03.116314+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "studio or one-bedroom sublease available from November 29 through December 7",
+      "group_id": "2176716625896699"
     }
   ]
 }
