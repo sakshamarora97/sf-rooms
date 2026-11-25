@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-24T19:09:40.629783",
-  "count": 3856,
+  "updated_at": "2026-11-24T20:09:46.963647",
+  "count": 3857,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -122935,6 +122935,37 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "partner and I are looking for a 2 bedroom 1 bathroom rental in SF with an early 2027 move-in timeline.",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4434564046854346",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "apartment"
+      ],
+      "preferred_neighborhoods": [
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "25-year-old; wants female roommate; has a 6-month-old pup",
+      "reason": null,
+      "age": 25,
+      "bio": "Works in Palo Alto; quiet and very clean; seeking a room or apartment with a female roommate; has a friendly, potty-trained 6-month-old pup.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4434564046854346",
+      "posted_at": "Tuesday 24 November 2026 at 19:48",
+      "first_scraped_at": "2026-11-25T04:00:05.852268+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "name is Rashell, I\u2019m 25 and work in Palo Alto, CA. I\u2019m looking to rent a room or apartment with",
+      "group_id": "1511607562483357"
     }
   ]
 }
