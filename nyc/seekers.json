@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-24T20:22:16.490364",
-  "count": 1282,
+  "updated_at": "2026-11-24T21:18:37.075145",
+  "count": 1283,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -39960,6 +39960,36 @@
       "first_scraped_at": "2026-11-25T04:09:51.764489+00:00",
       "source_group": "Jersey City Roommates",
       "search_snippet": "Rohan, working full time at DoorDash and am looking for a on lease 1 bed with attached private bath in",
+      "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "29103535035982639",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-02-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeks one roommate to sign a Feb 1 lease for a 2BR/2BA at Overlook Flats in Journal Square; posts a $1,800 budget and wants a vegetarian, responsible, clean, easygoing roommate.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29103535035982639",
+      "posted_at": "Tuesday 24 November 2026 at 20:51",
+      "first_scraped_at": "2026-11-25T05:08:34.782504+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "ROOMMATE FOR FEB 1st LEASE! Looking for **one individual (not a couple)** to sign a lease together at **32 Oakland",
       "group_id": "765841576845364"
     }
   ]
