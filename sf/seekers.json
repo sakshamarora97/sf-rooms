@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T18:09:01.752235",
-  "count": 3875,
+  "updated_at": "2026-11-25T19:10:20.755902",
+  "count": 3876,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123544,6 +123544,37 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "I am currently looking for a private or shared room in San Francisco, California. I am a responsible, hardworking, quiet,",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1425778592655717",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-15",
+      "move_out_date": "2026-12-26",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "4BR",
+        "3BR"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 5,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a short-term furnished rental in Berkeley for five adults from 2026-12-15 to 2026-12-26.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1425778592655717",
+      "posted_at": "Wednesday 25 November 2026 at 19:02",
+      "first_scraped_at": "2026-11-26T03:00:03.861368+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "short-term furnished rental in Berkeley for 5 adults from December 15\u201326, 2026 (11 nights). Must have 4 bedrooms, or 3",
+      "group_id": "558742412692677"
     }
   ]
 }
