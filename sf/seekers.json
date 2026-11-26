@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T12:06:35.729360",
-  "count": 3895,
+  "updated_at": "2026-11-26T13:06:22.213985",
+  "count": 3896,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124175,6 +124175,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "for 2 Private Rooms with a Shared Bathroom in Sunnyvale or Mountain View Mid-January to End of May 2027 Hi",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4804707046430964",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Seeker looking for short- or long-term housing in/around the Mission; budget up to $3,000; can move in ASAP.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4804707046430964",
+      "posted_at": "Thursday 26 November 2026 at 12:09",
+      "first_scraped_at": "2026-11-26T21:00:06.036087+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "place to stay short/long term if you, or you know someone with something cute hmu ideally somewhere in/around the mission,",
+      "group_id": "2176716625896699"
     }
   ]
 }

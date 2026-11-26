@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T12:06:35.729360",
-  "count": 4039,
+  "updated_at": "2026-11-26T13:06:22.213985",
+  "count": 4040,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -135115,6 +135115,34 @@
       "first_scraped_at": "2026-11-26T20:00:03.632757+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "the Dogpatch, is a residential and industrial San Francisco neighborhood with hilltop views and a sunny microclimate. 18th Street and",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2075202129838025",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": 2300,
+      "neighborhood": "Mission District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B1B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075202129838025",
+      "posted_at": "Thursday 26 November 2026 at 11:04",
+      "first_scraped_at": "2026-11-26T21:00:06.036087+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Park and Valencia Street, is a historic and walkable San Francisco neighborhood with Victorian flats and sunlit park slopes. The",
       "group_id": "242765489748374"
     }
   ]
