@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T06:10:18.680688",
-  "count": 4034,
+  "updated_at": "2026-11-26T07:08:25.698301",
+  "count": 4035,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -134954,6 +134954,41 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "looking for a roommate (female preferred, but open to anyone!) to share my 2bed/2bath apartment at Sofi Sunnyvale (3rd floor).",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "29278131045177505",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2000,
+      "neighborhood": "Nob Hill",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "rooftop",
+        "gym",
+        "landscaped_courtyard",
+        "fire_pits",
+        "bike_storage",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "AVA Nob Hill",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29278131045177505",
+      "posted_at": "Thursday 26 November 2026 at 06:51",
+      "first_scraped_at": "2026-11-26T15:00:05.706716+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "looking to sublease my apartment at AVA Nob Hill (965 Sutter St) ASAP! The current lease runs long-term through February",
+      "group_id": "843764532374203"
     }
   ]
 }

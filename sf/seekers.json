@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T06:10:18.680688",
-  "count": 3888,
+  "updated_at": "2026-11-26T07:08:25.698301",
+  "count": 3890,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123954,6 +123954,68 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "2B/2B Co-Hunt or Open Room Hi! I\u2019m (25F) looking for a female roommate to team up and find a great",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4804078386493830",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "SoMa"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Any gender welcome",
+      "reason": null,
+      "age": null,
+      "bio": "Founding engineer at a startup and MIT alum; quiet, clean, non-drinker and non-smoker seeking long-term roommates near Folsom Street.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4804078386493830",
+      "posted_at": "Thursday 26 November 2026 at 02:04",
+      "first_scraped_at": "2026-11-26T15:00:05.706716+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "and current founding engineering Latent who is looking for 1-3 long term roommates (any gender) within 30-40 mins by walking",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "29273789312278345",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Rockridge",
+        "South Berkeley",
+        "Downtown Oakland"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Works in architecture; clean, respectful; enjoys reading, cooking, exploring the city.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29273789312278345",
+      "posted_at": "Thursday 26 November 2026 at 06:50",
+      "first_scraped_at": "2026-11-26T15:00:05.706716+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "a Shared Apartment January 2027 ~$1800 Budget Hi everyone! I\u2019m planning to relocate to San Francisco for work in January",
+      "group_id": "843764532374203"
     }
   ]
 }
