@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-25T19:22:41.661834",
-  "count": 1305,
+  "updated_at": "2026-11-25T20:22:09.917511",
+  "count": 1307,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -40661,6 +40661,69 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "help with accommodation, I\u2019m looking for my friend either in Edison of Bridgewater",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2952433785122886",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-06",
+      "move_out_date": "2026-12-18",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants an all-female apartment",
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a short-term private room in an all-female apartment from December 6 to December 18.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2952433785122886",
+      "posted_at": "Wednesday 25 November 2026 at 19:28",
+      "first_scraped_at": "2026-11-26T04:09:56.947737+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "for a private room in an all-female apartment for a short-term stay from December 6th to December 18th. Please DM",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2289957331569061",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-05-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "East Village",
+        "Lower East Side",
+        "SoHo",
+        "Tribeca",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "30-year-old CNA; comfortable with male and female roommates",
+      "reason": "relocation",
+      "age": 30,
+      "bio": "30-year-old CNA relocating from Louisiana to NYC, seeking a private bedroom in Lower Manhattan for a long-term stay. Clean, respectful, easygoing; enjoys reading, cooking, music, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2289957331569061",
+      "posted_at": "Wednesday 25 November 2026 at 18:39",
+      "first_scraped_at": "2026-11-26T04:09:56.947737+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Lower Manhattan May 1st Looking for a Room Roommates May 1st, 2027 Hey everyone! I'm 30 years old and will",
+      "group_id": "149460102285472"
     }
   ]
 }
