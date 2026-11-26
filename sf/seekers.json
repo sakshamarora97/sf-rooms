@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T21:09:57.162990",
-  "count": 3881,
+  "updated_at": "2026-11-25T22:11:16.000673",
+  "count": 3884,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123727,6 +123727,97 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "I\u2019m in my early 20s and I am trying to find a new place in the city closer to my",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2074485063243065",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Gal; wants animal-friendly household or fellow animal-lovers; has a dog.",
+      "reason": null,
+      "age": 28,
+      "bio": "She is a 28-year-old farm teacher and camp director in San Francisco who enjoys outdoor activities, pottery, crocheting, and baking. Quiet, community-oriented, clean, and brings a friendly 40 lb rescue dog.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074485063243065",
+      "posted_at": "Wednesday 25 November 2026 at 21:02",
+      "first_scraped_at": "2026-11-26T06:00:06.002599+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Search SF Erin Bear Jan/Feb 2027 ~$2000 Hi! I'm Erin, and I'm looking for a new home in SF starting",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4430947403882677",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 26,
+      "bio": "Software engineer working in San Mateo, currently on a month-to-month lease and flexible about move-in; seeking to join a lease or find a roommate.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4430947403882677",
+      "posted_at": "Wednesday 25 November 2026 at 21:29",
+      "first_scraped_at": "2026-11-26T06:00:06.002599+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "join an existing lease or go rental hunting Hey, im a software engineer currently living and working in san mateo",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4435652736745477",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Marina",
+        "North Beach",
+        "Russian Hill",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": null,
+      "bio": "Recent college graduate relocating to San Francisco for a job in January. Easygoing and social; enjoys dining out, cafes, and beach time; prefers quiet home and friendly roommates.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4435652736745477",
+      "posted_at": "Wednesday 25 November 2026 at 21:28",
+      "first_scraped_at": "2026-11-26T06:00:06.002599+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "name is yana, im a chico new grad, and im moving up to sf in jan for work. looking for",
+      "group_id": "1511607562483357"
     }
   ]
 }
