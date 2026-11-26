@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T09:07:20.943551",
-  "count": 4036,
+  "updated_at": "2026-11-26T10:07:33.769039",
+  "count": 4037,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -135024,6 +135024,38 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "to sublease my apartment at Avalon at Mission Bay (255 King St, SF) ASAP! My lease runs all the way",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1427489735817936",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1200,
+      "neighborhood": "Northside Berkeley",
+      "area": "East Bay",
+      "available_from": "2027-01-01",
+      "available_until": null,
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "bike_storage",
+        "coin_op_laundry",
+        "fire_escape"
+      ],
+      "utilities_included": true,
+      "pets_allowed": false,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "not_allowed",
+      "prefs_notes": "Lives with 2 females; prefers female-identifying roommate; no pets.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1427489735817936",
+      "posted_at": "Thursday 26 November 2026 at 10:02",
+      "first_scraped_at": "2026-11-26T18:00:04.449342+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "for Spring 2027* Hi, my name is Sam, and I am looking for someone to sublet my single bedroom in",
+      "group_id": "558742412692677"
     }
   ]
 }

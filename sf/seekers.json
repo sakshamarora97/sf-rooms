@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T09:07:20.943551",
-  "count": 3892,
+  "updated_at": "2026-11-26T10:07:33.769039",
+  "count": 3893,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124083,6 +124083,34 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "furnished place in Berkeley/Oakland, $1,500-2,500, 2 calm indoor cats Leaving the East Bay for the winter, a sabbatical or longer?",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2075046456520259",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "One mom with 2 kids",
+      "reason": null,
+      "age": null,
+      "bio": "A mother with two children urgently seeking an apartment in San Francisco.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075046456520259",
+      "posted_at": "Thursday 26 November 2026 at 07:50",
+      "first_scraped_at": "2026-11-26T18:00:04.449342+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a family that is losing their home, and need an apartment now. 2 kids one mom. Needs to be in",
+      "group_id": "242765489748374"
     }
   ]
 }
