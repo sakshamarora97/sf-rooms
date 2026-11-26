@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T14:06:44.083713",
-  "count": 4042,
+  "updated_at": "2026-11-26T15:05:26.803689",
+  "count": 4043,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -135206,6 +135206,42 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "Francisco charm in this sunny, top-floor 1-bedroom apartment located in a quiet six-unit walk-up building. Freshly updated from top to",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "4804789363089399",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 1250,
+      "neighborhood": "Mountain View",
+      "area": "South Bay",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "1B1B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 1,
+      "amenities": [
+        "in_unit_laundry",
+        "street_parking",
+        "pool",
+        "gym",
+        "sundeck",
+        "rooftop_lounge",
+        "shared_kitchen_bathroom"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": "Madera",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4804789363089399",
+      "posted_at": "Thursday 26 November 2026 at 13:44",
+      "first_scraped_at": "2026-11-26T23:00:06.338419+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "$1,250/mo Downtown Mountain View (Madera Apts) Available mid-December Short or long term I'm renting out the private living room space",
+      "group_id": "2176716625896699"
     }
   ]
 }

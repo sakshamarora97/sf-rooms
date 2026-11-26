@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T14:06:44.083713",
-  "count": 3898,
+  "updated_at": "2026-11-26T15:05:26.803689",
+  "count": 3899,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124264,6 +124264,34 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "am looking for a place to stay (room or appartment) in Mission Bay. My name is Chloe, and I\u2019m an",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "1427660559134187",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-20",
+      "move_out_date": "2027-01-20",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "sublease"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": 26,
+      "bio": "26-year-old medical student seeking a short-term sublease from Dec 20 to Jan 20. Prefers month-to-month or winter break sublet.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1427660559134187",
+      "posted_at": "Thursday 26 November 2026 at 14:16",
+      "first_scraped_at": "2026-11-26T23:00:06.338419+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "Krishma. I am 26 year old medical student looking for a sublease, starting December 20th to Jan 20th. I would",
+      "group_id": "558742412692677"
     }
   ]
 }
