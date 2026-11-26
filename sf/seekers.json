@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T07:08:25.698301",
-  "count": 3890,
+  "updated_at": "2026-11-26T08:07:43.585870",
+  "count": 3891,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124016,6 +124016,36 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "a Shared Apartment January 2027 ~$1800 Budget Hi everyone! I\u2019m planning to relocate to San Francisco for work in January",
       "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "2074773929880845",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 380,
+      "budget_max": 380,
+      "unit_type_wanted": [
+        "parking_spot"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for monthly off-street parking in Mission/Mission Dolores for a mid-sized sedan, budget $380/month.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074773929880845",
+      "posted_at": "Thursday 26 November 2026 at 03:02",
+      "first_scraped_at": "2026-11-26T16:00:04.654983+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "looking for monthly parking in the shaded area below in Mission/Mission Dolores for a mid-sized sedan, for $380/mo. The spot",
+      "group_id": "242765489748374"
     }
   ]
 }

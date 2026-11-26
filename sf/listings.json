@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T07:08:25.698301",
-  "count": 4035,
+  "updated_at": "2026-11-26T08:07:43.585870",
+  "count": 4036,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -134988,6 +134988,41 @@
       "first_scraped_at": "2026-11-26T15:00:05.706716+00:00",
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
       "search_snippet": "looking to sublease my apartment at AVA Nob Hill (965 Sutter St) ASAP! The current lease runs long-term through February",
+      "group_id": "843764532374203"
+    },
+    {
+      "listing_id": "29278384821818794",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 2050,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2028-03-31",
+      "unit_config": null,
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "gym",
+        "outdoor_bbq",
+        "co-working_lounges",
+        "concierge",
+        "package_lockers",
+        "parking"
+      ],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": "Avalon at Mission Bay",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29278384821818794",
+      "posted_at": "Thursday 26 November 2026 at 06:51",
+      "first_scraped_at": "2026-11-26T16:00:04.654983+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "to sublease my apartment at Avalon at Mission Bay (255 King St, SF) ASAP! My lease runs all the way",
       "group_id": "843764532374203"
     }
   ]
