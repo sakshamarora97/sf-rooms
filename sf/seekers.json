@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T20:09:51.627252",
-  "count": 3880,
+  "updated_at": "2026-11-25T21:09:57.162990",
+  "count": 3881,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123695,6 +123695,38 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "Taylor, 25, looking for a room in a shared house or apt in SF. About me: I'm originally from Tennessee,",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2074468319911406",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 800,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Inner Richmond",
+        "Outer Richmond",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Early-20s renter, organized, respectful and neat. Enjoys movies, hiking, reading, and exploring the city; seeking a private room within $800\u2013$1300.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074468319911406",
+      "posted_at": "Wednesday 25 November 2026 at 20:38",
+      "first_scraped_at": "2026-11-26T05:00:06.879693+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "I\u2019m in my early 20s and I am trying to find a new place in the city closer to my",
+      "group_id": "242765489748374"
     }
   ]
 }
