@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T10:07:33.769039",
-  "count": 4037,
+  "updated_at": "2026-11-26T11:07:23.004222",
+  "count": 4038,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -135056,6 +135056,38 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "for Spring 2027* Hi, my name is Sam, and I am looking for someone to sublet my single bedroom in",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2075171123174459",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Cow Hollow",
+      "area": "San Francisco",
+      "available_from": "2026-12-01",
+      "available_until": "2027-01-31",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "modern_kitchen",
+        "modern_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075171123174459",
+      "posted_at": "Thursday 26 November 2026 at 10:20",
+      "first_scraped_at": "2026-11-26T19:00:02.542772+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Dec/Jan Short term sublet for a room in Cow Hollow (near Pac Heights, close to Polk) for 2 months starting",
+      "group_id": "242765489748374"
     }
   ]
 }

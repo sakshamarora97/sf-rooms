@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T10:07:33.769039",
-  "count": 3893,
+  "updated_at": "2026-11-26T11:07:23.004222",
+  "count": 3895,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124111,6 +124111,70 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "a family that is losing their home, and need an apartment now. 2 kids one mom. Needs to be in",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2075163863175185",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": "2027-04-25",
+      "budget_min": 1500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room",
+        "sublease"
+      ],
+      "preferred_neighborhoods": [
+        "Potrero Hill",
+        "Mission District",
+        "Dogpatch"
+      ],
+      "area": "San Francisco",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Software engineering intern; occasionally hosts girlfriend; has a cat",
+      "reason": "internship",
+      "age": null,
+      "bio": "Software engineering intern relocating to San Francisco for an internship; active, enjoys sports, gym, hiking; clean, respectful, easygoing roommate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075163863175185",
+      "posted_at": "Thursday 26 November 2026 at 10:09",
+      "first_scraped_at": "2026-11-26T19:00:02.542772+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Housing Jan\u2013Apr 2027 Hey everyone! I\u2019m moving to San Francisco for a software engineering internship and looking for a furnished",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4434728146837936",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": null,
+      "move_out_date": "2027-05-31",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Sunnyvale",
+        "Mountain View"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Two males",
+      "reason": null,
+      "age": null,
+      "bio": "Two males seeking two private rooms in the same home in Sunnyvale or Mountain View from mid-January through the end of May 2027. They are clean, tidy, and respectful of shared spaces.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4434728146837936",
+      "posted_at": "Wednesday 25 November 2026 at 21:29",
+      "first_scraped_at": "2026-11-26T19:00:02.542772+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "for 2 Private Rooms with a Shared Bathroom in Sunnyvale or Mountain View Mid-January to End of May 2027 Hi",
+      "group_id": "1511607562483357"
     }
   ]
 }
