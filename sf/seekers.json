@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T15:08:14.391960",
-  "count": 3871,
+  "updated_at": "2026-11-25T16:06:54.525689",
+  "count": 3872,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123424,6 +123424,32 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Fall 2027 Hi everyone! We're a group of UC Berkeley juniors (all girls, in Delta Gamma) looking for housing near",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4803369053231430",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Software engineer at a startup; laid-back, enjoys working out and traveling; non-smoker and does not drink.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4803369053231430",
+      "posted_at": "Wednesday 25 November 2026 at 11:55",
+      "first_scraped_at": "2026-11-26T00:00:06.492717+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "your post and I'm really interested. I'm Vikranth, a software engineer working for a startup. I'm pretty laid-back and easygoing,",
+      "group_id": "2176716625896699"
     }
   ]
 }
