@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-25T17:19:14.657994",
-  "count": 1302,
+  "updated_at": "2026-11-25T18:21:08.295905",
+  "count": 1304,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -40575,6 +40575,66 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "York! Hello hello Je reviens vers vous concernant mon projet de d\u00e9part \u00e0 New York Je pr\u00e9vois de m\u2019installer \u00e0",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2289887818242679",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Hamilton Heights"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 3,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Group of three students seeking to rent an apartment near City College, moving in January.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2289887818242679",
+      "posted_at": "Wednesday 25 November 2026 at 17:09",
+      "first_scraped_at": "2026-11-26T02:09:06.924406+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "my 2 friends are looking to rent a apartment preferably near City college. We all are students and looking to",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "29114052104930932",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1923,
+      "budget_max": 1923,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Jersey City"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female roommate ONLY; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "Early 20s female working in finance and tech; does not smoke or drink.",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29114052104930932",
+      "posted_at": "Wednesday 25 November 2026 at 17:41",
+      "first_scraped_at": "2026-11-26T02:09:06.924406+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "am looking to move in december to 295j apartments in jersey city, unit 267. **features:** 12 month lease 1923/month per",
+      "group_id": "765841576845364"
     }
   ]
 }
