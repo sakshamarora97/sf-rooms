@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T16:06:54.525689",
-  "count": 3872,
+  "updated_at": "2026-11-25T17:08:22.731204",
+  "count": 3874,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123450,6 +123450,71 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "your post and I'm really interested. I'm Vikranth, a software engineer working for a startup. I'm pretty laid-back and easygoing,",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2074300656594839",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B"
+      ],
+      "preferred_neighborhoods": [
+        "Haight-Ashbury",
+        "Inner Richmond",
+        "Inner Sunset",
+        "Panhandle"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Is a physical therapist based in San Francisco since last June; active, spends time at Golden Gate Park, plays volleyball at Ocean Beach, and enjoys traveling.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074300656594839",
+      "posted_at": "Wednesday 25 November 2026 at 16:52",
+      "first_scraped_at": "2026-11-26T01:00:07.088705+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "John! I\u2019ve been in SF since last June and loving it so far. I\u2019m a physical therapist currently living in",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2074287779929460",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-03-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mission District",
+        "Castro"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; has a dog",
+      "reason": "relocation",
+      "age": 29,
+      "bio": "29-year-old HR operations professional at a scientific and engineering consulting firm relocating from Boston; enjoys cooking, reading, hiking, and working out; clean and considerate.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074287779929460",
+      "posted_at": "Wednesday 25 November 2026 at 16:33",
+      "first_scraped_at": "2026-11-26T01:00:07.088705+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Feb/March 2027 ~$2,000 Budget Hi everyone! I'll be relocating from Boston to SF for work in February with my dog,",
+      "group_id": "242765489748374"
     }
   ]
 }
