@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T13:06:22.213985",
-  "count": 3896,
+  "updated_at": "2026-11-26T14:06:44.083713",
+  "count": 3898,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124203,6 +124203,67 @@
       "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
       "search_snippet": "place to stay short/long term if you, or you know someone with something cute hmu ideally somewhere in/around the mission,",
       "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "4804709493097386",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-09-30",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Has two girl cats.",
+      "reason": "new_job",
+      "age": 27,
+      "bio": "27-year-old moving to San Francisco for work; enjoys pottery, crafts, and exploring; clean, respectful, and easygoing.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4804709493097386",
+      "posted_at": "Thursday 26 November 2026 at 12:11",
+      "first_scraped_at": "2026-11-26T22:00:05.708636+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "moving up from the South Bay for work and am looking for housing in SF from December 2026 or January",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "29282565281400748",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": [
+        "Mission Bay"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "They are an engineer in robotics who enjoys trail running, cycling, and music.",
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29282565281400748",
+      "posted_at": "Thursday 26 November 2026 at 13:37",
+      "first_scraped_at": "2026-11-26T22:00:05.708636+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "am looking for a place to stay (room or appartment) in Mission Bay. My name is Chloe, and I\u2019m an",
+      "group_id": "843764532374203"
     }
   ]
 }
