@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-26T09:16:23.003221",
-  "count": 1313,
+  "updated_at": "2026-11-26T10:15:54.034251",
+  "count": 1314,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -40912,6 +40912,38 @@
       "first_scraped_at": "2026-11-26T14:10:25.664125+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "I\u2019m Lu (31), with a background in fashion retail. Looking for a room to take the rent or sublet for",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "1026369106500432",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Lower East Side",
+        "Chinatown",
+        "Little Italy"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Female; no pets",
+      "reason": null,
+      "age": 28,
+      "bio": "Works in fashion; super clean, respectful and considerate. Enjoys coffee, reading, moodboarding and discovering new places.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1026369106500432",
+      "posted_at": "Thursday 26 November 2026 at 09:49",
+      "first_scraped_at": "2026-11-26T18:07:39.409906+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "room in Manhattan ASAP! LES, Chinatown or Little Italy preferred (walking distance from Orchard St.) Budget: $1,500\u2013$1,600/month Long-term sublet, no",
       "group_id": "312692887868061"
     }
   ]
