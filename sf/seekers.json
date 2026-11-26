@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T19:10:20.755902",
-  "count": 3876,
+  "updated_at": "2026-11-25T20:09:51.627252",
+  "count": 3880,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123575,6 +123575,126 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "short-term furnished rental in Berkeley for 5 adults from December 15\u201326, 2026 (11 nights). Must have 4 bedrooms, or 3",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4435715840072500",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Santa Clara"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Looking for a room with a private bathroom in Santa Clara, preferably near Tannery Way.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4435715840072500",
+      "posted_at": "Wednesday 25 November 2026 at 19:53",
+      "first_scraped_at": "2026-11-26T04:00:05.716553+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "for a room with private bathroom in Santa Clara preferably close to tannery way.",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4435819143395503",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": 1800,
+      "budget_max": 1800,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "No dogs",
+      "reason": null,
+      "age": null,
+      "bio": "Seeks a room in San Francisco starting early December; describes themself as sane and reasonable.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4435819143395503",
+      "posted_at": "Wednesday 25 November 2026 at 19:53",
+      "first_scraped_at": "2026-11-26T04:00:05.716553+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for a room in San Francisco starting December 1 or 10. (1.8 all in no dogs) Write (dm) if",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4436112536699497",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 500,
+      "budget_max": 600,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Pinole",
+        "Richmond",
+        "San Pablo",
+        "El Sobrante",
+        "Hercules"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": null,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Wants female-friendly accommodation",
+      "reason": null,
+      "age": null,
+      "bio": "They are looking for a private room in a clean, safe, peaceful home; prefers female-friendly accommodation.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4436112536699497",
+      "posted_at": "Wednesday 25 November 2026 at 19:52",
+      "first_scraped_at": "2026-11-26T04:00:05.716553+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "looking for a private room in a clean, safe and peaceful home. Preferred areas: Pinole, Richmond, San Pablo, El Sobrante",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4436366916674059",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "new_job",
+      "age": 25,
+      "bio": "Recent transplant to San Francisco who started a job at a health\u2011tech startup; enjoys hiking, travel, improv, and board games; seeking a clean, relaxed shared home.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4436366916674059",
+      "posted_at": "Wednesday 25 November 2026 at 19:51",
+      "first_scraped_at": "2026-11-26T04:00:05.716553+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "Taylor, 25, looking for a room in a shared house or apt in SF. About me: I'm originally from Tennessee,",
+      "group_id": "1511607562483357"
     }
   ]
 }
