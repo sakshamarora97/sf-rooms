@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T11:07:23.004222",
-  "count": 4038,
+  "updated_at": "2026-11-26T12:06:35.729360",
+  "count": 4039,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -135087,6 +135087,34 @@
       "first_scraped_at": "2026-11-26T19:00:02.542772+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Dec/Jan Short term sublet for a room in Cow Hollow (near Pac Heights, close to Polk) for 2 months starting",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2075191073172464",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": null,
+      "rent": 2500,
+      "neighborhood": "Mission Bay",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "2B2B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075191073172464",
+      "posted_at": "Thursday 26 November 2026 at 10:48",
+      "first_scraped_at": "2026-11-26T20:00:03.632757+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "the Dogpatch, is a residential and industrial San Francisco neighborhood with hilltop views and a sunny microclimate. 18th Street and",
       "group_id": "242765489748374"
     }
   ]
