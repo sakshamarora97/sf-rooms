@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T22:11:16.000673",
-  "count": 3884,
+  "updated_at": "2026-11-26T06:10:18.680688",
+  "count": 3888,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123817,6 +123817,142 @@
       "first_scraped_at": "2026-11-26T06:00:06.002599+00:00",
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "name is yana, im a chico new grad, and im moving up to sf in jan for work. looking for",
+      "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "4803787843189551",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-05",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2500,
+      "unit_type_wanted": [
+        "1B1B",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Sunset District",
+        "Richmond District",
+        "Panhandle",
+        "Cole Valley",
+        "Inner Sunset",
+        "Noe Valley",
+        "Glen Park",
+        "Bernal Heights"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Two recent grads; no pets",
+      "reason": null,
+      "age": 23,
+      "bio": "Two 23-year-old recent grads seeking an entire 1BR or studio; quiet, clean, responsible, no pets, no smoking, no partying.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4803787843189551",
+      "posted_at": "Wednesday 25 November 2026 at 20:37",
+      "first_scraped_at": "2026-11-26T14:00:03.076935+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "1BR or studio in SF, moving in January 5 Hi all! Yoojin and I are looking for an entire 1-bedroom",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2074573743234197",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": 2000,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Russian Hill",
+        "Nob Hill",
+        "Potrero Hill",
+        "North Beach",
+        "Mission District"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Recent graduate; wants roommates; open to either gender",
+      "reason": "new_job",
+      "age": 23,
+      "bio": "Recent Queen's University graduate moving to the Bay for work in January 2027. Enjoys outdoor and fitness activities including soccer, climbing, skiing, backpacking, and traveling.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074573743234197",
+      "posted_at": "Wednesday 25 November 2026 at 22:51",
+      "first_scraped_at": "2026-11-26T14:00:03.076935+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Torin (23M), I recently graduated from Queen's University (in Canada) and I'm moving to the Bay for work in January",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2074525553239016",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "San Mateo"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Organized, easygoing professional who works in tech and enjoys live music on weekends.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074525553239016",
+      "posted_at": "Wednesday 25 November 2026 at 21:53",
+      "first_scraped_at": "2026-11-26T14:00:03.076935+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "roommate to sign a lease with! Hi all! I'm looking for a roommate to sign a lease with on a",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4436645876646163",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2500,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Mountain View",
+        "Santa Clara",
+        "Palo Alto"
+      ],
+      "area": "South Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Female; wants female roommate; no pets",
+      "reason": null,
+      "age": 25,
+      "bio": "25-year-old professional who works a hybrid schedule and keeps a clean, cozy home. Enjoys reading, running, thrifting, and gaming; non-smoker and light social drinker.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4436645876646163",
+      "posted_at": "Thursday 26 November 2026 at 03:24",
+      "first_scraped_at": "2026-11-26T14:00:03.076935+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "2B/2B Co-Hunt or Open Room Hi! I\u2019m (25F) looking for a female roommate to team up and find a great",
       "group_id": "1511607562483357"
     }
   ]
