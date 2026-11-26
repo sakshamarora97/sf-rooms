@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-25T17:08:22.731204",
-  "count": 3874,
+  "updated_at": "2026-11-25T18:09:01.752235",
+  "count": 3875,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -123514,6 +123514,35 @@
       "first_scraped_at": "2026-11-26T01:00:07.088705+00:00",
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Feb/March 2027 ~$2,000 Budget Hi everyone! I'll be relocating from Boston to SF for work in February with my dog,",
+      "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "2074328996592005",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private room",
+        "shared room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Seeks a private or shared room in San Francisco; studying English and finance; quiet, responsible, respectful, and organized.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2074328996592005",
+      "posted_at": "Wednesday 25 November 2026 at 17:34",
+      "first_scraped_at": "2026-11-26T02:00:06.196057+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "I am currently looking for a private or shared room in San Francisco, California. I am a responsible, hardworking, quiet,",
       "group_id": "242765489748374"
     }
   ]
