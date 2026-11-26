@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-26T11:15:23.658405",
-  "count": 3983,
+  "updated_at": "2026-11-26T12:14:21.844932",
+  "count": 3984,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -133363,6 +133363,48 @@
       "first_scraped_at": "2026-11-26T19:07:28.452002+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "in Midtown for under $1,700/mo with utilities! The Details: From $1,699/mo total (rent utilities, Wi-Fi cleaning) Move in from Nov",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "1026452093158800",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": 1600,
+      "neighborhood": "Morningside Heights",
+      "area": "Manhattan",
+      "available_from": "2027-01-01",
+      "available_until": "2027-03-23",
+      "unit_config": "3B1B",
+      "room_type": "private_room",
+      "is_furnished": true,
+      "roommates_count": 2,
+      "amenities": [
+        "furnished",
+        "full_size_bed",
+        "desk",
+        "chair",
+        "portable_fan",
+        "portable_heater",
+        "window_blinds",
+        "monitor",
+        "wardrobe",
+        "steam_iron",
+        "microwave_oven",
+        "laundromat_nearby",
+        "near_subway"
+      ],
+      "utilities_included": false,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1026452093158800",
+      "posted_at": "Thursday 26 November 2026 at 11:40",
+      "first_scraped_at": "2026-11-26T20:06:40.489379+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "UPPER MANHATTAN 1.Fully furnished 1 bedroom for Sublease. 2.\u2060 \u2060Full size bed 3.\u2060 Large Standing desk Chair Portable Fan Portable",
       "group_id": "312692887868061"
     }
   ]
