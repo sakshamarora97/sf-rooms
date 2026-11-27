@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-27T07:05:37.824833",
-  "count": 4065,
+  "updated_at": "2026-11-27T08:05:52.798073",
+  "count": 4066,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -135973,6 +135973,40 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "am Dev, a Tech Lead at a major tech company, and an angel investor in private equity. I am looking",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "29288894144101195",
+      "post_type": "listing",
+      "listing_type": "entire_unit",
+      "duration_type": "long_term",
+      "rent": 4500,
+      "neighborhood": "Miraloma Park",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": "4B3B",
+      "room_type": "entire_unit",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "sunroom",
+        "home_gym",
+        "large_yard",
+        "2_car_garage",
+        "panoramic_views"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/843764532374203/posts/29288894144101195",
+      "posted_at": "Friday 27 November 2026 at 05:56",
+      "first_scraped_at": "2026-11-27T16:00:06.712489+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (198.1K)",
+      "search_snippet": "Ocean Views Beautiful 4BD/3BA Detached Home in Miraloma Park with Permitted Sunroom Gym, Large Flat Yard, and 2-Car Garage Enjoy",
+      "group_id": "843764532374203"
     }
   ]
 }

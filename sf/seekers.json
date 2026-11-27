@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-27T07:05:37.824833",
-  "count": 3909,
+  "updated_at": "2026-11-27T08:05:52.798073",
+  "count": 3910,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124610,6 +124610,36 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "and I'm 22. I work for PG&E and recently moved departments and work in Oakland now. My work is mostly",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "1428371825729727",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-06",
+      "move_out_date": "2027-05-15",
+      "budget_min": 950,
+      "budget_max": 1150,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "student",
+      "age": null,
+      "bio": "Senior civil engineering student relocating to Berkeley for spring 2027. Clean, respectful, social; prefers a furnished private room and open to student housemates.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1428371825729727",
+      "posted_at": "Friday 27 November 2026 at 07:17",
+      "first_scraped_at": "2026-11-27T16:00:06.712489+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "room for spring 2027 (jan to may) hi everyone im turki, a senior civil engineering student coming to berkeley for",
+      "group_id": "558742412692677"
     }
   ]
 }
