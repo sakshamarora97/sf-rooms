@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-26T21:17:13.308656",
-  "count": 4004,
+  "updated_at": "2026-11-26T22:15:36.360328",
+  "count": 4005,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -134060,6 +134060,34 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Rooms Available Jersey City Heights Prime Location on Franklin Street Ideal for Male Tenants Two furnished private bedrooms are available",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2291155541449240",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "long_term",
+      "rent": 1900,
+      "neighborhood": "Upper West Side",
+      "area": "Manhattan",
+      "available_from": "2026-12-01",
+      "available_until": "2027-06-30",
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": 2,
+      "amenities": [],
+      "utilities_included": true,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Juilliard student; prefers another girl my age",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2291155541449240",
+      "posted_at": "Thursday 26 November 2026 at 21:19",
+      "first_scraped_at": "2026-11-27T06:07:15.313744+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Hi! My roommate is looking to sublet his room starting December 1st. I have lived here on the UWS for",
+      "group_id": "149460102285472"
     }
   ]
 }
