@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T21:08:09.094849",
-  "count": 3903,
+  "updated_at": "2026-11-26T22:07:10.246347",
+  "count": 3904,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124413,6 +124413,35 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "I work as an engineer at a networking technology company in the Bay Area. I'm currently looking for a room",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2075323826492522",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2026-12-27",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room",
+        "entire_unit"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "From Australia, seeking a clean, quiet, respectful short-term sublet with a shared kitchen from Dec 1\u201327.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075323826492522",
+      "posted_at": "Thursday 26 November 2026 at 14:00",
+      "first_scraped_at": "2026-11-27T06:00:03.365531+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "I'm from Australia and looking to sublease a room or apartment from December 1st to December 27th. Ideally, I'm looking",
+      "group_id": "242765489748374"
     }
   ]
 }

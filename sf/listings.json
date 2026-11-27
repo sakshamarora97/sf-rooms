@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T21:08:09.094849",
-  "count": 4059,
+  "updated_at": "2026-11-26T22:07:10.246347",
+  "count": 4060,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -135776,6 +135776,34 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "PRIVATE WASHROOM AVAILABLE IN A 2B2B APARTMENT Looking for a male/female vegetarian roommate for a private room in a spacious",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "1427941769106066",
+      "post_type": "listing",
+      "listing_type": "lease_takeover",
+      "duration_type": "long_term",
+      "rent": 1250,
+      "neighborhood": "Berkeley",
+      "area": "East Bay",
+      "available_from": null,
+      "available_until": "2027-07-31",
+      "unit_config": null,
+      "room_type": "shared_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": "The Standard Berkeley",
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Wants male identifying tenant.",
+      "post_url": "https://www.facebook.com/groups/berkeleyhousing/posts/1427941769106066",
+      "posted_at": "Thursday 26 November 2026 at 21:41",
+      "first_scraped_at": "2026-11-27T06:00:03.365531+00:00",
+      "source_group": "Berkeley Housing",
+      "search_snippet": "to takeover my lease at standard, double for 1250. Lease is till July 31 2027, place is right next to",
+      "group_id": "558742412692677"
     }
   ]
 }
