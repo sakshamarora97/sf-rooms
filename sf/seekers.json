@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T17:06:19.096679",
-  "count": 3899,
+  "updated_at": "2026-11-26T18:07:03.290497",
+  "count": 3901,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124292,6 +124292,67 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "Krishma. I am 26 year old medical student looking for a sublease, starting December 20th to Jan 20th. I would",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "4804891479745854",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-20",
+      "move_out_date": "2027-01-18",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room",
+        "studio"
+      ],
+      "preferred_neighborhoods": [
+        "Berkeley"
+      ],
+      "area": "East Bay",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "rotation",
+      "age": null,
+      "bio": "Fourth-year medical student seeking a short-term furnished private room with a private bath or a studio near Berkeley while completing a clinical rotation at Highland Hospital.",
+      "post_url": "https://www.facebook.com/groups/2176716625896699/posts/4804891479745854",
+      "posted_at": "Thursday 26 November 2026 at 15:16",
+      "first_scraped_at": "2026-11-27T02:00:05.854358+00:00",
+      "source_group": "San Francisco Housing, Rooms, Apartments, Sublets (90.4K)",
+      "search_snippet": "a fourth-year medical student looking for a short-term furnished rental from December 20th to January 18th while completing my clinical",
+      "group_id": "2176716625896699"
+    },
+    {
+      "listing_id": "2075427309815507",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-19",
+      "move_out_date": "2026-12-23",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "San Rafael"
+      ],
+      "area": "San Francisco",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Is visiting their hometown and needs four nights lodging (Dec 19\u201323) with a budget of about $100 per night.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075427309815507",
+      "posted_at": "Thursday 26 November 2026 at 16:47",
+      "first_scraped_at": "2026-11-27T02:00:05.854358+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "Lodging for Dec 19-23rd! Looking for 4 nights of lodging in the San Rafael down to San Francisco area while",
+      "group_id": "242765489748374"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T17:06:19.096679",
-  "count": 4045,
+  "updated_at": "2026-11-26T18:07:03.290497",
+  "count": 4046,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -135308,6 +135308,37 @@
       "source_group": "Berkeley Housing",
       "search_snippet": "SOUTHSIDE FOR SPRING 27 Hi everyone! I\u2019m looking for a female student to take over my lease from January 1",
       "group_id": "558742412692677"
+    },
+    {
+      "listing_id": "2075437263147845",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "short_term",
+      "rent": 1130,
+      "neighborhood": "Sunset District",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "near_public_transportation",
+        "near_supermarket"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075437263147845",
+      "posted_at": "Thursday 26 November 2026 at 17:03",
+      "first_scraped_at": "2026-11-27T02:00:05.854358+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "a room available in the sunset district! $1130, convient to public transportation and super market! Short term is okay! Please",
+      "group_id": "242765489748374"
     }
   ]
 }
