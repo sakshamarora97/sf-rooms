@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-26T20:15:56.791761",
-  "count": 1323,
+  "updated_at": "2026-11-26T21:17:13.308656",
+  "count": 1325,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -41224,6 +41224,64 @@
       "first_scraped_at": "2026-11-27T03:07:04.320995+00:00",
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "New York City Hello everyone! My name is Mamadou. I\u2019m currently looking for a room or a roommate to share",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2953309581701973",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 2000,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Newport"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Working professional in mid-20s; wants a female roommate.",
+      "reason": null,
+      "age": null,
+      "bio": "Working professional in their mid-20s; friendly, easygoing and clean.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2953309581701973",
+      "posted_at": "Thursday 26 November 2026 at 20:12",
+      "first_scraped_at": "2026-11-27T05:08:13.589410+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for a female roommate who would be interested in joining me to find a nice 2B2B apartment in or",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2291101861454608",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": 1300,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Hoboken"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; no pets",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Personal trainer and dancer working full-time in Manhattan; keeps to themself, non-smoker, no pets.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2291101861454608",
+      "posted_at": "Thursday 26 November 2026 at 19:59",
+      "first_scraped_at": "2026-11-27T05:08:13.589410+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Hi! Searching for a short term sublet while I find something more long term! Time: December 1-31 (move in day",
       "group_id": "149460102285472"
     }
   ]
