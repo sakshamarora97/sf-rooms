@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-27T06:08:16.497633",
-  "count": 3908,
+  "updated_at": "2026-11-27T07:05:37.824833",
+  "count": 3909,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124579,6 +124579,37 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "PRIVATE ROOM WITH PRIVATE BATHROOM Hi everyone! I\u2019m currently looking for a private/separate room with a private attached bathroom in",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2075873876437517",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Oakland",
+        "San Ramon"
+      ],
+      "area": "East Bay",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": 22,
+      "bio": "22-year-old PG&E employee who recently changed departments and now works in Oakland. Mostly remote work but needs a place 2\u20133 nights per week; describes self as laid-back, responsible, clean, non-smoker, organized and financially stable.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2075873876437517",
+      "posted_at": "Friday 27 November 2026 at 03:04",
+      "first_scraped_at": "2026-11-27T15:00:04.163427+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "and I'm 22. I work for PG&E and recently moved departments and work in Oakland now. My work is mostly",
+      "group_id": "242765489748374"
     }
   ]
 }
