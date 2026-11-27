@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-26T18:15:26.602936",
-  "count": 3999,
+  "updated_at": "2026-11-26T19:15:02.079653",
+  "count": 4001,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -133890,6 +133890,69 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "for Girls Newport, Jersey City Looking for a female roommate for a private room at 513 Manila Ave, Newport, Jersey",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2291015081463286",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Jamaica",
+      "area": "Queens",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": null,
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "big_windows",
+        "natural_light",
+        "shared_bathroom"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2291015081463286",
+      "posted_at": "Thursday 26 November 2026 at 17:58",
+      "first_scraped_at": "2026-11-27T03:07:04.320995+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "in Jamaica, Queens Unfurnished, big windows, lots of natural light Shared bathroom (with me) for One person only, no couples",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1026704903133519",
+      "post_type": "listing",
+      "listing_type": "sublease",
+      "duration_type": "short_term",
+      "rent": null,
+      "neighborhood": "Financial District",
+      "area": "Manhattan",
+      "available_from": "2026-12-01",
+      "available_until": "2027-01-04",
+      "unit_config": "studio",
+      "room_type": "studio",
+      "is_furnished": true,
+      "roommates_count": 0,
+      "amenities": [
+        "fully_furnished",
+        "close_to_subway"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": null,
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1026704903133519",
+      "posted_at": "Thursday 26 November 2026 at 18:31",
+      "first_scraped_at": "2026-11-27T03:07:04.320995+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "furnished studio on Wall Street Need a place in NYC for the holidays? I'm subletting my large studio in the",
+      "group_id": "312692887868061"
     }
   ]
 }
