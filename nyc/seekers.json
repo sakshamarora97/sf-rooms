@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-27T06:16:46.612711",
-  "count": 1329,
+  "updated_at": "2026-11-27T07:13:09.611156",
+  "count": 1331,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -41400,6 +41400,68 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "accomodation for month of december, near JSQ close to path if any. Private or shared, plz dm for any leads",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "1027265963077413",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": 1000,
+      "budget_max": 1700,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Open to male and female roommates",
+      "reason": "relocation",
+      "age": 25,
+      "bio": "He is 25 and currently works in the service industry, transitioning to a 9-to-5 role this winter. Easygoing, social, clean, enjoys sports, museums, working out, and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1027265963077413",
+      "posted_at": "Friday 27 November 2026 at 07:08",
+      "first_scraped_at": "2026-11-27T15:05:42.970403+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "and/or roommates! Hi everyone! I\u2019m Will (25M), and I'm looking for an available room or roommates to find an apartment",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "1027087963095213",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-12-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Upper West Side"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Solo; wants a female roommate",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Product designer working in tech relocating back to Manhattan to be closer to work. Very clean, communicates well, works in-person and prefers non-smoking roommates due to asthma.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1027087963095213",
+      "posted_at": "Friday 27 November 2026 at 03:39",
+      "first_scraped_at": "2026-11-27T15:05:42.970403+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "roommate in mid/late 20s in UWS (W125th st). 2BR 1bath, laundry in-building. Next to ACE/BD stops on W125th. December 1st",
+      "group_id": "312692887868061"
     }
   ]
 }
