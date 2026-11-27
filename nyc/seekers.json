@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-26T15:12:15.752622",
-  "count": 1318,
+  "updated_at": "2026-11-26T17:15:26.941433",
+  "count": 1319,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -41075,6 +41075,35 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Newport, Exchange Place, or Hoboken (Late Jan Move-In) Hi everyone! I\u2019m a 32yo vegetarian male working professional looking for a",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2290907891474005",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-11-29",
+      "move_out_date": "2026-12-02",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": null,
+      "preferred_neighborhoods": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": null,
+      "bio": "Photographer visiting New York for a wedding, seeking a short-term stay Nov 29\u2013Dec 2 near Manhattan or Brooklyn.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2290907891474005",
+      "posted_at": "Thursday 26 November 2026 at 15:22",
+      "first_scraped_at": "2026-11-27T01:06:24.869696+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Rental Manhattan or Brooklyn: Nov 29/30 Dec 2 Hi everyone! I\u2019m a photographer coming to the city for a wedding",
+      "group_id": "149460102285472"
     }
   ]
 }
