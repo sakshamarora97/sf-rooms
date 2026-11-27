@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-26T19:06:59.085734",
-  "count": 3902,
+  "updated_at": "2026-11-26T20:08:13.990840",
+  "count": 3903,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124385,6 +124385,34 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "Roommates in San Francisco Hi everyone! I\u2019m currently looking for accommodation in or around Downtown San Francisco. I\u2019m open to",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4437528459891238",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": null,
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": null,
+      "age": null,
+      "bio": "Professional engineer with a regular weekday routine who enjoys working out, cooking, hiking and kayaking; clean, respectful, and seeks friendly roommates.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4437528459891238",
+      "posted_at": "Thursday 26 November 2026 at 19:44",
+      "first_scraped_at": "2026-11-27T04:00:03.625296+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "I work as an engineer at a networking technology company in the Bay Area. I'm currently looking for a room",
+      "group_id": "1511607562483357"
     }
   ]
 }
