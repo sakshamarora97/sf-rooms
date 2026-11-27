@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-26T19:15:02.079653",
-  "count": 4001,
+  "updated_at": "2026-11-26T20:15:56.791761",
+  "count": 4002,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -133953,6 +133953,37 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "furnished studio on Wall Street Need a place in NYC for the holidays? I'm subletting my large studio in the",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "29126041537065322",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": null,
+      "neighborhood": "Journal Square",
+      "area": "Jersey City & Hoboken",
+      "available_from": "2026-12-01",
+      "available_until": null,
+      "unit_config": "3B2B",
+      "room_type": "private_room",
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": [
+        "in_unit_laundry",
+        "dishwasher"
+      ],
+      "utilities_included": null,
+      "pets_allowed": null,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Female preferred",
+      "post_url": "https://www.facebook.com/groups/765841576845364/posts/29126041537065322",
+      "posted_at": "Thursday 26 November 2026 at 19:52",
+      "first_scraped_at": "2026-11-27T04:08:18.624633+00:00",
+      "source_group": "Jersey City Roommates",
+      "search_snippet": "of a friend! Permanent Accommodation Available Private Bedroom in Jersey City, NJ Available from December 1st Female preferred A private",
+      "group_id": "765841576845364"
     }
   ]
 }
