@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-27T22:07:04.773227",
-  "count": 4094,
+  "updated_at": "2026-11-28T06:07:25.108246",
+  "count": 4095,
   "posts": [
     {
       "listing_id": "4601709123397425",
@@ -136958,6 +136958,41 @@
       "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
       "search_snippet": "IN HAYES VALLEY $2,500/month Looking for a spacious, furnished room in a great San Francisco location? I'm looking for someone",
       "group_id": "1511607562483357"
+    },
+    {
+      "listing_id": "2076918256333079",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": "long_term",
+      "rent": 1345,
+      "neighborhood": "Outer Richmond",
+      "area": "San Francisco",
+      "available_from": null,
+      "available_until": "2027-01-01",
+      "unit_config": "2B1B",
+      "room_type": "private_room",
+      "is_furnished": false,
+      "roommates_count": 1,
+      "amenities": [
+        "shared_bathroom",
+        "shared_kitchen",
+        "shared_laundry",
+        "shared_backyard",
+        "shared_living_space",
+        "ground_floor"
+      ],
+      "utilities_included": false,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": null,
+      "prefs_notes": "Lives with one roommate; cats OK.",
+      "post_url": "https://www.facebook.com/groups/242765489748374/posts/2076918256333079",
+      "posted_at": "Saturday 28 November 2026 at 01:28",
+      "first_scraped_at": "2026-11-28T14:00:02.946654+00:00",
+      "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
+      "search_snippet": "an available bedroom for rent in my 2 bed 1 bath unit. Preferred move in date: mid December January 1st.",
+      "group_id": "242765489748374"
     }
   ]
 }
