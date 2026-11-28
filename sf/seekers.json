@@ -1,7 +1,7 @@
 {
   "group_name": "SF Bay Area Housing Groups",
-  "updated_at": "2026-11-27T20:07:37.311784",
-  "count": 3920,
+  "updated_at": "2026-11-27T21:08:59.704961",
+  "count": 3921,
   "posts": [
     {
       "listing_id": "4601846940050310",
@@ -124961,6 +124961,39 @@
       "source_group": "San Francisco SF- Housing, Roommate, Sublet, Room Rent (86.2K)",
       "search_snippet": "daughter is looking for housing near Palo Alto from January 1 to April 30, 2027 and would love to connect",
       "group_id": "242765489748374"
+    },
+    {
+      "listing_id": "4439750466335704",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2027-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "3B2B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Redwood City",
+        "Mountain View",
+        "Palo Alto"
+      ],
+      "area": "The Peninsula",
+      "furnished_required": null,
+      "group_size": 2,
+      "has_pets": true,
+      "seeker_pets": null,
+      "prefs_notes": "Couple; has a dog",
+      "reason": null,
+      "age": null,
+      "bio": "A couple seeking a 2BR/3BR house starting January 2027, moving with a quiet 7-year-old beagle.",
+      "post_url": "https://www.facebook.com/groups/1511607562483357/posts/4439750466335704",
+      "posted_at": "Friday 27 November 2026 at 20:16",
+      "first_scraped_at": "2026-11-28T05:00:02.461437+00:00",
+      "source_group": "Bay Area Housing, Rooms, Apartments, Sublets & Roommates",
+      "search_snippet": "husband and I are looking to rent a house, ideally in Redwood City but open to Mountain View or Palo",
+      "group_id": "1511607562483357"
     }
   ]
 }
