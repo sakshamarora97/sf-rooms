@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-28T06:16:27.042077",
-  "count": 1351,
+  "updated_at": "2026-11-28T07:14:07.515414",
+  "count": 1352,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -42087,6 +42087,36 @@
       "source_group": "Jersey City Roommates",
       "search_snippet": "Private Room Bath in Newport JSQ Harrison Hi everyone! I'm Eesha, a working professional in NYC looking for a private",
       "group_id": "765841576845364"
+    },
+    {
+      "listing_id": "2292684401296354",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": null,
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Can live with pets; will not touch pet food.",
+      "reason": "relocation",
+      "age": null,
+      "bio": "Vegan activist and creative professional; musician, actor, model and entrepreneur with experience in marketing, videography, publishing and bookkeeping. Clean, trustworthy, mostly keeps to themself.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2292684401296354",
+      "posted_at": "Saturday 28 November 2026 at 05:38",
+      "first_scraped_at": "2026-11-28T15:07:01.700681+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "room in Manhattan in a 100% vegan home. Vegan for 25 years, huge activist, musician, actor, model and entrepreneur. Everything",
+      "group_id": "149460102285472"
     }
   ]
 }

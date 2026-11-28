@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-28T06:16:27.042077",
-  "count": 4068,
+  "updated_at": "2026-11-28T07:14:07.515414",
+  "count": 4069,
   "posts": [
     {
       "listing_id": "2893874110978854",
@@ -136145,6 +136145,34 @@
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "NEW YORK Discover an exceptional real estate opportunity at 1430 White Plains Road, Bronx, NY 10462. Featuring 9 bedrooms, 3",
       "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2292735314624596",
+      "post_type": "listing",
+      "listing_type": "room_rental",
+      "duration_type": null,
+      "rent": 420,
+      "neighborhood": null,
+      "area": null,
+      "available_from": null,
+      "available_until": null,
+      "unit_config": null,
+      "room_type": null,
+      "is_furnished": null,
+      "roommates_count": null,
+      "amenities": null,
+      "utilities_included": null,
+      "pets_allowed": true,
+      "building_name": null,
+      "gender_restriction": null,
+      "pets_policy": "allowed",
+      "prefs_notes": "Pets OK",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2292735314624596",
+      "posted_at": "Saturday 28 November 2026 at 06:34",
+      "first_scraped_at": "2026-11-28T15:07:01.700681+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Bronx rooms Yankee stadium area Rooms for rent 420 ok Pets ok Near all transportation and shopping Call or text",
+      "group_id": "149460102285472"
     }
   ]
 }
