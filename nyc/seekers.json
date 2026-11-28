@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-28T07:14:07.515414",
-  "count": 1352,
+  "updated_at": "2026-11-28T08:12:50.258503",
+  "count": 1354,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -42117,6 +42117,65 @@
       "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
       "search_snippet": "room in Manhattan in a 100% vegan home. Vegan for 25 years, huge activist, musician, actor, model and entrepreneur. Everything",
       "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2955405604825704",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2026-12-31",
+      "budget_min": 1300,
+      "budget_max": 1300,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": null,
+      "area": "Jersey City & Hoboken",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Mother; pets OK",
+      "reason": null,
+      "age": null,
+      "bio": "Seeking a furnished short-term room in December 2026 for her mother. The mother is clean, active, quiet, pet-friendly and can pet-sit.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2955405604825704",
+      "posted_at": "Saturday 28 November 2026 at 06:08",
+      "first_scraped_at": "2026-11-28T16:06:16.972204+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "only for a month of December! Hi I'm looking for a furnished room for one month in December 2026 My",
+      "group_id": "1138638939835722"
+    },
+    {
+      "listing_id": "2954921231540808",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-06",
+      "move_out_date": "2026-12-19",
+      "budget_min": null,
+      "budget_max": null,
+      "unit_type_wanted": [
+        "private_room"
+      ],
+      "preferred_neighborhoods": [
+        "Newport",
+        "Journal Square"
+      ],
+      "area": "Jersey City & Hoboken",
+      "furnished_required": true,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": "Female working professional; wants female roommates",
+      "reason": null,
+      "age": null,
+      "bio": "Female working professional seeking a short-term private furnished room in Newport or Journal Square, Jersey City, near a PATH station.",
+      "post_url": "https://www.facebook.com/groups/1138638939835722/posts/2954921231540808",
+      "posted_at": "Friday 27 November 2026 at 20:32",
+      "first_scraped_at": "2026-11-28T16:06:16.972204+00:00",
+      "source_group": "Newport Jersey City 07310",
+      "search_snippet": "looking for temporary accommodation from December 6th to December 19th in Newport or Journal Square, Jersey City. Female working professional.",
+      "group_id": "1138638939835722"
     }
   ]
 }
