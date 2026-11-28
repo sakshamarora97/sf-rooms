@@ -1,7 +1,7 @@
 {
   "group_name": "NYC Metro Housing Groups",
-  "updated_at": "2026-11-27T20:26:59.427458",
-  "count": 1342,
+  "updated_at": "2026-11-27T21:20:30.557362",
+  "count": 1346,
   "posts": [
     {
       "listing_id": "2893851017647830",
@@ -41784,6 +41784,149 @@
       "first_scraped_at": "2026-11-28T04:07:44.822896+00:00",
       "source_group": "New York City Apartments & Rooms For Rent",
       "search_snippet": "in Dec 1-5",
+      "group_id": "312692887868061"
+    },
+    {
+      "listing_id": "2292267694671358",
+      "post_type": "seeker",
+      "duration_type": null,
+      "move_in_date": "2026-01-01",
+      "move_out_date": null,
+      "budget_min": null,
+      "budget_max": 2200,
+      "unit_type_wanted": [
+        "1B1B",
+        "2B2B"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "Park Slope",
+        "Astoria",
+        "Brooklyn",
+        "Queens",
+        "Manhattan"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": true,
+      "seeker_pets": true,
+      "prefs_notes": "Has 3 ESA cats",
+      "reason": null,
+      "age": null,
+      "bio": "Ready to sign a lease and can provide paystubs. Has three ESA cats.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2292267694671358",
+      "posted_at": "Friday 27 November 2026 at 20:19",
+      "first_scraped_at": "2026-11-28T05:09:05.115307+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "1bed sublet/lease takeover I'm looking for a one bedroom or to join a lease in a 2 bed/2 bath with",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2291908068040654",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-01",
+      "move_out_date": "2027-01-31",
+      "budget_min": null,
+      "budget_max": 3000,
+      "unit_type_wanted": [
+        "studio",
+        "1B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Manhattan"
+      ],
+      "area": "Manhattan",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "relocation",
+      "age": null,
+      "bio": "Pilot relocating to NYC, seeking a roughly two-month sublet (Dec 1\u2013Jan 31). Clean, quiet, non-smoker; often away nights for work.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2291908068040654",
+      "posted_at": "Friday 27 November 2026 at 12:07",
+      "first_scraped_at": "2026-11-28T05:09:05.115307+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "Dec 1 Jan 31 Hi everyone! I'm a pilot relocating to NYC and looking for a place for about 2",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "2291897054708422",
+      "post_type": "seeker",
+      "duration_type": "long_term",
+      "move_in_date": "2026-12-15",
+      "move_out_date": null,
+      "budget_min": 1500,
+      "budget_max": 1750,
+      "unit_type_wanted": [
+        "2B1B",
+        "3B1B",
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Bushwick",
+        "East Williamsburg",
+        "Bed-Stuy"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": null,
+      "seeker_pets": null,
+      "prefs_notes": null,
+      "reason": "other",
+      "age": 27,
+      "bio": "27-year-old freelance filmmaker; often on set or traveling, works from home sometimes; enjoys bouldering, biking, galleries and exploring the city.",
+      "post_url": "https://www.facebook.com/groups/I9150/posts/2291897054708422",
+      "posted_at": "Friday 27 November 2026 at 11:50",
+      "first_scraped_at": "2026-11-28T05:09:05.115307+00:00",
+      "source_group": "NYC Rooms for Rent roommates, rooms, apartments + sublets",
+      "search_snippet": "or roommates Dec/Jan move in Hey! Looking for a lease takeover or a couple of roommates that would be interested",
+      "group_id": "149460102285472"
+    },
+    {
+      "listing_id": "1027797789690897",
+      "post_type": "seeker",
+      "duration_type": "short_term",
+      "move_in_date": "2026-12-10",
+      "move_out_date": "2027-03-10",
+      "budget_min": null,
+      "budget_max": 1500,
+      "unit_type_wanted": [
+        "room"
+      ],
+      "preferred_neighborhoods": [
+        "Prospect Lefferts Gardens",
+        "Crown Heights",
+        "Park Slope",
+        "Bushwick",
+        "Bed-Stuy",
+        "Astoria",
+        "Long Island City",
+        "East Harlem",
+        "Upper West Side",
+        "Morningside Heights",
+        "Lower East Side",
+        "East Village"
+      ],
+      "area": "Brooklyn",
+      "furnished_required": null,
+      "group_size": 1,
+      "has_pets": false,
+      "seeker_pets": null,
+      "prefs_notes": "Young professional; no pets",
+      "reason": null,
+      "age": null,
+      "bio": "Young professional and Columbia graduate who works in-person in New York. Clean, quiet non-smoker seeking a private room.",
+      "post_url": "https://www.facebook.com/groups/312692887868061/posts/1027797789690897",
+      "posted_at": "Friday 27 November 2026 at 20:39",
+      "first_scraped_at": "2026-11-28T05:09:05.115307+00:00",
+      "source_group": "New York City Apartments & Rooms For Rent",
+      "search_snippet": "am looking for a room in New York from Dec 10. I am Rishav, a Columbia graduate, working in person",
       "group_id": "312692887868061"
     }
   ]
